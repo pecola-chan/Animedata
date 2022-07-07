@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T17:15:46.000Z",
+  "checkedAt": "2022-05-14T17:15:46.000Z",
+  "id": 14277,
+  "type": "anime",
+  "title": "Chitose Get You!!",
+  "altTitle": [
+    "ちとせげっちゅ!!"
+  ],
+  "url": "https://myanimelist.net/anime/14277/Chitose_Get_You",
+  "image": "https://cdn.myanimelist.net/images/anime/10/50537.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.takeshobo.co.jp/sp/tv_chitose/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9158"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14256"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ちとせげっちゅ!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-246432"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9158,
+  "Pages": {
+    "9anime": {
+      "v5m4": {
+        "createdAt": "2020-10-12T15:55:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9238,
+        "identifier": "v5m4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chitose Get You!!",
+        "url": "https://9anime.to/watch/chitose-get-you.v5m4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mY__3BnZ5lc/V6H4RRWy4JI/AAAAAAAA0Fw/ZwMS0ctHu2E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14277,
+        "aniId": 14277,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chitose-get-you": {
+        "createdAt": "2022-04-08T21:30:43.000Z",
+        "updatedAt": "2022-04-08T22:00:22.000Z",
+        "checkedAt": null,
+        "id": 40675,
+        "identifier": "chitose-get-you",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chitose Get You!!",
+        "url": "https://gogoanime.fi/category/chitose-get-you",
+        "image": "https://gogocdn.net/images/anime/C/chitose-get-you.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14277,
+        "aniId": 14277,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "14277": {
+        "identifier": "14277",
+        "malId": 14277,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chitose Get You!!",
+        "url": "https://animixplay.to/anime/14277"
+      }
+    },
+    "YugenAnime": {
+      "4547": {
+        "identifier": "4547",
+        "malId": 14277,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chitose Get You!!",
+        "url": "https://yugen.to/anime/4547/chitose-get-you/"
+      }
+    }
+  }
+}

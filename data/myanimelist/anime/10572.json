@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-14T16:06:32.000Z",
+  "checkedAt": "2022-05-14T16:06:32.000Z",
+  "id": 10572,
+  "type": "anime",
+  "title": "Ro-Kyu-Bu!",
+  "altTitle": [
+    "Rou-Kyuu-Bu!",
+    "Rou-Kyu-Bu!",
+    "Ro-Kyu-Bu: Fast Break",
+    "Ro-Kyu-Bu ~ Fast Break!",
+    "ロウきゅーぶ!"
+  ],
+  "url": "https://myanimelist.net/anime/10572/Ro-Kyu-Bu",
+  "image": "https://cdn.myanimelist.net/images/anime/11/32643.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ro-kyu-bu.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8371"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12864"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ro-Kyu-Bu!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/ro-kyu-bu-fast-break"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8371,
+  "Pages": {
+    "9anime": {
+      "13p": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 818,
+        "identifier": "13p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ro-Kyu-Bu!",
+        "url": "https://9anime.to/watch/ro-kyu-bu.13p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CtRrwq4bf7E/V3p41D2NAmI/AAAAAAAAtT0/MzOTwFmfHjg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10572,
+        "aniId": 10572,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ro-kyu-bu": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20304,
+        "identifier": "ro-kyu-bu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ro-Kyu-Bu!",
+        "url": "https://gogoanime.vc/category/ro-kyu-bu",
+        "image": "https://gogocdn.net/images/anime/Ro-Kyu-Bu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10572,
+        "aniId": 10572,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "668": {
+        "identifier": "668",
+        "malId": 10572,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ro-Kyu-Bu!",
+        "url": "https://animepahe.com/a/668"
+      }
+    },
+    "AniMixPlay": {
+      "10572": {
+        "identifier": "10572",
+        "malId": 10572,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ro-Kyu-Bu!",
+        "url": "https://animixplay.to/anime/10572"
+      }
+    },
+    "YugenAnime": {
+      "730": {
+        "identifier": "730",
+        "malId": 10572,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ro-Kyu-Bu!",
+        "url": "https://yugen.to/anime/730/ro-kyu-bu/"
+      }
+    }
+  }
+}

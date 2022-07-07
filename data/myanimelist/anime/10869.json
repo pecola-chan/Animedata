@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-15T00:01:41.000Z",
+  "checkedAt": "2022-05-15T00:01:41.000Z",
+  "id": 10869,
+  "type": "anime",
+  "title": "Scan2Go",
+  "altTitle": [
+    "Scan2Go",
+    "스캔2고"
+  ],
+  "url": "https://myanimelist.net/anime/10869/Scan2Go",
+  "image": "https://cdn.myanimelist.net/images/anime/1544/100121.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tv.sbs.co.kr/scan2go/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8668"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14365"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Scan2Go"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8668,
+  "Pages": {
+    "9anime": {
+      "p6o4": {
+        "createdAt": "2020-10-12T15:54:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7888,
+        "identifier": "p6o4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Scan2Go (Dub)",
+        "url": "https://9anime.to/watch/scan2go-dub.p6o4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FUV6XMZrWVI/WGdHf_nIdgI/AAAAAAABVtA/0Q4LJPDM5oo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10869,
+        "aniId": 10869,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "scan2go-dub": {
+        "createdAt": "2022-02-21T13:54:14.000Z",
+        "updatedAt": "2022-02-21T14:17:39.000Z",
+        "checkedAt": null,
+        "id": 40185,
+        "identifier": "scan2go-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Scan2Go (Dub)",
+        "url": "https://gogoanime.fi/category/scan2go-dub",
+        "image": "https://gogocdn.net/cover/scan2go-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10869,
+        "aniId": 10869,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10869": {
+        "identifier": "10869",
+        "malId": 10869,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Scan2Go",
+        "url": "https://animixplay.to/anime/10869"
+      }
+    },
+    "YugenAnime": {
+      "3296": {
+        "identifier": "3296",
+        "malId": 10869,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Scan2Go",
+        "url": "https://yugen.to/anime/3296/scan2go/"
+      }
+    }
+  }
+}

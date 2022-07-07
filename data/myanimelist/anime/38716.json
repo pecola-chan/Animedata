@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T19:23:59.000Z",
+  "checkedAt": "2022-05-14T19:23:59.000Z",
+  "id": 38716,
+  "type": "anime",
+  "title": "Mobile Suit Gundam: Hathaway's Flash 2",
+  "altTitle": [
+    "Kidou Senshi Gundam: Senkou no Hathaway 2",
+    "Mobile Suit Gundam Hathaway: Sun of Bright",
+    "機動戦士ガンダム 閃光のハサウェイ 「サン オブ ブライト」"
+  ],
+  "url": "https://myanimelist.net/anime/38716/Mobile_Suit_Gundam__Hathaways_Flash_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1019/96548.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14043"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14043,
+  "Pages": {
+    "9anime": {
+      "w2zo": {
+        "createdAt": "2020-10-12T15:56:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9628,
+        "identifier": "w2zo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam: Hathaway's Flash 2",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-hathaways-flash-2.w2zo",
+        "image": "https://static.akacdn.ru/files/images/2018/12/1d88f640137e68c624c55b10987d8db6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38716,
+        "aniId": 113971,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38716": {
+        "identifier": "38716",
+        "malId": 38716,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam: Hathaway's Flash 2",
+        "url": "https://animixplay.to/anime/38716"
+      }
+    }
+  }
+}

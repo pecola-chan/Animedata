@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T09:45:35.000Z",
+  "checkedAt": "2022-05-14T09:45:35.000Z",
+  "id": 38480,
+  "type": "anime",
+  "title": "Toaru Kagaku no Accelerator",
+  "altTitle": [
+    "To Aru Majutsu no Index Gaiden, Toaru Kagaku no Ippou Tsuukou",
+    "A Certain Scientific Accelerator",
+    "とある科学の一方通行〈アクセラレータ〉"
+  ],
+  "url": "https://myanimelist.net/anime/38480/Toaru_Kagaku_no_Accelerator",
+  "image": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://toaru-project.com/accelerator/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14440"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21485"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Certain_Scientific_Accelerator#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278389"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/a-certain-scientific-accelerator"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14440,
+  "Pages": {
+    "9anime": {
+      "7vwj": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3593,
+        "identifier": "7vwj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Certain Scientific Accelerator",
+        "url": "https://9anime.to/watch/a-certain-scientific-accelerator.7vwj",
+        "image": "http://static.akacdn.ru/static/images/2018/10/7aab06aab30780ba9266d6bbb095b7e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38480,
+        "aniId": 104463,
+        "deletedAt": null
+      },
+      "8r73": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4003,
+        "identifier": "8r73",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Certain Scientific Accelerator (Dub)",
+        "url": "https://9anime.to/watch/a-certain-scientific-accelerator-dub.8r73",
+        "image": "https://static.akacdn.ru/files/images/2019/07/4ee606e2954823e89bcdbe5d439dc0d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38480,
+        "aniId": 104463,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "toaru-kagaku-no-accelerator": {
+        "createdAt": "2020-10-12T16:02:06.000Z",
+        "updatedAt": "2022-06-13T23:00:46.000Z",
+        "checkedAt": "2022-06-13T23:00:46.000Z",
+        "id": 21124,
+        "identifier": "toaru-kagaku-no-accelerator",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toaru Kagaku no Accelerator",
+        "url": "https://gogoanime.sk/category/toaru-kagaku-no-accelerator",
+        "image": "https://gogocdn.net/cover/toaru-kagaku-no-accelerator.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38480,
+        "aniId": 104463,
+        "deletedAt": null
+      },
+      "toaru-kagaku-no-accelerator-dub": {
+        "createdAt": "2020-10-12T16:02:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21125,
+        "identifier": "toaru-kagaku-no-accelerator-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toaru Kagaku no Accelerator (Dub)",
+        "url": "https://gogoanime.vc/category/toaru-kagaku-no-accelerator-dub",
+        "image": "https://cdnimg.xyz/cover/toaru-kagaku-no-accelerator-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38480,
+        "aniId": 104463,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3336": {
+        "identifier": "3336",
+        "malId": 38480,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toaru Kagaku no Accelerator",
+        "url": "https://animepahe.com/a/3336"
+      }
+    },
+    "AniMixPlay": {
+      "38480": {
+        "identifier": "38480",
+        "malId": 38480,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toaru Kagaku no Accelerator",
+        "url": "https://animixplay.to/anime/38480"
+      }
+    },
+    "YugenAnime": {
+      "793": {
+        "identifier": "793",
+        "malId": 38480,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Toaru Kagaku no Accelerator",
+        "url": "https://yugen.to/anime/793/toaru-kagaku-no-accelerator/"
+      }
+    }
+  }
+}

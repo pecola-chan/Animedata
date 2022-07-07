@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-15T00:51:23.000Z",
+  "checkedAt": "2022-05-15T00:51:23.000Z",
+  "id": 13249,
+  "type": "anime",
+  "title": "Lupin VIII",
+  "altTitle": [
+    "ルパン8世"
+  ],
+  "url": "https://myanimelist.net/anime/13249/Lupin_VIII",
+  "image": "https://cdn.myanimelist.net/images/anime/4/89537.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://lupin40.com/disk/index4.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9861"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2155"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%91%E3%83%B38%E4%B8%96"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9861,
+  "Pages": {
+    "9anime": {
+      "0z89": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 753,
+        "identifier": "0z89",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin VIII",
+        "url": "https://9anime.to/watch/lupin-viii.0z89",
+        "image": "https://static.akacdn.ru/files/images/4/47/475e5fe71db7a5e8d3e3613904f3107b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13249,
+        "aniId": 13249,
+        "deletedAt": null
+      }
+    }
+  }
+}

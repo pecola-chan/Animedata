@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T18:57:59.000Z",
+  "checkedAt": "2022-05-14T18:57:59.000Z",
+  "id": 32977,
+  "type": "anime",
+  "title": "Aggressive Retsuko",
+  "altTitle": [
+    "Aggretsuko",
+    "アグレッシブ烈子"
+  ],
+  "url": "https://myanimelist.net/anime/32977/Aggressive_Retsuko",
+  "image": "https://cdn.myanimelist.net/images/anime/2/84193.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ishop.tbs.co.jp/special/tbs/retsuko/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12002"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20606"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/アグレッシブ烈子"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12002,
+  "Pages": {
+    "9anime": {
+      "zx2p": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11328,
+        "identifier": "zx2p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aggressive Retsuko",
+        "url": "https://9anime.to/watch/aggressive-retsuko.zx2p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NUYaJNajlZM/V63PRzdFbVI/AAAAAAAA2mQ/JwyZisyPp-Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32977,
+        "aniId": 21726,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aggressive-retsuko": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16387,
+        "identifier": "aggressive-retsuko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aggressive Retsuko",
+        "url": "https://gogoanime.vc/category/aggressive-retsuko",
+        "image": "https://images.gogoanime.tv/cover/aggressive-retsuko.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32977,
+        "aniId": 21726,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "32977": {
+        "identifier": "32977",
+        "malId": 32977,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aggressive Retsuko",
+        "url": "https://animixplay.to/anime/32977"
+      }
+    },
+    "YugenAnime": {
+      "1731": {
+        "identifier": "1731",
+        "malId": 32977,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aggressive Retsuko",
+        "url": "https://yugen.to/anime/1731/aggressive-retsuko/"
+      }
+    }
+  }
+}

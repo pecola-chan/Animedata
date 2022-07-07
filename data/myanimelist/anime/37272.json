@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T20:50:41.000Z",
+  "checkedAt": "2022-05-14T20:50:41.000Z",
+  "id": 37272,
+  "type": "anime",
+  "title": "Kujira no Kora wa Sajou ni Manabu!",
+  "altTitle": [
+    "Kujira no Kora wa Sajou ni Utau Specials",
+    "クジラの子らは砂上に学ぶ!"
+  ],
+  "url": "https://myanimelist.net/anime/37272/Kujira_no_Kora_wa_Sajou_ni_Manabu",
+  "image": "https://cdn.myanimelist.net/images/anime/1857/90626.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kujisuna-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12712"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Children_of_the_Whales"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12712,
+  "Pages": {
+    "9anime": {
+      "zyv2": {
+        "createdAt": "2020-10-12T15:57:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11363,
+        "identifier": "zyv2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kujira no Kora wa Sajou ni Manabu!",
+        "url": "https://9anime.to/watch/kujira-no-kora-wa-sajou-ni-manabu.zyv2",
+        "image": "http://static.akacdn.ru/static/images/2018/02/0b6e9fce45105939389de040b7b22fda.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37272,
+        "aniId": 100912,
+        "deletedAt": null
+      }
+    }
+  }
+}

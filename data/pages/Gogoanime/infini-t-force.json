@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T16:00:49.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18469,
+  "identifier": "infini-t-force",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Infini-T Force",
+  "url": "https://gogoanime.vc/category/infini-t-force",
+  "image": "https://images.gogoanime.tv/cover/infini-t-force.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 33027,
+  "aniId": 21756,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:44.000Z",
+    "updatedAt": "2022-05-14T21:29:35.000Z",
+    "checkedAt": "2022-05-14T21:29:35.000Z",
+    "id": 33027,
+    "type": "anime",
+    "title": "Infini-T Force",
+    "altTitle": [
+      "Infini-T Force"
+    ],
+    "url": "https://myanimelist.net/anime/33027/Infini-T_Force",
+    "image": "https://cdn.myanimelist.net/images/anime/6/88430.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.infini-tforce.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12034"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19401"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Infini-T_Force"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/infini-t-force"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 12034
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:04.000Z",
+    "updatedAt": "2022-05-15T11:51:23.000Z",
+    "checkedAt": "2022-05-15T11:51:23.000Z",
+    "id": 21756,
+    "type": "anime",
+    "title": "Infini-T Force",
+    "altTitle": [
+      "Infini-T Force",
+      "インフィニティフォース"
+    ],
+    "url": "https://anilist.co/anime/21756",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21756-nAxST1ag5idY.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/infini-t-force/"
+      }
+    ],
+    "malId": 33027,
+    "deletedAt": null
+  }
+}

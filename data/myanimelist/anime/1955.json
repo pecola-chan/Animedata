@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-15T07:29:22.000Z",
+  "checkedAt": "2022-05-15T07:29:22.000Z",
+  "id": 1955,
+  "type": "anime",
+  "title": "Kimagure Robot",
+  "altTitle": [
+    "The Capricious Robot",
+    "きまぐれロボット"
+  ],
+  "url": "https://myanimelist.net/anime/1955/Kimagure_Robot",
+  "image": "https://cdn.myanimelist.net/images/anime/1210/112166.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.studio4c.co.jp/kimagurerobot/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2663"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4434"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2663,
+  "Pages": {
+    "9anime": {
+      "8p03": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3954,
+        "identifier": "8p03",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimagure Robot",
+        "url": "https://9anime.to/watch/kimagure-robot.8p03",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cGU3cg3WSxg/WHXJsNsjU9I/AAAAAAABYpY/wPBt8Horuk0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1955,
+        "aniId": 1955,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kimagure-robot": {
+        "createdAt": "2021-10-18T09:58:45.000Z",
+        "updatedAt": "2021-10-18T10:28:45.000Z",
+        "checkedAt": null,
+        "id": 39051,
+        "identifier": "kimagure-robot",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimagure Robot",
+        "url": "https://gogoanime.pe/category/kimagure-robot",
+        "image": "https://gogocdn.net/cover/kimagure-robot.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1955,
+        "aniId": 1955,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1955": {
+        "identifier": "1955",
+        "malId": 1955,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimagure Robot",
+        "url": "https://animixplay.to/anime/1955"
+      }
+    },
+    "YugenAnime": {
+      "9965": {
+        "identifier": "9965",
+        "malId": 1955,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kimagure Robot",
+        "url": "https://yugen.to/anime/9965/kimagure-robot/"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T23:16:41.000Z",
+  "checkedAt": "2022-05-14T23:16:41.000Z",
+  "id": 2155,
+  "type": "anime",
+  "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+  "altTitle": [
+    "この青空に約束を― ～ようこそつぐみ寮へ～"
+  ],
+  "url": "https://myanimelist.net/anime/2155/Kono_Aozora_ni_Yakusoku_wo__Youkoso_Tsugumi_Ryou_e",
+  "image": "https://cdn.myanimelist.net/images/anime/3/75248.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/konnyaku/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5069"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7687"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kono_Aozora_ni_Yakusoku_o"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-53158"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5069,
+  "Pages": {
+    "9anime": {
+      "yjrz": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-07-13T16:51:03.000Z",
+        "checkedAt": null,
+        "id": 10694,
+        "identifier": "yjrz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "url": "https://9anime.to/watch/kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e.yjrz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/0ddd2e0a0545d73d3f7e6c2a14c76c25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2155,
+        "aniId": 2155,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2155": {
+        "identifier": "2155",
+        "malId": 2155,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "url": "https://animixplay.to/anime/2155"
+      }
+    }
+  }
+}

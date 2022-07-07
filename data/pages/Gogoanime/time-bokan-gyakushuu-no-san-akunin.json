@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T16:02:05.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21107,
+  "identifier": "time-bokan-gyakushuu-no-san-akunin",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Time Bokan: Gyakushuu no San Akunin",
+  "url": "https://gogoanime.vc/category/time-bokan-gyakushuu-no-san-akunin",
+  "image": "https://images.gogoanime.tv/cover/time-bokan-gyakushuu-no-san-akunin.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 35254,
+  "aniId": 98521,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:53.000Z",
+    "updatedAt": "2022-05-14T18:04:11.000Z",
+    "checkedAt": "2022-05-14T18:04:11.000Z",
+    "id": 35254,
+    "type": "anime",
+    "title": "Time Bokan: Gyakushuu no San Akunin",
+    "altTitle": [
+      "Time Bokan 24 2nd Season",
+      "Time Bokan: The Villains Strike Back",
+      "タイムボカン 逆襲の三悪人"
+    ],
+    "url": "https://myanimelist.net/anime/35254/Time_Bokan__Gyakushuu_no_San_Akunin",
+    "image": "https://cdn.myanimelist.net/images/anime/9/88224.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ytv.co.jp/timebokan24/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13039"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20001"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Time_Bokan_24"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-267947"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 13039
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:25.000Z",
+    "updatedAt": "2022-05-15T11:11:11.000Z",
+    "checkedAt": "2022-05-15T11:11:11.000Z",
+    "id": 98521,
+    "type": "anime",
+    "title": "Time Bokan: Gyakushuu no San-Akunin",
+    "altTitle": [
+      "Time Bokan: The Villains' Strike Back",
+      "タイムボカン 逆襲の三悪人",
+      "Time Bokan: Three Bad Guys' Counterattack",
+      "Time Bokan 24 2nd Season"
+    ],
+    "url": "https://anilist.co/anime/98521",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98521-WTX6Uvf7DivL.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/time-bokan-24"
+      }
+    ],
+    "malId": 35254,
+    "deletedAt": null
+  }
+}

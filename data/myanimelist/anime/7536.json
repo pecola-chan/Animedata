@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-06-25T11:02:31.000Z",
+  "checkedAt": "2022-06-25T11:02:31.000Z",
+  "id": 7536,
+  "type": "anime",
+  "title": "Soukou Kihei Votoms: Pailsen Files Movie",
+  "altTitle": [
+    "Soukou Kihei Votoms: Pailsen Files - Gekijouban",
+    "Armored Trooper Votoms: Pailsen Files the Movie",
+    "装甲騎兵ボトムズ ペールゼン・ファイルズ 劇場版"
+  ],
+  "url": "https://myanimelist.net/anime/7536/Soukou_Kihei_Votoms__Pailsen_Files_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/5/18067.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.votoms.net/movie/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6722"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10255"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Armored_Trooper_Votoms"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6722,
+  "Pages": {
+    "9anime": {
+      "qpm3": {
+        "createdAt": "2020-10-12T15:55:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8505,
+        "identifier": "qpm3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soukou Kihei Votoms: Pailsen Files the Movie",
+        "url": "https://9anime.to/watch/soukou-kihei-votoms-pailsen-files-the-movie.qpm3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sZ2l1KG36MU/WMDIMHYd9iI/AAAAAAABfAM/_XXXok78jPs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7536,
+        "aniId": 7536,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7536": {
+        "identifier": "7536",
+        "malId": 7536,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Soukou Kihei Votoms: Pailsen Files Movie",
+        "url": "https://animixplay.to/anime/7536"
+      }
+    }
+  }
+}

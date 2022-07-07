@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T19:40:11.000Z",
+  "checkedAt": "2022-05-14T19:40:11.000Z",
+  "id": 1250,
+  "type": "anime",
+  "title": "Erementar Gerad",
+  "altTitle": [
+    "Erementar Gerade",
+    "Elemental Gelade",
+    "エレメンタルジェレイド"
+  ],
+  "url": "https://myanimelist.net/anime/1250/Erementar_Gerad",
+  "image": "https://cdn.myanimelist.net/images/anime/2/79163.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.erementar-gerad.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2183"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4165"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Elemental_Gelade"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277981"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2183,
+  "Pages": {
+    "9anime": {
+      "6wk0": {
+        "createdAt": "2020-10-12T15:50:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3215,
+        "identifier": "6wk0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Erementar Gerad",
+        "url": "https://9anime.to/watch/erementar-gerad.6wk0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-klc-7uAK37I/V7BQpli2oJI/AAAAAAAA2_o/jTI0L_41O6M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1250,
+        "aniId": 1250,
+        "deletedAt": null
+      },
+      "xx0q": {
+        "createdAt": "2020-10-12T15:56:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10411,
+        "identifier": "xx0q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Erementar Gerad (Dub)",
+        "url": "https://9anime.to/watch/erementar-gerad-dub.xx0q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-D7o6JtaL3oE/V-Pztl2HGLI/AAAAAAAA_vM/DdHaDy-d81g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1250,
+        "aniId": 1250,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "elemental-gelade": {
+        "createdAt": "2020-10-12T16:00:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17546,
+        "identifier": "elemental-gelade",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Elemental Gelade",
+        "url": "https://gogoanime.vc/category/elemental-gelade",
+        "image": "https://gogocdn.net/images/anime/E/elemental-gelade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1250,
+        "aniId": 1250,
+        "deletedAt": null
+      },
+      "elemental-gelade-dub": {
+        "createdAt": "2021-07-08T03:43:30.000Z",
+        "updatedAt": "2021-07-08T04:13:16.000Z",
+        "checkedAt": null,
+        "id": 37729,
+        "identifier": "elemental-gelade-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Elemental Gelade (Dub)",
+        "url": "https://gogoanime.pe/category/elemental-gelade-dub",
+        "image": "https://gogocdn.net/cover/elemental-gelade-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1250,
+        "aniId": 1250,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1250": {
+        "identifier": "1250",
+        "malId": 1250,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Erementar Gerad",
+        "url": "https://animixplay.to/anime/1250"
+      }
+    },
+    "YugenAnime": {
+      "6596": {
+        "identifier": "6596",
+        "malId": 1250,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Erementar Gerad",
+        "url": "https://yugen.to/anime/6596/elemental-gelade/"
+      }
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-14T16:51:47.000Z",
+  "checkedAt": "2022-05-14T16:51:47.000Z",
+  "id": 35557,
+  "type": "anime",
+  "title": "Houseki no Kuni (TV)",
+  "altTitle": [
+    "Country of Jewels",
+    "Land of the Lustrous",
+    "宝石の国"
+  ],
+  "url": "https://myanimelist.net/anime/35557/Houseki_no_Kuni_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/3/88293.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://land-of-the-lustrous.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13165"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19614"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Houseki_no_Kuni"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/land-of-the-lustrous"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13165,
+  "Pages": {
+    "9anime": {
+      "y4rp": {
+        "createdAt": "2020-10-12T15:56:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10562,
+        "identifier": "y4rp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Land of the Lustrous (Dub)",
+        "url": "https://9anime.to/watch/land-of-the-lustrous-dub.y4rp",
+        "image": "https://static.akacdn.ru/static/images/2019/01/391a5859067b882589e10e2bf00b4e29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35557,
+        "aniId": 98707,
+        "deletedAt": null
+      },
+      "y5r0": {
+        "createdAt": "2020-10-12T15:56:49.000Z",
+        "updatedAt": "2022-06-14T03:34:43.000Z",
+        "checkedAt": "2022-06-14T03:34:43.000Z",
+        "id": 10583,
+        "identifier": "y5r0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Houseki no Kuni",
+        "url": "https://9anime.to/watch/land-of-the-lustrous.y5r0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/e2d33403dda901e110d841387c5d1000.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35557,
+        "aniId": 98707,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "houseki-no-kuni-dub": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18379,
+        "identifier": "houseki-no-kuni-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Houseki no Kuni (Dub)",
+        "url": "https://gogoanime.vc/category/houseki-no-kuni-dub",
+        "image": "https://cdnimg.xyz/cover/houseki-no-kuni-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35557,
+        "aniId": 98707,
+        "deletedAt": null
+      },
+      "houseki-no-kuni-tv": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18380,
+        "identifier": "houseki-no-kuni-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Houseki no Kuni (TV)",
+        "url": "https://gogoanime.vc/category/houseki-no-kuni-tv",
+        "image": "https://images.gogoanime.tv/cover/houseki-no-kuni-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35557,
+        "aniId": 98707,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2306": {
+        "identifier": "2306",
+        "malId": 35557,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Houseki no Kuni (TV)",
+        "url": "https://animepahe.com/a/2306"
+      }
+    },
+    "AniMixPlay": {
+      "35557": {
+        "identifier": "35557",
+        "malId": 35557,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Houseki no Kuni (TV)",
+        "url": "https://animixplay.to/anime/35557"
+      }
+    },
+    "YugenAnime": {
+      "6056": {
+        "identifier": "6056",
+        "malId": 35557,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Houseki no Kuni (TV)",
+        "url": "https://yugen.to/anime/6056/houseki-no-kuni-tv/"
+      }
+    }
+  }
+}

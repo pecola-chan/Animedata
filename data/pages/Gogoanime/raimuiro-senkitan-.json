@@ -1,0 +1,78 @@
+{
+  "createdAt": "2021-01-05T15:57:12.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32992,
+  "identifier": "raimuiro-senkitan-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Raimuiro Senkitan ",
+  "url": "https://gogoanime.vc/category/raimuiro-senkitan-",
+  "image": "https://gogocdn.net/images/anime/R/raimuiro-senkitan.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1097,
+  "aniId": 1097,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:12.000Z",
+    "updatedAt": "2022-05-14T19:21:29.000Z",
+    "checkedAt": "2022-05-14T19:21:29.000Z",
+    "id": 1097,
+    "type": "anime",
+    "title": "Lime-iro Senkitan",
+    "altTitle": [
+      "Raimuiro Senkitan",
+      "Lime-Colored History of War",
+      "Lime-iro Senkitan: Meiji Nippon, Otome Sakimorisu.",
+      "らいむいろ戦奇譚"
+    ],
+    "url": "https://myanimelist.net/anime/1097/Lime-iro_Senkitan",
+    "image": "https://cdn.myanimelist.net/images/anime/6/75503.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.limeiro.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=448"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2151"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Raimuiro_Senkitan"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 448
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:56.000Z",
+    "updatedAt": "2022-05-15T16:42:35.000Z",
+    "checkedAt": "2022-05-15T16:42:35.000Z",
+    "id": 1097,
+    "type": "anime",
+    "title": "Lime-iro Senkitan",
+    "altTitle": [
+      "らいむいろ戦奇譚",
+      "Raimuiro Senkitan",
+      "Lime-Colored History of War"
+    ],
+    "url": "https://anilist.co/anime/1097",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1097.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1097,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T20:21:53.000Z",
+  "checkedAt": "2022-05-14T20:21:53.000Z",
+  "id": 1245,
+  "type": "anime",
+  "title": "Shihaisha no Tasogare",
+  "altTitle": [
+    "Twilight Of The Dark Master",
+    "支配者の黄昏"
+  ],
+  "url": "https://myanimelist.net/anime/1245/Shihaisha_no_Tasogare",
+  "image": "https://cdn.myanimelist.net/images/anime/5/4277.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1999-1997/works_ova_twilight.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=814"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=89"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twilight_of_the_Dark_Master"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 814,
+  "Pages": {
+    "9anime": {
+      "77r6": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3386,
+        "identifier": "77r6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Twilight Of The Dark Master (Dub)",
+        "url": "https://9anime.to/watch/twilight-of-the-dark-master-dub.77r6",
+        "image": "https://static.akacdn.ru/static/images/2018/04/0bed5597531268c8b11580401c783578.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1245,
+        "aniId": 1245,
+        "deletedAt": null
+      },
+      "9r4x": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4426,
+        "identifier": "9r4x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shihaisha no Tasogare",
+        "url": "https://9anime.to/watch/shihaisha-no-tasogare.9r4x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hR6v_XGqf_8/WYAYYwEK0II/AAAAAAAAAk8/qqQjXvDUBToVamv2q88bMWwE9MMtdK6WgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1245,
+        "aniId": 1245,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shihaisha-no-tasogare": {
+        "createdAt": "2022-05-18T08:21:16.539Z",
+        "updatedAt": "2022-05-18T09:20:00.000Z",
+        "checkedAt": "2022-05-18T08:21:16.000Z",
+        "id": 41012,
+        "identifier": "shihaisha-no-tasogare",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shihaisha no Tasogare",
+        "url": "https://gogoanime.sk/category/shihaisha-no-tasogare",
+        "image": "https://gogocdn.net/cover/shihaisha-no-tasogare.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1245,
+        "aniId": 1245,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1245": {
+        "identifier": "1245",
+        "malId": 1245,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shihaisha no Tasogare",
+        "url": "https://animixplay.to/anime/1245"
+      }
+    },
+    "YugenAnime": {
+      "15336": {
+        "identifier": "15336",
+        "malId": 1245,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shihaisha no Tasogare",
+        "url": "https://yugen.to/anime/15336/shihaisha-no-tasogare/"
+      }
+    }
+  }
+}

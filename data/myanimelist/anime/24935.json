@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T21:44:30.000Z",
+  "checkedAt": "2022-05-14T21:44:30.000Z",
+  "id": 24935,
+  "type": "anime",
+  "title": "Recorder to Randoseru Mi☆ Special",
+  "altTitle": [
+    "Recorder to Randoseru Mi☆ Episode 13",
+    "リコーダーとランドセル ミ☆ リコーダーとアカランドセル"
+  ],
+  "url": "https://myanimelist.net/anime/24935/Recorder_to_Randoseru_Mi☆_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/12/63955.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.takeshobo.co.jp/sp/tv_rikoran_mi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9802"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9802,
+  "Pages": {
+    "Gogoanime": {
+      "recorder-to-randoseru-mi-special": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20251,
+        "identifier": "recorder-to-randoseru-mi-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Recorder to Randoseru Mi Special",
+        "url": "https://gogoanime.vc/category/recorder-to-randoseru-mi-special",
+        "image": "https://cdnimg.xyz/images/summer/50651.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24935,
+        "aniId": 20828,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3572": {
+        "identifier": "3572",
+        "malId": 24935,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Recorder to Randoseru Mi☆ Special",
+        "url": "https://animepahe.com/a/3572"
+      }
+    },
+    "AniMixPlay": {
+      "24935": {
+        "identifier": "24935",
+        "malId": 24935,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Recorder to Randoseru Mi☆ Special",
+        "url": "https://animixplay.to/anime/24935"
+      }
+    },
+    "YugenAnime": {
+      "7063": {
+        "identifier": "7063",
+        "malId": 24935,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Recorder to Randoseru Mi☆ Special",
+        "url": "https://yugen.to/anime/7063/recorder-to-randoseru-mi-special/"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-06-23T02:25:58.000Z",
+  "checkedAt": "2022-06-23T02:25:58.000Z",
+  "id": 7139,
+  "type": "anime",
+  "title": "Gdleen",
+  "altTitle": [
+    "ガデュリン"
+  ],
+  "url": "https://myanimelist.net/anime/7139/Gdleen",
+  "image": "https://cdn.myanimelist.net/images/anime/1175/97146.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5014"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7529"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5014,
+  "Pages": {
+    "9anime": {
+      "962m": {
+        "createdAt": "2021-10-05T22:02:17.000Z",
+        "updatedAt": "2022-03-21T10:58:10.000Z",
+        "checkedAt": null,
+        "id": 38888,
+        "identifier": "962m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gdleen",
+        "url": "https://9anime.to/watch/gdleen.962m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/83ae7f01efc25846b7529e9275ac72e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7139,
+        "aniId": 7139,
+        "deletedAt": null
+      }
+    }
+  }
+}

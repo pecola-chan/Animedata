@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-15T16:46:24.000Z",
+  "checkedAt": "2022-05-15T16:46:24.000Z",
+  "id": 7176,
+  "type": "anime",
+  "title": "Cheburashka Arere?",
+  "altTitle": [
+    "チェブラーシカ あれれ？"
+  ],
+  "url": "https://myanimelist.net/anime/7176/Cheburashka_Arere",
+  "image": "https://cdn.myanimelist.net/images/anime/8/33145.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://cheb-tv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6969"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11837"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://Mizuno181009"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6969,
+  "Pages": {
+    "9anime": {
+      "rq4m": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8976,
+        "identifier": "rq4m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cheburashka Arere?",
+        "url": "https://9anime.to/watch/cheburashka-arere.rq4m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9-oXsOrFD44/WKvWbIgb7yI/AAAAAAABdkA/_LwWhIzRyWY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7176,
+        "aniId": 7176,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T16:02:14.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21375,
+  "identifier": "vivid-strike-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "ViVid Strike! OVA",
+  "url": "https://gogoanime.vc/category/vivid-strike-ova",
+  "image": "https://cdnimg.xyz/cover/vivid-strike-ova.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 34812,
+  "aniId": 98220,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:51.000Z",
+    "updatedAt": "2022-05-14T21:40:06.000Z",
+    "checkedAt": "2022-05-14T21:40:06.000Z",
+    "id": 34812,
+    "type": "anime",
+    "title": "ViVid Strike! Specials",
+    "altTitle": [
+      "ViVid Strike! OVA",
+      "ViVid Strike！新作OVA"
+    ],
+    "url": "https://myanimelist.net/anime/34812/ViVid_Strike_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/9/84018.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vivid-strike.com/dvd/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12264"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ViVid_Strike!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 12264
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:22.000Z",
+    "updatedAt": "2022-05-15T13:14:47.000Z",
+    "checkedAt": "2022-05-15T13:14:47.000Z",
+    "id": 98220,
+    "type": "anime",
+    "title": "ViVid Strike! OVA",
+    "altTitle": [
+      "ViVid Strike! OVA",
+      "ViVid Strike! OVA"
+    ],
+    "url": "https://anilist.co/anime/98220",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98220-2eOZ3BstOv8I.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 34812,
+    "deletedAt": null
+  }
+}

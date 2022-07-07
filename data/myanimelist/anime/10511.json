@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-14T22:24:54.000Z",
+  "checkedAt": "2022-05-14T22:24:54.000Z",
+  "id": 10511,
+  "type": "anime",
+  "title": "Toyama Kankou Anime Project",
+  "altTitle": [
+    "Nakaseru Sora ni Aitai: Toyama, Miwaku no Muttsu no Monogatari",
+    "Longing for a Tear Bringing Sky: Lovers in Tateyama",
+    "Longing for a Tear Bringing Cuisine: Grandpa in Goayama",
+    "Longing for a Tear Bringing Sea: A Friendship on the Beach",
+    "Longing for a Tear",
+    "Toyama Tourism Anime Project",
+    "富山観光アニメプロジェクト"
+  ],
+  "url": "https://myanimelist.net/anime/10511/Toyama_Kankou_Anime_Project",
+  "image": "https://cdn.myanimelist.net/images/anime/2/28909.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bbt.co.jp/cooltoyama/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8453"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8453,
+  "Pages": {
+    "9anime": {
+      "55o0": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2540,
+        "identifier": "55o0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toyama Tourism Anime Project",
+        "url": "https://9anime.to/watch/toyama-tourism-anime-project.55o0",
+        "image": "http://static.akacdn.ru/static/images/2018/03/e090a77b684b078ced2c557b44b871f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10511,
+        "aniId": 10511,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "toyama-kankou-anime-project": {
+        "createdAt": "2021-06-07T10:20:58.000Z",
+        "updatedAt": "2021-06-07T10:27:33.000Z",
+        "checkedAt": null,
+        "id": 37230,
+        "identifier": "toyama-kankou-anime-project",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toyama Kankou Anime Project",
+        "url": "https://gogoanime.vc/category/toyama-kankou-anime-project",
+        "image": "https://gogocdn.net/cover/toyama-kankou-anime-project.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10511,
+        "aniId": 10511,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10511": {
+        "identifier": "10511",
+        "malId": 10511,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toyama Kankou Anime Project",
+        "url": "https://animixplay.to/anime/10511"
+      }
+    },
+    "YugenAnime": {
+      "5629": {
+        "identifier": "5629",
+        "malId": 10511,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Toyama Kankou Anime Project",
+        "url": "https://yugen.to/anime/5629/young-animator-training-project-2011/"
+      }
+    }
+  }
+}

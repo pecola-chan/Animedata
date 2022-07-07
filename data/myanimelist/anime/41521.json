@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-12-30T22:17:47.000Z",
+  "updatedAt": "2022-05-14T19:51:30.000Z",
+  "checkedAt": "2022-05-14T19:51:30.000Z",
+  "id": 41521,
+  "type": "anime",
+  "title": "WIXOSS Diva(A)Live",
+  "altTitle": [
+    "WIXOSS DIVA(A)LIVE（ウィクロス ディーヴァアライブ）"
+  ],
+  "url": "https://myanimelist.net/anime/41521/WIXOSS_DivaALive",
+  "image": "https://cdn.myanimelist.net/images/anime/1779/110807.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://wixoss-diva.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15468"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23792"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WIXOSS#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280513"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15468,
+  "Pages": {
+    "9anime": {
+      "q4vj": {
+        "createdAt": "2021-01-08T18:21:42.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33250,
+        "identifier": "q4vj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "WIXOSS Diva(A)Live",
+        "url": "https://9anime.to/watch/wixoss-divaalive.q4vj",
+        "image": "//static.bunnycdn.ru/i/cache/images/3/30/3016e52eae111a18fce6314d846e7748.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41521,
+        "aniId": 116944,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wixoss-divaalive": {
+        "createdAt": "2021-01-08T18:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33253,
+        "identifier": "wixoss-divaalive",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "WIXOSS Diva(A)Live",
+        "url": "https://gogoanime.vc/category/wixoss-divaalive",
+        "image": "https://gogocdn.net/cover/wixoss-divaalive.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41521,
+        "aniId": 116944,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4204": {
+        "identifier": "4204",
+        "malId": 41521,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "WIXOSS Diva(A)Live",
+        "url": "https://animepahe.com/a/4204"
+      }
+    },
+    "AniMixPlay": {
+      "41521": {
+        "identifier": "41521",
+        "malId": 41521,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "WIXOSS Diva(A)Live",
+        "url": "https://animixplay.to/anime/41521"
+      }
+    },
+    "YugenAnime": {
+      "7107": {
+        "identifier": "7107",
+        "malId": 41521,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "WIXOSS Diva(A)Live",
+        "url": "https://yugen.to/anime/7107/wixoss-divaalive/"
+      }
+    }
+  }
+}

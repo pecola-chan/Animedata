@@ -1,0 +1,178 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-14T17:18:22.000Z",
+  "checkedAt": "2022-05-14T17:18:22.000Z",
+  "id": 31636,
+  "type": "anime",
+  "title": "Dagashi Kashi",
+  "altTitle": [
+    "Dagashikashi",
+    "Dagashi Kashi",
+    "だがしかし"
+  ],
+  "url": "https://myanimelist.net/anime/31636/Dagashi_Kashi",
+  "image": "https://cdn.myanimelist.net/images/anime/1538/95686.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/dagashi/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11601"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17723"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dagashi_Kashi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269085"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/dagashi-kashi"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11601,
+  "Pages": {
+    "9anime": {
+      "003k": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 372,
+        "identifier": "003k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dagashi Kashi (Dub)",
+        "url": "https://9anime.to/watch/dagashi-kashi-dub.003k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-E17MiIIuc6g/V8_YA24vJ9I/AAAAAAAA8Ho/BhKp5obgado/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31636,
+        "aniId": 21365,
+        "deletedAt": null
+      },
+      "ol8": {
+        "createdAt": "2020-10-12T15:54:13.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7518,
+        "identifier": "ol8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dagashi Kashi",
+        "url": "https://9anime.to/watch/dagashi-kashi.ol8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-p2UtH6KB0CU/V3Ewdk9f7dI/AAAAAAAArdY/DW6bGL8VUG8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31636,
+        "aniId": 21365,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dagashi-kashi": {
+        "createdAt": "2020-10-12T16:00:11.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17223,
+        "identifier": "dagashi-kashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dagashi Kashi",
+        "url": "https://gogoanime.vc/category/dagashi-kashi",
+        "image": "https://cdnimg.xyz/images/upload/180234.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31636,
+        "aniId": 21365,
+        "deletedAt": null
+      },
+      "dagashi-kashi-2-dub": {
+        "createdAt": "2020-10-12T16:00:11.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17225,
+        "identifier": "dagashi-kashi-2-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dagashi Kashi 2 (Dub)",
+        "url": "https://gogoanime.vc/category/dagashi-kashi-2-dub",
+        "image": "https://gogocdn.net/cover/dagashi-kashi-2-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31636,
+        "aniId": 21365,
+        "deletedAt": null
+      },
+      "dagashi-kashi-dub": {
+        "createdAt": "2021-05-11T04:42:11.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36956,
+        "identifier": "dagashi-kashi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dagashi Kashi (Dub)",
+        "url": "https://gogoanime.vc/category/dagashi-kashi-dub",
+        "image": "https://gogocdn.net/cover/dagashi-kashi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31636,
+        "aniId": 21365,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "314": {
+        "identifier": "314",
+        "malId": 31636,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dagashi Kashi",
+        "url": "https://animepahe.com/a/314"
+      }
+    },
+    "AniMixPlay": {
+      "31636": {
+        "identifier": "31636",
+        "malId": 31636,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dagashi Kashi",
+        "url": "https://animixplay.to/anime/31636"
+      }
+    },
+    "YugenAnime": {
+      "4584": {
+        "identifier": "4584",
+        "malId": 31636,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dagashi Kashi",
+        "url": "https://yugen.to/anime/4584/dagashi-kashi/"
+      }
+    }
+  }
+}

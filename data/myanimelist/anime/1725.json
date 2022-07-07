@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-14T22:37:11.000Z",
+  "checkedAt": "2022-05-14T22:37:11.000Z",
+  "id": 1725,
+  "type": "anime",
+  "title": "Keitai Shoujo",
+  "altTitle": [
+    "Cell Phone Girl",
+    "ケータイ少女"
+  ],
+  "url": "https://myanimelist.net/anime/1725/Keitai_Shoujo",
+  "image": "https://cdn.myanimelist.net/images/anime/7/18524.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ktai-s.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4778"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7480"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4778,
+  "Pages": {
+    "9anime": {
+      "o03j": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7315,
+        "identifier": "o03j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keitai Shoujo",
+        "url": "https://9anime.to/watch/keitai-shoujo.o03j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aH8VQid59Pw/WH24LoQuPuI/AAAAAAABZto/AOVfc9ruQ2M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1725,
+        "aniId": 1725,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "keitai-shoujo": {
+        "createdAt": "2020-11-02T16:24:23.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28747,
+        "identifier": "keitai-shoujo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keitai Shoujo",
+        "url": "https://gogoanime.vc/category/keitai-shoujo",
+        "image": "https://gogocdn.net/images/anime/K/Keitai-Shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1725,
+        "aniId": 1725,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1725": {
+        "identifier": "1725",
+        "malId": 1725,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keitai Shoujo",
+        "url": "https://animixplay.to/anime/1725"
+      }
+    },
+    "YugenAnime": {
+      "2324": {
+        "identifier": "2324",
+        "malId": 1725,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Keitai Shoujo",
+        "url": "https://yugen.to/anime/2324/keitai-shoujo/"
+      }
+    }
+  }
+}

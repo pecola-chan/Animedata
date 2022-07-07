@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-14T23:20:41.000Z",
+  "checkedAt": "2022-05-14T23:20:41.000Z",
+  "id": 36858,
+  "type": "anime",
+  "title": "Usuzumizakura: Garo",
+  "altTitle": [
+    "Garo: The Fleeting Cherry Blossom",
+    "薄墨桜 -GARO-"
+  ],
+  "url": "https://myanimelist.net/anime/36858/Usuzumizakura__Garo",
+  "image": "https://cdn.myanimelist.net/images/anime/1428/93934.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13608"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20800"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%89%99%E7%8B%BC_-%E7%B4%85%E8%93%AE%E3%83%8E%E6%9C%88-"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13608,
+  "Pages": {
+    "9anime": {
+      "4677": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 146,
+        "identifier": "4677",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Garo: Uzusumizakura",
+        "url": "https://9anime.to/watch/garo-uzusumizakura.4677",
+        "image": "http://static.akacdn.ru/static/images/2018/03/854ad46f9822364ac3ab946cdc1cc954.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36858,
+        "aniId": 101370,
+        "deletedAt": null
+      },
+      "5qr0": {
+        "createdAt": "2020-10-12T15:50:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2769,
+        "identifier": "5qr0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usuzumizakura: Garo",
+        "url": "https://9anime.to/watch/usuzumizakura-garo.5qr0",
+        "image": "http://static.akacdn.ru/static/images/2018/09/88c905a43bcf1952d86cf4b8dd811548.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36858,
+        "aniId": 101370,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "usuzumizakura-garo": {
+        "createdAt": "2022-01-18T05:34:04.000Z",
+        "updatedAt": "2022-01-18T06:04:03.000Z",
+        "checkedAt": null,
+        "id": 39871,
+        "identifier": "usuzumizakura-garo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Usuzumizakura: Garo",
+        "url": "https://gogoanime.cm/category/usuzumizakura-garo",
+        "image": "https://gogocdn.net/cover/usuzumizakura-garo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36858,
+        "aniId": 101370,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36858": {
+        "identifier": "36858",
+        "malId": 36858,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Usuzumizakura: Garo",
+        "url": "https://animixplay.to/anime/36858"
+      }
+    },
+    "YugenAnime": {
+      "11594": {
+        "identifier": "11594",
+        "malId": 36858,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Usuzumizakura: Garo",
+        "url": "https://yugen.to/anime/11594/usuzumizakura-garo/"
+      }
+    }
+  }
+}

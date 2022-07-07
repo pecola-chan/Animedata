@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T17:51:06.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23671,
+  "identifier": "mou-hitotsu-no-mirai-wo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mou Hitotsu no Mirai wo.",
+  "url": "https://gogoanime.vc/category/mou-hitotsu-no-mirai-wo",
+  "image": "https://gogocdn.net/images/mou-hitotsu.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 21587,
+  "aniId": 20557,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:24.000Z",
+    "updatedAt": "2022-05-15T01:06:29.000Z",
+    "checkedAt": "2022-05-15T01:06:29.000Z",
+    "id": 21587,
+    "type": "anime",
+    "title": "Mou Hitotsu no Mirai wo.",
+    "altTitle": [
+      "Mou Hitotsu no Mirai o.",
+      "もうひとつの未来を."
+    ],
+    "url": "https://myanimelist.net/anime/21587/Mou_Hitotsu_no_Mirai_wo",
+    "image": "https://cdn.myanimelist.net/images/anime/10/56893.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.stst.co.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10315"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10315
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:28.000Z",
+    "updatedAt": "2022-05-16T01:25:38.000Z",
+    "checkedAt": "2022-05-16T01:25:38.000Z",
+    "id": 20557,
+    "type": "anime",
+    "title": "Mou Hitotsu no Mirai wo.",
+    "altTitle": [
+      "au Future Laboratory (A.U.F.L)",
+      "A.U.F.L.（au未来研究所）",
+      "au Mirai Kenkyuujo (au Future Laboratory)",
+      "au Unlimited Future Labratory"
+    ],
+    "url": "https://anilist.co/anime/20557",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20557.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 21587,
+    "deletedAt": null
+  }
+}

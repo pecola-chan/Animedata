@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T16:48:47.000Z",
+  "checkedAt": "2022-05-14T16:48:47.000Z",
+  "id": 33836,
+  "type": "anime",
+  "title": "Seiren",
+  "altTitle": [
+    "Seiren",
+    "セイレン"
+  ],
+  "url": "https://myanimelist.net/anime/33836/Seiren",
+  "image": "https://cdn.myanimelist.net/images/anime/1465/121561.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/seiren/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12327"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18865"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272173"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12327,
+  "Pages": {
+    "9anime": {
+      "ly06": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2022-06-14T01:02:16.000Z",
+        "checkedAt": "2022-06-14T01:02:16.000Z",
+        "id": 6264,
+        "identifier": "ly06",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seiren",
+        "url": "https://9anime.to/watch/seiren.ly06",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/1adee6649a22d1aeb70534cc3a1225cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33836,
+        "aniId": 97730,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seiren": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20471,
+        "identifier": "seiren",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seiren",
+        "url": "https://gogoanime.vc/category/seiren",
+        "image": "https://cdnimg.xyz/cover/seiren.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33836,
+        "aniId": 97730,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1566": {
+        "identifier": "1566",
+        "malId": 33836,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seiren",
+        "url": "https://animepahe.com/a/1566"
+      }
+    },
+    "AniMixPlay": {
+      "33836": {
+        "identifier": "33836",
+        "malId": 33836,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seiren",
+        "url": "https://animixplay.to/anime/33836"
+      }
+    },
+    "YugenAnime": {
+      "1331": {
+        "identifier": "1331",
+        "malId": 33836,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seiren",
+        "url": "https://yugen.to/anime/1331/seiren/"
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-13T23:39:04.000Z",
+  "checkedAt": "2022-05-13T23:39:04.000Z",
+  "id": 21185,
+  "type": "anime",
+  "title": "Baby Steps",
+  "altTitle": [
+    "Baby Steps",
+    "ベイビーステップ"
+  ],
+  "url": "https://myanimelist.net/anime/21185/Baby_Steps",
+  "image": "https://cdn.myanimelist.net/images/anime/5/63361.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www9.nhk.or.jp/anime/babysteps/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10244"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15714"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC%E3%82%B9%E3%83%86%E3%83%83%E3%83%97"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260445"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10244,
+  "Pages": {
+    "9anime": {
+      "n6m": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6985,
+        "identifier": "n6m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baby Steps",
+        "url": "https://9anime.to/watch/baby-steps.n6m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6rAQFGUPzy0/V3nkFxRk1iI/AAAAAAAAtKQ/loWOIva_Jqo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21185,
+        "aniId": 20510,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "baby-steps": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16663,
+        "identifier": "baby-steps",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Baby Steps",
+        "url": "https://gogoanime.vc/category/baby-steps",
+        "image": "https://cdnimg.xyz/images/baby-steps.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21185,
+        "aniId": 20510,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2080": {
+        "identifier": "2080",
+        "malId": 21185,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Baby Steps",
+        "url": "https://animepahe.com/a/2080"
+      }
+    },
+    "AniMixPlay": {
+      "21185": {
+        "identifier": "21185",
+        "malId": 21185,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Baby Steps",
+        "url": "https://animixplay.to/anime/21185"
+      }
+    },
+    "YugenAnime": {
+      "15053": {
+        "identifier": "15053",
+        "malId": 21185,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Baby Steps",
+        "url": "https://yugen.to/anime/15053/baby-steps/"
+      }
+    }
+  }
+}

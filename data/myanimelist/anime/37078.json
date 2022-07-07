@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T18:09:11.000Z",
+  "checkedAt": "2022-05-14T18:09:11.000Z",
+  "id": 37078,
+  "type": "anime",
+  "title": "Quanzhi Gaoshou Specials",
+  "altTitle": [
+    "Quanzhi Gaoshou (2018)",
+    "Quan Zhi Gao Shou",
+    "Full-Time Expert",
+    "Master of Skills",
+    "Quanzhi Gaoshou: Tebie Pian",
+    "The King's Avatar (2018)",
+    "全职高手特别篇"
+  ],
+  "url": "https://myanimelist.net/anime/37078/Quanzhi_Gaoshou_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1825/91514.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/h/hlo45ourdy4rh3t.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13950"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E5%85%A8%E8%81%B7%E9%AB%98%E6%89%8B"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13950,
+  "Pages": {
+    "9anime": {
+      "m1v7": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6319,
+        "identifier": "m1v7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The King's Avatar (2018)",
+        "url": "https://9anime.to/watch/the-kings-avatar-2018.m1v7",
+        "image": "http://static.akacdn.ru/static/images/2018/04/eda81edd41a94c9206cec986cac31164.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37078,
+        "aniId": 101410,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "quanzhi-gaoshou-2018": {
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20206,
+        "identifier": "quanzhi-gaoshou-2018",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Quanzhi Gaoshou (2018)",
+        "url": "https://gogoanime.vc/category/quanzhi-gaoshou-2018",
+        "image": "https://images.gogoanime.tv/cover/quanzhi-gaoshou-2018.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37078,
+        "aniId": 101410,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2577": {
+        "identifier": "2577",
+        "malId": 37078,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Quanzhi Gaoshou Specials",
+        "url": "https://animepahe.com/a/2577"
+      }
+    },
+    "AniMixPlay": {
+      "37078": {
+        "identifier": "37078",
+        "malId": 37078,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Quanzhi Gaoshou Specials",
+        "url": "https://animixplay.to/anime/37078"
+      }
+    }
+  }
+}

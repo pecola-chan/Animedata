@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-06-25T16:00:44.000Z",
+  "checkedAt": "2022-06-25T16:00:44.000Z",
+  "id": 23053,
+  "type": "anime",
+  "title": "Nisou no Kuzu",
+  "altTitle": [
+    "Thinking and Drawing: Nihon no Shinseiki Art Animation",
+    "Thinking and Drawing: Japanese Art Animation of the New Millennium",
+    "Dialogue Between Two",
+    "二層の葛"
+  ],
+  "url": "https://myanimelist.net/anime/23053/Nisou_no_Kuzu",
+  "image": "https://cdn.myanimelist.net/images/anime/2/59755.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.imageforum.co.jp/new-anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7972"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7972,
+  "Pages": {
+    "9anime": {
+      "y7yx": {
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10631,
+        "identifier": "y7yx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dialogue Between Two",
+        "url": "https://9anime.to/watch/dialogue-between-two.y7yx",
+        "image": "http://static.akacdn.ru/static/images/2018/09/d1bb13b098c72d5bb4015618b5ec2122.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23053,
+        "aniId": 97595,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "createdAt": "2021-02-05T03:19:50.000Z",
+  "updatedAt": "2022-05-14T22:47:11.000Z",
+  "checkedAt": "2022-05-14T22:47:10.000Z",
+  "id": 7436,
+  "type": "anime",
+  "title": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito",
+  "altTitle": [
+    "Dragon Quest: Dai no Daiboken Tachiagare! Aban no Shito",
+    "Stand up!! Disciples of Avan",
+    "Dragon Quest Great Adventure of Dai! Disciple of Aban.",
+    "ドラゴンクエスト　ダイの大冒険　起ち・がれ！！アバンの使徒"
+  ],
+  "url": "https://myanimelist.net/anime/7436/Dragon_Quest__Dai_no_Daibouken_Tachiagare_Aban_no_Shito",
+  "image": "https://cdn.myanimelist.net/images/anime/12/31457.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2093"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3409"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dragon_Quest:_Dai_no_Daib%C5%8Dken"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2093,
+  "Pages": {
+    "9anime": {
+      "7n2j": {
+        "createdAt": "2021-02-05T03:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34543,
+        "identifier": "7n2j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito",
+        "url": "https://9anime.to/watch/dragon-quest-great-adventure-of-dai-disciple-of-aban.7n2j",
+        "image": "//static.bunnycdn.ru/i/cache/images/2020/08/7bb869fb3805c9202ed2dd856432faa1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7436,
+        "aniId": 7436,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7436": {
+        "identifier": "7436",
+        "malId": 7436,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito",
+        "url": "https://animixplay.to/anime/7436"
+      }
+    }
+  }
+}

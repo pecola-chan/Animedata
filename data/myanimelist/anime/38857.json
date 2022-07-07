@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-06-20T13:53:06.000Z",
+  "checkedAt": "2022-06-20T13:53:06.000Z",
+  "id": 38857,
+  "type": "anime",
+  "title": "Neko no Nyagh: Nya Misérables",
+  "altTitle": [
+    "Days of van Meowogh",
+    "Meowogh the Cat: Mes Misérables",
+    "Niagho",
+    "猫のニャッホ ～ニャ・ミゼラブル～"
+  ],
+  "url": "https://myanimelist.net/anime/38857/Neko_no_Nyagh__Nya_Misérables",
+  "image": "https://cdn.myanimelist.net/images/anime/1543/109596.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://niagho.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14546"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21827"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%AE%E3%83%8B%E3%83%A3%E3%83%83%E3%83%9B_%E3%80%9C%E3%83%8B%E3%83%A3%E3%83%BB%E3%83%9F%E3%82%BC%E3%83%A9%E3%83%96%E3%83%AB%E3%80%9C#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14546,
+  "Pages": {
+    "9anime": {
+      "j44n": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4680,
+        "identifier": "j44n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neko no Niagho",
+        "url": "https://9anime.to/watch/neko-no-niagho.j44n",
+        "image": "https://static.akacdn.ru/files/images/2019/12/8f7ca0da7edc8b76f653c2505dc1eb7b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38857,
+        "aniId": 114338,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38857": {
+        "identifier": "38857",
+        "malId": 38857,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neko no Nyagh: Nya Misérables",
+        "url": "https://animixplay.to/anime/38857"
+      }
+    },
+    "YugenAnime": {
+      "4644": {
+        "identifier": "4644",
+        "malId": 38857,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neko no Nyagh: Nya Misérables",
+        "url": "https://yugen.to/anime/4644/neko-no-nyagh-nya-miserables/"
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-13T18:00:50.000Z",
+  "checkedAt": "2022-05-13T18:00:50.000Z",
+  "id": 35905,
+  "type": "anime",
+  "title": "Ryuuou no Oshigoto!",
+  "altTitle": [
+    "The Ryuo's Work is Never Done!",
+    "りゅうおうのおしごと！"
+  ],
+  "url": "https://myanimelist.net/anime/35905/Ryuuou_no_Oshigoto",
+  "image": "https://cdn.myanimelist.net/images/anime/12/89979.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ryuoh-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13281"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19872"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%8A%E3%82%85%E3%81%86%E3%81%8A%E3%81%86%E3%81%AE%E3%81%8A%E3%81%97%E3%81%94%E3%81%A8!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275129"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13281,
+  "Pages": {
+    "9anime": {
+      "wp97": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2021-09-19T18:12:24.000Z",
+        "checkedAt": null,
+        "id": 9875,
+        "identifier": "wp97",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ryuuou no Oshigoto!",
+        "url": "https://9anime.to/watch/the-ryuos-work-is-never-done.wp97",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/2abc658570bf22429d7450b0c76a6bb2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35905,
+        "aniId": 99507,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ryuuou-no-oshigoto": {
+        "createdAt": "2020-10-12T16:01:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20351,
+        "identifier": "ryuuou-no-oshigoto",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ryuuou no Oshigoto!",
+        "url": "https://gogoanime.vc/category/ryuuou-no-oshigoto",
+        "image": "https://images.gogoanime.tv/cover/ryuuou-no-oshigoto.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35905,
+        "aniId": 99507,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2435": {
+        "identifier": "2435",
+        "malId": 35905,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ryuuou no Oshigoto!",
+        "url": "https://animepahe.com/a/2435"
+      }
+    },
+    "AniMixPlay": {
+      "35905": {
+        "identifier": "35905",
+        "malId": 35905,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ryuuou no Oshigoto!",
+        "url": "https://animixplay.to/anime/35905"
+      }
+    },
+    "YugenAnime": {
+      "3536": {
+        "identifier": "3536",
+        "malId": 35905,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ryuuou no Oshigoto!",
+        "url": "https://yugen.to/anime/3536/ryuuou-no-oshigoto/"
+      }
+    }
+  }
+}

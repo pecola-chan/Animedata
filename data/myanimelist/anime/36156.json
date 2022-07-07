@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-14T20:47:29.000Z",
+  "checkedAt": "2022-05-14T20:47:29.000Z",
+  "id": 36156,
+  "type": "anime",
+  "title": "Keifuku-san",
+  "altTitle": [
+    "Keifukusan",
+    "傾福さん"
+  ],
+  "url": "https://myanimelist.net/anime/36156/Keifuku-san",
+  "image": "https://cdn.myanimelist.net/images/anime/10/89781.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://twitter.com/irodori7"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13697"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13697,
+  "Pages": {
+    "9anime": {
+      "vr96": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9443,
+        "identifier": "vr96",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keifuku-san",
+        "url": "https://9anime.to/watch/keifuku-san.vr96",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iwc5SXoJ7TE/WkqHjrxRaOI/AAAAAAAACd0/zgvFmg2XvBUVCfYhhIQVe1-IIqqKuCLFwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36156,
+        "aniId": 101034,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "keifuku-san": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18758,
+        "identifier": "keifuku-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keifuku-san",
+        "url": "https://gogoanime.vc/category/keifuku-san",
+        "image": "https://cdnimg.xyz/cover/keifuku-san.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36156,
+        "aniId": 101034,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36156": {
+        "identifier": "36156",
+        "malId": 36156,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keifuku-san",
+        "url": "https://animixplay.to/anime/36156"
+      }
+    },
+    "YugenAnime": {
+      "1344": {
+        "identifier": "1344",
+        "malId": 36156,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Keifuku-san",
+        "url": "https://yugen.to/anime/1344/keifuku-san/"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "createdAt": "2021-07-04T04:00:01.000Z",
+  "updatedAt": "2022-05-14T18:12:41.000Z",
+  "checkedAt": "2022-05-14T18:12:41.000Z",
+  "id": 44071,
+  "type": "anime",
+  "title": "Yuan Long 2nd Season",
+  "altTitle": [
+    "Carp Reborn 2nd Season",
+    "元龙 第二季"
+  ],
+  "url": "https://myanimelist.net/anime/44071/Yuan_Long_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1138/110307.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28230724"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E5%85%83%E9%BE%99%E7%AC%AC%E4%BA%8C%E5%AD%A3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "1p7m": {
+        "createdAt": "2021-07-04T03:59:50.000Z",
+        "updatedAt": "2022-06-13T22:02:17.000Z",
+        "checkedAt": "2022-06-13T22:02:17.000Z",
+        "id": 37663,
+        "identifier": "1p7m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuan Long 2",
+        "url": "https://9anime.to/watch/carp-reborn-s2.1p7m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/73/73f57275603cfe409275c7cabede3419.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44071,
+        "aniId": 126360,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44071": {
+        "identifier": "44071",
+        "malId": 44071,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuan Long 2nd Season",
+        "url": "https://animixplay.to/anime/44071"
+      }
+    },
+    "YugenAnime": {
+      "7863": {
+        "identifier": "7863",
+        "malId": 44071,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yuan Long 2nd Season",
+        "url": "https://yugen.to/anime/7863/yuan-long-2nd-season/"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T16:00:58.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18801,
+  "identifier": "key-the-metal-idol",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Key the Metal Idol",
+  "url": "https://gogoanime.vc/category/key-the-metal-idol",
+  "image": "https://cdnimg.xyz/cover/key-the-metal-idol.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1457,
+  "aniId": 1457,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:17.000Z",
+    "updatedAt": "2022-05-14T18:50:09.000Z",
+    "checkedAt": "2022-05-14T18:50:09.000Z",
+    "id": 1457,
+    "type": "anime",
+    "title": "Key the Metal Idol",
+    "altTitle": [
+      "Key the Metal Idol",
+      "KEY THE METAL IDOL"
+    ],
+    "url": "https://myanimelist.net/anime/1457/Key_the_Metal_Idol",
+    "image": "https://cdn.myanimelist.net/images/anime/5/11220.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/key/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=302"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=843"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Key_the_Metal_Idol"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-275679"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 302
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:07.000Z",
+    "updatedAt": "2022-05-15T16:07:59.000Z",
+    "checkedAt": "2022-05-15T16:07:59.000Z",
+    "id": 1457,
+    "type": "anime",
+    "title": "KEY THE METAL IDOL",
+    "altTitle": [
+      "Key the Metal Idol",
+      "KEY THE METAL IDOL"
+    ],
+    "url": "https://anilist.co/anime/1457",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1457-2fMgN8MtD4mZ.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/key-the-metal-idol"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G6KEDW0W6/Key-the-Metal-Idol"
+      }
+    ],
+    "malId": 1457,
+    "deletedAt": null
+  }
+}

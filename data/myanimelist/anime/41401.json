@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-23T21:00:03.000Z",
+  "checkedAt": "2022-05-23T21:00:03.000Z",
+  "id": 41401,
+  "type": "anime",
+  "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+  "altTitle": [
+    "TV Yarou Nanaana Season 3",
+    "Televi Yarou Nanana",
+    "TV Yarou Nana-na",
+    "テレビ野郎 ナナーナ 怪物クラーケンを追え!"
+  ],
+  "url": "https://myanimelist.net/anime/41401/TV_Yarou_Nanaana__Kaibutsu_Kraken_wo_Oe",
+  "image": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/nana-na/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23074"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E9%87%8E%E9%83%8E_%E3%83%8A%E3%83%8A%E3%83%BC%E3%83%8A"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277834"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15427,
+  "Pages": {
+    "9anime": {
+      "76oy": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3372,
+        "identifier": "76oy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+        "url": "https://9anime.to/watch/tv-yarou-nanaana-kaibutsu-kraken-wo-oe.76oy",
+        "image": "https://static.akacdn.ru/files/images/2020/04/8d47b1f43e6b9eec24066847709197d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41401,
+        "aniId": 116320,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tv-yarou-nanaana-kaibutsu-kraken-wo-oe": {
+        "createdAt": "2020-10-12T16:02:10.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21261,
+        "identifier": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+        "url": "https://gogoanime.vc/category/tv-yarou-nanaana-kaibutsu-kraken-wo-oe",
+        "image": "https://gogocdn.net/cover/tv-yarou-nanaana-kaibutsu-kraken-wo-oe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41401,
+        "aniId": 116320,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41401": {
+        "identifier": "41401",
+        "malId": 41401,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+        "url": "https://animixplay.to/anime/41401"
+      }
+    },
+    "YugenAnime": {
+      "15067": {
+        "identifier": "15067",
+        "malId": 41401,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+        "url": "https://yugen.to/anime/15067/tv-yarou-nanaana-kaibutsu-kraken-wo-oe/"
+      }
+    }
+  }
+}

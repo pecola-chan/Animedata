@@ -1,0 +1,71 @@
+{
+  "createdAt": "2022-03-09T10:59:55.000Z",
+  "updatedAt": "2022-03-09T11:29:43.000Z",
+  "checkedAt": null,
+  "id": 40423,
+  "identifier": "kyojin-no-hoshi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kyojin no Hoshi",
+  "url": "https://gogoanime.fi/category/kyojin-no-hoshi",
+  "image": "https://gogocdn.net/cover/kyojin-no-hoshi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5834,
+  "aniId": 5834,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:49.000Z",
+    "updatedAt": "2022-05-14T19:38:47.000Z",
+    "checkedAt": "2022-05-14T19:38:47.000Z",
+    "id": 5834,
+    "type": "anime",
+    "title": "Kyojin no Hoshi",
+    "altTitle": [
+      "Star of the Giants",
+      "巨人の星"
+    ],
+    "url": "https://myanimelist.net/anime/5834/Kyojin_no_Hoshi",
+    "image": "https://cdn.myanimelist.net/images/anime/12/59519.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3413"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1446"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Star_of_the_Giants"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3413
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:51.000Z",
+    "updatedAt": "2022-05-15T17:46:35.000Z",
+    "checkedAt": "2022-05-15T17:46:35.000Z",
+    "id": 5834,
+    "type": "anime",
+    "title": "Kyojin no Hoshi",
+    "altTitle": [
+      "巨人の星",
+      "Star of the Giants"
+    ],
+    "url": "https://anilist.co/anime/5834",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5834-MOjnHPAqVfPG.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5834,
+    "deletedAt": null
+  }
+}

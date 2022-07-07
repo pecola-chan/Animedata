@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-11-23T20:26:19.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29554,
+  "identifier": "oseam",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Oseam",
+  "url": "https://gogoanime.vc/category/oseam",
+  "image": "https://gogocdn.net/images/anime/O/Oseam.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2141,
+  "aniId": 2141,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:26.000Z",
+    "updatedAt": "2022-05-14T23:25:35.000Z",
+    "checkedAt": "2022-05-14T23:25:35.000Z",
+    "id": 2141,
+    "type": "anime",
+    "title": "Oseam",
+    "altTitle": [
+      "오세암"
+    ],
+    "url": "https://myanimelist.net/anime/2141/Oseam",
+    "image": "https://cdn.myanimelist.net/images/anime/6/26088.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1053"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4495"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Oseam_%282003_film%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1053
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:12.000Z",
+    "updatedAt": "2022-05-15T15:48:11.000Z",
+    "checkedAt": "2022-05-15T15:48:11.000Z",
+    "id": 2141,
+    "type": "anime",
+    "title": "Oseam",
+    "altTitle": [
+      "오세암",
+      "Five-year-old Temple"
+    ],
+    "url": "https://anilist.co/anime/2141",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2141-FkAzq0kM53W4.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2141,
+    "deletedAt": null
+  }
+}

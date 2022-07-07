@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T17:58:07.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23764,
+  "identifier": "-ayakashi-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ayakashi ",
+  "url": "https://gogoanime.vc/category/-ayakashi-",
+  "image": "https://gogocdn.net/images/anime/A/ayakashi.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3166,
+  "aniId": 3166,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:36.000Z",
+    "updatedAt": "2022-05-14T16:44:15.000Z",
+    "checkedAt": "2022-05-14T16:44:15.000Z",
+    "id": 3166,
+    "type": "anime",
+    "title": "Ayakashi",
+    "altTitle": [
+      "アヤカシ"
+    ],
+    "url": "https://myanimelist.net/anime/3166/Ayakashi",
+    "image": "https://cdn.myanimelist.net/images/anime/5/20942.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ayakashi.info/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5446"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8567"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ayakashi_%28visual_novel%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5446
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:36.000Z",
+    "updatedAt": "2022-05-15T15:31:47.000Z",
+    "checkedAt": "2022-05-15T15:31:47.000Z",
+    "id": 3166,
+    "type": "anime",
+    "title": "Ayakashi",
+    "altTitle": [
+      "アヤカシ"
+    ],
+    "url": "https://anilist.co/anime/3166",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3166.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3166,
+    "deletedAt": null
+  }
+}

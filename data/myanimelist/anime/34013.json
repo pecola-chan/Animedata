@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-15T00:25:05.000Z",
+  "checkedAt": "2022-05-15T00:25:05.000Z",
+  "id": 34013,
+  "type": "anime",
+  "title": "Hagane Orchestra",
+  "altTitle": [
+    "Hagane Orchestra",
+    "はがねオーケストラ"
+  ],
+  "url": "https://myanimelist.net/anime/34013/Hagane_Orchestra",
+  "image": "https://cdn.myanimelist.net/images/anime/7/82323.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hagane-orchestra.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12387"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18729"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%8C%E3%81%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271821"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12387,
+  "Pages": {
+    "9anime": {
+      "n4nl": {
+        "createdAt": "2020-10-12T15:53:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6945,
+        "identifier": "n4nl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hagane Orchestra",
+        "url": "https://9anime.to/watch/hagane-orchestra.n4nl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-etNJYoEqRx0/V-yLfIlJJ6I/AAAAAAABCFo/6zwA-f7N2-k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34013,
+        "aniId": 97608,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hagane-orchestra": {
+        "createdAt": "2021-02-18T16:16:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34939,
+        "identifier": "hagane-orchestra",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hagane Orchestra",
+        "url": "https://gogoanime.vc/category/hagane-orchestra",
+        "image": "https://gogocdn.net/cover/hagane-orchestra.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34013,
+        "aniId": 97608,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34013": {
+        "identifier": "34013",
+        "malId": 34013,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hagane Orchestra",
+        "url": "https://animixplay.to/anime/34013"
+      }
+    },
+    "YugenAnime": {
+      "3174": {
+        "identifier": "3174",
+        "malId": 34013,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hagane Orchestra",
+        "url": "https://yugen.to/anime/3174/hagane-orchestra/"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T19:39:59.000Z",
+  "checkedAt": "2022-05-14T19:39:59.000Z",
+  "id": 38902,
+  "type": "anime",
+  "title": "Prison Lab",
+  "altTitle": [
+    "Kangoku Jikken",
+    "監獄実験〈プリズンラボ〉"
+  ],
+  "url": "https://myanimelist.net/anime/38902/Prison_Lab",
+  "image": "https://cdn.myanimelist.net/images/anime/1192/97875.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%E3%83%A9%E3%83%9C_(%E6%BC%AB%E7%94%BB)#Web%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14562,
+  "Pages": {
+    "9anime": {
+      "xkjq": {
+        "createdAt": "2020-10-12T15:56:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10262,
+        "identifier": "xkjq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Prison Lab",
+        "url": "https://9anime.to/watch/prison-lab.xkjq",
+        "image": "https://static.akacdn.ru/files/images/2020/02/a5c96da5c7c712e37e1b566acf6d6647.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38902,
+        "aniId": 107874,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "prison-lab": {
+        "createdAt": "2021-07-21T05:33:48.000Z",
+        "updatedAt": "2021-07-21T06:03:47.000Z",
+        "checkedAt": null,
+        "id": 37955,
+        "identifier": "prison-lab",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Prison Lab",
+        "url": "https://gogoanime.pe/category/prison-lab",
+        "image": "https://gogocdn.net/cover/prison-lab.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38902,
+        "aniId": 107874,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38902": {
+        "identifier": "38902",
+        "malId": 38902,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Prison Lab",
+        "url": "https://animixplay.to/anime/38902"
+      }
+    },
+    "YugenAnime": {
+      "7941": {
+        "identifier": "7941",
+        "malId": 38902,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Prison Lab",
+        "url": "https://yugen.to/anime/7941/prison-lab/"
+      }
+    }
+  }
+}

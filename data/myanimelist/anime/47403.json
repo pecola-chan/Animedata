@@ -1,0 +1,88 @@
+{
+  "createdAt": "2021-02-08T10:20:08.000Z",
+  "updatedAt": "2022-06-11T18:47:37.000Z",
+  "checkedAt": "2022-06-11T18:47:37.000Z",
+  "id": 47403,
+  "type": "anime",
+  "title": "Kuiba Zhi Shu Tu",
+  "altTitle": [
+    "魁拔之殊途"
+  ],
+  "url": "https://myanimelist.net/anime/47403/Kuiba_Zhi_Shu_Tu",
+  "image": "https://cdn.myanimelist.net/images/anime/1558/111667.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/e/eh4fr6jrni2gty8.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "kuiba-zhi-shu-tu": {
+        "createdAt": "2021-02-18T16:13:11.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34893,
+        "identifier": "kuiba-zhi-shu-tu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kuiba Zhi Shu Tu",
+        "url": "https://gogoanime.vc/category/kuiba-zhi-shu-tu",
+        "image": "https://gogocdn.net/cover/kuiba-zhi-shu-tu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 47403,
+        "aniId": 120159,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "q5qj": {
+        "createdAt": "2021-02-22T01:34:28.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35141,
+        "identifier": "q5qj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuiba Zhi Shu Tu",
+        "url": "https://9anime.to/watch/kuiba-zhi-shu-tu.q5qj",
+        "image": "//static.bunnycdn.ru/i/cache/images/c/c3/c3c3173488fddb544b821e79953aa418.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 47403,
+        "aniId": 120159,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "47403": {
+        "identifier": "47403",
+        "malId": 47403,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kuiba Zhi Shu Tu",
+        "url": "https://animixplay.to/anime/47403"
+      }
+    },
+    "YugenAnime": {
+      "7240": {
+        "identifier": "7240",
+        "malId": 47403,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kuiba Zhi Shu Tu",
+        "url": "https://yugen.to/anime/7240/kuiba-zhi-shu-tu/"
+      }
+    }
+  }
+}

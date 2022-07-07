@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-06-10T11:52:02.000Z",
+  "checkedAt": "2022-06-10T11:52:02.000Z",
+  "id": 7569,
+  "type": "anime",
+  "title": "Idol Ace",
+  "altTitle": [
+    "Idol Ace Teaser",
+    "Idol A",
+    "Idol Ace",
+    "アイドルA"
+  ],
+  "url": "https://myanimelist.net/anime/7569/Idol_Ace",
+  "image": "https://cdn.myanimelist.net/images/anime/6/18140.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7210"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Idol_Ace"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7210,
+  "Pages": {
+    "9anime": {
+      "z7y2": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11084,
+        "identifier": "z7y2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Idol Ace",
+        "url": "https://9anime.to/watch/idol-ace.z7y2",
+        "image": "http://static.akacdn.ru/static/images/2018/07/0f5a67432f5de97c274df703f25d2077.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7569,
+        "aniId": 7569,
+        "deletedAt": null
+      }
+    }
+  }
+}

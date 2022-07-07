@@ -1,0 +1,137 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T18:48:29.000Z",
+  "checkedAt": "2022-05-14T18:48:29.000Z",
+  "id": 19291,
+  "type": "anime",
+  "title": "Pokemon XY",
+  "altTitle": [
+    "Pocket Monsters XY",
+    "Pokémon XY",
+    "Pokémon the Series: XY",
+    "ポケットモンスターXY"
+  ],
+  "url": "https://myanimelist.net/anime/19291/Pokemon_XY",
+  "image": "https://cdn.myanimelist.net/images/anime/12/54549.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/pokemon_xy/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9956"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15491"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_XY"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9956,
+  "Pages": {
+    "9anime": {
+      "7yr1": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3657,
+        "identifier": "7yr1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon XY",
+        "url": "https://9anime.to/watch/pokemon-xy.7yr1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-M4cZqoNOOD0/WE5udrcPLRI/AAAAAAABSYo/GYZo88sJpPo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19291,
+        "aniId": 19291,
+        "deletedAt": null
+      },
+      "j2wn": {
+        "createdAt": "2020-10-12T15:52:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4640,
+        "identifier": "j2wn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon XY (Dub)",
+        "url": "https://9anime.to/watch/pokemon-xy-dub.j2wn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Qabe8lXU1bo/V7bXfKYqtTI/AAAAAAAA4R4/42FrUvexXyg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19291,
+        "aniId": 19291,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pokemon-xy": {
+        "createdAt": "2020-10-12T16:01:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20115,
+        "identifier": "pokemon-xy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon XY",
+        "url": "https://gogoanime.vc/category/pokemon-xy",
+        "image": "https://cdnimg.xyz/images/anime/P/Pokemon-xy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19291,
+        "aniId": 19291,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3735": {
+        "identifier": "3735",
+        "malId": 19291,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pokemon XY",
+        "url": "https://animepahe.com/a/3735"
+      }
+    },
+    "AniMixPlay": {
+      "19291": {
+        "identifier": "19291",
+        "malId": 19291,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon XY",
+        "url": "https://animixplay.to/anime/19291"
+      }
+    },
+    "YugenAnime": {
+      "1371": {
+        "identifier": "1371",
+        "malId": 19291,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pokemon XY",
+        "url": "https://yugen.to/anime/1371/pokemon-xy/"
+      }
+    }
+  }
+}

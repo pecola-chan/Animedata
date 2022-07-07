@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-21T12:42:14.000Z",
+  "checkedAt": "2022-05-21T12:42:14.000Z",
+  "id": 3007,
+  "type": "anime",
+  "title": "Bronze: Kouji Nanjo Cathexis",
+  "altTitle": [
+    "Bronze: Cathexis Koji Nanjo",
+    "BRONZE KoJI NANJo cathexis"
+  ],
+  "url": "https://myanimelist.net/anime/3007/Bronze__Kouji_Nanjo_Cathexis",
+  "image": "https://cdn.myanimelist.net/images/anime/13/73228.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/list1994-1993.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2633"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5710"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zetsuai_1989"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2633,
+  "Pages": {
+    "9anime": {
+      "3z88": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2009,
+        "identifier": "3z88",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bronze: Kouji Nanjo Cathexis",
+        "url": "https://9anime.to/watch/bronze-kouji-nanjo-cathexis.3z88",
+        "image": "https://static.akacdn.ru/files/images/2018/04/e3de280d05c2d18bcc90dfd14efbb94a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3007,
+        "aniId": 3007,
+        "deletedAt": null
+      }
+    }
+  }
+}

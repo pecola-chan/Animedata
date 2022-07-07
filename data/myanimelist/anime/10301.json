@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T22:34:59.000Z",
+  "checkedAt": "2022-05-14T22:34:59.000Z",
+  "id": 10301,
+  "type": "anime",
+  "title": "Rio: Rainbow Gate! Special",
+  "altTitle": [
+    "Rio: Rainbow Gate! OVA",
+    "リオ レインボーゲート!"
+  ],
+  "url": "https://myanimelist.net/anime/10301/Rio__Rainbow_Gate_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/8/28328.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gamecity.ne.jp/rio/index2.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7931"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rio:_Rainbow_Gate!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7931,
+  "Pages": {
+    "9anime": {
+      "k6v4": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5327,
+        "identifier": "k6v4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rio: Rainbow Gate! Special",
+        "url": "https://9anime.to/watch/rio-rainbow-gate-special.k6v4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LsRRy3wTkCM/WRBAzS1FheI/AAAAAAAAmPg/MVodzqg1MpEgtJ1SFB-gqI0bybnaqEGXgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10301,
+        "aniId": 10301,
+        "deletedAt": null
+      },
+      "l093": {
+        "createdAt": "2020-10-12T15:52:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5724,
+        "identifier": "l093",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rio: Rainbow Gate! Special (Dub)",
+        "url": "https://9anime.to/watch/rio-rainbow-gate-special-dub.l093",
+        "image": "https://static.akacdn.ru/static/images/2018/02/7bee98cfd76696bb9503a908558409a9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10301,
+        "aniId": 10301,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1254": {
+        "identifier": "1254",
+        "malId": 10301,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rio: Rainbow Gate! Special",
+        "url": "https://animepahe.com/a/1254"
+      }
+    }
+  }
+}

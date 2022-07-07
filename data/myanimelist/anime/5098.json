@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-06-29T13:49:46.000Z",
+  "checkedAt": "2022-06-29T13:49:46.000Z",
+  "id": 5098,
+  "type": "anime",
+  "title": "Andersen Monogatari",
+  "altTitle": [
+    "The World of Hans Christian Andersen",
+    "アンデルセン物語"
+  ],
+  "url": "https://myanimelist.net/anime/5098/Andersen_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/1051/100526.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/movie/movie_andersen/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2208"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3531"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_World_of_Hans_Christian_Andersen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2208,
+  "Pages": {
+    "9anime": {
+      "y70j": {
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10612,
+        "identifier": "y70j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The World of Hans Christian Andersen",
+        "url": "https://9anime.to/watch/the-world-of-hans-christian-andersen.y70j",
+        "image": "https://static.akacdn.ru/files/images/2018/07/6f0b6086e953f23b4453c008732ef8b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5098,
+        "aniId": 5098,
+        "deletedAt": null
+      },
+      "z76w": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11072,
+        "identifier": "z76w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The World of Hans Christian Andersen (Dub)",
+        "url": "https://9anime.to/watch/the-world-of-hans-christian-andersen-dub.z76w",
+        "image": "https://static.akacdn.ru/static/images/2018/07/7266884deeef2e845cc1aa8e520e56c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5098,
+        "aniId": 5098,
+        "deletedAt": null
+      }
+    }
+  }
+}

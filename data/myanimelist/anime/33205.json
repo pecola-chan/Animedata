@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-15T07:56:08.000Z",
+  "checkedAt": "2022-05-15T07:56:08.000Z",
+  "id": 33205,
+  "type": "anime",
+  "title": "Star Fox Zero: The Battle Begins",
+  "altTitle": [
+    "スターフォックス ゼロ ザ・バトル・ビギンズ"
+  ],
+  "url": "https://myanimelist.net/anime/33205/Star_Fox_Zero__The_Battle_Begins",
+  "image": "https://cdn.myanimelist.net/images/anime/1784/101410.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.witstudio.co.jp/works/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%BC%E3%83%AD-%E3%82%B6%E3%83%BB%E3%83%90%E3%83%88%E3%83%AB%E3%83%BB%E3%83%93%E3%82%AE%E3%83%B3%E3%82%BA/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12090"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12090,
+  "Pages": {
+    "9anime": {
+      "moqx": {
+        "createdAt": "2020-10-12T15:53:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6671,
+        "identifier": "moqx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "StarFox Zero: The Battle Begins (Dub)",
+        "url": "https://9anime.to/watch/starfox-zero-the-battle-begins-dub.moqx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ws7-BipieMo/V9pTYVaMLRI/AAAAAAAA-Lg/C_CQLEV79U4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33205,
+        "aniId": 21783,
+        "deletedAt": null
+      },
+      "v0o4": {
+        "createdAt": "2020-10-12T15:55:45.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9136,
+        "identifier": "v0o4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Star Fox Zero: The Battle Begins",
+        "url": "https://9anime.to/watch/star-fox-zero-the-battle-begins.v0o4",
+        "image": "https://static.akacdn.ru/static/images/2018/04/46c4dfbcef460bbd132cccb68a79c3ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33205,
+        "aniId": 21783,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33205": {
+        "identifier": "33205",
+        "malId": 33205,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Star Fox Zero: The Battle Begins",
+        "url": "https://animixplay.to/anime/33205"
+      }
+    },
+    "YugenAnime": {
+      "3024": {
+        "identifier": "3024",
+        "malId": 33205,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Star Fox Zero: The Battle Begins",
+        "url": "https://yugen.to/anime/3024/star-fox-zero-the-battle-begins/"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-06-03T17:48:15.000Z",
+  "checkedAt": "2022-06-03T17:48:15.000Z",
+  "id": 2584,
+  "type": "anime",
+  "title": "Soukou Kihei Votoms: Big Battle",
+  "altTitle": [
+    "Armored Trooper Votoms: Big Battle",
+    "装甲騎兵ボトムズ　ビッグバトル"
+  ],
+  "url": "https://myanimelist.net/anime/2584/Soukou_Kihei_Votoms__Big_Battle",
+  "image": "https://cdn.myanimelist.net/images/anime/10/24534.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5126"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6970"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Armored_Trooper_VOTOMS"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/armored-trooper-votoms-the-big-battle"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5126,
+  "Pages": {
+    "9anime": {
+      "y0r0": {
+        "createdAt": "2020-10-12T15:56:41.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10496,
+        "identifier": "y0r0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soukou Kihei Votoms: Big Battle",
+        "url": "https://9anime.to/watch/soukou-kihei-votoms-big-battle.y0r0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bCyuCdWxQaQ/WL1iti42E4I/AAAAAAABeyM/FZ88B8Hhbo0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2584,
+        "aniId": 2584,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2584": {
+        "identifier": "2584",
+        "malId": 2584,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Soukou Kihei Votoms: Big Battle",
+        "url": "https://animixplay.to/anime/2584"
+      }
+    },
+    "YugenAnime": {
+      "2647": {
+        "identifier": "2647",
+        "malId": 2584,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Soukou Kihei Votoms: Big Battle",
+        "url": "https://yugen.to/anime/2647/armored-trooper-votoms-big-battle/"
+      }
+    }
+  }
+}

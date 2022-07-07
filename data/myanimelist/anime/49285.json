@@ -1,0 +1,111 @@
+{
+  "createdAt": "2021-10-03T02:31:02.000Z",
+  "updatedAt": "2022-05-14T15:47:10.000Z",
+  "checkedAt": "2022-05-14T15:47:10.000Z",
+  "id": 49285,
+  "type": "anime",
+  "title": "Waccha PriMagi!",
+  "altTitle": [
+    "Waccha PriMagi!",
+    "ワッチャプリマジ！"
+  ],
+  "url": "https://myanimelist.net/anime/49285/Waccha_PriMagi",
+  "image": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/primagi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16399"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24477"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%83%E3%83%81%E3%83%A3%E3%83%97%E3%83%AA%E3%83%9E%E3%82%B8!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16399,
+  "Pages": {
+    "Gogoanime": {
+      "waccha-primagi": {
+        "createdAt": "2021-10-03T03:00:52.000Z",
+        "updatedAt": "2022-05-16T15:31:52.000Z",
+        "checkedAt": "2022-05-16T15:31:10.000Z",
+        "id": 38824,
+        "identifier": "waccha-primagi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Waccha PriMagi!",
+        "url": "https://gogoanime.sk/category/waccha-primagi",
+        "image": "https://gogocdn.net/cover/waccha-primagi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49285,
+        "aniId": 136119,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "80kjv": {
+        "createdAt": "2021-10-03T03:01:23.000Z",
+        "updatedAt": "2022-05-16T15:32:15.000Z",
+        "checkedAt": "2022-05-16T15:31:22.000Z",
+        "id": 38825,
+        "identifier": "80kjv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Waccha PriMagi!",
+        "url": "https://9anime.to/watch/waccha-primagi.80kjv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/ae/ae7b0a9ca186754d3c317d630f5a9298.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49285,
+        "aniId": 136119,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4553": {
+        "identifier": "4553",
+        "malId": 49285,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Waccha PriMagi!",
+        "url": "https://animepahe.com/a/4553"
+      }
+    },
+    "AniMixPlay": {
+      "49285": {
+        "identifier": "49285",
+        "malId": 49285,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Waccha PriMagi!",
+        "url": "https://animixplay.to/anime/49285"
+      }
+    },
+    "YugenAnime": {
+      "9850": {
+        "identifier": "9850",
+        "malId": 49285,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Waccha PriMagi!",
+        "url": "https://yugen.to/anime/9850/waccha-primagi/"
+      }
+    }
+  }
+}

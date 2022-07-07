@@ -1,0 +1,48 @@
+{
+  "createdAt": "2021-02-01T01:01:51.000Z",
+  "updatedAt": "2022-05-15T00:47:05.000Z",
+  "checkedAt": "2022-05-15T00:47:05.000Z",
+  "id": 42076,
+  "type": "anime",
+  "title": "Inochi no Tabekata",
+  "altTitle": [
+    "How to Eat Life",
+    "いのちの食べ方"
+  ],
+  "url": "https://myanimelist.net/anime/42076/Inochi_no_Tabekata",
+  "image": "https://cdn.myanimelist.net/images/anime/1422/107871.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://eveofficial.com/news/20200522190312.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "z0kp": {
+        "createdAt": "2021-02-01T01:05:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34428,
+        "identifier": "z0kp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inochi no Tabekata",
+        "url": "https://9anime.to/watch/how-to-eat-life.z0kp",
+        "image": "//static.bunnycdn.ru/i/cache/images/e/e4/e41e4f9158c16009a43f5df31a21276c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42076,
+        "aniId": 118857,
+        "deletedAt": null
+      }
+    }
+  }
+}

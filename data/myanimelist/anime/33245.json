@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T22:50:29.000Z",
+  "checkedAt": "2022-05-14T22:50:29.000Z",
+  "id": 33245,
+  "type": "anime",
+  "title": "Ame-iro Cocoa in Hawaii",
+  "altTitle": [
+    "Ame-iro Cocoa 3",
+    "Rainy Cocoa in Hawaii",
+    "雨色ココア in Hawaii"
+  ],
+  "url": "https://myanimelist.net/anime/33245/Ame-iro_Cocoa_in_Hawaii",
+  "image": "https://cdn.myanimelist.net/images/anime/1727/111715.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rainycocoa.jp/anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12106"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18750"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rainy_Cocoa"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274431"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12106,
+  "Pages": {
+    "9anime": {
+      "v8nv": {
+        "createdAt": "2020-10-12T15:55:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9304,
+        "identifier": "v8nv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ame-iro Cocoa in Hawaii",
+        "url": "https://9anime.to/watch/ame-iro-cocoa-in-hawaii.v8nv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Uh1-i6wcs7o/V-vGMuGnErI/AAAAAAABB6k/ydeWpDAjpZE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33245,
+        "aniId": 21797,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3748": {
+        "identifier": "3748",
+        "malId": 33245,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ame-iro Cocoa in Hawaii",
+        "url": "https://animepahe.com/a/3748"
+      }
+    },
+    "AniMixPlay": {
+      "33245": {
+        "identifier": "33245",
+        "malId": 33245,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ame-iro Cocoa in Hawaii",
+        "url": "https://animixplay.to/anime/33245"
+      }
+    },
+    "YugenAnime": {
+      "537": {
+        "identifier": "537",
+        "malId": 33245,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ame-iro Cocoa in Hawaii",
+        "url": "https://yugen.to/anime/537/ame-iro-cocoa-in-hawaii/"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:59:48.000Z",
+  "updatedAt": "2022-05-13T14:20:00.000Z",
+  "checkedAt": null,
+  "id": 16452,
+  "identifier": "akahori-gedou-hour-rabuge",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Akahori Gedou Hour Rabuge",
+  "url": "https://gogoanime.vc/category/akahori-gedou-hour-rabuge",
+  "image": "https://gogocdn.net/cover/akahori-gedou-hour-rabuge.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 309,
+  "aniId": 309,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-15T00:48:17.000Z",
+    "checkedAt": "2022-05-15T00:48:17.000Z",
+    "id": 309,
+    "type": "anime",
+    "title": "Akahori Gedou Hour Rabuge",
+    "altTitle": [
+      "Akahori Gedou Hour Love Game",
+      "Zettai Seigi Love Pheromone",
+      "Soreyuke! Gedou Otometai",
+      "Absolute Justice Love Pheromone",
+      "Akahori's Heretical Hour Love Game",
+      "あかほり外道アワーらぶげ"
+    ],
+    "url": "https://myanimelist.net/anime/309/Akahori_Gedou_Hour_Rabuge",
+    "image": "https://cdn.myanimelist.net/images/anime/4/75541.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2840"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5900"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Akahori_Gedou_Hour_Rabuge"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2840
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:37.000Z",
+    "updatedAt": "2022-05-16T01:45:16.000Z",
+    "checkedAt": "2022-05-16T01:45:16.000Z",
+    "id": 309,
+    "type": "anime",
+    "title": "Zettai Seigi Love Pheromone",
+    "altTitle": [
+      "絶対正義ラブフェロモン",
+      "Absolute Justice Love Pheromone",
+      "Akahori Gedou Hour Rabuge",
+      "Akahori Gedou Hour Rabuge (part 1)"
+    ],
+    "url": "https://anilist.co/anime/309",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/309.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 309,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T23:31:22.000Z",
+  "checkedAt": "2022-05-14T23:31:22.000Z",
+  "id": 35009,
+  "type": "anime",
+  "title": "Berserk Recap",
+  "altTitle": [
+    "Berserk Dai 1-ki Digest Eizou",
+    "ベルセルク 第1期ダイジェスト映像"
+  ],
+  "url": "https://myanimelist.net/anime/35009/Berserk_Recap",
+  "image": "https://cdn.myanimelist.net/images/anime/9/84535.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.berserk-anime.com/special/digestmovie.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11851"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Berserk_%282016_TV_series%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11851,
+  "Pages": {
+    "9anime": {
+      "984q": {
+        "createdAt": "2021-03-10T10:22:56.000Z",
+        "updatedAt": "2021-03-10T10:22:56.000Z",
+        "checkedAt": null,
+        "id": 35602,
+        "identifier": "984q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Berserk Recap",
+        "url": "https://9anime.to/watch/berserk-recap.984q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5f/5fe6d546a500365297468b1acb5866f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35009,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2683": {
+        "identifier": "2683",
+        "malId": 35009,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Berserk Recap",
+        "url": "https://animepahe.com/a/2683"
+      }
+    },
+    "AniMixPlay": {
+      "35009": {
+        "identifier": "35009",
+        "malId": 35009,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Berserk Recap",
+        "url": "https://animixplay.to/anime/35009"
+      }
+    },
+    "YugenAnime": {
+      "15338": {
+        "identifier": "15338",
+        "malId": 35009,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Berserk Recap",
+        "url": "https://yugen.to/anime/15338/berserk-outtakes/"
+      }
+    }
+  }
+}

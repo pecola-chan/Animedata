@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T23:33:07.000Z",
+  "checkedAt": "2022-05-14T23:33:07.000Z",
+  "id": 2694,
+  "type": "anime",
+  "title": "Hidamari no Ki",
+  "altTitle": [
+    "A Tree in a Sunny Place",
+    "Tree in the Sun",
+    "陽だまりの樹"
+  ],
+  "url": "https://myanimelist.net/anime/2694/Hidamari_no_Ki",
+  "image": "https://cdn.myanimelist.net/images/anime/1344/110484.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/2000-1999/works_tv_hidamari.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1508"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2254"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hidamari_no_Ki"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1508,
+  "Pages": {
+    "9anime": {
+      "kz26": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5693,
+        "identifier": "kz26",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tree in the Sun",
+        "url": "https://9anime.to/watch/tree-in-the-sun.kz26",
+        "image": "https://static.akacdn.ru/files/images/2018/04/abe62cd04f659bbe9506a7fa56c1c626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2694,
+        "aniId": 2694,
+        "deletedAt": null
+      }
+    }
+  }
+}

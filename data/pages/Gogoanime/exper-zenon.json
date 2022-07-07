@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-11-23T04:26:19.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29540,
+  "identifier": "exper-zenon",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Exper Zenon",
+  "url": "https://gogoanime.vc/category/exper-zenon",
+  "image": "https://gogocdn.net/cover/exper-zenon.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 10463,
+  "aniId": 10463,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:06.000Z",
+    "updatedAt": "2022-05-15T01:06:47.000Z",
+    "checkedAt": "2022-05-15T01:06:47.000Z",
+    "id": 10463,
+    "type": "anime",
+    "title": "Exper Zenon",
+    "altTitle": [
+      "エクスパー ゼノン"
+    ],
+    "url": "https://myanimelist.net/anime/10463/Exper_Zenon",
+    "image": "https://cdn.myanimelist.net/images/anime/1509/105899.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.otakubell.com/ppp/?page_id=15"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5268"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=826"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/EXPER_ZENON"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5268
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:15.000Z",
+    "updatedAt": "2022-05-16T01:25:30.000Z",
+    "checkedAt": "2022-05-16T01:25:30.000Z",
+    "id": 10463,
+    "type": "anime",
+    "title": "Exper Zenon",
+    "altTitle": [
+      "エクスパー ゼノン"
+    ],
+    "url": "https://anilist.co/anime/10463",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10463-ANExmH9uoFJw.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10463,
+    "deletedAt": null
+  }
+}

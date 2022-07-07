@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-13T20:09:54.000Z",
+  "checkedAt": "2022-05-13T20:09:54.000Z",
+  "id": 39764,
+  "type": "anime",
+  "title": "Detective Conan Movie 24: The Scarlet Bullet",
+  "altTitle": [
+    "Meitantei Conan: Hiiro no Dangan",
+    "名探偵コナン 緋色の弾丸"
+  ],
+  "url": "https://myanimelist.net/anime/39764/Detective_Conan_Movie_24__The_Scarlet_Bullet",
+  "image": "https://cdn.myanimelist.net/images/anime/1306/112616.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.conan-movie.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14886"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22901"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3_%E7%B7%8B%E8%89%B2%E3%81%AE%E5%BC%BE%E4%B8%B8"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281139"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14886,
+  "Pages": {
+    "9anime": {
+      "8rwv": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4015,
+        "identifier": "8rwv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Detective Conan Movie 24",
+        "url": "https://9anime.to/watch/detective-conan-movie-24.8rwv",
+        "image": "https://static.akacdn.ru/files/images/2019/12/ecac8ed5c69eb95c99b2cdf7ec174121.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39764,
+        "aniId": 113653,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "detective-conan-movie-24-the-scarlet-bullet": {
+        "createdAt": "2021-11-17T11:18:50.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
+        "checkedAt": null,
+        "id": 39223,
+        "identifier": "detective-conan-movie-24-the-scarlet-bullet",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Detective Conan Movie 24: The Scarlet Bullet",
+        "url": "https://gogoanime.cm/category/detective-conan-movie-24-the-scarlet-bullet",
+        "image": "https://gogocdn.net/cover/detective-conan-movie-24-the-scarlet-bullet.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39764,
+        "aniId": 113653,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39764": {
+        "identifier": "39764",
+        "malId": 39764,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Detective Conan Movie 24: The Scarlet Bullet",
+        "url": "https://animixplay.to/anime/39764"
+      }
+    },
+    "YugenAnime": {
+      "11323": {
+        "identifier": "11323",
+        "malId": 39764,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Detective Conan Movie 24: The Scarlet Bullet",
+        "url": "https://yugen.to/anime/11323/detective-conan-movie-24-the-scarlet-bullet/"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-14T22:15:06.000Z",
+  "checkedAt": "2022-05-14T22:15:06.000Z",
+  "id": 2525,
+  "type": "anime",
+  "title": "Kekkou Kamen",
+  "altTitle": [
+    "Delicious Mask",
+    "Splendid Mask",
+    "Kekko Kamen",
+    "けっこう仮面"
+  ],
+  "url": "https://myanimelist.net/anime/2525/Kekkou_Kamen",
+  "image": "https://cdn.myanimelist.net/images/anime/10/60049.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1867"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=688"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kekko_kamen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1867,
+  "Pages": {
+    "9anime": {
+      "9mwm": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4353,
+        "identifier": "9mwm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kekkou Kamen",
+        "url": "https://9anime.to/watch/kekkou-kamen.9mwm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-d0qPzuwbhIY/V_prQ8E3u8I/AAAAAAABFxc/aIIkdr8b_cQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2525,
+        "aniId": 2525,
+        "deletedAt": null
+      },
+      "jz93": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5122,
+        "identifier": "jz93",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kekkou Kamen (Dub)",
+        "url": "https://9anime.to/watch/kekkou-kamen-dub.jz93",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kSIatDtTp0g/V_prWY94plI/AAAAAAABFxg/w5G3kUA3MoE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2525,
+        "aniId": 2525,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kekkou-kamen-dub": {
+        "createdAt": "2021-03-25T18:49:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35944,
+        "identifier": "kekkou-kamen-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kekkou Kamen (Dub)",
+        "url": "https://gogoanime.vc/category/kekkou-kamen-dub",
+        "image": "https://gogocdn.net/cover/kekkou-kamen-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2525,
+        "aniId": 2525,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2525": {
+        "identifier": "2525",
+        "malId": 2525,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kekkou Kamen",
+        "url": "https://animixplay.to/anime/2525"
+      }
+    },
+    "YugenAnime": {
+      "6010": {
+        "identifier": "6010",
+        "malId": 2525,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kekkou Kamen",
+        "url": "https://yugen.to/anime/6010/kekkou-kamen/"
+      }
+    }
+  }
+}

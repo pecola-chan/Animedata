@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-03-16T07:02:53.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35732,
+  "identifier": "fullmetal-alchemist-premium-collection",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fullmetal Alchemist: Premium Collection",
+  "url": "https://gogoanime.vc/category/fullmetal-alchemist-premium-collection",
+  "image": "https://gogocdn.net/cover/fullmetal-alchemist-premium-collection.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 908,
+  "aniId": 908,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:10.000Z",
+    "updatedAt": "2022-05-14T18:48:41.000Z",
+    "checkedAt": "2022-05-14T18:48:41.000Z",
+    "id": 908,
+    "type": "anime",
+    "title": "Fullmetal Alchemist: Premium Collection",
+    "altTitle": [
+      "State Alchemists vs Seven Homunculi",
+      "Enkai-hen",
+      "Chibi Party",
+      "Kodomo-hen",
+      "Kids",
+      "FMA",
+      "Fullmetal Alchemist: Premium OVA Collection",
+      "鋼の錬金術師 PREMIUM COLLECTION"
+    ],
+    "url": "https://myanimelist.net/anime/908/Fullmetal_Alchemist__Premium_Collection",
+    "image": "https://cdn.myanimelist.net/images/anime/10/18689.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=979"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6779"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 979
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T17:08:11.000Z",
+    "checkedAt": "2022-05-15T17:08:11.000Z",
+    "id": 908,
+    "type": "anime",
+    "title": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+    "altTitle": [
+      "Fullmetal Alchemist: Premium OVA Collection",
+      "鋼の錬金術師 PREMIUM COLLECTION",
+      "State Alchemists vs Seven Homunculi",
+      "Enkai-hen",
+      "Chibi Party",
+      "Kodomo-hen"
+    ],
+    "url": "https://anilist.co/anime/908",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 908,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T23:13:05.000Z",
+  "checkedAt": "2022-05-14T23:13:05.000Z",
+  "id": 69,
+  "type": "anime",
+  "title": "Cluster Edge",
+  "altTitle": [
+    "CLUSTER EDGE（クラスターエッジ）"
+  ],
+  "url": "https://myanimelist.net/anime/69/Cluster_Edge",
+  "image": "https://cdn.myanimelist.net/images/anime/1980/103243.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cluster-edge.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2392"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4671"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cluster_Edge"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2392,
+  "Pages": {
+    "9anime": {
+      "8pzv": {
+        "createdAt": "2020-10-12T15:51:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3976,
+        "identifier": "8pzv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cluster Edge",
+        "url": "https://9anime.to/watch/cluster-edge.8pzv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aOQ7KVhaxEo/WH28pWgESHI/AAAAAAABZvM/q8CtFyseCnc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 69,
+        "aniId": 69,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cluster-edge": {
+        "createdAt": "2021-04-06T19:08:37.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36264,
+        "identifier": "cluster-edge",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cluster Edge",
+        "url": "https://gogoanime.vc/category/cluster-edge",
+        "image": "https://gogocdn.net/images/anime/C/cluster-edge.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 69,
+        "aniId": 69,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "69": {
+        "identifier": "69",
+        "malId": 69,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cluster Edge",
+        "url": "https://animixplay.to/anime/69"
+      }
+    },
+    "YugenAnime": {
+      "866": {
+        "identifier": "866",
+        "malId": 69,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cluster Edge",
+        "url": "https://yugen.to/anime/866/cluster-edge/"
+      }
+    }
+  }
+}

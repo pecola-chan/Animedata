@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-29T10:18:09.000Z",
+  "checkedAt": "2022-05-29T10:18:09.000Z",
+  "id": 6355,
+  "type": "anime",
+  "title": "Marie & Gali Episode Zero",
+  "altTitle": [
+    "Marie and Gali Episode Zero",
+    "Marie and Gali Episode 0",
+    "Marie to Gali Episode Zero",
+    "Marie to Gali Episode 0",
+    "マリー & ガリー"
+  ],
+  "url": "https://myanimelist.net/anime/6355/Marie___Gali_Episode_Zero",
+  "image": "https://cdn.myanimelist.net/images/anime/2/14266.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/marie_gali/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6434"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10688"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6434,
+  "Pages": {
+    "9anime": {
+      "zqrw": {
+        "createdAt": "2020-10-12T15:57:16.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11278,
+        "identifier": "zqrw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Marie & Gali Episode Zero",
+        "url": "https://9anime.to/watch/marie-gali-episode-zero.zqrw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Carwp69DHtE/V_-BT87Z6OI/AAAAAAABHNk/Vq6FxIPX2OQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6355,
+        "aniId": 6355,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6355": {
+        "identifier": "6355",
+        "malId": 6355,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Marie &amp; Gali Episode Zero",
+        "url": "https://animixplay.to/anime/6355"
+      }
+    }
+  }
+}

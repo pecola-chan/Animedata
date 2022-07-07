@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T16:19:57.000Z",
+  "checkedAt": "2022-05-14T16:19:57.000Z",
+  "id": 9936,
+  "type": "anime",
+  "title": "Maken-Ki!",
+  "altTitle": [
+    "Maken-Ki! Battling Venus",
+    "マケン姫っ！"
+  ],
+  "url": "https://myanimelist.net/anime/9936/Maken-Ki",
+  "image": "https://cdn.myanimelist.net/images/anime/2/75234.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://maken-ki.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8265"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12925"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Maken-ki!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/maken-ki"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8265,
+  "Pages": {
+    "9anime": {
+      "nw28": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7254,
+        "identifier": "nw28",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maken-Ki! (Dub)",
+        "url": "https://9anime.to/watch/maken-ki-dub.nw28",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gVYJCnB0_5U/V87udDkAwAI/AAAAAAAA77k/Ne9le5srlFI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9936,
+        "aniId": 9936,
+        "deletedAt": null
+      },
+      "zm2": {
+        "createdAt": "2020-10-12T15:57:11.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11194,
+        "identifier": "zm2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maken-Ki!",
+        "url": "https://9anime.to/watch/maken-ki.zm2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4WR2UJeImxo/V4ZQSN_y4CI/AAAAAAAAvR4/r2na1Pts5VQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9936,
+        "aniId": 9936,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "maken-ki": {
+        "createdAt": "2020-10-12T16:01:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19326,
+        "identifier": "maken-ki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maken-ki!",
+        "url": "https://gogoanime.vc/category/maken-ki",
+        "image": "https://cdnimg.xyz/images/anime/M/maken-ki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9936,
+        "aniId": 9936,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2048": {
+        "identifier": "2048",
+        "malId": 9936,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Maken-Ki!",
+        "url": "https://animepahe.com/a/2048"
+      }
+    },
+    "AniMixPlay": {
+      "9936": {
+        "identifier": "9936",
+        "malId": 9936,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Maken-Ki!",
+        "url": "https://animixplay.to/anime/9936"
+      }
+    },
+    "YugenAnime": {
+      "283": {
+        "identifier": "283",
+        "malId": 9936,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Maken-Ki!",
+        "url": "https://yugen.to/anime/283/maken-ki/"
+      }
+    }
+  }
+}

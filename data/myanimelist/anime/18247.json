@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-14T09:55:09.000Z",
+  "checkedAt": "2022-05-14T09:55:09.000Z",
+  "id": 18247,
+  "type": "anime",
+  "title": "IS: Infinite Stratos 2",
+  "altTitle": [
+    "Infinite Stratos 2",
+    "IS〈インフィニット・ストラトス〉2"
+  ],
+  "url": "https://myanimelist.net/anime/18247/IS__Infinite_Stratos_2",
+  "image": "https://cdn.myanimelist.net/images/anime/12/49359.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/is2/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9849"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15285"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/IS_(Infinite_Stratos)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257175"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9849,
+  "Pages": {
+    "9anime": {
+      "jw52": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5059,
+        "identifier": "jw52",
+        "type": "anime",
+        "page": "9anime",
+        "title": "IS: Infinite Stratos 2 (Dub)",
+        "url": "https://9anime.to/watch/is-infinite-stratos-2-dub.jw52",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Snlz9YD4aQ8/V9DuUtBzrSI/AAAAAAAA8Xk/strLD1qxiXo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18247,
+        "aniId": 18247,
+        "deletedAt": null
+      },
+      "qjw": {
+        "createdAt": "2020-10-12T15:55:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8408,
+        "identifier": "qjw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "IS: Infinite Stratos 2",
+        "url": "https://9anime.to/watch/is-infinite-stratos-2.qjw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-psdwaqV-itc/V4EirkDlYII/AAAAAAAAuRo/1AON7DRqnvM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18247,
+        "aniId": 18247,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "infinite-stratos-2": {
+        "createdAt": "2020-10-12T16:00:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18473,
+        "identifier": "infinite-stratos-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Infinite Stratos 2",
+        "url": "https://gogoanime.vc/category/infinite-stratos-2",
+        "image": "https://cdnimg.xyz/images/anime/Infinite-Stratos-2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18247,
+        "aniId": 18247,
+        "deletedAt": null
+      },
+      "is-infinite-stratos-2-dub": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18512,
+        "identifier": "is-infinite-stratos-2-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "IS: Infinite Stratos 2 (Dub)",
+        "url": "https://gogoanime.vc/category/is-infinite-stratos-2-dub",
+        "image": "https://gogocdn.net/cover/is-infinite-stratos-2-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 18247,
+        "aniId": 18247,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "253": {
+        "identifier": "253",
+        "malId": 18247,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "IS: Infinite Stratos 2",
+        "url": "https://animepahe.com/a/253"
+      }
+    },
+    "AniMixPlay": {
+      "18247": {
+        "identifier": "18247",
+        "malId": 18247,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "IS: Infinite Stratos 2",
+        "url": "https://animixplay.to/anime/18247"
+      }
+    },
+    "YugenAnime": {
+      "2720": {
+        "identifier": "2720",
+        "malId": 18247,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "IS: Infinite Stratos 2",
+        "url": "https://yugen.to/anime/2720/is-infinite-stratos-2/"
+      }
+    }
+  }
+}

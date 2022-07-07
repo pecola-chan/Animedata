@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-15T00:22:53.000Z",
+  "checkedAt": "2022-05-15T00:22:53.000Z",
+  "id": 2317,
+  "type": "anime",
+  "title": "Hen",
+  "altTitle": [
+    "Strange Love",
+    "変"
+  ],
+  "url": "https://myanimelist.net/anime/2317/Hen",
+  "image": "https://cdn.myanimelist.net/images/anime/11/4818.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=885"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=86"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hen_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 885,
+  "Pages": {
+    "9anime": {
+      "48lm": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2187,
+        "identifier": "48lm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hen (Dub)",
+        "url": "https://9anime.to/watch/hen-dub.48lm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JxIOJHyMV3s/WO83iqxIiVI/AAAAAAAAhgE/TxAg9pQVWgA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2317,
+        "aniId": 2317,
+        "deletedAt": null
+      },
+      "58mj": {
+        "createdAt": "2020-10-12T15:50:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2589,
+        "identifier": "58mj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hen",
+        "url": "https://9anime.to/watch/hen.58mj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aupC8IVo408/WO83sKWQxtI/AAAAAAAAhgM/TP1w6Tw8EDY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2317,
+        "aniId": 2317,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2317": {
+        "identifier": "2317",
+        "malId": 2317,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hen",
+        "url": "https://animixplay.to/anime/2317"
+      }
+    }
+  }
+}

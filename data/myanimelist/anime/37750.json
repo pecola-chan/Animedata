@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-07-10T03:43:49.000Z",
+  "updatedAt": "2022-04-03T23:02:57.000Z",
+  "checkedAt": null,
+  "id": 37750,
+  "type": "anime",
+  "title": "Turning Mecard W: Vandyne-ui Bimil",
+  "altTitle": [
+    "Turning Mecard W: Vandyne's Secret",
+    "터닝메카드 W 반다인의 비밀"
+  ],
+  "url": "https://myanimelist.net/anime/37750/Turning_Mecard_W__Vandyne-ui_Bimil",
+  "image": "https://cdn.myanimelist.net/images/anime/1728/91954.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mecard.co.kr/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13823"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turning_Mecard"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13823,
+  "Pages": {
+    "9anime": {
+      "xwlw": {
+        "createdAt": "2021-07-10T03:43:47.000Z",
+        "updatedAt": "2021-07-10T04:13:16.000Z",
+        "checkedAt": null,
+        "id": 37777,
+        "identifier": "xwlw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Turning Mecard W: Vandyne-ui Bimil",
+        "url": "https://9anime.to/watch/turning-mecard-w-vandynes-secret.xwlw",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f4/f40c58a56bab34230f06ea084c42434e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37750,
+        "aniId": 128979,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37750": {
+        "identifier": "37750",
+        "malId": 37750,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Turning Mecard W: Vandyne-ui Bimil",
+        "url": "https://animixplay.to/anime/37750"
+      }
+    },
+    "YugenAnime": {
+      "9677": {
+        "identifier": "9677",
+        "malId": 37750,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Turning Mecard W: Vandyne-ui Bimil",
+        "url": "https://yugen.to/anime/9677/turning-mecard-w-vandyne-ui-bimil/"
+      }
+    }
+  }
+}

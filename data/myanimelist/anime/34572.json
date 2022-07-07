@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-14T09:41:14.000Z",
+  "checkedAt": "2022-05-14T09:41:14.000Z",
+  "id": 34572,
+  "type": "anime",
+  "title": "Black Clover",
+  "altTitle": [
+    "Black Clover",
+    "ブラッククローバー"
+  ],
+  "url": "https://myanimelist.net/anime/34572/Black_Clover",
+  "image": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bclover.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12665"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19743"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Black_Clover"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274357"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/black-clover"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12665,
+  "Pages": {
+    "9anime": {
+      "2y44": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2022-06-13T23:32:06.000Z",
+        "checkedAt": "2022-06-13T23:32:06.000Z",
+        "id": 1586,
+        "identifier": "2y44",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Black Clover (Dub)",
+        "url": "https://9anime.to/watch/black-clover-dub.2y44",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/10/6343dcbb451a9d86454caca35d933073.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34572,
+        "aniId": 97940,
+        "deletedAt": null
+      },
+      "v2k6": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2022-06-13T21:32:45.000Z",
+        "checkedAt": "2022-06-13T21:32:45.000Z",
+        "id": 9175,
+        "identifier": "v2k6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Black Clover",
+        "url": "https://9anime.to/watch/black-clover.v2k6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/4c127405d9fa8f78a9d86052721cbefe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34572,
+        "aniId": 97940,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "black-clover-tv": {
+        "createdAt": "2020-10-12T15:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16829,
+        "identifier": "black-clover-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Clover (TV)",
+        "url": "https://gogoanime.vc/category/black-clover-tv",
+        "image": "https://gogocdn.net/cover/black-clover-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34572,
+        "aniId": 97940,
+        "deletedAt": null
+      },
+      "black-clover-tv-dub": {
+        "createdAt": "2020-10-12T15:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16830,
+        "identifier": "black-clover-tv-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Clover (TV) (Dub)",
+        "url": "https://gogoanime.vc/category/black-clover-tv-dub",
+        "image": "https://images.gogoanime.tv/cover/black-clover-tv-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34572,
+        "aniId": 97940,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2264": {
+        "identifier": "2264",
+        "malId": 34572,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Black Clover",
+        "url": "https://animepahe.com/a/2264"
+      }
+    },
+    "AniMixPlay": {
+      "34572": {
+        "identifier": "34572",
+        "malId": 34572,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Black Clover",
+        "url": "https://animixplay.to/anime/34572"
+      }
+    },
+    "YugenAnime": {
+      "875": {
+        "identifier": "875",
+        "malId": 34572,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Black Clover",
+        "url": "https://yugen.to/anime/875/black-clover/"
+      }
+    }
+  }
+}

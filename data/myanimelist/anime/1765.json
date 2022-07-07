@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-15T01:40:55.000Z",
+  "checkedAt": "2022-05-15T01:40:55.000Z",
+  "id": 1765,
+  "type": "anime",
+  "title": "Vampire Sensou",
+  "altTitle": [
+    "Vampire Senso",
+    "Vampire Wars",
+    "ヴァンパイヤー戦争"
+  ],
+  "url": "https://myanimelist.net/anime/1765/Vampire_Sensou",
+  "image": "https://cdn.myanimelist.net/images/anime/1341/96594.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1263"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=596"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vampire_Wars"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1263,
+  "Pages": {
+    "9anime": {
+      "nx6l": {
+        "createdAt": "2020-10-12T15:54:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7277,
+        "identifier": "nx6l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vampire Wars (Dub)",
+        "url": "https://9anime.to/watch/vampire-wars-dub.nx6l",
+        "image": "https://static.akacdn.ru/static/images/2018/03/34ce153d602941614e3083280b3cd116.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1765,
+        "aniId": 1765,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "vampire-sensou-dub": {
+        "createdAt": "2021-06-07T23:21:19.000Z",
+        "updatedAt": "2021-06-07T23:50:15.000Z",
+        "checkedAt": null,
+        "id": 37236,
+        "identifier": "vampire-sensou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vampire Sensou (Dub)",
+        "url": "https://gogoanime.vc/category/vampire-sensou-dub",
+        "image": "https://gogocdn.net/cover/vampire-sensou-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1765,
+        "aniId": 1765,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1765": {
+        "identifier": "1765",
+        "malId": 1765,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vampire Sensou",
+        "url": "https://animixplay.to/anime/1765"
+      }
+    },
+    "YugenAnime": {
+      "6186": {
+        "identifier": "6186",
+        "malId": 1765,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Vampire Sensou",
+        "url": "https://yugen.to/anime/6186/vampire-sensou/"
+      }
+    }
+  }
+}

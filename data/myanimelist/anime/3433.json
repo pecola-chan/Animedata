@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-12-16T17:58:24.000Z",
+  "updatedAt": "2022-05-21T16:15:18.000Z",
+  "checkedAt": "2022-05-21T16:15:18.000Z",
+  "id": 3433,
+  "type": "anime",
+  "title": "Go-Q-Choji Ikkiman",
+  "altTitle": [
+    "Gou-Q-Chouji Ikkiman",
+    "Battle Ball",
+    "剛Q超児イッキマン"
+  ],
+  "url": "https://myanimelist.net/anime/3433/Go-Q-Choji_Ikkiman",
+  "image": "https://cdn.myanimelist.net/images/anime/9/63019.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/ikkiman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2082"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2232"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%89%9BQ%E8%B6%85%E5%85%90%E3%82%A4%E3%83%83%E3%82%AD%E3%83%9E%E3%83%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2082,
+  "Pages": {
+    "9anime": {
+      "p9wq": {
+        "createdAt": "2021-01-01T13:04:10.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32465,
+        "identifier": "p9wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Go-Q-Choji Ikkiman",
+        "url": "https://9anime.to/watch/battle-ball.p9wq",
+        "image": "//static.9anime.to/i/cache/images/f/fe/fe88f52012ffd6af0ec6879e6a249528.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3433,
+        "aniId": 3433,
+        "deletedAt": null
+      }
+    }
+  }
+}

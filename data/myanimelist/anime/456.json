@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T20:59:35.000Z",
+  "checkedAt": "2022-05-14T20:59:35.000Z",
+  "id": 456,
+  "type": "anime",
+  "title": "Gokujou Seitokai",
+  "altTitle": [
+    "Gokujo Seitokai",
+    "Best Student Council",
+    "極上生徒会"
+  ],
+  "url": "https://myanimelist.net/anime/456/Gokujou_Seitokai",
+  "image": "https://cdn.myanimelist.net/images/anime/7/18714.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gokujo.konami.jp/pc/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2964"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5194"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Best_Student_Council"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2964,
+  "Pages": {
+    "9anime": {
+      "0xm3": {
+        "createdAt": "2020-10-12T15:48:57.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 715,
+        "identifier": "0xm3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gokujou Seitokai (Dub)",
+        "url": "https://9anime.to/watch/gokujou-seitokai-dub.0xm3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ugak89egysw/V-6lbvU7U1I/AAAAAAABCrM/sFwQU_Pj2_I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 456,
+        "aniId": 456,
+        "deletedAt": null
+      },
+      "727y": {
+        "createdAt": "2020-10-12T15:50:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3324,
+        "identifier": "727y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gokujou Seitokai",
+        "url": "https://9anime.to/watch/gokujou-seitokai.727y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PaAn3gPRp68/V7C0E5oBb8I/AAAAAAAA3GQ/BRxf5vLZwZI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 456,
+        "aniId": 456,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "best-student-council-dub": {
+        "createdAt": "2020-10-12T15:59:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16787,
+        "identifier": "best-student-council-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Best Student Council (Dub)",
+        "url": "https://gogoanime.vc/category/best-student-council-dub",
+        "image": "https://cdnimg.xyz/cover/best-student-council-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 456,
+        "aniId": 456,
+        "deletedAt": null
+      },
+      "gokujou-seitokai": {
+        "createdAt": "2020-10-12T16:00:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17951,
+        "identifier": "gokujou-seitokai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gokujou Seitokai",
+        "url": "https://gogoanime.vc/category/gokujou-seitokai",
+        "image": "https://cdnimg.xyz/images/anime/G/gokujou-seitokai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 456,
+        "aniId": 456,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "456": {
+        "identifier": "456",
+        "malId": 456,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gokujou Seitokai",
+        "url": "https://animixplay.to/anime/456"
+      }
+    },
+    "YugenAnime": {
+      "3526": {
+        "identifier": "3526",
+        "malId": 456,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gokujou Seitokai",
+        "url": "https://yugen.to/anime/3526/gokujou-seitokai/"
+      }
+    }
+  }
+}

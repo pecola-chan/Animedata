@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-14T18:59:06.000Z",
+  "checkedAt": "2022-05-14T18:59:06.000Z",
+  "id": 916,
+  "type": "anime",
+  "title": "Tokkou",
+  "altTitle": [
+    "Tokko",
+    "TOKKÔ[特公]"
+  ],
+  "url": "https://myanimelist.net/anime/916/Tokkou",
+  "image": "https://cdn.myanimelist.net/images/anime/8/18280.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wowow.co.jp/anime/tokko/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3499"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6276"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/TOKKO"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3499,
+  "Pages": {
+    "9anime": {
+      "8l2v": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3884,
+        "identifier": "8l2v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokkou",
+        "url": "https://9anime.to/watch/tokkou.8l2v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GZFlrg6Acjc/V-6wd8007qI/AAAAAAABCsI/44_n7rrAHi4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 916,
+        "aniId": 916,
+        "deletedAt": null
+      },
+      "qn3j": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8454,
+        "identifier": "qn3j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokkou (Dub)",
+        "url": "https://9anime.to/watch/tokkou-dub.qn3j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UVLyRG9KAMo/V672EEMMcMI/AAAAAAAA2wU/IVTqf7Oog5s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 916,
+        "aniId": 916,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokko": {
+        "createdAt": "2021-11-03T16:34:20.000Z",
+        "updatedAt": "2021-11-03T17:04:19.000Z",
+        "checkedAt": null,
+        "id": 39167,
+        "identifier": "tokko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokko",
+        "url": "https://gogoanime.pe/category/tokko",
+        "image": "https://gogocdn.net/images/anime/T/tokko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 916,
+        "aniId": 916,
+        "deletedAt": null
+      },
+      "tokkou-dub": {
+        "createdAt": "2022-02-25T14:18:40.000Z",
+        "updatedAt": "2022-02-25T14:47:39.000Z",
+        "checkedAt": null,
+        "id": 40294,
+        "identifier": "tokkou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokkou (Dub)",
+        "url": "https://gogoanime.fi/category/tokkou-dub",
+        "image": "https://gogocdn.net/cover/tokkou-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 916,
+        "aniId": 916,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "916": {
+        "identifier": "916",
+        "malId": 916,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokkou",
+        "url": "https://animixplay.to/anime/916"
+      }
+    },
+    "YugenAnime": {
+      "2978": {
+        "identifier": "2978",
+        "malId": 916,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokkou",
+        "url": "https://yugen.to/anime/2978/tokkou/"
+      }
+    }
+  }
+}

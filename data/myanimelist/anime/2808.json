@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-14T23:26:17.000Z",
+  "checkedAt": "2022-05-14T23:26:17.000Z",
+  "id": 2808,
+  "type": "anime",
+  "title": "Irregular Hunter X: The Day of Sigma",
+  "altTitle": [
+    "Irregular Hunter X",
+    "MegaMan Maverick Hunter X: The Day of Sigma",
+    "Megaman X - The Day of Sigma",
+    "イレギュラーハンターＸ"
+  ],
+  "url": "https://myanimelist.net/anime/2808/Irregular_Hunter_X__The_Day_of_Sigma",
+  "image": "https://cdn.myanimelist.net/images/anime/3/9131.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5973"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6980"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mega_Man_Maverick_Hunter_X"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5973,
+  "Pages": {
+    "9anime": {
+      "8ppo": {
+        "createdAt": "2020-10-12T15:51:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3968,
+        "identifier": "8ppo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Irregular Hunter X: The Day of Sigma",
+        "url": "https://9anime.to/watch/irregular-hunter-x-the-day-of-sigma.8ppo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-IclhvsVCfVM/WIGjOa47k2I/AAAAAAABaWA/UUQv_SuxZ4k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2808,
+        "aniId": 2808,
+        "deletedAt": null
+      },
+      "022o5": {
+        "createdAt": "2021-11-27T01:06:13.000Z",
+        "updatedAt": "2021-11-27T01:35:32.000Z",
+        "checkedAt": null,
+        "id": 39315,
+        "identifier": "022o5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Irregular Hunter X: The Day of Sigma (Dub)",
+        "url": "https://9anime.to/watch/mega-man-x-the-day-of-sigma-dub.022o5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/01/018397d72b8ec68663cac9b83e2ca835.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2808,
+        "aniId": 2808,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "megaman-the-movie": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19402,
+        "identifier": "megaman-the-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Megaman the Movie",
+        "url": "https://gogoanime.vc/category/megaman-the-movie",
+        "image": "https://gogocdn.net/images/0003.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2808,
+        "aniId": 2808,
+        "deletedAt": null
+      },
+      "megaman-x-the-day-of-sigma-dub": {
+        "createdAt": "2020-12-21T14:55:03.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30759,
+        "identifier": "megaman-x-the-day-of-sigma-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Megaman X - The Day of Sigma (Dub)",
+        "url": "https://gogoanime.vc/category/megaman-x-the-day-of-sigma-dub",
+        "image": "https://gogocdn.net/cover/megaman-x-the-day-of-sigma-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2808,
+        "aniId": 2808,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2808": {
+        "identifier": "2808",
+        "malId": 2808,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Irregular Hunter X: The Day of Sigma",
+        "url": "https://animixplay.to/anime/2808"
+      }
+    }
+  }
+}

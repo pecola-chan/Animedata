@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T17:45:53.000Z",
+  "checkedAt": "2022-05-14T17:45:53.000Z",
+  "id": 111,
+  "type": "anime",
+  "title": "Corrector Yui",
+  "altTitle": [
+    "Collector Yui",
+    "Corrector Yui",
+    "コレクター・ユイ"
+  ],
+  "url": "https://myanimelist.net/anime/111/Corrector_Yui",
+  "image": "https://cdn.myanimelist.net/images/anime/1696/105659.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3529"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1282"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Corrector_Yui"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3529,
+  "Pages": {
+    "9anime": {
+      "k8xv": {
+        "createdAt": "2020-10-12T15:52:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5387,
+        "identifier": "k8xv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Corrector Yui (Dub)",
+        "url": "https://9anime.to/watch/corrector-yui-dub.k8xv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eOgYQW2OC3o/WAEQ8nBGG4I/AAAAAAABHx0/SdYzHnouN5s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 111,
+        "aniId": 111,
+        "deletedAt": null
+      },
+      "xv8q": {
+        "createdAt": "2020-10-12T15:56:33.000Z",
+        "updatedAt": "2022-06-14T00:02:29.000Z",
+        "checkedAt": "2022-06-14T00:02:29.000Z",
+        "id": 10394,
+        "identifier": "xv8q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Corrector Yui",
+        "url": "https://9anime.to/watch/corrector-yui.xv8q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/404b806604760c023201cbede062711b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 111,
+        "aniId": 111,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "corrector-yui": {
+        "createdAt": "2020-12-31T16:02:06.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32033,
+        "identifier": "corrector-yui",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Corrector Yui",
+        "url": "https://gogoanime.vc/category/corrector-yui",
+        "image": "https://gogocdn.net/cover/corrector-yui.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 111,
+        "aniId": 111,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "111": {
+        "identifier": "111",
+        "malId": 111,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Corrector Yui",
+        "url": "https://animixplay.to/anime/111"
+      }
+    },
+    "YugenAnime": {
+      "3262": {
+        "identifier": "3262",
+        "malId": 111,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Corrector Yui",
+        "url": "https://yugen.to/anime/3262/corrector-yui/"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-06-13T11:08:23.000Z",
+  "updatedAt": "2021-06-13T11:38:18.000Z",
+  "checkedAt": null,
+  "id": 37361,
+  "identifier": "robot-girls-z-specials",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Robot Girls Z Specials",
+  "url": "https://gogoanime.vc/category/robot-girls-z-specials",
+  "image": "https://gogocdn.net/cover/robot-girls-z-specials.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 24763,
+  "aniId": 20798,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:28.000Z",
+    "updatedAt": "2022-05-15T00:08:17.000Z",
+    "checkedAt": "2022-05-15T00:08:17.000Z",
+    "id": 24763,
+    "type": "anime",
+    "title": "Robot Girls Z Specials",
+    "altTitle": [
+      "Robot Girls Z Episodes 3.5, 6.5, 9.5",
+      "ロボットガールズＺ"
+    ],
+    "url": "https://myanimelist.net/anime/24763/Robot_Girls_Z_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/8/63697.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.robot-girlsz.com/items/index.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:37.000Z",
+    "updatedAt": "2022-05-15T22:44:58.000Z",
+    "checkedAt": "2022-05-15T22:44:58.000Z",
+    "id": 20798,
+    "type": "anime",
+    "title": "Robot Girls Z Specials",
+    "altTitle": [
+      "ロボットガールズＺ"
+    ],
+    "url": "https://anilist.co/anime/20798",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20798.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 24763,
+    "deletedAt": null
+  }
+}

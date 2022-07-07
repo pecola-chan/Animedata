@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T16:51:03.000Z",
+  "checkedAt": "2022-05-14T16:51:03.000Z",
+  "id": 37981,
+  "type": "anime",
+  "title": "Kaijuu no Kodomo",
+  "altTitle": [
+    "The Sea Monster's Children",
+    "Children of the Sea",
+    "海獣の子供"
+  ],
+  "url": "https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo",
+  "image": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kaijunokodomo.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14221"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21872"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Children_of_the_Sea_(manga)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14221,
+  "Pages": {
+    "9anime": {
+      "4ono": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2022-01-05T04:48:21.000Z",
+        "checkedAt": null,
+        "id": 2323,
+        "identifier": "4ono",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaijuu no Kodomo",
+        "url": "https://9anime.to/watch/children-of-the-sea.4ono",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/02/f3f600e515f3bd685edd0e1b45d3f3b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37981,
+        "aniId": 103221,
+        "deletedAt": null
+      },
+      "o2l8": {
+        "createdAt": "2020-10-12T15:54:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7338,
+        "identifier": "o2l8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Children of the Sea (Dub)",
+        "url": "https://9anime.to/watch/children-of-the-sea-dub.o2l8",
+        "image": "https://static.akacdn.ru/files/images/2020/09/488d776086923a92ff8bb7abc600e710.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37981,
+        "aniId": 103221,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaijuu-no-kodomo": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18662,
+        "identifier": "kaijuu-no-kodomo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaijuu no Kodomo",
+        "url": "https://gogoanime.vc/category/kaijuu-no-kodomo",
+        "image": "https://gogocdn.net/cover/kaijuu-no-kodomo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37981,
+        "aniId": 103221,
+        "deletedAt": null
+      },
+      "kaijuu-no-kodomo-dub": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18663,
+        "identifier": "kaijuu-no-kodomo-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaijuu no Kodomo (Dub)",
+        "url": "https://gogoanime.vc/category/kaijuu-no-kodomo-dub",
+        "image": "https://gogocdn.net/cover/kaijuu-no-kodomo-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37981,
+        "aniId": 103221,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3774": {
+        "identifier": "3774",
+        "malId": 37981,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kaijuu no Kodomo",
+        "url": "https://animepahe.com/a/3774"
+      }
+    },
+    "AniMixPlay": {
+      "37981": {
+        "identifier": "37981",
+        "malId": 37981,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaijuu no Kodomo",
+        "url": "https://animixplay.to/anime/37981"
+      }
+    },
+    "YugenAnime": {
+      "2105": {
+        "identifier": "2105",
+        "malId": 37981,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kaijuu no Kodomo",
+        "url": "https://yugen.to/anime/2105/kaijuu-no-kodomo/"
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-13T23:45:32.000Z",
+  "checkedAt": "2022-05-13T23:45:32.000Z",
+  "id": 36633,
+  "type": "anime",
+  "title": "Date A Live III",
+  "altTitle": [
+    "Date A Live 3",
+    "Date A Live 3rd Season",
+    "DAL 3",
+    "Date A Live III",
+    "デート・ア・ライブⅢ"
+  ],
+  "url": "https://myanimelist.net/anime/36633/Date_A_Live_III",
+  "image": "https://cdn.myanimelist.net/images/anime/1055/100468.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://date-a-live-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13533"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21509"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Date_A_Live"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275937"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13533,
+  "Pages": {
+    "9anime": {
+      "nqxn": {
+        "createdAt": "2020-10-12T15:54:00.000Z",
+        "updatedAt": "2022-06-20T12:00:05.000Z",
+        "checkedAt": "2022-06-20T12:00:05.000Z",
+        "id": 7212,
+        "identifier": "nqxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Date A Live III (Dub)",
+        "url": "https://9anime.to/watch/date-a-live-iii-dub.nqxn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/79/793d0da3360df4aaa6bb423b33e9bcf2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36633,
+        "aniId": 100722,
+        "deletedAt": null
+      },
+      "o7r8": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-07-27T18:22:07.000Z",
+        "checkedAt": null,
+        "id": 7443,
+        "identifier": "o7r8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Date A Live III",
+        "url": "https://9anime.to/watch/date-a-live-iii.o7r8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/01/584e152e8d71b668ce3623574f7058b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36633,
+        "aniId": 100722,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "date-a-live-iii": {
+        "createdAt": "2020-10-12T16:00:12.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17273,
+        "identifier": "date-a-live-iii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Date A Live III",
+        "url": "https://gogoanime.vc/category/date-a-live-iii",
+        "image": "https://cdnimg.xyz/cover/date-a-live-iii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36633,
+        "aniId": 100722,
+        "deletedAt": null
+      },
+      "date-a-live-iii-dub": {
+        "createdAt": "2020-10-12T16:00:12.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17274,
+        "identifier": "date-a-live-iii-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Date A Live III (Dub)",
+        "url": "https://gogoanime.vc/category/date-a-live-iii-dub",
+        "image": "https://gogocdn.net/cover/date-a-live-iii-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 36633,
+        "aniId": 100722,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2918": {
+        "identifier": "2918",
+        "malId": 36633,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Date A Live III",
+        "url": "https://animepahe.com/a/2918"
+      }
+    },
+    "AniMixPlay": {
+      "36633": {
+        "identifier": "36633",
+        "malId": 36633,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Date A Live III",
+        "url": "https://animixplay.to/anime/36633"
+      }
+    },
+    "YugenAnime": {
+      "2091": {
+        "identifier": "2091",
+        "malId": 36633,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Date A Live III",
+        "url": "https://yugen.to/anime/2091/date-a-live-iii/"
+      }
+    }
+  }
+}

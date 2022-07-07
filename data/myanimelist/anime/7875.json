@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-12-12T13:48:46.000Z",
+  "updatedAt": "2022-05-14T23:16:53.000Z",
+  "checkedAt": "2022-05-14T23:16:53.000Z",
+  "id": 7875,
+  "type": "anime",
+  "title": "Kanokon: Manatsu no Dai Shanikusai Specials",
+  "altTitle": [
+    "Kanokon R Specials",
+    "Kanokon OVA Specials",
+    "かのこん ～真夏の大謝肉祭～"
+  ],
+  "url": "https://myanimelist.net/anime/7875/Kanokon__Manatsu_no_Dai_Shanikusai_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/22071.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kanokon.com/ova/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6787"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kanokon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6787,
+  "Pages": {
+    "9anime": {
+      "98zm": {
+        "createdAt": "2021-02-14T05:05:54.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34782,
+        "identifier": "98zm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanokon: Manatsu no Dai Shanikusai Specials",
+        "url": "https://9anime.to/watch/kanokon-manatsu-no-dai-shanikusai-specials.98zm",
+        "image": "//static.bunnycdn.ru/i/cache/images/9/96/96ea9b1609ef885e202275f9c706df42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7875,
+        "aniId": 7875,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3964": {
+        "identifier": "3964",
+        "malId": 7875,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanokon: Manatsu no Dai Shanikusai Specials",
+        "url": "https://animepahe.com/a/3964"
+      }
+    },
+    "AniMixPlay": {
+      "7875": {
+        "identifier": "7875",
+        "malId": 7875,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanokon: Manatsu no Dai Shanikusai Specials",
+        "url": "https://animixplay.to/anime/7875"
+      }
+    }
+  }
+}

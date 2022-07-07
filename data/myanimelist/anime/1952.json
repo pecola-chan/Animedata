@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T19:25:18.000Z",
+  "checkedAt": "2022-05-14T19:25:18.000Z",
+  "id": 1952,
+  "type": "anime",
+  "title": "Vampire Hunter",
+  "altTitle": [
+    "Vampire Hunter: The Animated Series",
+    "Night Warriors: Darkstalkers' Revenge",
+    "ヴァンパイアハンター"
+  ],
+  "url": "https://myanimelist.net/anime/1952/Vampire_Hunter",
+  "image": "https://cdn.myanimelist.net/images/anime/2/7358.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=59"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1034"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Night_Warriors:_Darkstalkers%27_Revenge_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 59,
+  "Pages": {
+    "9anime": {
+      "l8rz": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5955,
+        "identifier": "l8rz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vampire Hunter (Dub)",
+        "url": "https://9anime.to/watch/vampire-hunter-dub.l8rz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_wH3RgA0bOo/V-6e8zHL3TI/AAAAAAABCqE/GmMxd2OC-eo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1952,
+        "aniId": 1952,
+        "deletedAt": null
+      },
+      "mzvx": {
+        "createdAt": "2020-10-12T15:53:40.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6854,
+        "identifier": "mzvx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vampire Hunter",
+        "url": "https://9anime.to/watch/vampire-hunter.mzvx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qUgsr9tgDig/V-6e-f6opjI/AAAAAAABCqI/kzFfA8Y4zQA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1952,
+        "aniId": 1952,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1952": {
+        "identifier": "1952",
+        "malId": 1952,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vampire Hunter",
+        "url": "https://animixplay.to/anime/1952"
+      }
+    },
+    "YugenAnime": {
+      "5073": {
+        "identifier": "5073",
+        "malId": 1952,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Vampire Hunter",
+        "url": "https://yugen.to/anime/5073/vampire-hunter/"
+      }
+    }
+  }
+}

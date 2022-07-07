@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-15T00:34:59.000Z",
+  "checkedAt": "2022-05-15T00:34:59.000Z",
+  "id": 38220,
+  "type": "anime",
+  "title": "Ze Tian Ji 4th Season",
+  "altTitle": [
+    "Way of Choices 4th Season",
+    "Fighter of the Destiny 4th Season",
+    "择天记 第四季"
+  ],
+  "url": "https://myanimelist.net/anime/38220/Ze_Tian_Ji_4th_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1918/93515.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/m/mzc002000he7xqq.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14297"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E6%8B%A9%E5%A4%A9%E8%AE%B0_(%E5%8A%A8%E7%94%BB)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14297,
+  "Pages": {
+    "9anime": {
+      "v1y6": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2022-04-02T05:03:52.000Z",
+        "checkedAt": null,
+        "id": 9164,
+        "identifier": "v1y6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ze Tian Ji 4",
+        "url": "https://9anime.to/watch/ze-tian-ji-4.v1y6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/11/aa875b20ee7f879f333238444ace7bc0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38220,
+        "aniId": 108986,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ze-tian-ji-4th-season": {
+        "createdAt": "2020-10-12T16:02:21.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21657,
+        "identifier": "ze-tian-ji-4th-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ze Tian Ji 4th Season",
+        "url": "https://gogoanime.vc/category/ze-tian-ji-4th-season",
+        "image": "https://cdnimg.xyz/cover/ze-tian-ji-4th-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38220,
+        "aniId": 108986,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38220": {
+        "identifier": "38220",
+        "malId": 38220,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ze Tian Ji 4th Season",
+        "url": "https://animixplay.to/anime/38220"
+      }
+    },
+    "YugenAnime": {
+      "6961": {
+        "identifier": "6961",
+        "malId": 38220,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ze Tian Ji 4th Season",
+        "url": "https://yugen.to/anime/6961/ze-tian-ji-4th-season/"
+      }
+    }
+  }
+}

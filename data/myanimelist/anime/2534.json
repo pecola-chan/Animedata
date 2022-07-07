@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-14T21:32:30.000Z",
+  "checkedAt": "2022-05-14T21:32:30.000Z",
+  "id": 2534,
+  "type": "anime",
+  "title": "Angelique",
+  "altTitle": [
+    "Angelique OVA 4",
+    "オリジナルビデオアニメーション アンジェリーク"
+  ],
+  "url": "https://myanimelist.net/anime/2534/Angelique",
+  "image": "https://cdn.myanimelist.net/images/anime/1479/94792.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3173"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4468"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Angelique_(video_game_series)#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3173,
+  "Pages": {
+    "9anime": {
+      "8403": {
+        "createdAt": "2020-10-12T15:48:34.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 280,
+        "identifier": "8403",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Angelique",
+        "url": "https://9anime.to/watch/angelique.8403",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-G90hcupLjJo/WKKmUfbj_8I/AAAAAAABc0Q/bZwNyKaKw7g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2534,
+        "aniId": 2534,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2534": {
+        "identifier": "2534",
+        "malId": 2534,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Angelique",
+        "url": "https://animixplay.to/anime/2534"
+      }
+    },
+    "YugenAnime": {
+      "2176": {
+        "identifier": "2176",
+        "malId": 2534,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Angelique",
+        "url": "https://yugen.to/anime/2176/angelique/"
+      }
+    }
+  }
+}

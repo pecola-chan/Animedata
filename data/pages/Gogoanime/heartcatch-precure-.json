@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:00:41.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18213,
+  "identifier": "heartcatch-precure-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Heartcatch Precure! ",
+  "url": "https://gogoanime.vc/category/heartcatch-precure-",
+  "image": "https://gogocdn.net/images/anime/H/heartcatch-precure.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 7645,
+  "aniId": 7645,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:56.000Z",
+    "updatedAt": "2022-05-14T16:43:03.000Z",
+    "checkedAt": "2022-05-14T16:43:03.000Z",
+    "id": 7645,
+    "type": "anime",
+    "title": "Heartcatch Precure!",
+    "altTitle": [
+      "Heartcatch Pretty Cure!",
+      "ハートキャッチプリキュア!"
+    ],
+    "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
+    "image": "https://cdn.myanimelist.net/images/anime/2/25915.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/hc_precure/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7285"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11195"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/HeartCatch_PreCure"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7285
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:50.000Z",
+    "updatedAt": "2022-05-15T13:49:35.000Z",
+    "checkedAt": "2022-05-15T13:49:35.000Z",
+    "id": 7645,
+    "type": "anime",
+    "title": "Heartcatch Precure!",
+    "altTitle": [
+      "Heartcatch Precure!",
+      "ハートキャッチプリキュア!",
+      "Heartcatch Pretty Cure!"
+    ],
+    "url": "https://anilist.co/anime/7645",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7645-YRvajw8WUsfJ.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 7645,
+    "deletedAt": null
+  }
+}

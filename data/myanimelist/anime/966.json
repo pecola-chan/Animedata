@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-13T15:43:40.000Z",
+  "checkedAt": "2022-05-13T15:43:40.000Z",
+  "id": 966,
+  "type": "anime",
+  "title": "Crayon Shin-chan",
+  "altTitle": [
+    "Shin Chan",
+    "クレヨンしんちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/10/59897.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-asahi.co.jp/shinchan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=708"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=540"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crayon_Shin-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 708,
+  "Pages": {
+    "9anime": {
+      "m36z": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6359,
+        "identifier": "m36z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Crayon Shin-chan (Dub)",
+        "url": "https://9anime.to/watch/crayon-shin-chan-dub.m36z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gzRYACM_W80/V8-7cwiliBI/AAAAAAAA8EQ/bLAbRN0os8s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 966,
+        "aniId": 966,
+        "deletedAt": null
+      },
+      "y38j": {
+        "createdAt": "2020-10-12T15:56:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10531,
+        "identifier": "y38j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Crayon Shin-chan",
+        "url": "https://9anime.to/watch/crayon-shin-chan.y38j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1Avkft4UvEk/WOIkdUjQwMI/AAAAAAAAfLo/qR7yG6MOt1k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 966,
+        "aniId": 966,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "crayon-shin-chan": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17185,
+        "identifier": "crayon-shin-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Crayon Shin Chan",
+        "url": "https://gogoanime.vc/category/crayon-shin-chan",
+        "image": "https://images.gogoanime.tv/images/upload/59897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 966,
+        "aniId": 966,
+        "deletedAt": null
+      },
+      "crayon-shin-chan-1994": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17186,
+        "identifier": "crayon-shin-chan-1994",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Crayon Shin-chan (1994)",
+        "url": "https://gogoanime.vc/category/crayon-shin-chan-1994",
+        "image": "https://gogocdn.net/images/shin-chan2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 966,
+        "aniId": 966,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "787": {
+        "identifier": "787",
+        "malId": 966,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Crayon Shin-chan",
+        "url": "https://animepahe.com/a/787"
+      }
+    },
+    "AniMixPlay": {
+      "966": {
+        "identifier": "966",
+        "malId": 966,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Crayon Shin-chan",
+        "url": "https://animixplay.to/anime/966"
+      }
+    },
+    "YugenAnime": {
+      "4112": {
+        "identifier": "4112",
+        "malId": 966,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Crayon Shin-chan",
+        "url": "https://yugen.to/anime/4112/crayon-shin-chan/"
+      }
+    }
+  }
+}

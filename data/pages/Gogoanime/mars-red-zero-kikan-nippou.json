@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-03-30T02:30:49.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36061,
+  "identifier": "mars-red-zero-kikan-nippou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mars Red: Zero Kikan Nippou",
+  "url": "https://gogoanime.vc/category/mars-red-zero-kikan-nippou",
+  "image": "https://gogocdn.net/cover/mars-red-zero-kikan-nippou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 44129,
+  "aniId": 126874,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-03-30T02:01:15.000Z",
+    "updatedAt": "2022-05-14T18:43:29.000Z",
+    "checkedAt": "2022-05-14T18:43:29.000Z",
+    "id": 44129,
+    "type": "anime",
+    "title": "Mars Red: Zero Kikan Nippou",
+    "altTitle": [
+      "Code Zero Daily Report",
+      "ぜろきかん日報"
+    ],
+    "url": "https://myanimelist.net/anime/44129/Mars_Red__Zero_Kikan_Nippou",
+    "image": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://marsred.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15389"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mars_Red#Anime"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 15389
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:13.000Z",
+    "updatedAt": "2022-05-15T16:27:35.000Z",
+    "checkedAt": "2022-05-15T16:27:35.000Z",
+    "id": 126874,
+    "type": "anime",
+    "title": "Mars Red: Zero Kikan Nippou",
+    "altTitle": [
+      "ぜろきかん日報"
+    ],
+    "url": "https://anilist.co/anime/126874",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126874-2YkH8dT5hw89.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 44129,
+    "deletedAt": null
+  }
+}

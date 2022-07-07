@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2022-05-16T16:45:37.000Z",
+  "checkedAt": "2022-05-16T16:45:37.000Z",
+  "id": 28339,
+  "type": "anime",
+  "title": "2005-nen Uchuu no Tabi",
+  "altTitle": [
+    "2005 Space Odyssey",
+    "2005年宇宙の旅"
+  ],
+  "url": "https://myanimelist.net/anime/28339/2005-nen_Uchuu_no_Tabi",
+  "image": "https://cdn.myanimelist.net/images/anime/7/81170.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.style.fm/as/13_special/sh_060512.shtml"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11398"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11398,
+  "Pages": {
+    "9anime": {
+      "6699": {
+        "createdAt": "2020-10-12T15:48:33.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 212,
+        "identifier": "6699",
+        "type": "anime",
+        "page": "9anime",
+        "title": "2005-nen Uchuu no Tabi",
+        "url": "https://9anime.to/watch/2005-nen-uchuu-no-tabi.6699",
+        "image": "https://static.akacdn.ru/files/images/2018/03/6841a0928c489d464150c876a1bd2266.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28339,
+        "aniId": 104092,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2022-05-14T17:27:10.000Z",
+  "checkedAt": "2022-05-14T17:27:10.000Z",
+  "id": 28883,
+  "type": "anime",
+  "title": "Hidan no Aria AA",
+  "altTitle": [
+    "Hidan no Aria Double A",
+    "Aria the Scarlet Ammo AA",
+    "緋弾のアリアAA（ダブルエー）"
+  ],
+  "url": "https://myanimelist.net/anime/28883/Hidan_no_Aria_AA",
+  "image": "https://cdn.myanimelist.net/images/anime/12/76700.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ariaaa.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10980"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16692"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aria_the_Scarlet_Ammo"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273857"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10980,
+  "Pages": {
+    "9anime": {
+      "5w0": {
+        "createdAt": "2020-10-12T15:50:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2799,
+        "identifier": "5w0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hidan no Aria AA",
+        "url": "https://9anime.to/watch/hidan-no-aria-aa.5w0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-d8iFkyN_MxU/V3FxTxnvMFI/AAAAAAAArjw/zOVzwdd9-zo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28883,
+        "aniId": 20991,
+        "deletedAt": null
+      },
+      "j8y2": {
+        "createdAt": "2020-10-12T15:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4806,
+        "identifier": "j8y2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hidan no Aria AA (Dub)",
+        "url": "https://9anime.to/watch/hidan-no-aria-aa-dub.j8y2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-96mcV33Riyo/WL7b_cX56eI/AAAAAAABe3o/uzWLmI_uQ9Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28883,
+        "aniId": 20991,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hidan-no-aria-aa": {
+        "createdAt": "2020-10-12T17:46:57.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23638,
+        "identifier": "hidan-no-aria-aa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hidan no Aria AA",
+        "url": "https://gogoanime.vc/category/hidan-no-aria-aa",
+        "image": "https://gogocdn.net/images/upload/176328.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28883,
+        "aniId": 20991,
+        "deletedAt": null
+      },
+      "hidan-no-aria-aa-dub": {
+        "createdAt": "2020-11-03T23:24:24.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28827,
+        "identifier": "hidan-no-aria-aa-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hidan no Aria AA (Dub)",
+        "url": "https://gogoanime.vc/category/hidan-no-aria-aa-dub",
+        "image": "https://gogocdn.net/cover/hidan-no-aria-aa-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28883,
+        "aniId": 20991,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "12": {
+        "identifier": "12",
+        "malId": 28883,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hidan no Aria AA",
+        "url": "https://animepahe.com/a/12"
+      }
+    },
+    "AniMixPlay": {
+      "28883": {
+        "identifier": "28883",
+        "malId": 28883,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hidan no Aria AA",
+        "url": "https://animixplay.to/anime/28883"
+      }
+    },
+    "YugenAnime": {
+      "15062": {
+        "identifier": "15062",
+        "malId": 28883,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hidan no Aria AA",
+        "url": "https://yugen.to/anime/15062/hidan-no-aria-aa/"
+      }
+    }
+  }
+}

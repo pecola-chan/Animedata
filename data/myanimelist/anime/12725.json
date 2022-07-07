@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T22:53:46.000Z",
+  "checkedAt": "2022-05-14T22:53:46.000Z",
+  "id": 12725,
+  "type": "anime",
+  "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
+  "altTitle": [
+    "Initial D: Project D to the Next Stage - Speculations on Project D",
+    "頭文字D to the Next Stage ～プロジェクトDへ向けて～"
+  ],
+  "url": "https://myanimelist.net/anime/12725/Initial_D__Project_D_to_the_Next_Stage_-_Project_D_e_Mukete",
+  "image": "https://cdn.myanimelist.net/images/anime/12/35739.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%A0%AD%E6%96%87%E5%AD%97D#OVA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "3rq92": {
+        "createdAt": "2021-06-18T06:51:22.000Z",
+        "updatedAt": "2021-06-18T07:20:49.000Z",
+        "checkedAt": null,
+        "id": 37422,
+        "identifier": "3rq92",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
+        "url": "https://9anime.to/watch/initial-d-project-d-to-the-next-stage-project-d-e-mukete.3rq92",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0a/0a2e79003d98862ba8d6f5494edee8f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12725,
+        "aniId": 12725,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3321": {
+        "identifier": "3321",
+        "malId": 12725,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
+        "url": "https://animepahe.com/a/3321"
+      }
+    }
+  }
+}

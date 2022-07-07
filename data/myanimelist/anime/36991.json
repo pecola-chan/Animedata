@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-15T00:50:29.000Z",
+  "checkedAt": "2022-05-15T00:50:29.000Z",
+  "id": 36991,
+  "type": "anime",
+  "title": "Lupin III 3DCG",
+  "altTitle": [
+    "Lupin III CG Pilot",
+    "ルパン三世 3DCG"
+  ],
+  "url": "https://myanimelist.net/anime/36991/Lupin_III_3DCG",
+  "image": "https://cdn.myanimelist.net/images/anime/11/89649.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lupin_III"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "yxnx": {
+        "createdAt": "2020-10-12T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10901,
+        "identifier": "yxnx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III 3DCG",
+        "url": "https://9anime.to/watch/lupin-iii-3dcg.yxnx",
+        "image": "https://static.akacdn.ru/files/images/2018/03/9312e33ec2dbb53f6c5cb250323eda6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36991,
+        "aniId": 101497,
+        "deletedAt": null
+      }
+    }
+  }
+}

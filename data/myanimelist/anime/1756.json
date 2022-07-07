@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-17T22:16:40.000Z",
+  "checkedAt": "2022-05-17T22:16:40.000Z",
+  "id": 1756,
+  "type": "anime",
+  "title": "Di Gi Charat Natsuyasumi Special",
+  "altTitle": [
+    "DiGi Charat Natsuyasumi Special",
+    "Di Gi Charat 夏休みスペシャル"
+  ],
+  "url": "https://myanimelist.net/anime/1756/Di_Gi_Charat_Natsuyasumi_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/2/28182.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.broccoli.co.jp/dejiko/anime.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=553"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2934"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Specials"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 553,
+  "Pages": {
+    "9anime": {
+      "3486": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 105,
+        "identifier": "3486",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Di Gi Charat Natsuyasumi Special",
+        "url": "https://9anime.to/watch/di-gi-charat-natsuyasumi-special.3486",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-s-QUxk7pIPE/WLfZRUot9_I/AAAAAAABegI/XDvyPK7HDaM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1756,
+        "aniId": 1756,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1756": {
+        "identifier": "1756",
+        "malId": 1756,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Di Gi Charat Natsuyasumi Special",
+        "url": "https://animixplay.to/anime/1756"
+      }
+    },
+    "YugenAnime": {
+      "5608": {
+        "identifier": "5608",
+        "malId": 1756,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Di Gi Charat Natsuyasumi Special",
+        "url": "https://yugen.to/anime/5608/di-gi-charat-natsuyasumi-special/"
+      }
+    }
+  }
+}

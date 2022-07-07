@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T18:06:47.000Z",
+  "checkedAt": "2022-05-14T18:06:47.000Z",
+  "id": 32447,
+  "type": "anime",
+  "title": "Nora to Oujo to Noraneko Heart",
+  "altTitle": [
+    "Noratoto",
+    "Nora, Princess, and Stray Cat",
+    "ノラと皇女と野良猫ハート"
+  ],
+  "url": "https://myanimelist.net/anime/32447/Nora_to_Oujo_to_Noraneko_Heart",
+  "image": "https://cdn.myanimelist.net/images/anime/1969/116702.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nora-anime.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11864"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19749"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%A9%E3%81%A8%E7%9A%87%E5%A5%B3%E3%81%A8%E9%87%8E%E8%89%AF%E7%8C%AB%E3%83%8F%E3%83%BC%E3%83%88"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273767"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11864,
+  "Pages": {
+    "9anime": {
+      "wyll": {
+        "createdAt": "2020-10-12T15:56:20.000Z",
+        "updatedAt": "2022-06-14T03:05:01.000Z",
+        "checkedAt": "2022-06-14T03:05:01.000Z",
+        "id": 9988,
+        "identifier": "wyll",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nora to Oujo to Noraneko Heart",
+        "url": "https://9anime.to/watch/nora-princess-and-stray-cat.wyll",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/91248d3e9ab87093690b86efd114b989.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32447,
+        "aniId": 21568,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nora-to-oujo-to-noraneko-heart": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19790,
+        "identifier": "nora-to-oujo-to-noraneko-heart",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nora to Oujo to Noraneko Heart",
+        "url": "https://gogoanime.vc/category/nora-to-oujo-to-noraneko-heart",
+        "image": "https://images.gogoanime.tv/cover/nora-to-oujo-to-noraneko-heart.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32447,
+        "aniId": 21568,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2226": {
+        "identifier": "2226",
+        "malId": 32447,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nora to Oujo to Noraneko Heart",
+        "url": "https://animepahe.com/a/2226"
+      }
+    },
+    "AniMixPlay": {
+      "32447": {
+        "identifier": "32447",
+        "malId": 32447,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nora to Oujo to Noraneko Heart",
+        "url": "https://animixplay.to/anime/32447"
+      }
+    },
+    "YugenAnime": {
+      "4386": {
+        "identifier": "4386",
+        "malId": 32447,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nora to Oujo to Noraneko Heart",
+        "url": "https://yugen.to/anime/4386/nora-to-oujo-to-noraneko-heart/"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T10:05:52.000Z",
+  "checkedAt": "2022-05-14T10:05:52.000Z",
+  "id": 4130,
+  "type": "anime",
+  "title": "Petit Eva: Evangelion@School",
+  "altTitle": [
+    "Puchi Eva",
+    "Eva-School",
+    "EAS",
+    "EOS",
+    "Neon Genesis Evangelion @ School",
+    "ぷちえう゛ぁ"
+  ],
+  "url": "https://myanimelist.net/anime/4130/Petit_Eva__EvangelionSchool",
+  "image": "https://cdn.myanimelist.net/images/anime/10/7593.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.evangelion.co.jp/petit_eva/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6184"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8539"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6184,
+  "Pages": {
+    "9anime": {
+      "28k5": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1317,
+        "identifier": "28k5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Petit Eva: ",
+        "url": "https://9anime.to/watch/petit-eva-evangelionatschool.28k5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-C3H7BZRa8V8/WPm080e4EmI/AAAAAAAAjLI/RC91ViDLfwM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4130,
+        "aniId": 4130,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2907": {
+        "identifier": "2907",
+        "malId": 4130,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Petit Eva: Evangelion@School",
+        "url": "https://animepahe.com/a/2907"
+      }
+    },
+    "AniMixPlay": {
+      "4130": {
+        "identifier": "4130",
+        "malId": 4130,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Petit Eva: Evangelion@School",
+        "url": "https://animixplay.to/anime/4130"
+      }
+    }
+  }
+}

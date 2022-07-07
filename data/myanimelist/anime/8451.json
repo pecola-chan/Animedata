@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-21T19:39:24.000Z",
+  "checkedAt": "2022-05-21T19:39:24.000Z",
+  "id": 8451,
+  "type": "anime",
+  "title": "Donguri to Yamaneko",
+  "altTitle": [
+    "Miyazawa Kenji Collection - The Acorns and the Wildcat",
+    "宮沢賢治作品集 どんぐりと山猫"
+  ],
+  "url": "https://myanimelist.net/anime/8451/Donguri_to_Yamaneko",
+  "image": "https://cdn.myanimelist.net/images/anime/5/22304.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4843"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4426"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/どんぐりと山猫"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4843,
+  "Pages": {
+    "9anime": {
+      "8jp3": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3873,
+        "identifier": "8jp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Miyazawa Kenji Collection - The Acorns and the Wildcat",
+        "url": "https://9anime.to/watch/miyazawa-kenji-collection-the-acorns-and-the-wildcat.8jp3",
+        "image": "https://static.akacdn.ru/files/images/2020/04/b3a486ac494a2202e7b8f9bb0fd70aa4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8451,
+        "aniId": 8451,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-15T06:18:16.000Z",
+  "checkedAt": "2022-05-15T06:18:16.000Z",
+  "id": 38740,
+  "type": "anime",
+  "title": "Bai She: Yuan Qi",
+  "altTitle": [
+    "White Snake",
+    "白蛇：缘起"
+  ],
+  "url": "https://myanimelist.net/anime/38740/Bai_She__Yuan_Qi",
+  "image": "https://cdn.myanimelist.net/images/anime/1559/103214.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.weibo.com/zhuiguangren"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14876"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14876,
+  "Pages": {
+    "9anime": {
+      "32r2": {
+        "createdAt": "2020-10-12T15:49:42.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1667,
+        "identifier": "32r2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "White Snake (Dub)",
+        "url": "https://9anime.to/watch/white-snake-dub.32r2",
+        "image": "https://static.akacdn.ru/files/images/2020/01/f4df79ed4cb6831ce731ec535b84b224.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38740,
+        "aniId": 107371,
+        "deletedAt": null
+      },
+      "w2v6": {
+        "createdAt": "2020-10-12T15:56:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9624,
+        "identifier": "w2v6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "White Snake",
+        "url": "https://9anime.to/watch/white-snake.w2v6",
+        "image": "https://static.akacdn.ru/static/images/2019/01/39a690c3dc853a281131ff31dcfed9b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38740,
+        "aniId": 107371,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bai-she-yuan-qi": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16670,
+        "identifier": "bai-she-yuan-qi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bai She: Yuan Qi",
+        "url": "https://gogoanime.vc/category/bai-she-yuan-qi",
+        "image": "https://cdnimg.xyz/cover/bai-she-yuan-qi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38740,
+        "aniId": 107371,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3765": {
+        "identifier": "3765",
+        "malId": 38740,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bai She: Yuan Qi",
+        "url": "https://animepahe.com/a/3765"
+      }
+    },
+    "AniMixPlay": {
+      "38740": {
+        "identifier": "38740",
+        "malId": 38740,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bai She: Yuan Qi",
+        "url": "https://animixplay.to/anime/38740"
+      }
+    },
+    "YugenAnime": {
+      "3131": {
+        "identifier": "3131",
+        "malId": 38740,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bai She: Yuan Qi",
+        "url": "https://yugen.to/anime/3131/bai-she-yuan-qi/"
+      }
+    }
+  }
+}

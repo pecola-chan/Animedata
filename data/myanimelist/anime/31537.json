@@ -1,0 +1,160 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-14T16:05:09.000Z",
+  "checkedAt": "2022-05-14T16:05:09.000Z",
+  "id": 31537,
+  "type": "anime",
+  "title": "Manaria Friends",
+  "altTitle": [
+    "Rage of Bahamut: Manaria Friends",
+    "Shingeki no Bahamut: Manaria Friends",
+    "Mysteria Friends",
+    "マナリアフレンズ"
+  ],
+  "url": "https://myanimelist.net/anime/31537/Manaria_Friends",
+  "image": "https://cdn.myanimelist.net/images/anime/1590/111673.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://manaria.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11544"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17601"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rage_of_Bahamut:_Manaria_Friends"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277427"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/mysteria-friends"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11544,
+  "Pages": {
+    "9anime": {
+      "k5w9": {
+        "createdAt": "2020-10-12T15:52:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5302,
+        "identifier": "k5w9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mysteria Friends (Dub)",
+        "url": "https://9anime.to/watch/mysteria-friends-dub.k5w9",
+        "image": "https://static.akacdn.ru/files/images/2019/04/45e96665f1884879855ec81b701255c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31537,
+        "aniId": 21322,
+        "deletedAt": null
+      },
+      "my2p": {
+        "createdAt": "2020-10-12T15:53:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6806,
+        "identifier": "my2p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shingeki no Bahamut: Manaria Friends",
+        "url": "https://9anime.to/watch/shingeki-no-bahamut-manaria-friends.my2p",
+        "image": "https://static.akacdn.ru/static/images/2018/04/c9d0ce0aee41e53c232fee7e0d120057.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31537,
+        "aniId": 21322,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "manaria-friends": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19333,
+        "identifier": "manaria-friends",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Manaria Friends",
+        "url": "https://gogoanime.vc/category/manaria-friends",
+        "image": "https://cdnimg.xyz/cover/manaria-friends.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31537,
+        "aniId": 21322,
+        "deletedAt": null
+      },
+      "manaria-friends-dub": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19334,
+        "identifier": "manaria-friends-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Manaria Friends (Dub)",
+        "url": "https://gogoanime.vc/category/manaria-friends-dub",
+        "image": "https://cdnimg.xyz/cover/manaria-friends-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31537,
+        "aniId": 21322,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2914": {
+        "identifier": "2914",
+        "malId": 31537,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Manaria Friends",
+        "url": "https://animepahe.com/a/2914"
+      }
+    },
+    "AniMixPlay": {
+      "31537": {
+        "identifier": "31537",
+        "malId": 31537,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Manaria Friends",
+        "url": "https://animixplay.to/anime/31537"
+      }
+    },
+    "YugenAnime": {
+      "1164": {
+        "identifier": "1164",
+        "malId": 31537,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Manaria Friends",
+        "url": "https://yugen.to/anime/1164/manaria-friends/"
+      }
+    }
+  }
+}

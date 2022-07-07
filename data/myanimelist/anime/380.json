@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T17:11:35.000Z",
+  "checkedAt": "2022-05-14T17:11:35.000Z",
+  "id": 380,
+  "type": "anime",
+  "title": "Fushigi Yuugi OVA",
+  "altTitle": [
+    "Fushigi Yugi OVA 1",
+    "Mysterious Play OVA",
+    "ふしぎ遊戯"
+  ],
+  "url": "https://myanimelist.net/anime/380/Fushigi_Yuugi_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1171/92443.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/fushigi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=163"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=337"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fushigi_Yuugi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 163,
+  "Pages": {
+    "9anime": {
+      "7o86": {
+        "createdAt": "2020-10-12T15:51:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3498,
+        "identifier": "7o86",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fushigi Yuugi OVA (Dub)",
+        "url": "https://9anime.to/watch/fushigi-yuugi-ova-dub.7o86",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8FRkUlUHvts/WITf0bSbIKI/AAAAAAABawE/7GA-tG7WmIA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 380,
+        "aniId": 380,
+        "deletedAt": null
+      },
+      "j034": {
+        "createdAt": "2020-10-12T15:51:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4565,
+        "identifier": "j034",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fushigi Yuugi OVA",
+        "url": "https://9anime.to/watch/fushigi-yuugi-ova.j034",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-y8NPXCMwPhI/WITf2_dtx8I/AAAAAAABawI/qpFRoU8ngKQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 380,
+        "aniId": 380,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "793": {
+        "identifier": "793",
+        "malId": 380,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fushigi Yuugi OVA",
+        "url": "https://animepahe.com/a/793"
+      }
+    },
+    "AniMixPlay": {
+      "380": {
+        "identifier": "380",
+        "malId": 380,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fushigi Yuugi OVA",
+        "url": "https://animixplay.to/anime/380"
+      }
+    },
+    "YugenAnime": {
+      "4308": {
+        "identifier": "4308",
+        "malId": 380,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fushigi Yuugi OVA",
+        "url": "https://yugen.to/anime/4308/fushigi-yuugi-ova/"
+      }
+    }
+  }
+}

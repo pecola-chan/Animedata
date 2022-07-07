@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T23:19:41.000Z",
+  "checkedAt": "2022-05-14T23:19:41.000Z",
+  "id": 1540,
+  "type": "anime",
+  "title": "Touch: Miss Lonely Yesterday - Are kara, Kimi wa...",
+  "altTitle": [
+    "タッチ Miss Lonely Yesterday あれから, 君は..."
+  ],
+  "url": "https://myanimelist.net/anime/1540/Touch__Miss_Lonely_Yesterday_-_Are_kara_Kimi_wa",
+  "image": "https://cdn.myanimelist.net/images/anime/1300/96421.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3059"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3288"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3059,
+  "Pages": {
+    "9anime": {
+      "oym4": {
+        "createdAt": "2020-10-12T15:54:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7740,
+        "identifier": "oym4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Touch: Miss Lonely Yesterday - Are kara, Kimi wa...",
+        "url": "https://9anime.to/watch/touch-miss-lonely-yesterday-are-kara-kimi-wa.oym4",
+        "image": "https://static.akacdn.ru/files/images/2018/04/3f9c40dc212ef4ba93b53c624fae044f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1540,
+        "aniId": 1540,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "touch-miss-lonely-yesterday": {
+        "createdAt": "2020-10-12T16:02:08.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21197,
+        "identifier": "touch-miss-lonely-yesterday",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Touch: Miss Lonely Yesterday",
+        "url": "https://gogoanime.vc/category/touch-miss-lonely-yesterday",
+        "image": "https://gogocdn.net/images/anime/T/Touch-Miss Lonely-Yesterday.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1540,
+        "aniId": 1540,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1540": {
+        "identifier": "1540",
+        "malId": 1540,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Touch: Miss Lonely Yesterday - Are kara, Kimi wa...",
+        "url": "https://animixplay.to/anime/1540"
+      }
+    },
+    "YugenAnime": {
+      "5288": {
+        "identifier": "5288",
+        "malId": 1540,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Touch: Miss Lonely Yesterday - Are kara, Kimi wa...",
+        "url": "https://yugen.to/anime/5288/touch-miss-lonely-yesterday/"
+      }
+    }
+  }
+}

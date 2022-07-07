@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T22:30:10.000Z",
+  "checkedAt": "2022-05-14T22:30:10.000Z",
+  "id": 33056,
+  "type": "anime",
+  "title": "Buddy Go!",
+  "altTitle": [
+    "Oha-Suta",
+    "Ribon x Oha Suta Specials",
+    "Ribbon x Oha Suta Specials",
+    "バディゴ!"
+  ],
+  "url": "https://myanimelist.net/anime/33056/Buddy_Go",
+  "image": "https://cdn.myanimelist.net/images/anime/1587/121016.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ribon.shueisha.co.jp/ohasta/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12049"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12049,
+  "Pages": {
+    "9anime": {
+      "2885": {
+        "createdAt": "2020-10-12T15:48:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 70,
+        "identifier": "2885",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Buddy Go!",
+        "url": "https://9anime.to/watch/buddy-go.2885",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TAsvUq6N4HQ/WPl1t9xEr4I/AAAAAAAAjEU/hX_cN_5wF14/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33056,
+        "aniId": 21734,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "buddy-go": {
+        "createdAt": "2022-03-14T09:29:52.000Z",
+        "updatedAt": "2022-03-14T09:59:41.000Z",
+        "checkedAt": null,
+        "id": 40459,
+        "identifier": "buddy-go",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Buddy Go!",
+        "url": "https://gogoanime.fi/category/buddy-go",
+        "image": "https://gogocdn.net/cover/buddy-go.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33056,
+        "aniId": 21734,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33056": {
+        "identifier": "33056",
+        "malId": 33056,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Buddy Go!",
+        "url": "https://animixplay.to/anime/33056"
+      }
+    },
+    "YugenAnime": {
+      "11796": {
+        "identifier": "11796",
+        "malId": 33056,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Buddy Go!",
+        "url": "https://yugen.to/anime/11796/buddy-go/"
+      }
+    }
+  }
+}

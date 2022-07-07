@@ -1,0 +1,42 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-14T23:05:47.000Z",
+  "checkedAt": "2022-05-14T23:05:47.000Z",
+  "id": 30289,
+  "type": "anime",
+  "title": "Dededen",
+  "altTitle": [
+    "でででん"
+  ],
+  "url": "https://myanimelist.net/anime/30289/Dededen",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75717.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "8913": {
+        "createdAt": "2020-10-12T15:48:35.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 286,
+        "identifier": "8913",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dededen",
+        "url": "https://9anime.to/watch/dededen.8913",
+        "image": "https://static.akacdn.ru/files/images/2018/03/30081852d14fa3d25330eae0b1afaf64.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30289,
+        "aniId": 102672,
+        "deletedAt": null
+      }
+    }
+  }
+}

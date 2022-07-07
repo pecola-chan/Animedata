@@ -1,0 +1,50 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-15T07:17:58.000Z",
+  "checkedAt": "2022-05-15T07:17:58.000Z",
+  "id": 10820,
+  "type": "anime",
+  "title": "Sengoku Majin Goushougun (Movie)",
+  "altTitle": [
+    "Demon God of the War Torn Land Goshogun",
+    "Goshogun",
+    "Macron 1",
+    "戦国魔神ゴーショーグン"
+  ],
+  "url": "https://myanimelist.net/anime/10820/Sengoku_Majin_Goushougun_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82706.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7091"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7091,
+  "Pages": {
+    "9anime": {
+      "jyv3": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5104,
+        "identifier": "jyv3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Majin Goushougun (Movie)",
+        "url": "https://9anime.to/watch/sengoku-majin-goushougun-movie.jyv3",
+        "image": "https://static.akacdn.ru/files/images/2018/04/f7b5898bff0d80e009e2cf3baa7c5317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10820,
+        "aniId": 10820,
+        "deletedAt": null
+      }
+    }
+  }
+}

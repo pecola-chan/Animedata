@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2022-05-14T17:31:41.000Z",
+  "checkedAt": "2022-05-14T17:31:41.000Z",
+  "id": 28405,
+  "type": "anime",
+  "title": "Ansatsu Kyoushitsu: Deai no Jikan",
+  "altTitle": [
+    "Assassination Classroom",
+    "Ansatsu Kyoushitsu Episode 0: Deai no Jikan",
+    "Ansatsu Kyoushitsu: Jump Festa 2014 Special",
+    "Assassination Classroom: Meeting Time",
+    "暗殺教室 episode:0 出会いの時間"
+  ],
+  "url": "https://myanimelist.net/anime/28405/Ansatsu_Kyoushitsu__Deai_no_Jikan",
+  "image": "https://cdn.myanimelist.net/images/anime/12/68547.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ansatsu-anime.com/news/detail.php?id=1015954"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10702"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Assassination_Classroom"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10702,
+  "Pages": {
+    "9anime": {
+      "q69v": {
+        "createdAt": "2020-10-12T15:55:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8311,
+        "identifier": "q69v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ansatsu Kyoushitsu (TV): Deai no Jikan",
+        "url": "https://9anime.to/watch/ansatsu-kyoushitsu-tv-deai-no-jikan.q69v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Tenjt4MTqAc/WGqBNya4PWI/AAAAAAABWMA/5De1BAHDnuI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28405,
+        "aniId": 21303,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ansatsu-kyoushitsu-ova": {
+        "createdAt": "2020-10-12T15:59:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16549,
+        "identifier": "ansatsu-kyoushitsu-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ansatsu Kyoushitsu OVA",
+        "url": "https://gogoanime.vc/category/ansatsu-kyoushitsu-ova",
+        "image": "https://gogocdn.net/images/Ansatsu Kyoushitsu OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 28405,
+        "aniId": 21303,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1955": {
+        "identifier": "1955",
+        "malId": 28405,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ansatsu Kyoushitsu: Deai no Jikan",
+        "url": "https://animepahe.com/a/1955"
+      }
+    },
+    "AniMixPlay": {
+      "28405": {
+        "identifier": "28405",
+        "malId": 28405,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ansatsu Kyoushitsu: Deai no Jikan",
+        "url": "https://animixplay.to/anime/28405"
+      }
+    },
+    "YugenAnime": {
+      "14597": {
+        "identifier": "14597",
+        "malId": 28405,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ansatsu Kyoushitsu: Deai no Jikan",
+        "url": "https://yugen.to/anime/14597/ansatsu-kyoushitsu-deai-no-jikan/"
+      }
+    }
+  }
+}

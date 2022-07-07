@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-12-12T07:48:45.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 30072,
+  "identifier": "code-e",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Code-E",
+  "url": "https://gogoanime.vc/category/code-e",
+  "image": "https://gogocdn.net/images/anime/C/code-e.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2564,
+  "aniId": 2564,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:30.000Z",
+    "updatedAt": "2022-05-14T18:51:17.000Z",
+    "checkedAt": "2022-05-14T18:51:17.000Z",
+    "id": 2564,
+    "type": "anime",
+    "title": "Code-E",
+    "altTitle": [
+      "CODE-E"
+    ],
+    "url": "https://myanimelist.net/anime/2564/Code-E",
+    "image": "https://cdn.myanimelist.net/images/anime/10/57435.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://avexmovie.jp/lineup/code-e/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5023"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7617"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/CODE-E"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5023
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:23.000Z",
+    "updatedAt": "2022-05-15T15:23:59.000Z",
+    "checkedAt": "2022-05-15T15:23:59.000Z",
+    "id": 2564,
+    "type": "anime",
+    "title": "Code-E",
+    "altTitle": [
+      "CODE-E"
+    ],
+    "url": "https://anilist.co/anime/2564",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2564.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2564,
+    "deletedAt": null
+  }
+}

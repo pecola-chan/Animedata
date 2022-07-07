@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T16:00:41.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18216,
+  "identifier": "heibai-wushang",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Heibai Wushang",
+  "url": "https://gogoanime.vc/category/heibai-wushang",
+  "image": "https://cdnimg.xyz/cover/heibai-wushang.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 33562,
+  "aniId": 99654,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:47.000Z",
+    "updatedAt": "2022-05-14T19:07:11.000Z",
+    "checkedAt": "2022-05-14T19:07:11.000Z",
+    "id": 33562,
+    "type": "anime",
+    "title": "Heibai Wushang",
+    "altTitle": [
+      "Black and White Warriors",
+      "The Unparalleled Black & White",
+      "黑白无双"
+    ],
+    "url": "https://myanimelist.net/anime/33562/Heibai_Wushang",
+    "image": "https://cdn.myanimelist.net/images/anime/9/88093.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13428"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13428
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:09.000Z",
+    "updatedAt": "2022-05-15T12:35:11.000Z",
+    "checkedAt": "2022-05-15T12:35:11.000Z",
+    "id": 99654,
+    "type": "anime",
+    "title": "Heibai Wushuang",
+    "altTitle": [
+      "黑白无双",
+      "Black and White Warriors",
+      "Black & White Pair",
+      "The Unparalleled Black & White"
+    ],
+    "url": "https://anilist.co/anime/99654",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99654-iIyI2QtF3T1x.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 33562,
+    "deletedAt": null
+  }
+}

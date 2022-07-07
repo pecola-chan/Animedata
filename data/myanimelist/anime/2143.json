@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T21:26:29.000Z",
+  "checkedAt": "2022-05-14T21:26:29.000Z",
+  "id": 2143,
+  "type": "anime",
+  "title": "Saiyuuki Reload: Burial",
+  "altTitle": [
+    "Saiyuki Reload: Burial",
+    "最遊記RELOAD -burial-"
+  ],
+  "url": "https://myanimelist.net/anime/2143/Saiyuuki_Reload__Burial",
+  "image": "https://cdn.myanimelist.net/images/anime/1890/94055.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://saiyuki-ova.net/web/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4871"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7250"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4871,
+  "Pages": {
+    "9anime": {
+      "zq3p": {
+        "createdAt": "2020-10-12T15:57:15.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11263,
+        "identifier": "zq3p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saiyuuki Reload: Burial",
+        "url": "https://9anime.to/watch/saiyuuki-reload-burial.zq3p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BmN_TSh1WI8/WAhPrf34J5I/AAAAAAABJhQ/xnrtEixYPYw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2143,
+        "aniId": 2143,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3622": {
+        "identifier": "3622",
+        "malId": 2143,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Saiyuuki Reload: Burial",
+        "url": "https://animepahe.com/a/3622"
+      }
+    },
+    "AniMixPlay": {
+      "2143": {
+        "identifier": "2143",
+        "malId": 2143,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saiyuuki Reload: Burial",
+        "url": "https://animixplay.to/anime/2143"
+      }
+    }
+  }
+}

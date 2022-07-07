@@ -1,0 +1,83 @@
+{
+  "createdAt": "2021-07-27T01:51:58.000Z",
+  "updatedAt": "2022-05-14T22:27:06.000Z",
+  "checkedAt": "2022-05-14T22:27:06.000Z",
+  "id": 38110,
+  "type": "anime",
+  "title": "Tales of HR",
+  "altTitle": [
+    "Tales of Homeroom",
+    "ているず おぶ HR"
+  ],
+  "url": "https://myanimelist.net/anime/38110/Tales_of_HR",
+  "image": "https://cdn.myanimelist.net/images/anime/1637/93339.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://asobistore.jp/content/title/Talesof/HR/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14250"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14250,
+  "Pages": {
+    "9anime": {
+      "xrjoq": {
+        "createdAt": "2022-03-05T19:00:29.000Z",
+        "updatedAt": "2022-03-05T19:29:36.000Z",
+        "checkedAt": null,
+        "id": 40391,
+        "identifier": "xrjoq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tales of HR",
+        "url": "https://9anime.to/watch/tales-of-homeroom.xrjoq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c9/c9bdad5f6a97d4b0c265bf15de332315.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38110,
+        "aniId": 109189,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tales-of-hr": {
+        "createdAt": "2022-03-07T05:29:49.000Z",
+        "updatedAt": "2022-03-07T05:59:39.000Z",
+        "checkedAt": null,
+        "id": 40404,
+        "identifier": "tales-of-hr",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tales of HR",
+        "url": "https://gogoanime.fi/category/tales-of-hr",
+        "image": "https://gogocdn.net/cover/tales-of-hr.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38110,
+        "aniId": 109189,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "9913": {
+        "identifier": "9913",
+        "malId": 38110,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tales of HR",
+        "url": "https://yugen.to/anime/9913/thor-tales-of-asgard/"
+      }
+    }
+  }
+}

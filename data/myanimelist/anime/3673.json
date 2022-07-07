@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T21:25:22.000Z",
+  "checkedAt": "2022-05-14T21:25:22.000Z",
+  "id": 3673,
+  "type": "anime",
+  "title": "Nijuu Mensou no Musume",
+  "altTitle": [
+    "The Daughter of Twenty Faces",
+    "Chiko, Heiress of the Phantom Thief",
+    "The Daughter of 20 Faces",
+    "二十面相の娘"
+  ],
+  "url": "https://myanimelist.net/anime/3673/Nijuu_Mensou_no_Musume",
+  "image": "https://cdn.myanimelist.net/images/anime/3/8694.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.chico-tv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5671"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9163"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nij%C5%AB_Mens%C5%8D_no_Musume"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5671,
+  "Pages": {
+    "9anime": {
+      "n97m": {
+        "createdAt": "2020-10-12T15:53:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7044,
+        "identifier": "n97m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nijuu Mensou no Musume",
+        "url": "https://9anime.to/watch/nijuu-mensou-no-musume.n97m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3X3OtwotOkI/V-dMcYcRRfI/AAAAAAABAtM/Gn0_DfUy3YI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3673,
+        "aniId": 3673,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nijuu-mensou-no-musume": {
+        "createdAt": "2021-10-25T00:01:09.000Z",
+        "updatedAt": "2021-10-25T00:30:53.000Z",
+        "checkedAt": null,
+        "id": 39095,
+        "identifier": "nijuu-mensou-no-musume",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nijuu Mensou no Musume",
+        "url": "https://gogoanime.pe/category/nijuu-mensou-no-musume",
+        "image": "https://gogocdn.net/images/anime/N/nijuu-mensou-no-musume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3673,
+        "aniId": 3673,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3673": {
+        "identifier": "3673",
+        "malId": 3673,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nijuu Mensou no Musume",
+        "url": "https://animixplay.to/anime/3673"
+      }
+    },
+    "YugenAnime": {
+      "2112": {
+        "identifier": "2112",
+        "malId": 3673,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nijuu Mensou no Musume",
+        "url": "https://yugen.to/anime/2112/nijuu-mensou-no-musume/"
+      }
+    }
+  }
+}

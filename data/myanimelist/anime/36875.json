@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-15T01:54:18.000Z",
+  "checkedAt": "2022-05-15T01:54:18.000Z",
+  "id": 36875,
+  "type": "anime",
+  "title": "Akuma no Memumemu-chan",
+  "altTitle": [
+    "悪魔のメムメムちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/36875/Akuma_no_Memumemu-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/1789/106695.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.shonenjump.com/p/sp/1801/memumemu_anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13620"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E3%81%AE%E3%83%A1%E3%83%A0%E3%83%A1%E3%83%A0%E3%81%A1%E3%82%83%E3%82%93"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13620,
+  "Pages": {
+    "9anime": {
+      "2y1l": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1583,
+        "identifier": "2y1l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akuma no Memumemu-chan",
+        "url": "https://9anime.to/watch/akuma-no-memumemu-chan.2y1l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/04/2ed5517f25bb6e9d5af3ff26764f0a56.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36875,
+        "aniId": 100666,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akuma-no-memumemu-chan": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16479,
+        "identifier": "akuma-no-memumemu-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akuma no Memumemu-chan",
+        "url": "https://gogoanime.vc/category/akuma-no-memumemu-chan",
+        "image": "https://images.gogoanime.tv/cover/akuma-no-memumemu-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36875,
+        "aniId": 100666,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2524": {
+        "identifier": "2524",
+        "malId": 36875,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Akuma no Memumemu-chan",
+        "url": "https://animepahe.com/a/2524"
+      }
+    },
+    "AniMixPlay": {
+      "36875": {
+        "identifier": "36875",
+        "malId": 36875,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akuma no Memumemu-chan",
+        "url": "https://animixplay.to/anime/36875"
+      }
+    },
+    "YugenAnime": {
+      "4659": {
+        "identifier": "4659",
+        "malId": 36875,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akuma no Memumemu-chan",
+        "url": "https://yugen.to/anime/4659/akuma-no-memumemu-chan/"
+      }
+    }
+  }
+}

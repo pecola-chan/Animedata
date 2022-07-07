@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T19:33:05.000Z",
+  "checkedAt": "2022-05-14T19:33:05.000Z",
+  "id": 41480,
+  "type": "anime",
+  "title": "Destiny Child",
+  "altTitle": [
+    "Destiny Child",
+    "デスティニーチャイルド"
+  ],
+  "url": "https://myanimelist.net/anime/41480/Destiny_Child",
+  "image": "https://cdn.myanimelist.net/images/anime/1359/108921.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.destiny-child.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14072"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14072,
+  "Pages": {
+    "9anime": {
+      "n1nk": {
+        "createdAt": "2020-10-12T15:53:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6885,
+        "identifier": "n1nk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Destiny Child",
+        "url": "https://9anime.to/watch/destiny-child.n1nk",
+        "image": "https://static.akacdn.ru/files/images/2020/08/f00f7c7350ff7a1fde60c48455c138f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41480,
+        "aniId": 118124,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "destiny-child": {
+        "createdAt": "2020-10-12T16:00:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17317,
+        "identifier": "destiny-child",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Destiny Child",
+        "url": "https://gogoanime.vc/category/destiny-child",
+        "image": "https://gogocdn.net/cover/destiny-child.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41480,
+        "aniId": 118124,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41480": {
+        "identifier": "41480",
+        "malId": 41480,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Destiny Child",
+        "url": "https://animixplay.to/anime/41480"
+      }
+    },
+    "YugenAnime": {
+      "2141": {
+        "identifier": "2141",
+        "malId": 41480,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Destiny Child",
+        "url": "https://yugen.to/anime/2141/destiny-child/"
+      }
+    }
+  }
+}

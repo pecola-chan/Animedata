@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-15T11:04:31.000Z",
+  "checkedAt": "2022-05-15T11:04:31.000Z",
+  "id": 3691,
+  "type": "anime",
+  "title": "Watashi to Watashi: Futari no Lotte",
+  "altTitle": [
+    "I and Myself: The Two Lottes",
+    "The Parent Trap",
+    "The Two Lottes",
+    "わたしとわたし～ふたりのロッテ"
+  ],
+  "url": "https://myanimelist.net/anime/3691/Watashi_to_Watashi__Futari_no_Lotte",
+  "image": "https://cdn.myanimelist.net/images/anime/10/17854.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/tv/data/t_watasiwatasi.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3325"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2003"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%A8%E3%82%8F%E3%81%9F%E3%81%97_%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E3%83%AD%E3%83%83%E3%83%86"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3325,
+  "Pages": {
+    "9anime": {
+      "wxq7": {
+        "createdAt": "2020-10-12T15:56:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9970,
+        "identifier": "wxq7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Two Lottes",
+        "url": "https://9anime.to/watch/the-two-lottes.wxq7",
+        "image": "https://static.akacdn.ru/files/images/2019/05/4e37ea0fc67d05bfa0a370a4c82da7f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3691,
+        "aniId": 3691,
+        "deletedAt": null
+      }
+    }
+  }
+}

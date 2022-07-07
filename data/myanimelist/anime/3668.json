@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T21:22:30.000Z",
+  "checkedAt": "2022-05-14T21:22:30.000Z",
+  "id": 3668,
+  "type": "anime",
+  "title": "Telepathy Shoujo Ran",
+  "altTitle": [
+    "Telepathy Shojo Ran",
+    "The Telepathy Girl Ran",
+    "テレパシー少女 蘭"
+  ],
+  "url": "https://myanimelist.net/anime/3668/Telepathy_Shoujo_Ran",
+  "image": "https://cdn.myanimelist.net/images/anime/12/21526.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/ran/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5655"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9141"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Telepathy_shoujo_ran"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5655,
+  "Pages": {
+    "9anime": {
+      "0m15": {
+        "createdAt": "2020-10-12T15:48:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 569,
+        "identifier": "0m15",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Telepathy Shoujo Ran",
+        "url": "https://9anime.to/watch/telepathy-shoujo-ran.0m15",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tUr87sOKiKo/V70GigUGuBI/AAAAAAAA4-A/8J8MaD77B6w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3668,
+        "aniId": 3668,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "telepathy-shoujo-ran-": {
+        "createdAt": "2021-04-17T03:14:20.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36572,
+        "identifier": "telepathy-shoujo-ran-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Telepathy Shoujo Ran ",
+        "url": "https://gogoanime.vc/category/telepathy-shoujo-ran-",
+        "image": "https://gogocdn.net/images/anime/TH/telepathy-shoujo-ran.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3668,
+        "aniId": 3668,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3668": {
+        "identifier": "3668",
+        "malId": 3668,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Telepathy Shoujo Ran",
+        "url": "https://animixplay.to/anime/3668"
+      }
+    },
+    "YugenAnime": {
+      "2020": {
+        "identifier": "2020",
+        "malId": 3668,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Telepathy Shoujo Ran",
+        "url": "https://yugen.to/anime/2020/telepathy-shoujo-ran/"
+      }
+    }
+  }
+}

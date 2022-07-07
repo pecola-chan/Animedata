@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-15T00:31:47.000Z",
+  "checkedAt": "2022-05-15T00:31:47.000Z",
+  "id": 35231,
+  "type": "anime",
+  "title": "Vatican Kiseki Chousakan: Majo no Soup",
+  "altTitle": [
+    "Vatican Miracle Examiner Special",
+    "バチカン奇跡調査官 魔女のスープ"
+  ],
+  "url": "https://myanimelist.net/anime/35231/Vatican_Kiseki_Chousakan__Majo_no_Soup",
+  "image": "https://cdn.myanimelist.net/images/anime/1272/98077.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kisekichosakan.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13271"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19890"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13271,
+  "Pages": {
+    "9anime": {
+      "7p41": {
+        "createdAt": "2020-10-12T15:51:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3516,
+        "identifier": "7p41",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vatican Kiseki Chousakan OVA",
+        "url": "https://9anime.to/watch/vatican-kiseki-chousakan-ova.7p41",
+        "image": "https://static.akacdn.ru/static/images/2018/04/162fba45ed77f9917bf1c3578bece747.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35231,
+        "aniId": 99568,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "vatican-kiseki-chousakan-ova": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21363,
+        "identifier": "vatican-kiseki-chousakan-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vatican Kiseki Chousakan OVA",
+        "url": "https://gogoanime.vc/category/vatican-kiseki-chousakan-ova",
+        "image": "https://cdnimg.xyz/cover/vatican-kiseki-chousakan-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35231,
+        "aniId": 99568,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "35231": {
+        "identifier": "35231",
+        "malId": 35231,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vatican Kiseki Chousakan: Majo no Soup",
+        "url": "https://animixplay.to/anime/35231"
+      }
+    }
+  }
+}

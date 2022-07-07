@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-11-27T07:01:41.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29583,
+  "identifier": "iczer-girl-iczelion",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Iczer-Girl Iczelion",
+  "url": "https://gogoanime.vc/category/iczer-girl-iczelion",
+  "image": "https://gogocdn.net/cover/iczer-girl-iczelion.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1831,
+  "aniId": 1831,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:22.000Z",
+    "updatedAt": "2022-05-15T01:31:18.000Z",
+    "checkedAt": "2022-05-15T01:31:18.000Z",
+    "id": 1831,
+    "type": "anime",
+    "title": "Iczer-Girl Iczelion",
+    "altTitle": [
+      "Sen-shoujo Iczelion",
+      "Iczer Gal Iczelion",
+      "Iczelion",
+      "戦-少女[イクサーガール]イクセリオン"
+    ],
+    "url": "https://myanimelist.net/anime/1831/Iczer-Girl_Iczelion",
+    "image": "https://cdn.myanimelist.net/images/anime/1523/99255.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1246"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=683"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Iczer_Girl_Iczelion"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1246
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:02.000Z",
+    "updatedAt": "2022-05-16T02:29:22.000Z",
+    "checkedAt": "2022-05-16T02:29:22.000Z",
+    "id": 1831,
+    "type": "anime",
+    "title": "Iczer-Girl Iczelion",
+    "altTitle": [
+      "Iczelion",
+      "戦-少女[イクサーガール]イクセリオン",
+      "Sen-shoujo Iczelion",
+      "Iczer Gal Iczelion"
+    ],
+    "url": "https://anilist.co/anime/1831",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1831.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1831,
+    "deletedAt": null
+  }
+}

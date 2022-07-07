@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-15T07:13:13.000Z",
+  "checkedAt": "2022-05-15T07:13:13.000Z",
+  "id": 103,
+  "type": "anime",
+  "title": "Akazukin Chacha",
+  "altTitle": [
+    "Red Riding Hood Chacha",
+    "赤ずきんチャチャ"
+  ],
+  "url": "https://myanimelist.net/anime/103/Akazukin_Chacha",
+  "image": "https://cdn.myanimelist.net/images/anime/1098/108972.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=854"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=539"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Akazukin_Cha_Cha"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 854,
+  "Pages": {
+    "9anime": {
+      "x1lq": {
+        "createdAt": "2020-10-12T15:56:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10055,
+        "identifier": "x1lq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akazukin Chacha",
+        "url": "https://9anime.to/watch/akazukin-chacha.x1lq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8hDKBB3LwyA/V7mujPH3T9I/AAAAAAAA4to/4BhAIrBLCh8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 103,
+        "aniId": 103,
+        "deletedAt": null
+      },
+      "kwk14": {
+        "createdAt": "2022-03-17T17:49:41.000Z",
+        "updatedAt": "2022-03-17T18:19:11.000Z",
+        "checkedAt": null,
+        "id": 40478,
+        "identifier": "kwk14",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akazukin Chacha (Dub)",
+        "url": "https://9anime.to/watch/red-riding-hood-chacha-dub.kwk14",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/02/02a8a12ec9b09df7cca69d2efad36098.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 103,
+        "aniId": 103,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akazukin-cha-cha": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16464,
+        "identifier": "akazukin-cha-cha",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akazukin Cha Cha",
+        "url": "https://gogoanime.vc/category/akazukin-cha-cha",
+        "image": "https://cdnimg.xyz/images/anime/A/Akazukin-cha-cha.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 103,
+        "aniId": 103,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "103": {
+        "identifier": "103",
+        "malId": 103,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akazukin Chacha",
+        "url": "https://animixplay.to/anime/103"
+      }
+    },
+    "YugenAnime": {
+      "609": {
+        "identifier": "609",
+        "malId": 103,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akazukin Chacha",
+        "url": "https://yugen.to/anime/609/akazukin-chacha/"
+      }
+    }
+  }
+}

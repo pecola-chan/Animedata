@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-15T01:03:41.000Z",
+  "checkedAt": "2022-05-15T01:03:41.000Z",
+  "id": 37311,
+  "type": "anime",
+  "title": "Kemurikusa",
+  "altTitle": [
+    "Kemurikusa",
+    "ケムリクサ"
+  ],
+  "url": "https://myanimelist.net/anime/37311/Kemurikusa",
+  "image": "https://cdn.myanimelist.net/images/anime/1433/98285.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://doga.jp/contest/con24/html/24_22.htm"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "l9vn": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5979,
+        "identifier": "l9vn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kemurikusa",
+        "url": "https://9anime.to/watch/kemurikusa.l9vn",
+        "image": "https://static.akacdn.ru/files/images/2018/05/e87fc7a0bf03082f7107159ef2359042.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37311,
+        "aniId": 104156,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37311": {
+        "identifier": "37311",
+        "malId": 37311,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kemurikusa",
+        "url": "https://animixplay.to/anime/37311"
+      }
+    }
+  }
+}

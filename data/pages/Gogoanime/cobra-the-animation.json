@@ -1,0 +1,89 @@
+{
+  "createdAt": "2021-06-10T21:39:25.000Z",
+  "updatedAt": "2021-06-10T22:08:18.000Z",
+  "checkedAt": null,
+  "id": 37313,
+  "identifier": "cobra-the-animation",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Cobra The Animation",
+  "url": "https://gogoanime.vc/category/cobra-the-animation",
+  "image": "https://gogocdn.net/images/anime/C/cobra-the-animation.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5032,
+  "aniId": 5032,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:45.000Z",
+    "updatedAt": "2022-05-14T20:39:59.000Z",
+    "checkedAt": "2022-05-14T20:39:59.000Z",
+    "id": 5032,
+    "type": "anime",
+    "title": "Cobra The Animation",
+    "altTitle": [
+      "Cobra The Animation: Rokunin no Yuushi",
+      "COBRA THE ANIMATION"
+    ],
+    "url": "https://myanimelist.net/anime/5032/Cobra_The_Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/13/18900.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cobra30th-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6494"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9203"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cobra_the_Animation"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/tv/cobra-the-animation"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 6494
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:43.000Z",
+    "updatedAt": "2022-05-15T21:31:11.000Z",
+    "checkedAt": "2022-05-15T21:31:11.000Z",
+    "id": 5032,
+    "type": "anime",
+    "title": "COBRA THE ANIMATION",
+    "altTitle": [
+      "COBRA THE ANIMATION",
+      "Cobra The Animation: Rokunin no Yuushi"
+    ],
+    "url": "https://anilist.co/anime/5032",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5032.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/cobra-the-animation"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRDKD357Y/Cobra-the-Animation"
+      }
+    ],
+    "malId": 5032,
+    "deletedAt": null
+  }
+}

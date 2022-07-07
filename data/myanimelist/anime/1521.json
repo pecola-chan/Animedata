@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T19:04:42.000Z",
+  "checkedAt": "2022-05-14T19:04:42.000Z",
+  "id": 1521,
+  "type": "anime",
+  "title": "Black Jack the Movie",
+  "altTitle": [
+    "Black Jack: The Movie",
+    "ブラック･ジャック 劇場版"
+  ],
+  "url": "https://myanimelist.net/anime/1521/Black_Jack_the_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/6/76031.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://en.tezuka.co.jp/anime/sakuhin/mv/mv019.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=686"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=107"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273791"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 686,
+  "Pages": {
+    "9anime": {
+      "8m9o": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3914,
+        "identifier": "8m9o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Black Jack: The Movie (Dub)",
+        "url": "https://9anime.to/watch/black-jack-the-movie-dub.8m9o",
+        "image": "https://static.akacdn.ru/files/images/2018/04/61621b427f0cdd04af7f644eb7e345d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1521,
+        "aniId": 1521,
+        "deletedAt": null
+      },
+      "v2wl": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9184,
+        "identifier": "v2wl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Black Jack the Movie",
+        "url": "https://9anime.to/watch/black-jack-the-movie.v2wl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5MrfF1qYSHE/WFYlGPWHQ4I/AAAAAAABTPU/3_6BOkbMwiw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1521,
+        "aniId": 1521,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "black-jack-movie": {
+        "createdAt": "2022-03-10T23:00:18.000Z",
+        "updatedAt": "2022-03-10T23:29:44.000Z",
+        "checkedAt": null,
+        "id": 40437,
+        "identifier": "black-jack-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Jack Movie",
+        "url": "https://gogoanime.fi/category/black-jack-movie",
+        "image": "https://gogocdn.net/cover/black-jack-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1521,
+        "aniId": 1521,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1521": {
+        "identifier": "1521",
+        "malId": 1521,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Black Jack the Movie",
+        "url": "https://animixplay.to/anime/1521"
+      }
+    },
+    "YugenAnime": {
+      "9258": {
+        "identifier": "9258",
+        "malId": 1521,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Black Jack the Movie",
+        "url": "https://yugen.to/anime/9258/space-runaway-ideon-movie-1/"
+      }
+    }
+  }
+}

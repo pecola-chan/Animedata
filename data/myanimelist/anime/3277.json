@@ -1,0 +1,57 @@
+{
+  "createdAt": "2022-01-08T16:48:05.000Z",
+  "updatedAt": "2022-06-06T05:02:02.000Z",
+  "checkedAt": "2022-06-06T05:02:02.000Z",
+  "id": 3277,
+  "type": "anime",
+  "title": "Kinnikuman: Haresugata! Seigi Choujin",
+  "altTitle": [
+    "Kinnikuman: Hour-of-Triumph! Justice Superman",
+    "Hour of Triumph! Seigi Chojin",
+    "キン肉マン 晴れ姿！正義超人"
+  ],
+  "url": "https://myanimelist.net/anime/3277/Kinnikuman__Haresugata_Seigi_Choujin",
+  "image": "https://cdn.myanimelist.net/images/anime/1517/111937.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2305"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3667"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Kinnikuman_films#Hour_of_Triumph.21_Justice_Superman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2305,
+  "Pages": {
+    "9anime": {
+      "800wq": {
+        "createdAt": "2022-01-08T16:47:54.000Z",
+        "updatedAt": "2022-01-08T17:17:54.000Z",
+        "checkedAt": null,
+        "id": 39738,
+        "identifier": "800wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kinnikuman: Haresugata! Seigi Choujin",
+        "url": "https://9anime.to/watch/kinnikuman-haresugata-seigi-choujin.800wq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bf/bf7ada8038c73ec208da323f55811b73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3277,
+        "aniId": 3277,
+        "deletedAt": null
+      }
+    }
+  }
+}

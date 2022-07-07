@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-15T07:24:09.000Z",
+  "checkedAt": "2022-05-15T07:24:09.000Z",
+  "id": 2170,
+  "type": "anime",
+  "title": "Sousei no Aquarion OVA",
+  "altTitle": [
+    "Genesis of Aquarion OVA",
+    "Sousei no Aquarion: Uragiri no Tsubasa",
+    "Sousei no Aquarion: Taiyou no Tsubasa",
+    "ＯＶＡ『創星のアクエリオン』"
+  ],
+  "url": "https://myanimelist.net/anime/2170/Sousei_no_Aquarion_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/7/72745.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aquarion.info/ova/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4600"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7520"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Genesis_of_Aquarion_%28OVA%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4600,
+  "Pages": {
+    "9anime": {
+      "3zo2": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2017,
+        "identifier": "3zo2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sousei no Aquarion OVA",
+        "url": "https://9anime.to/watch/sousei-no-aquarion-ova.3zo2",
+        "image": "https://static.akacdn.ru/static/images/2018/04/5503b936a37819d5bdc5b77d3f7423c2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2170,
+        "aniId": 2170,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2170": {
+        "identifier": "2170",
+        "malId": 2170,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sousei no Aquarion OVA",
+        "url": "https://animixplay.to/anime/2170"
+      }
+    },
+    "YugenAnime": {
+      "425": {
+        "identifier": "425",
+        "malId": 2170,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sousei no Aquarion OVA",
+        "url": "https://yugen.to/anime/425/sousei-no-aquarion-ova/"
+      }
+    }
+  }
+}

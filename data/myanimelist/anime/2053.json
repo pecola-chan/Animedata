@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-15T01:41:55.000Z",
+  "checkedAt": "2022-05-15T01:41:55.000Z",
+  "id": 2053,
+  "type": "anime",
+  "title": "Capricorn",
+  "altTitle": [
+    "カプリコン"
+  ],
+  "url": "https://myanimelist.net/anime/2053/Capricorn",
+  "image": "https://cdn.myanimelist.net/images/anime/6/2954.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1588"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=555"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Capricorn_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1588,
+  "Pages": {
+    "9anime": {
+      "01y3": {
+        "createdAt": "2020-10-12T15:48:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 403,
+        "identifier": "01y3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Capricorn",
+        "url": "https://9anime.to/watch/capricorn.01y3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oN5U5qdN6lE/WOsR2qMX16I/AAAAAAAAgq8/-bUAJwooYAQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2053,
+        "aniId": 2053,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "capricorn": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17003,
+        "identifier": "capricorn",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Capricorn",
+        "url": "https://gogoanime.vc/category/capricorn",
+        "image": "https://cdnimg.xyz/cover/capricorn.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2053,
+        "aniId": 2053,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2053": {
+        "identifier": "2053",
+        "malId": 2053,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Capricorn",
+        "url": "https://animixplay.to/anime/2053"
+      }
+    },
+    "YugenAnime": {
+      "399": {
+        "identifier": "399",
+        "malId": 2053,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Capricorn",
+        "url": "https://yugen.to/anime/399/capricorn/"
+      }
+    }
+  }
+}

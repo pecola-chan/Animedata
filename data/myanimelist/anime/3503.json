@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T16:04:56.000Z",
+  "checkedAt": "2022-05-14T16:04:56.000Z",
+  "id": 3503,
+  "type": "anime",
+  "title": "Kanokon",
+  "altTitle": [
+    "Kanokon: The Girl Who Cried Fox",
+    "かのこん"
+  ],
+  "url": "https://myanimelist.net/anime/3503/Kanokon",
+  "image": "https://cdn.myanimelist.net/images/anime/11/9490.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kanokon.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5575"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9000"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kanokon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5575,
+  "Pages": {
+    "9anime": {
+      "movx": {
+        "createdAt": "2020-10-12T15:53:34.000Z",
+        "updatedAt": "2022-01-03T23:48:55.000Z",
+        "checkedAt": null,
+        "id": 6674,
+        "identifier": "movx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanokon (Dub)",
+        "url": "https://9anime.to/watch/kanokon-the-girl-who-cried-fox-dub.movx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/56a44136fa866dbda12bf4a8a09ac10a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3503,
+        "aniId": 3503,
+        "deletedAt": null
+      },
+      "rlwy": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8905,
+        "identifier": "rlwy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanokon",
+        "url": "https://9anime.to/watch/kanokon.rlwy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mjzKM0ucRQw/V45d_UY8-nI/AAAAAAAAwdI/jeQrrXNFZ6M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3503,
+        "aniId": 3503,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kanokon": {
+        "createdAt": "2020-10-12T16:00:56.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18713,
+        "identifier": "kanokon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanokon",
+        "url": "https://gogoanime.vc/category/kanokon",
+        "image": "https://cdnimg.xyz/images/anime/K/Kanokon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3503,
+        "aniId": 3503,
+        "deletedAt": null
+      },
+      "kanokon-dub": {
+        "createdAt": "2021-03-29T11:50:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36046,
+        "identifier": "kanokon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanokon (Dub)",
+        "url": "https://gogoanime.vc/category/kanokon-dub",
+        "image": "https://gogocdn.net/cover/kanokon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3503,
+        "aniId": 3503,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3961": {
+        "identifier": "3961",
+        "malId": 3503,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanokon",
+        "url": "https://animepahe.com/a/3961"
+      }
+    },
+    "AniMixPlay": {
+      "3503": {
+        "identifier": "3503",
+        "malId": 3503,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanokon",
+        "url": "https://animixplay.to/anime/3503"
+      }
+    },
+    "YugenAnime": {
+      "362": {
+        "identifier": "362",
+        "malId": 3503,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kanokon",
+        "url": "https://yugen.to/anime/362/kanokon/"
+      }
+    }
+  }
+}

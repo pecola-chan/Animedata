@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T16:41:39.000Z",
+  "checkedAt": "2022-05-14T16:41:39.000Z",
+  "id": 40266,
+  "type": "anime",
+  "title": "Aikatsu on Parade!",
+  "altTitle": [
+    "アイカツオンパレード!"
+  ],
+  "url": "https://myanimelist.net/anime/40266/Aikatsu_on_Parade",
+  "image": "https://cdn.myanimelist.net/images/anime/1712/102652.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aikatsu.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15047"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22441"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aikatsu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15047,
+  "Pages": {
+    "9anime": {
+      "mknp": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6581,
+        "identifier": "mknp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aikatsu on Parade!",
+        "url": "https://9anime.to/watch/aikatsu-on-parade.mknp",
+        "image": "https://static.akacdn.ru/files/images/2019/10/6dce0b7bccfe39ad0a6519119aa22f0b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40266,
+        "aniId": 111082,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aikatsu-on-parade": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16423,
+        "identifier": "aikatsu-on-parade",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aikatsu on Parade!",
+        "url": "https://gogoanime.vc/category/aikatsu-on-parade",
+        "image": "https://cdnimg.xyz/cover/aikatsu-on-parade.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40266,
+        "aniId": 111082,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3473": {
+        "identifier": "3473",
+        "malId": 40266,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aikatsu on Parade!",
+        "url": "https://animepahe.com/a/3473"
+      }
+    },
+    "AniMixPlay": {
+      "40266": {
+        "identifier": "40266",
+        "malId": 40266,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aikatsu on Parade!",
+        "url": "https://animixplay.to/anime/40266"
+      }
+    },
+    "YugenAnime": {
+      "5893": {
+        "identifier": "5893",
+        "malId": 40266,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aikatsu on Parade!",
+        "url": "https://yugen.to/anime/5893/aikatsu-on-parade/"
+      }
+    }
+  }
+}

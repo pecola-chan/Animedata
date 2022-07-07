@@ -1,0 +1,67 @@
+{
+  "createdAt": "2021-08-14T15:37:23.000Z",
+  "updatedAt": "2022-05-14T18:10:53.000Z",
+  "checkedAt": "2022-05-14T18:10:53.000Z",
+  "id": 49550,
+  "type": "anime",
+  "title": "Bokutachi no Remake Recap",
+  "altTitle": [
+    "Bokutachi no Remake Episode 6.5",
+    "Remake Our Life! Recap",
+    "ぼくたちのリメイク 第6.5話『総集編』"
+  ],
+  "url": "https://myanimelist.net/anime/49550/Bokutachi_no_Remake_Recap",
+  "image": "https://cdn.myanimelist.net/images/anime/1776/117125.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bokurema.com/news/273/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15320"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Remake_Our_Life!#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15320,
+  "Pages": {
+    "9anime": {
+      "vvn46": {
+        "createdAt": "2021-08-14T15:37:17.000Z",
+        "updatedAt": "2021-08-17T10:15:23.000Z",
+        "checkedAt": null,
+        "id": 38296,
+        "identifier": "vvn46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bokutachi no Remake Recap",
+        "url": "https://9anime.to/watch/remake-our-life-recap.vvn46",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/1d/1dda7fc29e77aa4dc4ea57549dfdbc99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 49550,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4567": {
+        "identifier": "4567",
+        "malId": 49550,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bokutachi no Remake Recap",
+        "url": "https://animepahe.com/a/4567"
+      }
+    }
+  }
+}

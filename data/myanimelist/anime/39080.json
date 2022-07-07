@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T16:24:56.000Z",
+  "checkedAt": "2022-05-14T16:24:56.000Z",
+  "id": 39080,
+  "type": "anime",
+  "title": "Ling Jian Zun",
+  "altTitle": [
+    "Spirit Sword Sovereign",
+    "灵剑尊"
+  ],
+  "url": "https://myanimelist.net/anime/39080/Ling_Jian_Zun",
+  "image": "https://cdn.myanimelist.net/images/anime/1062/98492.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14639"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%81%B5%E5%89%91%E5%B0%8A/22463186"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14639,
+  "Pages": {
+    "9anime": {
+      "pvv4": {
+        "createdAt": "2020-10-12T15:54:52.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8132,
+        "identifier": "pvv4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ling Jian Zun",
+        "url": "https://9anime.to/watch/ling-jian-zun.pvv4",
+        "image": "https://static.akacdn.ru/static/images/2019/02/1551fdd1ae28f24fe48c29d8a94b4ac2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39080,
+        "aniId": 107882,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ling-jian-zun": {
+        "createdAt": "2020-10-12T16:01:07.000Z",
+        "updatedAt": "2022-06-17T10:01:00.000Z",
+        "checkedAt": "2022-06-17T10:01:00.000Z",
+        "id": 19098,
+        "identifier": "ling-jian-zun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ling Jian Zun",
+        "url": "https://gogoanime.lu/category/ling-jian-zun",
+        "image": "https://gogocdn.net/cover/ling-jian-zun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39080,
+        "aniId": 107882,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39080": {
+        "identifier": "39080",
+        "malId": 39080,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ling Jian Zun",
+        "url": "https://animixplay.to/anime/39080"
+      }
+    },
+    "YugenAnime": {
+      "2318": {
+        "identifier": "2318",
+        "malId": 39080,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ling Jian Zun",
+        "url": "https://yugen.to/anime/2318/ling-jian-zun/"
+      }
+    }
+  }
+}

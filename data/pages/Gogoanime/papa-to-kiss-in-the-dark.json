@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-12-23T09:26:47.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 30963,
+  "identifier": "papa-to-kiss-in-the-dark",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Papa to Kiss in the Dark",
+  "url": "https://gogoanime.vc/category/papa-to-kiss-in-the-dark",
+  "image": "https://gogocdn.net/cover/papa-to-kiss-in-the-dark.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 746,
+  "aniId": 746,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-15T11:07:51.000Z",
+    "checkedAt": "2022-05-15T11:07:51.000Z",
+    "id": 746,
+    "type": "anime",
+    "title": "Papa to Kiss in the Dark",
+    "altTitle": [
+      "Papato: Kiss in the Dark",
+      "Papa and Heart: Kiss in the Dark",
+      "Papa to Kiss in the Dark",
+      "パパとKISS IN THE DARK"
+    ],
+    "url": "https://myanimelist.net/anime/746/Papa_to_Kiss_in_the_Dark",
+    "image": "https://cdn.myanimelist.net/images/anime/5/11100.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.threefatsamurai.com/papakiss/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3401"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6353"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Papa_to_Kiss_in_the_Dark"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3401
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T15:58:47.000Z",
+    "checkedAt": "2022-05-15T15:58:47.000Z",
+    "id": 746,
+    "type": "anime",
+    "title": "Papa to KISS IN THE DARK",
+    "altTitle": [
+      "Papa to Kiss in the Dark",
+      "パパとKISS IN THE DARK",
+      "Papato: Kiss in the Dark",
+      "Papa and Heart: Kiss in the Dark"
+    ],
+    "url": "https://anilist.co/anime/746",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/746.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 746,
+    "deletedAt": null
+  }
+}

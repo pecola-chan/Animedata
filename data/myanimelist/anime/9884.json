@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T23:55:29.000Z",
+  "checkedAt": "2022-05-14T23:55:29.000Z",
+  "id": 9884,
+  "type": "anime",
+  "title": "Osomatsu-kun",
+  "altTitle": [
+    "おそ松くん"
+  ],
+  "url": "https://myanimelist.net/anime/9884/Osomatsu-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/2/76965.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5487"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1508"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9D%E6%9D%BE%E3%81%8F%E3%82%93"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5487,
+  "Pages": {
+    "9anime": {
+      "nl6j": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7108,
+        "identifier": "nl6j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Osomatsu-kun",
+        "url": "https://9anime.to/watch/osomatsu-kun.nl6j",
+        "image": "https://static.akacdn.ru/files/images/2019/08/c703a0e6af73961cafbd3816fb686336.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9884,
+        "aniId": 9884,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "osomatsu-kun": {
+        "createdAt": "2020-10-12T16:01:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19941,
+        "identifier": "osomatsu-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Osomatsu-kun",
+        "url": "https://gogoanime.vc/category/osomatsu-kun",
+        "image": "https://gogocdn.net/cover/osomatsu-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9884,
+        "aniId": 9884,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9884": {
+        "identifier": "9884",
+        "malId": 9884,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Osomatsu-kun",
+        "url": "https://animixplay.to/anime/9884"
+      }
+    },
+    "YugenAnime": {
+      "2980": {
+        "identifier": "2980",
+        "malId": 9884,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Osomatsu-kun",
+        "url": "https://yugen.to/anime/2980/osomatsu-kun/"
+      }
+    }
+  }
+}

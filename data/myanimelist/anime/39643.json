@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T23:46:05.000Z",
+  "checkedAt": "2022-05-14T23:46:05.000Z",
+  "id": 39643,
+  "type": "anime",
+  "title": "Shoujo☆Conto All Starlight",
+  "altTitle": [
+    "少女☆寸劇(コント) オールスタァライト"
+  ],
+  "url": "https://myanimelist.net/anime/39643/Shoujo☆Conto_All_Starlight",
+  "image": "https://cdn.myanimelist.net/images/anime/1776/102092.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://revuestarlight.bushimo.jp/allstar/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14811"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22447"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Revue_Starlight"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14811,
+  "Pages": {
+    "Gogoanime": {
+      "shoujoconte-all-starlight": {
+        "createdAt": "2020-10-12T16:01:53.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20675,
+        "identifier": "shoujoconte-all-starlight",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shoujo☆Conte All Starlight",
+        "url": "https://gogoanime.vc/category/shoujoconte-all-starlight",
+        "image": "https://cdnimg.xyz/cover/shoujoconte-all-starlight.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39643,
+        "aniId": 109153,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4351": {
+        "identifier": "4351",
+        "malId": 39643,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shoujo☆Conto All Starlight",
+        "url": "https://animepahe.com/a/4351"
+      }
+    },
+    "AniMixPlay": {
+      "39643": {
+        "identifier": "39643",
+        "malId": 39643,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shoujo☆Conto All Starlight",
+        "url": "https://animixplay.to/anime/39643"
+      }
+    },
+    "YugenAnime": {
+      "6204": {
+        "identifier": "6204",
+        "malId": 39643,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shoujo☆Conto All Starlight",
+        "url": "https://yugen.to/anime/6204/shoujoconte-all-starlight/"
+      }
+    }
+  }
+}

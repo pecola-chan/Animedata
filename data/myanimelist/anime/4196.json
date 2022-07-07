@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T05:00:30.000Z",
+  "checkedAt": "2022-05-14T05:00:30.000Z",
+  "id": 4196,
+  "type": "anime",
+  "title": "Ikkitousen: Great Guardians",
+  "altTitle": [
+    "一騎当千: Great Guardians"
+  ],
+  "url": "https://myanimelist.net/anime/4196/Ikkitousen__Great_Guardians",
+  "image": "https://cdn.myanimelist.net/images/anime/2/22922.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ikkitousen.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5749"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9439"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5749,
+  "Pages": {
+    "9anime": {
+      "l8zm": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5960,
+        "identifier": "l8zm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ikkitousen: Great Guardians (Dub)",
+        "url": "https://9anime.to/watch/ikkitousen-great-guardians-dub.l8zm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-baY9QQ1lJ0A/V_zdD8k3CKI/AAAAAAABGrY/diHcsFEPns8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4196,
+        "aniId": 4196,
+        "deletedAt": null
+      },
+      "w5n4": {
+        "createdAt": "2020-10-12T15:56:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9685,
+        "identifier": "w5n4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ikkitousen: Great Guardians",
+        "url": "https://9anime.to/watch/ikkitousen-great-guardians.w5n4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jmCKcXVqNNY/V62ohlPfvAI/AAAAAAAA2ic/WQhTnrR8Lc0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4196,
+        "aniId": 4196,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ikkitousen-great-guardians": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18446,
+        "identifier": "ikkitousen-great-guardians",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ikkitousen: Great Guardians",
+        "url": "https://gogoanime.vc/category/ikkitousen-great-guardians",
+        "image": "https://cdnimg.xyz/images/anime/I/Ikkitousen-Great-Guardians.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4196,
+        "aniId": 4196,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3315": {
+        "identifier": "3315",
+        "malId": 4196,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ikkitousen: Great Guardians",
+        "url": "https://animepahe.com/a/3315"
+      }
+    },
+    "AniMixPlay": {
+      "4196": {
+        "identifier": "4196",
+        "malId": 4196,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ikkitousen: Great Guardians",
+        "url": "https://animixplay.to/anime/4196"
+      }
+    },
+    "YugenAnime": {
+      "4801": {
+        "identifier": "4801",
+        "malId": 4196,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ikkitousen: Great Guardians",
+        "url": "https://yugen.to/anime/4801/ikkitousen-great-guardians/"
+      }
+    }
+  }
+}

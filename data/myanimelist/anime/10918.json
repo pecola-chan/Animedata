@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T23:31:10.000Z",
+  "checkedAt": "2022-05-14T23:31:10.000Z",
+  "id": 10918,
+  "type": "anime",
+  "title": "Kowarekake no Orgel (Movie)",
+  "altTitle": [
+    "Kowarekake no Orgol (Movie)",
+    "Half-Broken Music Box (Movie)",
+    "こわれかけのオルゴール"
+  ],
+  "url": "https://myanimelist.net/anime/10918/Kowarekake_no_Orgel_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/3/30155.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ne.jp/asahi/magneticwave/popcan/kowa/"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11761"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kowarekake_no_Orgel"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "qkv3": {
+        "createdAt": "2020-10-12T15:55:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8428,
+        "identifier": "qkv3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kowarekake no Orgel (Movie)",
+        "url": "https://9anime.to/watch/kowarekake-no-orgel-movie.qkv3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-REB3ptpXrGA/V6DB2x37hFI/AAAAAAAAz68/j0Hkb_9Qgjw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10918,
+        "aniId": 10918,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2891": {
+        "identifier": "2891",
+        "malId": 10918,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kowarekake no Orgel (Movie)",
+        "url": "https://animepahe.com/a/2891"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-15T07:18:26.000Z",
+  "checkedAt": "2022-05-15T07:18:26.000Z",
+  "id": 3847,
+  "type": "anime",
+  "title": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+  "altTitle": [
+    "World Children's Classics: The Prince of the Swans",
+    "The Wild Swans",
+    "世界名作童話 白鳥の王子"
+  ],
+  "url": "https://myanimelist.net/anime/3847/Sekai_Meisaku_Douwa__Hakuchou_no_Ouji",
+  "image": "https://cdn.myanimelist.net/images/anime/10/78477.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2226"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3617"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2226,
+  "Pages": {
+    "9anime": {
+      "95p0": {
+        "createdAt": "2020-10-12T15:51:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4228,
+        "identifier": "95p0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Wild Swans (Dub)",
+        "url": "https://9anime.to/watch/the-wild-swans-dub.95p0",
+        "image": "https://static.akacdn.ru/static/images/2018/03/d43243d582a85de9b6fc1c0e4103030e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3847,
+        "aniId": 3847,
+        "deletedAt": null
+      },
+      "jyx2": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5106,
+        "identifier": "jyx2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Wild Swans",
+        "url": "https://9anime.to/watch/the-wild-swans.jyx2",
+        "image": "https://static.akacdn.ru/static/images/2018/03/c1f2916d7ef1c62f2ec8a90705239422.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3847,
+        "aniId": 3847,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3847": {
+        "identifier": "3847",
+        "malId": 3847,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sekai Meisaku Douwa: Hakuchou no Ouji",
+        "url": "https://animixplay.to/anime/3847"
+      }
+    }
+  }
+}

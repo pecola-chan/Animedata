@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-15T00:03:29.000Z",
+  "checkedAt": "2022-05-15T00:03:29.000Z",
+  "id": 1822,
+  "type": "anime",
+  "title": "The Hakkenden",
+  "altTitle": [
+    "The Hakkenden: Legend of the Dog Warriors",
+    "THE 八犬伝"
+  ],
+  "url": "https://myanimelist.net/anime/1822/The_Hakkenden",
+  "image": "https://cdn.myanimelist.net/images/anime/5/23958.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-int.com/works/8kenden/ova/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=362"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=249"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Hakkenden"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 362,
+  "Pages": {
+    "9anime": {
+      "lyvm": {
+        "createdAt": "2020-10-12T15:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6287,
+        "identifier": "lyvm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Hakkenden",
+        "url": "https://9anime.to/watch/the-hakkenden.lyvm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DpRVQLbO4QY/WBIdLYkUDUI/AAAAAAABLdE/vE3sz0h6uYo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1822,
+        "aniId": 1822,
+        "deletedAt": null
+      },
+      "k8q6": {
+        "createdAt": "2021-03-11T17:10:06.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35634,
+        "identifier": "k8q6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Hakkenden (Dub)",
+        "url": "https://9anime.to/watch/the-hakkenden-legend-of-the-dog-warriors-dub.k8q6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/039ab1947be28768ca6826e3cbb68383.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1822,
+        "aniId": 1822,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1822": {
+        "identifier": "1822",
+        "malId": 1822,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "The Hakkenden",
+        "url": "https://animixplay.to/anime/1822"
+      }
+    },
+    "YugenAnime": {
+      "6001": {
+        "identifier": "6001",
+        "malId": 1822,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "The Hakkenden",
+        "url": "https://yugen.to/anime/6001/the-hakkenden/"
+      }
+    }
+  }
+}

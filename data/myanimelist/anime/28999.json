@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2022-05-14T09:43:13.000Z",
+  "checkedAt": "2022-05-14T09:43:13.000Z",
+  "id": 28999,
+  "type": "anime",
+  "title": "Charlotte",
+  "altTitle": [
+    "Charlotte",
+    "Charlotte（シャーロット）"
+  ],
+  "url": "https://myanimelist.net/anime/28999/Charlotte",
+  "image": "https://cdn.myanimelist.net/images/anime/12/74683.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.charlotte-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10997"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16649"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Charlotte_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-266763"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/charlotte"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10997,
+  "Pages": {
+    "9anime": {
+      "l8n": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5949,
+        "identifier": "l8n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Charlotte",
+        "url": "https://9anime.to/watch/charlotte.l8n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xE3OAbfzgtQ/V3OlTJwpMgI/AAAAAAAAsFo/vubxuErj_h4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28999,
+        "aniId": 20997,
+        "deletedAt": null
+      },
+      "v222": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9168,
+        "identifier": "v222",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Charlotte (Dub)",
+        "url": "https://9anime.to/watch/charlotte-dub.v222",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WP5aE7vTFho/WCtDNCXA27I/AAAAAAABO7I/pYjKSo7DzbU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28999,
+        "aniId": 20997,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "charlotte": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17045,
+        "identifier": "charlotte",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Charlotte",
+        "url": "https://gogoanime.vc/category/charlotte",
+        "image": "https://images.gogoanime.tv/images/upload/charlotte.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28999,
+        "aniId": 20997,
+        "deletedAt": null
+      },
+      "charlotte-dub": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17046,
+        "identifier": "charlotte-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Charlotte (Dub)",
+        "url": "https://gogoanime.vc/category/charlotte-dub",
+        "image": "https://cdnimg.xyz/cover/charlotte-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28999,
+        "aniId": 20997,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "129": {
+        "identifier": "129",
+        "malId": 28999,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Charlotte",
+        "url": "https://animepahe.com/a/129"
+      }
+    },
+    "AniMixPlay": {
+      "28999": {
+        "identifier": "28999",
+        "malId": 28999,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Charlotte",
+        "url": "https://animixplay.to/anime/28999"
+      }
+    },
+    "YugenAnime": {
+      "453": {
+        "identifier": "453",
+        "malId": 28999,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Charlotte",
+        "url": "https://yugen.to/anime/453/charlotte/"
+      }
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T10:12:17.000Z",
+  "checkedAt": "2022-05-14T10:12:17.000Z",
+  "id": 339,
+  "type": "anime",
+  "title": "Serial Experiments Lain",
+  "altTitle": [
+    "Serial Experiments Lain",
+    "シリアルエクスペリメンツレイン"
+  ],
+  "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
+  "image": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.b-ch.com/ttl/index.php?ttl_c=164"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=99"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=166"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Serial_Experiments_Lain"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273309"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/serial-experiments-lain"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 99,
+  "Pages": {
+    "9anime": {
+      "5km9": {
+        "createdAt": "2020-10-12T15:50:27.000Z",
+        "updatedAt": "2022-06-14T02:31:16.000Z",
+        "checkedAt": "2022-06-14T02:31:16.000Z",
+        "id": 2648,
+        "identifier": "5km9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "serial experiments lain",
+        "url": "https://9anime.to/watch/serial-experiments-lain.5km9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/1eeb486c486f9079dc28ccd517646e29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 339,
+        "aniId": 339,
+        "deletedAt": null
+      },
+      "j30n": {
+        "createdAt": "2020-10-12T15:52:02.000Z",
+        "updatedAt": "2022-02-03T13:19:23.000Z",
+        "checkedAt": null,
+        "id": 4645,
+        "identifier": "j30n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "serial experiments lain (Dub)",
+        "url": "https://9anime.to/watch/serial-experiments-lain-dub.j30n",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/58f297d2d56474c7132624efe9dbd9f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 339,
+        "aniId": 339,
+        "deletedAt": null
+      },
+      "7jm8y": {
+        "createdAt": "2021-08-11T07:39:21.000Z",
+        "updatedAt": "2021-08-11T08:09:15.000Z",
+        "checkedAt": null,
+        "id": 38202,
+        "identifier": "7jm8y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Serial Experiments Lain OVA",
+        "url": "https://9anime.to/watch/serial-experiments-lain-ova.7jm8y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/66/66443c08018fa91ee894e5f8e53d58e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 339,
+        "aniId": 339,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "serial-experiments-lain": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20533,
+        "identifier": "serial-experiments-lain",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Serial Experiments Lain",
+        "url": "https://gogoanime.vc/category/serial-experiments-lain",
+        "image": "https://images.gogoanime.tv/images/anime/S/serial-experiments-lain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 339,
+        "aniId": 339,
+        "deletedAt": null
+      },
+      "serial-experiments-lain-dub": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20534,
+        "identifier": "serial-experiments-lain-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Serial Experiments Lain (Dub)",
+        "url": "https://gogoanime.vc/category/serial-experiments-lain-dub",
+        "image": "https://cdnimg.xyz/cover/serial-experiments-lain-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 339,
+        "aniId": 339,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "851": {
+        "identifier": "851",
+        "malId": 339,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Serial Experiments Lain",
+        "url": "https://animepahe.com/a/851"
+      }
+    },
+    "AniMixPlay": {
+      "339": {
+        "identifier": "339",
+        "malId": 339,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Serial Experiments Lain",
+        "url": "https://animixplay.to/anime/339"
+      }
+    },
+    "YugenAnime": {
+      "3709": {
+        "identifier": "3709",
+        "malId": 339,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Serial Experiments Lain",
+        "url": "https://yugen.to/anime/3709/serial-experiments-lain/"
+      }
+    }
+  }
+}

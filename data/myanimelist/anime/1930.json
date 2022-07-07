@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-15T01:47:18.000Z",
+  "checkedAt": "2022-05-15T01:47:18.000Z",
+  "id": 1930,
+  "type": "anime",
+  "title": "Futari wa Precure: Max Heart Movie 1",
+  "altTitle": [
+    "Precure Movie",
+    "Eiga Futari wa Pretty Cure: Max Heart",
+    "ふたりはプリキュア ー マックスハート"
+  ],
+  "url": "https://myanimelist.net/anime/1930/Futari_wa_Precure__Max_Heart_Movie_1",
+  "image": "https://cdn.myanimelist.net/images/anime/3/21030.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/2008_precure5gogo/kako_movie1.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2764"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4751"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2764,
+  "Pages": {
+    "9anime": {
+      "41y7": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2062,
+        "identifier": "41y7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Futari wa Precure: Max Heart Movie 1",
+        "url": "https://9anime.to/watch/futari-wa-precure-max-heart-movie-1.41y7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1I_CFR7CLPc/V8VlzLeoZDI/AAAAAAAA6gU/0VIHTJM2ozc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1930,
+        "aniId": 1930,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1930": {
+        "identifier": "1930",
+        "malId": 1930,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Futari wa Precure: Max Heart Movie 1",
+        "url": "https://animixplay.to/anime/1930"
+      }
+    },
+    "YugenAnime": {
+      "9470": {
+        "identifier": "9470",
+        "malId": 1930,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Futari wa Precure: Max Heart Movie 1",
+        "url": "https://yugen.to/anime/9470/futari-wa-precure-max-heart-movie-1/"
+      }
+    }
+  }
+}

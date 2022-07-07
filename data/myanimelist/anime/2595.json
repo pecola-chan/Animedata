@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-14T22:47:17.000Z",
+  "checkedAt": "2022-05-14T22:47:17.000Z",
+  "id": 2595,
+  "type": "anime",
+  "title": "D.C.II: Da Capo II",
+  "altTitle": [
+    "D.C.II ～ダ・カーポII～"
+  ],
+  "url": "https://myanimelist.net/anime/2595/DCII__Da_Capo_II",
+  "image": "https://cdn.myanimelist.net/images/anime/9/75305.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/dc2/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5419"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8092"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/D.C._%7EDa_Capo%7E"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5419,
+  "Pages": {
+    "9anime": {
+      "xvp8": {
+        "createdAt": "2020-10-12T15:56:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10402,
+        "identifier": "xvp8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D.C.II: Da Capo II",
+        "url": "https://9anime.to/watch/dcii-da-capo-ii.xvp8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mCekthpqRcA/V6mmuDB-ISI/AAAAAAAA1rI/Jpd6xJ1oDAA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2595,
+        "aniId": 2595,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "da-capo-ii": {
+        "createdAt": "2021-04-16T20:14:28.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36567,
+        "identifier": "da-capo-ii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Da Capo II",
+        "url": "https://gogoanime.vc/category/da-capo-ii",
+        "image": "https://gogocdn.net/images/anime/D/da-capo-2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 2595,
+        "aniId": 2595,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1401": {
+        "identifier": "1401",
+        "malId": 2595,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "D.C.II: Da Capo II",
+        "url": "https://animepahe.com/a/1401"
+      }
+    },
+    "AniMixPlay": {
+      "2595": {
+        "identifier": "2595",
+        "malId": 2595,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "D.C.II: Da Capo II",
+        "url": "https://animixplay.to/anime/2595"
+      }
+    },
+    "YugenAnime": {
+      "403": {
+        "identifier": "403",
+        "malId": 2595,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "D.C.II: Da Capo II",
+        "url": "https://yugen.to/anime/403/da-capo-ii/"
+      }
+    }
+  }
+}

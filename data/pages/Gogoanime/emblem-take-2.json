@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T16:00:21.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17552,
+  "identifier": "emblem-take-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Emblem Take 2",
+  "url": "https://gogoanime.vc/category/emblem-take-2",
+  "image": "https://cdnimg.xyz/cover/emblem-take-2.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 9837,
+  "aniId": 9837,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:03.000Z",
+    "updatedAt": "2022-05-15T01:40:54.000Z",
+    "checkedAt": "2022-05-15T01:40:54.000Z",
+    "id": 9837,
+    "type": "anime",
+    "title": "Emblem Take 2",
+    "altTitle": [
+      "代紋(エンブレム) TAKE2"
+    ],
+    "url": "https://myanimelist.net/anime/9837/Emblem_Take_2",
+    "image": "https://cdn.myanimelist.net/images/anime/7/27231.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4234"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15723"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/代紋TAKE2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4234
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:07.000Z",
+    "updatedAt": "2022-05-16T19:21:50.000Z",
+    "checkedAt": "2022-05-16T19:21:50.000Z",
+    "id": 9837,
+    "type": "anime",
+    "title": "Emblem Take 2",
+    "altTitle": [
+      "代紋(エンブレム) TAKE2"
+    ],
+    "url": "https://anilist.co/anime/9837",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9837.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 9837,
+    "deletedAt": null
+  }
+}

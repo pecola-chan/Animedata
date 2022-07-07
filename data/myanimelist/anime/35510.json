@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-15T00:05:17.000Z",
+  "checkedAt": "2022-05-15T00:05:17.000Z",
+  "id": 35510,
+  "type": "anime",
+  "title": "Seizei Ganbare! Mahou Shoujo Kurumi",
+  "altTitle": [
+    "せいぜいがんばれ！魔法少女くるみ"
+  ],
+  "url": "https://myanimelist.net/anime/35510/Seizei_Ganbare_Mahou_Shoujo_Kurumi",
+  "image": "https://cdn.myanimelist.net/images/anime/1571/90319.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.seizeiganbare.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13155"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19882"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%9B%E3%81%84%E3%81%9C%E3%81%84%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C!%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%8F%E3%82%8B%E3%81%BF"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13155,
+  "Pages": {
+    "9anime": {
+      "07jk": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 468,
+        "identifier": "07jk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seizei Ganbare Mahou Shoujo Kurumi",
+        "url": "https://9anime.to/watch/seizei-ganbare-mahou-shoujo-kurumi.07jk",
+        "image": "http://static.akacdn.ru/static/images/2018/04/a8a4800d397b52feed1eb2a706e633d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35510,
+        "aniId": 98739,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seizei-ganbare-mahou-shoujo-kurumi": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20484,
+        "identifier": "seizei-ganbare-mahou-shoujo-kurumi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seizei Ganbare Mahou Shoujo Kurumi",
+        "url": "https://gogoanime.vc/category/seizei-ganbare-mahou-shoujo-kurumi",
+        "image": "https://cdnimg.xyz/cover/seizei-ganbare-mahou-shoujo-kurumi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35510,
+        "aniId": 98739,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2657": {
+        "identifier": "2657",
+        "malId": 35510,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seizei Ganbare! Mahou Shoujo Kurumi",
+        "url": "https://animepahe.com/a/2657"
+      }
+    },
+    "AniMixPlay": {
+      "35510": {
+        "identifier": "35510",
+        "malId": 35510,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seizei Ganbare! Mahou Shoujo Kurumi",
+        "url": "https://animixplay.to/anime/35510"
+      }
+    },
+    "YugenAnime": {
+      "4789": {
+        "identifier": "4789",
+        "malId": 35510,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seizei Ganbare! Mahou Shoujo Kurumi",
+        "url": "https://yugen.to/anime/4789/seizei-ganbare-mahou-shoujo-kurumi/"
+      }
+    }
+  }
+}

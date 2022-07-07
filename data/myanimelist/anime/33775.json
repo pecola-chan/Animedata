@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T21:44:29.000Z",
+  "checkedAt": "2022-05-14T21:44:29.000Z",
+  "id": 33775,
+  "type": "anime",
+  "title": "Soul Buster",
+  "altTitle": [
+    "Shi Ling Yanwu",
+    "Soul Buster",
+    "侍霊演武[ソウルバスター]"
+  ],
+  "url": "https://myanimelist.net/anime/33775/Soul_Buster",
+  "image": "https://cdn.myanimelist.net/images/anime/3/82256.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://soulbuster.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12307"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18708"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soul_Buster"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267103"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12307,
+  "Pages": {
+    "9anime": {
+      "xxkw": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10422,
+        "identifier": "xxkw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soul Buster",
+        "url": "https://9anime.to/watch/soul-buster.xxkw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eWuXU1Zcsvg/V-showxJwyI/AAAAAAABBqA/3mDZAlgIJfk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33775,
+        "aniId": 21661,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "soul-buster": {
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20777,
+        "identifier": "soul-buster",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Soul Buster",
+        "url": "https://gogoanime.vc/category/soul-buster",
+        "image": "https://gogocdn.net/cover/soul-buster.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33775,
+        "aniId": 21661,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1388": {
+        "identifier": "1388",
+        "malId": 33775,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Soul Buster",
+        "url": "https://animepahe.com/a/1388"
+      }
+    },
+    "AniMixPlay": {
+      "33775": {
+        "identifier": "33775",
+        "malId": 33775,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Soul Buster",
+        "url": "https://animixplay.to/anime/33775"
+      }
+    },
+    "YugenAnime": {
+      "731": {
+        "identifier": "731",
+        "malId": 33775,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Soul Buster",
+        "url": "https://yugen.to/anime/731/soul-buster/"
+      }
+    }
+  }
+}

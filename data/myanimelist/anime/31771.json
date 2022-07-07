@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:39:40.000Z",
+  "updatedAt": "2022-05-14T16:54:47.000Z",
+  "checkedAt": "2022-05-14T16:54:47.000Z",
+  "id": 31771,
+  "type": "anime",
+  "title": "Amanchu!",
+  "altTitle": [
+    "あまんちゅ！"
+  ],
+  "url": "https://myanimelist.net/anime/31771/Amanchu",
+  "image": "https://cdn.myanimelist.net/images/anime/6/80810.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.amanchu-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11683"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17700"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%BE%E3%82%93%E3%81%A1%E3%82%85!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270703"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11683,
+  "Pages": {
+    "9anime": {
+      "6l6z": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3054,
+        "identifier": "6l6z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amanchu!",
+        "url": "https://9anime.to/watch/amanchu.6l6z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Wf2y5GRxqJ4/WXxyrjZSQyI/AAAAAAAAAWg/19lYs6k_mjoqYYSiF8Qy8ED9ncgHAMAOACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31771,
+        "aniId": 21406,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amanchu": {
+        "createdAt": "2020-10-12T17:57:26.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23757,
+        "identifier": "amanchu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amanchu!",
+        "url": "https://gogoanime.vc/category/amanchu",
+        "image": "https://gogocdn.net/cover/amanchu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31771,
+        "aniId": 21406,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1118": {
+        "identifier": "1118",
+        "malId": 31771,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amanchu!",
+        "url": "https://animepahe.com/a/1118"
+      }
+    },
+    "AniMixPlay": {
+      "31771": {
+        "identifier": "31771",
+        "malId": 31771,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amanchu!",
+        "url": "https://animixplay.to/anime/31771"
+      }
+    },
+    "YugenAnime": {
+      "328": {
+        "identifier": "328",
+        "malId": 31771,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amanchu!",
+        "url": "https://yugen.to/anime/328/amanchu/"
+      }
+    }
+  }
+}

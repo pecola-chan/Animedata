@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T19:53:47.000Z",
+  "checkedAt": "2022-05-14T19:53:47.000Z",
+  "id": 38313,
+  "type": "anime",
+  "title": "Oushitsu Kyoushi Heine Movie",
+  "altTitle": [
+    "Oushitsu Kyoushi Haine Movie",
+    "The Royal Tutor Movie",
+    "劇場 王室教師ハイネ"
+  ],
+  "url": "https://myanimelist.net/anime/38313/Oushitsu_Kyoushi_Heine_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1567/116866.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://heine-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14394"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21403"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Royal_Tutor"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272907"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14394,
+  "Pages": {
+    "9anime": {
+      "qw35": {
+        "createdAt": "2020-10-12T15:55:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8588,
+        "identifier": "qw35",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Royal Tutor Movie",
+        "url": "https://9anime.to/watch/the-royal-tutor-movie.qw35",
+        "image": "https://static.akacdn.ru/static/images/2018/12/2d373e018096e6162e19948c85da5853.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38313,
+        "aniId": 104286,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oushitsu-kyoushi-heine-movie": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19962,
+        "identifier": "oushitsu-kyoushi-heine-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oushitsu Kyoushi Heine Movie",
+        "url": "https://gogoanime.vc/category/oushitsu-kyoushi-heine-movie",
+        "image": "https://cdnimg.xyz/cover/oushitsu-kyoushi-heine-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38313,
+        "aniId": 104286,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38313": {
+        "identifier": "38313",
+        "malId": 38313,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oushitsu Kyoushi Heine Movie",
+        "url": "https://animixplay.to/anime/38313"
+      }
+    },
+    "YugenAnime": {
+      "7143": {
+        "identifier": "7143",
+        "malId": 38313,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Oushitsu Kyoushi Heine Movie",
+        "url": "https://yugen.to/anime/7143/oushitsu-kyoushi-heine-movie/"
+      }
+    }
+  }
+}

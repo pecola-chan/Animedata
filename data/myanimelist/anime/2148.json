@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T09:56:38.000Z",
+  "checkedAt": "2022-05-14T09:56:38.000Z",
+  "id": 2148,
+  "type": "anime",
+  "title": "Okane ga Nai",
+  "altTitle": [
+    "No Money",
+    "お金がないっ"
+  ],
+  "url": "https://myanimelist.net/anime/2148/Okane_ga_Nai",
+  "image": "https://cdn.myanimelist.net/images/anime/8/88352.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-nomoney.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4645"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7071"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/No_Money"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4645,
+  "Pages": {
+    "9anime": {
+      "23o0": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1258,
+        "identifier": "23o0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Okane ga Nai",
+        "url": "https://9anime.to/watch/okane-ga-nai.23o0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-y6qH5a_eQtE/WFaBqNpgQzI/AAAAAAABTaM/7r-c0cC4fyI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2148,
+        "aniId": 2148,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "okane-ga-nai": {
+        "createdAt": "2022-02-07T06:07:09.000Z",
+        "updatedAt": "2022-02-07T06:36:03.000Z",
+        "checkedAt": null,
+        "id": 40107,
+        "identifier": "okane-ga-nai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Okane ga Nai",
+        "url": "https://gogoanime.pe/category/okane-ga-nai",
+        "image": "https://gogocdn.net/cover/okane-ga-nai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2148,
+        "aniId": 2148,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2148": {
+        "identifier": "2148",
+        "malId": 2148,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Okane ga Nai",
+        "url": "https://animixplay.to/anime/2148"
+      }
+    },
+    "YugenAnime": {
+      "11672": {
+        "identifier": "11672",
+        "malId": 2148,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Okane ga Nai",
+        "url": "https://yugen.to/anime/11672/okane-ga-nai/"
+      }
+    }
+  }
+}

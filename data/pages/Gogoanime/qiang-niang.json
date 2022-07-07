@@ -1,0 +1,63 @@
+{
+  "createdAt": "2021-04-04T04:38:27.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36182,
+  "identifier": "qiang-niang",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Qiang Niang",
+  "url": "https://gogoanime.vc/category/qiang-niang",
+  "image": "https://gogocdn.net/cover/qiang-niang.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36164,
+  "aniId": 100812,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:56.000Z",
+    "updatedAt": "2022-05-15T01:37:42.000Z",
+    "checkedAt": "2022-05-15T01:37:42.000Z",
+    "id": 36164,
+    "type": "anime",
+    "title": "Qiang Niang",
+    "altTitle": [
+      "Gun Girls",
+      "銃娘 [ガンガール]"
+    ],
+    "url": "https://myanimelist.net/anime/36164/Qiang_Niang",
+    "image": "https://cdn.myanimelist.net/images/anime/4/87374.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://qnfire.qq.com/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:25.000Z",
+    "updatedAt": "2022-05-15T12:20:47.000Z",
+    "checkedAt": "2022-05-15T12:20:47.000Z",
+    "id": 100812,
+    "type": "anime",
+    "title": "Qiang Niang",
+    "altTitle": [
+      "Gun Girls",
+      "枪娘"
+    ],
+    "url": "https://anilist.co/anime/100812",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100812-YfUIJcXdo5JH.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36164,
+    "deletedAt": null
+  }
+}

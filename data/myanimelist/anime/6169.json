@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-15T00:28:41.000Z",
+  "checkedAt": "2022-05-15T00:28:41.000Z",
+  "id": 6169,
+  "type": "anime",
+  "title": "Tenjoubito to Akutobito Saigo no Tatakai",
+  "altTitle": [
+    "Munto Movie",
+    "Munto Finale",
+    "Last War of Heavenloids and Akutoloids",
+    "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai Movie",
+    "天上人とアクト人最後の戦い"
+  ],
+  "url": "https://myanimelist.net/anime/6169/Tenjoubito_to_Akutobito_Saigo_no_Tatakai",
+  "image": "https://cdn.myanimelist.net/images/anime/3/24577.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.munto.com/munto_movie/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10680"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Munto"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6427,
+  "Pages": {
+    "9anime": {
+      "lwxn": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6230,
+        "identifier": "lwxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenjoubito to Akutobito Saigo no Tatakai",
+        "url": "https://9anime.to/watch/tenjoubito-to-akutobito-saigo-no-tatakai.lwxn",
+        "image": "https://static.akacdn.ru/files/images/2020/02/182de284b21decdd6f59b7d34c39a8b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6169,
+        "aniId": 6169,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6169": {
+        "identifier": "6169",
+        "malId": 6169,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenjoubito to Akutobito Saigo no Tatakai",
+        "url": "https://animixplay.to/anime/6169"
+      }
+    }
+  }
+}

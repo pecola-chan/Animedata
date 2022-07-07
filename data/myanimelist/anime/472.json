@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T22:28:41.000Z",
+  "checkedAt": "2022-05-14T22:28:41.000Z",
+  "id": 472,
+  "type": "anime",
+  "title": "To Heart",
+  "altTitle": [
+    "ToHeart",
+    "To Heart",
+    "トゥハート"
+  ],
+  "url": "https://myanimelist.net/anime/472/To_Heart",
+  "image": "https://cdn.myanimelist.net/images/anime/8/29922.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aquaplus.co.jp/th/th_anime.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=414"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1089"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/To_Heart"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 414,
+  "Pages": {
+    "9anime": {
+      "94oq": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4210,
+        "identifier": "94oq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "To Heart (Dub)",
+        "url": "https://9anime.to/watch/to-heart-dub.94oq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SpCGQtlTEXs/WKKoCgLAw9I/AAAAAAABc0g/6rFfw9qGA5A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 472,
+        "aniId": 472,
+        "deletedAt": null
+      },
+      "lrx3": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6205,
+        "identifier": "lrx3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "To Heart",
+        "url": "https://9anime.to/watch/to-heart.lrx3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Img1meocp_M/V6timlp7p9I/AAAAAAAA2EU/56Awu7TS0R4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 472,
+        "aniId": 472,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "471": {
+        "identifier": "471",
+        "malId": 472,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "To Heart",
+        "url": "https://animepahe.com/a/471"
+      }
+    },
+    "AniMixPlay": {
+      "472": {
+        "identifier": "472",
+        "malId": 472,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "To Heart",
+        "url": "https://animixplay.to/anime/472"
+      }
+    },
+    "YugenAnime": {
+      "446": {
+        "identifier": "446",
+        "malId": 472,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "To Heart",
+        "url": "https://yugen.to/anime/446/to-heart/"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-11-20T13:20:43.000Z",
+  "updatedAt": "2022-06-20T08:01:16.000Z",
+  "checkedAt": "2022-06-20T08:01:16.000Z",
+  "id": 32933,
+  "type": "anime",
+  "title": "Xiao Yeyou",
+  "altTitle": [
+    "Xiao Ye You",
+    "Little Yeyos",
+    "小夜游"
+  ],
+  "url": "https://myanimelist.net/anime/32933/Xiao_Yeyou",
+  "image": "https://cdn.myanimelist.net/images/anime/12/79020.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zhuiguang.com/?p=239"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13509"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E8%BF%BD%E5%85%89%E5%8A%A8%E7%94%BB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13509,
+  "Pages": {
+    "9anime": {
+      "yr3p": {
+        "createdAt": "2020-12-09T14:18:52.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29908,
+        "identifier": "yr3p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Xiao Yeyou",
+        "url": "https://9anime.to/watch/little-yeyos.yr3p",
+        "image": "//static.9anime.to/i/cache/images/2018/04/7dc03685835b0a7ef8612183e3b240ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32933,
+        "aniId": 102713,
+        "deletedAt": null
+      }
+    }
+  }
+}

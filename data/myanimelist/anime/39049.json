@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T16:55:02.000Z",
+  "checkedAt": "2022-05-14T16:55:02.000Z",
+  "id": 39049,
+  "type": "anime",
+  "title": "Jashin-chan Dropkick'",
+  "altTitle": [
+    "False God My Dropkick 2nd Season",
+    "Dropkick on My Devil!! 2nd Season",
+    "Dropkick on My Devil!! Dash",
+    "邪神ちゃんドロップキック'（ダッシュ）"
+  ],
+  "url": "https://myanimelist.net/anime/39049/Jashin-chan_Dropkick",
+  "image": "https://cdn.myanimelist.net/images/anime/1646/111421.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jashinchan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14623"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22563"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dropkick_on_My_Devil!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279217"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14623,
+  "Pages": {
+    "9anime": {
+      "zjy2": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11147,
+        "identifier": "zjy2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dropkick On My Devil! 2nd Season",
+        "url": "https://9anime.to/watch/dropkick-on-my-devil-2nd-season.zjy2",
+        "image": "https://static.akacdn.ru/static/images/2019/01/f833e21b8daff7b630f2df9cf1d141f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39049,
+        "aniId": 107294,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jashin-chan-dropkick-2nd-season": {
+        "createdAt": "2020-10-12T16:00:51.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18556,
+        "identifier": "jashin-chan-dropkick-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jashin-chan Dropkick 2nd Season",
+        "url": "https://gogoanime.vc/category/jashin-chan-dropkick-2nd-season",
+        "image": "https://gogocdn.net/cover/jashin-chan-dropkick-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39049,
+        "aniId": 107294,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3892": {
+        "identifier": "3892",
+        "malId": 39049,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Jashin-chan Dropkick'",
+        "url": "https://animepahe.com/a/3892"
+      }
+    },
+    "AniMixPlay": {
+      "39049": {
+        "identifier": "39049",
+        "malId": 39049,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jashin-chan Dropkick'",
+        "url": "https://animixplay.to/anime/39049"
+      }
+    },
+    "YugenAnime": {
+      "7517": {
+        "identifier": "7517",
+        "malId": 39049,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jashin-chan Dropkick'",
+        "url": "https://yugen.to/anime/7517/jashin-chan-dropkick-7avr/"
+      }
+    }
+  }
+}

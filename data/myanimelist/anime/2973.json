@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T23:26:59.000Z",
+  "checkedAt": "2022-05-14T23:26:59.000Z",
+  "id": 2973,
+  "type": "anime",
+  "title": "Fire Tripper",
+  "altTitle": [
+    "Rumic World 1",
+    "Fire Tripper",
+    "炎トリッパー"
+  ],
+  "url": "https://myanimelist.net/anime/2973/Fire_Tripper",
+  "image": "https://cdn.myanimelist.net/images/anime/5/11984.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1511"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=869"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fire_Tripper"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1511,
+  "Pages": {
+    "9anime": {
+      "ml27": {
+        "createdAt": "2020-10-12T15:53:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6596,
+        "identifier": "ml27",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fire Tripper",
+        "url": "https://9anime.to/watch/fire-tripper.ml27",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-odK7khLbGsg/WKKqitbnkwI/AAAAAAABc1I/XtCjgr9Md84/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2973,
+        "aniId": 2973,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fire-tripper": {
+        "createdAt": "2020-10-12T16:00:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17669,
+        "identifier": "fire-tripper",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fire Tripper",
+        "url": "https://gogoanime.vc/category/fire-tripper",
+        "image": "https://cdnimg.xyz/images/anime/F/Fire-Tripper-Movie.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2973,
+        "aniId": 2973,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2973": {
+        "identifier": "2973",
+        "malId": 2973,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fire Tripper",
+        "url": "https://animixplay.to/anime/2973"
+      }
+    },
+    "YugenAnime": {
+      "1610": {
+        "identifier": "1610",
+        "malId": 2973,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fire Tripper",
+        "url": "https://yugen.to/anime/1610/fire-tripper/"
+      }
+    }
+  }
+}

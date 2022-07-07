@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:59:53.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16611,
+  "identifier": "asagao-to-kase-san",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Asagao to Kase-san.",
+  "url": "https://gogoanime.vc/category/asagao-to-kase-san",
+  "image": "https://cdnimg.xyz/cover/asagao-to-kase-san.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 35159,
+  "aniId": 98511,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:52.000Z",
+    "updatedAt": "2022-05-14T19:32:47.000Z",
+    "checkedAt": "2022-05-14T19:32:47.000Z",
+    "id": 35159,
+    "type": "anime",
+    "title": "Kimi no Hikari: Asagao to Kase-san.",
+    "altTitle": [
+      "Morning Glory and Kase-san",
+      "Your Light: Kase-san and Morning Glories",
+      "キミノヒカリ ～あさがおと加瀬さん。～"
+    ],
+    "url": "https://myanimelist.net/anime/35159/Kimi_no_Hikari__Asagao_to_Kase-san",
+    "image": "https://cdn.myanimelist.net/images/anime/13/84882.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.asagao-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12991"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19779"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kase-san"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-281538"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 12991
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:25.000Z",
+    "updatedAt": "2022-05-15T18:09:11.000Z",
+    "checkedAt": "2022-05-15T18:09:11.000Z",
+    "id": 98511,
+    "type": "anime",
+    "title": "Kimi no Hikari: Asagao to Kase-san.",
+    "altTitle": [
+      "Your Light: Kase-san and Morning Glories",
+      "キミノヒカリ ～あさがおと加瀬さん。～",
+      "Morning Glory and Kase-san"
+    ],
+    "url": "https://anilist.co/anime/98511",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98511-pZHBsH3uETJL.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 35159,
+    "deletedAt": null
+  }
+}

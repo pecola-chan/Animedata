@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T18:43:06.000Z",
+  "updatedAt": "2022-05-15T01:07:41.000Z",
+  "checkedAt": "2022-05-15T01:07:41.000Z",
+  "id": 10832,
+  "type": "anime",
+  "title": "Ikoku Meiro no Croisée: Yune & Alice",
+  "altTitle": [
+    "Ikoku Meiro no Croisée The Animation: Yune & Alice",
+    "Ikoku Meiro no Croisee The Animation: Yune & Alice",
+    "La croisée dans un labyrinthe étranger: Yune & Alice",
+    "異国迷路のクロワーゼ 「湯音＆アリス」"
+  ],
+  "url": "https://myanimelist.net/anime/10832/Ikoku_Meiro_no_Croisée__Yune___Alice",
+  "image": "https://cdn.myanimelist.net/images/anime/9/31995.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ikokumeiro.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8180"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/異国迷路のクロワーゼ"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/croise-in-a-foreign-labyrinth-ova"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8180,
+  "Pages": {
+    "9anime": {
+      "oy3z": {
+        "createdAt": "2020-10-12T18:43:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23817,
+        "identifier": "oy3z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ikoku Meiro no Croisée: Yune & Alice",
+        "url": "https://9anime.to/watch/la-croisee-dans-un-labyrinthe-etranger-yune-alice.oy3z",
+        "image": "//static.9anime.to/i/cache/images/2018/03/ebaab697c03dd4ace399a3e89270fd02.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10832,
+        "aniId": 10832,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "7177": {
+        "identifier": "7177",
+        "malId": 10832,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ikoku Meiro no Croisée: Yune & Alice",
+        "url": "https://yugen.to/anime/7177/ikoku-meiro-no-croisee-special/"
+      }
+    }
+  }
+}

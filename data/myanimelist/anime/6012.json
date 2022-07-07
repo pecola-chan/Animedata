@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-12-15T00:50:13.000Z",
+  "updatedAt": "2022-05-15T07:16:52.000Z",
+  "checkedAt": "2022-05-15T07:16:52.000Z",
+  "id": 6012,
+  "type": "anime",
+  "title": "Kinpatsu no Jeanie",
+  "altTitle": [
+    "Kinpatsu no Jenny",
+    "Blonde Jeanie",
+    "Jeanie with the Light Brown Hair",
+    "金髪のジェニー"
+  ],
+  "url": "https://myanimelist.net/anime/6012/Kinpatsu_no_Jeanie",
+  "image": "https://cdn.myanimelist.net/images/anime/11/58201.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3653"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1860"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3653,
+  "Pages": {
+    "9anime": {
+      "ky7r": {
+        "createdAt": "2020-12-15T00:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30235,
+        "identifier": "ky7r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kinpatsu no Jeanie",
+        "url": "https://9anime.to/watch/kinpatsu-no-jenny.ky7r",
+        "image": "//static.9anime.to/i/cache/images/9/9f/9f6d101470d7a6c49fad0f7af800d3e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6012,
+        "aniId": 6012,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6012": {
+        "identifier": "6012",
+        "malId": 6012,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kinpatsu no Jeanie",
+        "url": "https://animixplay.to/anime/6012"
+      }
+    },
+    "YugenAnime": {
+      "9722": {
+        "identifier": "9722",
+        "malId": 6012,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kinpatsu no Jeanie",
+        "url": "https://yugen.to/anime/9722/kinpatsu-no-jeanie/"
+      }
+    }
+  }
+}

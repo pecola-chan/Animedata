@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T17:23:46.000Z",
+  "checkedAt": "2022-05-14T17:23:46.000Z",
+  "id": 20767,
+  "type": "anime",
+  "title": "Noragami OVA",
+  "altTitle": [
+    "Noragami OAD",
+    "ノラガミ OAD"
+  ],
+  "url": "https://myanimelist.net/anime/20767/Noragami_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/7/77177.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10179"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15837"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Noragami"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10179,
+  "Pages": {
+    "9anime": {
+      "0ol5": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2022-06-13T22:00:30.000Z",
+        "checkedAt": "2022-06-13T22:00:30.000Z",
+        "id": 602,
+        "identifier": "0ol5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Noragami OVA",
+        "url": "https://9anime.to/watch/noragami-ova.0ol5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/2d385d6a4b28aace05e662eaae4bfbeb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20767,
+        "aniId": 20494,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "noragami-ova": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19796,
+        "identifier": "noragami-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Noragami OVA",
+        "url": "https://gogoanime.vc/category/noragami-ova",
+        "image": "https://cdnimg.xyz/images/Noragami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20767,
+        "aniId": 20494,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "842": {
+        "identifier": "842",
+        "malId": 20767,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Noragami OVA",
+        "url": "https://animepahe.com/a/842"
+      }
+    },
+    "AniMixPlay": {
+      "20767": {
+        "identifier": "20767",
+        "malId": 20767,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Noragami OVA",
+        "url": "https://animixplay.to/anime/20767"
+      }
+    }
+  }
+}

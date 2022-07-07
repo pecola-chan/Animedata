@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T23:24:05.000Z",
+  "checkedAt": "2022-05-14T23:24:05.000Z",
+  "id": 1207,
+  "type": "anime",
+  "title": "Wata no Kuni Hoshi",
+  "altTitle": [
+    "The Star of Cottonland",
+    "Fantasy of a Kitten",
+    "綿の国星"
+  ],
+  "url": "https://myanimelist.net/anime/1207/Wata_no_Kuni_Hoshi",
+  "image": "https://cdn.myanimelist.net/images/anime/11/13204.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://columbia.jp/prod-info/COBC-90516/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3575"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1430"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Star_of_Cottonland"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3575,
+  "Pages": {
+    "9anime": {
+      "m8lv": {
+        "createdAt": "2020-10-12T15:53:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6499,
+        "identifier": "m8lv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wata no Kuni Hoshi",
+        "url": "https://9anime.to/watch/wata-no-kuni-hoshi.m8lv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ipi42ZIQZkA/WIGk7azeSmI/AAAAAAABaW0/r2hmcIOpXU8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1207,
+        "aniId": 1207,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1207": {
+        "identifier": "1207",
+        "malId": 1207,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wata no Kuni Hoshi",
+        "url": "https://animixplay.to/anime/1207"
+      }
+    }
+  }
+}

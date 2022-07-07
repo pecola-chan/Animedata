@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-15T04:11:18.000Z",
+  "checkedAt": "2022-05-15T04:11:18.000Z",
+  "id": 2280,
+  "type": "anime",
+  "title": "Hare Tokidoki Buta (TV)",
+  "altTitle": [
+    "Tokyo Pig",
+    "はれときどきぶた"
+  ],
+  "url": "https://myanimelist.net/anime/2280/Hare_Tokidoki_Buta_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2515.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2989"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2053"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hare%2C_Tokidoki_Buta"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2989,
+  "Pages": {
+    "9anime": {
+      "4w4k": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2399,
+        "identifier": "4w4k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hare Tokidoki Buta (TV)",
+        "url": "https://9anime.to/watch/hare-tokidoki-buta-tv.4w4k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mfarvhA8Qtk/V9DqztAHNcI/AAAAAAAA8W0/cFv_KjPe8qU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2280,
+        "aniId": 2280,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2280": {
+        "identifier": "2280",
+        "malId": 2280,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hare Tokidoki Buta (TV)",
+        "url": "https://animixplay.to/anime/2280"
+      }
+    },
+    "YugenAnime": {
+      "15438": {
+        "identifier": "15438",
+        "malId": 2280,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hare Tokidoki Buta (TV)",
+        "url": "https://yugen.to/anime/15438/hare-tokidoki-buta-tv/"
+      }
+    }
+  }
+}

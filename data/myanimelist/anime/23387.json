@@ -1,0 +1,92 @@
+{
+  "createdAt": "2021-07-11T18:45:49.000Z",
+  "updatedAt": "2022-05-14T22:05:17.000Z",
+  "checkedAt": "2022-05-14T22:05:17.000Z",
+  "id": 23387,
+  "type": "anime",
+  "title": "Master of Torque",
+  "altTitle": [
+    "マスター・オブ・トルク"
+  ],
+  "url": "https://myanimelist.net/anime/23387/Master_of_Torque",
+  "image": "https://cdn.myanimelist.net/images/anime/9/65243.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://global.yamaha-motor.com/showroom/mt/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10562"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10562,
+  "Pages": {
+    "9anime": {
+      "qxl2j": {
+        "createdAt": "2021-07-11T18:45:47.000Z",
+        "updatedAt": "2022-04-03T05:36:34.000Z",
+        "checkedAt": null,
+        "id": 37802,
+        "identifier": "qxl2j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Master of Torque",
+        "url": "https://9anime.to/watch/master-of-torque.qxl2j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/4e/4ebfa320c6a23d5c9cc605f447c749dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23387,
+        "aniId": 20675,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "master-of-torque": {
+        "createdAt": "2021-07-13T03:16:43.000Z",
+        "updatedAt": "2021-07-13T16:20:49.000Z",
+        "checkedAt": null,
+        "id": 37841,
+        "identifier": "master-of-torque",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Master of Torque",
+        "url": "https://gogoanime.pe/category/master-of-torque",
+        "image": "https://gogocdn.net/cover/master-of-torque.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23387,
+        "aniId": 20675,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "23387": {
+        "identifier": "23387",
+        "malId": 23387,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Master of Torque",
+        "url": "https://animixplay.to/anime/23387"
+      }
+    },
+    "YugenAnime": {
+      "7897": {
+        "identifier": "7897",
+        "malId": 23387,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Master of Torque",
+        "url": "https://yugen.to/anime/7897/master-of-torque/"
+      }
+    }
+  }
+}

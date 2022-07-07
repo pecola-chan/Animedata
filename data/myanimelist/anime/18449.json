@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-15T07:20:28.000Z",
+  "checkedAt": "2022-05-15T07:20:28.000Z",
+  "id": 18449,
+  "type": "anime",
+  "title": "Mobile Suit Gundam Battlefield Record: Avant-Title",
+  "altTitle": [
+    "Kidou Senshi Gundam Senki: Avant Title",
+    "機動戦士ガンダム戦記 アバンタイトル"
+  ],
+  "url": "https://myanimelist.net/anime/18449/Mobile_Suit_Gundam_Battlefield_Record__Avant-Title",
+  "image": "https://cdn.myanimelist.net/images/anime/3/49393.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ps3-gundam.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9778"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11053"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9778,
+  "Pages": {
+    "9anime": {
+      "z7v2": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11082,
+        "identifier": "z7v2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam Battlefield Record: Avant-Title",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-battlefield-record-avant-title.z7v2",
+        "image": "https://static.akacdn.ru/files/images/2018/07/10927a79de1017dfcaa28c95b3158bba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18449,
+        "aniId": 18449,
+        "deletedAt": null
+      }
+    }
+  }
+}

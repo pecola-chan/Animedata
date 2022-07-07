@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-15T01:39:06.000Z",
+  "checkedAt": "2022-05-15T01:39:06.000Z",
+  "id": 10077,
+  "type": "anime",
+  "title": "Sango no Umi to Ouji",
+  "altTitle": [
+    "The Prince and the Coral Sea",
+    "サンゴの海と王子"
+  ],
+  "url": "https://myanimelist.net/anime/10077/Sango_no_Umi_to_Ouji",
+  "image": "https://cdn.myanimelist.net/images/anime/3/28054.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7121"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7121,
+  "Pages": {
+    "9anime": {
+      "8wyy": {
+        "createdAt": "2020-10-12T15:51:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4060,
+        "identifier": "8wyy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Prince and the Coral Sea",
+        "url": "https://9anime.to/watch/the-prince-and-the-coral-sea.8wyy",
+        "image": "https://static.akacdn.ru/files/images/2018/11/57d4475c780d4e479c3d6d69fb63194b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10077,
+        "aniId": 10077,
+        "deletedAt": null
+      }
+    }
+  }
+}

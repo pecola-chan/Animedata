@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T22:53:17.000Z",
+  "checkedAt": "2022-05-14T22:53:17.000Z",
+  "id": 10933,
+  "type": "anime",
+  "title": "R-15: R15 Shounen Hyouryuuki",
+  "altTitle": [
+    "R-15 OVA",
+    "あーるじゅうご R15少年漂流記"
+  ],
+  "url": "https://myanimelist.net/anime/10933/R-15__R15_Shounen_Hyouryuuki",
+  "image": "https://cdn.myanimelist.net/images/anime/5/30175.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kadokawa.co.jp/shop/sp/shop_sp_177.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8515"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/R-15_(小説)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8515,
+  "Pages": {
+    "9anime": {
+      "jl3n": {
+        "createdAt": "2020-10-12T15:52:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4894,
+        "identifier": "jl3n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "R-15 OVA",
+        "url": "https://9anime.to/watch/r-15-ova.jl3n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nzezTfJBRME/V-CSu6ADj_I/AAAAAAAA-_4/Mif7mhRmBUk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10933,
+        "aniId": 10933,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2702": {
+        "identifier": "2702",
+        "malId": 10933,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "R-15: R15 Shounen Hyouryuuki",
+        "url": "https://animepahe.com/a/2702"
+      }
+    },
+    "AniMixPlay": {
+      "10933": {
+        "identifier": "10933",
+        "malId": 10933,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "R-15: R15 Shounen Hyouryuuki",
+        "url": "https://animixplay.to/anime/10933"
+      }
+    }
+  }
+}

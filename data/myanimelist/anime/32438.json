@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T19:14:18.000Z",
+  "checkedAt": "2022-05-14T19:14:18.000Z",
+  "id": 32438,
+  "type": "anime",
+  "title": "Mayoiga",
+  "altTitle": [
+    "The Lost Village",
+    "迷家-マヨイガ-"
+  ],
+  "url": "https://myanimelist.net/anime/32438/Mayoiga",
+  "image": "https://cdn.myanimelist.net/images/anime/4/79413.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mayoiga.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11863"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18052"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lost_Village_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269801"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11863,
+  "Pages": {
+    "9anime": {
+      "yqnp": {
+        "createdAt": "2020-10-12T15:56:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10821,
+        "identifier": "yqnp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mayoiga",
+        "url": "https://9anime.to/watch/mayoiga.yqnp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tfx8_Pmlt-s/V5oyNHnsCWI/AAAAAAAAyoo/n4waUY7OiBk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32438,
+        "aniId": 21567,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mayoiga": {
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19382,
+        "identifier": "mayoiga",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mayoiga",
+        "url": "https://gogoanime.vc/category/mayoiga",
+        "image": "https://cdnimg.xyz/cover/mayoiga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32438,
+        "aniId": 21567,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "879": {
+        "identifier": "879",
+        "malId": 32438,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mayoiga",
+        "url": "https://animepahe.com/a/879"
+      }
+    },
+    "AniMixPlay": {
+      "32438": {
+        "identifier": "32438",
+        "malId": 32438,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mayoiga",
+        "url": "https://animixplay.to/anime/32438"
+      }
+    },
+    "YugenAnime": {
+      "566": {
+        "identifier": "566",
+        "malId": 32438,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mayoiga",
+        "url": "https://yugen.to/anime/566/mayoiga/"
+      }
+    }
+  }
+}

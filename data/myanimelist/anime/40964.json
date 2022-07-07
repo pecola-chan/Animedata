@@ -1,0 +1,174 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T07:06:54.000Z",
+  "checkedAt": "2022-05-14T07:06:54.000Z",
+  "id": 40964,
+  "type": "anime",
+  "title": "Back Arrow",
+  "altTitle": [
+    "Back Arrow",
+    "バック・アロウ"
+  ],
+  "url": "https://myanimelist.net/anime/40964/Back_Arrow",
+  "image": "https://cdn.myanimelist.net/images/anime/1373/111546.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://back-arrow.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15341"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22957"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Back_Arrow"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282455"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/back-arrow"
+    },
+    {
+      "site": "aniplusasia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "wakanim",
+      "url": "https://www.wakanim.tv/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15341,
+  "Pages": {
+    "9anime": {
+      "nl1k": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7103,
+        "identifier": "nl1k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Back Arrow",
+        "url": "https://9anime.to/watch/back-arrow.nl1k",
+        "image": "https://static.akacdn.ru/files/images/2020/01/01f0ab5da671761df7d25951ba339b83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40964,
+        "aniId": 114307,
+        "deletedAt": null
+      },
+      "nzyn": {
+        "createdAt": "2021-04-23T17:58:23.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36678,
+        "identifier": "nzyn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Back Arrow (Dub)",
+        "url": "https://9anime.to/watch/back-arrow-dub.nzyn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/9f/9ffb3a46e084ec247a265ea460a1d209.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40964,
+        "aniId": 114307,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "back-arrow": {
+        "createdAt": "2021-01-08T16:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33240,
+        "identifier": "back-arrow",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Back Arrow",
+        "url": "https://gogoanime.vc/category/back-arrow",
+        "image": "https://gogocdn.net/cover/back-arrow.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40964,
+        "aniId": 114307,
+        "deletedAt": null
+      },
+      "back-arrow-dub": {
+        "createdAt": "2021-05-01T20:33:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36822,
+        "identifier": "back-arrow-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Back Arrow (Dub)",
+        "url": "https://gogoanime.vc/category/back-arrow-dub",
+        "image": "https://gogocdn.net/cover/back-arrow-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40964,
+        "aniId": 114307,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4191": {
+        "identifier": "4191",
+        "malId": 40964,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Back Arrow",
+        "url": "https://animepahe.com/a/4191"
+      }
+    },
+    "AniMixPlay": {
+      "40964": {
+        "identifier": "40964",
+        "malId": 40964,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Back Arrow",
+        "url": "https://animixplay.to/anime/40964"
+      }
+    },
+    "YugenAnime": {
+      "7105": {
+        "identifier": "7105",
+        "malId": 40964,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Back Arrow",
+        "url": "https://yugen.to/anime/7105/back-arrow/"
+      }
+    }
+  }
+}

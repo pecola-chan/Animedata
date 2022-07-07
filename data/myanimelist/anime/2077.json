@@ -1,0 +1,68 @@
+{
+  "createdAt": "2021-09-17T22:12:15.000Z",
+  "updatedAt": "2022-05-15T11:49:03.000Z",
+  "checkedAt": "2022-05-15T11:49:03.000Z",
+  "id": 2077,
+  "type": "anime",
+  "title": "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+  "altTitle": [
+    "The Cases of Young Kindaichi",
+    "The Case Files of Young Kindaichi Movie",
+    "Kindaichi Shounen no Jikenbo: Operazakan - Aratanaru Satsujin",
+    "金田一少年の事件簿・オペラ座館・新たなる殺人"
+  ],
+  "url": "https://myanimelist.net/anime/2077/Kindaichi_Shounen_no_Jikenbo_Movie_1__Operazakan_-_Aratanaru_Satsujin",
+  "image": "https://cdn.myanimelist.net/images/anime/10/25372.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/KinDaichi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1585"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2462"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1585,
+  "Pages": {
+    "9anime": {
+      "wk66": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
+        "checkedAt": null,
+        "id": 9780,
+        "identifier": "wk66",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kindaichi Shounen no Jikenbo",
+        "url": "https://9anime.to/watch/kindaichi-shounen-no-jikenbo.wk66",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ff9e61b6c20a7879f86662343c16b90c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 2077,
+        "aniId": 2077,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2077": {
+        "identifier": "2077",
+        "malId": 2077,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+        "url": "https://animixplay.to/anime/2077"
+      }
+    }
+  }
+}

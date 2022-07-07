@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-13T18:00:32.000Z",
+  "checkedAt": "2022-05-13T18:00:32.000Z",
+  "id": 39469,
+  "type": "anime",
+  "title": "Tsugu Tsugumomo",
+  "altTitle": [
+    "継つぐもも"
+  ],
+  "url": "https://myanimelist.net/anime/39469/Tsugu_Tsugumomo",
+  "image": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tsugumomo.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14728"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22978"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsugumomo#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272961"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14728,
+  "Pages": {
+    "9anime": {
+      "mkj8": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2022-03-19T09:49:23.000Z",
+        "checkedAt": null,
+        "id": 6577,
+        "identifier": "mkj8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsugu Tsugumomo",
+        "url": "https://9anime.to/watch/tsugumomo2.mkj8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/02/58596d60965aa45ec99a178330e42a89.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39469,
+        "aniId": 108266,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tsugu-tsugumomo": {
+        "createdAt": "2020-10-12T16:02:09.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21232,
+        "identifier": "tsugu-tsugumomo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsugu Tsugumomo",
+        "url": "https://gogoanime.vc/category/tsugu-tsugumomo",
+        "image": "https://gogocdn.net/cover/tsugu-tsugumomo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39469,
+        "aniId": 108266,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3889": {
+        "identifier": "3889",
+        "malId": 39469,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tsugu Tsugumomo",
+        "url": "https://animepahe.com/a/3889"
+      }
+    },
+    "AniMixPlay": {
+      "39469": {
+        "identifier": "39469",
+        "malId": 39469,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsugu Tsugumomo",
+        "url": "https://animixplay.to/anime/39469"
+      }
+    },
+    "YugenAnime": {
+      "3491": {
+        "identifier": "3491",
+        "malId": 39469,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsugu Tsugumomo",
+        "url": "https://yugen.to/anime/3491/tsugu-tsugumomo/"
+      }
+    }
+  }
+}

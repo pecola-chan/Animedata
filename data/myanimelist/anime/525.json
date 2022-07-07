@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T20:34:23.000Z",
+  "checkedAt": "2022-05-14T20:34:22.000Z",
+  "id": 525,
+  "type": "anime",
+  "title": "Otogizoushi",
+  "altTitle": [
+    "Otogi Zoshi: The Legend of Magatama",
+    "お伽草子"
+  ],
+  "url": "https://myanimelist.net/anime/525/Otogizoushi",
+  "image": "https://cdn.myanimelist.net/images/anime/9/16736.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.production-ig.co.jp/contents/works_sp/1170_/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1958"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3972"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Otogiz%C5%8Dshi_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1958,
+  "Pages": {
+    "9anime": {
+      "30q8": {
+        "createdAt": "2020-10-12T15:49:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1635,
+        "identifier": "30q8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otogizoushi",
+        "url": "https://9anime.to/watch/otogizoushi.30q8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YMUdZrPIRm4/V7SVCYCypWI/AAAAAAAA33Y/SDCoMuRlzi0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 525,
+        "aniId": 525,
+        "deletedAt": null
+      },
+      "l1om": {
+        "createdAt": "2020-10-12T15:52:55.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5755,
+        "identifier": "l1om",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otogizoushi (Dub)",
+        "url": "https://9anime.to/watch/otogizoushi-dub.l1om",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vRpRXc841Fo/V9PT64uC4xI/AAAAAAAA8_A/g8T4gRqgL-8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 525,
+        "aniId": 525,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "otogizoushi": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19947,
+        "identifier": "otogizoushi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Otogizoushi",
+        "url": "https://gogoanime.vc/category/otogizoushi",
+        "image": "https://cdnimg.xyz/cover/otogizoushi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 525,
+        "aniId": 525,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "525": {
+        "identifier": "525",
+        "malId": 525,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Otogizoushi",
+        "url": "https://animixplay.to/anime/525"
+      }
+    },
+    "YugenAnime": {
+      "1776": {
+        "identifier": "1776",
+        "malId": 525,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Otogizoushi",
+        "url": "https://yugen.to/anime/1776/otogizoushi/"
+      }
+    }
+  }
+}

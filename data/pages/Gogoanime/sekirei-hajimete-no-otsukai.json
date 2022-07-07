@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-09-21T08:40:46.000Z",
+  "updatedAt": "2021-09-21T09:10:42.000Z",
+  "checkedAt": null,
+  "id": 38684,
+  "identifier": "sekirei-hajimete-no-otsukai",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sekirei: Hajimete no Otsukai",
+  "url": "https://gogoanime.pe/category/sekirei-hajimete-no-otsukai",
+  "image": "https://gogocdn.net/cover/sekirei-hajimete-no-otsukai.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5279,
+  "aniId": 5279,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:46.000Z",
+    "updatedAt": "2022-05-14T20:00:29.000Z",
+    "checkedAt": "2022-05-14T20:00:29.000Z",
+    "id": 5279,
+    "type": "anime",
+    "title": "Sekirei: Hajimete no Otsukai",
+    "altTitle": [
+      "Sekirei OVA",
+      "Sekirei Special",
+      "セキレイ「初メテノオツカイ」"
+    ],
+    "url": "https://myanimelist.net/anime/5279/Sekirei__Hajimete_no_Otsukai",
+    "image": "https://cdn.myanimelist.net/images/anime/1369/118812.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sekirei-tv.com/1st/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5786"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9561"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sekirei"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5786
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:44.000Z",
+    "updatedAt": "2022-05-15T11:04:35.000Z",
+    "checkedAt": "2022-05-15T11:04:35.000Z",
+    "id": 5279,
+    "type": "anime",
+    "title": "Sekirei Special",
+    "altTitle": [
+      "Sekirei OVA"
+    ],
+    "url": "https://anilist.co/anime/5279",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5279.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5279,
+    "deletedAt": null
+  }
+}

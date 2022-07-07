@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T16:15:59.000Z",
+  "checkedAt": "2022-05-14T16:15:59.000Z",
+  "id": 9982,
+  "type": "anime",
+  "title": "Fairy Tail OVA",
+  "altTitle": [
+    "Fairy Tail: Youkoso Fairy Hills!",
+    "Yousei Gakuen: Yankee-kun to Yankee-chan",
+    "フェアリーテイル OVA"
+  ],
+  "url": "https://myanimelist.net/anime/9982/Fairy_Tail_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/10/65661.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/fairytail/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8132"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12322"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fairy_Tail"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8132,
+  "Pages": {
+    "9anime": {
+      "z2yp": {
+        "createdAt": "2020-10-12T15:57:02.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10978,
+        "identifier": "z2yp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fairy Tail OVA",
+        "url": "https://9anime.to/watch/fairy-tail-ova.z2yp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wp2mud8Ft9c/WEi8pWPC6gI/AAAAAAABR2U/_STBYcF0V6A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9982,
+        "aniId": 9982,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fairy-tail-ova": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2022-07-01T08:20:00.000Z",
+        "checkedAt": "2022-07-01T05:30:02.000Z",
+        "id": 17610,
+        "identifier": "fairy-tail-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fairy Tail OVA",
+        "url": "https://gogoanime.lu/category/fairy-tail-ova",
+        "image": "https://gogocdn.net/images/anime/F/fairy_tail_ova.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 9982,
+        "aniId": 9982,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9982": {
+        "identifier": "9982",
+        "malId": 9982,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fairy Tail OVA",
+        "url": "https://animixplay.to/anime/9982"
+      }
+    },
+    "YugenAnime": {
+      "1562": {
+        "identifier": "1562",
+        "malId": 9982,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fairy Tail OVA",
+        "url": "https://yugen.to/anime/1562/fairy-tail-ova/"
+      }
+    }
+  }
+}

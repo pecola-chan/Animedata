@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T20:39:22.000Z",
+  "checkedAt": "2022-05-14T20:39:22.000Z",
+  "id": 519,
+  "type": "anime",
+  "title": "Mahoraba: Heartful days",
+  "altTitle": [
+    "まほらば ~Heartful days~"
+  ],
+  "url": "https://myanimelist.net/anime/519/Mahoraba__Heartful_days",
+  "image": "https://cdn.myanimelist.net/images/anime/3/50903.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2443"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4631"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mahoraba"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280774"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2443,
+  "Pages": {
+    "9anime": {
+      "lxk6": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6248,
+        "identifier": "lxk6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoraba: Heartful days",
+        "url": "https://9anime.to/watch/mahoraba-heartful-days.lxk6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PmMEpRaCIj0/V7xZ7E7susI/AAAAAAAA43o/4yItr9uKeRo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 519,
+        "aniId": 519,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahoraba-heartful-days": {
+        "createdAt": "2020-10-12T16:01:11.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19243,
+        "identifier": "mahoraba-heartful-days",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahoraba Heartful Days",
+        "url": "https://gogoanime.vc/category/mahoraba-heartful-days",
+        "image": "https://cdnimg.xyz/images/anime/M/mahoraba-heartful-days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 519,
+        "aniId": 519,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1629": {
+        "identifier": "1629",
+        "malId": 519,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mahoraba: Heartful days",
+        "url": "https://animepahe.com/a/1629"
+      }
+    },
+    "AniMixPlay": {
+      "519": {
+        "identifier": "519",
+        "malId": 519,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahoraba: Heartful days",
+        "url": "https://animixplay.to/anime/519"
+      }
+    },
+    "YugenAnime": {
+      "3396": {
+        "identifier": "3396",
+        "malId": 519,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahoraba: Heartful days",
+        "url": "https://yugen.to/anime/3396/mahoraba-heartful-days/"
+      }
+    }
+  }
+}

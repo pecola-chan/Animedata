@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T16:11:56.000Z",
+  "checkedAt": "2022-05-14T16:11:56.000Z",
+  "id": 16668,
+  "type": "anime",
+  "title": "Kakumeiki Valvrave",
+  "altTitle": [
+    "Kakumeiki Valvrave",
+    "Valvrave the Liberator",
+    "革命機ヴァルヴレイヴ"
+  ],
+  "url": "https://myanimelist.net/anime/16668/Kakumeiki_Valvrave",
+  "image": "https://cdn.myanimelist.net/images/anime/3/49251.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.valvrave.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9568"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14983"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Valvrave_the_Liberator"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/valvrave-the-liberator"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9568,
+  "Pages": {
+    "9anime": {
+      "qpw": {
+        "createdAt": "2020-10-12T15:55:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8510,
+        "identifier": "qpw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kakumeiki Valvrave",
+        "url": "https://9anime.to/watch/kakumeiki-valvrave.qpw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NJW7hMj9OOI/V3zjGhNs4VI/AAAAAAAAttU/tLZIevcifZY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16668,
+        "aniId": 16668,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "valvrave-the-liberator": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21349,
+        "identifier": "valvrave-the-liberator",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakumeiki Valvrave",
+        "url": "https://gogoanime.vc/category/valvrave-the-liberator",
+        "image": "https://cdnimg.xyz/images/anime/V/Valvrave-the-Liberator.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16668,
+        "aniId": 16668,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "60": {
+        "identifier": "60",
+        "malId": 16668,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kakumeiki Valvrave",
+        "url": "https://animepahe.com/a/60"
+      }
+    },
+    "AniMixPlay": {
+      "16668": {
+        "identifier": "16668",
+        "malId": 16668,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kakumeiki Valvrave",
+        "url": "https://animixplay.to/anime/16668"
+      }
+    },
+    "YugenAnime": {
+      "513": {
+        "identifier": "513",
+        "malId": 16668,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kakumeiki Valvrave",
+        "url": "https://yugen.to/anime/513/kakumeiki-valvrave/"
+      }
+    }
+  }
+}

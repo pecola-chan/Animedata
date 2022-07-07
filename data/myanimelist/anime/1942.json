@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T20:35:17.000Z",
+  "checkedAt": "2022-05-14T20:35:17.000Z",
+  "id": 1942,
+  "type": "anime",
+  "title": "Rocket Girls",
+  "altTitle": [
+    "ロケットガール"
+  ],
+  "url": "https://myanimelist.net/anime/1942/Rocket_Girls",
+  "image": "https://cdn.myanimelist.net/images/anime/2/79894.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rocket-girl.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4802"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7232"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rocket_Girls"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/rocket-girls"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4802,
+  "Pages": {
+    "9anime": {
+      "z6ww": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11063,
+        "identifier": "z6ww",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rocket Girls",
+        "url": "https://9anime.to/watch/rocket-girls.z6ww",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lgAMa2VlWCg/WKgIUEahDpI/AAAAAAABdPI/5rODiow7KQI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1942,
+        "aniId": 1942,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rocket-girls": {
+        "createdAt": "2020-12-16T13:54:31.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30287,
+        "identifier": "rocket-girls",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rocket Girls",
+        "url": "https://gogoanime.vc/category/rocket-girls",
+        "image": "https://gogocdn.net/cover/rocket-girls.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1942,
+        "aniId": 1942,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1942": {
+        "identifier": "1942",
+        "malId": 1942,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rocket Girls",
+        "url": "https://animixplay.to/anime/1942"
+      }
+    },
+    "YugenAnime": {
+      "6869": {
+        "identifier": "6869",
+        "malId": 1942,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rocket Girls",
+        "url": "https://yugen.to/anime/6869/rocket-girls/"
+      }
+    }
+  }
+}

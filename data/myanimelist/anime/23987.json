@@ -1,0 +1,124 @@
+{
+  "createdAt": "2020-10-12T15:39:28.000Z",
+  "updatedAt": "2022-05-14T21:36:41.000Z",
+  "checkedAt": "2022-05-14T21:36:41.000Z",
+  "id": 23987,
+  "type": "anime",
+  "title": "Sarusuberi: Miss Hokusai",
+  "altTitle": [
+    "百日紅～Miss HOKUSAI～"
+  ],
+  "url": "https://myanimelist.net/anime/23987/Sarusuberi__Miss_Hokusai",
+  "image": "https://cdn.myanimelist.net/images/anime/7/72531.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sarusuberi-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10611"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16822"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sarusuberi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280914"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10611,
+  "Pages": {
+    "9anime": {
+      "246l": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1268,
+        "identifier": "246l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sarusuberi: Miss Hokusai (Dub)",
+        "url": "https://9anime.to/watch/sarusuberi-miss-hokusai-dub.246l",
+        "image": "http://static.akacdn.ru/static/images/2018/04/11a69f033ea518968394581c85ab29aa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23987,
+        "aniId": 20709,
+        "deletedAt": null
+      },
+      "o858": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7455,
+        "identifier": "o858",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sarusuberi: Miss Hokusai",
+        "url": "https://9anime.to/watch/sarusuberi-miss-hokusai.o858",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-senIaq0nbDg/WDeOxnYRKoI/AAAAAAABQSw/cx2toR34to0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23987,
+        "aniId": 20709,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sarusuberi-miss-hokusai": {
+        "createdAt": "2021-04-04T13:38:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36189,
+        "identifier": "sarusuberi-miss-hokusai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sarusuberi: Miss Hokusai",
+        "url": "https://gogoanime.vc/category/sarusuberi-miss-hokusai",
+        "image": "https://gogocdn.net/images/upload/72531.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23987,
+        "aniId": 20709,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "23987": {
+        "identifier": "23987",
+        "malId": 23987,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sarusuberi: Miss Hokusai",
+        "url": "https://animixplay.to/anime/23987"
+      }
+    },
+    "YugenAnime": {
+      "4778": {
+        "identifier": "4778",
+        "malId": 23987,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sarusuberi: Miss Hokusai",
+        "url": "https://yugen.to/anime/4778/sarusuberi-miss-hokusai/"
+      }
+    }
+  }
+}

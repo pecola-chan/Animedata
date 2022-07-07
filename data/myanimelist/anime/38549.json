@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-13T23:46:49.000Z",
+  "checkedAt": "2022-05-13T23:46:49.000Z",
+  "id": 38549,
+  "type": "anime",
+  "title": "TV Yarou Nanaana",
+  "altTitle": [
+    "Televi Yarou Nanana",
+    "TV Yarou Nana-na",
+    "Wacky TV Na Na Na",
+    "テレビ野郎 ナナーナ"
+  ],
+  "url": "https://myanimelist.net/anime/38549/TV_Yarou_Nanaana",
+  "image": "https://cdn.myanimelist.net/images/anime/1193/99964.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277834"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "4nvj": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2022-06-14T02:32:11.000Z",
+        "checkedAt": "2022-06-14T02:32:11.000Z",
+        "id": 2305,
+        "identifier": "4nvj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "TV Yarou Nanaana",
+        "url": "https://9anime.to/watch/wacky-tv-nanana.4nvj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/06/c4385f3c42bd3d22d152c82e2f98f0a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38549,
+        "aniId": 112004,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3985": {
+        "identifier": "3985",
+        "malId": 38549,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "TV Yarou Nanaana",
+        "url": "https://animepahe.com/a/3985"
+      }
+    },
+    "AniMixPlay": {
+      "38549": {
+        "identifier": "38549",
+        "malId": 38549,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "TV Yarou Nanaana",
+        "url": "https://animixplay.to/anime/38549"
+      }
+    },
+    "YugenAnime": {
+      "15063": {
+        "identifier": "15063",
+        "malId": 38549,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "TV Yarou Nanaana",
+        "url": "https://yugen.to/anime/15063/tv-yarou-nanaana/"
+      }
+    }
+  }
+}

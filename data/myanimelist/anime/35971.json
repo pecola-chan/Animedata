@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-15T04:17:40.000Z",
+  "checkedAt": "2022-05-15T04:17:40.000Z",
+  "id": 35971,
+  "type": "anime",
+  "title": "Onyankopon",
+  "altTitle": [
+    "おにゃんこポン"
+  ],
+  "url": "https://myanimelist.net/anime/35971/Onyankopon",
+  "image": "https://cdn.myanimelist.net/images/anime/6/88375.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.onyankopon.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13294"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E3%83%9D%E3%83%B3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274473"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13294,
+  "Pages": {
+    "9anime": {
+      "o7vz": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7444,
+        "identifier": "o7vz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onyankopon",
+        "url": "https://9anime.to/watch/onyankopon.o7vz",
+        "image": "https://static.akacdn.ru/files/images/2018/04/6d7bcb2ceb65416c9ae538dc5868b181.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35971,
+        "aniId": 100255,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "onyankopon": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19898,
+        "identifier": "onyankopon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Onyankopon",
+        "url": "https://gogoanime.vc/category/onyankopon",
+        "image": "https://images.gogoanime.tv/cover/onyankopon.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35971,
+        "aniId": 100255,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2319": {
+        "identifier": "2319",
+        "malId": 35971,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Onyankopon",
+        "url": "https://animepahe.com/a/2319"
+      }
+    },
+    "AniMixPlay": {
+      "35971": {
+        "identifier": "35971",
+        "malId": 35971,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Onyankopon",
+        "url": "https://animixplay.to/anime/35971"
+      }
+    },
+    "YugenAnime": {
+      "2372": {
+        "identifier": "2372",
+        "malId": 35971,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Onyankopon",
+        "url": "https://yugen.to/anime/2372/onyankopon/"
+      }
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T09:33:52.000Z",
+  "checkedAt": "2022-05-14T09:33:52.000Z",
+  "id": 38787,
+  "type": "anime",
+  "title": "Senryuu Shoujo",
+  "altTitle": [
+    "Senryuu Girl",
+    "Senryu Girl",
+    "川柳少女"
+  ],
+  "url": "https://myanimelist.net/anime/38787/Senryuu_Shoujo",
+  "image": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://senryu-girl-official.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14522"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21646"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%9F%B3%E5%B0%91%E5%A5%B3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277840"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/senryu-girl"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14522,
+  "Pages": {
+    "9anime": {
+      "1m3q": {
+        "createdAt": "2020-10-12T15:49:14.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1009,
+        "identifier": "1m3q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senryuu Shoujo",
+        "url": "https://9anime.to/watch/senryuu-shoujo.1m3q",
+        "image": "https://static.akacdn.ru/static/images/2018/12/428f71b2975ea7592f74f8e95c473a07.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38787,
+        "aniId": 106051,
+        "deletedAt": null
+      },
+      "nyol": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7304,
+        "identifier": "nyol",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senryuu Shoujo (Dub)",
+        "url": "https://9anime.to/watch/senryuu-shoujo-dub.nyol",
+        "image": "https://static.akacdn.ru/files/images/0/09/09a0b1f0623b69b74fea404b51c84566.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38787,
+        "aniId": 106051,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "senryuu-shoujo": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20526,
+        "identifier": "senryuu-shoujo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senryuu Shoujo",
+        "url": "https://gogoanime.vc/category/senryuu-shoujo",
+        "image": "https://cdnimg.xyz/cover/senryuu-shoujo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38787,
+        "aniId": 106051,
+        "deletedAt": null
+      },
+      "senryuu-shoujo-dub": {
+        "createdAt": "2021-08-23T08:17:27.000Z",
+        "updatedAt": "2021-10-31T20:04:51.000Z",
+        "checkedAt": null,
+        "id": 38407,
+        "identifier": "senryuu-shoujo-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senryuu Shoujo (Dub)",
+        "url": "https://gogoanime.pe/category/senryuu-shoujo-dub",
+        "image": "https://gogocdn.net/cover/senryuu-shoujo-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38787,
+        "aniId": 106051,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3216": {
+        "identifier": "3216",
+        "malId": 38787,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Senryuu Shoujo",
+        "url": "https://animepahe.com/a/3216"
+      }
+    },
+    "AniMixPlay": {
+      "38787": {
+        "identifier": "38787",
+        "malId": 38787,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Senryuu Shoujo",
+        "url": "https://animixplay.to/anime/38787"
+      }
+    },
+    "YugenAnime": {
+      "2328": {
+        "identifier": "2328",
+        "malId": 38787,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Senryuu Shoujo",
+        "url": "https://yugen.to/anime/2328/senryuu-shoujo/"
+      }
+    }
+  }
+}

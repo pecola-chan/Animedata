@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T21:01:42.000Z",
+  "checkedAt": "2022-05-14T21:01:42.000Z",
+  "id": 32843,
+  "type": "anime",
+  "title": "Senki Zesshou Symphogear XV",
+  "altTitle": [
+    "Symphogear XV",
+    "戦姫絶唱シンフォギアXV"
+  ],
+  "url": "https://myanimelist.net/anime/32843/Senki_Zesshou_Symphogear_XV",
+  "image": "https://cdn.myanimelist.net/images/anime/1899/101966.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.symphogear-xv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11959"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22019"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Symphogear"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267101"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11959,
+  "Pages": {
+    "9anime": {
+      "m4x7": {
+        "createdAt": "2020-10-12T15:53:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6404,
+        "identifier": "m4x7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senki Zesshou Symphogear XV",
+        "url": "https://9anime.to/watch/senki-zesshou-symphogear-xv.m4x7",
+        "image": "https://static.akacdn.ru/files/images/2019/07/05d9f30e51e31df78ee918c25eb7b565.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32843,
+        "aniId": 21673,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "senki-zesshou-symphogear-xv": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20520,
+        "identifier": "senki-zesshou-symphogear-xv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senki Zesshou Symphogear XV",
+        "url": "https://gogoanime.vc/category/senki-zesshou-symphogear-xv",
+        "image": "https://cdnimg.xyz/cover/senki-zesshou-symphogear-xv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32843,
+        "aniId": 21673,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3355": {
+        "identifier": "3355",
+        "malId": 32843,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Senki Zesshou Symphogear XV",
+        "url": "https://animepahe.com/a/3355"
+      }
+    },
+    "AniMixPlay": {
+      "32843": {
+        "identifier": "32843",
+        "malId": 32843,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Senki Zesshou Symphogear XV",
+        "url": "https://animixplay.to/anime/32843"
+      }
+    },
+    "YugenAnime": {
+      "3381": {
+        "identifier": "3381",
+        "malId": 32843,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Senki Zesshou Symphogear XV",
+        "url": "https://yugen.to/anime/3381/senki-zesshou-symphogear-xv/"
+      }
+    }
+  }
+}

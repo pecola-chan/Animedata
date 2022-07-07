@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T17:55:05.000Z",
+  "checkedAt": "2022-05-14T17:55:05.000Z",
+  "id": 7647,
+  "type": "anime",
+  "title": "Arakawa Under the Bridge",
+  "altTitle": [
+    "Arakawa Under the Bridge",
+    "荒川アンダー ザ ブリッジ"
+  ],
+  "url": "https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge",
+  "image": "https://cdn.myanimelist.net/images/anime/1019/98620.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/arakawa_ub/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7238"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11188"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC_%E3%82%B6_%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-252755"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/arakawa-under-the-bridge"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7238,
+  "Pages": {
+    "9anime": {
+      "0m97": {
+        "createdAt": "2020-10-12T15:48:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 576,
+        "identifier": "0m97",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arakawa Under the Bridge",
+        "url": "https://9anime.to/watch/arakawa-under-the-bridge.0m97",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-v0nLjILdp9E/V7gvQBpzwjI/AAAAAAAA4es/i4Qf-9cXB90/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7647,
+        "aniId": 7647,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "arakawa-under-the-bridge": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16581,
+        "identifier": "arakawa-under-the-bridge",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Arakawa under the Bridge",
+        "url": "https://gogoanime.vc/category/arakawa-under-the-bridge",
+        "image": "https://images.gogoanime.tv/images/anime/Arakawa under the Bridge.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7647,
+        "aniId": 7647,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "701": {
+        "identifier": "701",
+        "malId": 7647,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Arakawa Under the Bridge",
+        "url": "https://animepahe.com/a/701"
+      }
+    },
+    "AniMixPlay": {
+      "7647": {
+        "identifier": "7647",
+        "malId": 7647,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Arakawa Under the Bridge",
+        "url": "https://animixplay.to/anime/7647"
+      }
+    },
+    "YugenAnime": {
+      "1062": {
+        "identifier": "1062",
+        "malId": 7647,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Arakawa Under the Bridge",
+        "url": "https://yugen.to/anime/1062/arakawa-under-the-bridge/"
+      }
+    }
+  }
+}

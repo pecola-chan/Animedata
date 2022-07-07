@@ -1,0 +1,142 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T17:53:05.000Z",
+  "checkedAt": "2022-05-14T17:53:05.000Z",
+  "id": 6802,
+  "type": "anime",
+  "title": "So Ra No Wo To",
+  "altTitle": [
+    "So-Ra-No-Wo-To",
+    "Soranowoto",
+    "Sora no Woto",
+    "Sound of the Sky",
+    "ソ・ラ・ノ・ヲ・ト"
+  ],
+  "url": "https://myanimelist.net/anime/6802/So_Ra_No_Wo_To",
+  "image": "https://cdn.myanimelist.net/images/anime/7/81654.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sorawoto.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6783"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11023"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/So_Ra_No_Wo_To"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-199622"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/sound-of-the-sky"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6783,
+  "Pages": {
+    "9anime": {
+      "7jxj": {
+        "createdAt": "2020-10-12T15:51:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3440,
+        "identifier": "7jxj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "So Ra No Wo To",
+        "url": "https://9anime.to/watch/so-ra-no-wo-to.7jxj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-S-J1_PlwcP8/V4-PWcD2LWI/AAAAAAAAwrM/9lJ8zp3FN5A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6802,
+        "aniId": 6802,
+        "deletedAt": null
+      },
+      "lj9z": {
+        "createdAt": "2020-10-12T15:53:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5997,
+        "identifier": "lj9z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sound & Fury (Dub)",
+        "url": "https://9anime.to/watch/sound-fury.lj9z",
+        "image": "https://static.akacdn.ru/files/images/2019/11/f76a4d085cdb4532858546e72a4201ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6802,
+        "aniId": 6802,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sora-no-woto": {
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20765,
+        "identifier": "sora-no-woto",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sora no Woto",
+        "url": "https://gogoanime.vc/category/sora-no-woto",
+        "image": "https://gogocdn.net/images/anime/S/sora-no-woto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 6802,
+        "aniId": 6802,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "116": {
+        "identifier": "116",
+        "malId": 6802,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "So Ra No Wo To",
+        "url": "https://animepahe.com/a/116"
+      }
+    },
+    "AniMixPlay": {
+      "6802": {
+        "identifier": "6802",
+        "malId": 6802,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "So Ra No Wo To",
+        "url": "https://animixplay.to/anime/6802"
+      }
+    },
+    "YugenAnime": {
+      "2999": {
+        "identifier": "2999",
+        "malId": 6802,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "So Ra No Wo To",
+        "url": "https://yugen.to/anime/2999/sora-no-woto/"
+      }
+    }
+  }
+}

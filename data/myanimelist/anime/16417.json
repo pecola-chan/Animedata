@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T16:00:46.000Z",
+  "checkedAt": "2022-05-14T16:00:46.000Z",
+  "id": 16417,
+  "type": "anime",
+  "title": "Tamako Market",
+  "altTitle": [
+    "Tamako Market",
+    "たまこまーけっと"
+  ],
+  "url": "https://myanimelist.net/anime/16417/Tamako_Market",
+  "image": "https://cdn.myanimelist.net/images/anime/6/79594.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tamakomarket.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9525"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14908"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tamako_Market"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/tamako-market"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9525,
+  "Pages": {
+    "9anime": {
+      "2qq5": {
+        "createdAt": "2020-10-12T15:49:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1506,
+        "identifier": "2qq5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tamako Market (Dub)",
+        "url": "https://9anime.to/watch/tamako-market-dub.2qq5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1h8uuDraAF8/WAObFhBP0BI/AAAAAAABIgQ/uKDBiXkPLxc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16417,
+        "aniId": 16417,
+        "deletedAt": null
+      },
+      "j58": {
+        "createdAt": "2020-10-12T15:52:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4710,
+        "identifier": "j58",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tamako Market",
+        "url": "https://9anime.to/watch/tamako-market.j58",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aBroLPhtqbc/V35tHmtLJII/AAAAAAAAt6M/UcK8y24foqg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16417,
+        "aniId": 16417,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tamako-market-": {
+        "createdAt": "2020-10-12T16:02:01.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20941,
+        "identifier": "tamako-market-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tamako Market ",
+        "url": "https://gogoanime.vc/category/tamako-market-",
+        "image": "https://images.gogoanime.tv/images/anime/TH/tamako_market.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16417,
+        "aniId": 16417,
+        "deletedAt": null
+      },
+      "tamako-market-dub": {
+        "createdAt": "2021-02-18T16:13:33.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34903,
+        "identifier": "tamako-market-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tamako Market (Dub)",
+        "url": "https://gogoanime.vc/category/tamako-market-dub",
+        "image": "https://gogocdn.net/cover/tamako-market-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16417,
+        "aniId": 16417,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "235": {
+        "identifier": "235",
+        "malId": 16417,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tamako Market",
+        "url": "https://animepahe.com/a/235"
+      }
+    },
+    "AniMixPlay": {
+      "16417": {
+        "identifier": "16417",
+        "malId": 16417,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tamako Market",
+        "url": "https://animixplay.to/anime/16417"
+      }
+    },
+    "YugenAnime": {
+      "3214": {
+        "identifier": "3214",
+        "malId": 16417,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tamako Market",
+        "url": "https://yugen.to/anime/3214/tamako-market/"
+      }
+    }
+  }
+}

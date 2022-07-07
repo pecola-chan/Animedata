@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T19:00:53.000Z",
+  "checkedAt": "2022-05-14T19:00:53.000Z",
+  "id": 1803,
+  "type": "anime",
+  "title": "Dirty Pair: Lovely Angels yori Ai wo Komete",
+  "altTitle": [
+    "Dirty Pair: With Love From the Lovely Angels",
+    "ダーティペア ラブリーエンジェルより愛をこめて"
+  ],
+  "url": "https://myanimelist.net/anime/1803/Dirty_Pair__Lovely_Angels_yori_Ai_wo_Komete",
+  "image": "https://cdn.myanimelist.net/images/anime/7/29694.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=177"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2498"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=593"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dirty_Pair"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2498,
+  "Pages": {
+    "9anime": {
+      "76jj": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3369,
+        "identifier": "76jj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair: With Love From the Lovely Angels",
+        "url": "https://9anime.to/watch/dirty-pair-with-love-from-the-lovely-angels.76jj",
+        "image": "https://static.akacdn.ru/files/images/2020/01/2ccec8646b0f395c71337fe71816d322.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1803,
+        "aniId": 1803,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1803": {
+        "identifier": "1803",
+        "malId": 1803,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dirty Pair: Lovely Angels yori Ai wo Komete",
+        "url": "https://animixplay.to/anime/1803"
+      }
+    }
+  }
+}

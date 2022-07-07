@@ -1,0 +1,107 @@
+{
+  "createdAt": "2021-04-12T08:51:13.000Z",
+  "updatedAt": "2022-05-14T23:47:59.000Z",
+  "checkedAt": "2022-05-14T23:47:59.000Z",
+  "id": 32956,
+  "type": "anime",
+  "title": "Aware! Meisaku-kun",
+  "altTitle": [
+    "Ahare! Meisaku-kun",
+    "Aware! Meisaku-kun",
+    "あはれ! 名作くん"
+  ],
+  "url": "https://myanimelist.net/anime/32956/Aware_Meisaku-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/1925/122974.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://meisakukun.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12006"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18226"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%AF%E3%82%8C!%E5%90%8D%E4%BD%9C%E3%81%8F%E3%82%93"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281490"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12006,
+  "Pages": {
+    "Gogoanime": {
+      "aware-meisaku-kun": {
+        "createdAt": "2021-04-14T16:47:10.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36477,
+        "identifier": "aware-meisaku-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aware! Meisaku-kun",
+        "url": "https://gogoanime.vc/category/aware-meisaku-kun",
+        "image": "https://gogocdn.net/cover/aware-meisaku-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32956,
+        "aniId": 21727,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "p30j": {
+        "createdAt": "2021-05-04T12:04:02.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36867,
+        "identifier": "p30j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aware! Meisaku-kun",
+        "url": "https://9anime.to/watch/aware-meisaku-kun.p30j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/dd/dd342a1e2613dcef23a1c28cc15580af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32956,
+        "aniId": 21727,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "32956": {
+        "identifier": "32956",
+        "malId": 32956,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aware! Meisaku-kun",
+        "url": "https://animixplay.to/anime/32956"
+      }
+    },
+    "YugenAnime": {
+      "7481": {
+        "identifier": "7481",
+        "malId": 32956,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aware! Meisaku-kun",
+        "url": "https://yugen.to/anime/7481/aware-meisaku-kun/"
+      }
+    }
+  }
+}

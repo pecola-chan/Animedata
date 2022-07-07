@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T17:08:16.000Z",
+  "checkedAt": "2022-05-14T17:08:16.000Z",
+  "id": 101,
+  "type": "anime",
+  "title": "Air",
+  "altTitle": [
+    "Air",
+    "AIR"
+  ],
+  "url": "https://myanimelist.net/anime/101/Air",
+  "image": "https://cdn.myanimelist.net/images/anime/8/22059.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/air/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2002"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2480"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Air_%28visual_novel%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2002,
+  "Pages": {
+    "9anime": {
+      "1o9x": {
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1056,
+        "identifier": "1o9x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AIR",
+        "url": "https://9anime.to/watch/air.1o9x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-w2b-TmshKSc/V-FD62ZasbI/AAAAAAAA_E4/MrhqmujgaKI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 101,
+        "aniId": 101,
+        "deletedAt": null
+      },
+      "mq3v": {
+        "createdAt": "2020-10-12T15:53:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6709,
+        "identifier": "mq3v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AIR (Dub)",
+        "url": "https://9anime.to/watch/air-dub.mq3v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-baMAthyu-6M/V6B0iIq6NtI/AAAAAAAAzy8/Uxc8Y8d5ef4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 101,
+        "aniId": 101,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "air-dub": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16426,
+        "identifier": "air-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Air (Dub)",
+        "url": "https://gogoanime.vc/category/air-dub",
+        "image": "https://cdnimg.xyz/cover/air-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 101,
+        "aniId": 101,
+        "deletedAt": null
+      },
+      "air-tv": {
+        "createdAt": "2020-10-12T15:59:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16433,
+        "identifier": "air-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Air TV",
+        "url": "https://gogoanime.vc/category/air-tv",
+        "image": "https://gogocdn.net/images/anime/A/air-tv.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 101,
+        "aniId": 101,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1334": {
+        "identifier": "1334",
+        "malId": 101,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Air",
+        "url": "https://animepahe.com/a/1334"
+      }
+    },
+    "AniMixPlay": {
+      "101": {
+        "identifier": "101",
+        "malId": 101,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Air",
+        "url": "https://animixplay.to/anime/101"
+      }
+    },
+    "YugenAnime": {
+      "237": {
+        "identifier": "237",
+        "malId": 101,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Air",
+        "url": "https://yugen.to/anime/237/air/"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "createdAt": "2021-06-14T21:58:25.000Z",
+  "updatedAt": "2022-05-14T21:11:41.000Z",
+  "checkedAt": "2022-05-14T21:11:41.000Z",
+  "id": 41918,
+  "type": "anime",
+  "title": "Juan Siliang",
+  "altTitle": [
+    "The Island of Siliang",
+    "眷思量"
+  ],
+  "url": "https://myanimelist.net/anime/41918/Juan_Siliang",
+  "image": "https://cdn.myanimelist.net/images/anime/1745/116295.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wlf-studio.com/juansiliang/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%9C%B7%E6%80%9D%E9%87%8F/23318422"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "n3n3k": {
+        "createdAt": "2021-06-14T21:58:04.000Z",
+        "updatedAt": "2021-06-14T22:27:33.000Z",
+        "checkedAt": null,
+        "id": 37389,
+        "identifier": "n3n3k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Juan Siliang",
+        "url": "https://9anime.to/watch/juan-siliang.n3n3k",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0f/0f7082e7b2288dd9e01ea1832ec17e6c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41918,
+        "aniId": 117573,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "juan-siliang": {
+        "createdAt": "2021-06-14T22:57:34.000Z",
+        "updatedAt": "2021-06-14T23:27:33.000Z",
+        "checkedAt": null,
+        "id": 37390,
+        "identifier": "juan-siliang",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Juan Siliang",
+        "url": "https://gogoanime.vc/category/juan-siliang",
+        "image": "https://gogocdn.net/cover/juan-siliang.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41918,
+        "aniId": 117573,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41918": {
+        "identifier": "41918",
+        "malId": 41918,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Juan Siliang",
+        "url": "https://animixplay.to/anime/41918"
+      }
+    },
+    "YugenAnime": {
+      "7783": {
+        "identifier": "7783",
+        "malId": 41918,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Juan Siliang",
+        "url": "https://yugen.to/anime/7783/juan-siliang/"
+      }
+    }
+  }
+}

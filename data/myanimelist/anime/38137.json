@@ -1,0 +1,53 @@
+{
+  "createdAt": "2021-03-25T04:49:25.000Z",
+  "updatedAt": "2022-04-04T00:31:56.000Z",
+  "checkedAt": null,
+  "id": 38137,
+  "type": "anime",
+  "title": "Zhu Zhu Xia: Zhong Ji Jue Zhan",
+  "altTitle": [
+    "GG Bond Movie 3",
+    "GG Bond: Ultimate Battle",
+    "猪猪侠 终极决战"
+  ],
+  "url": "https://myanimelist.net/anime/38137/Zhu_Zhu_Xia__Zhong_Ji_Jue_Zhan",
+  "image": "https://cdn.myanimelist.net/images/anime/1304/93364.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13464"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GG_Bond_Movie:_Ultimate_Battle"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13464,
+  "Pages": {
+    "9anime": {
+      "3wr6": {
+        "createdAt": "2021-03-28T16:20:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36012,
+        "identifier": "3wr6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zhu Zhu Xia: Zhong Ji Jue Zhan",
+        "url": "https://9anime.to/watch/gg-bond-ultimate-battle.3wr6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0f/0fb9ff15a14024b57e2d2e8b484b59dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38137,
+        "aniId": 103961,
+        "deletedAt": null
+      }
+    }
+  }
+}

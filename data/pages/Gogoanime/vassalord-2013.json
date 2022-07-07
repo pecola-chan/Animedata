@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:02:13.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21361,
+  "identifier": "vassalord-2013",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Vassalord (2013)",
+  "url": "https://gogoanime.vc/category/vassalord-2013",
+  "image": "https://cdnimg.xyz/images/12.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 15933,
+  "aniId": 15933,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:16.000Z",
+    "updatedAt": "2022-05-14T19:44:05.000Z",
+    "checkedAt": "2022-05-14T19:44:05.000Z",
+    "id": 15933,
+    "type": "anime",
+    "title": "Vassalord.",
+    "altTitle": [
+      "Vassalord. (ヴァッサロード)"
+    ],
+    "url": "https://myanimelist.net/anime/15933/Vassalord",
+    "image": "https://cdn.myanimelist.net/images/anime/3/43213.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.animate-onlineshop.jp/special/vassalord/pc/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9476"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14851"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Vassalord."
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9476
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:23.000Z",
+    "updatedAt": "2022-05-15T14:41:24.000Z",
+    "checkedAt": "2022-05-15T14:41:24.000Z",
+    "id": 15933,
+    "type": "anime",
+    "title": "Vassalord.",
+    "altTitle": [
+      "Vassalord. (ヴァッサロード)"
+    ],
+    "url": "https://anilist.co/anime/15933",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15933.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 15933,
+    "deletedAt": null
+  }
+}

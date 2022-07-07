@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T16:46:02.000Z",
+  "checkedAt": "2022-05-14T16:46:02.000Z",
+  "id": 6045,
+  "type": "anime",
+  "title": "Kimi ni Todoke",
+  "altTitle": [
+    "Reaching You",
+    "Kimi ni Todoke: From Me to You",
+    "君に届け"
+  ],
+  "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke",
+  "image": "https://cdn.myanimelist.net/images/anime/7/17890.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/kiminitodoke/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6466"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10625"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kimi_ni_Todoke"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-249366"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/kimi-ni-todoke-from-me-to-you-"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6466,
+  "Pages": {
+    "9anime": {
+      "ll0m": {
+        "createdAt": "2020-10-12T15:53:05.000Z",
+        "updatedAt": "2022-06-13T21:02:09.000Z",
+        "checkedAt": "2022-06-13T21:02:09.000Z",
+        "id": 6044,
+        "identifier": "ll0m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimi ni Todoke",
+        "url": "https://9anime.to/watch/kimi-ni-todoke-from-me-to-you.ll0m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d471e0fea6c03adef36e0dba14ffa38e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6045,
+        "aniId": 6045,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kimi-ni-todoke": {
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18827,
+        "identifier": "kimi-ni-todoke",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimi ni Todoke",
+        "url": "https://gogoanime.vc/category/kimi-ni-todoke",
+        "image": "https://cdnimg.xyz/images/anime/K/Kimi-ni-Todoke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6045,
+        "aniId": 6045,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "165": {
+        "identifier": "165",
+        "malId": 6045,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kimi ni Todoke",
+        "url": "https://animepahe.com/a/165"
+      }
+    },
+    "AniMixPlay": {
+      "6045": {
+        "identifier": "6045",
+        "malId": 6045,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimi ni Todoke",
+        "url": "https://animixplay.to/anime/6045"
+      }
+    },
+    "YugenAnime": {
+      "2919": {
+        "identifier": "2919",
+        "malId": 6045,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kimi ni Todoke",
+        "url": "https://yugen.to/anime/2919/kimi-ni-todoke/"
+      }
+    }
+  }
+}

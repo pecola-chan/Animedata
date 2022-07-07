@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-13T23:52:50.000Z",
+  "checkedAt": "2022-05-13T23:52:50.000Z",
+  "id": 32171,
+  "type": "anime",
+  "title": "Ange Vierge",
+  "altTitle": [
+    "アンジュ・ヴィエルジュ"
+  ],
+  "url": "https://myanimelist.net/anime/32171/Ange_Vierge",
+  "image": "https://cdn.myanimelist.net/images/anime/11/80684.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ange-vierge-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10962"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18170"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ange_Vierge"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270681"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10962,
+  "Pages": {
+    "9anime": {
+      "2o60": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1453,
+        "identifier": "2o60",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ange Vierge",
+        "url": "https://9anime.to/watch/ange-vierge.2o60",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Frcb7Mz4Th0/WGUMQg-Kp6I/AAAAAAABVfE/ubr0clL3Pbc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32171,
+        "aniId": 21439,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ange-vierge": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16519,
+        "identifier": "ange-vierge",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ange Vierge",
+        "url": "https://gogoanime.vc/category/ange-vierge",
+        "image": "https://cdnimg.xyz/cover/ange-vierge.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32171,
+        "aniId": 21439,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1121": {
+        "identifier": "1121",
+        "malId": 32171,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ange Vierge",
+        "url": "https://animepahe.com/a/1121"
+      }
+    },
+    "AniMixPlay": {
+      "32171": {
+        "identifier": "32171",
+        "malId": 32171,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ange Vierge",
+        "url": "https://animixplay.to/anime/32171"
+      }
+    },
+    "YugenAnime": {
+      "1729": {
+        "identifier": "1729",
+        "malId": 32171,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ange Vierge",
+        "url": "https://yugen.to/anime/1729/ange-vierge/"
+      }
+    }
+  }
+}

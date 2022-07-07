@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T22:36:59.000Z",
+  "checkedAt": "2022-05-14T22:36:59.000Z",
+  "id": 6885,
+  "type": "anime",
+  "title": "Sora no Manimani Specials",
+  "altTitle": [
+    "Chuu no Manimani Specials",
+    "At The Mercy of The Sky Specials",
+    "宙のまにまに"
+  ],
+  "url": "https://myanimelist.net/anime/6885/Sora_no_Manimani_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/13/22483.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/soramani/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6398"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sora_no_Manimani"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6398,
+  "Pages": {
+    "9anime": {
+      "nkrn": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7096,
+        "identifier": "nkrn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sora no Manimani Specials",
+        "url": "https://9anime.to/watch/sora-no-manimani-specials.nkrn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JCi7I73cwkw/V7XlFFFqjkI/AAAAAAAA3-c/0TfmFEUruqg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6885,
+        "aniId": 6885,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6885": {
+        "identifier": "6885",
+        "malId": 6885,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sora no Manimani Specials",
+        "url": "https://animixplay.to/anime/6885"
+      }
+    }
+  }
+}

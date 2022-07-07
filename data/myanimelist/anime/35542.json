@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-15T18:10:57.000Z",
+  "checkedAt": "2022-05-15T18:10:57.000Z",
+  "id": 35542,
+  "type": "anime",
+  "title": "Turning Mecard W",
+  "altTitle": [
+    "Turning Mecard Wing",
+    "터닝메카드 Wing",
+    "Turning Mecard W",
+    "터닝메카드 W"
+  ],
+  "url": "https://myanimelist.net/anime/35542/Turning_Mecard_W",
+  "image": "https://cdn.myanimelist.net/images/anime/8/85660.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbs.co.kr/2tv/enter/mecardw/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13821"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_W"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13821,
+  "Pages": {
+    "9anime": {
+      "ll333": {
+        "createdAt": "2022-04-03T05:34:52.000Z",
+        "updatedAt": "2022-04-03T06:00:21.000Z",
+        "checkedAt": null,
+        "id": 40615,
+        "identifier": "ll333",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Turning Mecard W",
+        "url": "https://9anime.to/watch/turning-mecard-w.ll333",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f0/f0f52a3577ee559c4b628091565534c0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35542,
+        "aniId": 109871,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "35542": {
+        "identifier": "35542",
+        "malId": 35542,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Turning Mecard W",
+        "url": "https://animixplay.to/anime/35542"
+      }
+    },
+    "YugenAnime": {
+      "11657": {
+        "identifier": "11657",
+        "malId": 35542,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Turning Mecard W",
+        "url": "https://yugen.to/anime/11657/turning-mecard-w/"
+      }
+    }
+  }
+}

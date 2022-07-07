@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T18:21:41.000Z",
+  "checkedAt": "2022-05-14T18:21:41.000Z",
+  "id": 194,
+  "type": "anime",
+  "title": "Macross Zero",
+  "altTitle": [
+    "Macross Zero",
+    "マクロス ゼロ"
+  ],
+  "url": "https://myanimelist.net/anime/194/Macross_Zero",
+  "image": "https://cdn.myanimelist.net/images/anime/12/76289.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.macross.co.jp/zero/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=939"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Macross_Zero"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 427,
+  "Pages": {
+    "9anime": {
+      "0qp3": {
+        "createdAt": "2020-10-12T15:48:51.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 630,
+        "identifier": "0qp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross Zero",
+        "url": "https://9anime.to/watch/macross-zero.0qp3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9QLx5ZOeoDA/V6mx7X0KtrI/AAAAAAAA1rw/TlfXs8GKUOI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 194,
+        "aniId": 194,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "macross-zero": {
+        "createdAt": "2020-10-12T16:01:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19215,
+        "identifier": "macross-zero",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Zero",
+        "url": "https://gogoanime.vc/category/macross-zero",
+        "image": "https://cdnimg.xyz/images/anime/M/macross-zero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 194,
+        "aniId": 194,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "194": {
+        "identifier": "194",
+        "malId": 194,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Macross Zero",
+        "url": "https://animixplay.to/anime/194"
+      }
+    },
+    "YugenAnime": {
+      "76": {
+        "identifier": "76",
+        "malId": 194,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Macross Zero",
+        "url": "https://yugen.to/anime/76/macross-zero/"
+      }
+    }
+  }
+}

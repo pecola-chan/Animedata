@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-15T00:33:29.000Z",
+  "checkedAt": "2022-05-15T00:33:29.000Z",
+  "id": 8057,
+  "type": "anime",
+  "title": "Shin Koihime†Musou: Otome Tairan",
+  "altTitle": [
+    "Shin Koihime Musou 2nd Season",
+    "真恋姫†無双 ~乙女大乱~"
+  ],
+  "url": "https://myanimelist.net/anime/8057/Shin_Koihime†Musou__Otome_Tairan",
+  "image": "https://cdn.myanimelist.net/images/anime/12/74034.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/shinkoihime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7277"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11215"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Koihime_Musō"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-206451"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/shin-koihime-muso-otome-tairan"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7277,
+  "Pages": {
+    "9anime": {
+      "r1m": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8711,
+        "identifier": "r1m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Koihime†Musou: Otome Tairan",
+        "url": "https://9anime.to/watch/shin-koihimemusou-otome-tairan.r1m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EbkAQFkZETY/V4Iw5DaQiXI/AAAAAAAAuaM/KD__fqC3VEc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8057,
+        "aniId": 8057,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shin-koihime-musou-otome-tairan": {
+        "createdAt": "2020-10-12T16:01:51.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20600,
+        "identifier": "shin-koihime-musou-otome-tairan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shin Koihime Musou: Otome Tairan",
+        "url": "https://gogoanime.vc/category/shin-koihime-musou-otome-tairan",
+        "image": "https://gogocdn.net/images/anime/S/shin-koihime-musou-otome-tairan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8057,
+        "aniId": 8057,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "90": {
+        "identifier": "90",
+        "malId": 8057,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shin Koihime†Musou: Otome Tairan",
+        "url": "https://animepahe.com/a/90"
+      }
+    },
+    "AniMixPlay": {
+      "8057": {
+        "identifier": "8057",
+        "malId": 8057,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shin Koihime†Musou: Otome Tairan",
+        "url": "https://animixplay.to/anime/8057"
+      }
+    },
+    "YugenAnime": {
+      "6019": {
+        "identifier": "6019",
+        "malId": 8057,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shin Koihime†Musou: Otome Tairan",
+        "url": "https://yugen.to/anime/6019/shin-koihime-musou-otome-tairan/"
+      }
+    }
+  }
+}

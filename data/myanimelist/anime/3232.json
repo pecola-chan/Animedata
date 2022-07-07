@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T22:43:41.000Z",
+  "checkedAt": "2022-05-14T22:43:41.000Z",
+  "id": 3232,
+  "type": "anime",
+  "title": "Bannou Bunka Neko-Musume Specials",
+  "altTitle": [
+    "Nuku Nuku Special",
+    "Nuku Nuku hourou!? Akemashite Suteraremashita",
+    "Nuku Nuku Abandoned? Happy New Year, I've Been Thrown Out",
+    "Nuku Nuku Special, Koisuru Nuku Nuku! Valentine wa dare n tame n",
+    "Nuku Nuku Falls in Love! Who's the Valentine for?",
+    "万能文化猫娘"
+  ],
+  "url": "https://myanimelist.net/anime/3232/Bannou_Bunka_Neko-Musume_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/5124.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=526"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nuku_Nuku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 526,
+  "Pages": {
+    "9anime": {
+      "vljv": {
+        "createdAt": "2020-10-12T15:55:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9366,
+        "identifier": "vljv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bannou Bunka Neko-Musume Specials",
+        "url": "https://9anime.to/watch/bannou-bunka-neko-musume-specials.vljv",
+        "image": "https://static.akacdn.ru/files/images/2018/03/d37cf89487005b708141c2b8fd027a2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3232,
+        "aniId": 3232,
+        "deletedAt": null
+      },
+      "wmko": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9813,
+        "identifier": "wmko",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bannou Bunka Neko-Musume Specials (Dub)",
+        "url": "https://9anime.to/watch/bannou-bunka-neko-musume-specials-dub.wmko",
+        "image": "https://static.akacdn.ru/files/images/2018/03/ea2014c28c63c5f4bb78ac6418f53a76.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3232,
+        "aniId": 3232,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3232": {
+        "identifier": "3232",
+        "malId": 3232,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bannou Bunka Neko-Musume Specials",
+        "url": "https://animixplay.to/anime/3232"
+      }
+    },
+    "YugenAnime": {
+      "9510": {
+        "identifier": "9510",
+        "malId": 3232,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bannou Bunka Neko-Musume Specials",
+        "url": "https://yugen.to/anime/9510/bannou-bunka-neko-musume-specials/"
+      }
+    }
+  }
+}

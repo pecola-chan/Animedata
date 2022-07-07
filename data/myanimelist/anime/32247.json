@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-06-29T09:59:54.000Z",
+  "updatedAt": "2022-05-15T01:06:17.000Z",
+  "checkedAt": "2022-05-15T01:06:17.000Z",
+  "id": 32247,
+  "type": "anime",
+  "title": "Tekkon Kinkreet Pilot",
+  "altTitle": [
+    "Tekkon Kinkurito Pilot",
+    "Treasure Town",
+    "鉄コン筋クリート"
+  ],
+  "url": "https://myanimelist.net/anime/32247/Tekkon_Kinkreet_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/10/77423.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tekkon.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2778"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6531"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tekkonkinkreet"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2778,
+  "Pages": {
+    "9anime": {
+      "kwo29": {
+        "createdAt": "2021-06-29T09:59:49.000Z",
+        "updatedAt": "2021-09-04T20:15:45.000Z",
+        "checkedAt": null,
+        "id": 37572,
+        "identifier": "kwo29",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tekkon Kinkreet Pilot",
+        "url": "https://9anime.to/watch/tekkon-kinkreet-pilot.kwo29",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/69/696f0e47478270ab8278204c1192a1df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32247,
+        "aniId": 99717,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "32247": {
+        "identifier": "32247",
+        "malId": 32247,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tekkon Kinkreet Pilot",
+        "url": "https://animixplay.to/anime/32247"
+      }
+    }
+  }
+}

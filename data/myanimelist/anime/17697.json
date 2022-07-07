@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:19.000Z",
+  "updatedAt": "2022-05-15T09:50:56.000Z",
+  "checkedAt": "2022-05-15T09:50:56.000Z",
+  "id": 17697,
+  "type": "anime",
+  "title": "Neon The Animation",
+  "altTitle": [
+    "Neon The Animation"
+  ],
+  "url": "https://myanimelist.net/anime/17697/Neon_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/8/47203.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.osaka-anime.jp/square/works/neon.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9744"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9744,
+  "Pages": {
+    "9anime": {
+      "0jz7": {
+        "createdAt": "2020-10-12T15:48:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 526,
+        "identifier": "0jz7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neon The Animation",
+        "url": "https://9anime.to/watch/neon-the-animation.0jz7",
+        "image": "https://static.akacdn.ru/files/images/2019/12/01acfa01dba1e6ec4ffe3356117ccd21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17697,
+        "aniId": 17697,
+        "deletedAt": null
+      }
+    }
+  }
+}

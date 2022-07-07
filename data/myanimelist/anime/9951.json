@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-29T15:02:51.000Z",
+  "checkedAt": "2022-05-29T15:02:51.000Z",
+  "id": 9951,
+  "type": "anime",
+  "title": "Jiu Se Lu",
+  "altTitle": [
+    "The Nine Colored Deer",
+    "A Deer of Nine Colors",
+    "九色鹿"
+  ],
+  "url": "https://myanimelist.net/anime/9951/Jiu_Se_Lu",
+  "image": "https://cdn.myanimelist.net/images/anime/1440/112808.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8120"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/A_Deer_of_Nine_Colors"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8120,
+  "Pages": {
+    "9anime": {
+      "048k": {
+        "createdAt": "2020-10-12T15:48:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 437,
+        "identifier": "048k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jiu Se Lu",
+        "url": "https://9anime.to/watch/jiu-se-lu.048k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GPEIr93n3YA/WMJJbnlbrWI/AAAAAAABfIw/aga7JLpSiA8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9951,
+        "aniId": 9951,
+        "deletedAt": null
+      }
+    }
+  }
+}

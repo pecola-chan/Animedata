@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T20:02:11.000Z",
+  "checkedAt": "2022-05-14T20:02:11.000Z",
+  "id": 36524,
+  "type": "anime",
+  "title": "Dies Irae: Reimei",
+  "altTitle": [
+    "Day of Wrath",
+    "Dies Irae 00",
+    "Dies Irae Episode 0",
+    "Dies irae: The Dawning Days",
+    "Dies irae (0) 黎明"
+  ],
+  "url": "https://myanimelist.net/anime/36524/Dies_Irae__Reimei",
+  "image": "https://cdn.myanimelist.net/images/anime/9/88229.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://diesirae-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19395"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11204,
+  "Pages": {
+    "9anime": {
+      "2yvq": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 1598,
+        "identifier": "2yvq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dies Irae Episode 0",
+        "url": "https://9anime.to/watch/dies-irae-episode-0.2yvq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CGkVXhiGyjk/WdzgbgLjpKI/AAAAAAAACWc/j6wloOIkywENIsxYGgctj-onSPirPBBAwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36524,
+        "aniId": null,
+        "deletedAt": null
+      },
+      "qj3n": {
+        "createdAt": "2020-10-12T15:55:06.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 8394,
+        "identifier": "qj3n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dies irae: The Dawning Days (Dub)",
+        "url": "https://9anime.to/watch/dies-irae-the-dawning-days-dub.qj3n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hSPhgiPzulM/We_JbarojNI/AAAAAAAADL0/sHlXU7lzfb4kUgpRuB7v2kBhfkxaq8_FwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36524,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2289": {
+        "identifier": "2289",
+        "malId": 36524,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dies Irae: Reimei",
+        "url": "https://animepahe.com/a/2289"
+      }
+    },
+    "AniMixPlay": {
+      "36524": {
+        "identifier": "36524",
+        "malId": 36524,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dies Irae: Reimei",
+        "url": "https://animixplay.to/anime/36524"
+      }
+    }
+  }
+}

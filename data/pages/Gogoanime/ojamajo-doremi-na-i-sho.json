@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T17:46:16.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23634,
+  "identifier": "ojamajo-doremi-na-i-sho",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ojamajo Doremi Na-i-sho",
+  "url": "https://gogoanime.vc/category/ojamajo-doremi-na-i-sho",
+  "image": "https://gogocdn.net/cover/ojamajo-doremi-na-i-sho.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1376,
+  "aniId": 1376,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:16.000Z",
+    "updatedAt": "2022-05-15T04:59:09.000Z",
+    "checkedAt": "2022-05-15T04:59:09.000Z",
+    "id": 1376,
+    "type": "anime",
+    "title": "Ojamajo Doremi Na-i-sho",
+    "altTitle": [
+      "おジャ魔女どれみ ナ・イ・ショ"
+    ],
+    "url": "https://myanimelist.net/anime/1376/Ojamajo_Doremi_Na-i-sho",
+    "image": "https://cdn.myanimelist.net/images/anime/1986/99238.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/doremi_n/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1768"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3797"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1768
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:06.000Z",
+    "updatedAt": "2022-05-15T13:38:47.000Z",
+    "checkedAt": "2022-05-15T13:38:47.000Z",
+    "id": 1376,
+    "type": "anime",
+    "title": "Ojamajo Doremi Na-i-sho",
+    "altTitle": [
+      "おジャ魔女どれみ ナ・イ・ショ"
+    ],
+    "url": "https://anilist.co/anime/1376",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1376-LH3Sw7ZAJMjs.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1376,
+    "deletedAt": null
+  }
+}

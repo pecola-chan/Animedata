@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T17:20:30.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23587,
+  "identifier": "ace-wo-nerae-final-stage",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ace wo Nerae!: Final Stage",
+  "url": "https://gogoanime.vc/category/ace-wo-nerae-final-stage",
+  "image": "https://gogocdn.net/cover/ace-wo-nerae-final-stage.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 312,
+  "aniId": 312,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-15T10:18:49.000Z",
+    "checkedAt": "2022-05-15T10:18:49.000Z",
+    "id": 312,
+    "type": "anime",
+    "title": "Ace wo Nerae! Final Stage",
+    "altTitle": [
+      "Ace O Nerae! OVA 2",
+      "Aim for the Ace: Final Stage",
+      "「エースをねらえ！」 —ファイナル・ステージ—"
+    ],
+    "url": "https://myanimelist.net/anime/312/Ace_wo_Nerae_Final_Stage",
+    "image": "https://cdn.myanimelist.net/images/anime/6/71784.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/tokushu/a2_3/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1389"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2061"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Aim_for_the_Ace!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1389
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:37.000Z",
+    "updatedAt": "2022-05-15T14:59:59.000Z",
+    "checkedAt": "2022-05-15T14:59:59.000Z",
+    "id": 312,
+    "type": "anime",
+    "title": "Ace wo Nerae: Final Stage",
+    "altTitle": [
+      "「エースをねらえ！」 —ファイナル・ステージ—",
+      "Ace O Nerae! OVA 2",
+      "Aim for the Ace: Final Stage"
+    ],
+    "url": "https://anilist.co/anime/312",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx312-dMZG3uDq8wWl.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 312,
+    "deletedAt": null
+  }
+}

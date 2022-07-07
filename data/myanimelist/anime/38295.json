@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T09:59:19.000Z",
+  "checkedAt": "2022-05-14T09:59:19.000Z",
+  "id": 38295,
+  "type": "anime",
+  "title": "Joshikausei",
+  "altTitle": [
+    "Jyoshi Kausei",
+    "Joshi Kausei",
+    "女子かう生"
+  ],
+  "url": "https://myanimelist.net/anime/38295/Joshikausei",
+  "image": "https://cdn.myanimelist.net/images/anime/1660/98376.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://joshikau-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14390"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21807"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Joshi_Kausei"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277789"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14390,
+  "Pages": {
+    "9anime": {
+      "6q29": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3144,
+        "identifier": "6q29",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Joshi Kausei",
+        "url": "https://9anime.to/watch/joshi-kausei.6q29",
+        "image": "https://static.akacdn.ru/files/images/2019/04/0c3b850ebaac263965ea22d1d84a4b71.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38295,
+        "aniId": 104147,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "joshikausei": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18599,
+        "identifier": "joshikausei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Joshikausei",
+        "url": "https://gogoanime.vc/category/joshikausei",
+        "image": "https://cdnimg.xyz/cover/joshikausei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38295,
+        "aniId": 104147,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3223": {
+        "identifier": "3223",
+        "malId": 38295,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Joshikausei",
+        "url": "https://animepahe.com/a/3223"
+      }
+    },
+    "AniMixPlay": {
+      "38295": {
+        "identifier": "38295",
+        "malId": 38295,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Joshikausei",
+        "url": "https://animixplay.to/anime/38295"
+      }
+    },
+    "YugenAnime": {
+      "1342": {
+        "identifier": "1342",
+        "malId": 38295,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Joshikausei",
+        "url": "https://yugen.to/anime/1342/joshikausei/"
+      }
+    }
+  }
+}

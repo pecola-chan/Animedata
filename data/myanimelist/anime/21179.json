@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-15T06:00:24.000Z",
+  "checkedAt": "2022-05-15T06:00:24.000Z",
+  "id": 21179,
+  "type": "anime",
+  "title": "Dragon Fist",
+  "altTitle": [
+    "ドラゴンフィスト"
+  ],
+  "url": "https://myanimelist.net/anime/21179/Dragon_Fist",
+  "image": "https://cdn.myanimelist.net/images/anime/9/55907.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7327"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3357"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7327,
+  "Pages": {
+    "9anime": {
+      "p7jx": {
+        "createdAt": "2020-10-12T15:54:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7904,
+        "identifier": "p7jx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Fist",
+        "url": "https://9anime.to/watch/dragon-fist.p7jx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KYU7jQjvbgs/WcAcfVZKEXI/AAAAAAAAAog/AlM5vZbMRlACMvv0zkBXuy0Up_wnCuQAgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21179,
+        "aniId": 100110,
+        "deletedAt": null
+      }
+    }
+  }
+}

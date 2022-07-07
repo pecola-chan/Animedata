@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T15:59:48.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16453,
+  "identifier": "akai-kiba-blue-sonnet",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Akai Kiba: Blue Sonnet",
+  "url": "https://gogoanime.vc/category/akai-kiba-blue-sonnet",
+  "image": "https://cdnimg.xyz/cover/akai-kiba-blue-sonnet.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2051,
+  "aniId": 2051,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-15T14:06:03.000Z",
+    "checkedAt": "2022-05-15T14:06:03.000Z",
+    "id": 2051,
+    "type": "anime",
+    "title": "Akai Kiba: Blue Sonnet",
+    "altTitle": [
+      "Akai Kiba",
+      "Red Fang Blue Sonnet",
+      "Blue Sonnet",
+      "紅い牙 ブルー・ソネット"
+    ],
+    "url": "https://myanimelist.net/anime/2051/Akai_Kiba__Blue_Sonnet",
+    "image": "https://cdn.myanimelist.net/images/anime/7/41071.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2887"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=528"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Blue_Sonnet"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2887
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:08.000Z",
+    "updatedAt": "2022-05-15T18:03:11.000Z",
+    "checkedAt": "2022-05-15T18:03:11.000Z",
+    "id": 2051,
+    "type": "anime",
+    "title": "Akai Kiba: Blue Sonnet",
+    "altTitle": [
+      "Blue Sonnet",
+      "紅い牙 ブルーソネット",
+      "Red Fang Blue Sonnet"
+    ],
+    "url": "https://anilist.co/anime/2051",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2051.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2051,
+    "deletedAt": null
+  }
+}

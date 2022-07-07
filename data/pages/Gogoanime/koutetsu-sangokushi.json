@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-03-27T12:19:17.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35989,
+  "identifier": "koutetsu-sangokushi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Koutetsu Sangokushi",
+  "url": "https://gogoanime.vc/category/koutetsu-sangokushi",
+  "image": "https://gogocdn.net/cover/koutetsu-sangokushi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2162,
+  "aniId": 2162,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:26.000Z",
+    "updatedAt": "2022-05-14T21:27:54.000Z",
+    "checkedAt": "2022-05-14T21:27:54.000Z",
+    "id": 2162,
+    "type": "anime",
+    "title": "Koutetsu Sangokushi",
+    "altTitle": [
+      "鋼鉄三国志"
+    ],
+    "url": "https://myanimelist.net/anime/2162/Koutetsu_Sangokushi",
+    "image": "https://cdn.myanimelist.net/images/anime/3/75661.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.koutetsu-sangokushi.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4968"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7513"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kōtetsu_Sangokushi"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4968
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:12.000Z",
+    "updatedAt": "2022-05-15T12:13:11.000Z",
+    "checkedAt": "2022-05-15T12:13:11.000Z",
+    "id": 2162,
+    "type": "anime",
+    "title": "Koutetsu Sangokushi",
+    "altTitle": [
+      "鋼鉄三国志"
+    ],
+    "url": "https://anilist.co/anime/2162",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2162.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2162,
+    "deletedAt": null
+  }
+}

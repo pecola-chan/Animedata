@@ -1,0 +1,129 @@
+{
+  "createdAt": "2022-03-28T19:54:20.000Z",
+  "updatedAt": "2022-05-14T09:01:54.000Z",
+  "checkedAt": "2022-05-14T09:01:54.000Z",
+  "id": 50380,
+  "type": "anime",
+  "title": "Paripi Koumei",
+  "altTitle": [
+    "Party People Koumei",
+    "Ya Boy Kongming!",
+    "パリピ孔明"
+  ],
+  "url": "https://myanimelist.net/anime/50380/Paripi_Koumei",
+  "image": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://paripikoumei-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16970"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24971"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ya_Boy_Kongming!#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/"
+    },
+    {
+      "site": "animaxkorea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "bilibiliglobal",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "laftel",
+      "url": "https://laftel.net/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 16970,
+  "Pages": {
+    "Gogoanime": {
+      "paripi-koumei": {
+        "createdAt": "2022-03-31T14:30:21.000Z",
+        "updatedAt": "2022-05-16T15:14:27.000Z",
+        "checkedAt": "2022-05-16T15:14:19.000Z",
+        "id": 40567,
+        "identifier": "paripi-koumei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Paripi Koumei",
+        "url": "https://gogoanime.sk/category/paripi-koumei",
+        "image": "https://gogocdn.net/cover/paripi-koumei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50380,
+        "aniId": 141774,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "zll8p": {
+        "createdAt": "2022-03-31T14:31:23.000Z",
+        "updatedAt": "2022-05-16T15:14:12.000Z",
+        "checkedAt": "2022-05-16T15:14:05.000Z",
+        "id": 40569,
+        "identifier": "zll8p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Paripi Koumei",
+        "url": "https://9anime.to/watch/ya-boy-kongming.zll8p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/90/90d407085edf11cc4fea33d9f72296c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50380,
+        "aniId": 141774,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4749": {
+        "identifier": "4749",
+        "malId": 50380,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Paripi Koumei",
+        "url": "https://animepahe.com/a/4749"
+      }
+    },
+    "AniMixPlay": {
+      "50380": {
+        "identifier": "50380",
+        "malId": 50380,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Paripi Koumei",
+        "url": "https://animixplay.to/anime/50380"
+      }
+    },
+    "YugenAnime": {
+      "11837": {
+        "identifier": "11837",
+        "malId": 50380,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Paripi Koumei",
+        "url": "https://yugen.to/anime/11837/paripi-koumei/"
+      }
+    }
+  }
+}

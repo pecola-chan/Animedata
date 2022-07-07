@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:19.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19517,
+  "identifier": "mobile-suit-sd-gundams-counterattack",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mobile Suit SD Gundam's Counterattack",
+  "url": "https://gogoanime.vc/category/mobile-suit-sd-gundams-counterattack",
+  "image": "https://cdnimg.xyz/cover/mobile-suit-sd-gundams-counterattack.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2306,
+  "aniId": 2306,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-26T14:17:40.000Z",
+    "checkedAt": "2022-05-26T14:17:40.000Z",
+    "id": 2306,
+    "type": "anime",
+    "title": "Mobile Suit SD Gundam's Counterattack",
+    "altTitle": [
+      "Kidou Senshi SD Gundam no Gyakushuu: Arashi o Yobu Gakuensai",
+      "Mobile Suit SD Gundam's Counterattack: The Storm-Calling School Festival",
+      "The Tale of the SD Warring States: The Chapter of the Violent Final Sky Castle",
+      "Kidou Senshi SD Gundam no Gyakushuu: SD",
+      "Mobile Suit SD Gundam's Counterattack",
+      "機動戦士ＳＤガンダムの逆襲"
+    ],
+    "url": "https://myanimelist.net/anime/2306/Mobile_Suit_SD_Gundams_Counterattack",
+    "image": "https://cdn.myanimelist.net/images/anime/7/2546.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.showtime.jp/animation/b-ch/sd_arashi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4722"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2929"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4722
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:16.000Z",
+    "updatedAt": "2022-05-26T14:17:37.000Z",
+    "checkedAt": "2022-05-26T14:17:37.000Z",
+    "id": 2306,
+    "type": "anime",
+    "title": "Kidou Senshi SD Gundam no Gyakushuu",
+    "altTitle": [
+      "Mobile Suit SD Gundam's Counterattack",
+      "機動戦士ＳＤガンダムの逆襲"
+    ],
+    "url": "https://anilist.co/anime/2306",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2306.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2306,
+    "deletedAt": null
+  }
+}

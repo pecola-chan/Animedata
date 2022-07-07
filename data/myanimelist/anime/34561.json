@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-14T09:50:08.000Z",
+  "checkedAt": "2022-05-14T09:50:08.000Z",
+  "id": 34561,
+  "type": "anime",
+  "title": "Re:Creators",
+  "altTitle": [
+    "Re:CREATORS",
+    "Re:CREATORS 〈レクリエイターズ〉"
+  ],
+  "url": "https://myanimelist.net/anime/34561/Re_Creators",
+  "image": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://recreators.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12657"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18943"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Re:Creators"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12657,
+  "Pages": {
+    "9anime": {
+      "n21j": {
+        "createdAt": "2020-10-12T15:53:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6888,
+        "identifier": "n21j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Re:CREATORS",
+        "url": "https://9anime.to/watch/recreators.n21j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-61Di0wA3yOk/WQTHI4QHAnI/AAAAAAAAlBk/a2ZWyrWVCSEtKnnfUTAzD5ME7REb2LFIwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34561,
+        "aniId": 97980,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "recreators": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20252,
+        "identifier": "recreators",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Re:Creators",
+        "url": "https://gogoanime.vc/category/recreators",
+        "image": "https://images.gogoanime.tv/cover/recreators.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34561,
+        "aniId": 97980,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2008": {
+        "identifier": "2008",
+        "malId": 34561,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Re:Creators",
+        "url": "https://animepahe.com/a/2008"
+      }
+    },
+    "AniMixPlay": {
+      "34561": {
+        "identifier": "34561",
+        "malId": 34561,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Re:Creators",
+        "url": "https://animixplay.to/anime/34561"
+      }
+    },
+    "YugenAnime": {
+      "909": {
+        "identifier": "909",
+        "malId": 34561,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Re:Creators",
+        "url": "https://yugen.to/anime/909/recreators/"
+      }
+    }
+  }
+}

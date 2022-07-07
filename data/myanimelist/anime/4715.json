@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-15T00:04:59.000Z",
+  "checkedAt": "2022-05-15T00:04:59.000Z",
+  "id": 4715,
+  "type": "anime",
+  "title": "Shigofumi: Sore kara",
+  "altTitle": [
+    "Shigofumi ~Stories of Last Letter~ Special",
+    "Shigofumi OVA",
+    "Shigofumi Episode 13",
+    "Shigofumi: Letters from the Departed Special",
+    "シゴフミ ソレカラ"
+  ],
+  "url": "https://myanimelist.net/anime/4715/Shigofumi__Sore_kara",
+  "image": "https://cdn.myanimelist.net/images/anime/11/9064.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shigofumi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5549"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shigofumi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/shigofumi-special"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5549,
+  "Pages": {
+    "9anime": {
+      "6070": {
+        "createdAt": "2020-10-12T15:48:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 183,
+        "identifier": "6070",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shigofumi Special",
+        "url": "https://9anime.to/watch/shigofumi-special.6070",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SAwmxQsm-ls/V77UonJwcxI/AAAAAAAA5Zs/f7UT4fUkaPs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4715,
+        "aniId": 4715,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1752": {
+        "identifier": "1752",
+        "malId": 4715,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shigofumi: Sore kara",
+        "url": "https://animepahe.com/a/1752"
+      }
+    },
+    "YugenAnime": {
+      "4301": {
+        "identifier": "4301",
+        "malId": 4715,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shigofumi: Sore kara",
+        "url": "https://yugen.to/anime/4301/shigofumi-letters-from-the-departed/"
+      }
+    }
+  }
+}

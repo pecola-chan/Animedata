@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T16:55:03.000Z",
+  "checkedAt": "2022-05-14T16:55:03.000Z",
+  "id": 40661,
+  "type": "anime",
+  "title": "Jashin-chan Dropkick': Chitose-hen",
+  "altTitle": [
+    "Dropkick on My Devil!! Dash Episode 12 – Chapter Chitose",
+    "邪神ちゃんドロップキック’千歳編"
+  ],
+  "url": "https://myanimelist.net/anime/40661/Jashin-chan_Dropkick__Chitose-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1035/107866.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jashinchan.com/news/1271"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "654z": {
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2951,
+        "identifier": "654z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jashin-chan Dropkick': Chitose-hen",
+        "url": "https://9anime.to/watch/jashin-chan-dropkick-chitose-hen.654z",
+        "image": "https://static.akacdn.ru/files/images/2020/04/bf036f586ad2f4e800de4f4462a55e39.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40661,
+        "aniId": 118125,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3941": {
+        "identifier": "3941",
+        "malId": 40661,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Jashin-chan Dropkick': Chitose-hen",
+        "url": "https://animepahe.com/a/3941"
+      }
+    },
+    "AniMixPlay": {
+      "40661": {
+        "identifier": "40661",
+        "malId": 40661,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jashin-chan Dropkick': Chitose-hen",
+        "url": "https://animixplay.to/anime/40661"
+      }
+    }
+  }
+}

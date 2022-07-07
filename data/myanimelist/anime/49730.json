@@ -1,0 +1,149 @@
+{
+  "createdAt": "2021-09-09T15:04:51.000Z",
+  "updatedAt": "2022-05-14T18:43:23.000Z",
+  "checkedAt": "2022-05-14T18:43:22.000Z",
+  "id": 49730,
+  "type": "anime",
+  "title": "Pokemon Evolutions",
+  "altTitle": [
+    "Pokémon Evolutions",
+    "Pokémon Evolutions"
+  ],
+  "url": "https://myanimelist.net/anime/49730/Pokemon_Evolutions",
+  "image": "https://cdn.myanimelist.net/images/anime/1405/117456.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.pokemon.com/us/pokemon-news/watch-the-trailer-for-pokemon-evolutions-a-new-animated-series/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16599"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24698"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Evolutions"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16599,
+  "Pages": {
+    "Gogoanime": {
+      "pokemon-evolutions": {
+        "createdAt": "2021-09-09T18:34:36.000Z",
+        "updatedAt": "2021-09-09T19:04:29.000Z",
+        "checkedAt": null,
+        "id": 38588,
+        "identifier": "pokemon-evolutions",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon Evolutions",
+        "url": "https://gogoanime.pe/category/pokemon-evolutions",
+        "image": "https://gogocdn.net/cover/pokemon-evolutions.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49730,
+        "aniId": 138699,
+        "deletedAt": null
+      },
+      "pokemon-evolutions-dub": {
+        "createdAt": "2022-01-05T07:49:24.000Z",
+        "updatedAt": "2022-01-05T08:17:51.000Z",
+        "checkedAt": null,
+        "id": 39697,
+        "identifier": "pokemon-evolutions-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon Evolutions (Dub)",
+        "url": "https://gogoanime.cm/category/pokemon-evolutions-dub",
+        "image": "https://gogocdn.net/cover/pokemon-evolutions-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49730,
+        "aniId": 138699,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "4qrp7": {
+        "createdAt": "2021-09-09T18:34:39.000Z",
+        "updatedAt": "2021-09-09T19:04:29.000Z",
+        "checkedAt": null,
+        "id": 38589,
+        "identifier": "4qrp7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon Evolutions",
+        "url": "https://9anime.to/watch/pokemon-evolutions.4qrp7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/00/00070d2d6c7e2d36cc489f0fcb56f535.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49730,
+        "aniId": 138699,
+        "deletedAt": null
+      },
+      "52rqm": {
+        "createdAt": "2021-09-10T02:35:09.000Z",
+        "updatedAt": "2021-09-10T03:04:29.000Z",
+        "checkedAt": null,
+        "id": 38593,
+        "identifier": "52rqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon Evolutions (Dub)",
+        "url": "https://9anime.to/watch/pokemon-evolutions-dub.52rqm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fe/fe1952fe2098b4cb47b93f2d87ce74cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49730,
+        "aniId": 138699,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4509": {
+        "identifier": "4509",
+        "malId": 49730,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pokemon Evolutions",
+        "url": "https://animepahe.com/a/4509"
+      }
+    },
+    "AniMixPlay": {
+      "49730": {
+        "identifier": "49730",
+        "malId": 49730,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon Evolutions",
+        "url": "https://animixplay.to/anime/49730"
+      }
+    },
+    "YugenAnime": {
+      "11271": {
+        "identifier": "11271",
+        "malId": 49730,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pokemon Evolutions",
+        "url": "https://yugen.to/anime/11271/pokemon-evolutions/"
+      }
+    }
+  }
+}

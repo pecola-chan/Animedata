@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-14T21:45:30.000Z",
+  "checkedAt": "2022-05-14T21:45:30.000Z",
+  "id": 15591,
+  "type": "anime",
+  "title": "Joshiraku OVA",
+  "altTitle": [
+    "じょしらく"
+  ],
+  "url": "https://myanimelist.net/anime/15591/Joshiraku_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/8/50549.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9402"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Joshiraku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9402,
+  "Pages": {
+    "9anime": {
+      "kmmw": {
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5517,
+        "identifier": "kmmw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Joshiraku OVA",
+        "url": "https://9anime.to/watch/joshiraku-ova.kmmw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SY4IrlGsoi8/V90UE7s95yI/AAAAAAAA-oY/FgEmRv2IYW0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15591,
+        "aniId": 15591,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "joshiraku-2013": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2022-06-14T01:01:41.000Z",
+        "checkedAt": "2022-06-14T01:01:41.000Z",
+        "id": 18603,
+        "identifier": "joshiraku-2013",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Joshiraku (2013)",
+        "url": "https://gogoanime.sk/category/joshiraku-2013",
+        "image": "https://gogocdn.net/images/anime/J/Joshiraku-OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 15591,
+        "aniId": 15591,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3421": {
+        "identifier": "3421",
+        "malId": 15591,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Joshiraku OVA",
+        "url": "https://animepahe.com/a/3421"
+      }
+    },
+    "AniMixPlay": {
+      "15591": {
+        "identifier": "15591",
+        "malId": 15591,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Joshiraku OVA",
+        "url": "https://animixplay.to/anime/15591"
+      }
+    },
+    "YugenAnime": {
+      "4514": {
+        "identifier": "4514",
+        "malId": 15591,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Joshiraku OVA",
+        "url": "https://yugen.to/anime/4514/joshiraku-2013/"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T18:50:05.000Z",
+  "checkedAt": "2022-05-14T18:50:05.000Z",
+  "id": 38939,
+  "type": "anime",
+  "title": "Kakegurui Picture Drama",
+  "altTitle": [
+    "Kakegurui: Compulsive Gambler Picture Drama",
+    "賭ケグルイ メイド喫茶百花王"
+  ],
+  "url": "https://myanimelist.net/anime/38939/Kakegurui_Picture_Drama",
+  "image": "https://cdn.myanimelist.net/images/anime/1914/98035.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kakegurui-anime.com/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12834"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19102"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kakegurui_%E2%80%93_Compulsive_Gambler"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12834,
+  "Pages": {
+    "9anime": {
+      "nqjn": {
+        "createdAt": "2020-10-12T15:53:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7202,
+        "identifier": "nqjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kakegurui Picture Drama",
+        "url": "https://9anime.to/watch/kakegurui-picture-drama.nqjn",
+        "image": "https://static.akacdn.ru/static/images/2019/01/247a447c395e69bb487185c4d02fa390.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38939,
+        "aniId": 107622,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kakegurui-picture-drama": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18671,
+        "identifier": "kakegurui-picture-drama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakegurui Picture Drama",
+        "url": "https://gogoanime.vc/category/kakegurui-picture-drama",
+        "image": "https://gogocdn.net/cover/kakegurui-picture-drama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38939,
+        "aniId": 107622,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4503": {
+        "identifier": "4503",
+        "malId": 38939,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kakegurui Picture Drama",
+        "url": "https://animepahe.com/a/4503"
+      }
+    },
+    "AniMixPlay": {
+      "38939": {
+        "identifier": "38939",
+        "malId": 38939,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kakegurui Picture Drama",
+        "url": "https://animixplay.to/anime/38939"
+      }
+    },
+    "YugenAnime": {
+      "4375": {
+        "identifier": "4375",
+        "malId": 38939,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kakegurui Picture Drama",
+        "url": "https://yugen.to/anime/4375/kakegurui-picture-drama/"
+      }
+    }
+  }
+}

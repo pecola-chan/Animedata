@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-14T17:19:22.000Z",
+  "checkedAt": "2022-05-14T17:19:22.000Z",
+  "id": 34539,
+  "type": "anime",
+  "title": "Saint Seiya: Saintia Shou",
+  "altTitle": [
+    "聖闘士星矢 セインティア翔"
+  ],
+  "url": "https://myanimelist.net/anime/34539/Saint_Seiya__Saintia_Shou",
+  "image": "https://cdn.myanimelist.net/images/anime/1022/93948.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saintia-sho.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12648"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21285"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Seiya:_Saintia_Sh%C5%8D"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277265"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12648,
+  "Pages": {
+    "9anime": {
+      "132q": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 807,
+        "identifier": "132q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint Seiya: Saintia Shou",
+        "url": "https://9anime.to/watch/saint-seiya-saintia-shou.132q",
+        "image": "https://static.akacdn.ru/static/images/2018/12/8f73a55c4b83d6cffb00acb8a3d8dfab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34539,
+        "aniId": 97919,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saint-seiya-saintia-shou": {
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20382,
+        "identifier": "saint-seiya-saintia-shou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saint Seiya: Saintia Shou",
+        "url": "https://gogoanime.vc/category/saint-seiya-saintia-shou",
+        "image": "https://cdnimg.xyz/cover/saint-seiya-saintia-shou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34539,
+        "aniId": 97919,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2895": {
+        "identifier": "2895",
+        "malId": 34539,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Saint Seiya: Saintia Shou",
+        "url": "https://animepahe.com/a/2895"
+      }
+    },
+    "AniMixPlay": {
+      "34539": {
+        "identifier": "34539",
+        "malId": 34539,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint Seiya: Saintia Shou",
+        "url": "https://animixplay.to/anime/34539"
+      }
+    },
+    "YugenAnime": {
+      "6714": {
+        "identifier": "6714",
+        "malId": 34539,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Saint Seiya: Saintia Shou",
+        "url": "https://yugen.to/anime/6714/saint-seiya-saintia-shou/"
+      }
+    }
+  }
+}

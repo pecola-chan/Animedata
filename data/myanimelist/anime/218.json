@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T17:40:07.000Z",
+  "checkedAt": "2022-05-14T17:40:07.000Z",
+  "id": 218,
+  "type": "anime",
+  "title": "Kidou Senkan Nadesico",
+  "altTitle": [
+    "Martian Successor Nadesico",
+    "機動戦艦ナデシコ"
+  ],
+  "url": "https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico",
+  "image": "https://cdn.myanimelist.net/images/anime/3/53955.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.b-ch.com/contents/nadesico/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=180"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=42"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nadesico"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274883"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/martian-successor-nadesico"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 180,
+  "Pages": {
+    "9anime": {
+      "7jzj": {
+        "createdAt": "2020-10-12T15:51:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3442,
+        "identifier": "7jzj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kidou Senkan Nadesico (Dub)",
+        "url": "https://9anime.to/watch/kidou-senkan-nadesico-dub.7jzj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-HxZWsikJZ4M/V5C_B5d4_GI/AAAAAAAAw7c/GwZIGvC70qI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 218,
+        "aniId": 218,
+        "deletedAt": null
+      },
+      "oq68": {
+        "createdAt": "2020-10-12T15:54:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7627,
+        "identifier": "oq68",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kidou Senkan Nadesico",
+        "url": "https://9anime.to/watch/kidou-senkan-nadesico.oq68",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-50A4805VEok/V-Ibn19_PSI/AAAAAAAA_MU/Tn9bl2iK0CI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 218,
+        "aniId": 218,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kidou-senkan-nadesico": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18806,
+        "identifier": "kidou-senkan-nadesico",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kidou Senkan Nadesico",
+        "url": "https://gogoanime.vc/category/kidou-senkan-nadesico",
+        "image": "https://cdnimg.xyz/cover/kidou-senkan-nadesico.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 218,
+        "aniId": 218,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "479": {
+        "identifier": "479",
+        "malId": 218,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kidou Senkan Nadesico",
+        "url": "https://animepahe.com/a/479"
+      }
+    },
+    "AniMixPlay": {
+      "218": {
+        "identifier": "218",
+        "malId": 218,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kidou Senkan Nadesico",
+        "url": "https://animixplay.to/anime/218"
+      }
+    },
+    "YugenAnime": {
+      "4729": {
+        "identifier": "4729",
+        "malId": 218,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kidou Senkan Nadesico",
+        "url": "https://yugen.to/anime/4729/kidou-senkan-nadesico/"
+      }
+    }
+  }
+}

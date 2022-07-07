@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T16:01:16.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19421,
+  "identifier": "mi-yu-xing-zhe",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mi Yu Xing Zhe",
+  "url": "https://gogoanime.vc/category/mi-yu-xing-zhe",
+  "image": "https://cdnimg.xyz/cover/mi-yu-xing-zhe.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 37175,
+  "aniId": 101132,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:59.000Z",
+    "updatedAt": "2022-05-14T17:32:22.000Z",
+    "checkedAt": "2022-05-14T17:32:22.000Z",
+    "id": 37175,
+    "type": "anime",
+    "title": "Mi Yu Xing Zhe",
+    "altTitle": [
+      "Uncharted Walker",
+      "迷域行者"
+    ],
+    "url": "https://myanimelist.net/anime/37175/Mi_Yu_Xing_Zhe",
+    "image": "https://cdn.myanimelist.net/images/anime/1869/104422.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://topic.dajiaochongmanhua.com/myxz/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:33.000Z",
+    "updatedAt": "2022-05-15T11:05:11.000Z",
+    "checkedAt": "2022-05-15T11:05:11.000Z",
+    "id": 101132,
+    "type": "anime",
+    "title": "Mi Yu Xingzhe",
+    "altTitle": [
+      "迷域行者",
+      "Uncharted Walker"
+    ],
+    "url": "https://anilist.co/anime/101132",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101132-RJw3oJhhGmNK.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37175,
+    "deletedAt": null
+  }
+}

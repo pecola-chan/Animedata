@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-13T21:13:48.000Z",
+  "checkedAt": "2022-05-13T21:13:48.000Z",
+  "id": 4722,
+  "type": "anime",
+  "title": "Skip Beat!",
+  "altTitle": [
+    "Skip Beat!",
+    "スキップ・ビート！"
+  ],
+  "url": "https://myanimelist.net/anime/4722/Skip_Beat",
+  "image": "https://cdn.myanimelist.net/images/anime/11/84022.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/s-beat/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6103"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10091"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Skip_Beat"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-105505"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6103,
+  "Pages": {
+    "9anime": {
+      "4q8j": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2360,
+        "identifier": "4q8j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Skip Beat!",
+        "url": "https://9anime.to/watch/skip-beat.4q8j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-s7z3ck5tgzg/V5M-tPzoHGI/AAAAAAAAxfA/Ek8gnMcGOlg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4722,
+        "aniId": 4722,
+        "deletedAt": null
+      },
+      "j754": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4761,
+        "identifier": "j754",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Skip Beat! (Dub)",
+        "url": "https://9anime.to/watch/skip-beat-dub.j754",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZZ_0W6Vmb6w/WgPOxyMGFpI/AAAAAAAAEQw/C4HFEKgrzBoJ3TV6ijJZmwS32BQdw2uKACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4722,
+        "aniId": 4722,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "skip-beat": {
+        "createdAt": "2020-10-12T16:01:55.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20731,
+        "identifier": "skip-beat",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Skip Beat",
+        "url": "https://gogoanime.vc/category/skip-beat",
+        "image": "https://cdnimg.xyz/images/anime/S/skip-beat.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4722,
+        "aniId": 4722,
+        "deletedAt": null
+      },
+      "skip-beat-dub": {
+        "createdAt": "2021-08-01T20:47:41.000Z",
+        "updatedAt": "2021-08-01T21:17:28.000Z",
+        "checkedAt": null,
+        "id": 38095,
+        "identifier": "skip-beat-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Skip Beat! (Dub)",
+        "url": "https://gogoanime.pe/category/skip-beat-dub",
+        "image": "https://gogocdn.net/cover/skip-beat-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4722,
+        "aniId": 4722,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4380": {
+        "identifier": "4380",
+        "malId": 4722,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Skip Beat!",
+        "url": "https://animepahe.com/a/4380"
+      }
+    },
+    "AniMixPlay": {
+      "4722": {
+        "identifier": "4722",
+        "malId": 4722,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Skip Beat!",
+        "url": "https://animixplay.to/anime/4722"
+      }
+    },
+    "YugenAnime": {
+      "488": {
+        "identifier": "488",
+        "malId": 4722,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Skip Beat!",
+        "url": "https://yugen.to/anime/488/skip-beat/"
+      }
+    }
+  }
+}

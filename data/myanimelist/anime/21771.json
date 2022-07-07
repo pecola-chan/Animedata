@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-14T22:26:42.000Z",
+  "checkedAt": "2022-05-14T22:26:42.000Z",
+  "id": 21771,
+  "type": "anime",
+  "title": "Romantica Clock",
+  "altTitle": [
+    "Ribbon x Oha Suta Specials",
+    "Ribon x Oha Suta Specials",
+    "ロマンチカ クロック"
+  ],
+  "url": "https://myanimelist.net/anime/21771/Romantica_Clock",
+  "image": "https://cdn.myanimelist.net/images/anime/8/58769.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ribon.shueisha.co.jp/ohasta/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10359"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16155"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Romantica_Clock"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10359,
+  "Pages": {
+    "9anime": {
+      "5wpv": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2814,
+        "identifier": "5wpv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Romantica Clock",
+        "url": "https://9anime.to/watch/romantica-clock.5wpv",
+        "image": "http://static.akacdn.ru/static/images/2018/04/d172bbe9207f51f28b3a3fa28f5bab10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21771,
+        "aniId": 20585,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "romantica-clock-": {
+        "createdAt": "2020-10-12T16:01:43.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20322,
+        "identifier": "romantica-clock-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Romantica Clock ",
+        "url": "https://gogoanime.vc/category/romantica-clock-",
+        "image": "https://cdnimg.xyz/images/Romantica Clock.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21771,
+        "aniId": 20585,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "21771": {
+        "identifier": "21771",
+        "malId": 21771,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Romantica Clock",
+        "url": "https://animixplay.to/anime/21771"
+      }
+    },
+    "YugenAnime": {
+      "872": {
+        "identifier": "872",
+        "malId": 21771,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Romantica Clock",
+        "url": "https://yugen.to/anime/872/romantica-clock/"
+      }
+    }
+  }
+}

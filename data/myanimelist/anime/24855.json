@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T21:18:53.000Z",
+  "checkedAt": "2022-05-14T21:18:53.000Z",
+  "id": 24855,
+  "type": "anime",
+  "title": "Girlfriend (Kari)",
+  "altTitle": [
+    "GF Kari",
+    "Girlfriend Beta",
+    "Girl Friend Beta",
+    "ガールフレンド(仮)"
+  ],
+  "url": "https://myanimelist.net/anime/24855/Girlfriend_Kari",
+  "image": "https://cdn.myanimelist.net/images/anime/4/67045.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://girlfriend-kari-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10709"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16127"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Girl_Friend_Beta"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-263095"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10709,
+  "Pages": {
+    "9anime": {
+      "rw7m": {
+        "createdAt": "2020-10-12T15:55:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9044,
+        "identifier": "rw7m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Girlfriend (Kari)",
+        "url": "https://9anime.to/watch/girlfriend-kari.rw7m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ru85HmE7SXw/V7PSI7tEB4I/AAAAAAAA3qQ/CXybIommc_g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24855,
+        "aniId": 20757,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "girlfriend-kari": {
+        "createdAt": "2020-10-12T16:00:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17913,
+        "identifier": "girlfriend-kari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Girlfriend (Kari)",
+        "url": "https://gogoanime.vc/category/girlfriend-kari",
+        "image": "https://images.gogoanime.tv/images/fall/Girlfriend Kari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24855,
+        "aniId": 20757,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2091": {
+        "identifier": "2091",
+        "malId": 24855,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Girlfriend (Kari)",
+        "url": "https://animepahe.com/a/2091"
+      }
+    },
+    "AniMixPlay": {
+      "24855": {
+        "identifier": "24855",
+        "malId": 24855,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Girlfriend (Kari)",
+        "url": "https://animixplay.to/anime/24855"
+      }
+    },
+    "YugenAnime": {
+      "1667": {
+        "identifier": "1667",
+        "malId": 24855,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Girlfriend (Kari)",
+        "url": "https://yugen.to/anime/1667/girlfriend-kari/"
+      }
+    }
+  }
+}

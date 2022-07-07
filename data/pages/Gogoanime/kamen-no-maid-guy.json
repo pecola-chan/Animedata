@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-29T18:10:49.000Z",
+  "updatedAt": "2021-05-20T15:21:56.000Z",
+  "checkedAt": null,
+  "id": 28183,
+  "identifier": "kamen-no-maid-guy",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kamen no Maid Guy",
+  "url": "https://gogoanime.vc/category/kamen-no-maid-guy",
+  "image": "https://gogocdn.net/images/anime/K/Kamen-no-Maid-Guy.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3616,
+  "aniId": 3616,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:39.000Z",
+    "updatedAt": "2022-05-14T17:53:17.000Z",
+    "checkedAt": "2022-05-14T17:53:17.000Z",
+    "id": 3616,
+    "type": "anime",
+    "title": "Kamen no Maid Guy",
+    "altTitle": [
+      "仮面のメイドガイ"
+    ],
+    "url": "https://myanimelist.net/anime/3616/Kamen_no_Maid_Guy",
+    "image": "https://cdn.myanimelist.net/images/anime/4/77694.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.maidguy.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5277"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8193"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kamen_no_Maid_Guy"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-278535"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 5277
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:26.000Z",
+    "updatedAt": "2022-05-15T18:58:47.000Z",
+    "checkedAt": "2022-05-15T18:58:47.000Z",
+    "id": 3616,
+    "type": "anime",
+    "title": "Kamen no Maid Guy",
+    "altTitle": [
+      "仮面のメイドガイ"
+    ],
+    "url": "https://anilist.co/anime/3616",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3616-KRPpU5y0Hhzz.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/kamen-no-maid-guy"
+      }
+    ],
+    "malId": 3616,
+    "deletedAt": null
+  }
+}

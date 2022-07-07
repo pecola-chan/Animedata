@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-15T01:28:43.000Z",
+  "checkedAt": "2022-05-15T01:28:43.000Z",
+  "id": 2528,
+  "type": "anime",
+  "title": "Megami Paradise",
+  "altTitle": [
+    "Megami Tengoku",
+    "女神天国"
+  ],
+  "url": "https://myanimelist.net/anime/2528/Megami_Paradise",
+  "image": "https://cdn.myanimelist.net/images/anime/2/41791.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1476"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=696"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Megami_Paradise"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1476,
+  "Pages": {
+    "9anime": {
+      "onp4": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7569,
+        "identifier": "onp4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Megami Tengoku",
+        "url": "https://9anime.to/watch/megami-tengoku.onp4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-U8CK0XtO-XM/WLkbnP9xmtI/AAAAAAABejU/r0RVsHHM2r4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2528,
+        "aniId": 2528,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "megami-paradise": {
+        "createdAt": "2021-02-25T12:55:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35233,
+        "identifier": "megami-paradise",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Megami Paradise",
+        "url": "https://gogoanime.vc/category/megami-paradise",
+        "image": "https://gogocdn.net/cover/megami-paradise.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2528,
+        "aniId": 2528,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2528": {
+        "identifier": "2528",
+        "malId": 2528,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Megami Paradise",
+        "url": "https://animixplay.to/anime/2528"
+      }
+    },
+    "YugenAnime": {
+      "5891": {
+        "identifier": "5891",
+        "malId": 2528,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Megami Paradise",
+        "url": "https://yugen.to/anime/5891/megami-paradise/"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "createdAt": "2022-03-02T10:11:00.000Z",
+  "updatedAt": "2022-03-02T10:40:28.000Z",
+  "checkedAt": null,
+  "id": 40362,
+  "identifier": "perman-1983",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Perman (1983)",
+  "url": "https://gogoanime.fi/category/perman-1983",
+  "image": "https://gogocdn.net/cover/perman-1983.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 11595,
+  "aniId": 11595,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:09.000Z",
+    "updatedAt": "2022-05-14T20:49:41.000Z",
+    "checkedAt": "2022-05-14T20:49:41.000Z",
+    "id": 11595,
+    "type": "anime",
+    "title": "Perman (1983)",
+    "altTitle": [
+      "Paaman (1983)",
+      "Paman (1983)",
+      "Super Boy Perman (1983)",
+      "Paa man (1983)",
+      "P-man (1983)",
+      "Paaman TV 2 (1983)",
+      "Superkid (1983)",
+      "パーマン (1983)"
+    ],
+    "url": "https://myanimelist.net/anime/11595/Perman_1983",
+    "image": "https://cdn.myanimelist.net/images/anime/2/32333.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-asahi-channel.com/anime/05.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3204"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2008"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Perman"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3204
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:07.000Z",
+    "updatedAt": "2022-05-15T18:19:35.000Z",
+    "checkedAt": "2022-05-15T18:19:35.000Z",
+    "id": 11595,
+    "type": "anime",
+    "title": "Paaman (1983)",
+    "altTitle": [
+      "Superkid (1983)",
+      "パーマン (1983)",
+      "Paman (1983)",
+      "Perman (1983)",
+      "Super Boy Perman (1983)",
+      "Paa man (1983)",
+      "P-Man"
+    ],
+    "url": "https://anilist.co/anime/11595",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11595.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 11595,
+    "deletedAt": null
+  }
+}

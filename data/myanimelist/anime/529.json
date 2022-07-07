@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T16:45:03.000Z",
+  "checkedAt": "2022-05-14T16:45:03.000Z",
+  "id": 529,
+  "type": "anime",
+  "title": "Saishuu Heiki Kanojo",
+  "altTitle": [
+    "SaiKano",
+    "Saishuuheiki Kanojo: The Last Love Song on This Little Planet",
+    "She, The Ultimate Weapon",
+    "最終兵器彼女"
+  ],
+  "url": "https://myanimelist.net/anime/529/Saishuu_Heiki_Kanojo",
+  "image": "https://cdn.myanimelist.net/images/anime/1/529.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gonzo.co.jp/works/0204.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=113"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=914"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saikano"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 113,
+  "Pages": {
+    "9anime": {
+      "p4lq": {
+        "createdAt": "2020-10-12T15:54:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7840,
+        "identifier": "p4lq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saishuu Heiki Kanojo (Dub)",
+        "url": "https://9anime.to/watch/saishuu-heiki-kanojo-dub.p4lq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TP89mZE7p_s/V-hvfThKkJI/AAAAAAABA9Y/lhf2zpC2wMw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 529,
+        "aniId": 529,
+        "deletedAt": null
+      },
+      "xrjz": {
+        "createdAt": "2020-10-12T15:56:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10373,
+        "identifier": "xrjz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saishuu Heiki Kanojo",
+        "url": "https://9anime.to/watch/saishuu-heiki-kanojo.xrjz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8tNrZNCA8O4/V4zmEumBn-I/AAAAAAAAwRA/cbJnq0nKeJY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 529,
+        "aniId": 529,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saikano-": {
+        "createdAt": "2021-06-21T07:24:42.000Z",
+        "updatedAt": "2021-06-21T07:50:51.000Z",
+        "checkedAt": null,
+        "id": 37472,
+        "identifier": "saikano-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "SaiKano ",
+        "url": "https://gogoanime.vc/category/saikano-",
+        "image": "https://gogocdn.net/images/anime/S/saikano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 529,
+        "aniId": 529,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "529": {
+        "identifier": "529",
+        "malId": 529,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saishuu Heiki Kanojo",
+        "url": "https://animixplay.to/anime/529"
+      }
+    }
+  }
+}

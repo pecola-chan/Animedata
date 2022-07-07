@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T20:24:35.000Z",
+  "checkedAt": "2022-05-14T20:24:35.000Z",
+  "id": 4136,
+  "type": "anime",
+  "title": "Penguin Musume♥Heart",
+  "altTitle": [
+    "Penguin Girl",
+    "Penguin Musume♥Heart",
+    "ペンギン娘♥はぁと"
+  ],
+  "url": "https://myanimelist.net/anime/4136/Penguin_Musume♥Heart",
+  "image": "https://cdn.myanimelist.net/images/anime/2/8270.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pen-musu.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5800"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9598"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5800,
+  "Pages": {
+    "9anime": {
+      "9jlx": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4302,
+        "identifier": "9jlx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Penguin Musume♥Heart",
+        "url": "https://9anime.to/watch/penguin-musumeheart.9jlx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-el06RBnyK-A/V7UWaWLaEiI/AAAAAAAA34g/0bXfDG0cjoU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4136,
+        "aniId": 4136,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "penguin-girl-": {
+        "createdAt": "2021-09-13T11:34:47.000Z",
+        "updatedAt": "2021-09-13T12:04:34.000Z",
+        "checkedAt": null,
+        "id": 38623,
+        "identifier": "penguin-girl-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Penguin Girl ",
+        "url": "https://gogoanime.pe/category/penguin-girl-",
+        "image": "https://gogocdn.net/images/anime/P/penguin-girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4136,
+        "aniId": 4136,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4136": {
+        "identifier": "4136",
+        "malId": 4136,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Penguin Musume♥Heart",
+        "url": "https://animixplay.to/anime/4136"
+      }
+    }
+  }
+}

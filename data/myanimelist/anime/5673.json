@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T01:53:55.000Z",
+  "checkedAt": "2022-05-15T01:53:55.000Z",
+  "id": 5673,
+  "type": "anime",
+  "title": "Apfelland Monogatari",
+  "altTitle": [
+    "Appleland Monogatari",
+    "Applefield Monogatari",
+    "Appleland Story",
+    "アップフェルラント物語"
+  ],
+  "url": "https://myanimelist.net/anime/5673/Apfelland_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/7/11782.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3416"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2311"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A7%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%88%E7%89%A9%E8%AA%9E"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3416,
+  "Pages": {
+    "9anime": {
+      "77w1": {
+        "createdAt": "2020-10-12T18:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23834,
+        "identifier": "77w1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Apfelland Monogatari",
+        "url": "https://9anime.to/watch/appleland-story.77w1",
+        "image": "//static.9anime.to/i/cache/images/2018/03/e6633e36d6bba6dd8114279b92e8eed2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5673,
+        "aniId": 5673,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5673": {
+        "identifier": "5673",
+        "malId": 5673,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Apfelland Monogatari",
+        "url": "https://animixplay.to/anime/5673"
+      }
+    },
+    "YugenAnime": {
+      "3054": {
+        "identifier": "3054",
+        "malId": 5673,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Apfelland Monogatari",
+        "url": "https://yugen.to/anime/3054/apfelland-monogatari/"
+      }
+    }
+  }
+}

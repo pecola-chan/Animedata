@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T18:36:05.000Z",
+  "checkedAt": "2022-05-14T18:36:05.000Z",
+  "id": 40137,
+  "type": "anime",
+  "title": "ARP Backstage Pass",
+  "altTitle": [
+    "ARP Backstage Pass"
+  ],
+  "url": "https://myanimelist.net/anime/40137/ARP_Backstage_Pass",
+  "image": "https://cdn.myanimelist.net/images/anime/1559/110721.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://arp-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14292"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22347"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/AR_performers#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278960"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14292,
+  "Pages": {
+    "9anime": {
+      "ljv3": {
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6009,
+        "identifier": "ljv3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ARP Backstage Pass",
+        "url": "https://9anime.to/watch/arp-backstage-pass.ljv3",
+        "image": "https://static.akacdn.ru/files/images/2020/01/b7f8d0dd1d9a69e627ebafdde3ce5cb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40137,
+        "aniId": 110615,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "arp-backstage-pass": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16602,
+        "identifier": "arp-backstage-pass",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "ARP Backstage Pass",
+        "url": "https://gogoanime.vc/category/arp-backstage-pass",
+        "image": "https://cdnimg.xyz/cover/arp-backstage-pass.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40137,
+        "aniId": 110615,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3718": {
+        "identifier": "3718",
+        "malId": 40137,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ARP Backstage Pass",
+        "url": "https://animepahe.com/a/3718"
+      }
+    },
+    "AniMixPlay": {
+      "40137": {
+        "identifier": "40137",
+        "malId": 40137,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ARP Backstage Pass",
+        "url": "https://animixplay.to/anime/40137"
+      }
+    },
+    "YugenAnime": {
+      "2381": {
+        "identifier": "2381",
+        "malId": 40137,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "ARP Backstage Pass",
+        "url": "https://yugen.to/anime/2381/arp-backstage-pass/"
+      }
+    }
+  }
+}

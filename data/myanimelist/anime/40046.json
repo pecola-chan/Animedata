@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T10:05:40.000Z",
+  "checkedAt": "2022-05-14T10:05:40.000Z",
+  "id": 40046,
+  "type": "anime",
+  "title": "Id:Invaded",
+  "altTitle": [
+    "ID: INVADED",
+    "ID:INVADED イド:インヴェイデッド"
+  ],
+  "url": "https://myanimelist.net/anime/40046/Id_Invaded",
+  "image": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://id-invaded-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14987"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22509"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ID_-_Invaded"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/id-invaded"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14987,
+  "Pages": {
+    "9anime": {
+      "6p3z": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3121,
+        "identifier": "6p3z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ID:Invaded",
+        "url": "https://9anime.to/watch/idinvaded.6p3z",
+        "image": "https://static.akacdn.ru/files/images/2019/12/2075dcacfad5286cb93957aa789416fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40046,
+        "aniId": 110350,
+        "deletedAt": null
+      },
+      "mk0v": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6567,
+        "identifier": "mk0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ID:Invaded (Dub)",
+        "url": "https://9anime.to/watch/idinvaded-dub.mk0v",
+        "image": "https://static.akacdn.ru/files/images/2020/01/a30361389eb550bacec49d6d588b1943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40046,
+        "aniId": 110350,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "idinvaded": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18432,
+        "identifier": "idinvaded",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "ID:Invaded",
+        "url": "https://gogoanime.vc/category/idinvaded",
+        "image": "https://cdnimg.xyz/cover/idinvaded.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40046,
+        "aniId": 110350,
+        "deletedAt": null
+      },
+      "idinvaded-dub": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18433,
+        "identifier": "idinvaded-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "ID:Invaded (Dub)",
+        "url": "https://gogoanime.vc/category/idinvaded-dub",
+        "image": "https://cdnimg.xyz/cover/idinvaded-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40046,
+        "aniId": 110350,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3655": {
+        "identifier": "3655",
+        "malId": 40046,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Id:Invaded",
+        "url": "https://animepahe.com/a/3655"
+      }
+    },
+    "AniMixPlay": {
+      "40046": {
+        "identifier": "40046",
+        "malId": 40046,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Id:Invaded",
+        "url": "https://animixplay.to/anime/40046"
+      }
+    },
+    "YugenAnime": {
+      "99": {
+        "identifier": "99",
+        "malId": 40046,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Id:Invaded",
+        "url": "https://yugen.to/anime/99/idinvaded/"
+      }
+    }
+  }
+}

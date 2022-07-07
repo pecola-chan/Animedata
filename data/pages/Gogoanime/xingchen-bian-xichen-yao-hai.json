@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-09-06T02:45:55.000Z",
+  "updatedAt": "2021-10-02T23:00:52.000Z",
+  "checkedAt": null,
+  "id": 38545,
+  "identifier": "xingchen-bian-xichen-yao-hai",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Xingchen Bian: Xichen Yao Hai",
+  "url": "https://gogoanime.pe/category/xingchen-bian-xichen-yao-hai",
+  "image": "https://gogocdn.net/cover/xingchen-bian-xichen-yao-hai.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 49386,
+  "aniId": 122652,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-08-12T06:09:47.000Z",
+    "updatedAt": "2022-05-14T19:12:35.000Z",
+    "checkedAt": "2022-05-14T19:12:35.000Z",
+    "id": 49386,
+    "type": "anime",
+    "title": "Xingchen Bian: Xingchen Yao Hai",
+    "altTitle": [
+      "Xing Chen Bian 3rd Season",
+      "Xingchen Bian 3rd Season",
+      "Legend of Immortals 3rd Season",
+      "Stellar Transformation 3rd Season",
+      "星辰变 星辰耀海"
+    ],
+    "url": "https://myanimelist.net/anime/49386/Xingchen_Bian__Xingchen_Yao_Hai",
+    "image": "https://cdn.myanimelist.net/images/anime/1676/117014.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/biu/msearch_detail?id=0s8n49g3g1rv1oz"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%98%9F%E8%BE%B0%E5%8F%98/22582624"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-06-17T20:20:51.000Z",
+    "updatedAt": "2022-05-15T15:50:11.000Z",
+    "checkedAt": "2022-05-15T15:50:11.000Z",
+    "id": 122652,
+    "type": "anime",
+    "title": "Xingchen Bian: Xichen Yao Hai",
+    "altTitle": [
+      "星辰变 星辰耀海",
+      "星辰变 第三季",
+      "Xingchen Bian 3",
+      "Legend of Immortals 3",
+      "Stellar Transformations 3"
+    ],
+    "url": "https://anilist.co/anime/122652",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122652-Ie2VIwDmL34r.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49386,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-08-18T13:07:00.000Z",
+  "updatedAt": "2021-08-18T13:36:59.000Z",
+  "checkedAt": null,
+  "id": 38354,
+  "identifier": "little-charo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Little Charo",
+  "url": "https://gogoanime.pe/category/little-charo",
+  "image": "https://gogocdn.net/cover/little-charo.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 13177,
+  "aniId": 13177,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-01-27T19:40:36.000Z",
+    "updatedAt": "2022-05-15T10:21:41.000Z",
+    "checkedAt": "2022-05-15T10:21:41.000Z",
+    "id": 13177,
+    "type": "anime",
+    "title": "Little Charo",
+    "altTitle": [
+      "Little Charo",
+      "リトル・チャロ"
+    ],
+    "url": "https://myanimelist.net/anime/13177/Little_Charo",
+    "image": "https://cdn.myanimelist.net/images/anime/1876/93778.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gogakuru.com/english/on_air/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%81%E3%83%A3%E3%83%AD.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8025"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%81%E3%83%A3%E3%83%AD"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8025
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:14.000Z",
+    "updatedAt": "2022-05-15T15:10:11.000Z",
+    "checkedAt": "2022-05-15T15:10:11.000Z",
+    "id": 13177,
+    "type": "anime",
+    "title": "Little Charo",
+    "altTitle": [
+      "リトル・チャロ"
+    ],
+    "url": "https://anilist.co/anime/13177",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13177.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 13177,
+    "deletedAt": null
+  }
+}

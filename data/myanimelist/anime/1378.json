@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-14T18:08:05.000Z",
+  "checkedAt": "2022-05-14T18:08:05.000Z",
+  "id": 1378,
+  "type": "anime",
+  "title": "Sengoku Kitan Youtouden Movie",
+  "altTitle": [
+    "Sengoku Kidan Youtouden Gekijouban",
+    "Legend of the Enchanted Swords",
+    "Yotoden Movie",
+    "Wrath of the Ninja",
+    "戦国奇譚 妖刀伝 劇場版"
+  ],
+  "url": "https://myanimelist.net/anime/1378/Sengoku_Kitan_Youtouden_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1358/97131.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1036"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=961"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1036,
+  "Pages": {
+    "9anime": {
+      "5zwj": {
+        "createdAt": "2020-10-12T15:50:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2884,
+        "identifier": "5zwj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Kitan Youtouden Soushuuhen (Dub)",
+        "url": "https://9anime.to/watch/sengoku-kitan-youtouden-soushuuhen-dub.5zwj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yM2l4eMWzVY/WAC7oZKaVvI/AAAAAAABHo0/bGlbJA9keQE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1378,
+        "aniId": 1378,
+        "deletedAt": null
+      },
+      "6z07": {
+        "createdAt": "2020-10-12T15:50:56.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3272,
+        "identifier": "6z07",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Kitan Youtouden Soushuuhen",
+        "url": "https://9anime.to/watch/sengoku-kitan-youtouden-soushuuhen.6z07",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JkwnxnAcerA/WAC7tqHTe1I/AAAAAAABHo4/-k8L1C7Ccvk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1378,
+        "aniId": 1378,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1378": {
+        "identifier": "1378",
+        "malId": 1378,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sengoku Kitan Youtouden Movie",
+        "url": "https://animixplay.to/anime/1378"
+      }
+    },
+    "YugenAnime": {
+      "9872": {
+        "identifier": "9872",
+        "malId": 1378,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sengoku Kitan Youtouden Movie",
+        "url": "https://yugen.to/anime/9872/sengoku-kitan-youtouden-movie/"
+      }
+    }
+  }
+}

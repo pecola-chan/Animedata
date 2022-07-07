@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-14T19:28:11.000Z",
+  "checkedAt": "2022-05-14T19:28:11.000Z",
+  "id": 17341,
+  "type": "anime",
+  "title": "Yama no Susume: Kabe tte Kowakunai no?",
+  "altTitle": [
+    "Yama no Susume Episode 13",
+    "Encouragement of Climb Special",
+    "ヤマノススメ 壁って怖くないの？"
+  ],
+  "url": "https://myanimelist.net/anime/17341/Yama_no_Susume__Kabe_tte_Kowakunai_no",
+  "image": "https://cdn.myanimelist.net/images/anime/6/46515.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yamanosusume.com/bluraydvd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9257"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9257,
+  "Pages": {
+    "9anime": {
+      "ykpx": {
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10714,
+        "identifier": "ykpx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yama no Susume: Kabette Kowakunai no?",
+        "url": "https://9anime.to/watch/yama-no-susume-kabette-kowakunai-no.ykpx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bakG4jK7JKg/V6H6yNo1IAI/AAAAAAAA0GQ/ZTrROLQW5II/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17341,
+        "aniId": 17341,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3529": {
+        "identifier": "3529",
+        "malId": 17341,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yama no Susume: Kabe tte Kowakunai no?",
+        "url": "https://animepahe.com/a/3529"
+      }
+    },
+    "AniMixPlay": {
+      "17341": {
+        "identifier": "17341",
+        "malId": 17341,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yama no Susume: Kabe tte Kowakunai no?",
+        "url": "https://animixplay.to/anime/17341"
+      }
+    }
+  }
+}

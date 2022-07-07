@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T17:45:17.000Z",
+  "checkedAt": "2022-05-14T17:45:17.000Z",
+  "id": 1913,
+  "type": "anime",
+  "title": "Shonan Junai Gumi!",
+  "altTitle": [
+    "Shounan Junai Gumi",
+    "Shounan Jun'ai-gumi!",
+    "Shonan Junai-gumi!",
+    "Pure Love Gang of Shounan",
+    "Young GTO",
+    "湘南純愛組!"
+  ],
+  "url": "https://myanimelist.net/anime/1913/Shonan_Junai_Gumi",
+  "image": "https://cdn.myanimelist.net/images/anime/1941/98123.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4841"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6577"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shonan_Junai_Gumi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4841,
+  "Pages": {
+    "9anime": {
+      "3kz2": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1806,
+        "identifier": "3kz2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shonan Junai Gumi!",
+        "url": "https://9anime.to/watch/shonan-junai-gumi.3kz2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_kFCuJ1xB8w/WIbvkLzy7BI/AAAAAAABa_o/KeNI1evPgOg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1913,
+        "aniId": 1913,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4646": {
+        "identifier": "4646",
+        "malId": 1913,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shonan Junai Gumi!",
+        "url": "https://animepahe.com/a/4646"
+      }
+    },
+    "AniMixPlay": {
+      "1913": {
+        "identifier": "1913",
+        "malId": 1913,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shonan Junai Gumi!",
+        "url": "https://animixplay.to/anime/1913"
+      }
+    },
+    "YugenAnime": {
+      "6684": {
+        "identifier": "6684",
+        "malId": 1913,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shonan Junai Gumi!",
+        "url": "https://yugen.to/anime/6684/hana-no-asuka-gumi/"
+      }
+    }
+  }
+}

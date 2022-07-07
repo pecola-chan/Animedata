@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-13T23:46:29.000Z",
+  "checkedAt": "2022-05-13T23:46:29.000Z",
+  "id": 3090,
+  "type": "anime",
+  "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+  "altTitle": [
+    "Ah! My Goddess: Tatakau Tsubasa",
+    "Ah! My Goddess: Fighting wings",
+    "ああっ女神さまっ 闘う翼"
+  ],
+  "url": "https://myanimelist.net/anime/3090/Aa_Megami-sama__Tatakau_Tsubasa",
+  "image": "https://cdn.myanimelist.net/images/anime/7/18673.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/megamisama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5426"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8679"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5426,
+  "Pages": {
+    "9anime": {
+      "14zv": {
+        "createdAt": "2020-10-12T15:49:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 849,
+        "identifier": "14zv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+        "url": "https://9anime.to/watch/aa-megami-sama-tatakau-tsubasa.14zv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2QfE4jPimQ8/WKhC5X0xnVI/AAAAAAABdQE/rL6Nrh5J7fI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3090,
+        "aniId": 3090,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3090": {
+        "identifier": "3090",
+        "malId": 3090,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+        "url": "https://animixplay.to/anime/3090"
+      }
+    }
+  }
+}

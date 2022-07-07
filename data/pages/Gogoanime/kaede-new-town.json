@@ -1,0 +1,81 @@
+{
+  "createdAt": "2021-10-20T03:28:57.000Z",
+  "updatedAt": "2021-10-20T03:58:55.000Z",
+  "checkedAt": null,
+  "id": 39066,
+  "identifier": "kaede-new-town",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kaede New Town",
+  "url": "https://gogoanime.pe/category/kaede-new-town",
+  "image": "https://gogocdn.net/cover/kaede-new-town.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5799,
+  "aniId": 5799,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-06-09T00:59:48.000Z",
+    "checkedAt": "2022-06-09T00:59:48.000Z",
+    "id": 5799,
+    "type": "anime",
+    "title": "Kaede New Town",
+    "altTitle": [
+      "Kaede Newtown",
+      "楓ニュータウン"
+    ],
+    "url": "https://myanimelist.net/anime/5799/Kaede_New_Town",
+    "image": "https://cdn.myanimelist.net/images/anime/5/22976.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.codomo-inc.jp/kaede/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6305"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8771"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-150701"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 6305
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:51.000Z",
+    "updatedAt": "2022-06-09T00:59:46.000Z",
+    "checkedAt": "2022-06-09T00:59:46.000Z",
+    "id": 5799,
+    "type": "anime",
+    "title": "Kaede New Town",
+    "altTitle": [
+      "楓ニュータウン",
+      "Kaede Newtown"
+    ],
+    "url": "https://anilist.co/anime/5799",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5799.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/kaede-new-town"
+      }
+    ],
+    "malId": 5799,
+    "deletedAt": null
+  }
+}

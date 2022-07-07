@@ -1,0 +1,57 @@
+{
+  "createdAt": "2021-01-26T18:08:35.000Z",
+  "updatedAt": "2022-05-31T19:05:13.000Z",
+  "checkedAt": "2022-05-31T19:05:12.000Z",
+  "id": 5931,
+  "type": "anime",
+  "title": "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+  "altTitle": [
+    "Marina the Manga Artist Goes to Camelot",
+    "Camelot",
+    "愛と剣のキャメロット まんが家マリナ タイムスリップ事件"
+  ],
+  "url": "https://myanimelist.net/anime/5931/Ai_to_Ken_no_Camelot__Mangaka_Marina_Time_Slip_Jiken",
+  "image": "https://cdn.myanimelist.net/images/anime/9/57437.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4006"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3307"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%93%E3%81%8C%E5%AE%B6%E3%83%9E%E3%83%AA%E3%83%8A%E3%83%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#.E6.98.A0.E7.94.BB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4006,
+  "Pages": {
+    "9anime": {
+      "7vx1": {
+        "createdAt": "2021-01-26T18:11:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34248,
+        "identifier": "7vx1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+        "url": "https://9anime.to/watch/camelot.7vx1",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/11/b76b0a16919a9b23f259c8133ee82cfe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5931,
+        "aniId": 5931,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "createdAt": "2021-07-04T03:14:10.000Z",
+  "updatedAt": "2021-07-04T03:29:50.000Z",
+  "checkedAt": null,
+  "id": 37644,
+  "identifier": "waga-seishun-no-arcadia-mugen-kidou-ssx",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+  "url": "https://gogoanime.pe/category/waga-seishun-no-arcadia-mugen-kidou-ssx",
+  "image": "https://gogocdn.net/cover/waga-seishun-no-arcadia-mugen-kidou-ssx.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2203,
+  "aniId": 2203,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-14T18:26:11.000Z",
+    "checkedAt": "2022-05-14T18:26:11.000Z",
+    "id": 2203,
+    "type": "anime",
+    "title": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+    "altTitle": [
+      "Arcadia of My Youth: Endless Orbit SSX",
+      "Albator 84",
+      "Arcadia of My Youth: Infinite Course SSX",
+      "Harlock 84",
+      "My Youth in Arcadia: Endless Road SSX",
+      "Endless Orbit SSX",
+      "わが青春のアルカディア・無限軌道ＳＳＸ"
+    ],
+    "url": "https://myanimelist.net/anime/2203/Waga_Seishun_no_Arcadia__Mugen_Kidou_SSX",
+    "image": "https://cdn.myanimelist.net/images/anime/1541/92869.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=726"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3452"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Arcadia_of_My_Youth"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-277988"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 726
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:13.000Z",
+    "updatedAt": "2022-05-15T20:32:35.000Z",
+    "checkedAt": "2022-05-15T20:32:35.000Z",
+    "id": 2203,
+    "type": "anime",
+    "title": "Waga Seishun no Arcadia: Mugen Kidou SSX",
+    "altTitle": [
+      "Captain Harlock: Arcadia of my Youth - Endless Orbit SSX",
+      "わが青春のアルカディア・無限軌道ＳＳＸ",
+      "Arcadia of My Youth: Endless Orbit SSX",
+      "Albator 84",
+      "Arcadia of My Youth: Infinite Course SSX",
+      "Harlock 84"
+    ],
+    "url": "https://anilist.co/anime/2203",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2203-2SKplVCINxKb.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/captain-harlock-arcadia-of-my-youth-endless-orbit-ssx"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GR5PD24QR/Captain-Harlock-Arcadia-of-my-Youth-Endless-Orbit-SSX"
+      }
+    ],
+    "malId": 2203,
+    "deletedAt": null
+  }
+}

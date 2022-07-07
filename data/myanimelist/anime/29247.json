@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2022-04-03T03:34:35.000Z",
+  "checkedAt": null,
+  "id": 29247,
+  "type": "anime",
+  "title": "Kiki to Lala no Habatake! Pegasus",
+  "altTitle": [
+    "キキとララのはばたけ!ペガサス"
+  ],
+  "url": "https://myanimelist.net/anime/29247/Kiki_to_Lala_no_Habatake_Pegasus",
+  "image": "https://cdn.myanimelist.net/images/anime/5/70349.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kitty-movieworld.jp/search/character/8afa44ff920c4aa794da9d98e3f839c9"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8237"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8237,
+  "Pages": {
+    "9anime": {
+      "kvzv": {
+        "createdAt": "2021-05-19T08:01:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 37031,
+        "identifier": "kvzv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiki to Lala no Habatake! Pegasus",
+        "url": "https://9anime.to/watch/kiki-to-lala-no-habatake-pegasus.kvzv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fc/fc2fa0fede09a42df132a03681f861f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29247,
+        "aniId": 120592,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "29247": {
+        "identifier": "29247",
+        "malId": 29247,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kiki to Lala no Habatake! Pegasus",
+        "url": "https://animixplay.to/anime/29247"
+      }
+    },
+    "YugenAnime": {
+      "4081": {
+        "identifier": "4081",
+        "malId": 29247,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kiki to Lala no Habatake! Pegasus",
+        "url": "https://yugen.to/anime/4081/kiki-to-lala-no-habatake-pegasus/"
+      }
+    }
+  }
+}

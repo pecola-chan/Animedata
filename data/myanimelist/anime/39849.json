@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T16:54:02.000Z",
+  "checkedAt": "2022-05-14T16:54:02.000Z",
+  "id": 39849,
+  "type": "anime",
+  "title": "Kyouryuu Shoujo Gauko",
+  "altTitle": [
+    "Dino Girl Gauko",
+    "恐竜少女ガウ子"
+  ],
+  "url": "https://myanimelist.net/anime/39849/Kyouryuu_Shoujo_Gauko",
+  "image": "https://cdn.myanimelist.net/images/anime/1158/101098.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14927"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22603"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14927,
+  "Pages": {
+    "9anime": {
+      "9vwx": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4462,
+        "identifier": "9vwx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dino Girl Gauko",
+        "url": "https://9anime.to/watch/dino-girl-gauko.9vwx",
+        "image": "https://static.akacdn.ru/files/images/2019/11/853f1f02e4ed5558edcb87c962f81bcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39849,
+        "aniId": 109639,
+        "deletedAt": null
+      },
+      "xk4v": {
+        "createdAt": "2020-10-12T15:56:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10256,
+        "identifier": "xk4v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dino Girl Gauko (Dub)",
+        "url": "https://9anime.to/watch/dino-girl-gauko-dub.xk4v",
+        "image": "https://static.akacdn.ru/files/images/7/76/7604b8c27e2e5f8200bcd34c4c943f1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39849,
+        "aniId": 109639,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3974": {
+        "identifier": "3974",
+        "malId": 39849,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyouryuu Shoujo Gauko",
+        "url": "https://animepahe.com/a/3974"
+      }
+    },
+    "AniMixPlay": {
+      "39849": {
+        "identifier": "39849",
+        "malId": 39849,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyouryuu Shoujo Gauko",
+        "url": "https://animixplay.to/anime/39849"
+      }
+    },
+    "YugenAnime": {
+      "4480": {
+        "identifier": "4480",
+        "malId": 39849,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyouryuu Shoujo Gauko",
+        "url": "https://yugen.to/anime/4480/kyouryuu-shoujo-gauko/"
+      }
+    }
+  }
+}

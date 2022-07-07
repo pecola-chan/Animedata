@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-15T00:55:29.000Z",
+  "checkedAt": "2022-05-15T00:55:29.000Z",
+  "id": 8500,
+  "type": "anime",
+  "title": "Haguregumo",
+  "altTitle": [
+    "Wandering Clouds",
+    "浮浪雲"
+  ],
+  "url": "https://myanimelist.net/anime/8500/Haguregumo",
+  "image": "https://cdn.myanimelist.net/images/anime/1827/94766.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1983-1973/works_movie_hagure.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2272"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3648"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haguregumo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2272,
+  "Pages": {
+    "9anime": {
+      "403k": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2028,
+        "identifier": "403k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haguregumo",
+        "url": "https://9anime.to/watch/haguregumo.403k",
+        "image": "https://static.akacdn.ru/files/images/2018/04/f3a12871d031299625e8095f53fb0bbd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8500,
+        "aniId": 8500,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "haguregumo": {
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18088,
+        "identifier": "haguregumo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Haguregumo",
+        "url": "https://gogoanime.vc/category/haguregumo",
+        "image": "https://gogocdn.net/cover/haguregumo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8500,
+        "aniId": 8500,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8500": {
+        "identifier": "8500",
+        "malId": 8500,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Haguregumo",
+        "url": "https://animixplay.to/anime/8500"
+      }
+    },
+    "YugenAnime": {
+      "174": {
+        "identifier": "174",
+        "malId": 8500,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Haguregumo",
+        "url": "https://yugen.to/anime/174/haguregumo/"
+      }
+    }
+  }
+}

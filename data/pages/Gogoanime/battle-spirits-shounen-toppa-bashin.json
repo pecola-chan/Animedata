@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:59:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16754,
+  "identifier": "battle-spirits-shounen-toppa-bashin",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Battle Spirits: Shounen Toppa Bashin",
+  "url": "https://gogoanime.vc/category/battle-spirits-shounen-toppa-bashin",
+  "image": "https://cdnimg.xyz/cover/battle-spirits-shounen-toppa-bashin.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5082,
+  "aniId": 5082,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:45.000Z",
+    "updatedAt": "2022-05-14T22:00:53.000Z",
+    "checkedAt": "2022-05-14T22:00:53.000Z",
+    "id": 5082,
+    "type": "anime",
+    "title": "Battle Spirits: Shounen Toppa Bashin",
+    "altTitle": [
+      "Battle Spirits: Shonen Toppa Bashin",
+      "Battle Spirits Season 1",
+      "バトルスピリッツ 少年突破バシン"
+    ],
+    "url": "https://myanimelist.net/anime/5082/Battle_Spirits__Shounen_Toppa_Bashin",
+    "image": "https://cdn.myanimelist.net/images/anime/7/21150.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nagoyatv.com/battlespirits/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6069"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10088"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6069
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:43.000Z",
+    "updatedAt": "2022-05-15T19:53:59.000Z",
+    "checkedAt": "2022-05-15T19:53:59.000Z",
+    "id": 5082,
+    "type": "anime",
+    "title": "Battle Spirits: Shounen Toppa Bashin",
+    "altTitle": [
+      "バトルスピリッツ 少年突破バシン",
+      "Battle Spirits: Shonen Toppa Version",
+      "Shounen Toppa Bashin"
+    ],
+    "url": "https://anilist.co/anime/5082",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5082-TPZqtEmnSqSx.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5082,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T17:25:52.000Z",
+  "checkedAt": "2022-05-14T17:25:52.000Z",
+  "id": 1571,
+  "type": "anime",
+  "title": "Ghost Hunt",
+  "altTitle": [
+    "Ghost Hunt",
+    "ゴーストハント"
+  ],
+  "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+  "image": "https://cdn.myanimelist.net/images/anime/11/73908.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ghosthunt.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4564"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6817"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ghost_Hunt_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/ghost-hunt"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4564,
+  "Pages": {
+    "9anime": {
+      "6xv7": {
+        "createdAt": "2020-10-12T15:50:55.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3246,
+        "identifier": "6xv7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ghost Hunt",
+        "url": "https://9anime.to/watch/ghost-hunt.6xv7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qmtwi3RUdAM/V9omUdZlXHI/AAAAAAAA-JI/djEcRxlCcQY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1571,
+        "aniId": 1571,
+        "deletedAt": null
+      },
+      "prx9": {
+        "createdAt": "2020-10-12T15:54:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8116,
+        "identifier": "prx9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ghost Hunt (Dub)",
+        "url": "https://9anime.to/watch/ghost-hunt-dub.prx9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Yxv0CVLYsEo/V5eW9hxK4RI/AAAAAAAAyN0/BcWlmtT028w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1571,
+        "aniId": 1571,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ghost-hunt": {
+        "createdAt": "2020-10-12T16:00:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17849,
+        "identifier": "ghost-hunt",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ghost Hunt",
+        "url": "https://gogoanime.vc/category/ghost-hunt",
+        "image": "https://cdnimg.xyz/images/anime/G/ghost-hunt.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1571,
+        "aniId": 1571,
+        "deletedAt": null
+      },
+      "ghost-hunt-dub": {
+        "createdAt": "2020-10-12T16:00:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17850,
+        "identifier": "ghost-hunt-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ghost Hunt (Dub)",
+        "url": "https://gogoanime.vc/category/ghost-hunt-dub",
+        "image": "https://cdnimg.xyz/cover/ghost-hunt-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1571,
+        "aniId": 1571,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "751": {
+        "identifier": "751",
+        "malId": 1571,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ghost Hunt",
+        "url": "https://animepahe.com/a/751"
+      }
+    },
+    "AniMixPlay": {
+      "1571": {
+        "identifier": "1571",
+        "malId": 1571,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ghost Hunt",
+        "url": "https://animixplay.to/anime/1571"
+      }
+    },
+    "YugenAnime": {
+      "1748": {
+        "identifier": "1748",
+        "malId": 1571,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ghost Hunt",
+        "url": "https://yugen.to/anime/1748/ghost-hunt/"
+      }
+    }
+  }
+}

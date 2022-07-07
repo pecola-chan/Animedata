@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T09:27:31.000Z",
+  "checkedAt": "2022-05-14T09:27:31.000Z",
+  "id": 35840,
+  "type": "anime",
+  "title": "Hataraku Saibou",
+  "altTitle": [
+    "Cells at Work!",
+    "はたらく細胞"
+  ],
+  "url": "https://myanimelist.net/anime/35840/Hataraku_Saibou",
+  "image": "https://cdn.myanimelist.net/images/anime/4/86588.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://twitter.com/hataraku_saibou/status/880621970861178880"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cells_at_Work!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/cells-at-work"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "z49p": {
+        "createdAt": "2020-10-12T15:57:05.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 11009,
+        "identifier": "z49p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cells at Work!",
+        "url": "https://9anime.to/watch/cells-at-work.z49p",
+        "image": "http://static.akacdn.ru/static/images/2018/04/ea6c6d4ff4eab35aeacec8975ad6a03e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35840,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "6364": {
+        "identifier": "6364",
+        "malId": 35840,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hataraku Saibou",
+        "url": "https://yugen.to/anime/6364/hataraku-saibou/"
+      }
+    }
+  }
+}

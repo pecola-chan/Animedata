@@ -1,0 +1,130 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T17:33:34.000Z",
+  "checkedAt": "2022-05-14T17:33:34.000Z",
+  "id": 5042,
+  "type": "anime",
+  "title": "Kiss x Sis",
+  "altTitle": [
+    "Kissxsis",
+    "キス×シス"
+  ],
+  "url": "https://myanimelist.net/anime/5042/Kiss_x_Sis",
+  "image": "https://cdn.myanimelist.net/images/anime/1966/121554.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/kiss_sis/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6083"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10194"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kissxsis"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6083,
+  "Pages": {
+    "9anime": {
+      "1ojp": {
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1057,
+        "identifier": "1ojp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiss x Sis",
+        "url": "https://9anime.to/watch/kiss-x-sis.1ojp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bDh2y69qWDs/V-bKvuTsGeI/AAAAAAABAns/wVNpTF4d4Os/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5042,
+        "aniId": 5042,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kissxsis": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2022-03-15T23:01:56.000Z",
+        "checkedAt": null,
+        "id": 18881,
+        "identifier": "kissxsis",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "KissXSis",
+        "url": "https://gogoanime.fi/category/kissxsis",
+        "image": "https://gogocdn.net/images/anime/K/KissXSis-OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5042,
+        "aniId": 5042,
+        "deletedAt": null
+      },
+      "kissxsis-ova": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18882,
+        "identifier": "kissxsis-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "KissXSis OVA",
+        "url": "https://gogoanime.vc/category/kissxsis-ova",
+        "image": "https://images.gogoanime.tv/images/anime/K/KissXSis-OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5042,
+        "aniId": 5042,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1128": {
+        "identifier": "1128",
+        "malId": 5042,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kiss x Sis",
+        "url": "https://animepahe.com/a/1128"
+      }
+    },
+    "AniMixPlay": {
+      "5042": {
+        "identifier": "5042",
+        "malId": 5042,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kiss x Sis",
+        "url": "https://animixplay.to/anime/5042"
+      }
+    },
+    "YugenAnime": {
+      "9005": {
+        "identifier": "9005",
+        "malId": 5042,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kiss x Sis",
+        "url": "https://yugen.to/anime/9005/kiss-x-sis/"
+      }
+    }
+  }
+}

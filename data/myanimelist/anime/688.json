@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T22:47:05.000Z",
+  "checkedAt": "2022-05-14T22:47:05.000Z",
+  "id": 688,
+  "type": "anime",
+  "title": "Uta∽Kata",
+  "altTitle": [
+    "Uta-Kata",
+    "Uta~Kata",
+    "One~Song",
+    "Poem~Piece",
+    "Poem Fragment",
+    "Utakata",
+    "うた∽かた"
+  ],
+  "url": "https://myanimelist.net/anime/688/Uta∽Kata",
+  "image": "https://cdn.myanimelist.net/images/anime/3/25392.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.uta-kata.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2481"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4444"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Uta_Kata"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/utakata"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2481,
+  "Pages": {
+    "9anime": {
+      "pmvx": {
+        "createdAt": "2020-10-12T15:54:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8005,
+        "identifier": "pmvx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uta Kata",
+        "url": "https://9anime.to/watch/uta-kata.pmvx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Yo3J9Siu0V8/V8GjdGLwxlI/AAAAAAAA55o/hmBMM_QhxTc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 688,
+        "aniId": 688,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uta-kata": {
+        "createdAt": "2021-01-14T01:40:03.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33634,
+        "identifier": "uta-kata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uta Kata",
+        "url": "https://gogoanime.vc/category/uta-kata",
+        "image": "https://gogocdn.net/images/anime/U/uta-kata.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 688,
+        "aniId": 688,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "688": {
+        "identifier": "688",
+        "malId": 688,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uta∽Kata",
+        "url": "https://animixplay.to/anime/688"
+      }
+    },
+    "YugenAnime": {
+      "481": {
+        "identifier": "481",
+        "malId": 688,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uta∽Kata",
+        "url": "https://yugen.to/anime/481/uta-kata/"
+      }
+    }
+  }
+}

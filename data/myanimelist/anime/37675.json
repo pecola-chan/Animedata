@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-13T22:07:18.000Z",
+  "checkedAt": "2022-05-13T22:07:18.000Z",
+  "id": 37675,
+  "type": "anime",
+  "title": "Overlord III",
+  "altTitle": [
+    "Overlord III",
+    "オーバーロードⅢ"
+  ],
+  "url": "https://myanimelist.net/anime/37675/Overlord_III",
+  "image": "https://cdn.myanimelist.net/images/anime/1511/93473.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://overlord-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14008"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21105"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Overlord_(novel_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273203"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14008,
+  "Pages": {
+    "9anime": {
+      "lq0z": {
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2022-05-26T01:30:21.000Z",
+        "checkedAt": "2022-05-26T01:30:21.000Z",
+        "id": 6154,
+        "identifier": "lq0z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Overlord III (Dub)",
+        "url": "https://9anime.to/watch/overlord-iii-dub.lq0z",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/07/ca9d0bc896649365755d4ef0d9db7abb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37675,
+        "aniId": 101474,
+        "deletedAt": null
+      },
+      "mw7x": {
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2022-06-14T02:00:44.000Z",
+        "checkedAt": "2022-06-14T02:00:44.000Z",
+        "id": 6786,
+        "identifier": "mw7x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Overlord III",
+        "url": "https://9anime.to/watch/overlord-iii.mw7x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/525a79c1471e99a35381032750841eaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37675,
+        "aniId": 101474,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "overlord-iii": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19971,
+        "identifier": "overlord-iii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Overlord III",
+        "url": "https://gogoanime.vc/category/overlord-iii",
+        "image": "https://cdnimg.xyz/cover/overlord-iii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37675,
+        "aniId": 101474,
+        "deletedAt": null
+      },
+      "overlord-iii-dub": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19972,
+        "identifier": "overlord-iii-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Overlord III (Dub)",
+        "url": "https://gogoanime.vc/category/overlord-iii-dub",
+        "image": "https://cdnimg.xyz/cover/overlord-iii-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37675,
+        "aniId": 101474,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2602": {
+        "identifier": "2602",
+        "malId": 37675,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Overlord III",
+        "url": "https://animepahe.com/a/2602"
+      }
+    },
+    "AniMixPlay": {
+      "37675": {
+        "identifier": "37675",
+        "malId": 37675,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Overlord III",
+        "url": "https://animixplay.to/anime/37675"
+      }
+    },
+    "YugenAnime": {
+      "2084": {
+        "identifier": "2084",
+        "malId": 37675,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Overlord III",
+        "url": "https://yugen.to/anime/2084/overlord-iii/"
+      }
+    }
+  }
+}

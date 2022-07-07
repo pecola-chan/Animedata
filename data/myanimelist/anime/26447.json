@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-09-24T21:45:43.000Z",
+  "updatedAt": "2022-05-30T09:27:00.000Z",
+  "checkedAt": "2022-05-30T09:27:00.000Z",
+  "id": 26447,
+  "type": "anime",
+  "title": "Uchuusen Sagittarius Pilot",
+  "altTitle": [
+    "Spaceship Sagittarius Pilot",
+    "The Space Sagittarius Pilot",
+    "宇宙船サジタリウス"
+  ],
+  "url": "https://myanimelist.net/anime/26447/Uchuusen_Sagittarius_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/4/66367.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/uchusen_sagittarius.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1833"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Uch%C5%ABsen_Sagittarius"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1833,
+  "Pages": {
+    "9anime": {
+      "p034": {
+        "createdAt": "2021-09-24T21:45:28.000Z",
+        "updatedAt": "2021-09-24T21:45:43.000Z",
+        "checkedAt": null,
+        "id": 38728,
+        "identifier": "p034",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuusen Sagittarius Pilot",
+        "url": "https://9anime.to/watch/uchuusen-sagittarius-pilot.p034",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/08/56f560680de1310edf704ab8db5436ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26447,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "26447": {
+        "identifier": "26447",
+        "malId": 26447,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuusen Sagittarius Pilot",
+        "url": "https://animixplay.to/anime/26447"
+      }
+    },
+    "YugenAnime": {
+      "2207": {
+        "identifier": "2207",
+        "malId": 26447,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uchuusen Sagittarius Pilot",
+        "url": "https://yugen.to/anime/2207/uchuusen-sagittarius-pilot/"
+      }
+    }
+  }
+}

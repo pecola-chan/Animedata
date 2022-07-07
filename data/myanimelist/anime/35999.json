@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-16T07:04:18.000Z",
+  "checkedAt": "2022-05-16T07:04:18.000Z",
+  "id": 35999,
+  "type": "anime",
+  "title": "Dia Horizon (Kabu)",
+  "altTitle": [
+    "ディアホライゾン（被）"
+  ],
+  "url": "https://myanimelist.net/anime/35999/Dia_Horizon_Kabu",
+  "image": "https://cdn.myanimelist.net/images/anime/6/87933.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://portal.dia-horizon.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13311"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%9B%E3%83%A9%E3%82%A4%E3%82%BE%E3%83%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13311,
+  "Pages": {
+    "9anime": {
+      "6o59": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3102,
+        "identifier": "6o59",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dia Horizon (Kabu)",
+        "url": "https://9anime.to/watch/dia-horizon-kabu.6o59",
+        "image": "https://static.akacdn.ru/static/images/2018/04/39ace2e8a52ee3d3782c9794277e1ca5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35999,
+        "aniId": 99636,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T14:41:53.000Z",
+  "checkedAt": "2022-05-14T14:41:53.000Z",
+  "id": 41467,
+  "type": "anime",
+  "title": "Bleach: Sennen Kessen-hen",
+  "altTitle": [
+    "Bleach: Thousand-Year Blood War Arc",
+    "Bleach: Thousand-Year Blood War",
+    "BLEACH 千年血戦篇"
+  ],
+  "url": "https://myanimelist.net/anime/41467/Bleach__Sennen_Kessen-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1256/120125.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bleach-20th-anniversary.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15449"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=25066"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bleach_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15449,
+  "Pages": {
+    "9anime": {
+      "w190l": {
+        "createdAt": "2021-08-10T03:10:47.000Z",
+        "updatedAt": "2021-08-10T07:09:15.000Z",
+        "checkedAt": null,
+        "id": 38191,
+        "identifier": "w190l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bleach: Sennen Kessen-hen",
+        "url": "https://9anime.to/watch/bleach-ex.w190l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/38/389818531f49efcf3d0bb144ca52c4d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41467,
+        "aniId": 116674,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41467": {
+        "identifier": "41467",
+        "malId": 41467,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bleach: Sennen Kessen-hen",
+        "url": "https://animixplay.to/anime/41467"
+      }
+    }
+  }
+}

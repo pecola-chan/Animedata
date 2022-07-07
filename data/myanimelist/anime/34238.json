@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-15T07:21:33.000Z",
+  "checkedAt": "2022-05-15T07:21:33.000Z",
+  "id": 34238,
+  "type": "anime",
+  "title": "Osomatsu-san: Ouma de Kobanashi",
+  "altTitle": [
+    "おそ松さん おうまでこばなし"
+  ],
+  "url": "https://myanimelist.net/anime/34238/Osomatsu-san__Ouma_de_Kobanashi",
+  "image": "https://cdn.myanimelist.net/images/anime/6/89191.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/osomatsusan/oumatsusan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12472"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12472,
+  "Pages": {
+    "9anime": {
+      "m4r8": {
+        "createdAt": "2020-10-12T15:53:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6401,
+        "identifier": "m4r8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Osomatsu-san: Ouma de Kobanashi",
+        "url": "https://9anime.to/watch/osomatsu-san-ouma-de-kobanashi.m4r8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-15f3h3wPb9k/WE9JnLRoTdI/AAAAAAABSds/TN4lQb-AckI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34238,
+        "aniId": 97915,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "osomatsu-san-ouma-de-kobanashi": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19945,
+        "identifier": "osomatsu-san-ouma-de-kobanashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Osomatsu-san: Ouma de Kobanashi",
+        "url": "https://gogoanime.vc/category/osomatsu-san-ouma-de-kobanashi",
+        "image": "https://cdnimg.xyz/cover/osomatsu-san-ouma-de-kobanashi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34238,
+        "aniId": 97915,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1601": {
+        "identifier": "1601",
+        "malId": 34238,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Osomatsu-san: Ouma de Kobanashi",
+        "url": "https://animepahe.com/a/1601"
+      }
+    },
+    "AniMixPlay": {
+      "34238": {
+        "identifier": "34238",
+        "malId": 34238,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Osomatsu-san: Ouma de Kobanashi",
+        "url": "https://animixplay.to/anime/34238"
+      }
+    },
+    "YugenAnime": {
+      "5897": {
+        "identifier": "5897",
+        "malId": 34238,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Osomatsu-san: Ouma de Kobanashi",
+        "url": "https://yugen.to/anime/5897/osomatsu-san-ouma-de-kobanashi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T18:58:23.000Z",
+  "checkedAt": "2022-05-14T18:58:23.000Z",
+  "id": 1747,
+  "type": "anime",
+  "title": "Freedom",
+  "altTitle": [
+    "Freedom",
+    "FREEDOM"
+  ],
+  "url": "https://myanimelist.net/anime/1747/Freedom",
+  "image": "https://cdn.myanimelist.net/images/anime/4/50511.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://freedom-project.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4708"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6769"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Freedom_Project"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4708,
+  "Pages": {
+    "9anime": {
+      "m45z": {
+        "createdAt": "2020-10-12T15:53:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6384,
+        "identifier": "m45z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "FREEDOM",
+        "url": "https://9anime.to/watch/freedom.m45z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eLx4BpaOhJg/WDcAxNvySOI/AAAAAAABQQ4/ZfFgisaZG78/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1747,
+        "aniId": 1747,
+        "deletedAt": null
+      },
+      "yx21": {
+        "createdAt": "2020-10-12T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10892,
+        "identifier": "yx21",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Freedom (Dub)",
+        "url": "https://9anime.to/watch/freedom-dub.yx21",
+        "image": "https://static.akacdn.ru/files/images/2018/04/bdc2a4bd189505de75540ed70771184e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1747,
+        "aniId": 1747,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "freedom": {
+        "createdAt": "2022-03-02T08:40:39.000Z",
+        "updatedAt": "2022-03-02T09:10:28.000Z",
+        "checkedAt": null,
+        "id": 40361,
+        "identifier": "freedom",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Freedom",
+        "url": "https://gogoanime.fi/category/freedom",
+        "image": "https://gogocdn.net/cover/freedom.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1747,
+        "aniId": 1747,
+        "deletedAt": null
+      },
+      "freedom-dub": {
+        "createdAt": "2022-03-02T17:10:39.000Z",
+        "updatedAt": "2022-03-02T17:40:28.000Z",
+        "checkedAt": null,
+        "id": 40364,
+        "identifier": "freedom-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Freedom (Dub)",
+        "url": "https://gogoanime.fi/category/freedom-dub",
+        "image": "https://gogocdn.net/cover/freedom-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1747,
+        "aniId": 1747,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1747": {
+        "identifier": "1747",
+        "malId": 1747,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Freedom",
+        "url": "https://animixplay.to/anime/1747"
+      }
+    },
+    "YugenAnime": {
+      "11757": {
+        "identifier": "11757",
+        "malId": 1747,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Freedom",
+        "url": "https://yugen.to/anime/11757/freedom/"
+      }
+    }
+  }
+}

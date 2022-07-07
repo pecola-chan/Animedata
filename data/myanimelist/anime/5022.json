@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-15T07:25:16.000Z",
+  "checkedAt": "2022-05-15T07:25:16.000Z",
+  "id": 5022,
+  "type": "anime",
+  "title": "Toushi Gordian",
+  "altTitle": [
+    "Toshi Gordian",
+    "Champion of Gordian",
+    "Gardian",
+    "Champion Gordian",
+    "Fighter Gordian",
+    "Gordian Warrior",
+    "闘士ゴーディアン"
+  ],
+  "url": "https://myanimelist.net/anime/5022/Toushi_Gordian",
+  "image": "https://cdn.myanimelist.net/images/anime/1898/110642.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1816"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2234"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/T%C5%8Dshi_Gordian"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1816,
+  "Pages": {
+    "9anime": {
+      "992q": {
+        "createdAt": "2020-10-12T15:51:46.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4273,
+        "identifier": "992q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gordian Warrior",
+        "url": "https://9anime.to/watch/gordian-warrior.992q",
+        "image": "https://static.akacdn.ru/static/images/2018/04/93611456a5dbf72ab10e6768d8665a81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5022,
+        "aniId": 5022,
+        "deletedAt": null
+      }
+    }
+  }
+}

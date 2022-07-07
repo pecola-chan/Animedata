@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T16:54:26.000Z",
+  "checkedAt": "2022-05-14T16:54:26.000Z",
+  "id": 21273,
+  "type": "anime",
+  "title": "Gochuumon wa Usagi Desu ka?",
+  "altTitle": [
+    "GochiUsa",
+    "Is the Order a Rabbit?",
+    "ご注文はうさぎですか？"
+  ],
+  "url": "https://myanimelist.net/anime/21273/Gochuumon_wa_Usagi_Desu_ka",
+  "image": "https://cdn.myanimelist.net/images/anime/6/79600.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gochiusa.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10262"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15718"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Is_the_Order_a_Rabbit%3F"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10262,
+  "Pages": {
+    "9anime": {
+      "17m": {
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 886,
+        "identifier": "17m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Is the order a rabbit?",
+        "url": "https://9anime.to/watch/is-the-order-a-rabbit.17m",
+        "image": "https://static.akacdn.ru/static/images/2018/04/0c2ab3f7ab061a8c014b1dbe8788b28f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21273,
+        "aniId": 20517,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gochuumon-wa-usagi-desuka-": {
+        "createdAt": "2020-10-12T16:00:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17940,
+        "identifier": "gochuumon-wa-usagi-desuka-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gochuumon wa Usagi Desuka ?",
+        "url": "https://gogoanime.vc/category/gochuumon-wa-usagi-desuka-",
+        "image": "https://gogocdn.net/images/spring/Gochuumon wa Usagi Desuka.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21273,
+        "aniId": 20517,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "365": {
+        "identifier": "365",
+        "malId": 21273,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gochuumon wa Usagi Desu ka?",
+        "url": "https://animepahe.com/a/365"
+      }
+    },
+    "AniMixPlay": {
+      "21273": {
+        "identifier": "21273",
+        "malId": 21273,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gochuumon wa Usagi Desu ka?",
+        "url": "https://animixplay.to/anime/21273"
+      }
+    }
+  }
+}

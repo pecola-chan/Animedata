@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-14T19:14:53.000Z",
+  "checkedAt": "2022-05-14T19:14:53.000Z",
+  "id": 5162,
+  "type": "anime",
+  "title": "Minami-ke Okaeri",
+  "altTitle": [
+    "みなみけ おかえり"
+  ],
+  "url": "https://myanimelist.net/anime/5162/Minami-ke_Okaeri",
+  "image": "https://cdn.myanimelist.net/images/anime/10/11458.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/minami-ke/3/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6219"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10388"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Minami-ke"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6219,
+  "Pages": {
+    "9anime": {
+      "5ky0": {
+        "createdAt": "2020-10-12T15:50:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2658,
+        "identifier": "5ky0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minami-ke Okaeri",
+        "url": "https://9anime.to/watch/minami-ke-okaeri.5ky0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ykYt0JHU88Y/V6Nrqu3UTII/AAAAAAAA0Uk/7Ty2NtNLjV4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5162,
+        "aniId": 5162,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "-minami-ke-okaeri-": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16303,
+        "identifier": "-minami-ke-okaeri-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Minami-ke: Okaeri ",
+        "url": "https://gogoanime.vc/category/-minami-ke-okaeri-",
+        "image": "https://gogocdn.net/images/anime/M/Minami-ke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5162,
+        "aniId": 5162,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1191": {
+        "identifier": "1191",
+        "malId": 5162,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Minami-ke Okaeri",
+        "url": "https://animepahe.com/a/1191"
+      }
+    },
+    "AniMixPlay": {
+      "5162": {
+        "identifier": "5162",
+        "malId": 5162,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Minami-ke Okaeri",
+        "url": "https://animixplay.to/anime/5162"
+      }
+    },
+    "YugenAnime": {
+      "122": {
+        "identifier": "122",
+        "malId": 5162,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Minami-ke Okaeri",
+        "url": "https://yugen.to/anime/122/minami-ke-okaeri/"
+      }
+    }
+  }
+}

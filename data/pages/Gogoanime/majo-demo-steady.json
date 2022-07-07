@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-12-17T01:54:44.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 30348,
+  "identifier": "majo-demo-steady",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Majo demo Steady",
+  "url": "https://gogoanime.vc/category/majo-demo-steady",
+  "image": "https://gogocdn.net/cover/majo-demo-steady.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8889,
+  "aniId": 8889,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:00.000Z",
+    "updatedAt": "2022-05-14T19:43:59.000Z",
+    "checkedAt": "2022-05-14T19:43:59.000Z",
+    "id": 8889,
+    "type": "anime",
+    "title": "Majo demo Steady",
+    "altTitle": [
+      "My Steady Is a Witch",
+      "魔女でもステディ"
+    ],
+    "url": "https://myanimelist.net/anime/8889/Majo_demo_Steady",
+    "image": "https://cdn.myanimelist.net/images/anime/7/24678.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5078"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7079"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Miki_Tori#Manga"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5078
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:02.000Z",
+    "updatedAt": "2022-05-15T21:59:59.000Z",
+    "checkedAt": "2022-05-15T21:59:59.000Z",
+    "id": 8889,
+    "type": "anime",
+    "title": "Majo Demo Steady",
+    "altTitle": [
+      "魔女でもステディ"
+    ],
+    "url": "https://anilist.co/anime/8889",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8889.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8889,
+    "deletedAt": null
+  }
+}

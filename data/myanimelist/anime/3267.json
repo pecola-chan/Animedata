@@ -1,0 +1,65 @@
+{
+  "createdAt": "2021-03-11T18:39:26.000Z",
+  "updatedAt": "2022-05-15T02:01:18.000Z",
+  "checkedAt": "2022-05-15T02:01:18.000Z",
+  "id": 3267,
+  "type": "anime",
+  "title": "Kingdom of Chaos: Born to Kill",
+  "altTitle": [
+    "キングダム・オブ・カオス 〜ボーン・トゥー・キル〜"
+  ],
+  "url": "https://myanimelist.net/anime/3267/Kingdom_of_Chaos__Born_to_Kill",
+  "image": "https://cdn.myanimelist.net/images/anime/2/23753.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ideaf.co.jp/anime/b2k/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1252"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3513"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1252,
+  "Pages": {
+    "9anime": {
+      "74py": {
+        "createdAt": "2021-03-22T16:38:46.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35849,
+        "identifier": "74py",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kingdom of Chaos: Born to Kill",
+        "url": "https://9anime.to/watch/kingdom-of-chaos-born-to-kill.74py",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/72/72954ea7ba62c38475857e75899b75fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3267,
+        "aniId": 3267,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "2938": {
+        "identifier": "2938",
+        "malId": 3267,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kingdom of Chaos: Born to Kill",
+        "url": "https://yugen.to/anime/2938/king-of-thorn/"
+      }
+    }
+  }
+}

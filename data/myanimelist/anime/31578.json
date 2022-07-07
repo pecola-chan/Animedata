@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-14T18:18:11.000Z",
+  "checkedAt": "2022-05-14T18:18:11.000Z",
+  "id": 31578,
+  "type": "anime",
+  "title": "JK Meshi!",
+  "altTitle": [
+    "JK-MESHI!",
+    "ＪＫめし！"
+  ],
+  "url": "https://myanimelist.net/anime/31578/JK_Meshi",
+  "image": "https://cdn.myanimelist.net/images/anime/4/76261.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jkmeshi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11578"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17644"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268119"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11578,
+  "Pages": {
+    "9anime": {
+      "vv2": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9456,
+        "identifier": "vv2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "JK Meshi!",
+        "url": "https://9anime.to/watch/jk-meshi.vv2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nl1uoBla45Q/V2iicY576XI/AAAAAAAApjQ/eSiGkb9qYLY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31578,
+        "aniId": 21343,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jk-meshi-": {
+        "createdAt": "2020-10-24T15:58:58.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27886,
+        "identifier": "jk-meshi-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "JK Meshi!",
+        "url": "https://gogoanime.vc/category/jk-meshi-",
+        "image": "https://gogocdn.net/images/upload/76261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31578,
+        "aniId": 21343,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "13": {
+        "identifier": "13",
+        "malId": 31578,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "JK Meshi!",
+        "url": "https://animepahe.com/a/13"
+      }
+    },
+    "AniMixPlay": {
+      "31578": {
+        "identifier": "31578",
+        "malId": 31578,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "JK Meshi!",
+        "url": "https://animixplay.to/anime/31578"
+      }
+    },
+    "YugenAnime": {
+      "1436": {
+        "identifier": "1436",
+        "malId": 31578,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "JK Meshi!",
+        "url": "https://yugen.to/anime/1436/jk-meshi/"
+      }
+    }
+  }
+}

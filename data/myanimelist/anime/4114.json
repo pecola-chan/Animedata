@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-15T01:15:19.000Z",
+  "checkedAt": "2022-05-15T01:15:19.000Z",
+  "id": 4114,
+  "type": "anime",
+  "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+  "altTitle": [
+    "おねがいマイメロディ くるくるシャッフル！"
+  ],
+  "url": "https://myanimelist.net/anime/4114/Onegai_My_Melody__Kuru_Kuru_Shuffle",
+  "image": "https://cdn.myanimelist.net/images/anime/7/68499.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-osaka.co.jp/mymelo_kurukuru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4333"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6254"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/おねがいマイメロディ_〜くるくるシャッフル!〜"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4333,
+  "Pages": {
+    "9anime": {
+      "ol68": {
+        "createdAt": "2020-10-12T15:54:13.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7516,
+        "identifier": "ol68",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "url": "https://9anime.to/watch/onegai-my-melody-kuru-kuru-shuffle.ol68",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rI2qXjO-GJU/V7msTKAjBgI/AAAAAAAA4s8/8RURRvKporc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4114,
+        "aniId": 4114,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4114": {
+        "identifier": "4114",
+        "malId": 4114,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "url": "https://animixplay.to/anime/4114"
+      }
+    },
+    "YugenAnime": {
+      "1599": {
+        "identifier": "1599",
+        "malId": 4114,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "url": "https://yugen.to/anime/1599/onegai-my-melody-kuru-kuru-shuffle/"
+      }
+    }
+  }
+}

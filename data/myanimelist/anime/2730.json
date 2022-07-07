@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-15T01:36:59.000Z",
+  "checkedAt": "2022-05-15T01:36:59.000Z",
+  "id": 2730,
+  "type": "anime",
+  "title": "1+2=Paradise",
+  "altTitle": [
+    "１＋２＝パラダイス"
+  ],
+  "url": "https://myanimelist.net/anime/2730/1_2_Paradise",
+  "image": "https://cdn.myanimelist.net/images/anime/2/3679.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3978"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3226"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3978,
+  "Pages": {
+    "9anime": {
+      "7837": {
+        "createdAt": "2020-10-12T15:48:34.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 264,
+        "identifier": "7837",
+        "type": "anime",
+        "page": "9anime",
+        "title": "1+2=Paradise",
+        "url": "https://9anime.to/watch/12paradise.7837",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wdGVojnoKig/WOytwvp7_9I/AAAAAAAAhEw/HFnWcsTMoj0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2730,
+        "aniId": 2730,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2730": {
+        "identifier": "2730",
+        "malId": 2730,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "1+2=Paradise",
+        "url": "https://animixplay.to/anime/2730"
+      }
+    }
+  }
+}

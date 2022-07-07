@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T18:27:05.000Z",
+  "checkedAt": "2022-05-14T18:27:05.000Z",
+  "id": 24835,
+  "type": "anime",
+  "title": "Mobile Suit Gundam-san",
+  "altTitle": [
+    "Kidou Senshi Gundam-san",
+    "Gundam Sousei",
+    "機動戦士ガンダムさん"
+  ],
+  "url": "https://myanimelist.net/anime/24835/Mobile_Suit_Gundam-san",
+  "image": "https://cdn.myanimelist.net/images/anime/13/67549.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gundam-san.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10708"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16106"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%81%95%E3%82%93"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10708,
+  "Pages": {
+    "9anime": {
+      "90pn": {
+        "createdAt": "2020-10-12T15:51:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4136,
+        "identifier": "90pn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam-san",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-san.90pn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Qui2IyePOrU/V7O6AAFZujI/AAAAAAAA3os/dLrxCbG5NrI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24835,
+        "aniId": 20756,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mobile-suit-gundam-san": {
+        "createdAt": "2021-12-02T00:46:06.000Z",
+        "updatedAt": "2021-12-02T01:16:05.000Z",
+        "checkedAt": null,
+        "id": 39365,
+        "identifier": "mobile-suit-gundam-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mobile Suit Gundam-san",
+        "url": "https://gogoanime.cm/category/mobile-suit-gundam-san",
+        "image": "https://gogocdn.net/images/summer/gundam.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24835,
+        "aniId": 20756,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "24835": {
+        "identifier": "24835",
+        "malId": 24835,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam-san",
+        "url": "https://animixplay.to/anime/24835"
+      }
+    },
+    "YugenAnime": {
+      "4952": {
+        "identifier": "4952",
+        "malId": 24835,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit Gundam-san",
+        "url": "https://yugen.to/anime/4952/mobile-suit-gundam-san/"
+      }
+    }
+  }
+}

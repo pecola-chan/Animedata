@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-15T01:01:11.000Z",
+  "checkedAt": "2022-05-15T01:01:11.000Z",
+  "id": 5288,
+  "type": "anime",
+  "title": "RahXephon Specials",
+  "altTitle": [
+    "ラーゼフォン"
+  ],
+  "url": "https://myanimelist.net/anime/5288/RahXephon_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/9/13594.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mediafactory.co.jp/anime/rahxephon/onair/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rahxephon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14,
+  "Pages": {
+    "9anime": {
+      "v1k2": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9153,
+        "identifier": "v1k2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RahXephon Specials",
+        "url": "https://9anime.to/watch/rahxephon-specials.v1k2",
+        "image": "https://static.akacdn.ru/static/images/2019/03/ee539073b288660ad9b902a5c8654ae3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5288,
+        "aniId": 5288,
+        "deletedAt": null
+      }
+    }
+  }
+}

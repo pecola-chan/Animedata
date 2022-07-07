@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-04-02T17:02:42.000Z",
+  "checkedAt": null,
+  "id": 16728,
+  "type": "anime",
+  "title": "Tatakae!! Ramenman (Movie)",
+  "altTitle": [
+    "Ramenman (Movie)",
+    "Fight!! Ramenman: Light the Darkness!!",
+    "闘将!!拉麺男"
+  ],
+  "url": "https://myanimelist.net/anime/16728/Tatakae_Ramenman_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1760/96433.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2319"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3843"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86!!%E6%8B%89%E9%BA%BA%E7%94%B7"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2319,
+  "Pages": {
+    "9anime": {
+      "0wn5": {
+        "createdAt": "2020-10-12T15:48:54.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 692,
+        "identifier": "0wn5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tatakae!! Ramenman (Movie)",
+        "url": "https://9anime.to/watch/tatakae-ramenman-movie.0wn5",
+        "image": "https://static.akacdn.ru/files/images/2018/04/a6fbd117625bb19f588baf6c3c811fec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16728,
+        "aniId": 16728,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16728": {
+        "identifier": "16728",
+        "malId": 16728,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tatakae!! Ramenman (Movie)",
+        "url": "https://animixplay.to/anime/16728"
+      }
+    },
+    "YugenAnime": {
+      "2772": {
+        "identifier": "2772",
+        "malId": 16728,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tatakae!! Ramenman (Movie)",
+        "url": "https://yugen.to/anime/2772/tatakae-ramenman-movie/"
+      }
+    }
+  }
+}

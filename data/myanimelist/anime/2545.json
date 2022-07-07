@@ -1,0 +1,87 @@
+{
+  "createdAt": "2022-03-17T00:19:42.000Z",
+  "updatedAt": "2022-05-15T16:45:57.000Z",
+  "checkedAt": "2022-05-15T16:45:57.000Z",
+  "id": 2545,
+  "type": "anime",
+  "title": "Huckleberry no Bouken",
+  "altTitle": [
+    "The Adventures of Huckleberry Finn",
+    "ハックルベリィの冒険"
+  ],
+  "url": "https://myanimelist.net/anime/2545/Huckleberry_no_Bouken",
+  "image": "https://cdn.myanimelist.net/images/anime/13/3207.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3388"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2127"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Huckleberry_no_B%C5%8Dken"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3388,
+  "Pages": {
+    "9anime": {
+      "2o932": {
+        "createdAt": "2022-03-17T00:19:41.000Z",
+        "updatedAt": "2022-03-17T00:49:11.000Z",
+        "checkedAt": null,
+        "id": 40474,
+        "identifier": "2o932",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Huckleberry no Bouken",
+        "url": "https://9anime.to/watch/huckleberry-no-bouken.2o932",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/77/77f61b28e9c4d3f604d208df2c8bc491.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2545,
+        "aniId": 2545,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "huckleberry-no-bouken": {
+        "createdAt": "2022-03-23T22:28:45.000Z",
+        "updatedAt": "2022-03-23T22:57:13.000Z",
+        "checkedAt": null,
+        "id": 40513,
+        "identifier": "huckleberry-no-bouken",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Huckleberry no Bouken",
+        "url": "https://gogoanime.fi/category/huckleberry-no-bouken",
+        "image": "https://gogocdn.net/cover/huckleberry-no-bouken.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2545,
+        "aniId": 2545,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11819": {
+        "identifier": "11819",
+        "malId": 2545,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Huckleberry no Bouken",
+        "url": "https://yugen.to/anime/11819/huckleberry-no-bouken/"
+      }
+    }
+  }
+}

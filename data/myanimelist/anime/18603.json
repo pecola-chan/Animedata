@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-14T22:53:11.000Z",
+  "checkedAt": "2022-05-14T22:53:11.000Z",
+  "id": 18603,
+  "type": "anime",
+  "title": "Kennosuke-sama",
+  "altTitle": [
+    "Akira Toriyama the World",
+    "剣之介さま"
+  ],
+  "url": "https://myanimelist.net/anime/18603/Kennosuke-sama",
+  "image": "https://cdn.myanimelist.net/images/anime/1521/94554.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://corp.toei-anim.co.jp/english/film/kennosukesama.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4118"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3676"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%89%A3%E4%B9%8B%E4%BB%8B%E3%81%95%E3%81%BE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4118,
+  "Pages": {
+    "9anime": {
+      "n7pj": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7009,
+        "identifier": "n7pj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kennosuke-sama",
+        "url": "https://9anime.to/watch/kennosuke-sama.n7pj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jyOkpa1cS-Y/WchsxSkXeOI/AAAAAAAABEc/mHXZXV15D28tVlBixGzuX58mnWpMzKKRACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18603,
+        "aniId": 18603,
+        "deletedAt": null
+      }
+    }
+  }
+}

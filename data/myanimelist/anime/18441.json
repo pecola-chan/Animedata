@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-13T23:22:52.000Z",
+  "checkedAt": "2022-05-13T23:22:52.000Z",
+  "id": 18441,
+  "type": "anime",
+  "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+  "altTitle": [
+    "Blood Lad OVA",
+    "ブラッドラッド 我輩は猫ではない"
+  ],
+  "url": "https://myanimelist.net/anime/18441/Blood_Lad__Wagahai_wa_Neko_de_wa_Nai",
+  "image": "https://cdn.myanimelist.net/images/anime/2/52611.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bloodlad.jp/product/?page=comic02"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9803"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9803,
+  "Pages": {
+    "9anime": {
+      "jwn4": {
+        "createdAt": "2020-10-12T15:52:20.000Z",
+        "updatedAt": "2021-08-04T09:50:12.000Z",
+        "checkedAt": null,
+        "id": 5069,
+        "identifier": "jwn4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blood Lad: Wagahai wa Neko de wa Nai (Dub)",
+        "url": "https://9anime.to/watch/blood-lad-ova-dub.jwn4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/79a4ff8b07513d0b51e3105c3bf24234.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18441,
+        "aniId": 18441,
+        "deletedAt": null
+      },
+      "ol1z": {
+        "createdAt": "2020-10-12T15:54:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7511,
+        "identifier": "ol1z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+        "url": "https://9anime.to/watch/blood-lad-wagahai-wa-neko-de-wa-nai.ol1z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OuPN4fZdVDQ/V8UYQm-XFHI/AAAAAAAA6Ys/ugvl246y5M8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18441,
+        "aniId": 18441,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blood-lad-ova-dub": {
+        "createdAt": "2022-03-20T16:23:05.000Z",
+        "updatedAt": "2022-03-20T16:53:04.000Z",
+        "checkedAt": null,
+        "id": 40499,
+        "identifier": "blood-lad-ova-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blood Lad OVA (Dub)",
+        "url": "https://gogoanime.fi/category/blood-lad-ova-dub",
+        "image": "https://gogocdn.net/cover/blood-lad-ova-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18441,
+        "aniId": 18441,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1211": {
+        "identifier": "1211",
+        "malId": 18441,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+        "url": "https://animepahe.com/a/1211"
+      }
+    },
+    "AniMixPlay": {
+      "18441": {
+        "identifier": "18441",
+        "malId": 18441,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+        "url": "https://animixplay.to/anime/18441"
+      }
+    },
+    "YugenAnime": {
+      "14169": {
+        "identifier": "14169",
+        "malId": 18441,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+        "url": "https://yugen.to/anime/14169/blood-lad-wagahai-wa-neko-de-wa-nai/"
+      }
+    }
+  }
+}

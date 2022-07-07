@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-15T06:02:23.000Z",
+  "checkedAt": "2022-05-15T06:02:23.000Z",
+  "id": 18755,
+  "type": "anime",
+  "title": "Donyatsu",
+  "altTitle": [
+    "どーにゃつ"
+  ],
+  "url": "https://myanimelist.net/anime/18755/Donyatsu",
+  "image": "https://cdn.myanimelist.net/images/anime/9/50109.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.donyatsu.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9889"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%A9%E3%83%BC%E3%81%AB%E3%82%83%E3%81%A4"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265261"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9889,
+  "Pages": {
+    "Gogoanime": {
+      "donyatsu": {
+        "createdAt": "2021-04-17T14:44:39.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36592,
+        "identifier": "donyatsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Donyatsu",
+        "url": "https://gogoanime.vc/category/donyatsu",
+        "image": "https://gogocdn.net/images/anime/D/Donyatsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18755,
+        "aniId": 18755,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "961q": {
+        "createdAt": "2021-08-03T03:50:10.000Z",
+        "updatedAt": "2021-08-03T04:17:28.000Z",
+        "checkedAt": null,
+        "id": 38110,
+        "identifier": "961q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Donyatsu",
+        "url": "https://9anime.to/watch/donyatsu.961q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/3491cf2bb5eb595229fd13c76db3af55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18755,
+        "aniId": 18755,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "18755": {
+        "identifier": "18755",
+        "malId": 18755,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Donyatsu",
+        "url": "https://animixplay.to/anime/18755"
+      }
+    },
+    "YugenAnime": {
+      "483": {
+        "identifier": "483",
+        "malId": 18755,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Donyatsu",
+        "url": "https://yugen.to/anime/483/donyatsu/"
+      }
+    }
+  }
+}

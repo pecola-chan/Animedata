@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T18:42:47.000Z",
+  "checkedAt": "2022-05-14T18:42:47.000Z",
+  "id": 613,
+  "type": "anime",
+  "title": "Onmyou Taisenki",
+  "altTitle": [
+    "Onmyou Tai Senki",
+    "The Chronicle of the Big Battle between Yin and Yang",
+    "陰陽大戦記"
+  ],
+  "url": "https://myanimelist.net/anime/613/Onmyou_Taisenki",
+  "image": "https://cdn.myanimelist.net/images/anime/1971/100952.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.onmyoutaisenki.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2512"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4498"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Onmy%C5%8D_Taisenki"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2512,
+  "Pages": {
+    "9anime": {
+      "1jqq": {
+        "createdAt": "2020-10-12T15:49:12.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 957,
+        "identifier": "1jqq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onmyou Taisenki",
+        "url": "https://9anime.to/watch/onmyou-taisenki.1jqq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RWcQhDZcB_0/WSzFjI0tdpI/AAAAAAAAqsk/WIgVoyly9YkLL57q2m1suONXIszRh2PFwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 613,
+        "aniId": 613,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "onmyou-taisenki": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19896,
+        "identifier": "onmyou-taisenki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Onmyou Taisenki",
+        "url": "https://gogoanime.vc/category/onmyou-taisenki",
+        "image": "https://gogocdn.net/images/anime/O/onmyou-taisenki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 613,
+        "aniId": 613,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "613": {
+        "identifier": "613",
+        "malId": 613,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Onmyou Taisenki",
+        "url": "https://animixplay.to/anime/613"
+      }
+    },
+    "YugenAnime": {
+      "2674": {
+        "identifier": "2674",
+        "malId": 613,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Onmyou Taisenki",
+        "url": "https://yugen.to/anime/2674/onmyou-taisenki/"
+      }
+    }
+  }
+}

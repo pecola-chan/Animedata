@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:59:49.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16477,
+  "identifier": "akuma-kun-movie",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Akuma-kun (Movie)",
+  "url": "https://gogoanime.vc/category/akuma-kun-movie",
+  "image": "https://gogocdn.net/cover/akuma-kun-movie.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8226,
+  "aniId": 8226,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:58.000Z",
+    "updatedAt": "2022-05-21T15:20:34.000Z",
+    "checkedAt": "2022-05-21T15:20:34.000Z",
+    "id": 8226,
+    "type": "anime",
+    "title": "Akuma-kun (Movie)",
+    "altTitle": [
+      "Devil Boy",
+      "Akuma-kun (1989)",
+      "悪魔くん"
+    ],
+    "url": "https://myanimelist.net/anime/8226/Akuma-kun_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/9/21276.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/gen/1980-1989"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2050"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3680"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2050
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:55.000Z",
+    "updatedAt": "2022-05-21T15:20:14.000Z",
+    "checkedAt": "2022-05-21T15:20:14.000Z",
+    "id": 8226,
+    "type": "anime",
+    "title": "Akuma-kun (Movie)",
+    "altTitle": [
+      "悪魔くん (Movie)",
+      "Devil Boy"
+    ],
+    "url": "https://anilist.co/anime/8226",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8226.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8226,
+    "deletedAt": null
+  }
+}

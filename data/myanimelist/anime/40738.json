@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T17:45:29.000Z",
+  "checkedAt": "2022-05-14T17:45:29.000Z",
+  "id": 40738,
+  "type": "anime",
+  "title": "Natsunagu!",
+  "altTitle": [
+    "なつなぐ!"
+  ],
+  "url": "https://myanimelist.net/anime/40738/Natsunagu",
+  "image": "https://cdn.myanimelist.net/images/anime/1891/111484.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15272"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22911"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%A4%E3%81%AA%E3%81%90!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15272,
+  "Pages": {
+    "9anime": {
+      "7qr7": {
+        "createdAt": "2020-10-12T15:51:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3551,
+        "identifier": "7qr7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Natsunagu!",
+        "url": "https://9anime.to/watch/natsunagu.7qr7",
+        "image": "https://static.akacdn.ru/files/images/2019/11/b7d3a75909e0f2504cf47384fb8ed897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40738,
+        "aniId": 113397,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "natsunagu": {
+        "createdAt": "2020-10-12T16:01:23.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19682,
+        "identifier": "natsunagu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Natsunagu!",
+        "url": "https://gogoanime.vc/category/natsunagu",
+        "image": "https://cdnimg.xyz/cover/natsunagu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40738,
+        "aniId": 113397,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3669": {
+        "identifier": "3669",
+        "malId": 40738,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Natsunagu!",
+        "url": "https://animepahe.com/a/3669"
+      }
+    },
+    "AniMixPlay": {
+      "40738": {
+        "identifier": "40738",
+        "malId": 40738,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Natsunagu!",
+        "url": "https://animixplay.to/anime/40738"
+      }
+    },
+    "YugenAnime": {
+      "179": {
+        "identifier": "179",
+        "malId": 40738,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Natsunagu!",
+        "url": "https://yugen.to/anime/179/natsunagu/"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T11:59:59.000Z",
+  "checkedAt": "2022-05-15T11:59:59.000Z",
+  "id": 9409,
+  "type": "anime",
+  "title": "D-1 Devastator",
+  "altTitle": [
+    "D-1 デバステイター"
+  ],
+  "url": "https://myanimelist.net/anime/9409/D-1_Devastator",
+  "image": "https://cdn.myanimelist.net/images/anime/7/55845.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1716"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3360"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1716,
+  "Pages": {
+    "9anime": {
+      "7941": {
+        "createdAt": "2020-10-12T15:48:34.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 272,
+        "identifier": "7941",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D-1 Devastator",
+        "url": "https://9anime.to/watch/d-1-devastator.7941",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LWqOsozuh6U/WNOZ4ybRulI/AAAAAAABgSQ/Z4JZkNjun_s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9409,
+        "aniId": 9409,
+        "deletedAt": null
+      }
+    }
+  }
+}

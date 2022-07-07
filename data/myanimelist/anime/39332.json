@@ -1,0 +1,56 @@
+{
+  "createdAt": "2021-06-09T22:06:13.000Z",
+  "updatedAt": "2022-05-14T23:28:41.000Z",
+  "checkedAt": "2022-05-14T23:28:41.000Z",
+  "id": 39332,
+  "type": "anime",
+  "title": "Monster Special Edition",
+  "altTitle": [
+    "Monster Recaps",
+    "モンスター スペシャルバージョン"
+  ],
+  "url": "https://myanimelist.net/anime/39332/Monster_Special_Edition",
+  "image": "https://cdn.myanimelist.net/images/anime/1226/99268.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/monster/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1539"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Monster_manga"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1539,
+  "Pages": {
+    "9anime": {
+      "2o2xl": {
+        "createdAt": "2021-06-23T18:14:52.000Z",
+        "updatedAt": "2021-06-23T18:14:52.000Z",
+        "checkedAt": null,
+        "id": 37530,
+        "identifier": "2o2xl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Monster Special Edition",
+        "url": "https://9anime.to/watch/monster-special-edition.2o2xl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/70/7015069a6c6daa046d4c6edacd97e86b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39332,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

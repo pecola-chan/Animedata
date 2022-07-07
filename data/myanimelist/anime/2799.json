@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-15T00:35:05.000Z",
+  "checkedAt": "2022-05-15T00:35:05.000Z",
+  "id": 2799,
+  "type": "anime",
+  "title": "Hello! Sandybell",
+  "altTitle": [
+    "Sandy Bell",
+    "Sandy Jonquille",
+    "Hello Sandybell",
+    "ハロー！サンディベル"
+  ],
+  "url": "https://myanimelist.net/anime/2799/Hello_Sandybell",
+  "image": "https://cdn.myanimelist.net/images/anime/13/42653.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/sandybell/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1924"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1436"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1924,
+  "Pages": {
+    "9anime": {
+      "xz5z": {
+        "createdAt": "2020-10-12T15:56:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10461,
+        "identifier": "xz5z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hello! Sandybell",
+        "url": "https://9anime.to/watch/hello-sandybell.xz5z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-S5rVNo6Vs54/WISMSDDtPmI/AAAAAAABauk/HSFvG3gIWSk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2799,
+        "aniId": 2799,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2799": {
+        "identifier": "2799",
+        "malId": 2799,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hello! Sandybell",
+        "url": "https://animixplay.to/anime/2799"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T21:09:41.000Z",
+  "checkedAt": "2022-05-14T21:09:41.000Z",
+  "id": 16648,
+  "type": "anime",
+  "title": "Youchien Senshi: Hanamaru Girls",
+  "altTitle": [
+    "Kindergarten Warriors: Hanamaru Girls",
+    "幼稚園戦士 はなまるガールズ"
+  ],
+  "url": "https://myanimelist.net/anime/16648/Youchien_Senshi__Hanamaru_Girls",
+  "image": "https://cdn.myanimelist.net/images/anime/12/44866.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/hanamaru/release_dvd.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6646"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%AA%E3%81%BE%E3%82%8B%E5%B9%BC%E7%A8%9A%E5%9C%92"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6646,
+  "Pages": {
+    "9anime": {
+      "85pq": {
+        "createdAt": "2020-10-12T15:51:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3795,
+        "identifier": "85pq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Youchien Senshi: Hanamaru Girls",
+        "url": "https://9anime.to/watch/youchien-senshi-hanamaru-girls.85pq",
+        "image": "https://static.akacdn.ru/files/images/2018/02/eabeb94a0baecb212b0a8bdc58c7ad34.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16648,
+        "aniId": 16648,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3521": {
+        "identifier": "3521",
+        "malId": 16648,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Youchien Senshi: Hanamaru Girls",
+        "url": "https://animepahe.com/a/3521"
+      }
+    },
+    "AniMixPlay": {
+      "16648": {
+        "identifier": "16648",
+        "malId": 16648,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Youchien Senshi: Hanamaru Girls",
+        "url": "https://animixplay.to/anime/16648"
+      }
+    }
+  }
+}

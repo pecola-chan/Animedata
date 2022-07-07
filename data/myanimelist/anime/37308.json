@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T19:55:59.000Z",
+  "checkedAt": "2022-05-14T19:55:59.000Z",
+  "id": 37308,
+  "type": "anime",
+  "title": "K: Seven Stories - The Idol K",
+  "altTitle": [
+    "K Seven Stories ザ・アイドルK"
+  ],
+  "url": "https://myanimelist.net/anime/37308/K__Seven_Stories_-_The_Idol_K",
+  "image": "https://cdn.myanimelist.net/images/anime/1642/90546.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://k-project.jpn.com/k7s_idol/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/K_(anime)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12107,
+  "Pages": {
+    "9anime": {
+      "06nk": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 457,
+        "identifier": "06nk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Seven Stories - The Idol K",
+        "url": "https://9anime.to/watch/k-seven-stories-the-idol-k.06nk",
+        "image": "http://static.akacdn.ru/static/images/2018/05/5e1306ad905aa939a7b7d217fc36a8c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37308,
+        "aniId": 109670,
+        "deletedAt": null
+      },
+      "3j89": {
+        "createdAt": "2020-12-09T14:02:21.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29836,
+        "identifier": "3j89",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Seven Stories - The Idol K (Dub)",
+        "url": "https://9anime.to/watch/k-seven-stories-the-idol-k-dub.3j89",
+        "image": "//static.9anime.to/i/cache/images/7/73/730a9222404231a85192425ced9383e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37308,
+        "aniId": 109670,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "1487": {
+        "identifier": "1487",
+        "malId": 37308,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "K: Seven Stories - The Idol K",
+        "url": "https://yugen.to/anime/1487/k-seven-stories/"
+      }
+    }
+  }
+}

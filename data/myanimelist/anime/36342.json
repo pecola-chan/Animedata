@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-14T22:47:29.000Z",
+  "checkedAt": "2022-05-14T22:47:29.000Z",
+  "id": 36342,
+  "type": "anime",
+  "title": "Full Metal Panic! Movie 1: Boy Meets Girl",
+  "altTitle": [
+    "FMP",
+    "フルメタル・パニック！ボーイ・ミーツ・ガール"
+  ],
+  "url": "https://myanimelist.net/anime/36342/Full_Metal_Panic_Movie_1__Boy_Meets_Girl",
+  "image": "https://cdn.myanimelist.net/images/anime/6/88543.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://fullmeta-iv.com/movie/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13472"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20194"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Full_Metal_Panic"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13472,
+  "Pages": {
+    "9anime": {
+      "j494": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4686,
+        "identifier": "j494",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Full Metal Panic! Movie 1: Boy Meets Girl",
+        "url": "https://9anime.to/watch/full-metal-panic-movie-1-boy-meets-girl.j494",
+        "image": "https://static.akacdn.ru/files/images/2019/11/b0a8a0dbbbb502ac7ecddbf79964b8ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36342,
+        "aniId": 115914,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "full-metal-panic-movie-1-boy-meets-girl": {
+        "createdAt": "2021-08-17T14:38:05.000Z",
+        "updatedAt": "2021-08-17T15:06:59.000Z",
+        "checkedAt": null,
+        "id": 38339,
+        "identifier": "full-metal-panic-movie-1-boy-meets-girl",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Full Metal Panic! Movie 1: Boy Meets Girl",
+        "url": "https://gogoanime.pe/category/full-metal-panic-movie-1-boy-meets-girl",
+        "image": "https://gogocdn.net/cover/full-metal-panic-movie-1-boy-meets-girl.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36342,
+        "aniId": 115914,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36342": {
+        "identifier": "36342",
+        "malId": 36342,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Full Metal Panic! Movie 1: Boy Meets Girl",
+        "url": "https://animixplay.to/anime/36342"
+      }
+    },
+    "YugenAnime": {
+      "9650": {
+        "identifier": "9650",
+        "malId": 36342,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Full Metal Panic! Movie 1: Boy Meets Girl",
+        "url": "https://yugen.to/anime/9650/full-metal-panic-movie-1-boy-meets-girl/"
+      }
+    }
+  }
+}

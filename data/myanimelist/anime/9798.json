@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-15T08:38:43.000Z",
+  "checkedAt": "2022-05-15T08:38:43.000Z",
+  "id": 9798,
+  "type": "anime",
+  "title": "Pandane to Tamago-hime",
+  "altTitle": [
+    "Mr. Dough and the Egg Princess",
+    "パン種とタマゴ姫"
+  ],
+  "url": "https://myanimelist.net/anime/9798/Pandane_to_Tamago-hime",
+  "image": "https://cdn.myanimelist.net/images/anime/12/27157.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ghibli-museum.jp/welcome/exibition/006326.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8462"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15174"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pandane_to_tamago_hime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8462,
+  "Pages": {
+    "9anime": {
+      "36pr": {
+        "createdAt": "2020-10-12T15:49:43.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1728,
+        "identifier": "36pr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mr. Dough and the Egg Princess",
+        "url": "https://9anime.to/watch/mr-dough-and-the-egg-princess.36pr",
+        "image": "https://static.akacdn.ru/static/images/2018/03/891ee4632c96aeef616094b86f407b58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9798,
+        "aniId": 9798,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9798": {
+        "identifier": "9798",
+        "malId": 9798,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pandane to Tamago-hime",
+        "url": "https://animixplay.to/anime/9798"
+      }
+    }
+  }
+}

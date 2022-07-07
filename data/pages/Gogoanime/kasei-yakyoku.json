@@ -1,0 +1,77 @@
+{
+  "createdAt": "2022-02-21T13:58:14.000Z",
+  "updatedAt": "2022-02-21T14:17:39.000Z",
+  "checkedAt": null,
+  "id": 40217,
+  "identifier": "kasei-yakyoku",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kasei Yakyoku",
+  "url": "https://gogoanime.fi/category/kasei-yakyoku",
+  "image": "https://gogocdn.net/cover/kasei-yakyoku.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4485,
+  "aniId": 4485,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:43.000Z",
+    "updatedAt": "2022-05-14T23:59:05.000Z",
+    "checkedAt": "2022-05-14T23:59:05.000Z",
+    "id": 4485,
+    "type": "anime",
+    "title": "Kasei Yakyoku",
+    "altTitle": [
+      "Night Song of Splendor",
+      "Starlight Nocturne",
+      "Gasei Yakyoku",
+      "Nightsong of Splendor",
+      "華星夜曲"
+    ],
+    "url": "https://myanimelist.net/anime/4485/Kasei_Yakyoku",
+    "image": "https://cdn.myanimelist.net/images/anime/4/50129.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2606"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2718"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%8F%AF%E6%98%9F%E5%A4%9C%E6%9B%B2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2606
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:36.000Z",
+    "updatedAt": "2022-05-15T16:01:47.000Z",
+    "checkedAt": "2022-05-15T16:01:47.000Z",
+    "id": 4485,
+    "type": "anime",
+    "title": "Kasei Yakyoku",
+    "altTitle": [
+      "Nightsong of Splendor",
+      "華星夜曲",
+      "Night Song of Splendor",
+      "Starlight Nocturne",
+      "Gasei Yakyoku"
+    ],
+    "url": "https://anilist.co/anime/4485",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4485.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4485,
+    "deletedAt": null
+  }
+}

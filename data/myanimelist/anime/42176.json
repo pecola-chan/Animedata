@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2022-05-14T19:34:29.000Z",
+  "checkedAt": "2022-05-14T19:34:29.000Z",
+  "id": 42176,
+  "type": "anime",
+  "title": "Huyao Xiao Hongniang: Jin Chenxi",
+  "altTitle": [
+    "Fox Spirit Matchmaker 9th Season",
+    "Little Foxspirit Matchmaker Season 9",
+    "Enmusubi no Youko-chan",
+    "狐妖小红娘 金晨曦"
+  ],
+  "url": "https://myanimelist.net/anime/42176/Huyao_Xiao_Hongniang__Jin_Chenxi",
+  "image": "https://cdn.myanimelist.net/images/anime/1323/108278.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://v.qq.com/detail/0/0sdnyl7h86atoyt.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12119"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19818"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12119,
+  "Pages": {
+    "9anime": {
+      "nyxn": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7309,
+        "identifier": "nyxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fox Spirit Matchmaker 9th Season",
+        "url": "https://9anime.to/watch/huyao-xiao-hongniang-jin-chenxi.nyxn",
+        "image": "https://static.akacdn.ru/files/images/3/30/304c781350396fb067f7eb53ea524045.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42176,
+        "aniId": 117572,
+        "deletedAt": null
+      }
+    }
+  }
+}

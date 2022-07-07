@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T20:41:41.000Z",
+  "checkedAt": "2022-05-14T20:41:41.000Z",
+  "id": 3661,
+  "type": "anime",
+  "title": "Joker: Marginal City",
+  "altTitle": [
+    "J0ker",
+    "JOKER マージナル・シティ"
+  ],
+  "url": "https://myanimelist.net/anime/3661/Joker__Marginal_City",
+  "image": "https://cdn.myanimelist.net/images/anime/1399/99242.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4206"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7164"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4206,
+  "Pages": {
+    "9anime": {
+      "p7l4": {
+        "createdAt": "2020-10-12T15:54:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7906,
+        "identifier": "p7l4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Joker: Marginal City",
+        "url": "https://9anime.to/watch/joker-marginal-city.p7l4",
+        "image": "https://static.akacdn.ru/files/images/2018/04/9e0baa24a9f2c8927546b579edae0a8c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3661,
+        "aniId": 3661,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "joker-marginal-city": {
+        "createdAt": "2020-10-24T15:58:48.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27884,
+        "identifier": "joker-marginal-city",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Joker: Marginal City",
+        "url": "https://gogoanime.vc/category/joker-marginal-city",
+        "image": "https://gogocdn.net/images/upload/6338.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3661,
+        "aniId": 3661,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3661": {
+        "identifier": "3661",
+        "malId": 3661,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Joker: Marginal City",
+        "url": "https://animixplay.to/anime/3661"
+      }
+    },
+    "YugenAnime": {
+      "3201": {
+        "identifier": "3201",
+        "malId": 3661,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Joker: Marginal City",
+        "url": "https://yugen.to/anime/3201/joker-marginal-city/"
+      }
+    }
+  }
+}

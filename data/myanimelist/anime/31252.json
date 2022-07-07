@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T19:22:59.000Z",
+  "checkedAt": "2022-05-14T19:22:59.000Z",
+  "id": 31252,
+  "type": "anime",
+  "title": "Korekarasaki, Nando Anata to.",
+  "altTitle": [
+    "これから先, 何度あなたと."
+  ],
+  "url": "https://myanimelist.net/anime/31252/Korekarasaki_Nando_Anata_to",
+  "image": "https://cdn.myanimelist.net/images/anime/2/75099.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mishmashjp.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11377"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11377,
+  "Pages": {
+    "9anime": {
+      "lqz3": {
+        "createdAt": "2020-10-12T15:53:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6176,
+        "identifier": "lqz3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Korekarasaki, Nando Anata to.",
+        "url": "https://9anime.to/watch/korekarasaki-nando-anata-to.lqz3",
+        "image": "http://static.akacdn.ru/static/images/2018/08/65acc046bfe7ee9d6a9aad970ca9649a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31252,
+        "aniId": 104631,
+        "deletedAt": null
+      },
+      "mr0v": {
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6730,
+        "identifier": "mr0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Korekarasaki, Nando Anata to. (Dub)",
+        "url": "https://9anime.to/watch/korekarasaki-nando-anata-to-dub.mr0v",
+        "image": "http://static.akacdn.ru/static/images/2018/08/a8e0c75a13e829474ec7b519b59feb3c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31252,
+        "aniId": 104631,
+        "deletedAt": null
+      }
+    }
+  }
+}

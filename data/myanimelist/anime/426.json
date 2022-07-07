@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T20:47:59.000Z",
+  "checkedAt": "2022-05-14T20:47:59.000Z",
+  "id": 426,
+  "type": "anime",
+  "title": "Final Fantasy",
+  "altTitle": [
+    "Legend of the Crystals: Final Fantasy",
+    "ファイナルファンタジー"
+  ],
+  "url": "https://myanimelist.net/anime/426/Final_Fantasy",
+  "image": "https://cdn.myanimelist.net/images/anime/10/88663.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=446"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=613"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 446,
+  "Pages": {
+    "9anime": {
+      "royq": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8950,
+        "identifier": "royq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Final Fantasy",
+        "url": "https://9anime.to/watch/final-fantasy.royq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tYEz8qrtAHU/V7lHpAIUApI/AAAAAAAA4mQ/ac0ymern7Wg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 426,
+        "aniId": 426,
+        "deletedAt": null
+      },
+      "zykl": {
+        "createdAt": "2020-10-12T15:57:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11356,
+        "identifier": "zykl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Legend of the Crystals: Final Fantasy (Dub)",
+        "url": "https://9anime.to/watch/legend-of-the-crystals-final-fantasy-dub.zykl",
+        "image": "http://static.akacdn.ru/static/images/2018/04/f70485df1c34c46d2b780c483e822aff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 426,
+        "aniId": 426,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "final-fantasy-legend-of-the-crystals-": {
+        "createdAt": "2020-10-12T16:00:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17661,
+        "identifier": "final-fantasy-legend-of-the-crystals-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Final Fantasy: Legend of the Crystals ",
+        "url": "https://gogoanime.vc/category/final-fantasy-legend-of-the-crystals-",
+        "image": "https://gogocdn.net/images/anime/F/final-fantasy-legend-of-the-crystals.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 426,
+        "aniId": 426,
+        "deletedAt": null
+      },
+      "final-fantasy-legend-of-the-crystals-dub": {
+        "createdAt": "2020-10-12T16:00:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17662,
+        "identifier": "final-fantasy-legend-of-the-crystals-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Final Fantasy: Legend of the Crystals (Dub)",
+        "url": "https://gogoanime.vc/category/final-fantasy-legend-of-the-crystals-dub",
+        "image": "https://gogocdn.net/cover/final-fantasy-legend-of-the-crystals-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 426,
+        "aniId": 426,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3848": {
+        "identifier": "3848",
+        "malId": 426,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Final Fantasy",
+        "url": "https://animepahe.com/a/3848"
+      }
+    },
+    "AniMixPlay": {
+      "426": {
+        "identifier": "426",
+        "malId": 426,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Final Fantasy",
+        "url": "https://animixplay.to/anime/426"
+      }
+    }
+  }
+}

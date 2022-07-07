@@ -1,0 +1,111 @@
+{
+  "createdAt": "2021-01-01T16:50:20.000Z",
+  "updatedAt": "2022-05-14T09:54:49.000Z",
+  "checkedAt": "2022-05-14T09:54:49.000Z",
+  "id": 44087,
+  "type": "anime",
+  "title": "Gintama: The Semi-Final",
+  "altTitle": [
+    "銀魂 THE SEMI-FINAL"
+  ],
+  "url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final",
+  "image": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pc.video.dmkt-sp.jp/ft/s0007147"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15902"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23827"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/movies/Gintama-Part-2:-Don't-Make-Big-Decisions-At-The-Last-Minute/movie-919155"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15902,
+  "Pages": {
+    "Gogoanime": {
+      "gintama-the-semi-final": {
+        "createdAt": "2021-01-20T22:03:45.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33996,
+        "identifier": "gintama-the-semi-final",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://gogoanime.vc/category/gintama-the-semi-final",
+        "image": "https://gogocdn.net/cover/gintama-the-semi-final.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44087,
+        "aniId": 126819,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "p9l9": {
+        "createdAt": "2021-08-12T04:10:47.000Z",
+        "updatedAt": "2021-08-12T04:39:18.000Z",
+        "checkedAt": null,
+        "id": 38215,
+        "identifier": "p9l9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://9anime.to/watch/gintama-the-semi-final.p9l9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/ed/edcaab2676a3c450a3fbdfd60100204d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44087,
+        "aniId": 126819,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4508": {
+        "identifier": "4508",
+        "malId": 44087,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://animepahe.com/a/4508"
+      }
+    },
+    "AniMixPlay": {
+      "44087": {
+        "identifier": "44087",
+        "malId": 44087,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://animixplay.to/anime/44087"
+      }
+    },
+    "YugenAnime": {
+      "9565": {
+        "identifier": "9565",
+        "malId": 44087,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://yugen.to/anime/9565/gintama-the-semi-final/"
+      }
+    }
+  }
+}

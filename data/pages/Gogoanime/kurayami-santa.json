@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-02-18T16:17:53.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 34964,
+  "identifier": "kurayami-santa",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kurayami Santa",
+  "url": "https://gogoanime.vc/category/kurayami-santa",
+  "image": "https://gogocdn.net/images/upload/74464.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 30947,
+  "aniId": 21223,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:37.000Z",
+    "updatedAt": "2022-05-15T05:11:02.000Z",
+    "checkedAt": "2022-05-15T05:11:02.000Z",
+    "id": 30947,
+    "type": "anime",
+    "title": "Kurayami Santa",
+    "altTitle": [
+      "暗闇三太"
+    ],
+    "url": "https://myanimelist.net/anime/30947/Kurayami_Santa",
+    "image": "https://cdn.myanimelist.net/images/anime/12/74464.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kbc.co.jp/santa/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11283"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17205"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/暗闇三太"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11283
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:56.000Z",
+    "updatedAt": "2022-05-15T20:12:59.000Z",
+    "checkedAt": "2022-05-15T20:12:59.000Z",
+    "id": 21223,
+    "type": "anime",
+    "title": "Kurayami Santa",
+    "altTitle": [
+      "暗闇三太"
+    ],
+    "url": "https://anilist.co/anime/21223",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21223-wl0B0KxJwzib.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 30947,
+    "deletedAt": null
+  }
+}

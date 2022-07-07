@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-14T19:09:05.000Z",
+  "checkedAt": "2022-05-14T19:09:05.000Z",
+  "id": 4639,
+  "type": "anime",
+  "title": "Gosenzo-sama Banbanzai!",
+  "altTitle": [
+    "Gosenzosama Banbanzai!",
+    "Long Life To The Ancestors",
+    "御先祖様万々歳!"
+  ],
+  "url": "https://myanimelist.net/anime/4639/Gosenzo-sama_Banbanzai",
+  "image": "https://cdn.myanimelist.net/images/anime/8/19785.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/gosenzo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1865"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5344"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gosenzo-sama_Banbanzai!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1865,
+  "Pages": {
+    "9anime": {
+      "94v0": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4214,
+        "identifier": "94v0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gosenzo-sama Banbanzai!",
+        "url": "https://9anime.to/watch/gosenzo-sama-banbanzai.94v0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-QglE15Uk5rM/WMz-sFDC2KI/AAAAAAABf60/prC-WcGIkm4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4639,
+        "aniId": 4639,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4639": {
+        "identifier": "4639",
+        "malId": 4639,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gosenzo-sama Banbanzai!",
+        "url": "https://animixplay.to/anime/4639"
+      }
+    },
+    "YugenAnime": {
+      "2884": {
+        "identifier": "2884",
+        "malId": 4639,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gosenzo-sama Banbanzai!",
+        "url": "https://yugen.to/anime/2884/gosenzo-sama-banbanzai/"
+      }
+    }
+  }
+}

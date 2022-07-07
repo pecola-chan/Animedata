@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T22:02:23.000Z",
+  "checkedAt": "2022-05-14T22:02:23.000Z",
+  "id": 4031,
+  "type": "anime",
+  "title": "Sakigake!! Otokojuku Movie",
+  "altTitle": [
+    "Valiantly Forge Ahead!! Men's Cram School (1988)",
+    "Charge!! Men's Private School",
+    "魁!!男塾"
+  ],
+  "url": "https://myanimelist.net/anime/4031/Sakigake_Otokojuku_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1672/94168.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2071"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3842"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sakigake!!_Otokojuku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2071,
+  "Pages": {
+    "9anime": {
+      "3kjr": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1794,
+        "identifier": "3kjr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakigake!! Otokojuku Movie",
+        "url": "https://9anime.to/watch/sakigake-otokojuku-movie.3kjr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-R-iSyAIksgk/WJwfiX9eE9I/AAAAAAABcZs/EY94MJ2ZFtc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4031,
+        "aniId": 4031,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4031": {
+        "identifier": "4031",
+        "malId": 4031,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sakigake!! Otokojuku Movie",
+        "url": "https://animixplay.to/anime/4031"
+      }
+    },
+    "YugenAnime": {
+      "4056": {
+        "identifier": "4056",
+        "malId": 4031,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sakigake!! Otokojuku Movie",
+        "url": "https://yugen.to/anime/4056/sakigake-otokojuku-movie/"
+      }
+    }
+  }
+}

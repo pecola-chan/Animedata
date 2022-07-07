@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-15T00:21:53.000Z",
+  "checkedAt": "2022-05-15T00:21:53.000Z",
+  "id": 38673,
+  "type": "anime",
+  "title": "Mini Toji",
+  "altTitle": [
+    "Katana Maidens: Mini Toji",
+    "みにとじ"
+  ],
+  "url": "https://myanimelist.net/anime/38673/Mini_Toji",
+  "image": "https://cdn.myanimelist.net/images/anime/1781/98227.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://minitoji.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14489"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21680"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katana_Maidens_~_Toji_No_Miko"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277357"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14489,
+  "Pages": {
+    "9anime": {
+      "jm0y": {
+        "createdAt": "2020-10-12T15:52:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4919,
+        "identifier": "jm0y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mini Toji",
+        "url": "https://9anime.to/watch/mini-toji.jm0y",
+        "image": "https://static.akacdn.ru/static/images/2018/12/b6470574f7d3461632afbf5bedef1a8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38673,
+        "aniId": 105387,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mini-toji": {
+        "createdAt": "2020-10-12T16:01:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19440,
+        "identifier": "mini-toji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mini Toji",
+        "url": "https://gogoanime.vc/category/mini-toji",
+        "image": "https://cdnimg.xyz/cover/mini-toji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38673,
+        "aniId": 105387,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2961": {
+        "identifier": "2961",
+        "malId": 38673,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mini Toji",
+        "url": "https://animepahe.com/a/2961"
+      }
+    },
+    "AniMixPlay": {
+      "38673": {
+        "identifier": "38673",
+        "malId": 38673,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mini Toji",
+        "url": "https://animixplay.to/anime/38673"
+      }
+    },
+    "YugenAnime": {
+      "2157": {
+        "identifier": "2157",
+        "malId": 38673,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mini Toji",
+        "url": "https://yugen.to/anime/2157/mini-toji/"
+      }
+    }
+  }
+}

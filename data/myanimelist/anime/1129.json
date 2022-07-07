@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T22:30:17.000Z",
+  "checkedAt": "2022-05-14T22:30:17.000Z",
+  "id": 1129,
+  "type": "anime",
+  "title": "UFO Princess Valkyrie: Shichiten Battou Hanayome Shuugyou",
+  "altTitle": [
+    "UFO Ultramaiden Valkyrie OVA Special: Bridal Training",
+    "UFO Princess Walkyure",
+    "UFO Princess Walküre",
+    "Bride Training Boot Camp",
+    "円盤皇女ワるきゅーレ 七転八倒 花嫁修行"
+  ],
+  "url": "https://myanimelist.net/anime/1129/UFO_Princess_Valkyrie__Shichiten_Battou_Hanayome_Shuugyou",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2454.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tokinoyu.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=160"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6237"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 160,
+  "Pages": {
+    "9anime": {
+      "069r": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 454,
+        "identifier": "069r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "UFO Princess Valkyrie: Special (Dub)",
+        "url": "https://9anime.to/watch/ufo-princess-valkyrie-special-dub.069r",
+        "image": "https://static.akacdn.ru/static/images/2018/03/41f8e786f8fb78dd9d340752652b9959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1129,
+        "aniId": 1129,
+        "deletedAt": null
+      },
+      "j23n": {
+        "createdAt": "2020-10-12T15:52:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4623,
+        "identifier": "j23n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "UFO Princess Valkyrie: Special",
+        "url": "https://9anime.to/watch/ufo-princess-valkyrie-special.j23n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zLPWv6k28oM/V7iIBejra2I/AAAAAAAA4kA/2pabZeT3s6o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1129,
+        "aniId": 1129,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "8659": {
+        "identifier": "8659",
+        "malId": 1129,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "UFO Princess Valkyrie: Shichiten Battou Hanayome Shuugyou",
+        "url": "https://yugen.to/anime/8659/ufo-princess-valkyrie-shichiten-battou-hanayome-shuugyou/"
+      }
+    }
+  }
+}

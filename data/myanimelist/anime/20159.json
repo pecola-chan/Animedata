@@ -1,0 +1,151 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T19:51:59.000Z",
+  "checkedAt": "2022-05-14T19:51:59.000Z",
+  "id": 20159,
+  "type": "anime",
+  "title": "Pokemon: The Origin",
+  "altTitle": [
+    "Pocket Monsters: The Origin",
+    "Pokémon: The Origin",
+    "Pokémon: Origins",
+    "ポケットモンスター THE ORIGIN"
+  ],
+  "url": "https://myanimelist.net/anime/20159/Pokemon__The_Origin",
+  "image": "https://cdn.myanimelist.net/images/anime/7/53701.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pokemon.co.jp/ex/origin/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10031"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15574"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pocket_Monsters:_The_Origin"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10031,
+  "Pages": {
+    "9anime": {
+      "9jj8": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2022-06-13T22:04:38.000Z",
+        "checkedAt": "2022-06-13T22:04:38.000Z",
+        "id": 4301,
+        "identifier": "9jj8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pocket Monsters: THE ORIGIN (Dub)",
+        "url": "https://9anime.to/watch/pokemon-origins-dub.9jj8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/c09d6ab4b6295300afadc507521a75fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20159,
+        "aniId": 20159,
+        "deletedAt": null
+      },
+      "l4xq": {
+        "createdAt": "2020-10-12T15:52:58.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5845,
+        "identifier": "l4xq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon: The Origin",
+        "url": "https://9anime.to/watch/pokemon-the-origin.l4xq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nI5vCYWnf2U/WBxKWeu-jQI/AAAAAAABNQQ/edeZfEv0-RU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20159,
+        "aniId": 20159,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pokemon-origins": {
+        "createdAt": "2020-10-12T16:01:36.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20100,
+        "identifier": "pokemon-origins",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon Origins",
+        "url": "https://gogoanime.vc/category/pokemon-origins",
+        "image": "https://cdnimg.xyz/images/anime/P/Pokemon-Origins.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20159,
+        "aniId": 20159,
+        "deletedAt": null
+      },
+      "pokemon-the-origin-dub": {
+        "createdAt": "2020-10-12T16:01:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20111,
+        "identifier": "pokemon-the-origin-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon: The Origin (Dub)",
+        "url": "https://gogoanime.vc/category/pokemon-the-origin-dub",
+        "image": "https://gogocdn.net/cover/pokemon-the-origin-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20159,
+        "aniId": 20159,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2380": {
+        "identifier": "2380",
+        "malId": 20159,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pokemon: The Origin",
+        "url": "https://animepahe.com/a/2380"
+      }
+    },
+    "AniMixPlay": {
+      "20159": {
+        "identifier": "20159",
+        "malId": 20159,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon: The Origin",
+        "url": "https://animixplay.to/anime/20159"
+      }
+    },
+    "YugenAnime": {
+      "4826": {
+        "identifier": "4826",
+        "malId": 20159,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pokemon: The Origin",
+        "url": "https://yugen.to/anime/4826/pokemon-the-origin/"
+      }
+    }
+  }
+}

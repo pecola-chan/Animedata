@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-15T03:18:07.000Z",
+  "checkedAt": "2022-05-15T03:18:07.000Z",
+  "id": 34683,
+  "type": "anime",
+  "title": "Hizukuri",
+  "altTitle": [
+    "Fire Craft",
+    "火づくり"
+  ],
+  "url": "https://myanimelist.net/anime/34683/Hizukuri",
+  "image": "https://cdn.myanimelist.net/images/anime/1908/96032.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hizukuri.naokimatsuura.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12710"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12710,
+  "Pages": {
+    "9anime": {
+      "9rk0": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4432,
+        "identifier": "9rk0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hizukuri",
+        "url": "https://9anime.to/watch/hizukuri.9rk0",
+        "image": "https://static.akacdn.ru/files/images/2018/04/9cd09a7e0aef42500cc3c5c57e9eec87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34683,
+        "aniId": 98875,
+        "deletedAt": null
+      }
+    }
+  }
+}

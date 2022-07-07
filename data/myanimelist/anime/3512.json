@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T22:58:35.000Z",
+  "checkedAt": "2022-05-14T22:58:35.000Z",
+  "id": 3512,
+  "type": "anime",
+  "title": "Tenshi Nanka ja Nai",
+  "altTitle": [
+    "I'm Not an Angel",
+    "天使なんかじゃない"
+  ],
+  "url": "https://myanimelist.net/anime/3512/Tenshi_Nanka_ja_Nai",
+  "image": "https://cdn.myanimelist.net/images/anime/2/5868.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4086"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3141"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tenshi_Nanka_Ja_Nai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4086,
+  "Pages": {
+    "9anime": {
+      "115x": {
+        "createdAt": "2020-10-12T15:49:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 786,
+        "identifier": "115x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenshi Nanka ja Nai",
+        "url": "https://9anime.to/watch/tenshi-nanka-ja-nai.115x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oX2i-jvx6TE/WP7rclnR8EI/AAAAAAAAkHY/30lo6l83fasRmb0IqJxaW6a8h0Ii3h5YwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3512,
+        "aniId": 3512,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "createdAt": "2021-07-08T09:44:07.000Z",
+  "updatedAt": "2022-05-14T16:04:45.000Z",
+  "checkedAt": "2022-05-14T16:04:45.000Z",
+  "id": 42976,
+  "type": "anime",
+  "title": "Biohazard: Infinite Darkness",
+  "altTitle": [
+    "Resident Evil: Infinite Darkness",
+    "BIOHAZARD INFINITE DARKNESS"
+  ],
+  "url": "https://myanimelist.net/anime/42976/Biohazard__Infinite_Darkness",
+  "image": "https://cdn.myanimelist.net/images/anime/1261/119378.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15744"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24138"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil:_Infinite_Darkness"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15744,
+  "Pages": {
+    "9anime": {
+      "3rqyr": {
+        "createdAt": "2021-07-08T09:43:58.000Z",
+        "updatedAt": "2022-02-21T13:50:43.000Z",
+        "checkedAt": null,
+        "id": 37732,
+        "identifier": "3rqyr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Biohazard: Infinite Darkness (Dub)",
+        "url": "https://9anime.to/watch/resident-evil-infinite-darkness-dub.3rqyr",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/11/11e39940381587b2ebf31e77449f52eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42976,
+        "aniId": 124494,
+        "deletedAt": null
+      },
+      "jx33": {
+        "createdAt": "2021-07-08T09:44:07.000Z",
+        "updatedAt": "2021-07-08T10:13:16.000Z",
+        "checkedAt": null,
+        "id": 37733,
+        "identifier": "jx33",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Biohazard: Infinite Darkness",
+        "url": "https://9anime.to/watch/resident-evil-infinite-darkness.jx33",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/6a/6ab3e1dfe673c523d53240f2b953b141.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42976,
+        "aniId": 124494,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "biohazard-infinite-darkness": {
+        "createdAt": "2021-07-08T15:43:38.000Z",
+        "updatedAt": "2021-07-08T16:13:16.000Z",
+        "checkedAt": null,
+        "id": 37739,
+        "identifier": "biohazard-infinite-darkness",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Biohazard: Infinite Darkness",
+        "url": "https://gogoanime.pe/category/biohazard-infinite-darkness",
+        "image": "https://gogocdn.net/cover/biohazard-infinite-darkness.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42976,
+        "aniId": 124494,
+        "deletedAt": null
+      },
+      "biohazard-infinite-darkness-dub": {
+        "createdAt": "2021-07-08T19:13:16.000Z",
+        "updatedAt": "2021-07-08T19:43:16.000Z",
+        "checkedAt": null,
+        "id": 37746,
+        "identifier": "biohazard-infinite-darkness-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Biohazard: Infinite Darkness (Dub)",
+        "url": "https://gogoanime.pe/category/biohazard-infinite-darkness-dub",
+        "image": "https://gogocdn.net/cover/biohazard-infinite-darkness-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42976,
+        "aniId": 124494,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42976": {
+        "identifier": "42976",
+        "malId": 42976,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Biohazard: Infinite Darkness",
+        "url": "https://animixplay.to/anime/42976"
+      }
+    },
+    "YugenAnime": {
+      "7876": {
+        "identifier": "7876",
+        "malId": 42976,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Biohazard: Infinite Darkness",
+        "url": "https://yugen.to/anime/7876/biohazard-infinite-darkness/"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T22:03:35.000Z",
+  "checkedAt": "2022-05-14T22:03:35.000Z",
+  "id": 20365,
+  "type": "anime",
+  "title": "Another: Misaki Mei - Shizukani",
+  "altTitle": [
+    "Another: Flash Animation",
+    "Another Special",
+    "しずかに Another 見崎鳴"
+  ],
+  "url": "https://myanimelist.net/anime/20365/Another__Misaki_Mei_-_Shizukani",
+  "image": "https://cdn.myanimelist.net/images/anime/6/56377.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8556"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8556,
+  "Pages": {
+    "9anime": {
+      "rnrp": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8923,
+        "identifier": "rnrp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Another Special",
+        "url": "https://9anime.to/watch/another-special.rnrp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nnJ-Z-RSLeo/WlkNFOPCAvI/AAAAAAAADIg/Xvm9JuDE3OIUYo9JnRItT-7je5NcFrJewCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20365,
+        "aniId": 20365,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2829": {
+        "identifier": "2829",
+        "malId": 20365,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Another: Misaki Mei - Shizukani",
+        "url": "https://animepahe.com/a/2829"
+      }
+    }
+  }
+}

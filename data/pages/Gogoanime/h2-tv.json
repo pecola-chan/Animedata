@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:37.000Z",
+  "updatedAt": "2021-07-04T09:59:50.000Z",
+  "checkedAt": null,
+  "id": 18067,
+  "identifier": "h2-tv",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "H2 TV",
+  "url": "https://gogoanime.pe/category/h2-tv",
+  "image": "https://gogocdn.net/images/anime/H/h2-TV.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 386,
+  "aniId": 386,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T18:32:53.000Z",
+    "checkedAt": "2022-05-14T18:32:53.000Z",
+    "id": 386,
+    "type": "anime",
+    "title": "H2",
+    "altTitle": [
+      "Ｈ２[エイチ・ツー]"
+    ],
+    "url": "https://myanimelist.net/anime/386/H2",
+    "image": "https://cdn.myanimelist.net/images/anime/1480/105967.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ashipro.jp/works/tv_series/w029.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=352"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1105"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/H2_%28manga%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 352
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:40.000Z",
+    "updatedAt": "2022-05-15T15:26:47.000Z",
+    "checkedAt": "2022-05-15T15:26:47.000Z",
+    "id": 386,
+    "type": "anime",
+    "title": "H2",
+    "altTitle": [
+      "H2"
+    ],
+    "url": "https://anilist.co/anime/386",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx386-8uZoKAYem0Kn.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 386,
+    "deletedAt": null
+  }
+}

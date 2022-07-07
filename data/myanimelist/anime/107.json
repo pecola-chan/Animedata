@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T17:36:22.000Z",
+  "checkedAt": "2022-05-14T17:36:22.000Z",
+  "id": 107,
+  "type": "anime",
+  "title": "Ou Dorobou Jing",
+  "altTitle": [
+    "King of Bandit Jing",
+    "Jing: King of Bandits",
+    "王ドロボウ JING"
+  ],
+  "url": "https://myanimelist.net/anime/107/Ou_Dorobou_Jing",
+  "image": "https://cdn.myanimelist.net/images/anime/1961/92115.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Animation/jing/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=555"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=864"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jing:_King_of_Bandits"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 555,
+  "Pages": {
+    "9anime": {
+      "0455": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 346,
+        "identifier": "0455",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ou Dorobou Jing (Dub)",
+        "url": "https://9anime.to/watch/ou-dorobou-jing-dub.0455",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-G1KLISO09ss/WNOLw_5egwI/AAAAAAABgQ4/9tnnohMTeW0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 107,
+        "aniId": 107,
+        "deletedAt": null
+      },
+      "pplx": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8064,
+        "identifier": "pplx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ou Dorobou Jing",
+        "url": "https://9anime.to/watch/ou-dorobou-jing.pplx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-w8J4nSXsjF4/V7CrFDN2hBI/AAAAAAAA3E0/waN2R4MbuOM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 107,
+        "aniId": 107,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "king-of-bandit-jing": {
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18845,
+        "identifier": "king-of-bandit-jing",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "King of Bandit Jing",
+        "url": "https://gogoanime.vc/category/king-of-bandit-jing",
+        "image": "https://cdnimg.xyz/images/anime/K/King-of-Bandit-Jing.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 107,
+        "aniId": 107,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "107": {
+        "identifier": "107",
+        "malId": 107,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ou Dorobou Jing",
+        "url": "https://animixplay.to/anime/107"
+      }
+    },
+    "YugenAnime": {
+      "4454": {
+        "identifier": "4454",
+        "malId": 107,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ou Dorobou Jing",
+        "url": "https://yugen.to/anime/4454/king-of-bandit-jing/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-15T01:59:38.000Z",
+  "checkedAt": "2022-05-15T01:59:38.000Z",
+  "id": 10502,
+  "type": "anime",
+  "title": "Tansu Warashi.",
+  "altTitle": [
+    "Wakate Animator Ikusei Project",
+    "2010 Young Animator Training Project",
+    "Anime Mirai 2010",
+    "Wardrobe Dwellers",
+    "Project A",
+    "Drawer Hobs",
+    "たんすわらし。"
+  ],
+  "url": "https://myanimelist.net/anime/10502/Tansu_Warashi",
+  "image": "https://cdn.myanimelist.net/images/anime/1053/103696.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.janica.jp/pja/tansu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8143"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12569"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anime_Mirai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8143,
+  "Pages": {
+    "9anime": {
+      "1wxm": {
+        "createdAt": "2020-10-12T15:49:20.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1156,
+        "identifier": "1wxm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tansu Warashi.",
+        "url": "https://9anime.to/watch/tansu-warashi.1wxm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uWSwIi3UVdE/WIbvEZ_Jk8I/AAAAAAABa_g/ncwBZ9Wra8U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10502,
+        "aniId": 10502,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10502": {
+        "identifier": "10502",
+        "malId": 10502,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tansu Warashi.",
+        "url": "https://animixplay.to/anime/10502"
+      }
+    }
+  }
+}

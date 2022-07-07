@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:02:11.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21303,
+  "identifier": "uma-musume-pretty-derby-bnw-no-chikai",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Uma Musume: Pretty Derby - BNW no Chikai",
+  "url": "https://gogoanime.vc/category/uma-musume-pretty-derby-bnw-no-chikai",
+  "image": "https://cdnimg.xyz/cover/uma-musume-pretty-derby-bnw-no-chikai.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 37916,
+  "aniId": 103237,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:03.000Z",
+    "updatedAt": "2022-05-14T19:44:35.000Z",
+    "checkedAt": "2022-05-14T19:44:35.000Z",
+    "id": 37916,
+    "type": "anime",
+    "title": "Uma Musume: Pretty Derby - BNW no Chikai",
+    "altTitle": [
+      "Uma Musume: Pretty Derby Specials",
+      "ウマ娘 プリティーダービー BNWの誓い"
+    ],
+    "url": "https://myanimelist.net/anime/37916/Uma_Musume__Pretty_Derby_-_BNW_no_Chikai",
+    "image": "https://cdn.myanimelist.net/images/anime/1733/93479.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime-umamusume.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13034"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uma_Musume"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13034
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:42.000Z",
+    "updatedAt": "2022-05-15T17:40:23.000Z",
+    "checkedAt": "2022-05-15T17:40:23.000Z",
+    "id": 103237,
+    "type": "anime",
+    "title": "Uma Musume: BNW no Chikai",
+    "altTitle": [
+      "ウマ娘「BNWの誓い」"
+    ],
+    "url": "https://anilist.co/anime/103237",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103237-EFvIy9iLXfYV.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37916,
+    "deletedAt": null
+  }
+}

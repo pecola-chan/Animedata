@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T20:42:59.000Z",
+  "checkedAt": "2022-05-14T20:42:59.000Z",
+  "id": 611,
+  "type": "anime",
+  "title": "Platonic Chain",
+  "altTitle": [
+    "プラトニック・チェーン"
+  ],
+  "url": "https://myanimelist.net/anime/611/Platonic_Chain",
+  "image": "https://cdn.myanimelist.net/images/anime/6/83128.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=294"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1826"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 294,
+  "Pages": {
+    "9anime": {
+      "6nj7": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3085,
+        "identifier": "6nj7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Platonic Chain",
+        "url": "https://9anime.to/watch/platonic-chain.6nj7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CGTPOmuvb90/WHxq1Mn8e_I/AAAAAAABZjY/66jHC9-vd0k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 611,
+        "aniId": 611,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "platonic-chain": {
+        "createdAt": "2021-08-17T03:07:26.000Z",
+        "updatedAt": "2021-08-17T03:36:59.000Z",
+        "checkedAt": null,
+        "id": 38325,
+        "identifier": "platonic-chain",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Platonic Chain",
+        "url": "https://gogoanime.pe/category/platonic-chain",
+        "image": "https://gogocdn.net/cover/platonic-chain.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 611,
+        "aniId": 611,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "611": {
+        "identifier": "611",
+        "malId": 611,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Platonic Chain",
+        "url": "https://animixplay.to/anime/611"
+      }
+    },
+    "YugenAnime": {
+      "9644": {
+        "identifier": "9644",
+        "malId": 611,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Platonic Chain",
+        "url": "https://yugen.to/anime/9644/platonic-chain/"
+      }
+    }
+  }
+}

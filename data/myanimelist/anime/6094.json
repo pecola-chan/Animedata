@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-17T00:38:06.000Z",
+  "checkedAt": "2022-05-17T00:38:06.000Z",
+  "id": 6094,
+  "type": "anime",
+  "title": "A Piece of Phantasmagoria",
+  "altTitle": [
+    "a piece of PHANTASMAGORIA (ア・ピース・オブ ファンタスマゴリア)"
+  ],
+  "url": "https://myanimelist.net/anime/6094/A_Piece_of_Phantasmagoria",
+  "image": "https://cdn.myanimelist.net/images/anime/1577/92716.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tamurashigeru.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5588"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%9E%E3%82%B4%E3%83%AA%E3%82%A2_%28%E3%81%9F%E3%82%80%E3%82%89%E3%81%97%E3%81%92%E3%82%8B%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5588,
+  "Pages": {
+    "9anime": {
+      "kwm9": {
+        "createdAt": "2020-10-12T15:52:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5648,
+        "identifier": "kwm9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Piece of Phantasmagoria",
+        "url": "https://9anime.to/watch/a-piece-of-phantasmagoria.kwm9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zsnZvi3oazM/V5Wu2NeSyZI/AAAAAAAAx3g/56h_R0swiV4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6094,
+        "aniId": 6094,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6094": {
+        "identifier": "6094",
+        "malId": 6094,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "A Piece of Phantasmagoria",
+        "url": "https://animixplay.to/anime/6094"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T19:44:17.000Z",
+  "checkedAt": "2022-05-14T19:44:17.000Z",
+  "id": 74,
+  "type": "anime",
+  "title": "Gakuen Alice",
+  "altTitle": [
+    "Campus Alice",
+    "Alice Academy",
+    "Gakuen Alice",
+    "学園アリス"
+  ],
+  "url": "https://myanimelist.net/anime/74/Gakuen_Alice",
+  "image": "https://cdn.myanimelist.net/images/anime/4/18118.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Animation/alice/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2435"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4543"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gakuen_Alice"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272599"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2435,
+  "Pages": {
+    "9anime": {
+      "lr7m": {
+        "createdAt": "2020-10-12T15:53:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6188,
+        "identifier": "lr7m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakuen Alice",
+        "url": "https://9anime.to/watch/gakuen-alice.lr7m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZLpruFq5NA8/V7B1GyOxyvI/AAAAAAAA3BU/krgd2QuO9Ko/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 74,
+        "aniId": 74,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gakuen-alice": {
+        "createdAt": "2020-10-12T16:00:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17767,
+        "identifier": "gakuen-alice",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gakuen Alice",
+        "url": "https://gogoanime.vc/category/gakuen-alice",
+        "image": "https://cdnimg.xyz/images/anime/G/Gakuen-alice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 74,
+        "aniId": 74,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1590": {
+        "identifier": "1590",
+        "malId": 74,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gakuen Alice",
+        "url": "https://animepahe.com/a/1590"
+      }
+    },
+    "AniMixPlay": {
+      "74": {
+        "identifier": "74",
+        "malId": 74,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gakuen Alice",
+        "url": "https://animixplay.to/anime/74"
+      }
+    },
+    "YugenAnime": {
+      "309": {
+        "identifier": "309",
+        "malId": 74,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gakuen Alice",
+        "url": "https://yugen.to/anime/309/gakuen-alice/"
+      }
+    }
+  }
+}

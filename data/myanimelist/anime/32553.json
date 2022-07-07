@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T19:31:06.000Z",
+  "checkedAt": "2022-05-14T19:31:06.000Z",
+  "id": 32553,
+  "type": "anime",
+  "title": "Nisekoi: OVA",
+  "altTitle": [
+    "ニセコイ: OAD"
+  ],
+  "url": "https://myanimelist.net/anime/32553/Nisekoi__OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1992/112119.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nisekoi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11551"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11551,
+  "Pages": {
+    "9anime": {
+      "ov08": {
+        "createdAt": "2020-10-12T15:54:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7666,
+        "identifier": "ov08",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nisekoi: OVA",
+        "url": "https://9anime.to/watch/nisekoi-ova.ov08",
+        "image": "https://static.akacdn.ru/files/images/2018/04/7ac3f29ce16d332412f02eedbed3799f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32553,
+        "aniId": 119947,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3003": {
+        "identifier": "3003",
+        "malId": 32553,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nisekoi: OVA",
+        "url": "https://animepahe.com/a/3003"
+      }
+    },
+    "AniMixPlay": {
+      "32553": {
+        "identifier": "32553",
+        "malId": 32553,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nisekoi: OVA",
+        "url": "https://animixplay.to/anime/32553"
+      }
+    }
+  }
+}

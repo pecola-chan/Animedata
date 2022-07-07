@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T22:41:35.000Z",
+  "checkedAt": "2022-05-14T22:41:35.000Z",
+  "id": 2460,
+  "type": "anime",
+  "title": "Maison Ikkoku: Kanketsu-hen",
+  "altTitle": [
+    "Maison Ikkoku: Kanketsuhen",
+    "Maison Ikkoku: Final Chapter",
+    "めぞん一刻 完結篇"
+  ],
+  "url": "https://myanimelist.net/anime/2460/Maison_Ikkoku__Kanketsu-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/2/27059.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=491"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1864"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Maison_Ikkoku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 491,
+  "Pages": {
+    "9anime": {
+      "p12j": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7783,
+        "identifier": "p12j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maison Ikkoku: Kanketsu-hen",
+        "url": "https://9anime.to/watch/maison-ikkoku-kanketsu-hen.p12j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bat4xoNnJlA/WH4PpRRjEZI/AAAAAAABZyg/BY_zh9Auln4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2460,
+        "aniId": 2460,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1002": {
+        "identifier": "1002",
+        "malId": 2460,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Maison Ikkoku: Kanketsu-hen",
+        "url": "https://animepahe.com/a/1002"
+      }
+    },
+    "AniMixPlay": {
+      "2460": {
+        "identifier": "2460",
+        "malId": 2460,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Maison Ikkoku: Kanketsu-hen",
+        "url": "https://animixplay.to/anime/2460"
+      }
+    },
+    "YugenAnime": {
+      "6521": {
+        "identifier": "6521",
+        "malId": 2460,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Maison Ikkoku: Kanketsu-hen",
+        "url": "https://yugen.to/anime/6521/maison-ikkoku-final-1988/"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T22:55:05.000Z",
+  "checkedAt": "2022-05-14T22:55:05.000Z",
+  "id": 7463,
+  "type": "anime",
+  "title": "Weiß Survive R",
+  "altTitle": [
+    "Weiss Survive R",
+    "ヴァイス・サヴァイヴR"
+  ],
+  "url": "https://myanimelist.net/anime/7463/Weiß_Survive_R",
+  "image": "https://cdn.myanimelist.net/images/anime/7/24032.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ws-tcg.com/anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7207"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11165"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Weiß_Survive"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7207,
+  "Pages": {
+    "9anime": {
+      "oxrz": {
+        "createdAt": "2020-10-12T15:54:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7725,
+        "identifier": "oxrz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Weiß Survive R",
+        "url": "https://9anime.to/watch/weiss-survive-r.oxrz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hV0bE6kUhQY/V7J9uqeCzvI/AAAAAAAA3Wg/4bIQ9mKl9HQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7463,
+        "aniId": 7463,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7463": {
+        "identifier": "7463",
+        "malId": 7463,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Weiß Survive R",
+        "url": "https://animixplay.to/anime/7463"
+      }
+    },
+    "YugenAnime": {
+      "2218": {
+        "identifier": "2218",
+        "malId": 7463,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Weiß Survive R",
+        "url": "https://yugen.to/anime/2218/weiss-survive-r/"
+      }
+    }
+  }
+}

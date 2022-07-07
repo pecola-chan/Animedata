@@ -1,0 +1,133 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T18:53:29.000Z",
+  "checkedAt": "2022-05-14T18:53:29.000Z",
+  "id": 38733,
+  "type": "anime",
+  "title": "Hataraku Saibou: Kaze Shoukougun",
+  "altTitle": [
+    "Hataraku Saibou Special",
+    "Hataraku Saibou: Cold Syndrome",
+    "Cells at Work Special",
+    "はたらく細胞 新作エピソード「風邪症候群」"
+  ],
+  "url": "https://myanimelist.net/anime/38733/Hataraku_Saibou__Kaze_Shoukougun",
+  "image": "https://cdn.myanimelist.net/images/anime/1888/96676.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://hataraku-saibou.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13743"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cells_at_Work!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276747"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13743,
+  "Pages": {
+    "9anime": {
+      "3m4y": {
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1831,
+        "identifier": "3m4y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cells at Work Special (Dub)",
+        "url": "https://9anime.to/watch/cells-at-work-special-dub.3m4y",
+        "image": "https://static.akacdn.ru/files/images/2019/09/ea36c9f36303682c1753f7db4b1785b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38733,
+        "aniId": 105662,
+        "deletedAt": null
+      },
+      "3o8y": {
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1875,
+        "identifier": "3o8y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cells at Work Special",
+        "url": "https://9anime.to/watch/cells-at-work-special.3o8y",
+        "image": "https://static.akacdn.ru/static/images/2018/12/6aeed7f5a7e5e9ca3d26f11356baab64.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38733,
+        "aniId": 105662,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hataraku-saibou-kaze-shoukougun": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18195,
+        "identifier": "hataraku-saibou-kaze-shoukougun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Saibou: Kaze Shoukougun",
+        "url": "https://gogoanime.vc/category/hataraku-saibou-kaze-shoukougun",
+        "image": "https://cdnimg.xyz/cover/hataraku-saibou-kaze-shoukougun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38733,
+        "aniId": 105662,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2913": {
+        "identifier": "2913",
+        "malId": 38733,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hataraku Saibou: Kaze Shoukougun",
+        "url": "https://animepahe.com/a/2913"
+      }
+    },
+    "AniMixPlay": {
+      "38733": {
+        "identifier": "38733",
+        "malId": 38733,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hataraku Saibou: Kaze Shoukougun",
+        "url": "https://animixplay.to/anime/38733"
+      }
+    },
+    "YugenAnime": {
+      "5108": {
+        "identifier": "5108",
+        "malId": 38733,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hataraku Saibou: Kaze Shoukougun",
+        "url": "https://yugen.to/anime/5108/hataraku-saibou-kaze-shoukougun/"
+      }
+    }
+  }
+}

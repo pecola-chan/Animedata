@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T16:01:15.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19368,
+  "identifier": "mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
+  "url": "https://gogoanime.vc/category/mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni",
+  "image": "https://gogocdn.net/cover/mashiro-iro-symphony-airi-ga-anata-no-kanojo-ni.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 14049,
+  "aniId": 14049,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:14.000Z",
+    "updatedAt": "2022-05-14T19:35:06.000Z",
+    "checkedAt": "2022-05-14T19:35:06.000Z",
+    "id": 14049,
+    "type": "anime",
+    "title": "Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?",
+    "altTitle": [
+      "Mashiroiro Symphony: Airi ga Anata no Kanojo ni!?",
+      "ましろ色シンフォニー- 愛理があなたの彼女に!？"
+    ],
+    "url": "https://myanimelist.net/anime/14049/Mashiro-iro_Symphony__Airi_ga_Anata_no_Kanojo_ni",
+    "image": "https://cdn.myanimelist.net/images/anime/3/38799.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mashiro.tv/dvd/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8319"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8319
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:16.000Z",
+    "updatedAt": "2022-05-15T19:30:35.000Z",
+    "checkedAt": "2022-05-15T19:30:35.000Z",
+    "id": 14049,
+    "type": "anime",
+    "title": "Mashiroiro Symphony: Airi ga Anata no Kanojo ni!?",
+    "altTitle": [
+      "ましろ色シンフォニー- 愛理があなたの彼女に!？"
+    ],
+    "url": "https://anilist.co/anime/14049",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14049-nInyBHKa6mvt.png",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 14049,
+    "deletedAt": null
+  }
+}

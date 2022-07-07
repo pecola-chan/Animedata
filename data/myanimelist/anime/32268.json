@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T16:09:10.000Z",
+  "checkedAt": "2022-05-14T16:09:10.000Z",
+  "id": 32268,
+  "type": "anime",
+  "title": "Koyomimonogatari",
+  "altTitle": [
+    "Calendar Story",
+    "Koyomimonogatari",
+    "暦物語"
+  ],
+  "url": "https://myanimelist.net/anime/32268/Koyomimonogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.monogatari-series.com/koyomimonogatari/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11827"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17938"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/koyomimonogatari"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11827,
+  "Pages": {
+    "9anime": {
+      "5wvq": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2817,
+        "identifier": "5wvq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koyomimonogatari",
+        "url": "https://9anime.to/watch/koyomimonogatari.5wvq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TztRYarCwaA/V7iCOyX5OnI/AAAAAAAA4jI/_MvPbwPpuGY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32268,
+        "aniId": 21520,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koyomimonogatari": {
+        "createdAt": "2020-10-12T16:01:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18981,
+        "identifier": "koyomimonogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koyomimonogatari",
+        "url": "https://gogoanime.vc/category/koyomimonogatari",
+        "image": "https://images.gogoanime.tv/images/upload/180272.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32268,
+        "aniId": 21520,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "580": {
+        "identifier": "580",
+        "malId": 32268,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koyomimonogatari",
+        "url": "https://animepahe.com/a/580"
+      }
+    },
+    "AniMixPlay": {
+      "32268": {
+        "identifier": "32268",
+        "malId": 32268,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koyomimonogatari",
+        "url": "https://animixplay.to/anime/32268"
+      }
+    },
+    "YugenAnime": {
+      "2955": {
+        "identifier": "2955",
+        "malId": 32268,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koyomimonogatari",
+        "url": "https://yugen.to/anime/2955/koyomimonogatari/"
+      }
+    }
+  }
+}

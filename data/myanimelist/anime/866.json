@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T21:21:42.000Z",
+  "checkedAt": "2022-05-14T21:21:42.000Z",
+  "id": 866,
+  "type": "anime",
+  "title": "Slayers Premium",
+  "altTitle": [
+    "Slayers Movie 5",
+    "スレイヤーズぷれみあむ"
+  ],
+  "url": "https://myanimelist.net/anime/866/Slayers_Premium",
+  "image": "https://cdn.myanimelist.net/images/anime/2/20969.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=123"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=295"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Slayers_Premium"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 123,
+  "Pages": {
+    "9anime": {
+      "ryvq": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9098,
+        "identifier": "ryvq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slayers Premium",
+        "url": "https://9anime.to/watch/slayers-premium.ryvq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LNGLDz9yUXM/WAjPHuNsxyI/AAAAAAABJqY/2-eSEseCkYs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 866,
+        "aniId": 866,
+        "deletedAt": null
+      },
+      "yknj": {
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10712,
+        "identifier": "yknj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slayers Premium (Dub)",
+        "url": "https://9anime.to/watch/slayers-premium-dub.yknj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iHQjE3SaHYc/V6k1HCXfrgI/AAAAAAAA1dU/iXh4-FhWOZE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 866,
+        "aniId": 866,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4575": {
+        "identifier": "4575",
+        "malId": 866,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Slayers Premium",
+        "url": "https://animepahe.com/a/4575"
+      }
+    },
+    "AniMixPlay": {
+      "866": {
+        "identifier": "866",
+        "malId": 866,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Slayers Premium",
+        "url": "https://animixplay.to/anime/866"
+      }
+    },
+    "YugenAnime": {
+      "2209": {
+        "identifier": "2209",
+        "malId": 866,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Slayers Premium",
+        "url": "https://yugen.to/anime/2209/slayers-premium/"
+      }
+    }
+  }
+}

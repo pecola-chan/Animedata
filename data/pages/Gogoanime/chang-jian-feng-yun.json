@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-01-25T02:42:10.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 34192,
+  "identifier": "chang-jian-feng-yun",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Chang Jian Feng Yun",
+  "url": "https://gogoanime.vc/category/chang-jian-feng-yun",
+  "image": "https://gogocdn.net/cover/chang-jian-feng-yun.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 45557,
+  "aniId": 126392,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-01-25T00:13:28.000Z",
+    "updatedAt": "2022-05-14T19:19:23.000Z",
+    "checkedAt": "2022-05-14T19:19:23.000Z",
+    "id": 45557,
+    "type": "anime",
+    "title": "Chang Jian Feng Yun",
+    "altTitle": [
+      "长剑风云"
+    ],
+    "url": "https://myanimelist.net/anime/45557/Chang_Jian_Feng_Yun",
+    "image": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28230736/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16011"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E9%95%BF%E5%89%91%E9%A3%8E%E4%BA%91"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16011
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:15.000Z",
+    "updatedAt": "2022-05-15T11:01:23.000Z",
+    "checkedAt": "2022-05-15T11:01:23.000Z",
+    "id": 126392,
+    "type": "anime",
+    "title": "Chang Jian Fengyun",
+    "altTitle": [
+      "Long Sword",
+      "长剑风云"
+    ],
+    "url": "https://anilist.co/anime/126392",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126392-PfT6gbKFzOG2.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 45557,
+    "deletedAt": null
+  }
+}

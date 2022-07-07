@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T07:05:11.000Z",
+  "checkedAt": "2022-05-14T07:05:11.000Z",
+  "id": 32542,
+  "type": "anime",
+  "title": "Sakamoto Desu ga?",
+  "altTitle": [
+    "Sakamoto desu ga?",
+    "Haven't You Heard? I'm Sakamoto",
+    "坂本ですが？"
+  ],
+  "url": "https://myanimelist.net/anime/32542/Sakamoto_Desu_ga",
+  "image": "https://cdn.myanimelist.net/images/anime/4/79468.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/sakamoto/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11881"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17991"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haven%27t_You_Heard%3F_I%27m_Sakamoto"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/haven-t-you-heard-i-m-sakamoto"
+    },
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/series/Haven't-You-Heard?-I'm-Sakamoto/series-896044"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11881,
+  "Pages": {
+    "9anime": {
+      "k7v9": {
+        "createdAt": "2020-10-12T15:52:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5357,
+        "identifier": "k7v9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakamoto desu ga? (Dub)",
+        "url": "https://9anime.to/watch/sakamoto-desu-ga-dub.k7v9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i2FAmtyy8m8/WiOSyjLrO2I/AAAAAAAABR4/kCk38w7_ytcOZo4EPlDIlKDdGlpcFfChwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32542,
+        "aniId": 21595,
+        "deletedAt": null
+      },
+      "vvwv": {
+        "createdAt": "2020-10-12T15:56:00.000Z",
+        "updatedAt": "2021-08-23T13:37:03.000Z",
+        "checkedAt": null,
+        "id": 9473,
+        "identifier": "vvwv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakamoto Desu ga?",
+        "url": "https://9anime.to/watch/havent-you-heard-im-sakamoto.vvwv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a6e0d8e32c14273c01cfc17123afb647.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32542,
+        "aniId": 21595,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sakamoto-desu-ga": {
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20395,
+        "identifier": "sakamoto-desu-ga",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sakamoto desu ga?",
+        "url": "https://gogoanime.vc/category/sakamoto-desu-ga",
+        "image": "https://cdnimg.xyz/cover/sakamoto-desu-ga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32542,
+        "aniId": 21595,
+        "deletedAt": null
+      },
+      "sakamoto-desu-ga-dub": {
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20396,
+        "identifier": "sakamoto-desu-ga-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sakamoto Desu ga? (Dub)",
+        "url": "https://gogoanime.vc/category/sakamoto-desu-ga-dub",
+        "image": "https://gogocdn.net/cover/sakamoto-desu-ga-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32542,
+        "aniId": 21595,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "882": {
+        "identifier": "882",
+        "malId": 32542,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sakamoto Desu ga?",
+        "url": "https://animepahe.com/a/882"
+      }
+    },
+    "AniMixPlay": {
+      "32542": {
+        "identifier": "32542",
+        "malId": 32542,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sakamoto Desu ga?",
+        "url": "https://animixplay.to/anime/32542"
+      }
+    },
+    "YugenAnime": {
+      "4044": {
+        "identifier": "4044",
+        "malId": 32542,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sakamoto Desu ga?",
+        "url": "https://yugen.to/anime/4044/sakamoto-desu-ga/"
+      }
+    }
+  }
+}

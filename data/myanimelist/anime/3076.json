@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-14T22:08:41.000Z",
+  "checkedAt": "2022-05-14T22:08:41.000Z",
+  "id": 3076,
+  "type": "anime",
+  "title": "Bishoujo Senshi Sailor Moon SuperS Specials",
+  "altTitle": [
+    "Bishoujo Senshi Sailor Moon Super S Special",
+    "美少女戦士セーラームーンSuperSスペシャル"
+  ],
+  "url": "https://myanimelist.net/anime/3076/Bishoujo_Senshi_Sailor_Moon_SuperS_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/9/4619.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2540"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3490"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sailor_moon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2540,
+  "Pages": {
+    "9anime": {
+      "9x7q": {
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4491,
+        "identifier": "9x7q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishoujo Senshi Sailor Moon SuperS Special (Dub)",
+        "url": "https://9anime.to/watch/bishoujo-senshi-sailor-moon-supers-special-dub.9x7q",
+        "image": "https://static.akacdn.ru/files/images/2018/12/fce7f6460a530dab80d525838e1f1999.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3076,
+        "aniId": 3076,
+        "deletedAt": null
+      },
+      "wv06": {
+        "createdAt": "2020-10-12T15:56:14.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9912,
+        "identifier": "wv06",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishoujo Senshi Sailor Moon SuperS Special",
+        "url": "https://9anime.to/watch/bishoujo-senshi-sailor-moon-supers-special.wv06",
+        "image": "https://static.akacdn.ru/files/images/2018/02/38f259a9ee2ac5a6517835e964816754.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3076,
+        "aniId": 3076,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bishoujo-senshi-sailor-moon-supers-specials": {
+        "createdAt": "2021-06-18T20:51:05.000Z",
+        "updatedAt": "2021-06-18T21:20:50.000Z",
+        "checkedAt": null,
+        "id": 37441,
+        "identifier": "bishoujo-senshi-sailor-moon-supers-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bishoujo Senshi Sailor Moon SuperS Specials",
+        "url": "https://gogoanime.vc/category/bishoujo-senshi-sailor-moon-supers-specials",
+        "image": "https://gogocdn.net/cover/bishoujo-senshi-sailor-moon-supers-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3076,
+        "aniId": 3076,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4479": {
+        "identifier": "4479",
+        "malId": 3076,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishoujo Senshi Sailor Moon SuperS Specials",
+        "url": "https://animepahe.com/a/4479"
+      }
+    },
+    "AniMixPlay": {
+      "3076": {
+        "identifier": "3076",
+        "malId": 3076,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bishoujo Senshi Sailor Moon SuperS Specials",
+        "url": "https://animixplay.to/anime/3076"
+      }
+    },
+    "YugenAnime": {
+      "7792": {
+        "identifier": "7792",
+        "malId": 3076,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bishoujo Senshi Sailor Moon SuperS Specials",
+        "url": "https://yugen.to/anime/7792/bishoujo-senshi-sailor-moon-supers-specials/"
+      }
+    }
+  }
+}

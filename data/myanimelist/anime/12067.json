@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-14T20:02:41.000Z",
+  "checkedAt": "2022-05-14T20:02:41.000Z",
+  "id": 12067,
+  "type": "anime",
+  "title": "Rurouni Kenshin Special",
+  "altTitle": [
+    "Rurouni Kenshin Episode 95: End of Wanderings",
+    "Rurouni Kenshin: Meiji Kenkaku Romantan Special",
+    "Rurou no Saihate - Hi to Ruri no Kizuna wa Shiosai no Naka ni",
+    "Samurai X Special",
+    "るろうに剣心 -明治剣客浪漫譚- 流浪の最果て- 緋と瑠璃の絆は潮騒の中に"
+  ],
+  "url": "https://myanimelist.net/anime/12067/Rurouni_Kenshin_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/1581/104187.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Movie/TV/Kenshin/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=90"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rurouni_Kenshin"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 90,
+  "Pages": {
+    "9anime": {
+      "3yz2": {
+        "createdAt": "2020-10-12T15:49:57.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2001,
+        "identifier": "3yz2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rurouni Kenshin Special (Dub)",
+        "url": "https://9anime.to/watch/rurouni-kenshin-special-dub.3yz2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DMligc3ouwc/WEUuS_kx5JI/AAAAAAABRio/XIKY6xgglPs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12067,
+        "aniId": 12067,
+        "deletedAt": null
+      },
+      "490k": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2200,
+        "identifier": "490k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rurouni Kenshin Special",
+        "url": "https://9anime.to/watch/rurouni-kenshin-special.490k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-j8VcfQWxvIg/WEUuTcsMvXI/AAAAAAABRis/jluqL9IOt9A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12067,
+        "aniId": 12067,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1786": {
+        "identifier": "1786",
+        "malId": 12067,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rurouni Kenshin Special",
+        "url": "https://animepahe.com/a/1786"
+      }
+    }
+  }
+}

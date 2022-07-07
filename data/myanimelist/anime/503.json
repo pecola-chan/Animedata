@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-15T01:52:55.000Z",
+  "checkedAt": "2022-05-15T01:52:55.000Z",
+  "id": 503,
+  "type": "anime",
+  "title": "Eien no Aselia",
+  "altTitle": [
+    "Eien no Aseria: The Spirit of Eternity Sword",
+    "The Eternal Aseria",
+    "永遠のアセリア"
+  ],
+  "url": "https://myanimelist.net/anime/503/Eien_no_Aselia",
+  "image": "https://cdn.myanimelist.net/images/anime/1405/112180.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2862"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5531"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%B0%B8%E9%81%A0%E3%81%AE%E3%82%A2%E3%82%BB%E3%83%AA%E3%82%A2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2862,
+  "Pages": {
+    "9anime": {
+      "p1q4": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7797,
+        "identifier": "p1q4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eien no Aselia",
+        "url": "https://9anime.to/watch/eien-no-aselia.p1q4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sgNBdh0J7f8/WIWT0yRi7aI/AAAAAAABazI/uuiZbUTdblM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 503,
+        "aniId": 503,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "eien-no-aselia": {
+        "createdAt": "2021-02-18T16:18:02.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34965,
+        "identifier": "eien-no-aselia",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eien no Aselia",
+        "url": "https://gogoanime.vc/category/eien-no-aselia",
+        "image": "https://gogocdn.net/cover/eien-no-aselia.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 503,
+        "aniId": 503,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "503": {
+        "identifier": "503",
+        "malId": 503,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Eien no Aselia",
+        "url": "https://animixplay.to/anime/503"
+      }
+    },
+    "YugenAnime": {
+      "7245": {
+        "identifier": "7245",
+        "malId": 503,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Eien no Aselia",
+        "url": "https://yugen.to/anime/7245/eien-no-aselia/"
+      }
+    }
+  }
+}

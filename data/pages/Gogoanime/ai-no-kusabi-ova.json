@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-08-10T22:09:39.000Z",
+  "updatedAt": "2021-08-10T22:39:15.000Z",
+  "checkedAt": null,
+  "id": 38197,
+  "identifier": "ai-no-kusabi-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ai no Kusabi Ova",
+  "url": "https://gogoanime.pe/category/ai-no-kusabi-ova",
+  "image": "https://gogocdn.net/images/anime/A/ai-no-kusabi-ova.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 719,
+  "aniId": 719,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T10:34:45.000Z",
+    "checkedAt": "2022-05-14T10:34:45.000Z",
+    "id": 719,
+    "type": "anime",
+    "title": "Ai no Kusabi",
+    "altTitle": [
+      "Love Wedge",
+      "The Space Between",
+      "Wedge of interval",
+      "Wedge of Love",
+      "Ai no Kusabi",
+      "間の楔"
+    ],
+    "url": "https://myanimelist.net/anime/719/Ai_no_Kusabi",
+    "image": "https://cdn.myanimelist.net/images/anime/8/6531.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=793"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=101"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 793
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T18:05:59.000Z",
+    "checkedAt": "2022-05-15T18:05:59.000Z",
+    "id": 719,
+    "type": "anime",
+    "title": "Ai no Kusabi",
+    "altTitle": [
+      "Ai no Kusabi",
+      "間の楔",
+      "Love Wedge",
+      "The Space Between",
+      "Wedge of interval",
+      "Wedge of Love"
+    ],
+    "url": "https://anilist.co/anime/719",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/719.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 719,
+    "deletedAt": null
+  }
+}

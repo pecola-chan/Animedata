@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T17:03:14.000Z",
+  "checkedAt": "2022-05-14T17:03:14.000Z",
+  "id": 26057,
+  "type": "anime",
+  "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+  "altTitle": [
+    "Prisma Illya 2wei! OVA",
+    "Fate/kaleid liner Prisma☆Illya 2wei! OVA",
+    "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! 魔法少女in温泉旅行"
+  ],
+  "url": "https://myanimelist.net/anime/26057/Fate_kaleid_liner_Prisma☆Illya_2wei__Mahou_Shoujo_in_Onsen_Ryokou",
+  "image": "https://cdn.myanimelist.net/images/anime/2/76646.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://store.kadokawa.co.jp/preorder/888800000015/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10804"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10804,
+  "Pages": {
+    "9anime": {
+      "nvlk": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7242,
+        "identifier": "nvlk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+        "url": "https://9anime.to/watch/fatekaleid-liner-prismaillya-2wei-mahou-shoujo-in-onsen-ryokou.nvlk",
+        "image": "http://static.akacdn.ru/static/images/2018/08/3709baa1b3d0b720ae1db71e56d894fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26057,
+        "aniId": 20862,
+        "deletedAt": null
+      },
+      "xolz": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10334,
+        "identifier": "xolz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fate/kaleid liner Prisma☆Illya 2wei! OVA",
+        "url": "https://9anime.to/watch/fatekaleid-liner-prismaillya-2wei-ova.xolz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WWM-o-pq5Pk/WASlNHYX8AI/AAAAAAABIwk/42MXomk5sdg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26057,
+        "aniId": 20862,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1974": {
+        "identifier": "1974",
+        "malId": 26057,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+        "url": "https://animepahe.com/a/1974"
+      }
+    },
+    "AniMixPlay": {
+      "26057": {
+        "identifier": "26057",
+        "malId": 26057,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+        "url": "https://animixplay.to/anime/26057"
+      }
+    }
+  }
+}

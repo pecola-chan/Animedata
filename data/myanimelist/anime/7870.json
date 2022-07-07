@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T20:38:17.000Z",
+  "checkedAt": "2022-05-14T20:38:17.000Z",
+  "id": 7870,
+  "type": "anime",
+  "title": "Baka to Test to Shoukanjuu Specials",
+  "altTitle": [
+    "Baka to Test to Shoukanjuu: Private Footage (Produced by Muttsuri Company)",
+    "Mikoukai Eizou (Seisaku: Muttsuri Shoukai)",
+    "The Idiot, the Tests, and the Summoned Creatures Specials",
+    "バカとテストと召喚獣 映像特典"
+  ],
+  "url": "https://myanimelist.net/anime/7870/Baka_to_Test_to_Shoukanjuu_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/8/67315.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bakatest.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6747"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Baka_to_Test_to_Sh%C5%8Dkanj%C5%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6747,
+  "Pages": {
+    "9anime": {
+      "jqy4": {
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5001,
+        "identifier": "jqy4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baka to Test to Shoukanjuu Specials",
+        "url": "https://9anime.to/watch/baka-to-test-to-shoukanjuu-specials.jqy4",
+        "image": "https://static.akacdn.ru/static/images/2018/04/c14804e9fd21cb8e9a340790d91ec046.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7870,
+        "aniId": 7870,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7870": {
+        "identifier": "7870",
+        "malId": 7870,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Baka to Test to Shoukanjuu Specials",
+        "url": "https://animixplay.to/anime/7870"
+      }
+    },
+    "YugenAnime": {
+      "4711": {
+        "identifier": "4711",
+        "malId": 7870,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Baka to Test to Shoukanjuu Specials",
+        "url": "https://yugen.to/anime/4711/baka-to-test-to-shoukanjuu-ni-specials/"
+      }
+    }
+  }
+}

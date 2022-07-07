@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T16:08:09.000Z",
+  "checkedAt": "2022-05-14T16:08:09.000Z",
+  "id": 38297,
+  "type": "anime",
+  "title": "Maou-sama, Retry!",
+  "altTitle": [
+    "Demon Lord, Retry!",
+    "魔王様、リトライ！"
+  ],
+  "url": "https://myanimelist.net/anime/38297/Maou-sama_Retry",
+  "image": "https://cdn.myanimelist.net/images/anime/1754/113897.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://maousama-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14391"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21809"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ma%C5%8D-sama,_Retry!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282401"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/demon-lord-retry"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14391,
+  "Pages": {
+    "9anime": {
+      "7r4j": {
+        "createdAt": "2020-10-12T15:51:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3560,
+        "identifier": "7r4j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maou-sama, Retry!",
+        "url": "https://9anime.to/watch/maou-sama-retry.7r4j",
+        "image": "https://static.akacdn.ru/files/images/2018/09/f0b355670abf4f9ab33619d39053f2dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38297,
+        "aniId": 104252,
+        "deletedAt": null
+      },
+      "j438": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4678,
+        "identifier": "j438",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Demon Lord, Retry! (Dub)",
+        "url": "https://9anime.to/watch/demon-lord-retry-dub.j438",
+        "image": "https://static.akacdn.ru/files/images/2019/07/59c39df44c73fd61b27fbc1dc8c4d3c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38297,
+        "aniId": 104252,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "maou-sama-retry": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19342,
+        "identifier": "maou-sama-retry",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maou-sama, Retry!",
+        "url": "https://gogoanime.vc/category/maou-sama-retry",
+        "image": "https://cdnimg.xyz/cover/maou-sama-retry.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38297,
+        "aniId": 104252,
+        "deletedAt": null
+      },
+      "maou-sama-retry-dub": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19343,
+        "identifier": "maou-sama-retry-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maou-sama, Retry! (Dub)",
+        "url": "https://gogoanime.vc/category/maou-sama-retry-dub",
+        "image": "https://cdnimg.xyz/cover/maou-sama-retry-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38297,
+        "aniId": 104252,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3343": {
+        "identifier": "3343",
+        "malId": 38297,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Maou-sama, Retry!",
+        "url": "https://animepahe.com/a/3343"
+      }
+    },
+    "AniMixPlay": {
+      "38297": {
+        "identifier": "38297",
+        "malId": 38297,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Maou-sama, Retry!",
+        "url": "https://animixplay.to/anime/38297"
+      }
+    },
+    "YugenAnime": {
+      "5167": {
+        "identifier": "5167",
+        "malId": 38297,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Maou-sama, Retry!",
+        "url": "https://yugen.to/anime/5167/maou-sama-retry/"
+      }
+    }
+  }
+}

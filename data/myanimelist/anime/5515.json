@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-15T07:22:28.000Z",
+  "checkedAt": "2022-05-15T07:22:28.000Z",
+  "id": 5515,
+  "type": "anime",
+  "title": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+  "altTitle": [
+    "Dangard Ace Movie: The Great Space War",
+    "惑星ロボ ダンガードA[エース] 宇宙大海戦"
+  ],
+  "url": "https://myanimelist.net/anime/5515/Wakusei_Robo_Danguard_Ace__Uchuu_Daikaisen",
+  "image": "https://cdn.myanimelist.net/images/anime/10/62699.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2228"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3620"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/惑星ロボ_ダンガードA#.E3.80.8E.E6.83.91.E6.98.9F.E3.83.AD.E3.83.9C_.E3.83.80.E3.83.B3.E3.82.AC.E3.83.BC.E3.83.89A_.E5.AE.87.E5.AE.99.E5.A4.A7.E6.B5.B7.E6.88.A6.E3.80.8F"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2228,
+  "Pages": {
+    "9anime": {
+      "24z4": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1280,
+        "identifier": "24z4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+        "url": "https://9anime.to/watch/wakusei-robo-danguard-ace-uchuu-daikaisen.24z4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Zybn8acvoRc/WLF0_qFjcWI/AAAAAAABd6s/nM_ZWvC7tGY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5515,
+        "aniId": 5515,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5515": {
+        "identifier": "5515",
+        "malId": 5515,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+        "url": "https://animixplay.to/anime/5515"
+      }
+    }
+  }
+}

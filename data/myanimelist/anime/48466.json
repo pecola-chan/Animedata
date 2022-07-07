@@ -1,0 +1,135 @@
+{
+  "createdAt": "2021-10-04T10:31:03.000Z",
+  "updatedAt": "2022-05-13T18:01:59.000Z",
+  "checkedAt": "2022-05-13T18:01:59.000Z",
+  "id": 48466,
+  "type": "anime",
+  "title": "Kyoukai Senki",
+  "altTitle": [
+    "AMAIM Warrior at the Borderline",
+    "境界戦機"
+  ],
+  "url": "https://myanimelist.net/anime/48466/Kyoukai_Senki",
+  "image": "https://cdn.myanimelist.net/images/anime/1772/116668.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.kyoukai-senki.net"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16128"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24151"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amaim_Warrior_at_the_Borderline"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282571"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 16128,
+  "Pages": {
+    "Gogoanime": {
+      "kyoukai-senki": {
+        "createdAt": "2021-10-04T18:02:19.000Z",
+        "updatedAt": "2021-10-04T18:32:17.000Z",
+        "checkedAt": null,
+        "id": 38869,
+        "identifier": "kyoukai-senki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyoukai Senki",
+        "url": "https://gogoanime.pe/category/kyoukai-senki",
+        "image": "https://gogocdn.net/cover/kyoukai-senki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48466,
+        "aniId": 131005,
+        "deletedAt": null
+      },
+      "kyoukai-senki-dub": {
+        "createdAt": "2022-05-13T18:01:57.551Z",
+        "updatedAt": "2022-05-13T18:20:01.000Z",
+        "checkedAt": "2022-05-13T18:01:57.000Z",
+        "id": 40937,
+        "identifier": "kyoukai-senki-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyoukai Senki (Dub)",
+        "url": "https://gogoanime.sk/category/kyoukai-senki-dub",
+        "image": "https://gogocdn.net/cover/kyoukai-senki-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48466,
+        "aniId": 131005,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9ol8x": {
+        "createdAt": "2021-10-04T18:32:21.000Z",
+        "updatedAt": "2022-06-14T01:03:17.000Z",
+        "checkedAt": "2022-06-14T01:03:17.000Z",
+        "id": 38872,
+        "identifier": "9ol8x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyoukai Senki",
+        "url": "https://9anime.to/watch/amaim-warrior-at-the-borderline.9ol8x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2e/2e047d720fae1918928c3f59248faf08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48466,
+        "aniId": 131005,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4546": {
+        "identifier": "4546",
+        "malId": 48466,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyoukai Senki",
+        "url": "https://animepahe.com/a/4546"
+      }
+    },
+    "AniMixPlay": {
+      "48466": {
+        "identifier": "48466",
+        "malId": 48466,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyoukai Senki",
+        "url": "https://animixplay.to/anime/48466"
+      }
+    },
+    "YugenAnime": {
+      "9866": {
+        "identifier": "9866",
+        "malId": 48466,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyoukai Senki",
+        "url": "https://yugen.to/anime/9866/kyoukai-senki/"
+      }
+    }
+  }
+}

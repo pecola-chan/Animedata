@@ -1,0 +1,69 @@
+{
+  "createdAt": "2021-08-02T03:47:46.000Z",
+  "updatedAt": "2021-08-02T04:17:28.000Z",
+  "checkedAt": null,
+  "id": 38097,
+  "identifier": "dinghai-fusheng-lu",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Dinghai Fusheng Lu",
+  "url": "https://gogoanime.pe/category/dinghai-fusheng-lu",
+  "image": "https://gogocdn.net/cover/dinghai-fusheng-lu.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 44065,
+  "aniId": 126366,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-08-01T08:18:42.000Z",
+    "updatedAt": "2022-05-14T17:31:58.000Z",
+    "checkedAt": "2022-05-14T17:31:58.000Z",
+    "id": 44065,
+    "type": "anime",
+    "title": "Dinghai Fusheng Lu",
+    "altTitle": [
+      "Epic of Divinity Light",
+      "Dinghai Fusheng Records",
+      "定海浮生录"
+    ],
+    "url": "https://myanimelist.net/anime/44065/Dinghai_Fusheng_Lu",
+    "image": "https://cdn.myanimelist.net/images/anime/1943/115892.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28230728/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%AE%9A%E6%B5%B7%E6%B5%AE%E7%94%9F%E5%BD%95/50199700"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-25T02:08:17.000Z",
+    "updatedAt": "2022-05-15T16:43:47.000Z",
+    "checkedAt": "2022-05-15T16:43:47.000Z",
+    "id": 126366,
+    "type": "anime",
+    "title": "Dinghai Fusheng Lu",
+    "altTitle": [
+      "Epic of Divinity Light",
+      "定海浮生录",
+      " Dinghai Fusheng Records"
+    ],
+    "url": "https://anilist.co/anime/126366",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126366-uomX6lT78MUB.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 44065,
+    "deletedAt": null
+  }
+}

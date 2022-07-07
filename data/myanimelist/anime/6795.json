@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T20:33:53.000Z",
+  "checkedAt": "2022-05-14T20:33:53.000Z",
+  "id": 6795,
+  "type": "anime",
+  "title": "Genius Party Beyond",
+  "altTitle": [
+    "Genius Party 2",
+    "Gala",
+    "Moondrive",
+    "Wanwa the Puppy",
+    "Tojin Kit",
+    "Dimension Bomb",
+    "ジーニアスパーティービヨンド"
+  ],
+  "url": "https://myanimelist.net/anime/6795/Genius_Party_Beyond",
+  "image": "https://cdn.myanimelist.net/images/anime/11/18914.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.genius-party.jp/beyond/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6037"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5010"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Genius_Party"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6037,
+  "Pages": {
+    "9anime": {
+      "xznq": {
+        "createdAt": "2020-10-12T15:56:39.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10469,
+        "identifier": "xznq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Genius Party Beyond",
+        "url": "https://9anime.to/watch/genius-party-beyond.xznq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ghW7DockZgo/WI1joZqWH5I/AAAAAAABbe8/VlEE9k8g0oQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6795,
+        "aniId": 6795,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6795": {
+        "identifier": "6795",
+        "malId": 6795,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Genius Party Beyond",
+        "url": "https://animixplay.to/anime/6795"
+      }
+    }
+  }
+}

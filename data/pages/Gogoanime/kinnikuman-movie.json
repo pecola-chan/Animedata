@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:00.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18861,
+  "identifier": "kinnikuman-movie",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kinnikuman (Movie)",
+  "url": "https://gogoanime.vc/category/kinnikuman-movie",
+  "image": "https://cdnimg.xyz/cover/kinnikuman-movie.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3273,
+  "aniId": 3273,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:36.000Z",
+    "updatedAt": "2022-05-18T19:48:18.000Z",
+    "checkedAt": "2022-05-18T19:48:18.000Z",
+    "id": 3273,
+    "type": "anime",
+    "title": "Kinnikuman (Movie)",
+    "altTitle": [
+      "Kinnikuman (1984)",
+      "Kinnikuman: Stolen Championship Belt",
+      "Kinnikuman: Ubawareta Championship Belt",
+      "キン肉マン (キン肉マン 奪われたチャンピオンベルト)"
+    ],
+    "url": "https://myanimelist.net/anime/3273/Kinnikuman_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1457/98817.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2133"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3640"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kinnikuman_%28film%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2133
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:37.000Z",
+    "updatedAt": "2022-05-18T19:48:17.000Z",
+    "checkedAt": "2022-05-18T19:48:17.000Z",
+    "id": 3273,
+    "type": "anime",
+    "title": "Kinnikuman (1984)",
+    "altTitle": [
+      "キン肉マン 奪われたチャンピオンベルト",
+      "Kinnikuman (Movie)",
+      "Kinnikuman Movie 1",
+      "Kinnikuman: The Stolen Championship Belt"
+    ],
+    "url": "https://anilist.co/anime/3273",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3273.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3273,
+    "deletedAt": null
+  }
+}

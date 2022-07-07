@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2022-05-14T22:00:22.000Z",
+  "checkedAt": "2022-05-14T22:00:22.000Z",
+  "id": 29035,
+  "type": "anime",
+  "title": "Robot Girls Z Plus",
+  "altTitle": [
+    "Robot Girls Z+",
+    "Robot Girls Z Plus",
+    "ロボットガールズZプラス"
+  ],
+  "url": "https://myanimelist.net/anime/29035/Robot_Girls_Z_Plus",
+  "image": "https://cdn.myanimelist.net/images/anime/9/73636.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.robot-girlsz.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10999"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16677"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Robot_Girls_Z"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-229062"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10999,
+  "Pages": {
+    "9anime": {
+      "ryn": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9092,
+        "identifier": "ryn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Robot Girls Z Plus",
+        "url": "https://9anime.to/watch/robot-girls-z-plus.ryn",
+        "image": "http://static.akacdn.ru/static/images/2018/04/da804ccdc2ad068cbe7af660f15a7577.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29035,
+        "aniId": 20998,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "29035": {
+        "identifier": "29035",
+        "malId": 29035,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Robot Girls Z Plus",
+        "url": "https://animixplay.to/anime/29035"
+      }
+    },
+    "YugenAnime": {
+      "3072": {
+        "identifier": "3072",
+        "malId": 29035,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Robot Girls Z Plus",
+        "url": "https://yugen.to/anime/3072/robot-girls-z-plus/"
+      }
+    }
+  }
+}

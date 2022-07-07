@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-15T09:44:20.000Z",
+  "checkedAt": "2022-05-15T09:44:20.000Z",
+  "id": 2548,
+  "type": "anime",
+  "title": "Ai no Wakakusa Monogatari",
+  "altTitle": [
+    "Sekai Meisaku Gekijou",
+    "Tales of Little Women",
+    "愛の若草物語"
+  ],
+  "url": "https://myanimelist.net/anime/2548/Ai_no_Wakakusa_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/2/3210.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/054/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2290"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=801"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Little_Women_%281987_TV_series%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2290,
+  "Pages": {
+    "9anime": {
+      "3zm2": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2015,
+        "identifier": "3zm2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tales of Little Women (Dub)",
+        "url": "https://9anime.to/watch/tales-of-little-women-dub.3zm2",
+        "image": "https://static.akacdn.ru/files/images/2018/04/b54f330e1a0e207c01cea0c515379860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2548,
+        "aniId": 2548,
+        "deletedAt": null
+      },
+      "wzx7": {
+        "createdAt": "2020-10-12T15:56:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10019,
+        "identifier": "wzx7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai no Wakakusa Monogatari",
+        "url": "https://9anime.to/watch/ai-no-wakakusa-monogatari.wzx7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cBz1QKgTVLk/WJhAsgyMcsI/AAAAAAABcBE/mYLGZbrUaSA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2548,
+        "aniId": 2548,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ai-no-wakakusa-monogatari": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16407,
+        "identifier": "ai-no-wakakusa-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ai no Wakakusa Monogatari",
+        "url": "https://gogoanime.vc/category/ai-no-wakakusa-monogatari",
+        "image": "https://cdnimg.xyz/cover/ai-no-wakakusa-monogatari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2548,
+        "aniId": 2548,
+        "deletedAt": null
+      },
+      "ai-no-wakakusa-monogatari-dub": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16408,
+        "identifier": "ai-no-wakakusa-monogatari-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ai no Wakakusa Monogatari (Dub)",
+        "url": "https://gogoanime.vc/category/ai-no-wakakusa-monogatari-dub",
+        "image": "https://cdnimg.xyz/cover/ai-no-wakakusa-monogatari-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2548,
+        "aniId": 2548,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2548": {
+        "identifier": "2548",
+        "malId": 2548,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ai no Wakakusa Monogatari",
+        "url": "https://animixplay.to/anime/2548"
+      }
+    },
+    "YugenAnime": {
+      "4209": {
+        "identifier": "4209",
+        "malId": 2548,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ai no Wakakusa Monogatari",
+        "url": "https://yugen.to/anime/4209/ai-no-wakakusa-monogatari/"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T16:42:15.000Z",
+  "checkedAt": "2022-05-14T16:42:15.000Z",
+  "id": 990,
+  "type": "anime",
+  "title": "Kamisama Kazoku",
+  "altTitle": [
+    "Kami-sama Kazoku",
+    "神様家族"
+  ],
+  "url": "https://myanimelist.net/anime/990/Kamisama_Kazoku",
+  "image": "https://cdn.myanimelist.net/images/anime/6/2566.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4147"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6548"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kamisama_Kazoku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4147,
+  "Pages": {
+    "9anime": {
+      "4q2o": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2354,
+        "identifier": "4q2o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kamisama Kazoku",
+        "url": "https://9anime.to/watch/kamisama-kazoku.4q2o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JtfGJZei3Pk/V45oG9yewWI/AAAAAAAAwek/oyVDjmrnAQ8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 990,
+        "aniId": 990,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kami-sama-kazoku": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18683,
+        "identifier": "kami-sama-kazoku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kami-sama Kazoku",
+        "url": "https://gogoanime.vc/category/kami-sama-kazoku",
+        "image": "https://images.gogoanime.tv/images/anime/K/Kami-sama-Kazoku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 990,
+        "aniId": 990,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "990": {
+        "identifier": "990",
+        "malId": 990,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kamisama Kazoku",
+        "url": "https://animixplay.to/anime/990"
+      }
+    },
+    "YugenAnime": {
+      "3812": {
+        "identifier": "3812",
+        "malId": 990,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kamisama Kazoku",
+        "url": "https://yugen.to/anime/3812/kami-sama-kazoku/"
+      }
+    }
+  }
+}

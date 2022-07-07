@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T16:16:09.000Z",
+  "checkedAt": "2022-05-14T16:16:09.000Z",
+  "id": 14199,
+  "type": "anime",
+  "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+  "altTitle": [
+    "As Long as There's Love, It Doesn't Matter If He Is My Brother, Right?",
+    "OniAi",
+    "お兄ちゃんだけど愛さえあれば関係ないよねっ"
+  ],
+  "url": "https://myanimelist.net/anime/14199/Oniichan_dakedo_Ai_sae_Areba_Kankeinai_yo_ne",
+  "image": "https://cdn.myanimelist.net/images/anime/6/42111.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oniai.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9230"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14338"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/お兄ちゃんだけど愛さえあれば関係ないよねっ"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/oniai"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9230,
+  "Pages": {
+    "9anime": {
+      "zkqp": {
+        "createdAt": "2020-10-12T15:57:10.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11166,
+        "identifier": "zkqp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+        "url": "https://9anime.to/watch/oniai.zkqp",
+        "image": "//static.9anime.to/i/cache/images/2018/04/8ec9d5f706356c1f66331405ac85af78.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14199,
+        "aniId": 14199,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oniai-": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19887,
+        "identifier": "oniai-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "OniAi ",
+        "url": "https://gogoanime.vc/category/oniai-",
+        "image": "https://images.gogoanime.tv/images/anime/O/oniai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14199,
+        "aniId": 14199,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "578": {
+        "identifier": "578",
+        "malId": 14199,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+        "url": "https://animepahe.com/a/578"
+      }
+    },
+    "AniMixPlay": {
+      "14199": {
+        "identifier": "14199",
+        "malId": 14199,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+        "url": "https://animixplay.to/anime/14199"
+      }
+    }
+  }
+}

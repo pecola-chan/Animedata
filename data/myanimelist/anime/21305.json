@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T21:51:30.000Z",
+  "checkedAt": "2022-05-14T21:51:30.000Z",
+  "id": 21305,
+  "type": "anime",
+  "title": "Trick or Alice",
+  "altTitle": [
+    "トリック・オア・アリス"
+  ],
+  "url": "https://myanimelist.net/anime/21305/Trick_or_Alice",
+  "image": "https://cdn.myanimelist.net/images/anime/12/85484.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.primetime.gs/andercen/product/alice_01/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10267"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16463"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10267,
+  "Pages": {
+    "9anime": {
+      "ovjz": {
+        "createdAt": "2020-10-12T15:54:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7677,
+        "identifier": "ovjz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Trick or Alice",
+        "url": "https://9anime.to/watch/trick-or-alice.ovjz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3Zj1jwwCmkA/V-3g_4KKOtI/AAAAAAABCbQ/nf264CtNSHk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21305,
+        "aniId": 87527,
+        "deletedAt": null
+      }
+    }
+  }
+}

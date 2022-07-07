@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T23:03:29.000Z",
+  "checkedAt": "2022-05-14T23:03:29.000Z",
+  "id": 713,
+  "type": "anime",
+  "title": "Air Movie",
+  "altTitle": [
+    "Gekijouban Air",
+    "Air: The Motion Picture",
+    "劇場版AIR"
+  ],
+  "url": "https://myanimelist.net/anime/713/Air_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/10/26507.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.air2004.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1667"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4093"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Air_%28film%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1667,
+  "Pages": {
+    "9anime": {
+      "lq6q": {
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6161,
+        "identifier": "lq6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Air: The Motion Picture (Dub)",
+        "url": "https://9anime.to/watch/air-the-motion-picture-dub.lq6q",
+        "image": "http://static.akacdn.ru/static/images/2018/06/1e2038035a0edcb1ceebfcc970cfb547.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 713,
+        "aniId": 713,
+        "deletedAt": null
+      },
+      "q91j": {
+        "createdAt": "2020-10-12T15:55:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8371,
+        "identifier": "q91j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Air Movie",
+        "url": "https://9anime.to/watch/air-movie.q91j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wqAWWThQp4o/WRBJqLB7LWI/AAAAAAAAmQ4/PxaiY0h5DyEmjehsFRmlPL6SaFRK1My3wCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 713,
+        "aniId": 713,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "air-movie": {
+        "createdAt": "2020-10-12T17:57:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23752,
+        "identifier": "air-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Air Movie",
+        "url": "https://gogoanime.vc/category/air-movie",
+        "image": "https://gogocdn.net/images/anime/A/air-tv.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 713,
+        "aniId": 713,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4012": {
+        "identifier": "4012",
+        "malId": 713,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Air Movie",
+        "url": "https://animepahe.com/a/4012"
+      }
+    },
+    "AniMixPlay": {
+      "713": {
+        "identifier": "713",
+        "malId": 713,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Air Movie",
+        "url": "https://animixplay.to/anime/713"
+      }
+    },
+    "YugenAnime": {
+      "231": {
+        "identifier": "231",
+        "malId": 713,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Air Movie",
+        "url": "https://yugen.to/anime/231/air-movie/"
+      }
+    }
+  }
+}

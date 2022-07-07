@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-03-23T01:05:15.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35874,
+  "identifier": "chogattai-majutsu-robot-ginguiser",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Chogattai Majutsu Robot Ginguiser",
+  "url": "https://gogoanime.vc/category/chogattai-majutsu-robot-ginguiser",
+  "image": "https://gogocdn.net/cover/chogattai-majutsu-robot-ginguiser.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8375,
+  "aniId": 8375,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:59.000Z",
+    "updatedAt": "2022-05-15T16:44:52.000Z",
+    "checkedAt": "2022-05-15T16:44:52.000Z",
+    "id": 8375,
+    "type": "anime",
+    "title": "Chogattai Majutsu Robot Ginguiser",
+    "altTitle": [
+      "Ultra-Transforming Magic Robot Ginguiser",
+      "超合体魔術ロボ　ギンガイザー"
+    ],
+    "url": "https://myanimelist.net/anime/8375/Chogattai_Majutsu_Robot_Ginguiser",
+    "image": "https://cdn.myanimelist.net/images/anime/7/51471.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/work/chouginga_ginguiser.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3483"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1273"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/超合体魔術ロボ_ギンガイザー"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3483
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:56.000Z",
+    "updatedAt": "2022-05-15T19:46:47.000Z",
+    "checkedAt": "2022-05-15T19:46:47.000Z",
+    "id": 8375,
+    "type": "anime",
+    "title": "Chogattai Majutsu Robot Ginguiser",
+    "altTitle": [
+      "超合体魔術ロボ　ギンガイザー",
+      "Ultra-Transforming Magic Robot Ginguiser"
+    ],
+    "url": "https://anilist.co/anime/8375",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8375.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8375,
+    "deletedAt": null
+  }
+}

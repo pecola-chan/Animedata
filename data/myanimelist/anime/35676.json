@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-14T09:22:20.000Z",
+  "checkedAt": "2022-05-14T09:22:20.000Z",
+  "id": 35676,
+  "type": "anime",
+  "title": "Berserk: Majo no Tsuisou",
+  "altTitle": [
+    "Berserk 2nd Season Episode 9.5",
+    "Berserk 2nd Season Recap",
+    "Berserk: Recollections of the Witch",
+    "ベルセルク 魔女の追想"
+  ],
+  "url": "https://myanimelist.net/anime/35676/Berserk__Majo_no_Tsuisou",
+  "image": "https://cdn.myanimelist.net/images/anime/13/86045.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.berserk-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12414"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Berserk_%282016_TV_series%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12414,
+  "Pages": {
+    "9anime": {
+      "3l09": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 1807,
+        "identifier": "3l09",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Berserk (2017) Recap",
+        "url": "https://9anime.to/watch/berserk-2017-recap.3l09",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-I5PX9MMOgkY/WTLKP_uYCpI/AAAAAAAArzw/vRv3I17tFVUZpFntFiQvBpl4KiHheFxeACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35676,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2684": {
+        "identifier": "2684",
+        "malId": 35676,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Berserk: Majo no Tsuisou",
+        "url": "https://animepahe.com/a/2684"
+      }
+    }
+  }
+}

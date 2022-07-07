@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T19:02:05.000Z",
+  "checkedAt": "2022-05-14T19:02:05.000Z",
+  "id": 1796,
+  "type": "anime",
+  "title": "Dirty Pair: The Movie",
+  "altTitle": [
+    "Dirty Pair: Project Eden",
+    "ダーティペア the Movie"
+  ],
+  "url": "https://myanimelist.net/anime/1796/Dirty_Pair__The_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1855/92685.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1032"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=585"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dirty_Pair"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1032,
+  "Pages": {
+    "9anime": {
+      "p80x": {
+        "createdAt": "2020-10-12T15:54:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7915,
+        "identifier": "p80x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair: The Movie (Dub)",
+        "url": "https://9anime.to/watch/dirty-pair-the-movie-dub.p80x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GmoBHYRjOV8/V_zKvrhiGmI/AAAAAAABGkE/Xep6Woeqrxg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1796,
+        "aniId": 1796,
+        "deletedAt": null
+      },
+      "v866": {
+        "createdAt": "2020-10-12T15:55:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9296,
+        "identifier": "v866",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair: The Movie",
+        "url": "https://9anime.to/watch/dirty-pair-the-movie.v866",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xW3gOcmfcW8/V_zMC2NpM9I/AAAAAAABGk4/VGMFCFXauKQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1796,
+        "aniId": 1796,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dirty-pair-the-movie": {
+        "createdAt": "2022-05-24T17:30:49.932Z",
+        "updatedAt": "2022-05-24T18:20:00.000Z",
+        "checkedAt": "2022-05-24T17:30:49.000Z",
+        "id": 41062,
+        "identifier": "dirty-pair-the-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dirty Pair: The Movie",
+        "url": "https://gogoanime.sk/category/dirty-pair-the-movie",
+        "image": "https://gogocdn.net/cover/dirty-pair-the-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1796,
+        "aniId": 1796,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1796": {
+        "identifier": "1796",
+        "malId": 1796,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dirty Pair: The Movie",
+        "url": "https://animixplay.to/anime/1796"
+      }
+    },
+    "YugenAnime": {
+      "15368": {
+        "identifier": "15368",
+        "malId": 1796,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dirty Pair: The Movie",
+        "url": "https://yugen.to/anime/15368/dirty-pair-the-movie/"
+      }
+    }
+  }
+}

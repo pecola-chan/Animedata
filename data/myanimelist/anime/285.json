@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T17:39:05.000Z",
+  "checkedAt": "2022-05-14T17:39:05.000Z",
+  "id": 285,
+  "type": "anime",
+  "title": "Argento Soma",
+  "altTitle": [
+    "AΠHENTO ΣOMA",
+    "アルジェント ソーマ"
+  ],
+  "url": "https://myanimelist.net/anime/285/Argento_Soma",
+  "image": "https://cdn.myanimelist.net/images/anime/8/9440.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=28"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=50"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=413"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Argento_Soma"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 50,
+  "Pages": {
+    "9anime": {
+      "k3wv": {
+        "createdAt": "2020-10-12T15:52:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5246,
+        "identifier": "k3wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Argento Soma",
+        "url": "https://9anime.to/watch/argento-soma.k3wv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GIY52PuD-ic/V6oHDM5KNHI/AAAAAAAA1ww/UAI5XbFDt4I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 285,
+        "aniId": 285,
+        "deletedAt": null
+      },
+      "q88v": {
+        "createdAt": "2020-10-12T15:55:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8354,
+        "identifier": "q88v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Argento Soma (Dub)",
+        "url": "https://9anime.to/watch/argento-soma-dub.q88v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0GqPM_wr1yw/WAN_txEZh1I/AAAAAAABIc4/txjVt29Bd0A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 285,
+        "aniId": 285,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "argento-soma": {
+        "createdAt": "2021-02-24T08:56:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35187,
+        "identifier": "argento-soma",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Argento Soma",
+        "url": "https://gogoanime.vc/category/argento-soma",
+        "image": "https://gogocdn.net/cover/argento-soma.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 285,
+        "aniId": 285,
+        "deletedAt": null
+      },
+      "argento-soma-dub": {
+        "createdAt": "2022-02-21T13:59:44.000Z",
+        "updatedAt": "2022-02-21T14:17:39.000Z",
+        "checkedAt": null,
+        "id": 40226,
+        "identifier": "argento-soma-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Argento Soma (Dub)",
+        "url": "https://gogoanime.fi/category/argento-soma-dub",
+        "image": "https://gogocdn.net/cover/argento-soma-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 285,
+        "aniId": 285,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1003": {
+        "identifier": "1003",
+        "malId": 285,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Argento Soma",
+        "url": "https://animepahe.com/a/1003"
+      }
+    },
+    "AniMixPlay": {
+      "285": {
+        "identifier": "285",
+        "malId": 285,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Argento Soma",
+        "url": "https://animixplay.to/anime/285"
+      }
+    },
+    "YugenAnime": {
+      "3204": {
+        "identifier": "3204",
+        "malId": 285,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Argento Soma",
+        "url": "https://yugen.to/anime/3204/argento-soma/"
+      }
+    }
+  }
+}

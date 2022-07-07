@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T16:35:35.000Z",
+  "checkedAt": "2022-05-14T16:35:35.000Z",
+  "id": 39808,
+  "type": "anime",
+  "title": "Non Non Biyori Nonstop",
+  "altTitle": [
+    "Non Non Biyori 3rd Season",
+    "Non Non Biyori Third Season",
+    "Non Non Biyori Nonstop",
+    "のんのんびより のんすとっぷ"
+  ],
+  "url": "https://myanimelist.net/anime/39808/Non_Non_Biyori_Nonstop",
+  "image": "https://cdn.myanimelist.net/images/anime/1033/111540.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nonnontv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14914"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22215"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Non_Non_Biyori"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257295"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14914,
+  "Pages": {
+    "9anime": {
+      "m9mv": {
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6527,
+        "identifier": "m9mv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Non Non Biyori 3rd Season",
+        "url": "https://9anime.to/watch/non-non-biyori-3rd-season.m9mv",
+        "image": "https://static.akacdn.ru/files/images/2020/01/a498597576648a5023167b439573a681.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39808,
+        "aniId": 109403,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "non-non-biyori-nonstop": {
+        "createdAt": "2021-01-10T18:22:04.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33392,
+        "identifier": "non-non-biyori-nonstop",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Non Non Biyori Nonstop",
+        "url": "https://gogoanime.vc/category/non-non-biyori-nonstop",
+        "image": "https://gogocdn.net/cover/non-non-biyori-nonstop.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39808,
+        "aniId": 109403,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4177": {
+        "identifier": "4177",
+        "malId": 39808,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Non Non Biyori Nonstop",
+        "url": "https://animepahe.com/a/4177"
+      }
+    },
+    "AniMixPlay": {
+      "39808": {
+        "identifier": "39808",
+        "malId": 39808,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Non Non Biyori Nonstop",
+        "url": "https://animixplay.to/anime/39808"
+      }
+    },
+    "YugenAnime": {
+      "7122": {
+        "identifier": "7122",
+        "malId": 39808,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Non Non Biyori Nonstop",
+        "url": "https://yugen.to/anime/7122/non-non-biyori-nonstop/"
+      }
+    }
+  }
+}

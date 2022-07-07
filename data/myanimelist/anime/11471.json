@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-14T21:24:35.000Z",
+  "checkedAt": "2022-05-14T21:24:35.000Z",
+  "id": 11471,
+  "type": "anime",
+  "title": "Dororo Pilot",
+  "altTitle": [
+    "Dororo (Pilot Film)",
+    "どろろ"
+  ],
+  "url": "https://myanimelist.net/anime/11471/Dororo_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/5/74368.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tezukaosamu.net/en/anime/105.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8770"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dororo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8770,
+  "Pages": {
+    "9anime": {
+      "58yj": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2599,
+        "identifier": "58yj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dororo Pilot",
+        "url": "https://9anime.to/watch/dororo-pilot.58yj",
+        "image": "https://static.akacdn.ru/files/images/2018/04/48b86681e66284487ddde838cce6a1ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11471,
+        "aniId": 11471,
+        "deletedAt": null
+      }
+    }
+  }
+}

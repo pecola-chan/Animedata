@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-11-27T09:01:18.000Z",
+  "updatedAt": "2022-05-14T16:37:50.000Z",
+  "checkedAt": "2022-05-14T16:37:50.000Z",
+  "id": 44204,
+  "type": "anime",
+  "title": "Kyokou Suiri 2nd Season",
+  "altTitle": [
+    "In/Spectre 2nd Season",
+    "In/Spectre Season 2",
+    "虚構推理"
+  ],
+  "url": "https://myanimelist.net/anime/44204/Kyokou_Suiri_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1415/121211.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kyokousuiri.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15876"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24950"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/In/Spectre#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15876,
+  "Pages": {
+    "9anime": {
+      "ynxj": {
+        "createdAt": "2020-12-09T13:50:08.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29806,
+        "identifier": "ynxj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyokou Suiri 2nd Season",
+        "url": "https://9anime.to/watch/inspectre-2nd-season.ynxj",
+        "image": "//static.9anime.to/i/cache/images/b/bd/bd459f3bfa0d387b42c60542819902ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44204,
+        "aniId": 126529,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44204": {
+        "identifier": "44204",
+        "malId": 44204,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyokou Suiri 2nd Season",
+        "url": "https://animixplay.to/anime/44204"
+      }
+    }
+  }
+}

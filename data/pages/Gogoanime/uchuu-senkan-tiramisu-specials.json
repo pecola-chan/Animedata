@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T16:02:11.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21287,
+  "identifier": "uchuu-senkan-tiramisu-specials",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Uchuu Senkan Tiramisù Specials",
+  "url": "https://gogoanime.vc/category/uchuu-senkan-tiramisu-specials",
+  "image": "https://gogocdn.net/cover/uchuu-senkan-tiramisu-specials.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 37866,
+  "aniId": 102979,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:03.000Z",
+    "updatedAt": "2022-05-14T18:40:11.000Z",
+    "checkedAt": "2022-05-14T18:40:11.000Z",
+    "id": 37866,
+    "type": "anime",
+    "title": "Uchuu Senkan Tiramisù Specials",
+    "altTitle": [
+      "Space Battleship Tiramisu",
+      "宇宙戦艦ティラミス"
+    ],
+    "url": "https://myanimelist.net/anime/37866/Uchuu_Senkan_Tiramisù_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/1770/92820.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tiramisu-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13426"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13426
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:42.000Z",
+    "updatedAt": "2022-05-15T20:18:23.000Z",
+    "checkedAt": "2022-05-15T20:18:23.000Z",
+    "id": 102979,
+    "type": "anime",
+    "title": "Uchuu Senkan Tiramisu Specials",
+    "altTitle": [
+      "Uchuu Senkan Tiramisu Specials",
+      "宇宙戦艦ティラミス",
+      "Uchuu Senkan Tiramisù Specials"
+    ],
+    "url": "https://anilist.co/anime/102979",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102979-XGNgbeeYuL8Z.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37866,
+    "deletedAt": null
+  }
+}

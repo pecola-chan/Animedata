@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T09:53:34.000Z",
+  "checkedAt": "2022-05-14T09:53:34.000Z",
+  "id": 10156,
+  "type": "anime",
+  "title": "Sacred Seven",
+  "altTitle": [
+    "Sacred 7",
+    "Sacred Seven",
+    "セイクリッドセブン"
+  ],
+  "url": "https://myanimelist.net/anime/10156/Sacred_Seven",
+  "image": "https://cdn.myanimelist.net/images/anime/12/30218.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sacred7.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8205"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12393"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E3%82%BB%E3%83%96%E3%83%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8205,
+  "Pages": {
+    "9anime": {
+      "1nrx": {
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1040,
+        "identifier": "1nrx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sacred Seven",
+        "url": "https://9anime.to/watch/sacred-seven.1nrx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i4flRGaE7ug/V4zoOy1wBdI/AAAAAAAAwRc/jLG2jBrtIgU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10156,
+        "aniId": 10156,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sacred-seven-": {
+        "createdAt": "2020-10-12T16:01:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20357,
+        "identifier": "sacred-seven-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sacred Seven ",
+        "url": "https://gogoanime.vc/category/sacred-seven-",
+        "image": "https://cdnimg.xyz/images/anime/S/sacred-seven.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10156,
+        "aniId": 10156,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "515": {
+        "identifier": "515",
+        "malId": 10156,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sacred Seven",
+        "url": "https://animepahe.com/a/515"
+      }
+    },
+    "AniMixPlay": {
+      "10156": {
+        "identifier": "10156",
+        "malId": 10156,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sacred Seven",
+        "url": "https://animixplay.to/anime/10156"
+      }
+    },
+    "YugenAnime": {
+      "919": {
+        "identifier": "919",
+        "malId": 10156,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sacred Seven",
+        "url": "https://yugen.to/anime/919/sacred-seven/"
+      }
+    }
+  }
+}

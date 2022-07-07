@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-16T09:14:24.000Z",
+  "checkedAt": "2022-05-16T09:14:24.000Z",
+  "id": 20707,
+  "type": "anime",
+  "title": "\"0\"",
+  "altTitle": [
+    "\"Zero\"",
+    "「0」"
+  ],
+  "url": "https://myanimelist.net/anime/20707/0",
+  "image": "https://cdn.myanimelist.net/images/anime/12/81160.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Music/Arch/DF/chiaki_kuriyama/DFCL-2040/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10143"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chiaki_Kuriyama"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10143,
+  "Pages": {
+    "9anime": {
+      "25rl": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-07-09T08:13:16.000Z",
+        "checkedAt": null,
+        "id": 1291,
+        "identifier": "25rl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "\"0\"",
+        "url": "https://9anime.to/watch/0.25rl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/c7b9144d8f708915f787d60e77d9b6af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 20707,
+        "aniId": 102416,
+        "deletedAt": null
+      }
+    }
+  }
+}

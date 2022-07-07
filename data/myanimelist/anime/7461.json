@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-30T15:29:55.000Z",
+  "checkedAt": "2022-05-30T15:29:55.000Z",
+  "id": 7461,
+  "type": "anime",
+  "title": "Komaneko no Christmas: Maigo ni Natta Present",
+  "altTitle": [
+    "A Komaneko Christmas: The Lost Present",
+    "こまねこ のクリスマス　―迷子になったプレゼント―"
+  ],
+  "url": "https://myanimelist.net/anime/7461/Komaneko_no_Christmas__Maigo_ni_Natta_Present",
+  "image": "https://cdn.myanimelist.net/images/anime/1793/112308.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.komaneko.com/movies/about.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7305"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7305,
+  "Pages": {
+    "9anime": {
+      "vl76": {
+        "createdAt": "2020-10-12T15:55:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9364,
+        "identifier": "vl76",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Komaneko Christmas: The Lost Present",
+        "url": "https://9anime.to/watch/a-komaneko-christmas-the-lost-present.vl76",
+        "image": "https://static.akacdn.ru/files/images/2018/03/052d9850d44933dc9654d472fdcb92da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7461,
+        "aniId": 7461,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7461": {
+        "identifier": "7461",
+        "malId": 7461,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Komaneko no Christmas: Maigo ni Natta Present",
+        "url": "https://animixplay.to/anime/7461"
+      }
+    }
+  }
+}

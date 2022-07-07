@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T22:46:05.000Z",
+  "checkedAt": "2022-05-14T22:46:05.000Z",
+  "id": 3313,
+  "type": "anime",
+  "title": "Montana Jones",
+  "altTitle": [
+    "モンタナ・ジョーンズ"
+  ],
+  "url": "https://myanimelist.net/anime/3313/Montana_Jones",
+  "image": "https://cdn.myanimelist.net/images/anime/13/5303.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/montana/caracter/cara.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3555"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1233"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Montana_Jones"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3555,
+  "Pages": {
+    "9anime": {
+      "l0xm": {
+        "createdAt": "2020-10-12T15:52:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5737,
+        "identifier": "l0xm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Montana Jones",
+        "url": "https://9anime.to/watch/montana-jones.l0xm",
+        "image": "http://static.akacdn.ru/static/images/2018/04/4e3e81195629c9e76e0f42fd9c6be19a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3313,
+        "aniId": 3313,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "7935": {
+        "identifier": "7935",
+        "malId": 3313,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Montana Jones",
+        "url": "https://yugen.to/anime/7935/ridley-jones/"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-14T22:27:05.000Z",
+  "checkedAt": "2022-05-14T22:27:05.000Z",
+  "id": 8146,
+  "type": "anime",
+  "title": "Gegege no Kitarou: Daikaijuu",
+  "altTitle": [
+    "Gegege no Kitarou: The Great Sea Beast",
+    "Gegege no Kitarou Dai Kaijuu",
+    "Gegege no Kitaro: Daikaiju",
+    "GeGeGe no Kitaro movie #7: The Giant Sea Monster",
+    "Spooky Kitaro: Giant Sea Monster",
+    "ゲゲゲの鬼太郎 大海獣"
+  ],
+  "url": "https://myanimelist.net/anime/8146/Gegege_no_Kitarou__Daikaijuu",
+  "image": "https://cdn.myanimelist.net/images/anime/4/20380.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7356"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3698"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7356,
+  "Pages": {
+    "9anime": {
+      "l6q6": {
+        "createdAt": "2020-10-12T15:53:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5897,
+        "identifier": "l6q6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gegege no Kitarou: Daikaijuu",
+        "url": "https://9anime.to/watch/gegege-no-kitarou-daikaijuu.l6q6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xTWaRkqV99Q/WG8va3oHUsI/AAAAAAABXS8/Ru17BwTXcdE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8146,
+        "aniId": 8146,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8146": {
+        "identifier": "8146",
+        "malId": 8146,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gegege no Kitarou: Daikaijuu",
+        "url": "https://animixplay.to/anime/8146"
+      }
+    },
+    "YugenAnime": {
+      "2121": {
+        "identifier": "2121",
+        "malId": 8146,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gegege no Kitarou: Daikaijuu",
+        "url": "https://yugen.to/anime/2121/gegege-no-kitarou-daikaijuu/"
+      }
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-13T21:33:31.000Z",
+  "checkedAt": "2022-05-13T21:33:31.000Z",
+  "id": 43,
+  "type": "anime",
+  "title": "Koukaku Kidoutai",
+  "altTitle": [
+    "Ghost in the Shell",
+    "Ghost in the Shell",
+    "GHOST IN THE SHELL（攻殻機動隊）"
+  ],
+  "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
+  "image": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.productionig.com/contents/works_sp/16_/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=61"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=465"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 61,
+  "Pages": {
+    "9anime": {
+      "4xxo": {
+        "createdAt": "2020-10-12T15:50:14.000Z",
+        "updatedAt": "2021-09-02T13:16:20.000Z",
+        "checkedAt": null,
+        "id": 2437,
+        "identifier": "4xxo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koukaku Kidoutai",
+        "url": "https://9anime.to/watch/ghost-in-the-shell.4xxo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a01c3f3bb5dd02607c815474c7772395.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43,
+        "aniId": 43,
+        "deletedAt": null
+      },
+      "5xxq": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2842,
+        "identifier": "5xxq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ghost in the Shell (Dub)",
+        "url": "https://9anime.to/watch/ghost-in-the-shell-dub.5xxq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eO1fG2aZ9mI/V9442OA3C7I/AAAAAAAA-uQ/jtxqhofodFM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43,
+        "aniId": 43,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ghost-in-the-shell": {
+        "createdAt": "2020-10-12T16:00:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17851,
+        "identifier": "ghost-in-the-shell",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ghost in the Shell",
+        "url": "https://gogoanime.vc/category/ghost-in-the-shell",
+        "image": "https://cdnimg.xyz/images/anime/G/Ghost-in-the-Shell.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43,
+        "aniId": 43,
+        "deletedAt": null
+      },
+      "ghost-in-the-shell-dub": {
+        "createdAt": "2020-10-12T16:00:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17860,
+        "identifier": "ghost-in-the-shell-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ghost in the Shell (Dub)",
+        "url": "https://gogoanime.vc/category/ghost-in-the-shell-dub",
+        "image": "https://cdnimg.xyz/cover/ghost-in-the-shell-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43,
+        "aniId": 43,
+        "deletedAt": null
+      },
+      "koukaku-kidoutai-sac-2045-dub": {
+        "createdAt": "2020-11-08T20:42:14.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29033,
+        "identifier": "koukaku-kidoutai-sac-2045-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koukaku Kidoutai: SAC_2045 (Dub)",
+        "url": "https://gogoanime.vc/category/koukaku-kidoutai-sac-2045-dub",
+        "image": "https://gogocdn.net/cover/koukaku-kidoutai-sac-2045-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43,
+        "aniId": 43,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1579": {
+        "identifier": "1579",
+        "malId": 43,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koukaku Kidoutai",
+        "url": "https://animepahe.com/a/1579"
+      }
+    },
+    "AniMixPlay": {
+      "43": {
+        "identifier": "43",
+        "malId": 43,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koukaku Kidoutai",
+        "url": "https://animixplay.to/anime/43"
+      }
+    }
+  }
+}

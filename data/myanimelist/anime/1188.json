@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T20:37:05.000Z",
+  "checkedAt": "2022-05-14T20:37:05.000Z",
+  "id": 1188,
+  "type": "anime",
+  "title": "Momoiro Sisters",
+  "altTitle": [
+    "Pink Sisters",
+    "ももいろシスターズ"
+  ],
+  "url": "https://myanimelist.net/anime/1188/Momoiro_Sisters",
+  "image": "https://cdn.myanimelist.net/images/anime/7/15422.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=194"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1327"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 194,
+  "Pages": {
+    "9anime": {
+      "0vx3": {
+        "createdAt": "2020-10-12T15:48:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 679,
+        "identifier": "0vx3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Momoiro Sisters",
+        "url": "https://9anime.to/watch/momoiro-sisters.0vx3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kPw57G1RkAI/WHxpQRFW5HI/AAAAAAABZi8/w98wYA9LLv8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1188,
+        "aniId": 1188,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "momoiro-sisters": {
+        "createdAt": "2020-10-12T16:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19524,
+        "identifier": "momoiro-sisters",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Momoiro Sisters",
+        "url": "https://gogoanime.vc/category/momoiro-sisters",
+        "image": "https://cdnimg.xyz/cover/momoiro-sisters.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1188,
+        "aniId": 1188,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1188": {
+        "identifier": "1188",
+        "malId": 1188,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Momoiro Sisters",
+        "url": "https://animixplay.to/anime/1188"
+      }
+    },
+    "YugenAnime": {
+      "5938": {
+        "identifier": "5938",
+        "malId": 1188,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Momoiro Sisters",
+        "url": "https://yugen.to/anime/5938/momoiro-sisters/"
+      }
+    }
+  }
+}

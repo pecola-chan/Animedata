@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T16:02:00.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20912,
+  "identifier": "tabisuru-nuigurumi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tabisuru Nuigurumi: Traveling Daru",
+  "url": "https://gogoanime.vc/category/tabisuru-nuigurumi",
+  "image": "https://gogocdn.net/images/anime/T/Tabisuru-Nuigurumi.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 15077,
+  "aniId": 15077,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:15.000Z",
+    "updatedAt": "2022-05-16T10:48:05.000Z",
+    "checkedAt": "2022-05-16T10:48:05.000Z",
+    "id": 15077,
+    "type": "anime",
+    "title": "Tabisuru Nuigurumi: Traveling Daru",
+    "altTitle": [
+      "旅するぬいぐるみ ~Traveling Daru~"
+    ],
+    "url": "https://myanimelist.net/anime/15077/Tabisuru_Nuigurumi__Traveling_Daru",
+    "image": "https://cdn.myanimelist.net/images/anime/1962/112790.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tabinui.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9349"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20365"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-248024"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 9349
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:18.000Z",
+    "updatedAt": "2022-05-16T10:48:04.000Z",
+    "checkedAt": "2022-05-16T10:48:04.000Z",
+    "id": 15077,
+    "type": "anime",
+    "title": "Tabisuru Nuigurumi: Traveling Daru",
+    "altTitle": [
+      "Traveling Daru",
+      "旅するぬいぐるみ ~Traveling Daru~"
+    ],
+    "url": "https://anilist.co/anime/15077",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15077.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/traveling-daru"
+      }
+    ],
+    "malId": 15077,
+    "deletedAt": null
+  }
+}

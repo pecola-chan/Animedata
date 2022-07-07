@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-14T22:34:47.000Z",
+  "checkedAt": "2022-05-14T22:34:47.000Z",
+  "id": 35418,
+  "type": "anime",
+  "title": "Sin: Nanatsu no Taizai Zange-roku Specials",
+  "altTitle": [
+    "Sin: Nanatsu no Taizai - Records of Confessions",
+    "Sin: Nanatsu no Taizai Zangeroku",
+    "sin 七つの大罪 ショートアニメ「懺悔録」"
+  ],
+  "url": "https://myanimelist.net/anime/35418/Sin__Nanatsu_no_Taizai_Zange-roku_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/12/89582.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.7-sins.tv/bddvd/01.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12324"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12324,
+  "Pages": {
+    "9anime": {
+      "jm38": {
+        "createdAt": "2020-10-12T15:52:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4923,
+        "identifier": "jm38",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sin: Nanatsu no Taizai Zange-roku Specials",
+        "url": "https://9anime.to/watch/sin-nanatsu-no-taizai-zange-roku-specials.jm38",
+        "image": "https://static.akacdn.ru/static/images/2018/11/9b784eca77f871c40612ddbb267545b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35418,
+        "aniId": 98621,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3763": {
+        "identifier": "3763",
+        "malId": 35418,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sin: Nanatsu no Taizai Zange-roku Specials",
+        "url": "https://animepahe.com/a/3763"
+      }
+    },
+    "AniMixPlay": {
+      "35418": {
+        "identifier": "35418",
+        "malId": 35418,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sin: Nanatsu no Taizai Zange-roku Specials",
+        "url": "https://animixplay.to/anime/35418"
+      }
+    }
+  }
+}

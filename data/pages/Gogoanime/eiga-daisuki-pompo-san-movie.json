@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-12-27T09:58:07.000Z",
+  "updatedAt": "2021-12-27T10:27:34.000Z",
+  "checkedAt": null,
+  "id": 39586,
+  "identifier": "eiga-daisuki-pompo-san-movie",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Eiga Daisuki Pompo-san (Movie)",
+  "url": "https://gogoanime.cm/category/eiga-daisuki-pompo-san-movie",
+  "image": "https://gogocdn.net/cover/eiga-daisuki-pompo-san-movie.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 41361,
+  "aniId": 99900,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-12-02T09:17:48.000Z",
+    "updatedAt": "2022-05-14T17:40:11.000Z",
+    "checkedAt": "2022-05-14T17:40:11.000Z",
+    "id": 41361,
+    "type": "anime",
+    "title": "Eiga Daisuki Pompo-san (Movie)",
+    "altTitle": [
+      "Pompo: The Cinéphile",
+      "映画大好きポンポさん"
+    ],
+    "url": "https://myanimelist.net/anime/41361/Eiga_Daisuki_Pompo-san_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1210/119193.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pompo-the-cinephile.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13405"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23070"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pompo:_The_Cin%C3%A9phile"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13405
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T17:12:57.000Z",
+    "updatedAt": "2022-05-15T12:42:11.000Z",
+    "checkedAt": "2022-05-15T12:42:11.000Z",
+    "id": 99900,
+    "type": "anime",
+    "title": "Eiga Daisuki Pompo-san",
+    "altTitle": [
+      "Pompo: The Cinéphile",
+      "映画大好きポンポさん",
+      "ปอมโปะ ทีมป่วนก๊วนทำหนัง"
+    ],
+    "url": "https://anilist.co/anime/99900",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99900-YpWbTgc4wr7A.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 41361,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-23T17:14:39.000Z",
+  "checkedAt": "2022-05-23T17:14:39.000Z",
+  "id": 10105,
+  "type": "anime",
+  "title": "Bavi Stock",
+  "altTitle": [
+    "Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni",
+    "Bavi Stock I: Hateshi Naki Hyouteki",
+    "バビ・ストック"
+  ],
+  "url": "https://myanimelist.net/anime/10105/Bavi_Stock",
+  "image": "https://cdn.myanimelist.net/images/anime/13/27876.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5007"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2313"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5007,
+  "Pages": {
+    "9anime": {
+      "11ov": {
+        "createdAt": "2020-10-12T15:49:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 795,
+        "identifier": "11ov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bavi Stock",
+        "url": "https://9anime.to/watch/bavi-stock.11ov",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JFbbi-oj3C4/WNzkfmb_OGI/AAAAAAAAeX8/FwpxFZLWMO0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10105,
+        "aniId": 10105,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10105": {
+        "identifier": "10105",
+        "malId": 10105,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bavi Stock",
+        "url": "https://animixplay.to/anime/10105"
+      }
+    }
+  }
+}

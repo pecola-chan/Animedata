@@ -1,0 +1,59 @@
+{
+  "createdAt": "2021-04-16T08:44:51.000Z",
+  "updatedAt": "2022-05-15T03:44:46.000Z",
+  "checkedAt": "2022-05-15T03:44:46.000Z",
+  "id": 10250,
+  "type": "anime",
+  "title": "Ultra B",
+  "altTitle": [
+    "ウルトラ B"
+  ],
+  "url": "https://myanimelist.net/anime/10250/Ultra_B",
+  "image": "https://cdn.myanimelist.net/images/anime/2/28227.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-asahi-channel.com/anime/14.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3160"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3351"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ウルトラB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3160,
+  "Pages": {
+    "9anime": {
+      "9prn": {
+        "createdAt": "2021-04-16T08:45:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36550,
+        "identifier": "9prn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ultra B",
+        "url": "https://9anime.to/watch/ultra-b.9prn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/57/57b6e89ade0360f2c98b7a371363c7fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10250,
+        "aniId": 10250,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-15T00:02:59.000Z",
+  "checkedAt": "2022-05-15T00:02:59.000Z",
+  "id": 964,
+  "type": "anime",
+  "title": "Hit wo Nerae!",
+  "altTitle": [
+    "Smash Hit!",
+    "ヒットをねらえ!"
+  ],
+  "url": "https://myanimelist.net/anime/964/Hit_wo_Nerae",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75237.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ponycanyon.co.jp/pc-moe/hit/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1532"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3451"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hit_wo_nerae"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1532,
+  "Pages": {
+    "9anime": {
+      "j02y": {
+        "createdAt": "2020-10-12T15:51:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4563,
+        "identifier": "j02y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hit wo Nerae!",
+        "url": "https://9anime.to/watch/hit-wo-nerae.j02y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7CE8kmX9KC0/WHnFh36PY5I/AAAAAAABZM8/wFO5-a95nEM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 964,
+        "aniId": 964,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "smash-hit": {
+        "createdAt": "2020-10-12T16:01:55.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20746,
+        "identifier": "smash-hit",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Smash Hit!",
+        "url": "https://gogoanime.vc/category/smash-hit",
+        "image": "https://gogocdn.net/images/anime/S/Smash-Hit.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 964,
+        "aniId": 964,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "964": {
+        "identifier": "964",
+        "malId": 964,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hit wo Nerae!",
+        "url": "https://animixplay.to/anime/964"
+      }
+    }
+  }
+}

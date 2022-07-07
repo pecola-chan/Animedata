@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T22:23:17.000Z",
+  "checkedAt": "2022-05-14T22:23:17.000Z",
+  "id": 1800,
+  "type": "anime",
+  "title": "Fatal Fury 2: The New Battle",
+  "altTitle": [
+    "Battle Fighters Garou Densetsu 2",
+    "Fatal Fury 2: The New Battle",
+    "バトルファイターズ餓狼伝説2"
+  ],
+  "url": "https://myanimelist.net/anime/1800/Fatal_Fury_2__The_New_Battle",
+  "image": "https://cdn.myanimelist.net/images/anime/1691/106030.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2121"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=823"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fatal_Fury_2_-_The_New_Battle"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280818"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2121,
+  "Pages": {
+    "9anime": {
+      "94pm": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4211,
+        "identifier": "94pm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fatal Fury 2: The New Battle (Dub)",
+        "url": "https://9anime.to/watch/fatal-fury-2-the-new-battle.94pm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ebaOgArGrIw/WNIBeMXzrnI/AAAAAAABgKw/MEkE_d0dGPQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1800,
+        "aniId": 1800,
+        "deletedAt": null
+      },
+      "yl2z": {
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10721,
+        "identifier": "yl2z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fatal Fury 2: The New Battle",
+        "url": "https://9anime.to/watch/fatal-fury-2-the-new-battle.yl2z",
+        "image": "https://static.akacdn.ru/files/images/2020/03/c14c947527985f64307eb0478ed6d4b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1800,
+        "aniId": 1800,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1800": {
+        "identifier": "1800",
+        "malId": 1800,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fatal Fury 2: The New Battle",
+        "url": "https://animixplay.to/anime/1800"
+      }
+    },
+    "YugenAnime": {
+      "5559": {
+        "identifier": "5559",
+        "malId": 1800,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fatal Fury 2: The New Battle",
+        "url": "https://yugen.to/anime/5559/fatal-fury-2-the-new-battle/"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-15T01:33:55.000Z",
+  "checkedAt": "2022-05-15T01:33:55.000Z",
+  "id": 4662,
+  "type": "anime",
+  "title": "Neo Angelique Abyss: Second Age",
+  "altTitle": [
+    "ネオアンジェリーク Abyss -Second Age-"
+  ],
+  "url": "https://myanimelist.net/anime/4662/Neo_Angelique_Abyss__Second_Age",
+  "image": "https://cdn.myanimelist.net/images/anime/8/27592.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/contents/neoangelique/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5988"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10054"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Neo_Angelique_~Abyss~"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-62522"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/neo-angelique-abyss-second-age-"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5988,
+  "Pages": {
+    "9anime": {
+      "wyw6": {
+        "createdAt": "2020-10-12T15:56:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9995,
+        "identifier": "wyw6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neo Angelique Abyss: Second Age",
+        "url": "https://9anime.to/watch/neo-angelique-abyss-second-age.wyw6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uLcRlhhp_vI/WB2WUYeqj_I/AAAAAAABNWA/VYN0150aLDo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4662,
+        "aniId": 4662,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4662": {
+        "identifier": "4662",
+        "malId": 4662,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neo Angelique Abyss: Second Age",
+        "url": "https://animixplay.to/anime/4662"
+      }
+    },
+    "YugenAnime": {
+      "1412": {
+        "identifier": "1412",
+        "malId": 4662,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neo Angelique Abyss: Second Age",
+        "url": "https://yugen.to/anime/1412/neo-angelique-abyss-second-age/"
+      }
+    }
+  }
+}

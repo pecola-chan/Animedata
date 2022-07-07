@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-23T13:38:40.000Z",
+  "checkedAt": "2022-05-23T13:38:40.000Z",
+  "id": 8496,
+  "type": "anime",
+  "title": "Neko Neko Fantasia",
+  "altTitle": [
+    "Kitty-Cat Fantasia",
+    "ねこ・ねこ・幻想曲"
+  ],
+  "url": "https://myanimelist.net/anime/8496/Neko_Neko_Fantasia",
+  "image": "https://cdn.myanimelist.net/images/anime/7/22666.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3536"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6373"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ねこ・ねこ・幻想曲"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3536,
+  "Pages": {
+    "9anime": {
+      "786j": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3393,
+        "identifier": "786j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neko Neko Fantasia",
+        "url": "https://9anime.to/watch/neko-neko-fantasia.786j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Cax2lhV5wvE/WQy9H5mE3gI/AAAAAAAAl3k/TWDRjg6EaOkR1v5-IuDNIdG2t-aE5NmDACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8496,
+        "aniId": 8496,
+        "deletedAt": null
+      }
+    }
+  }
+}

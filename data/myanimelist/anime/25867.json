@@ -1,0 +1,129 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T16:20:56.000Z",
+  "checkedAt": "2022-05-14T16:20:56.000Z",
+  "id": 25867,
+  "type": "anime",
+  "title": "Rolling☆Girls",
+  "altTitle": [
+    "The Rolling Girls",
+    "ローリング☆ガールズ"
+  ],
+  "url": "https://myanimelist.net/anime/25867/Rolling☆Girls",
+  "image": "https://cdn.myanimelist.net/images/anime/12/71527.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://rollinggirls.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10784"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16251"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Rolling_Girls"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273265"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/the-rolling-girls"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10784,
+  "Pages": {
+    "9anime": {
+      "3r12": {
+        "createdAt": "2020-10-12T15:49:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1913,
+        "identifier": "3r12",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rolling☆Girls",
+        "url": "https://9anime.to/watch/rollinggirls.3r12",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7I7rtao7F-E/V5GiG2wI7ZI/AAAAAAAAxF0/Zeivn-fUqHc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25867,
+        "aniId": 20815,
+        "deletedAt": null
+      },
+      "m3ov": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2022-01-20T07:04:35.000Z",
+        "checkedAt": null,
+        "id": 6368,
+        "identifier": "m3ov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rolling☆Girls (Dub)",
+        "url": "https://9anime.to/watch/the-rolling-girls-dub.m3ov",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/4ef77026e123770a59ce4872a3c16e90.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25867,
+        "aniId": 20815,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "the-rolling-girls-dub": {
+        "createdAt": "2022-02-23T14:17:51.000Z",
+        "updatedAt": "2022-02-23T14:47:39.000Z",
+        "checkedAt": null,
+        "id": 40270,
+        "identifier": "the-rolling-girls-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Rolling Girls (Dub)",
+        "url": "https://gogoanime.fi/category/the-rolling-girls-dub",
+        "image": "https://gogocdn.net/cover/the-rolling-girls-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25867,
+        "aniId": 20815,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "25867": {
+        "identifier": "25867",
+        "malId": 25867,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rolling☆Girls",
+        "url": "https://animixplay.to/anime/25867"
+      }
+    },
+    "YugenAnime": {
+      "2536": {
+        "identifier": "2536",
+        "malId": 25867,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rolling☆Girls",
+        "url": "https://yugen.to/anime/2536/rollinggirls/"
+      }
+    }
+  }
+}

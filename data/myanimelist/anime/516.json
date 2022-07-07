@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T16:19:08.000Z",
+  "checkedAt": "2022-05-14T16:19:08.000Z",
+  "id": 516,
+  "type": "anime",
+  "title": "Keroro Gunsou",
+  "altTitle": [
+    "Sergeant Frog",
+    "Sgt. Frog",
+    "ケロロ軍曹"
+  ],
+  "url": "https://myanimelist.net/anime/516/Keroro_Gunsou",
+  "image": "https://cdn.myanimelist.net/images/anime/2/21764.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/keroro/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1552"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3711"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Keroro_Gunso"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281452"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/sgt-frog"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1552,
+  "Pages": {
+    "9anime": {
+      "2pql": {
+        "createdAt": "2020-10-12T15:49:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1485,
+        "identifier": "2pql",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keroro Gunsou",
+        "url": "https://9anime.to/watch/keroro-gunsou.2pql",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Xy90gLwmwK0/V62wFE-8FfI/AAAAAAAA2jU/oLbitysmDFY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 516,
+        "aniId": 516,
+        "deletedAt": null
+      },
+      "395r": {
+        "createdAt": "2020-10-12T15:49:44.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1768,
+        "identifier": "395r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keroro Gunsou (Dub)",
+        "url": "https://9anime.to/watch/keroro-gunsou-dub.395r",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-X9UUFZAbqBk/V9GcvodD5nI/AAAAAAAA8oI/nUdjaGzYJN4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 516,
+        "aniId": 516,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "keroro-gunsou": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18794,
+        "identifier": "keroro-gunsou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keroro Gunsou",
+        "url": "https://gogoanime.vc/category/keroro-gunsou",
+        "image": "https://gogocdn.net/images/anime/K/Keroro-Gunso.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 516,
+        "aniId": 516,
+        "deletedAt": null
+      },
+      "keroro-gunsou-dub": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18795,
+        "identifier": "keroro-gunsou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keroro Gunsou (Dub)",
+        "url": "https://gogoanime.vc/category/keroro-gunsou-dub",
+        "image": "https://cdnimg.xyz/cover/keroro-gunsou-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 516,
+        "aniId": 516,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "516": {
+        "identifier": "516",
+        "malId": 516,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keroro Gunsou",
+        "url": "https://animixplay.to/anime/516"
+      }
+    },
+    "YugenAnime": {
+      "4937": {
+        "identifier": "4937",
+        "malId": 516,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Keroro Gunsou",
+        "url": "https://yugen.to/anime/4937/keroro-gunsou/"
+      }
+    }
+  }
+}

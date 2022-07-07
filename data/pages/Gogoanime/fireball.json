@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-11-25T20:01:25.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29577,
+  "identifier": "fireball",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fireball",
+  "url": "https://gogoanime.vc/category/fireball",
+  "image": "https://gogocdn.net/cover/fireball.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4362,
+  "aniId": 4362,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:42.000Z",
+    "updatedAt": "2022-05-14T22:58:11.000Z",
+    "checkedAt": "2022-05-14T22:58:11.000Z",
+    "id": 4362,
+    "type": "anime",
+    "title": "Fireball",
+    "altTitle": [
+      "Fireball",
+      "ファイアボール"
+    ],
+    "url": "https://myanimelist.net/anime/4362/Fireball",
+    "image": "https://cdn.myanimelist.net/images/anime/11/27729.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mxtv.co.jp/fireball/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5904"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11928"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fireball_(anime)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5904
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:34.000Z",
+    "updatedAt": "2022-05-15T13:43:35.000Z",
+    "checkedAt": "2022-05-15T13:43:35.000Z",
+    "id": 4362,
+    "type": "anime",
+    "title": "Fireball",
+    "altTitle": [
+      "Fireball",
+      "ファイアボール"
+    ],
+    "url": "https://anilist.co/anime/4362",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4362.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4362,
+    "deletedAt": null
+  }
+}

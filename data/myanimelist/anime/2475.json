@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-15T01:29:35.000Z",
+  "checkedAt": "2022-05-15T01:29:35.000Z",
+  "id": 2475,
+  "type": "anime",
+  "title": "6 Angels",
+  "altTitle": [
+    "Six Angels",
+    "シックス・エンジェルズ"
+  ],
+  "url": "https://myanimelist.net/anime/2475/6_Angels",
+  "image": "https://cdn.myanimelist.net/images/anime/6/36019.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kenmedia.jp/anime/6angels/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2773"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=896"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/6_Angels"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2773,
+  "Pages": {
+    "9anime": {
+      "8p2q": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3956,
+        "identifier": "8p2q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "6 Angels",
+        "url": "https://9anime.to/watch/6-angels.8p2q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-US87TypO8ZQ/WHnE63BvVgI/AAAAAAABZM0/bARLzAGQZUI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2475,
+        "aniId": 2475,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "6-angels": {
+        "createdAt": "2021-07-16T06:02:20.000Z",
+        "updatedAt": "2021-07-16T06:32:20.000Z",
+        "checkedAt": null,
+        "id": 37889,
+        "identifier": "6-angels",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "6 Angels",
+        "url": "https://gogoanime.pe/category/6-angels",
+        "image": "https://gogocdn.net/images/anime/65476.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2475,
+        "aniId": 2475,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2475": {
+        "identifier": "2475",
+        "malId": 2475,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "6 Angels",
+        "url": "https://animixplay.to/anime/2475"
+      }
+    },
+    "YugenAnime": {
+      "1360": {
+        "identifier": "1360",
+        "malId": 2475,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "6 Angels",
+        "url": "https://yugen.to/anime/1360/6-angels/"
+      }
+    }
+  }
+}

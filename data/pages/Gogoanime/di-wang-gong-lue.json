@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T16:00:15.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17357,
+  "identifier": "di-wang-gong-lue",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Di Wang Gong Lue",
+  "url": "https://gogoanime.vc/category/di-wang-gong-lue",
+  "image": "https://gogocdn.net/cover/di-wang-gong-lue.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 37563,
+  "aniId": 102510,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:01.000Z",
+    "updatedAt": "2022-05-15T12:47:08.000Z",
+    "checkedAt": "2022-05-15T12:47:08.000Z",
+    "id": 37563,
+    "type": "anime",
+    "title": "Di Wang Gong Lue",
+    "altTitle": [
+      "Diwang Gonglue",
+      "The Emperor's Strategy",
+      "帝王攻略"
+    ],
+    "url": "https://myanimelist.net/anime/37563/Di_Wang_Gong_Lue",
+    "image": "https://cdn.myanimelist.net/images/anime/1695/91321.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/t/t3r079jy8xze9cv.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13954"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%B8%9D%E7%8E%8B%E6%94%BB%E7%95%A5/22182736"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13954
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:36.000Z",
+    "updatedAt": "2022-05-15T17:20:59.000Z",
+    "checkedAt": "2022-05-15T17:20:59.000Z",
+    "id": 102510,
+    "type": "anime",
+    "title": "Diwang Gonglue",
+    "altTitle": [
+      "The Emperor's Strategy",
+      "帝王攻略"
+    ],
+    "url": "https://anilist.co/anime/102510",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102510-sv134CcuClqD.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37563,
+    "deletedAt": null
+  }
+}

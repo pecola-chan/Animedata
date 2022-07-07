@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T21:14:59.000Z",
+  "checkedAt": "2022-05-14T21:14:59.000Z",
+  "id": 11113,
+  "type": "anime",
+  "title": "Usagi Drop Specials",
+  "altTitle": [
+    "Bunny Drop Specials",
+    "うさぎドロップ"
+  ],
+  "url": "https://myanimelist.net/anime/11113/Usagi_Drop_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/30759.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.usagi-drop.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8211"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bunny_Drop"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8211,
+  "Pages": {
+    "9anime": {
+      "znpp": {
+        "createdAt": "2020-10-12T15:57:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11230,
+        "identifier": "znpp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usagi Drop Specials",
+        "url": "https://9anime.to/watch/usagi-drop-specials.znpp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gTXCyvARYko/WG4qyUHSr0I/AAAAAAABXFw/SM4xgLsjOQg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11113,
+        "aniId": 11113,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1298": {
+        "identifier": "1298",
+        "malId": 11113,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Usagi Drop Specials",
+        "url": "https://animepahe.com/a/1298"
+      }
+    },
+    "AniMixPlay": {
+      "11113": {
+        "identifier": "11113",
+        "malId": 11113,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Usagi Drop Specials",
+        "url": "https://animixplay.to/anime/11113"
+      }
+    }
+  }
+}

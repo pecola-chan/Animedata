@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T22:30:46.000Z",
+  "checkedAt": "2022-05-14T22:30:46.000Z",
+  "id": 3157,
+  "type": "anime",
+  "title": "Guardian Hearts-Power UP!",
+  "altTitle": [
+    "Guardian Hearts OVA seres 2",
+    "Guardian Hearts-Power UP!",
+    "がぁーでぃあんHearts ぱわーあっぷ！"
+  ],
+  "url": "https://myanimelist.net/anime/3157/Guardian_Hearts-Power_UP",
+  "image": "https://cdn.myanimelist.net/images/anime/5/5175.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.softgarage.com/gartsu_p/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3069"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8897"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Guardian_Hearts"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3069,
+  "Pages": {
+    "9anime": {
+      "y6mp": {
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2022-06-13T22:04:13.000Z",
+        "checkedAt": "2022-06-13T22:04:13.000Z",
+        "id": 10601,
+        "identifier": "y6mp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Guardian Hearts-Power UP!",
+        "url": "https://9anime.to/watch/guardian-hearts-power-up.y6mp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d33cb78446bc7f7ba1af6cb3ae81cc36.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3157,
+        "aniId": 3157,
+        "deletedAt": null
+      }
+    }
+  }
+}

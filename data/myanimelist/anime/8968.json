@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-29T16:53:32.000Z",
+  "checkedAt": "2022-05-29T16:53:32.000Z",
+  "id": 8968,
+  "type": "anime",
+  "title": "Shogi Hour",
+  "altTitle": [
+    "Shogi Hour",
+    "将棋アワー"
+  ],
+  "url": "https://myanimelist.net/anime/8968/Shogi_Hour",
+  "image": "https://cdn.myanimelist.net/images/anime/4/24831.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aokijun.net/movie.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "yxyx": {
+        "createdAt": "2020-10-12T15:57:00.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10908,
+        "identifier": "yxyx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shogi Hour",
+        "url": "https://9anime.to/watch/shogi-hour.yxyx",
+        "image": "https://static.akacdn.ru/files/images/2018/03/4eacf3bc822c11cc4e3df9dc427918d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8968,
+        "aniId": 8968,
+        "deletedAt": null
+      }
+    }
+  }
+}

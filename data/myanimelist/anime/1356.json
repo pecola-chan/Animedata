@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-14T17:49:17.000Z",
+  "checkedAt": "2022-05-14T17:49:17.000Z",
+  "id": 1356,
+  "type": "anime",
+  "title": "Hokuto no Ken 2",
+  "altTitle": [
+    "HNK II",
+    "Fist of the North Star 2",
+    "北斗の拳2"
+  ],
+  "url": "https://myanimelist.net/anime/1356/Hokuto_no_Ken_2",
+  "image": "https://cdn.myanimelist.net/images/anime/11/4120.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=984"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2199"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fist_of_the_North_Star#TV_series"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 984,
+  "Pages": {
+    "9anime": {
+      "lyzm": {
+        "createdAt": "2020-10-12T15:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6291,
+        "identifier": "lyzm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hokuto no Ken 2",
+        "url": "https://9anime.to/watch/hokuto-no-ken-2.lyzm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-V-U8tirdpcQ/WA-1RByAOPI/AAAAAAABLJ0/-C905EthdAQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1356,
+        "aniId": 1356,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3013": {
+        "identifier": "3013",
+        "malId": 1356,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hokuto no Ken 2",
+        "url": "https://animepahe.com/a/3013"
+      }
+    },
+    "AniMixPlay": {
+      "1356": {
+        "identifier": "1356",
+        "malId": 1356,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hokuto no Ken 2",
+        "url": "https://animixplay.to/anime/1356"
+      }
+    }
+  }
+}

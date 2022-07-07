@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-15T09:52:47.000Z",
+  "checkedAt": "2022-05-15T09:52:47.000Z",
+  "id": 2947,
+  "type": "anime",
+  "title": "Ojamajo Doremi Sharp Movie",
+  "altTitle": [
+    "Ojamajo Doremi # Movie",
+    "Useless Witch Doremi Sharp",
+    "Bothersome Witch Doremi Sharp",
+    "Ojamjo Doremi #: Pop and the Queen's Cursed Rose",
+    "おジャ魔女どれみ♯"
+  ],
+  "url": "https://myanimelist.net/anime/2947/Ojamajo_Doremi_Sharp_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/8/40405.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/2000_summer/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1764"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3796"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ojamajo_Doremi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1764,
+  "Pages": {
+    "9anime": {
+      "9qpm": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4415,
+        "identifier": "9qpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ojamajo Doremi Sharp Movie",
+        "url": "https://9anime.to/watch/ojamajo-doremi-sharp-movie.9qpm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-v_6E1depDa8/WJw38S-ynzI/AAAAAAABcbI/H-eZy-r3RYc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2947,
+        "aniId": 2947,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2947": {
+        "identifier": "2947",
+        "malId": 2947,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ojamajo Doremi Sharp Movie",
+        "url": "https://animixplay.to/anime/2947"
+      }
+    },
+    "YugenAnime": {
+      "3238": {
+        "identifier": "3238",
+        "malId": 2947,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ojamajo Doremi Sharp Movie",
+        "url": "https://yugen.to/anime/3238/ojamajo-doremi-sharp-movie/"
+      }
+    }
+  }
+}

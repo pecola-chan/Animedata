@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T16:13:33.000Z",
+  "checkedAt": "2022-05-14T16:13:33.000Z",
+  "id": 10165,
+  "type": "anime",
+  "title": "Nichijou",
+  "altTitle": [
+    "Everyday",
+    "Nichijou - My Ordinary Life",
+    "日常"
+  ],
+  "url": "https://myanimelist.net/anime/10165/Nichijou",
+  "image": "https://cdn.myanimelist.net/images/anime/3/75617.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shinonome-lab.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8168"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12142"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nichijou"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276589"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/nichijou-my-ordinary-life"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8168,
+  "Pages": {
+    "9anime": {
+      "wxw7": {
+        "createdAt": "2020-10-12T15:56:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9973,
+        "identifier": "wxw7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nichijou - My Ordinary Life (Dub)",
+        "url": "https://9anime.to/watch/nichijou-my-ordinary-life-dub.wxw7",
+        "image": "https://static.akacdn.ru/files/images/2019/06/e10f953f0fd2dbd7e11b8a4998ce17ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10165,
+        "aniId": 10165,
+        "deletedAt": null
+      },
+      "zx4m": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2022-06-14T03:37:22.000Z",
+        "checkedAt": "2022-06-14T03:37:22.000Z",
+        "id": 11330,
+        "identifier": "zx4m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nichijou",
+        "url": "https://9anime.to/watch/nichijou-my-ordinary-life.zx4m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/6804d25c7b434d745aa262886b517d8f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10165,
+        "aniId": 10165,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nichijou": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19728,
+        "identifier": "nichijou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nichijou",
+        "url": "https://gogoanime.vc/category/nichijou",
+        "image": "https://images.gogoanime.tv/images/anime/N/nichijou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10165,
+        "aniId": 10165,
+        "deletedAt": null
+      },
+      "nichijou-dub": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19729,
+        "identifier": "nichijou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nichijou (Dub)",
+        "url": "https://gogoanime.vc/category/nichijou-dub",
+        "image": "https://cdnimg.xyz/cover/nichijou-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10165,
+        "aniId": 10165,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "697": {
+        "identifier": "697",
+        "malId": 10165,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nichijou",
+        "url": "https://animepahe.com/a/697"
+      }
+    },
+    "AniMixPlay": {
+      "10165": {
+        "identifier": "10165",
+        "malId": 10165,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nichijou",
+        "url": "https://animixplay.to/anime/10165"
+      }
+    },
+    "YugenAnime": {
+      "819": {
+        "identifier": "819",
+        "malId": 10165,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nichijou",
+        "url": "https://yugen.to/anime/819/nichijou/"
+      }
+    }
+  }
+}

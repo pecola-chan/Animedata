@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-21T13:22:55.000Z",
+  "checkedAt": "2022-05-21T13:22:55.000Z",
+  "id": 5862,
+  "type": "anime",
+  "title": "Fumoon",
+  "altTitle": [
+    "24 Hour TV Specials",
+    "Fumoon",
+    "フウムーン"
+  ],
+  "url": "https://myanimelist.net/anime/5862/Fumoon",
+  "image": "https://cdn.myanimelist.net/images/anime/2/63339.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4456"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3280"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fumoon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4456,
+  "Pages": {
+    "9anime": {
+      "31x8": {
+        "createdAt": "2020-10-12T15:49:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1653,
+        "identifier": "31x8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fumoon",
+        "url": "https://9anime.to/watch/fumoon.31x8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cpmdNXXRdOc/WAIYiCE_9ZI/AAAAAAABIEk/uHuNHIs30XY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5862,
+        "aniId": 5862,
+        "deletedAt": null
+      }
+    }
+  }
+}

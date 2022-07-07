@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T21:00:53.000Z",
+  "checkedAt": "2022-05-14T21:00:53.000Z",
+  "id": 3615,
+  "type": "anime",
+  "title": "Neo Angelique Abyss",
+  "altTitle": [
+    "ネオアンジェリーク Abyss"
+  ],
+  "url": "https://myanimelist.net/anime/3615/Neo_Angelique_Abyss",
+  "image": "https://cdn.myanimelist.net/images/anime/3/20960.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gamecity.ne.jp/neoromance/tv/neo/index.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5623"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9068"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Neo_Angelique_%7EAbyss%7E"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-62522"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/neo-angelique-abyss"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5623,
+  "Pages": {
+    "9anime": {
+      "v277": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9171,
+        "identifier": "v277",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neo Angelique Abyss",
+        "url": "https://9anime.to/watch/neo-angelique-abyss.v277",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-QoshpROToiI/WB2VniLSDWI/AAAAAAABNV4/xKitEl0Jz0w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3615,
+        "aniId": 3615,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3615": {
+        "identifier": "3615",
+        "malId": 3615,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neo Angelique Abyss",
+        "url": "https://animixplay.to/anime/3615"
+      }
+    },
+    "YugenAnime": {
+      "757": {
+        "identifier": "757",
+        "malId": 3615,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neo Angelique Abyss",
+        "url": "https://yugen.to/anime/757/neo-angelique-abyss/"
+      }
+    }
+  }
+}

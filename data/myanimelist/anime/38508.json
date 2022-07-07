@@ -1,0 +1,48 @@
+{
+  "createdAt": "2021-07-28T03:22:07.000Z",
+  "updatedAt": "2022-05-20T23:50:12.000Z",
+  "checkedAt": "2022-05-20T23:50:12.000Z",
+  "id": 38508,
+  "type": "anime",
+  "title": "Kanabun no Koushin",
+  "altTitle": [
+    "Scarab Beetle's Parade",
+    "カナブンの行進"
+  ],
+  "url": "https://myanimelist.net/anime/38508/Kanabun_no_Koushin",
+  "image": "https://cdn.myanimelist.net/images/anime/1429/95533.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saigono.info/works.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "llp2m": {
+        "createdAt": "2021-07-28T03:21:54.000Z",
+        "updatedAt": "2021-07-28T03:22:07.000Z",
+        "checkedAt": null,
+        "id": 38049,
+        "identifier": "llp2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanabun no Koushin",
+        "url": "https://9anime.to/watch/scarab-beetles-parade.llp2m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/6d/6d3cb152b29e8368ed1c9c1a43d7ee05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38508,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

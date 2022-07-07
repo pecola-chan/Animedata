@@ -1,0 +1,130 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T17:02:26.000Z",
+  "checkedAt": "2022-05-14T17:02:26.000Z",
+  "id": 33983,
+  "type": "anime",
+  "title": "Onihei",
+  "altTitle": [
+    "Onihei",
+    "鬼平"
+  ],
+  "url": "https://myanimelist.net/anime/33983/Onihei",
+  "image": "https://cdn.myanimelist.net/images/anime/2/83758.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://onihei-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12369"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18801"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Onihei_Hankachō"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12369,
+  "Pages": {
+    "9anime": {
+      "2z12": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2022-03-16T05:32:17.000Z",
+        "checkedAt": null,
+        "id": 1604,
+        "identifier": "2z12",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onihei",
+        "url": "https://9anime.to/watch/onihei.2z12",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d5994af923be70dfec33a2f039cbf481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33983,
+        "aniId": 97590,
+        "deletedAt": null
+      },
+      "02rn3": {
+        "createdAt": "2022-05-29T18:30:19.327Z",
+        "updatedAt": "2022-05-29T19:20:00.000Z",
+        "checkedAt": "2022-05-29T18:30:19.000Z",
+        "id": 41097,
+        "identifier": "02rn3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onihei (Dub)",
+        "url": "https://9anime.to/watch/onihei-dub.02rn3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/aa/aaa067e504c03a029621585ced67fa2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33983,
+        "aniId": 97590,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "onihei": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19891,
+        "identifier": "onihei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Onihei",
+        "url": "https://gogoanime.vc/category/onihei",
+        "image": "https://cdnimg.xyz/cover/onihei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33983,
+        "aniId": 97590,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1615": {
+        "identifier": "1615",
+        "malId": 33983,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Onihei",
+        "url": "https://animepahe.com/a/1615"
+      }
+    },
+    "AniMixPlay": {
+      "33983": {
+        "identifier": "33983",
+        "malId": 33983,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Onihei",
+        "url": "https://animixplay.to/anime/33983"
+      }
+    },
+    "YugenAnime": {
+      "1329": {
+        "identifier": "1329",
+        "malId": 33983,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Onihei",
+        "url": "https://yugen.to/anime/1329/onihei/"
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T15:57:57.000Z",
+  "checkedAt": "2022-05-14T15:57:57.000Z",
+  "id": 40056,
+  "type": "anime",
+  "title": "Deca-Dence",
+  "altTitle": [
+    "デカダンス"
+  ],
+  "url": "https://myanimelist.net/anime/40056/Deca-Dence",
+  "image": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://decadence-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14994"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22721"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deca-Dence"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/deca-dence"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14994,
+  "Pages": {
+    "9anime": {
+      "9k9n": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4319,
+        "identifier": "9k9n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Deca-Dence",
+        "url": "https://9anime.to/watch/deca-dence.9k9n",
+        "image": "//static.9anime.to/i/cache/images/2020/05/285c0cd664964fb69608026010778a09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40056,
+        "aniId": 110353,
+        "deletedAt": null
+      },
+      "o2x8": {
+        "createdAt": "2020-10-12T15:54:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7339,
+        "identifier": "o2x8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Deca-Dence (Dub)",
+        "url": "https://9anime.to/watch/deca-dence-dub.o2x8",
+        "image": "//static.9anime.to/i/cache/images/2020/08/32157ec57dd0f1d6dad57ec2072679f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40056,
+        "aniId": 110353,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "deca-dence": {
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17293,
+        "identifier": "deca-dence",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Deca-Dence",
+        "url": "https://gogoanime.vc/category/deca-dence",
+        "image": "https://gogocdn.net/cover/deca-dence.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40056,
+        "aniId": 110353,
+        "deletedAt": null
+      },
+      "deca-dence-dub": {
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17294,
+        "identifier": "deca-dence-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Deca-Dence (Dub)",
+        "url": "https://gogoanime.vc/category/deca-dence-dub",
+        "image": "https://gogocdn.net/cover/deca-dence-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40056,
+        "aniId": 110353,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4028": {
+        "identifier": "4028",
+        "malId": 40056,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Deca-Dence",
+        "url": "https://animepahe.com/a/4028"
+      }
+    },
+    "AniMixPlay": {
+      "40056": {
+        "identifier": "40056",
+        "malId": 40056,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Deca-Dence",
+        "url": "https://animixplay.to/anime/40056"
+      }
+    },
+    "YugenAnime": {
+      "767": {
+        "identifier": "767",
+        "malId": 40056,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Deca-Dence",
+        "url": "https://yugen.to/anime/767/deca-dence/"
+      }
+    }
+  }
+}

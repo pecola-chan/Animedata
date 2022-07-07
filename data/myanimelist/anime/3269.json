@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T22:15:42.000Z",
+  "checkedAt": "2022-05-14T22:15:42.000Z",
+  "id": 3269,
+  "type": "anime",
+  "title": ".hack//G.U. Trilogy",
+  "altTitle": [
+    ".hack//G.U. Trilogy",
+    ".hack//G.U. Trilogy"
+  ],
+  "url": "https://myanimelist.net/anime/3269/hack__GU_Trilogy",
+  "image": "https://cdn.myanimelist.net/images/anime/4/23083.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hack.channel.or.jp/trilogy/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5459"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8719"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5459,
+  "Pages": {
+    "9anime": {
+      "jwj4": {
+        "createdAt": "2020-10-12T15:52:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5066,
+        "identifier": "jwj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//G.U. Trilogy",
+        "url": "https://9anime.to/watch/hackgu-trilogy.jwj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DgkAte57F7U/V8cMOBSlWlI/AAAAAAAA65c/zvCfTcgRzHo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3269,
+        "aniId": 3269,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hackgu-trilogy": {
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18074,
+        "identifier": "hackgu-trilogy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//G.U. Trilogy",
+        "url": "https://gogoanime.vc/category/hackgu-trilogy",
+        "image": "https://cdnimg.xyz/images/Trilogy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3269,
+        "aniId": 3269,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4631": {
+        "identifier": "4631",
+        "malId": 3269,
+        "type": "anime",
+        "page": "animepahe",
+        "title": ".hack//G.U. Trilogy",
+        "url": "https://animepahe.com/a/4631"
+      }
+    },
+    "AniMixPlay": {
+      "3269": {
+        "identifier": "3269",
+        "malId": 3269,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": ".hack//G.U. Trilogy",
+        "url": "https://animixplay.to/anime/3269"
+      }
+    },
+    "YugenAnime": {
+      "1889": {
+        "identifier": "1889",
+        "malId": 3269,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": ".hack//G.U. Trilogy",
+        "url": "https://yugen.to/anime/1889/hackgu-trilogy/"
+      }
+    }
+  }
+}

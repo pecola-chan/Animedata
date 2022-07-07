@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T09:33:58.000Z",
+  "checkedAt": "2022-05-14T09:33:58.000Z",
+  "id": 32262,
+  "type": "anime",
+  "title": "Renai Boukun",
+  "altTitle": [
+    "Love Tyrant",
+    "恋愛暴君"
+  ],
+  "url": "https://myanimelist.net/anime/32262/Renai_Boukun",
+  "image": "https://cdn.myanimelist.net/images/anime/9/84266.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://renaiboukun.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11822"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18906"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ren%27ai_B%C5%8Dkun"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272939"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11822,
+  "Pages": {
+    "9anime": {
+      "0y65": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2022-06-14T02:30:57.000Z",
+        "checkedAt": "2022-06-14T02:30:57.000Z",
+        "id": 733,
+        "identifier": "0y65",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Renai Boukun",
+        "url": "https://9anime.to/watch/love-tyrant.0y65",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/e7aff2c856564d290b31a9c7380516e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32262,
+        "aniId": 21517,
+        "deletedAt": null
+      },
+      "w3m4": {
+        "createdAt": "2020-10-12T15:56:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9642,
+        "identifier": "w3m4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Renai Boukun (Dub)",
+        "url": "https://9anime.to/watch/renai-boukun-dub.w3m4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YMlgMfonZUw/WQFZ00Rg-xI/AAAAAAAAklA/oBNhUG0T93MUWc5I5C3ZExrrvTA9CzMZQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32262,
+        "aniId": 21517,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "renai-boukun": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2022-03-15T23:02:06.000Z",
+        "checkedAt": null,
+        "id": 20267,
+        "identifier": "renai-boukun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Renai Boukun",
+        "url": "https://gogoanime.fi/category/renai-boukun",
+        "image": "https://gogocdn.net/cover/renai-boukun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32262,
+        "aniId": 21517,
+        "deletedAt": null
+      },
+      "renai-boukun-dub": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20268,
+        "identifier": "renai-boukun-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Renai Boukun (Dub)",
+        "url": "https://gogoanime.vc/category/renai-boukun-dub",
+        "image": "https://cdnimg.xyz/cover/renai-boukun-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32262,
+        "aniId": 21517,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2006": {
+        "identifier": "2006",
+        "malId": 32262,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Renai Boukun",
+        "url": "https://animepahe.com/a/2006"
+      }
+    },
+    "AniMixPlay": {
+      "32262": {
+        "identifier": "32262",
+        "malId": 32262,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Renai Boukun",
+        "url": "https://animixplay.to/anime/32262"
+      }
+    },
+    "YugenAnime": {
+      "3531": {
+        "identifier": "3531",
+        "malId": 32262,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Renai Boukun",
+        "url": "https://yugen.to/anime/3531/renai-boukun/"
+      }
+    }
+  }
+}

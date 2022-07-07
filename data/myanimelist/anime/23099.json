@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-05-15T09:54:06.000Z",
+  "checkedAt": "2022-05-15T09:54:06.000Z",
+  "id": 23099,
+  "type": "anime",
+  "title": "Puchitto Gargantia: Marumaru no Gargantia",
+  "altTitle": [
+    "Puchitto Gargantia Episode 14",
+    "ぷちっとがるがんてぃあ: 特別企画 - 〇〇のガルガンティア"
+  ],
+  "url": "https://myanimelist.net/anime/23099/Puchitto_Gargantia__Marumaru_no_Gargantia",
+  "image": "https://cdn.myanimelist.net/images/anime/2/59811.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9556"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9556,
+  "Pages": {
+    "9anime": {
+      "m9jz": {
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6524,
+        "identifier": "m9jz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Puchitto Gargantia: Marumaru no Gargantia",
+        "url": "https://9anime.to/watch/puchitto-gargantia-marumaru-no-gargantia.m9jz",
+        "image": "https://static.akacdn.ru/files/images/2020/02/f779f53288fb8553f5fae617b6984321.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23099,
+        "aniId": 21863,
+        "deletedAt": null
+      }
+    }
+  }
+}

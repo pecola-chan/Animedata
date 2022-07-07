@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:37:11.000Z",
+  "checkedAt": "2022-05-14T16:37:11.000Z",
+  "id": 37525,
+  "type": "anime",
+  "title": "Babylon",
+  "altTitle": [
+    "Babylon",
+    "バビロン"
+  ],
+  "url": "https://myanimelist.net/anime/37525/Babylon",
+  "image": "https://cdn.myanimelist.net/images/anime/1942/102707.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://babylon-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13948"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20775"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Babylon_(novel_series)#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13948,
+  "Pages": {
+    "9anime": {
+      "89z3": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3863,
+        "identifier": "89z3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Babylon",
+        "url": "https://9anime.to/watch/babylon.89z3",
+        "image": "https://static.akacdn.ru/files/images/2019/10/b7ec46600a667ea02349ef2a5f7f2927.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37525,
+        "aniId": 101349,
+        "deletedAt": null
+      },
+      "qxlkv": {
+        "createdAt": "2021-06-09T06:36:34.000Z",
+        "updatedAt": "2021-06-09T06:42:21.000Z",
+        "checkedAt": null,
+        "id": 37253,
+        "identifier": "qxlkv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Babylon (Dub)",
+        "url": "https://9anime.to/watch/babylon-dub.qxlkv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f2/f29665426c512e300d336481abb6a846.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37525,
+        "aniId": 101349,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "babylon": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16665,
+        "identifier": "babylon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Babylon",
+        "url": "https://gogoanime.vc/category/babylon",
+        "image": "https://cdnimg.xyz/cover/babylon.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37525,
+        "aniId": 101349,
+        "deletedAt": null
+      },
+      "babylon-dub": {
+        "createdAt": "2022-02-26T23:18:41.000Z",
+        "updatedAt": "2022-02-26T23:47:39.000Z",
+        "checkedAt": null,
+        "id": 40321,
+        "identifier": "babylon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Babylon (Dub)",
+        "url": "https://gogoanime.fi/category/babylon-dub",
+        "image": "https://gogocdn.net/cover/babylon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37525,
+        "aniId": 101349,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3449": {
+        "identifier": "3449",
+        "malId": 37525,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Babylon",
+        "url": "https://animepahe.com/a/3449"
+      }
+    },
+    "AniMixPlay": {
+      "37525": {
+        "identifier": "37525",
+        "malId": 37525,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Babylon",
+        "url": "https://animixplay.to/anime/37525"
+      }
+    },
+    "YugenAnime": {
+      "15020": {
+        "identifier": "15020",
+        "malId": 37525,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Babylon",
+        "url": "https://yugen.to/anime/15020/babylon/"
+      }
+    }
+  }
+}

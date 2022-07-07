@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T16:37:02.000Z",
+  "checkedAt": "2022-05-14T16:37:02.000Z",
+  "id": 7593,
+  "type": "anime",
+  "title": "Kiss x Sis (TV)",
+  "altTitle": [
+    "Kiss x Sis (2010)",
+    "Kissxsis",
+    "キスシス"
+  ],
+  "url": "https://myanimelist.net/anime/7593/Kiss_x_Sis_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1660/121553.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/kiss_sis/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7215"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11169"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kiss×sis"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7215,
+  "Pages": {
+    "9anime": {
+      "80xo": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2021-09-18T12:41:30.000Z",
+        "checkedAt": null,
+        "id": 3698,
+        "identifier": "80xo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiss x Sis (TV)",
+        "url": "https://9anime.to/watch/kiss-x-sis-tv.80xo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b66dcaa4fdad45098d6150f6f86ab0b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7593,
+        "aniId": 7593,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "71": {
+        "identifier": "71",
+        "malId": 7593,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kiss x Sis (TV)",
+        "url": "https://animepahe.com/a/71"
+      }
+    },
+    "AniMixPlay": {
+      "7593": {
+        "identifier": "7593",
+        "malId": 7593,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kiss x Sis (TV)",
+        "url": "https://animixplay.to/anime/7593"
+      }
+    },
+    "YugenAnime": {
+      "2185": {
+        "identifier": "2185",
+        "malId": 7593,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kiss x Sis (TV)",
+        "url": "https://yugen.to/anime/2185/kiss-x-sis-tv/"
+      }
+    }
+  }
+}

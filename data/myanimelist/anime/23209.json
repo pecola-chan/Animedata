@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-05-14T17:42:05.000Z",
+  "checkedAt": "2022-05-14T17:42:05.000Z",
+  "id": 23209,
+  "type": "anime",
+  "title": "Sora no Method",
+  "altTitle": [
+    "Celestial Method",
+    "天体のメソッド"
+  ],
+  "url": "https://myanimelist.net/anime/23209/Sora_no_Method",
+  "image": "https://cdn.myanimelist.net/images/anime/10/62485.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sora-no-method.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10525"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16038"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Celestial_Method"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10525,
+  "Pages": {
+    "9anime": {
+      "rwmo": {
+        "createdAt": "2020-10-12T15:55:39.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9050,
+        "identifier": "rwmo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sora no Method",
+        "url": "https://9anime.to/watch/sora-no-method.rwmo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zezQICplpYc/V6meXmEctYI/AAAAAAAA1qU/REP-_nE-0Xw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23209,
+        "aniId": 20672,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sora-no-method": {
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20757,
+        "identifier": "sora-no-method",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sora no Method",
+        "url": "https://gogoanime.vc/category/sora-no-method",
+        "image": "https://cdnimg.xyz/images/fall/Sora no Method.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23209,
+        "aniId": 20672,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "781": {
+        "identifier": "781",
+        "malId": 23209,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sora no Method",
+        "url": "https://animepahe.com/a/781"
+      }
+    },
+    "AniMixPlay": {
+      "23209": {
+        "identifier": "23209",
+        "malId": 23209,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sora no Method",
+        "url": "https://animixplay.to/anime/23209"
+      }
+    },
+    "YugenAnime": {
+      "2920": {
+        "identifier": "2920",
+        "malId": 23209,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sora no Method",
+        "url": "https://yugen.to/anime/2920/sora-no-method/"
+      }
+    }
+  }
+}

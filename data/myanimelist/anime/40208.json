@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T21:36:06.000Z",
+  "checkedAt": "2022-05-14T21:36:06.000Z",
+  "id": 40208,
+  "type": "anime",
+  "title": "Wo Kai Dongwuyuan Naxie Nian",
+  "altTitle": [
+    "Those Years I Opened a Zoo",
+    "我开动物园那些年"
+  ],
+  "url": "https://myanimelist.net/anime/40208/Wo_Kai_Dongwuyuan_Naxie_Nian",
+  "image": "https://cdn.myanimelist.net/images/anime/1771/106652.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md4314382"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15508"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15508,
+  "Pages": {
+    "9anime": {
+      "v626": {
+        "createdAt": "2020-10-12T15:55:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9250,
+        "identifier": "v626",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wo Kai Dongwuyuan Naxie Nian",
+        "url": "https://9anime.to/watch/wo-kai-dongwuyuan-naxie-nian.v626",
+        "image": "https://static.akacdn.ru/files/images/2020/04/a6ca2d90991dd5027956dd067ebd99ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40208,
+        "aniId": 107911,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wo-kai-dongwuyuan-naxie-nian": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21437,
+        "identifier": "wo-kai-dongwuyuan-naxie-nian",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wo Kai Dongwuyuan Naxie Nian",
+        "url": "https://gogoanime.vc/category/wo-kai-dongwuyuan-naxie-nian",
+        "image": "https://gogocdn.net/cover/wo-kai-dongwuyuan-naxie-nian.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40208,
+        "aniId": 107911,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40208": {
+        "identifier": "40208",
+        "malId": 40208,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wo Kai Dongwuyuan Naxie Nian",
+        "url": "https://animixplay.to/anime/40208"
+      }
+    },
+    "YugenAnime": {
+      "554": {
+        "identifier": "554",
+        "malId": 40208,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wo Kai Dongwuyuan Naxie Nian",
+        "url": "https://yugen.to/anime/554/wo-kai-dongwuyuan-naxie-nian/"
+      }
+    }
+  }
+}

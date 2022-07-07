@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-27T11:59:28.000Z",
+  "updatedAt": "2022-05-14T09:02:08.000Z",
+  "checkedAt": "2022-05-14T09:02:08.000Z",
+  "id": 43690,
+  "type": "anime",
+  "title": "Tenkuu Shinpan",
+  "altTitle": [
+    "Sky-High Survival",
+    "Sky Violation",
+    "High-Rise Invasion",
+    "天空侵犯"
+  ],
+  "url": "https://myanimelist.net/anime/43690/Tenkuu_Shinpan",
+  "image": "https://cdn.myanimelist.net/images/anime/1547/117947.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://high-rise-invasion.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15811"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23916"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High-Rise_Invasion#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15811,
+  "Pages": {
+    "9anime": {
+      "q43w": {
+        "createdAt": "2020-10-27T11:39:09.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28050,
+        "identifier": "q43w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenkuu Shinpan",
+        "url": "https://9anime.to/watch/high-rise-invasion.q43w",
+        "image": "//static.9anime.to/i/cache/images/2/2b/2bc540a2d248ab4e55e47bb5b4f2a977.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43690,
+        "aniId": 125428,
+        "deletedAt": null
+      },
+      "2rj0": {
+        "createdAt": "2021-02-25T16:26:19.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35239,
+        "identifier": "2rj0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenkuu Shinpan (Dub)",
+        "url": "https://9anime.to/watch/high-rise-invasion-dub.2rj0",
+        "image": "//static.bunnycdn.ru/i/cache/images/1/14/1434666519ed5efa61010fb73825dd03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43690,
+        "aniId": 125428,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tenkuu-shinpan": {
+        "createdAt": "2021-02-25T13:56:08.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35235,
+        "identifier": "tenkuu-shinpan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenkuu Shinpan",
+        "url": "https://gogoanime.vc/category/tenkuu-shinpan",
+        "image": "https://gogocdn.net/cover/tenkuu-shinpan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43690,
+        "aniId": 125428,
+        "deletedAt": null
+      },
+      "tenkuu-shinpan-dub": {
+        "createdAt": "2021-02-26T08:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35259,
+        "identifier": "tenkuu-shinpan-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenkuu Shinpan (Dub)",
+        "url": "https://gogoanime.vc/category/tenkuu-shinpan-dub",
+        "image": "https://gogocdn.net/cover/tenkuu-shinpan-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43690,
+        "aniId": 125428,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4210": {
+        "identifier": "4210",
+        "malId": 43690,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tenkuu Shinpan",
+        "url": "https://animepahe.com/a/4210"
+      }
+    },
+    "AniMixPlay": {
+      "43690": {
+        "identifier": "43690",
+        "malId": 43690,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenkuu Shinpan",
+        "url": "https://animixplay.to/anime/43690"
+      }
+    },
+    "YugenAnime": {
+      "7278": {
+        "identifier": "7278",
+        "malId": 43690,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tenkuu Shinpan",
+        "url": "https://yugen.to/anime/7278/tenkuu-shinpan/"
+      }
+    }
+  }
+}

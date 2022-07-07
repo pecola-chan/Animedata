@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:27.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17745,
+  "identifier": "fuse-teppou-musume-no-torimonochou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fuse Teppou Musume no Torimonochou",
+  "url": "https://gogoanime.vc/category/fuse-teppou-musume-no-torimonochou",
+  "image": "https://cdnimg.xyz/images/anime/F/Fuse-Teppou-Musume-no-Torimonochou.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 13335,
+  "aniId": 13335,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:12.000Z",
+    "updatedAt": "2022-05-14T16:00:21.000Z",
+    "checkedAt": "2022-05-14T16:00:21.000Z",
+    "id": 13335,
+    "type": "anime",
+    "title": "Fuse: Teppou Musume no Torimonochou",
+    "altTitle": [
+      "FUSE: Memoirs of the Hunter Girl",
+      "Fusé: Memoirs of a Huntress",
+      "伏 鉄砲娘の捕物帳"
+    ],
+    "url": "https://myanimelist.net/anime/13335/Fuse__Teppou_Musume_no_Torimonochou",
+    "image": "https://cdn.myanimelist.net/images/anime/3/37313.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://fuse-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9074"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14165"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9074
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:14.000Z",
+    "updatedAt": "2022-05-15T16:42:11.000Z",
+    "checkedAt": "2022-05-15T16:42:11.000Z",
+    "id": 13335,
+    "type": "anime",
+    "title": "Fuse Teppou Musume no Torimonochou",
+    "altTitle": [
+      "FUSE - Memoirs of the Hunter Girl",
+      "伏 鉄砲娘の捕物帳",
+      "Fuse: Memories of the Hunter Girl"
+    ],
+    "url": "https://anilist.co/anime/13335",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13335-u8p97Q1XJA0V.png",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 13335,
+    "deletedAt": null
+  }
+}

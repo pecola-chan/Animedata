@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T21:48:47.000Z",
+  "checkedAt": "2022-05-14T21:48:47.000Z",
+  "id": 41383,
+  "type": "anime",
+  "title": "Obake Zukan",
+  "altTitle": [
+    "おばけずかん"
+  ],
+  "url": "https://myanimelist.net/anime/41383/Obake_Zukan",
+  "image": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.shopro.co.jp/tv/obakezukan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15419"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23490"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15419,
+  "Pages": {
+    "9anime": {
+      "76q7": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3374,
+        "identifier": "76q7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Obake Zukan",
+        "url": "https://9anime.to/watch/obake-zukan.76q7",
+        "image": "https://static.akacdn.ru/files/images/2020/07/aa82394b5365c9a67592027ba70ec338.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41383,
+        "aniId": 116259,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "obake-zukan": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19813,
+        "identifier": "obake-zukan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Obake Zukan",
+        "url": "https://gogoanime.vc/category/obake-zukan",
+        "image": "https://gogocdn.net/cover/obake-zukan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41383,
+        "aniId": 116259,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41383": {
+        "identifier": "41383",
+        "malId": 41383,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Obake Zukan",
+        "url": "https://animixplay.to/anime/41383"
+      }
+    },
+    "YugenAnime": {
+      "2355": {
+        "identifier": "2355",
+        "malId": 41383,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Obake Zukan",
+        "url": "https://yugen.to/anime/2355/obake-zukan/"
+      }
+    }
+  }
+}

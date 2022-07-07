@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T16:52:35.000Z",
+  "checkedAt": "2022-05-14T16:52:35.000Z",
+  "id": 1172,
+  "type": "anime",
+  "title": "Slayers Try",
+  "altTitle": [
+    "スレイヤーズ TRY"
+  ],
+  "url": "https://myanimelist.net/anime/1172/Slayers_Try",
+  "image": "https://cdn.myanimelist.net/images/anime/10/50875.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=364"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=658"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Slayers_Try"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 364,
+  "Pages": {
+    "9anime": {
+      "4zmk": {
+        "createdAt": "2020-10-12T15:50:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2453,
+        "identifier": "4zmk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slayers Try (Dub)",
+        "url": "https://9anime.to/watch/slayers-try-dub.4zmk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NAzmbo6FMaI/WAjY88vFBqI/AAAAAAABJsM/Lx4FG79sDxY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1172,
+        "aniId": 1172,
+        "deletedAt": null
+      },
+      "pj09": {
+        "createdAt": "2020-10-12T15:54:41.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7942,
+        "identifier": "pj09",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slayers Try",
+        "url": "https://9anime.to/watch/slayers-try.pj09",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wWHZtV3tsD0/V6k0h6y4hqI/AAAAAAAA1c4/6mOtLVhNf7c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1172,
+        "aniId": 1172,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4576": {
+        "identifier": "4576",
+        "malId": 1172,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Slayers Try",
+        "url": "https://animepahe.com/a/4576"
+      }
+    },
+    "AniMixPlay": {
+      "1172": {
+        "identifier": "1172",
+        "malId": 1172,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Slayers Try",
+        "url": "https://animixplay.to/anime/1172"
+      }
+    },
+    "YugenAnime": {
+      "580": {
+        "identifier": "580",
+        "malId": 1172,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Slayers Try",
+        "url": "https://yugen.to/anime/580/slayers-try/"
+      }
+    }
+  }
+}

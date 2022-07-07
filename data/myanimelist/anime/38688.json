@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-12-05T20:11:07.000Z",
+  "updatedAt": "2022-05-14T23:56:23.000Z",
+  "checkedAt": "2022-05-14T23:56:23.000Z",
+  "id": 38688,
+  "type": "anime",
+  "title": "Meng Ta: Xue Mi Cheng",
+  "altTitle": [
+    "Meng Taxue Mi Cheng",
+    "Dream Tower: The Puzzle of Snow City",
+    "Dream Tower: Snow Mystery City",
+    "Dream Tower",
+    "梦塔 - 雪谜城"
+  ],
+  "url": "https://myanimelist.net/anime/38688/Meng_Ta__Xue_Mi_Cheng",
+  "image": "https://cdn.myanimelist.net/images/anime/1920/96262.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.weibo.com/u/6447356890"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14287"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%A2%A6%E5%A1%94%C2%B7%E9%9B%AA%E8%B0%9C%E5%9F%8E/22343890"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14287,
+  "Pages": {
+    "9anime": {
+      "8v3q": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4021,
+        "identifier": "8v3q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Meng Ta: Xue Mi Cheng",
+        "url": "https://9anime.to/watch/dream-tower.8v3q",
+        "image": "//static.bunnycdn.ru/i/cache/images/3/30/306f4c864544a0983a822a4763189664.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 38688,
+        "aniId": 106496,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "meng-ta-xue-mi-cheng": {
+        "createdAt": "2020-12-05T20:11:08.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29662,
+        "identifier": "meng-ta-xue-mi-cheng",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Meng Ta: Xue Mi Cheng",
+        "url": "https://gogoanime.vc/category/meng-ta-xue-mi-cheng",
+        "image": "https://gogocdn.net/cover/meng-ta-xue-mi-cheng.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38688,
+        "aniId": 106496,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38688": {
+        "identifier": "38688",
+        "malId": 38688,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Meng Ta: Xue Mi Cheng",
+        "url": "https://animixplay.to/anime/38688"
+      }
+    },
+    "YugenAnime": {
+      "7175": {
+        "identifier": "7175",
+        "malId": 38688,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Meng Ta: Xue Mi Cheng",
+        "url": "https://yugen.to/anime/7175/meng-ta-xue-mi-cheng/"
+      }
+    }
+  }
+}

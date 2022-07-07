@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T21:07:18.000Z",
+  "checkedAt": "2022-05-14T21:07:18.000Z",
+  "id": 11237,
+  "type": "anime",
+  "title": "Hidamari Sketch x SP",
+  "altTitle": [
+    "Hidamari Sketch x SP",
+    "ひだまりスケッチ×SP"
+  ],
+  "url": "https://myanimelist.net/anime/11237/Hidamari_Sketch_x_SP",
+  "image": "https://cdn.myanimelist.net/images/anime/9/34085.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/hidamari/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8577"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13353"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hidamari_Sketch"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/hidamari-sketch-x-sp"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8577,
+  "Pages": {
+    "9anime": {
+      "7yy6": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3661,
+        "identifier": "7yy6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hidamari Sketch x SP",
+        "url": "https://9anime.to/watch/hidamari-sketch-x-sp.7yy6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TO7jhHX1It0/WCxBTSkV-fI/AAAAAAABPFc/1I4821jvxqI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11237,
+        "aniId": 11237,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hidamari-sketch-x-sp": {
+        "createdAt": "2022-04-07T18:32:06.000Z",
+        "updatedAt": "2022-04-07T19:00:23.000Z",
+        "checkedAt": null,
+        "id": 40659,
+        "identifier": "hidamari-sketch-x-sp",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hidamari Sketch x SP",
+        "url": "https://gogoanime.fi/category/hidamari-sketch-x-sp",
+        "image": "https://gogocdn.net/cover/hidamari-sketch-x-sp.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11237,
+        "aniId": 11237,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3498": {
+        "identifier": "3498",
+        "malId": 11237,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hidamari Sketch x SP",
+        "url": "https://animepahe.com/a/3498"
+      }
+    },
+    "YugenAnime": {
+      "11883": {
+        "identifier": "11883",
+        "malId": 11237,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hidamari Sketch x SP",
+        "url": "https://yugen.to/anime/11883/hidamari-sketch-x-sp/"
+      }
+    }
+  }
+}

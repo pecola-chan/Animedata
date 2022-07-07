@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-08-13T11:07:17.000Z",
+  "updatedAt": "2021-08-13T11:36:58.000Z",
+  "checkedAt": null,
+  "id": 38227,
+  "identifier": "to-heart-remember-my-memories-specials",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "To Heart: Remember My Memories Specials",
+  "url": "https://gogoanime.pe/category/to-heart-remember-my-memories-specials",
+  "image": "https://gogocdn.net/cover/to-heart-remember-my-memories-specials.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 686,
+  "aniId": 686,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T22:28:58.000Z",
+    "checkedAt": "2022-05-14T22:28:58.000Z",
+    "id": 686,
+    "type": "anime",
+    "title": "To Heart: Remember My Memories Specials",
+    "altTitle": [
+      "ToHeart Remember my memories: Heart Fighters"
+    ],
+    "url": "https://myanimelist.net/anime/686/To_Heart__Remember_My_Memories_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/1/686.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2404"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2404
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T16:38:23.000Z",
+    "checkedAt": "2022-05-15T16:38:23.000Z",
+    "id": 686,
+    "type": "anime",
+    "title": "ToHeart: Remember my memories - Heart Fighters",
+    "altTitle": [
+      "ToHeart ～Remember my memories～ Heart Fighters",
+      "トゥハート"
+    ],
+    "url": "https://anilist.co/anime/686",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/686.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 686,
+    "deletedAt": null
+  }
+}

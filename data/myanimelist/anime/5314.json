@@ -1,0 +1,51 @@
+{
+  "createdAt": "2021-08-21T21:47:07.000Z",
+  "updatedAt": "2022-05-15T08:23:13.000Z",
+  "checkedAt": "2022-05-15T08:23:13.000Z",
+  "id": 5314,
+  "type": "anime",
+  "title": "Rokumon Tengai Mon Colle Knights Movie: Densetsu no Fire Dragon",
+  "altTitle": [
+    "Rokumon Tengai Monkore Knight Movie: Densetsu no Firedragon",
+    "Densetsu no Fire Dragon",
+    "Monkore Naito Densentsu no Fire Dragon",
+    "Mon Colle Knights: Legend of the Fire Dragon",
+    "劇場版 六門天外モンコレナイト〜伝説のファイアドラゴン〜"
+  ],
+  "url": "https://myanimelist.net/anime/5314/Rokumon_Tengai_Mon_Colle_Knights_Movie__Densetsu_no_Fire_Dragon",
+  "image": "https://cdn.myanimelist.net/images/anime/13/10678.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5523"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5523,
+  "Pages": {
+    "9anime": {
+      "vvnrv": {
+        "createdAt": "2021-08-21T21:46:36.000Z",
+        "updatedAt": "2021-08-21T22:16:06.000Z",
+        "checkedAt": null,
+        "id": 38397,
+        "identifier": "vvnrv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rokumon Tengai Mon Colle Knights Movie: Densetsu no Fire Dragon",
+        "url": "https://9anime.to/watch/mon-colle-knights-legend-of-the-fire-dragon.vvnrv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5c/5ca818a0b8fad1490dcf9a3952183428.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5314,
+        "aniId": 5314,
+        "deletedAt": null
+      }
+    }
+  }
+}

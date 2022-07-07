@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T16:00:07.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17081,
+  "identifier": "chou-yuu-sekai-being-the-reality",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Chou Yuu Sekai: Being the Reality",
+  "url": "https://gogoanime.vc/category/chou-yuu-sekai-being-the-reality",
+  "image": "https://cdnimg.xyz/cover/chou-yuu-sekai-being-the-reality.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 34675,
+  "aniId": 98104,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:51.000Z",
+    "updatedAt": "2022-05-14T20:11:42.000Z",
+    "checkedAt": "2022-05-14T20:11:42.000Z",
+    "id": 34675,
+    "type": "anime",
+    "title": "Chou Yuu Sekai: Being the Reality",
+    "altTitle": [
+      "World of Super Sand Box: Being the Reality",
+      "Chao You Shijie",
+      "超游世界 -BEING THE REALITY-"
+    ],
+    "url": "https://myanimelist.net/anime/34675/Chou_Yuu_Sekai__Being_the_Reality",
+    "image": "https://cdn.myanimelist.net/images/anime/7/83712.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.success-corp.co.jp/app/webroot/am/cys/ja/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12709"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18998"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ch%C5%8Dy%C5%AB_Sekai"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 12709
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:22.000Z",
+    "updatedAt": "2022-05-15T11:58:23.000Z",
+    "checkedAt": "2022-05-15T11:58:23.000Z",
+    "id": 98104,
+    "type": "anime",
+    "title": "Chou Yuu Sekai: Being the Reality",
+    "altTitle": [
+      "超游世界 -BEING THE REALITY-",
+      "Chouyuu Sekai: Being the Reality",
+      "World of Super Sand Box: Being the Reality",
+      "Chao You Shijie",
+      "超游世界"
+    ],
+    "url": "https://anilist.co/anime/98104",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98104-xrY6ddaWn8pl.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 34675,
+    "deletedAt": null
+  }
+}

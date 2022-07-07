@@ -1,0 +1,160 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T09:39:11.000Z",
+  "checkedAt": "2022-05-14T09:39:11.000Z",
+  "id": 5781,
+  "type": "anime",
+  "title": "Isekai no Seikishi Monogatari",
+  "altTitle": [
+    "ISM",
+    "Isekai no Seikishi Monogatari",
+    "Tenchi Muyo! War on Geminar",
+    "異世界の聖機師物語"
+  ],
+  "url": "https://myanimelist.net/anime/5781/Isekai_no_Seikishi_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/2/20345.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vap.co.jp/seikishi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6304"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10393"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tenchi_Muyo!_War_on_Geminar"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275097"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/tenchi-muyo-war-on-geminar"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6304,
+  "Pages": {
+    "9anime": {
+      "3oy": {
+        "createdAt": "2020-10-12T15:49:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1888,
+        "identifier": "3oy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Isekai no Seikishi Monogatari",
+        "url": "https://9anime.to/watch/isekai-no-seikishi-monogatari.3oy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--nOJ_Gab5Xs/V4PEhamlxbI/AAAAAAAAu0o/b0a3-0Jgnco/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5781,
+        "aniId": 5781,
+        "deletedAt": null
+      },
+      "5v0v": {
+        "createdAt": "2020-10-12T15:50:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2776,
+        "identifier": "5v0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenchi Muyo! War on Geminar (Dub)",
+        "url": "https://9anime.to/watch/tenchi-muyo-war-on-geminar-dub.5v0v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JmEUNpsisBQ/V_6IE32yIVI/AAAAAAABHBU/8yVGHWOUUsw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5781,
+        "aniId": 5781,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "isekai-no-seikishi-monogatari": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18523,
+        "identifier": "isekai-no-seikishi-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Isekai no Seikishi Monogatari",
+        "url": "https://gogoanime.vc/category/isekai-no-seikishi-monogatari",
+        "image": "https://images.gogoanime.tv/images/anime/I/Isekai-no-Seikishi-Monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5781,
+        "aniId": 5781,
+        "deletedAt": null
+      },
+      "tenchi-muyo-war-on-geminar-dub": {
+        "createdAt": "2020-10-12T16:02:02.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20989,
+        "identifier": "tenchi-muyo-war-on-geminar-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenchi Muyo! War on Geminar (Dub)",
+        "url": "https://gogoanime.vc/category/tenchi-muyo-war-on-geminar-dub",
+        "image": "https://cdnimg.xyz/cover/tenchi-muyo-war-on-geminar-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5781,
+        "aniId": 5781,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "927": {
+        "identifier": "927",
+        "malId": 5781,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Isekai no Seikishi Monogatari",
+        "url": "https://animepahe.com/a/927"
+      }
+    },
+    "AniMixPlay": {
+      "5781": {
+        "identifier": "5781",
+        "malId": 5781,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Isekai no Seikishi Monogatari",
+        "url": "https://animixplay.to/anime/5781"
+      }
+    },
+    "YugenAnime": {
+      "4252": {
+        "identifier": "4252",
+        "malId": 5781,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Isekai no Seikishi Monogatari",
+        "url": "https://yugen.to/anime/4252/isekai-no-seikishi-monogatari/"
+      }
+    }
+  }
+}

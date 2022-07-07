@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T18:39:05.000Z",
+  "updatedAt": "2022-05-14T16:37:14.000Z",
+  "checkedAt": "2022-05-14T16:37:14.000Z",
+  "id": 40979,
+  "type": "anime",
+  "title": "Yingxiong Zai Lin",
+  "altTitle": [
+    "The Hero's Return",
+    "Yingxiong? Wo Zao Jiu Bu Dang Le",
+    "英雄？我早就不当了",
+    "Hero Return",
+    "英雄再临"
+  ],
+  "url": "https://myanimelist.net/anime/40979/Yingxiong_Zai_Lin",
+  "image": "https://cdn.myanimelist.net/images/anime/1494/109747.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/q/q72jd29a3oxflsr.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15785"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/英雄再临/23607088"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15785,
+  "Pages": {
+    "9anime": {
+      "o245": {
+        "createdAt": "2020-10-12T18:39:15.000Z",
+        "updatedAt": "2022-03-19T05:20:12.000Z",
+        "checkedAt": null,
+        "id": 23806,
+        "identifier": "o245",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yingxiong Zailin",
+        "url": "https://9anime.to/watch/hero-return.o245",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/09/806398e762889c0f0267f2a7eaea5dc8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40979,
+        "aniId": 120193,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yingxiong-zai-lin": {
+        "createdAt": "2020-11-10T13:13:28.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29086,
+        "identifier": "yingxiong-zai-lin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yingxiong Zai Lin",
+        "url": "https://gogoanime.vc/category/yingxiong-zai-lin",
+        "image": "https://gogocdn.net/cover/yingxiong-zai-lin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40979,
+        "aniId": 120193,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40979": {
+        "identifier": "40979",
+        "malId": 40979,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yingxiong Zai Lin",
+        "url": "https://animixplay.to/anime/40979"
+      }
+    },
+    "YugenAnime": {
+      "6705": {
+        "identifier": "6705",
+        "malId": 40979,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yingxiong Zai Lin",
+        "url": "https://yugen.to/anime/6705/yingxiong-zai-lin/"
+      }
+    }
+  }
+}

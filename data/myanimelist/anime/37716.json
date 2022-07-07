@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T16:26:47.000Z",
+  "checkedAt": "2022-05-14T16:26:47.000Z",
+  "id": 37716,
+  "type": "anime",
+  "title": "Beelzebub-jou no Okinimesu mama.",
+  "altTitle": [
+    "As Miss Beelzebub Likes.",
+    "ベルゼブブ嬢のお気に召すまま。"
+  ],
+  "url": "https://myanimelist.net/anime/37716/Beelzebub-jou_no_Okinimesu_mama",
+  "image": "https://cdn.myanimelist.net/images/anime/1827/95738.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://beelmama.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14025"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20847"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/As_Miss_Beelzebub_Likes"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277103"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14025,
+  "Pages": {
+    "9anime": {
+      "466o": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2022-06-14T03:30:45.000Z",
+        "checkedAt": "2022-06-14T03:30:45.000Z",
+        "id": 2146,
+        "identifier": "466o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beelzebub-jou no Okinimesu mama.",
+        "url": "https://9anime.to/watch/as-miss-beelzebub-likes-it.466o",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ac94d36d61a70d663ceb24921593253e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37716,
+        "aniId": 101505,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beelzebub-jou-no-okinimesu-mama": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16769,
+        "identifier": "beelzebub-jou-no-okinimesu-mama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beelzebub-jou no Okinimesu mama.",
+        "url": "https://gogoanime.vc/category/beelzebub-jou-no-okinimesu-mama",
+        "image": "https://cdnimg.xyz/cover/beelzebub-jou-no-okinimesu-mama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37716,
+        "aniId": 101505,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2870": {
+        "identifier": "2870",
+        "malId": 37716,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Beelzebub-jou no Okinimesu mama.",
+        "url": "https://animepahe.com/a/2870"
+      }
+    },
+    "AniMixPlay": {
+      "37716": {
+        "identifier": "37716",
+        "malId": 37716,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Beelzebub-jou no Okinimesu mama.",
+        "url": "https://animixplay.to/anime/37716"
+      }
+    },
+    "YugenAnime": {
+      "2584": {
+        "identifier": "2584",
+        "malId": 37716,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Beelzebub-jou no Okinimesu mama.",
+        "url": "https://yugen.to/anime/2584/beelzebub-jou-no-okinimesu-mama/"
+      }
+    }
+  }
+}

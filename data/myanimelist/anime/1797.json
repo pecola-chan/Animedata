@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T20:59:59.000Z",
+  "checkedAt": "2022-05-14T20:59:59.000Z",
+  "id": 1797,
+  "type": "anime",
+  "title": "Animation Seisaku Shinkou Kuromi-chan",
+  "altTitle": [
+    "Animation Runner Kuromi",
+    "アニメーション制作進行くろみちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/1797/Animation_Seisaku_Shinkou_Kuromi-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/1/1797.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=773"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1146"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Animation_Runner_Kuromi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 773,
+  "Pages": {
+    "9anime": {
+      "01x9": {
+        "createdAt": "2020-10-12T15:48:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 402,
+        "identifier": "01x9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animation Seisaku Shinkou Kuromi-chan (Dub)",
+        "url": "https://9anime.to/watch/animation-seisaku-shinkou-kuromi-chan-dub.01x9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--tRqCV-0SxE/WOIptiDr6II/AAAAAAAAfMc/M4UPfvp4yrU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1797,
+        "aniId": 1797,
+        "deletedAt": null
+      },
+      "11vv": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 800,
+        "identifier": "11vv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animation Seisaku Shinkou Kuromi-chan",
+        "url": "https://9anime.to/watch/animation-seisaku-shinkou-kuromi-chan.11vv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4PbJw9jYWmI/WOIpp45GyFI/AAAAAAAAfMY/TRf3h7DT60k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1797,
+        "aniId": 1797,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1797": {
+        "identifier": "1797",
+        "malId": 1797,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Animation Seisaku Shinkou Kuromi-chan",
+        "url": "https://animixplay.to/anime/1797"
+      }
+    },
+    "YugenAnime": {
+      "6497": {
+        "identifier": "6497",
+        "malId": 1797,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Animation Seisaku Shinkou Kuromi-chan",
+        "url": "https://yugen.to/anime/6497/animation-seisaku-shinkou-kuromi-chan/"
+      }
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "createdAt": "2020-10-12T15:38:15.000Z",
+  "updatedAt": "2022-05-14T16:17:33.000Z",
+  "checkedAt": "2022-05-14T16:17:33.000Z",
+  "id": 1292,
+  "type": "anime",
+  "title": "Afro Samurai",
+  "altTitle": [
+    "Afro Samurai",
+    "アフロサムライ"
+  ],
+  "url": "https://myanimelist.net/anime/1292/Afro_Samurai",
+  "image": "https://cdn.myanimelist.net/images/anime/3/15874.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.afrosamurai.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2656"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5275"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Afro_Samurai"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/afro-samurai"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "tubitv",
+      "url": "https://tubitv.com/series/3400/afro-samurai"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2656,
+  "Pages": {
+    "9anime": {
+      "88mo": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2022-06-14T05:31:49.000Z",
+        "checkedAt": "2022-06-14T05:31:49.000Z",
+        "id": 3835,
+        "identifier": "88mo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Afro Samurai (Dub)",
+        "url": "https://9anime.to/watch/afro-samurai.88mo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/1c765788dff2546dab3665c9665d86d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1292,
+        "aniId": 1292,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "afro-samurai": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16381,
+        "identifier": "afro-samurai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Afro Samurai",
+        "url": "https://gogoanime.vc/category/afro-samurai",
+        "image": "https://images.gogoanime.tv/images/anime/afro-samurai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1292,
+        "aniId": 1292,
+        "deletedAt": null
+      },
+      "afro-samurai-dub": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16382,
+        "identifier": "afro-samurai-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Afro Samurai (Dub)",
+        "url": "https://gogoanime.vc/category/afro-samurai-dub",
+        "image": "https://cdnimg.xyz/cover/afro-samurai-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1292,
+        "aniId": 1292,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2084": {
+        "identifier": "2084",
+        "malId": 1292,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Afro Samurai",
+        "url": "https://animepahe.com/a/2084"
+      }
+    },
+    "AniMixPlay": {
+      "1292": {
+        "identifier": "1292",
+        "malId": 1292,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Afro Samurai",
+        "url": "https://animixplay.to/anime/1292"
+      }
+    },
+    "YugenAnime": {
+      "140": {
+        "identifier": "140",
+        "malId": 1292,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Afro Samurai",
+        "url": "https://yugen.to/anime/140/afro-samurai/"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T21:25:11.000Z",
+  "checkedAt": "2022-05-14T21:25:10.000Z",
+  "id": 2424,
+  "type": "anime",
+  "title": "Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
+  "altTitle": [
+    "Tomoyo Video Diary 1",
+    "Memorial Video 1",
+    "Cardcaptor Sakura Specials",
+    "Cardcaptor Sakura Video Diary",
+    "すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!"
+  ],
+  "url": "https://myanimelist.net/anime/2424/Suteki_Desu_wa_Sakura-chan_Tomoyo_no_Cardcaptor_Sakura_Katsuyaku_Video_Nikki",
+  "image": "https://cdn.myanimelist.net/images/anime/10/68205.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=102"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 102,
+  "Pages": {
+    "9anime": {
+      "782y": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3392,
+        "identifier": "782y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cardcaptor Sakura Specials",
+        "url": "https://9anime.to/watch/cardcaptor-sakura-specials.782y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wmuQxeZFG7o/WNjmqa-RdcI/AAAAAAAAdms/qZK1UNBbWnc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2424,
+        "aniId": 2424,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3507": {
+        "identifier": "3507",
+        "malId": 2424,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
+        "url": "https://animepahe.com/a/3507"
+      }
+    },
+    "AniMixPlay": {
+      "2424": {
+        "identifier": "2424",
+        "malId": 2424,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!",
+        "url": "https://animixplay.to/anime/2424"
+      }
+    }
+  }
+}

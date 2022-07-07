@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T09:33:12.000Z",
+  "checkedAt": "2022-05-14T09:33:12.000Z",
+  "id": 40571,
+  "type": "anime",
+  "title": "Majo no Tabitabi",
+  "altTitle": [
+    "Wandering Witch: The Journey of Elaina",
+    "魔女の旅々"
+  ],
+  "url": "https://myanimelist.net/anime/40571/Majo_no_Tabitabi",
+  "image": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://majotabi.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15202"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22581"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wandering_Witch:_The_Journey_of_Elaina#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282320"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/wandering-witch-the-journey-of-elaina"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15202,
+  "Pages": {
+    "Gogoanime": {
+      "majo-no-tabitabi": {
+        "createdAt": "2020-10-12T17:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23700,
+        "identifier": "majo-no-tabitabi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Majo no Tabitabi",
+        "url": "https://gogoanime.vc/category/majo-no-tabitabi",
+        "image": "https://gogocdn.net/cover/majo-no-tabitabi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40571,
+        "aniId": 112609,
+        "deletedAt": null
+      },
+      "majo-no-tabitabi-dub": {
+        "createdAt": "2020-12-05T05:11:43.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29657,
+        "identifier": "majo-no-tabitabi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Majo no Tabitabi (Dub)",
+        "url": "https://gogoanime.vc/category/majo-no-tabitabi-dub",
+        "image": "https://gogocdn.net/cover/majo-no-tabitabi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40571,
+        "aniId": 112609,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9vnn": {
+        "createdAt": "2020-10-12T19:19:48.000Z",
+        "updatedAt": "2021-08-17T20:07:33.000Z",
+        "checkedAt": null,
+        "id": 23903,
+        "identifier": "9vnn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Majo no Tabitabi",
+        "url": "https://9anime.to/watch/wandering-witch-the-journey-of-elaina.9vnn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/9d/9dc62fb1b311e8fb478146f1d7f31c1e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40571,
+        "aniId": 112609,
+        "deletedAt": null
+      },
+      "r51m": {
+        "createdAt": "2020-12-09T14:13:41.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29888,
+        "identifier": "r51m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Majo no Tabitabi (Dub)",
+        "url": "https://9anime.to/watch/the-journey-of-elaina-dub.r51m",
+        "image": "//static.9anime.to/i/cache/images/5/5a/5a9aaf27b544966aec9ce79953deee9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40571,
+        "aniId": 112609,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4080": {
+        "identifier": "4080",
+        "malId": 40571,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Majo no Tabitabi",
+        "url": "https://animepahe.com/a/4080"
+      }
+    },
+    "AniMixPlay": {
+      "40571": {
+        "identifier": "40571",
+        "malId": 40571,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Majo no Tabitabi",
+        "url": "https://animixplay.to/anime/40571"
+      }
+    },
+    "YugenAnime": {
+      "6447": {
+        "identifier": "6447",
+        "malId": 40571,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Majo no Tabitabi",
+        "url": "https://yugen.to/anime/6447/majo-no-tabitabi/"
+      }
+    }
+  }
+}

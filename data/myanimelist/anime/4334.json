@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T21:27:23.000Z",
+  "checkedAt": "2022-05-14T21:27:23.000Z",
+  "id": 4334,
+  "type": "anime",
+  "title": "Heroman",
+  "altTitle": [
+    "ヒーローマン"
+  ],
+  "url": "https://myanimelist.net/anime/4334/Heroman",
+  "image": "https://cdn.myanimelist.net/images/anime/10/23841.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/heroman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7412"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11266"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Heroman"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-206376"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7412,
+  "Pages": {
+    "9anime": {
+      "yjo1": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-06-29T10:50:34.000Z",
+        "checkedAt": null,
+        "id": 10691,
+        "identifier": "yjo1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Heroman",
+        "url": "https://9anime.to/watch/heroman.yjo1",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/64ec1f312dd7659dd0365b57e5a4ce8c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4334,
+        "aniId": 4334,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "heroman": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18245,
+        "identifier": "heroman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Heroman",
+        "url": "https://gogoanime.vc/category/heroman",
+        "image": "https://cdnimg.xyz/images/anime/H/heroman.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4334,
+        "aniId": 4334,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4334": {
+        "identifier": "4334",
+        "malId": 4334,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Heroman",
+        "url": "https://animixplay.to/anime/4334"
+      }
+    },
+    "YugenAnime": {
+      "356": {
+        "identifier": "356",
+        "malId": 4334,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Heroman",
+        "url": "https://yugen.to/anime/356/heroman/"
+      }
+    }
+  }
+}

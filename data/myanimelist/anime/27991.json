@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-13T20:08:00.000Z",
+  "checkedAt": "2022-05-13T20:08:00.000Z",
+  "id": 27991,
+  "type": "anime",
+  "title": "K: Return of Kings",
+  "altTitle": [
+    "K-Project Sequel",
+    "K 2nd Season",
+    "K: Return of Kings",
+    "K RETURN OF KINGS"
+  ],
+  "url": "https://myanimelist.net/anime/27991/K__Return_of_Kings",
+  "image": "https://cdn.myanimelist.net/images/anime/6/76198.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://k-project-come-back.jpn.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10929"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16771"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/K_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279524"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10929,
+  "Pages": {
+    "9anime": {
+      "71j": {
+        "createdAt": "2020-10-12T15:50:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3310,
+        "identifier": "71j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Return of Kings",
+        "url": "https://9anime.to/watch/k-return-of-kings.71j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sFb-r2vnrps/V3FyNBa_2zI/AAAAAAAArkE/BnBFiyekdFo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27991,
+        "aniId": 20913,
+        "deletedAt": null
+      },
+      "9nyq": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2022-02-03T13:18:11.000Z",
+        "checkedAt": null,
+        "id": 4375,
+        "identifier": "9nyq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Return Of Kings (Dub)",
+        "url": "https://9anime.to/watch/k-return-of-kings-dub.9nyq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d4fafd174663490f527297eeb3e0d5e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27991,
+        "aniId": 20913,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "k-return-of-kings": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18638,
+        "identifier": "k-return-of-kings",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K: Return of Kings",
+        "url": "https://gogoanime.vc/category/k-return-of-kings",
+        "image": "https://cdnimg.xyz/images/upload/76198.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27991,
+        "aniId": 20913,
+        "deletedAt": null
+      },
+      "k-return-of-kings-dub": {
+        "createdAt": "2020-10-12T17:17:10.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23556,
+        "identifier": "k-return-of-kings-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K: Return of Kings (Dub)",
+        "url": "https://gogoanime.vc/category/k-return-of-kings-dub",
+        "image": "https://gogocdn.net/cover/k-return-of-kings-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27991,
+        "aniId": 20913,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "14": {
+        "identifier": "14",
+        "malId": 27991,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "K: Return of Kings",
+        "url": "https://animepahe.com/a/14"
+      }
+    },
+    "AniMixPlay": {
+      "27991": {
+        "identifier": "27991",
+        "malId": 27991,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "K: Return of Kings",
+        "url": "https://animixplay.to/anime/27991"
+      }
+    },
+    "YugenAnime": {
+      "1856": {
+        "identifier": "1856",
+        "malId": 27991,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "K: Return of Kings",
+        "url": "https://yugen.to/anime/1856/k-return-of-kings/"
+      }
+    }
+  }
+}

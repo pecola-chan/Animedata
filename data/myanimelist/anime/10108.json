@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T19:58:53.000Z",
+  "checkedAt": "2022-05-14T19:58:53.000Z",
+  "id": 10108,
+  "type": "anime",
+  "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary",
+  "altTitle": [
+    "Ore no Imouto ga Konnani Kawaii Wake ga Nai Animated Commentary",
+    "My Little Sister Can't Be This Cute Specials Animated Commentary",
+    "Oreimo Animated Commentary",
+    "俺の妹がこんなに可愛いわけがない SDキャラによるキャラクターコメンタリー"
+  ],
+  "url": "https://myanimelist.net/anime/10108/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai__SD_Chara_ni_Yoru_Character_Commentary",
+  "image": "https://cdn.myanimelist.net/images/anime/8/28061.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oreimo-anime.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7525"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ore_no_Im%C5%8Dto_ga_Konna_ni_Kawaii_Wake_ga_Nai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7525,
+  "Pages": {
+    "9anime": {
+      "893q": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3847,
+        "identifier": "893q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oreimo Animated Commentary",
+        "url": "https://9anime.to/watch/oreimo-animated-commentary.893q",
+        "image": "http://static.akacdn.ru/static/images/2018/03/bcf0bea0d21d9b6f751add9749fea688.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10108,
+        "aniId": 10108,
+        "deletedAt": null
+      },
+      "6l9q4": {
+        "createdAt": "2021-09-03T05:16:20.000Z",
+        "updatedAt": "2021-09-03T05:45:45.000Z",
+        "checkedAt": null,
+        "id": 38531,
+        "identifier": "6l9q4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary",
+        "url": "https://9anime.to/watch/oreimo-animated-commentary.6l9q4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/24/240844ca48d83d41c2158157db117e29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10108,
+        "aniId": 10108,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2732": {
+        "identifier": "2732",
+        "malId": 10108,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary",
+        "url": "https://animepahe.com/a/2732"
+      }
+    }
+  }
+}

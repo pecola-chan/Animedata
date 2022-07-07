@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-28T21:55:39.000Z",
+  "checkedAt": "2022-05-28T21:55:39.000Z",
+  "id": 3704,
+  "type": "anime",
+  "title": "Zenryoku Usagi",
+  "altTitle": [
+    "Constructor Rabbit",
+    "全力ウサギ"
+  ],
+  "url": "https://myanimelist.net/anime/3704/Zenryoku_Usagi",
+  "image": "https://cdn.myanimelist.net/images/anime/12/51631.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zenryoku-usagi.com/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5913"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8930"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%85%A8%E5%8A%9B%E3%82%A6%E3%82%B5%E3%82%AE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5913,
+  "Pages": {
+    "9anime": {
+      "00vk": {
+        "createdAt": "2020-10-12T15:48:38.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 384,
+        "identifier": "00vk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zenryoku Usagi",
+        "url": "https://9anime.to/watch/zenryoku-usagi.00vk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fhvTvJlxl3c/V8_vz8dOZBI/AAAAAAAA8Lw/uQ9SJTKfWE8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3704,
+        "aniId": 3704,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3704": {
+        "identifier": "3704",
+        "malId": 3704,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Zenryoku Usagi",
+        "url": "https://animixplay.to/anime/3704"
+      }
+    },
+    "YugenAnime": {
+      "2816": {
+        "identifier": "2816",
+        "malId": 3704,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Zenryoku Usagi",
+        "url": "https://yugen.to/anime/2816/zenryoku-usagi/"
+      }
+    }
+  }
+}

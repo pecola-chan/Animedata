@@ -1,0 +1,93 @@
+{
+  "createdAt": "2021-11-03T13:35:45.000Z",
+  "updatedAt": "2022-05-14T21:02:11.000Z",
+  "checkedAt": "2022-05-14T21:02:11.000Z",
+  "id": 49380,
+  "type": "anime",
+  "title": "Mao Zhi Ming",
+  "altTitle": [
+    "Cat's Tea",
+    "猫之茗"
+  ],
+  "url": "https://myanimelist.net/anime/49380/Mao_Zhi_Ming",
+  "image": "https://cdn.myanimelist.net/images/anime/1305/116379.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28223054/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%8C%AB%E4%B9%8B%E8%8C%97/24126917"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "jvvnn": {
+        "createdAt": "2021-11-03T13:35:30.000Z",
+        "updatedAt": "2021-11-03T14:04:19.000Z",
+        "checkedAt": null,
+        "id": 39165,
+        "identifier": "jvvnn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mao Zhi Ming",
+        "url": "https://9anime.to/watch/cats-tea.jvvnn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/44/446b59439e5d8d0e381c721cd57d61cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49380,
+        "aniId": 116010,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mao-zhi-ming": {
+        "createdAt": "2021-11-03T23:04:30.000Z",
+        "updatedAt": "2021-11-03T23:34:19.000Z",
+        "checkedAt": null,
+        "id": 39168,
+        "identifier": "mao-zhi-ming",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mao Zhi Ming",
+        "url": "https://gogoanime.pe/category/mao-zhi-ming",
+        "image": "https://gogocdn.net/cover/mao-zhi-ming.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49380,
+        "aniId": 116010,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "49380": {
+        "identifier": "49380",
+        "malId": 49380,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mao Zhi Ming",
+        "url": "https://animixplay.to/anime/49380"
+      }
+    },
+    "YugenAnime": {
+      "11315": {
+        "identifier": "11315",
+        "malId": 49380,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mao Zhi Ming",
+        "url": "https://yugen.to/anime/11315/mao-zhi-ming/"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "createdAt": "2021-02-27T15:14:43.000Z",
+  "updatedAt": "2022-05-14T21:37:41.000Z",
+  "checkedAt": "2022-05-14T21:37:41.000Z",
+  "id": 41586,
+  "type": "anime",
+  "title": "number24 Recap",
+  "altTitle": [
+    "number24 Episode 10.5",
+    "number24 Soushuuhen",
+    "ナンバー・トゥーフォー 総集編"
+  ],
+  "url": "https://myanimelist.net/anime/41586/number24_Recap",
+  "image": "https://cdn.myanimelist.net/images/anime/1220/106820.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://number24-anime.com/news/hp0001/index00510000.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14788"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22011"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Number24"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14788,
+  "Pages": {
+    "9anime": {
+      "r2yp": {
+        "createdAt": "2020-10-12T15:55:25.000Z",
+        "updatedAt": "2021-02-28T13:15:41.000Z",
+        "checkedAt": null,
+        "id": 8738,
+        "identifier": "r2yp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "number24 Recap",
+        "url": "https://9anime.to/watch/number24-recap.r2yp",
+        "image": "//static.bunnycdn.ru/i/cache/images/2020/04/03f447ad540111f5034ddb7e57915d2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 41586,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

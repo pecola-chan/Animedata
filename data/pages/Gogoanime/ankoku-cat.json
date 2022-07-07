@@ -1,0 +1,72 @@
+{
+  "createdAt": "2021-10-09T11:02:51.000Z",
+  "updatedAt": "2021-10-09T11:32:20.000Z",
+  "checkedAt": null,
+  "id": 38944,
+  "identifier": "ankoku-cat",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ankoku Cat",
+  "url": "https://gogoanime.pe/category/ankoku-cat",
+  "image": "https://gogocdn.net/cover/ankoku-cat.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6721,
+  "aniId": 6721,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:52.000Z",
+    "updatedAt": "2022-05-15T16:01:40.000Z",
+    "checkedAt": "2022-05-15T16:01:40.000Z",
+    "id": 6721,
+    "type": "anime",
+    "title": "Ankoku Cat",
+    "altTitle": [
+      "Dark Side Cat",
+      "Darkness Cat",
+      "暗黒キャット"
+    ],
+    "url": "https://myanimelist.net/anime/6721/Ankoku_Cat",
+    "image": "https://cdn.myanimelist.net/images/anime/11/86380.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.doppioland.com/ds_cat/ds_cat.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7594"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15431"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7594
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:45.000Z",
+    "updatedAt": "2022-05-15T19:16:23.000Z",
+    "checkedAt": "2022-05-15T19:16:23.000Z",
+    "id": 6721,
+    "type": "anime",
+    "title": "Ankoku Cat",
+    "altTitle": [
+      "暗黒キャット",
+      "Darkness Cat"
+    ],
+    "url": "https://anilist.co/anime/6721",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6721.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6721,
+    "deletedAt": null
+  }
+}

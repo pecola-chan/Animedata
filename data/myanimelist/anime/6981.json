@@ -1,0 +1,96 @@
+{
+  "createdAt": "2021-12-20T11:49:11.000Z",
+  "updatedAt": "2022-05-15T07:20:07.000Z",
+  "checkedAt": "2022-05-15T07:20:07.000Z",
+  "id": 6981,
+  "type": "anime",
+  "title": "Super Zugan",
+  "altTitle": [
+    "スーパーヅガン"
+  ],
+  "url": "https://myanimelist.net/anime/6981/Super_Zugan",
+  "image": "https://cdn.myanimelist.net/images/anime/4/20073.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3547"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5341"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%85%E3%82%AC%E3%83%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3547,
+  "Pages": {
+    "Gogoanime": {
+      "super-zugan": {
+        "createdAt": "2021-12-20T11:48:52.000Z",
+        "updatedAt": "2021-12-20T12:18:40.000Z",
+        "checkedAt": null,
+        "id": 39507,
+        "identifier": "super-zugan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Super Zugan",
+        "url": "https://gogoanime.cm/category/super-zugan",
+        "image": "https://gogocdn.net/cover/super-zugan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6981,
+        "aniId": 6981,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "4qq0x": {
+        "createdAt": "2022-01-04T06:19:24.000Z",
+        "updatedAt": "2022-01-04T06:48:23.000Z",
+        "checkedAt": null,
+        "id": 39686,
+        "identifier": "4qq0x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super Zugan",
+        "url": "https://9anime.to/watch/super-zugan.4qq0x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/aa/aaeff8bc3e52e86b361b5a882b01eaf8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6981,
+        "aniId": 6981,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6981": {
+        "identifier": "6981",
+        "malId": 6981,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Super Zugan",
+        "url": "https://animixplay.to/anime/6981"
+      }
+    },
+    "YugenAnime": {
+      "11443": {
+        "identifier": "11443",
+        "malId": 6981,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Super Zugan",
+        "url": "https://yugen.to/anime/11443/super-zugan/"
+      }
+    }
+  }
+}

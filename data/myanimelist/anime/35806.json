@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T16:56:39.000Z",
+  "checkedAt": "2022-05-14T16:56:39.000Z",
+  "id": 35806,
+  "type": "anime",
+  "title": "Haikyuu!! vs. \"Akaten\"",
+  "altTitle": [
+    "Haikyuu!! Jump Festa 2015 Special",
+    "Haikyuu!! OVA",
+    "Haikyuu!! vs. Failing Grade",
+    "ハイキュー!! VS\"赤点\""
+  ],
+  "url": "https://myanimelist.net/anime/35806/Haikyuu_vs_Akaten",
+  "image": "https://cdn.myanimelist.net/images/anime/1882/96644.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10954"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10954,
+  "Pages": {
+    "9anime": {
+      "99r8": {
+        "createdAt": "2020-10-12T15:51:46.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4285,
+        "identifier": "99r8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haikyuu!!: vs \"Akaten\"",
+        "url": "https://9anime.to/watch/haikyuu-vs-akaten.99r8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-agkbyNDc8a8/Wcbq036uKZI/AAAAAAAABFk/cmkwbS-I3JozErIIdLXi6aU9u3JH1hJ3wCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35806,
+        "aniId": 21348,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2334": {
+        "identifier": "2334",
+        "malId": 35806,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Haikyuu!! vs. \"Akaten\"",
+        "url": "https://animepahe.com/a/2334"
+      }
+    },
+    "AniMixPlay": {
+      "35806": {
+        "identifier": "35806",
+        "malId": 35806,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Haikyuu!! vs. \"Akaten\"",
+        "url": "https://animixplay.to/anime/35806"
+      }
+    },
+    "YugenAnime": {
+      "8404": {
+        "identifier": "8404",
+        "malId": 35806,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Haikyuu!! vs. \"Akaten\"",
+        "url": "https://yugen.to/anime/8404/haikyuu-vs-akaten/"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T18:54:11.000Z",
+  "checkedAt": "2022-05-14T18:54:11.000Z",
+  "id": 382,
+  "type": "anime",
+  "title": "Futari Ecchi",
+  "altTitle": [
+    "Futari H",
+    "Step Up Love Story",
+    "ふたりエッチ"
+  ],
+  "url": "https://myanimelist.net/anime/382/Futari_Ecchi",
+  "image": "https://cdn.myanimelist.net/images/anime/10/20029.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.younganimal.com/futarih/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=242"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2136"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Futari_Ecchi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 242,
+  "Pages": {
+    "9anime": {
+      "3932": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 131,
+        "identifier": "3932",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Futari Ecchi",
+        "url": "https://9anime.to/watch/futari-ecchi.3932",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aLfvns-LqcU/V8_ZSLvkfEI/AAAAAAAA8IE/o3q5XtGUpvo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 382,
+        "aniId": 382,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1021": {
+        "identifier": "1021",
+        "malId": 382,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Futari Ecchi",
+        "url": "https://animepahe.com/a/1021"
+      }
+    },
+    "AniMixPlay": {
+      "382": {
+        "identifier": "382",
+        "malId": 382,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Futari Ecchi",
+        "url": "https://animixplay.to/anime/382"
+      }
+    }
+  }
+}

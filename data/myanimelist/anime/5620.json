@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T07:25:40.000Z",
+  "checkedAt": "2022-05-15T07:25:40.000Z",
+  "id": 5620,
+  "type": "anime",
+  "title": "Uchuu Enban Dai-Sensou",
+  "altTitle": [
+    "The Great Battle of the Flying Saucers",
+    "The Great War of the Flying Saucers",
+    "宇宙円盤大戦争"
+  ],
+  "url": "https://myanimelist.net/anime/5620/Uchuu_Enban_Dai-Sensou",
+  "image": "https://cdn.myanimelist.net/images/anime/9/11614.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2224"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3611"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Uchu_Enban_Daisenso"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2224,
+  "Pages": {
+    "9anime": {
+      "3nv9": {
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1863,
+        "identifier": "3nv9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu Enban Dai-Sensou",
+        "url": "https://9anime.to/watch/uchuu-enban-dai-sensou.3nv9",
+        "image": "https://static.akacdn.ru/static/images/2018/06/6ffec91359f7deab1d885f58c33b965f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5620,
+        "aniId": 5620,
+        "deletedAt": null
+      },
+      "p3z9": {
+        "createdAt": "2021-04-07T15:24:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36297,
+        "identifier": "p3z9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu Enban Dai-Sensou",
+        "url": "https://9anime.to/watch/uchuu-enban-dai-sensou.p3z9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fa/fa858b185a98602ceda3a9096e0ffdb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5620,
+        "aniId": 5620,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5620": {
+        "identifier": "5620",
+        "malId": 5620,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuu Enban Dai-Sensou",
+        "url": "https://animixplay.to/anime/5620"
+      }
+    },
+    "YugenAnime": {
+      "2694": {
+        "identifier": "2694",
+        "malId": 5620,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uchuu Enban Dai-Sensou",
+        "url": "https://yugen.to/anime/2694/uchuu-enban-dai-sensou/"
+      }
+    }
+  }
+}

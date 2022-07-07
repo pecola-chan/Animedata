@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-15T11:05:13.000Z",
+  "checkedAt": "2022-05-15T11:05:13.000Z",
+  "id": 32058,
+  "type": "anime",
+  "title": "Four Seasons: Fuuka to Nanami",
+  "altTitle": [
+    "Four Seasons: Fuuka and Nanami -Master of Torque- Spin-off Episode",
+    "Four Seasons: Fuuka and Nanami",
+    "Four Seasons 楓花と七波"
+  ],
+  "url": "https://myanimelist.net/anime/32058/Four_Seasons__Fuuka_to_Nanami",
+  "image": "https://cdn.myanimelist.net/images/anime/10/86102.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://global.yamaha-motor.com/showroom/mt/videos/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12128"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12128,
+  "Pages": {
+    "9anime": {
+      "156m": {
+        "createdAt": "2020-10-12T15:49:05.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 855,
+        "identifier": "156m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Four Seasons: Fuuka and Nanami",
+        "url": "https://9anime.to/watch/four-seasons-fuuka-and-nanami.156m",
+        "image": "https://static.akacdn.ru/files/images/2018/03/0606defdbfc2e58a9f905aa4a4864f8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32058,
+        "aniId": 98964,
+        "deletedAt": null
+      }
+    }
+  }
+}

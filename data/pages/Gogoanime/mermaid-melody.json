@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-11-06T20:28:42.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 28952,
+  "identifier": "mermaid-melody",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mermaid Melody",
+  "url": "https://gogoanime.vc/category/mermaid-melody",
+  "image": "https://gogocdn.net/cover/mermaid-melody.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": 521,
+  "aniId": 521,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:05.000Z",
+    "updatedAt": "2022-05-14T16:42:03.000Z",
+    "checkedAt": "2022-05-14T16:42:03.000Z",
+    "id": 521,
+    "type": "anime",
+    "title": "Mermaid Melody Pichi Pichi Pitch",
+    "altTitle": [
+      "Mermaid Melody: Pichi Pichi Pitch",
+      "マーメイドメロディー ぴちぴちピッチ"
+    ],
+    "url": "https://myanimelist.net/anime/521/Mermaid_Melody_Pichi_Pichi_Pitch",
+    "image": "https://cdn.myanimelist.net/images/anime/3/9640.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/pitch/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=636"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2289"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mermaid_Melody_Pichi_Pichi_Pitch"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 636
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:46.000Z",
+    "updatedAt": "2022-05-15T15:31:59.000Z",
+    "checkedAt": "2022-05-15T15:31:59.000Z",
+    "id": 521,
+    "type": "anime",
+    "title": "Mermaid Melody: Pichi Pichi Pitch",
+    "altTitle": [
+      "マーメイドメロディー ぴちぴちピッチ"
+    ],
+    "url": "https://anilist.co/anime/521",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b521-56QyN5Q8mWx7.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 521,
+    "deletedAt": null
+  }
+}

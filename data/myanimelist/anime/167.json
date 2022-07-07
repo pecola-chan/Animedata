@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T17:47:23.000Z",
+  "checkedAt": "2022-05-14T17:47:23.000Z",
+  "id": 167,
+  "type": "anime",
+  "title": "Scrapped Princess",
+  "altTitle": [
+    "Haiki Oujo",
+    "Scrapped Princess",
+    "スクラップド・プリンセス"
+  ],
+  "url": "https://myanimelist.net/anime/167/Scrapped_Princess",
+  "image": "https://cdn.myanimelist.net/images/anime/1238/94717.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sutepri.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=640"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2083"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Scrapped_Princess"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273811"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/scrapped-princess"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 640,
+  "Pages": {
+    "9anime": {
+      "4x5j": {
+        "createdAt": "2020-10-12T15:50:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2422,
+        "identifier": "4x5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Scrapped Princess (Dub)",
+        "url": "https://9anime.to/watch/scrapped-princess-dub.4x5j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GlhuF6E6e3Y/V-fKMOHtbII/AAAAAAABAzs/MHh2_N2zZHE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 167,
+        "aniId": 167,
+        "deletedAt": null
+      },
+      "vo6": {
+        "createdAt": "2020-10-12T15:55:57.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9403,
+        "identifier": "vo6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Scrapped Princess",
+        "url": "https://9anime.to/watch/scrapped-princess.vo6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5zBArihWqZU/V4IPPQMdI-I/AAAAAAAAuVs/s3UUK7HDgXw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 167,
+        "aniId": 167,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "scrapped-princess-": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20454,
+        "identifier": "scrapped-princess-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Scrapped Princess ",
+        "url": "https://gogoanime.vc/category/scrapped-princess-",
+        "image": "https://cdnimg.xyz/images/anime/S/scrapped-princess.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 167,
+        "aniId": 167,
+        "deletedAt": null
+      },
+      "scrapped-princess-dub": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20455,
+        "identifier": "scrapped-princess-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Scrapped Princess (Dub)",
+        "url": "https://gogoanime.vc/category/scrapped-princess-dub",
+        "image": "https://gogocdn.net/cover/scrapped-princess-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 167,
+        "aniId": 167,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "167": {
+        "identifier": "167",
+        "malId": 167,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Scrapped Princess",
+        "url": "https://animixplay.to/anime/167"
+      }
+    },
+    "YugenAnime": {
+      "3078": {
+        "identifier": "3078",
+        "malId": 167,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Scrapped Princess",
+        "url": "https://yugen.to/anime/3078/scrapped-princess/"
+      }
+    }
+  }
+}

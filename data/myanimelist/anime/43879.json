@@ -1,0 +1,48 @@
+{
+  "createdAt": "2022-02-11T00:10:08.000Z",
+  "updatedAt": "2022-05-15T12:09:11.000Z",
+  "checkedAt": "2022-05-15T12:09:11.000Z",
+  "id": 43879,
+  "type": "anime",
+  "title": "Curry Meshi in Miracle",
+  "altTitle": [
+    "Curry Meshi Is a Miracle",
+    "カレーメシ・イン・ミラクル"
+  ],
+  "url": "https://myanimelist.net/anime/43879/Curry_Meshi_in_Miracle",
+  "image": "https://cdn.myanimelist.net/images/anime/1843/110168.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://youtu.be/3QJD9iekpDQ"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "rljwy": {
+        "createdAt": "2022-02-11T00:10:07.000Z",
+        "updatedAt": "2022-02-11T00:39:37.000Z",
+        "checkedAt": null,
+        "id": 40128,
+        "identifier": "rljwy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Curry Meshi in Miracle",
+        "url": "https://9anime.to/watch/curry-meshi-in-miracle.rljwy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/35/352eeaf03f010b2cc876f18c530f8111.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43879,
+        "aniId": 124912,
+        "deletedAt": null
+      }
+    }
+  }
+}

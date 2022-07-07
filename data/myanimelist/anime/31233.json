@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T16:12:43.000Z",
+  "checkedAt": "2022-05-14T16:12:43.000Z",
+  "id": 31233,
+  "type": "anime",
+  "title": "Lu Shidai",
+  "altTitle": [
+    "Age of League",
+    "Lu's Time",
+    "撸时代"
+  ],
+  "url": "https://myanimelist.net/anime/31233/Lu_Shidai",
+  "image": "https://cdn.myanimelist.net/images/anime/13/82659.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%92%B8%E6%97%B6%E4%BB%A3/12012905#2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "14rq": {
+        "createdAt": "2020-10-12T15:49:02.000Z",
+        "updatedAt": "2022-06-14T04:34:13.000Z",
+        "checkedAt": "2022-06-14T04:34:13.000Z",
+        "id": 844,
+        "identifier": "14rq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lu Shidai",
+        "url": "https://9anime.to/watch/lu-shidai.14rq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/4876bdbfb0d9e4714c4aa77707a5fbf1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31233,
+        "aniId": 99660,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "lu-shidai": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19161,
+        "identifier": "lu-shidai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lu Shidai",
+        "url": "https://gogoanime.vc/category/lu-shidai",
+        "image": "https://cdnimg.xyz/cover/lu-shidai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31233,
+        "aniId": 99660,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "31233": {
+        "identifier": "31233",
+        "malId": 31233,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lu Shidai",
+        "url": "https://animixplay.to/anime/31233"
+      }
+    },
+    "YugenAnime": {
+      "236": {
+        "identifier": "236",
+        "malId": 31233,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lu Shidai",
+        "url": "https://yugen.to/anime/236/lu-shidai/"
+      }
+    }
+  }
+}

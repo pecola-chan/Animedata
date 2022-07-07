@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-20T07:56:42.000Z",
+  "checkedAt": "2022-05-20T07:56:42.000Z",
+  "id": 8950,
+  "type": "anime",
+  "title": "Akage no Anne: Green Gables e no Michi",
+  "altTitle": [
+    "Anne of Green Gables: Road to Green Gables",
+    "赤毛のアン グリーンゲーブルズへの道"
+  ],
+  "url": "https://myanimelist.net/anime/8950/Akage_no_Anne__Green_Gables_e_no_Michi",
+  "image": "https://cdn.myanimelist.net/images/anime/1624/114184.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ghibli-museum.jp/anne/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7526"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E5%8A%87%E5%A0%B4%E7%89%88"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7526,
+  "Pages": {
+    "9anime": {
+      "k70v": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5334,
+        "identifier": "k70v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akage no Anne: Green Gables e no Michi",
+        "url": "https://9anime.to/watch/akage-no-anne-green-gables-e-no-michi.k70v",
+        "image": "https://static.akacdn.ru/files/images/2018/04/9ffd658827b1eac6dc1f9f3bd648f976.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8950,
+        "aniId": 8950,
+        "deletedAt": null
+      },
+      "q4m5": {
+        "createdAt": "2020-12-09T14:04:01.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29843,
+        "identifier": "q4m5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akage no Anne: Green Gables e no Michi (Dub)",
+        "url": "https://9anime.to/watch/anne-of-green-gables-road-to-green-gables-dub.q4m5",
+        "image": "//static.9anime.to/i/cache/images/4/44/449d361a248bcc6df120ecd26a16b775.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8950,
+        "aniId": 8950,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akage-no-anne-green-gables-e-no-michi": {
+        "createdAt": "2020-12-04T16:23:01.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29647,
+        "identifier": "akage-no-anne-green-gables-e-no-michi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akage no Anne: Green Gables e no Michi",
+        "url": "https://gogoanime.vc/category/akage-no-anne-green-gables-e-no-michi",
+        "image": "https://gogocdn.net/cover/akage-no-anne-green-gables-e-no-michi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8950,
+        "aniId": 8950,
+        "deletedAt": null
+      },
+      "akage-no-anne-green-gables-e-no-michi-dub": {
+        "createdAt": "2020-12-04T23:10:49.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29654,
+        "identifier": "akage-no-anne-green-gables-e-no-michi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akage no Anne: Green Gables e no Michi (Dub)",
+        "url": "https://gogoanime.vc/category/akage-no-anne-green-gables-e-no-michi-dub",
+        "image": "https://gogocdn.net/cover/akage-no-anne-green-gables-e-no-michi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8950,
+        "aniId": 8950,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8950": {
+        "identifier": "8950",
+        "malId": 8950,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akage no Anne: Green Gables e no Michi",
+        "url": "https://animixplay.to/anime/8950"
+      }
+    },
+    "YugenAnime": {
+      "6753": {
+        "identifier": "6753",
+        "malId": 8950,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akage no Anne: Green Gables e no Michi",
+        "url": "https://yugen.to/anime/6753/akage-no-anne-green-gables-e-no-michi/"
+      }
+    }
+  }
+}

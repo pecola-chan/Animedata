@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T15:54:58.000Z",
+  "checkedAt": "2022-05-14T15:54:58.000Z",
+  "id": 40506,
+  "type": "anime",
+  "title": "Shadowverse (TV)",
+  "altTitle": [
+    "シャドウバース"
+  ],
+  "url": "https://myanimelist.net/anime/40506/Shadowverse_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1003/106498.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.shadowverse.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15134"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22550"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shadowverse"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279220"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15134,
+  "Pages": {
+    "9anime": {
+      "54yv": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2530,
+        "identifier": "54yv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shadowverse (TV)",
+        "url": "https://9anime.to/watch/shadowverse-tv.54yv",
+        "image": "https://static.akacdn.ru/files/images/2020/04/011b78bf0ba9eb211f5e6aa99c1e7aee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40506,
+        "aniId": 112325,
+        "deletedAt": null
+      },
+      "zmp2": {
+        "createdAt": "2020-10-12T15:57:12.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11208,
+        "identifier": "zmp2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shadowverse (TV) recap",
+        "url": "https://9anime.to/watch/shadowverse-tv-recap.zmp2",
+        "image": "https://static.akacdn.ru/files/images/a/a9/a9110f794ccaa4aa55cee639269c2676.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40506,
+        "aniId": 112325,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shadowverse-special": {
+        "createdAt": "2020-10-12T16:01:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20550,
+        "identifier": "shadowverse-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shadowverse Special ",
+        "url": "https://gogoanime.vc/category/shadowverse-special",
+        "image": "https://gogocdn.net/cover/shadowverse-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40506,
+        "aniId": 112325,
+        "deletedAt": null
+      },
+      "shadowverse-tv": {
+        "createdAt": "2020-10-12T16:01:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20551,
+        "identifier": "shadowverse-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shadowverse (TV)",
+        "url": "https://gogoanime.vc/category/shadowverse-tv",
+        "image": "https://gogocdn.net/cover/shadowverse-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40506,
+        "aniId": 112325,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3926": {
+        "identifier": "3926",
+        "malId": 40506,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shadowverse (TV)",
+        "url": "https://animepahe.com/a/3926"
+      }
+    },
+    "AniMixPlay": {
+      "40506": {
+        "identifier": "40506",
+        "malId": 40506,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shadowverse (TV)",
+        "url": "https://animixplay.to/anime/40506"
+      }
+    },
+    "YugenAnime": {
+      "3011": {
+        "identifier": "3011",
+        "malId": 40506,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shadowverse (TV)",
+        "url": "https://yugen.to/anime/3011/shadowverse-tv/"
+      }
+    }
+  }
+}

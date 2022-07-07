@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-03-31T20:03:32.000Z",
+  "checkedAt": null,
+  "id": 5475,
+  "type": "anime",
+  "title": "Time Bokan 2000: Kaitou Kiramekiman",
+  "altTitle": [
+    "Time Boken 2000: Kiramekiman",
+    "Kaitou Kiramekiman",
+    "Thief Glittering Man",
+    "タイムボカン2000 怪盗きらめきマン"
+  ],
+  "url": "https://myanimelist.net/anime/5475/Time_Bokan_2000__Kaitou_Kiramekiman",
+  "image": "https://cdn.myanimelist.net/images/anime/3/11366.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works/archive/kiramekiman.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2551"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=170"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Time_Bokan_2000%3A_Kaitou_Kiramekiman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2551,
+  "Pages": {
+    "9anime": {
+      "pl96": {
+        "createdAt": "2020-10-12T15:54:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7971,
+        "identifier": "pl96",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Time Bokan 2000: Kaitou Kiramekiman",
+        "url": "https://9anime.to/watch/time-bokan-2000-kaitou-kiramekiman.pl96",
+        "image": "https://static.akacdn.ru/files/images/2018/03/aaadf696ccb3f6cbc831adbf14bf3fe0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5475,
+        "aniId": 5475,
+        "deletedAt": null
+      }
+    }
+  }
+}

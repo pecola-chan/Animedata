@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-14T23:23:29.000Z",
+  "checkedAt": "2022-05-14T23:23:29.000Z",
+  "id": 12069,
+  "type": "anime",
+  "title": "Hajime no Ippo: Boxer no Kobushi",
+  "altTitle": [
+    "Hajime no Ippo Episode 76",
+    "The First Step Special",
+    "Hajime no Ippo: The Fighting Special",
+    "Hajime no Ippo Special",
+    "Fighting Spirit Special",
+    "はじめの一歩 THE FIGHTING! ボクサーの拳"
+  ],
+  "url": "https://myanimelist.net/anime/12069/Hajime_no_Ippo__Boxer_no_Kobushi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vap.co.jp/ippo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=129"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hajime_no_Ippo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 129,
+  "Pages": {
+    "9anime": {
+      "kmp6": {
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5521,
+        "identifier": "kmp6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hajime no Ippo: Boxer no Kobushi",
+        "url": "https://9anime.to/watch/hajime-no-ippo-boxer-no-kobushi.kmp6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4ZrEpxF3mtU/V-lJO6EIQcI/AAAAAAABBMg/_At-ARr9kiA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12069,
+        "aniId": 12069,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hajime-no-ippo-boxer-no-kobushi": {
+        "createdAt": "2021-09-26T04:15:44.000Z",
+        "updatedAt": "2021-09-26T04:45:23.000Z",
+        "checkedAt": null,
+        "id": 38740,
+        "identifier": "hajime-no-ippo-boxer-no-kobushi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hajime no Ippo: Boxer no Kobushi",
+        "url": "https://gogoanime.pe/category/hajime-no-ippo-boxer-no-kobushi",
+        "image": "https://gogocdn.net/cover/hajime-no-ippo-boxer-no-kobushi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12069,
+        "aniId": 12069,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "12069": {
+        "identifier": "12069",
+        "malId": 12069,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hajime no Ippo: Boxer no Kobushi",
+        "url": "https://animixplay.to/anime/12069"
+      }
+    },
+    "YugenAnime": {
+      "9807": {
+        "identifier": "9807",
+        "malId": 12069,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hajime no Ippo: Boxer no Kobushi",
+        "url": "https://yugen.to/anime/9807/hajime-no-ippo-boxer-no-kobushi/"
+      }
+    }
+  }
+}

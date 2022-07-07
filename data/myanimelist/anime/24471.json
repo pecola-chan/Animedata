@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:28.000Z",
+  "updatedAt": "2022-05-14T20:14:53.000Z",
+  "checkedAt": "2022-05-14T20:14:53.000Z",
+  "id": 24471,
+  "type": "anime",
+  "title": "Hoozuki no Reitetsu OVA",
+  "altTitle": [
+    "Cool-headed Hoozuki OVA",
+    "Hozuki no Reitetsu OVA",
+    "鬼灯の冷徹 OAD"
+  ],
+  "url": "https://myanimelist.net/anime/24471/Hoozuki_no_Reitetsu_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/8/68677.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gentei.kodansha.co.jp/hozuki/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10667"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16373"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/H%C5%8Dzuki_no_Reitetsu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10667,
+  "Pages": {
+    "9anime": {
+      "l4q6": {
+        "createdAt": "2020-10-12T15:52:58.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5840,
+        "identifier": "l4q6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hoozuki no Reitetsu OVA",
+        "url": "https://9anime.to/watch/hoozuki-no-reitetsu-ova.l4q6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xWAIzQ0x6Fg/WE7NaPy4TsI/AAAAAAABSdM/7LFzsJONy8k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24471,
+        "aniId": 20732,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hoozuki-no-reitetsu-ova": {
+        "createdAt": "2021-11-25T18:35:53.000Z",
+        "updatedAt": "2021-11-25T19:05:31.000Z",
+        "checkedAt": null,
+        "id": 39304,
+        "identifier": "hoozuki-no-reitetsu-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hoozuki no Reitetsu OVA",
+        "url": "https://gogoanime.cm/category/hoozuki-no-reitetsu-ova",
+        "image": "https://gogocdn.net/images/upload/68677.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24471,
+        "aniId": 20732,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "843": {
+        "identifier": "843",
+        "malId": 24471,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hoozuki no Reitetsu OVA",
+        "url": "https://animepahe.com/a/843"
+      }
+    },
+    "AniMixPlay": {
+      "24471": {
+        "identifier": "24471",
+        "malId": 24471,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hoozuki no Reitetsu OVA",
+        "url": "https://animixplay.to/anime/24471"
+      }
+    },
+    "YugenAnime": {
+      "3045": {
+        "identifier": "3045",
+        "malId": 24471,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hoozuki no Reitetsu OVA",
+        "url": "https://yugen.to/anime/3045/hoozuki-no-reitetsu-ova/"
+      }
+    }
+  }
+}

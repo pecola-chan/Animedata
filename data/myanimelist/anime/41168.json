@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T17:32:17.000Z",
+  "checkedAt": "2022-05-14T17:32:17.000Z",
+  "id": 41168,
+  "type": "anime",
+  "title": "Nakitai Watashi wa Neko wo Kaburu",
+  "altTitle": [
+    "Nakineko",
+    "A Whisker Away",
+    "泣きたい私は猫をかぶる"
+  ],
+  "url": "https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu",
+  "image": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://nakineko-movie.com/news/?id=14"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15373"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23007"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B3%A3%E3%81%8D%E3%81%9F%E3%81%84%E7%A7%81%E3%81%AF%E7%8C%AB%E3%82%92%E3%81%8B%E3%81%B6%E3%82%8B"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15373,
+  "Pages": {
+    "9anime": {
+      "r21o": {
+        "createdAt": "2020-10-12T15:55:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8721,
+        "identifier": "r21o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Whisker Away (Dub)",
+        "url": "https://9anime.to/watch/a-whisker-away-dub.r21o",
+        "image": "https://static.akacdn.ru/files/images/9/9b/9bd996e01b3f9ce1cd9c99c5bcd4e4bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41168,
+        "aniId": 114963,
+        "deletedAt": null
+      },
+      "wj14": {
+        "createdAt": "2020-10-12T15:56:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9761,
+        "identifier": "wj14",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nakitai Watashi wa Neko wo Kaburu",
+        "url": "https://9anime.to/watch/nakitai-watashi-wa-neko-wo-kaburu.wj14",
+        "image": "https://static.akacdn.ru/files/images/2020/01/9e9f89e97f01efd85b331ec414537956.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41168,
+        "aniId": 114963,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nakitai-watashi-wa-neko-wo-kaburu": {
+        "createdAt": "2020-10-12T16:01:22.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19617,
+        "identifier": "nakitai-watashi-wa-neko-wo-kaburu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nakitai Watashi wa Neko wo Kaburu",
+        "url": "https://gogoanime.vc/category/nakitai-watashi-wa-neko-wo-kaburu",
+        "image": "https://gogocdn.net/cover/nakitai-watashi-wa-neko-wo-kaburu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41168,
+        "aniId": 114963,
+        "deletedAt": null
+      },
+      "nakitai-watashi-wa-neko-wo-kaburu-dub": {
+        "createdAt": "2020-10-12T16:01:22.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19618,
+        "identifier": "nakitai-watashi-wa-neko-wo-kaburu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nakitai Watashi wa Neko wo Kaburu (Dub)",
+        "url": "https://gogoanime.vc/category/nakitai-watashi-wa-neko-wo-kaburu-dub",
+        "image": "https://gogocdn.net/cover/nakitai-watashi-wa-neko-wo-kaburu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41168,
+        "aniId": 114963,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3992": {
+        "identifier": "3992",
+        "malId": 41168,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nakitai Watashi wa Neko wo Kaburu",
+        "url": "https://animepahe.com/a/3992"
+      }
+    },
+    "AniMixPlay": {
+      "41168": {
+        "identifier": "41168",
+        "malId": 41168,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nakitai Watashi wa Neko wo Kaburu",
+        "url": "https://animixplay.to/anime/41168"
+      }
+    },
+    "YugenAnime": {
+      "4506": {
+        "identifier": "4506",
+        "malId": 41168,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nakitai Watashi wa Neko wo Kaburu",
+        "url": "https://yugen.to/anime/4506/nakitai-watashi-wa-neko-wo-kaburu/"
+      }
+    }
+  }
+}

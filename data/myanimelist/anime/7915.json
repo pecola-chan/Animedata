@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-15T01:36:47.000Z",
+  "checkedAt": "2022-05-15T01:36:47.000Z",
+  "id": 7915,
+  "type": "anime",
+  "title": "Otaku no Seiza",
+  "altTitle": [
+    "The Sign of Otaku",
+    "An Adventure in the Otaku Galaxy",
+    "おたくの星座"
+  ],
+  "url": "https://myanimelist.net/anime/7915/Otaku_no_Seiza",
+  "image": "https://cdn.myanimelist.net/images/anime/5/69359.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3533"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7391"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%81%8F%E3%81%AE%E6%98%9F%E5%BA%A7"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3533,
+  "Pages": {
+    "9anime": {
+      "nvxn": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7250,
+        "identifier": "nvxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otaku no Seiza",
+        "url": "https://9anime.to/watch/otaku-no-seiza.nvxn",
+        "image": "http://static.akacdn.ru/static/images/2018/08/da0bb989730b1d42ff6be5b9f10dbf9d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7915,
+        "aniId": 7915,
+        "deletedAt": null
+      }
+    }
+  }
+}

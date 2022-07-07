@@ -1,0 +1,138 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-15T00:15:41.000Z",
+  "checkedAt": "2022-05-15T00:15:41.000Z",
+  "id": 473,
+  "type": "anime",
+  "title": "Tide-Line Blue",
+  "altTitle": [
+    "タイドライン・ブルー"
+  ],
+  "url": "https://myanimelist.net/anime/473/Tide-Line_Blue",
+  "image": "https://cdn.myanimelist.net/images/anime/9/75832.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tlblue.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3340"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5460"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tide-Line_Blue"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3340,
+  "Pages": {
+    "9anime": {
+      "485o": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2181,
+        "identifier": "485o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tide-Line Blue",
+        "url": "https://9anime.to/watch/tide-line-blue.485o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-E1vm7e9PUTg/WP7uPVcPfSI/AAAAAAAAkIM/65n_ziB58Og-6cV9psFPLM2-Qwqnak9FwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 473,
+        "aniId": 473,
+        "deletedAt": null
+      },
+      "njnm": {
+        "createdAt": "2020-10-12T15:53:52.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7072,
+        "identifier": "njnm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tide-Line Blue (Dub)",
+        "url": "https://9anime.to/watch/tide-line-blue-dub.njnm",
+        "image": "https://static.akacdn.ru/files/images/2018/04/3836bbb691ea2e22a714d863fcf379a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 473,
+        "aniId": 473,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tide-line-blue": {
+        "createdAt": "2021-09-07T17:34:49.000Z",
+        "updatedAt": "2021-09-07T18:04:29.000Z",
+        "checkedAt": null,
+        "id": 38565,
+        "identifier": "tide-line-blue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tide-Line Blue",
+        "url": "https://gogoanime.pe/category/tide-line-blue",
+        "image": "https://gogocdn.net/images/anime/T/tide-line-blue.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 473,
+        "aniId": 473,
+        "deletedAt": null
+      },
+      "tide-line-blue-dub": {
+        "createdAt": "2022-06-17T14:00:00.398Z",
+        "updatedAt": "2022-06-17T14:20:00.000Z",
+        "checkedAt": "2022-06-17T14:00:00.000Z",
+        "id": 41188,
+        "identifier": "tide-line-blue-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tide-Line Blue (Dub)",
+        "url": "https://gogoanime.lu/category/tide-line-blue-dub",
+        "image": "https://gogocdn.net/cover/tide-line-blue-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 473,
+        "aniId": 473,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "473": {
+        "identifier": "473",
+        "malId": 473,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tide-Line Blue",
+        "url": "https://animixplay.to/anime/473"
+      }
+    },
+    "YugenAnime": {
+      "2556": {
+        "identifier": "2556",
+        "malId": 473,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tide-Line Blue",
+        "url": "https://yugen.to/anime/2556/tide-line-blue/"
+      }
+    }
+  }
+}

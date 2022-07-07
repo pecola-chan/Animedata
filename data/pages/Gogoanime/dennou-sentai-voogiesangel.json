@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T16:00:13.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17307,
+  "identifier": "dennou-sentai-voogiesangel",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Dennou Sentai Voogie's★Angel",
+  "url": "https://gogoanime.vc/category/dennou-sentai-voogiesangel",
+  "image": "https://gogocdn.net/cover/dennou-sentai-voogiesangel.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2453,
+  "aniId": 101178,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:29.000Z",
+    "updatedAt": "2022-05-15T01:29:31.000Z",
+    "checkedAt": "2022-05-15T01:29:31.000Z",
+    "id": 2453,
+    "type": "anime",
+    "title": "Dennou Sentai Voogie's★Angel",
+    "altTitle": [
+      "Voogie's Angel",
+      "電脳戦隊ヴギィ'ズ★エンジェル"
+    ],
+    "url": "https://myanimelist.net/anime/2453/Dennou_Sentai_Voogies★Angel",
+    "image": "https://cdn.myanimelist.net/images/anime/8/75160.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=494"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=93"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Voogie's_Angel"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 494
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:17.000Z",
+    "updatedAt": "2022-05-16T02:28:34.000Z",
+    "checkedAt": "2022-05-16T02:28:34.000Z",
+    "id": 101178,
+    "type": "anime",
+    "title": "Dennou Sentai Voogie's★Angel",
+    "altTitle": [
+      "Voogie's Angel",
+      "電脳戦隊ヴギィ'ズ★エンジェル"
+    ],
+    "url": "https://anilist.co/anime/101178",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101178-AaLTKaMYeN9q.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2453,
+    "deletedAt": null
+  }
+}

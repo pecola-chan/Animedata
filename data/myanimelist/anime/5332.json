@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-15T00:10:17.000Z",
+  "checkedAt": "2022-05-15T00:10:17.000Z",
+  "id": 5332,
+  "type": "anime",
+  "title": "Toshokan Sensou: Koi no Shougai",
+  "altTitle": [
+    "Library War",
+    "Toshokan Sensou: Situation Love Handicap",
+    "Library Revolution Special",
+    "図書館戦争 恋ノ障害"
+  ],
+  "url": "https://myanimelist.net/anime/5332/Toshokan_Sensou__Koi_no_Shougai",
+  "image": "https://cdn.myanimelist.net/images/anime/1531/101092.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toshokan-sensou.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5558"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8951"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Toshokan_Sens%C5%8D"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5558,
+  "Pages": {
+    "9anime": {
+      "8vpq": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4031,
+        "identifier": "8vpq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toshokan Sensou: Koi no Shougai",
+        "url": "https://9anime.to/watch/toshokan-sensou-koi-no-shougai.8vpq",
+        "image": "https://static.akacdn.ru/files/images/2018/07/54fb0b6ecc4bc8ff7bb4ad31ae759c43.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5332,
+        "aniId": 5332,
+        "deletedAt": null
+      },
+      "qxln": {
+        "createdAt": "2020-10-12T15:55:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8620,
+        "identifier": "qxln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toshokan Sensou Special",
+        "url": "https://9anime.to/watch/toshokan-sensou-special.qxln",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-onjMWQiEtdg/V4ji0dFAORI/AAAAAAAAvqk/n4s4Ewa2Ojs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5332,
+        "aniId": 5332,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1188": {
+        "identifier": "1188",
+        "malId": 5332,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toshokan Sensou: Koi no Shougai",
+        "url": "https://animepahe.com/a/1188"
+      }
+    }
+  }
+}

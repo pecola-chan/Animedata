@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T16:02:16.000Z",
+  "updatedAt": "2021-06-21T08:50:50.000Z",
+  "checkedAt": null,
+  "id": 21464,
+  "identifier": "x1999-movie",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "X/1999 Movie",
+  "url": "https://gogoanime.vc/category/x1999-movie",
+  "image": "https://gogocdn.net/images/anime/X/X-1999-movie.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 155,
+  "aniId": 155,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T16:57:35.000Z",
+    "checkedAt": "2022-05-14T16:57:35.000Z",
+    "id": 155,
+    "type": "anime",
+    "title": "X/1999",
+    "altTitle": [
+      "X 1999",
+      "X (1996)",
+      "X - The Movie",
+      "エックス, X/1999"
+    ],
+    "url": "https://myanimelist.net/anime/155/X_1999",
+    "image": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madhouse.co.jp/works/1997-1994/works_movie_x.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=429"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=95"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/X_TV#Theatrical_film"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 429
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:27.000Z",
+    "updatedAt": "2022-05-15T19:53:47.000Z",
+    "checkedAt": "2022-05-15T19:53:47.000Z",
+    "id": 155,
+    "type": "anime",
+    "title": "X/1999",
+    "altTitle": [
+      "エックス",
+      "X - the Movie",
+      "X 1999",
+      "X (1996)"
+    ],
+    "url": "https://anilist.co/anime/155",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155-tDzea3RpxSZ8.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 155,
+    "deletedAt": null
+  }
+}

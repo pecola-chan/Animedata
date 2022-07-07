@@ -1,0 +1,97 @@
+{
+  "createdAt": "2022-02-21T13:50:13.000Z",
+  "updatedAt": "2022-02-21T14:17:39.000Z",
+  "checkedAt": null,
+  "id": 40155,
+  "identifier": "kyoshiro-to-towa-no-sora-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kyoshiro to Towa no Sora (Dub)",
+  "url": "https://gogoanime.fi/category/kyoshiro-to-towa-no-sora-dub",
+  "image": "https://gogocdn.net/cover/kyoshiro-to-towa-no-sora-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1810,
+  "aniId": 1810,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:22.000Z",
+    "updatedAt": "2022-05-14T18:40:41.000Z",
+    "checkedAt": "2022-05-14T18:40:41.000Z",
+    "id": 1810,
+    "type": "anime",
+    "title": "Kyoushirou to Towa no Sora",
+    "altTitle": [
+      "Kyoshiro to Towa no Sora",
+      "Kyoshiro and the Eternal Sky",
+      "Shattered Angels",
+      "京四郎と永遠（とわ）の空"
+    ],
+    "url": "https://myanimelist.net/anime/1810/Kyoushirou_to_Towa_no_Sora",
+    "image": "https://cdn.myanimelist.net/images/anime/7/20958.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kyoshiro-sora.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4583"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6809"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shattered_Angels"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-273979"
+      },
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/shattered-angels"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4583
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:02.000Z",
+    "updatedAt": "2022-05-15T12:12:59.000Z",
+    "checkedAt": "2022-05-15T12:12:59.000Z",
+    "id": 1810,
+    "type": "anime",
+    "title": "Kyoshiro to Towa no Sora",
+    "altTitle": [
+      "Shattered Angels",
+      "京四郎と永遠（とわ）の空",
+      "Kyoushirou to Towa no Sora",
+      "Kyoshiro and the Eternal Sky"
+    ],
+    "url": "https://anilist.co/anime/1810",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1810.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "http://www.funimation.com/shows/shattered-angels/"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/shattered-angels"
+      }
+    ],
+    "malId": 1810,
+    "deletedAt": null
+  }
+}

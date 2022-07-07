@@ -1,0 +1,164 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-13T23:20:12.000Z",
+  "checkedAt": "2022-05-13T23:20:12.000Z",
+  "id": 32182,
+  "type": "anime",
+  "title": "Mob Psycho 100",
+  "altTitle": [
+    "Mob Psycho Hyaku",
+    "Mob Psycho One Hundred",
+    "Mob Psycho 100",
+    "モブサイコ100"
+  ],
+  "url": "https://myanimelist.net/anime/32182/Mob_Psycho_100",
+  "image": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mobpsycho100.com/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11803"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18064"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mob_Psycho_100"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270683"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/mob-psycho-100"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11803,
+  "Pages": {
+    "9anime": {
+      "80m3": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2022-05-31T07:00:05.000Z",
+        "checkedAt": "2022-05-31T07:00:05.000Z",
+        "id": 3691,
+        "identifier": "80m3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mob Psycho 100",
+        "url": "https://9anime.to/watch/mob-psycho-100.80m3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/93b9fa7535dad368317f45a4b7ae9c5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32182,
+        "aniId": 21507,
+        "deletedAt": null
+      },
+      "x6n3": {
+        "createdAt": "2020-10-12T15:56:26.000Z",
+        "updatedAt": "2022-03-10T23:30:36.000Z",
+        "checkedAt": null,
+        "id": 10168,
+        "identifier": "x6n3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mob Psycho 100 (Dub)",
+        "url": "https://9anime.to/watch/mob-psycho-100-dub.x6n3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b0a2c569beff05a3df41d5e49a80b43c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32182,
+        "aniId": 21507,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mob-psycho-100": {
+        "createdAt": "2020-10-12T16:01:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19472,
+        "identifier": "mob-psycho-100",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mob Psycho 100",
+        "url": "https://gogoanime.vc/category/mob-psycho-100",
+        "image": "https://images.gogoanime.tv/cover/mob-psycho-100.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32182,
+        "aniId": 21507,
+        "deletedAt": null
+      },
+      "mob-psycho-100-dub": {
+        "createdAt": "2020-10-12T16:01:18.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19475,
+        "identifier": "mob-psycho-100-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mob Psycho 100 (Dub)",
+        "url": "https://gogoanime.vc/category/mob-psycho-100-dub",
+        "image": "https://gogocdn.net/cover/mob-psycho-100-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32182,
+        "aniId": 21507,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1097": {
+        "identifier": "1097",
+        "malId": 32182,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mob Psycho 100",
+        "url": "https://animepahe.com/a/1097"
+      }
+    },
+    "AniMixPlay": {
+      "32182": {
+        "identifier": "32182",
+        "malId": 32182,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mob Psycho 100",
+        "url": "https://animixplay.to/anime/32182"
+      }
+    },
+    "YugenAnime": {
+      "2908": {
+        "identifier": "2908",
+        "malId": 32182,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mob Psycho 100",
+        "url": "https://yugen.to/anime/2908/mob-psycho-100/"
+      }
+    }
+  }
+}

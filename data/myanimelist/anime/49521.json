@@ -1,0 +1,112 @@
+{
+  "createdAt": "2021-08-29T09:07:30.000Z",
+  "updatedAt": "2022-05-14T18:24:41.000Z",
+  "checkedAt": "2022-05-14T18:24:41.000Z",
+  "id": 49521,
+  "type": "anime",
+  "title": "Non Non Biyori Nonstop: Bukatsu wo Ganbatta",
+  "altTitle": [
+    "Non Non Biyori Nonstop Episode 13",
+    "Non Non Biyori Nonstop OVA",
+    "のんのんびより のんすとっぷ 部活をがんばった"
+  ],
+  "url": "https://myanimelist.net/anime/49521/Non_Non_Biyori_Nonstop__Bukatsu_wo_Ganbatta",
+  "image": "https://cdn.myanimelist.net/images/anime/1984/120788.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://nonnontv.com/tvanime/news/8239"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16507"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24592"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Non_Non_Biyori#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16507,
+  "Pages": {
+    "9anime": {
+      "9o2qm": {
+        "createdAt": "2022-03-23T01:58:15.000Z",
+        "updatedAt": "2022-03-24T07:27:13.000Z",
+        "checkedAt": null,
+        "id": 40511,
+        "identifier": "9o2qm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Non Non Biyori: Nonstop - Bukatsu wo Ganbatta",
+        "url": "https://9anime.to/watch/non-non-biyori-nonstop-bukatsu-wo-ganbatta.9o2qm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/72/72c133fc9d908c19beaf67baae9a9acb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 49521,
+        "aniId": 137337,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "non-non-biyori-nonstop-ova": {
+        "createdAt": "2022-03-23T02:28:30.000Z",
+        "updatedAt": "2022-03-23T02:57:13.000Z",
+        "checkedAt": null,
+        "id": 40512,
+        "identifier": "non-non-biyori-nonstop-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Non Non Biyori Nonstop OVA",
+        "url": "https://gogoanime.fi/category/non-non-biyori-nonstop-ova",
+        "image": "https://gogocdn.net/cover/non-non-biyori-nonstop-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49521,
+        "aniId": 137337,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4758": {
+        "identifier": "4758",
+        "malId": 49521,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Non Non Biyori Nonstop: Bukatsu wo Ganbatta",
+        "url": "https://animepahe.com/a/4758"
+      }
+    },
+    "AniMixPlay": {
+      "49521": {
+        "identifier": "49521",
+        "malId": 49521,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Non Non Biyori Nonstop: Bukatsu wo Ganbatta",
+        "url": "https://animixplay.to/anime/49521"
+      }
+    },
+    "YugenAnime": {
+      "11818": {
+        "identifier": "11818",
+        "malId": 49521,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Non Non Biyori Nonstop OVA",
+        "url": "https://yugen.to/anime/11818/non-non-biyori-nonstop-ova/"
+      }
+    }
+  }
+}

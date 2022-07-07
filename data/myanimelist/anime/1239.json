@@ -1,0 +1,132 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T22:02:30.000Z",
+  "checkedAt": "2022-05-14T22:02:30.000Z",
+  "id": 1239,
+  "type": "anime",
+  "title": "Bishoujo Senshi Sailor Moon SuperS",
+  "altTitle": [
+    "Bishoujo Senshi Sailor Moon Super S",
+    "Pretty Guardian Sailor Moon SuperS",
+    "Sailor Moon SuperS",
+    "美少女戦士セーラームーン Super S"
+  ],
+  "url": "https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS",
+  "image": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_moon_ss/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2540"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=280"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sailor_Moon_SuperS"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2540,
+  "Pages": {
+    "9anime": {
+      "8nm3": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3940,
+        "identifier": "8nm3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishoujo Senshi Sailor Moon SuperS",
+        "url": "https://9anime.to/watch/bishoujo-senshi-sailor-moon-supers.8nm3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9uHTE1Z5U4w/V6anusj1Q4I/AAAAAAAA06E/ikKuBwBABtk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1239,
+        "aniId": 1239,
+        "deletedAt": null
+      },
+      "vrx7": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9451,
+        "identifier": "vrx7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sailor Moon SuperS (Dub)",
+        "url": "https://9anime.to/watch/sailor-moon-supers-dub.vrx7",
+        "image": "https://static.akacdn.ru/files/images/2018/02/54758286ac0ccc2d8b6a3f442604d8f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1239,
+        "aniId": 1239,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sailor-moon-supers": {
+        "createdAt": "2020-10-12T16:01:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20376,
+        "identifier": "sailor-moon-supers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sailor Moon SuperS",
+        "url": "https://gogoanime.vc/category/sailor-moon-supers",
+        "image": "https://cdnimg.xyz/cover/sailor-moon-supers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1239,
+        "aniId": 1239,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4480": {
+        "identifier": "4480",
+        "malId": 1239,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishoujo Senshi Sailor Moon SuperS",
+        "url": "https://animepahe.com/a/4480"
+      }
+    },
+    "AniMixPlay": {
+      "1239": {
+        "identifier": "1239",
+        "malId": 1239,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bishoujo Senshi Sailor Moon SuperS",
+        "url": "https://animixplay.to/anime/1239"
+      }
+    },
+    "YugenAnime": {
+      "3552": {
+        "identifier": "3552",
+        "malId": 1239,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bishoujo Senshi Sailor Moon SuperS",
+        "url": "https://yugen.to/anime/3552/sailor-moon-supers/"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2022-05-15T01:39:07.000Z",
+  "checkedAt": "2022-05-15T01:39:07.000Z",
+  "id": 29301,
+  "type": "anime",
+  "title": "Kurage no Shokudou",
+  "altTitle": [
+    "Jellyfish Restaurant",
+    "Jellyfish Diner",
+    "クラゲの食堂"
+  ],
+  "url": "https://myanimelist.net/anime/29301/Kurage_no_Shokudou",
+  "image": "https://cdn.myanimelist.net/images/anime/1285/112446.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.king-cr.jp/special/kurage/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11020"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16694"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11020,
+  "Pages": {
+    "9anime": {
+      "l9q": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5976,
+        "identifier": "l9q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurage no Shokudou",
+        "url": "https://9anime.to/watch/kurage-no-shokudou.l9q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-piisUFnaQlg/V4MZ63-_imI/AAAAAAAAumU/w5vGrdS-gdY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29301,
+        "aniId": 20721,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kurage-no-shokudou": {
+        "createdAt": "2020-10-12T16:01:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18987,
+        "identifier": "kurage-no-shokudou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurage no Shokudou",
+        "url": "https://gogoanime.vc/category/kurage-no-shokudou",
+        "image": "https://cdnimg.xyz/cover/kurage-no-shokudou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29301,
+        "aniId": 20721,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1198": {
+        "identifier": "1198",
+        "malId": 29301,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kurage no Shokudou",
+        "url": "https://animepahe.com/a/1198"
+      }
+    },
+    "AniMixPlay": {
+      "29301": {
+        "identifier": "29301",
+        "malId": 29301,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kurage no Shokudou",
+        "url": "https://animixplay.to/anime/29301"
+      }
+    },
+    "YugenAnime": {
+      "3463": {
+        "identifier": "3463",
+        "malId": 29301,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kurage no Shokudou",
+        "url": "https://yugen.to/anime/3463/kurage-no-shokudou/"
+      }
+    }
+  }
+}

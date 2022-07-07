@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-15T01:59:22.000Z",
+  "checkedAt": "2022-05-15T01:59:22.000Z",
+  "id": 18413,
+  "type": "anime",
+  "title": "Puchitto Gargantia",
+  "altTitle": [
+    "Petit Gargantia",
+    "ぷちっとがるがんてぃあ"
+  ],
+  "url": "https://myanimelist.net/anime/18413/Puchitto_Gargantia",
+  "image": "https://cdn.myanimelist.net/images/anime/7/49979.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gargantia.jp/#petit"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9556"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%BF%A0%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9556,
+  "Pages": {
+    "9anime": {
+      "zn1w": {
+        "createdAt": "2020-10-12T15:57:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11216,
+        "identifier": "zn1w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Puchitto Gargantia",
+        "url": "https://9anime.to/watch/puchitto-gargantia.zn1w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-on3kujbqclQ/WFduXJZvarI/AAAAAAABTiY/XXoT_Xdx2aw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18413,
+        "aniId": 18413,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "18413": {
+        "identifier": "18413",
+        "malId": 18413,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Puchitto Gargantia",
+        "url": "https://animixplay.to/anime/18413"
+      }
+    },
+    "YugenAnime": {
+      "3196": {
+        "identifier": "3196",
+        "malId": 18413,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Puchitto Gargantia",
+        "url": "https://yugen.to/anime/3196/petit-gargantia/"
+      }
+    }
+  }
+}

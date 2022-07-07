@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T20:16:30.000Z",
+  "checkedAt": "2022-05-14T20:16:30.000Z",
+  "id": 2688,
+  "type": "anime",
+  "title": "Akai Koudan Zillion",
+  "altTitle": [
+    "Red Photon Zillion",
+    "Zillion",
+    "赤い光弾ジリオン"
+  ],
+  "url": "https://myanimelist.net/anime/2688/Akai_Koudan_Zillion",
+  "image": "https://cdn.myanimelist.net/images/anime/8/41797.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works/archive/zillion.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1385"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=805"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zillion_%28anime%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/zillion"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1385,
+  "Pages": {
+    "9anime": {
+      "0085": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 324,
+        "identifier": "0085",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akai Koudan Zillion",
+        "url": "https://9anime.to/watch/akai-koudan-zillion.0085",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WpDG-Lo6VKw/V9IvzT-NwgI/AAAAAAAA8sg/c24aDO2jTlg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2688,
+        "aniId": 2688,
+        "deletedAt": null
+      },
+      "kqqw": {
+        "createdAt": "2021-05-09T18:48:35.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36940,
+        "identifier": "kqqw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akai Koudan Zillion (Dub)",
+        "url": "https://9anime.to/watch/zillion-dub.kqqw",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/e1/e1b7df6d3311fd7a508aab2d070cd08d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2688,
+        "aniId": 2688,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akai-koudan-zillion": {
+        "createdAt": "2020-10-12T15:59:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16454,
+        "identifier": "akai-koudan-zillion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akai Koudan Zillion",
+        "url": "https://gogoanime.vc/category/akai-koudan-zillion",
+        "image": "https://gogocdn.net/cover/akai-koudan-zillion.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2688,
+        "aniId": 2688,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2688": {
+        "identifier": "2688",
+        "malId": 2688,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akai Koudan Zillion",
+        "url": "https://animixplay.to/anime/2688"
+      }
+    },
+    "YugenAnime": {
+      "3464": {
+        "identifier": "3464",
+        "malId": 2688,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akai Koudan Zillion",
+        "url": "https://yugen.to/anime/3464/akai-koudan-zillion/"
+      }
+    }
+  }
+}

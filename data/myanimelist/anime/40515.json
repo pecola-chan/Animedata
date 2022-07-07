@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T16:23:20.000Z",
+  "checkedAt": "2022-05-14T16:23:20.000Z",
+  "id": 40515,
+  "type": "anime",
+  "title": "Nihon Chinbotsu 2020",
+  "altTitle": [
+    "Japan Sinks: 2020",
+    "日本沈没2020"
+  ],
+  "url": "https://myanimelist.net/anime/40515/Nihon_Chinbotsu_2020",
+  "image": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.japansinks2020.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15138"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23133"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nihon_Chinbotsu"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15138,
+  "Pages": {
+    "9anime": {
+      "nyqn": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7305,
+        "identifier": "nyqn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nihon Chinbotsu 2020 (Dub)",
+        "url": "https://9anime.to/watch/nihon-chinbotsu-2020-dub.nyqn",
+        "image": "https://static.akacdn.ru/files/images/7/78/7872b8d5be5de5ff1df82fa056ce9551.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40515,
+        "aniId": 112357,
+        "deletedAt": null
+      },
+      "ompz": {
+        "createdAt": "2020-10-12T15:54:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7546,
+        "identifier": "ompz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nihon Chinbotsu 2020",
+        "url": "https://9anime.to/watch/nihon-chinbotsu-2020.ompz",
+        "image": "https://static.akacdn.ru/files/images/2019/10/33e6f10101d24d2361c92db94084de6c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40515,
+        "aniId": 112357,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nihon-chinbotsu-2020": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19733,
+        "identifier": "nihon-chinbotsu-2020",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nihon Chinbotsu 2020",
+        "url": "https://gogoanime.vc/category/nihon-chinbotsu-2020",
+        "image": "https://gogocdn.net/cover/nihon-chinbotsu-2020.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40515,
+        "aniId": 112357,
+        "deletedAt": null
+      },
+      "nihon-chinbotsu-2020-dub": {
+        "createdAt": "2022-03-16T16:20:46.000Z",
+        "updatedAt": "2022-03-16T16:49:10.000Z",
+        "checkedAt": null,
+        "id": 40470,
+        "identifier": "nihon-chinbotsu-2020-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nihon Chinbotsu 2020 (Dub)",
+        "url": "https://gogoanime.fi/category/nihon-chinbotsu-2020-dub",
+        "image": "https://gogocdn.net/cover/nihon-chinbotsu-2020-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40515,
+        "aniId": 112357,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4045": {
+        "identifier": "4045",
+        "malId": 40515,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nihon Chinbotsu 2020",
+        "url": "https://animepahe.com/a/4045"
+      }
+    },
+    "AniMixPlay": {
+      "40515": {
+        "identifier": "40515",
+        "malId": 40515,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nihon Chinbotsu 2020",
+        "url": "https://animixplay.to/anime/40515"
+      }
+    },
+    "YugenAnime": {
+      "2074": {
+        "identifier": "2074",
+        "malId": 40515,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nihon Chinbotsu 2020",
+        "url": "https://yugen.to/anime/2074/nihon-chinbotsu-2020/"
+      }
+    }
+  }
+}

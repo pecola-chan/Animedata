@@ -1,0 +1,43 @@
+{
+  "createdAt": "2021-08-15T12:37:42.000Z",
+  "updatedAt": "2022-05-15T09:59:50.000Z",
+  "checkedAt": "2022-05-15T09:59:50.000Z",
+  "id": 41445,
+  "type": "anime",
+  "title": "Sasurai Zou-san",
+  "altTitle": [
+    "Wandering Elephant",
+    "さすらいゾウさん"
+  ],
+  "url": "https://myanimelist.net/anime/41445/Sasurai_Zou-san",
+  "image": "https://cdn.myanimelist.net/images/anime/1772/106456.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "4qrmx": {
+        "createdAt": "2021-08-15T12:37:35.000Z",
+        "updatedAt": "2021-08-15T13:06:59.000Z",
+        "checkedAt": null,
+        "id": 38309,
+        "identifier": "4qrmx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sasurai Zou-san",
+        "url": "https://9anime.to/watch/sasurai-zou-san.4qrmx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/38/38aa4c4679a7031e52f6360117087a88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41445,
+        "aniId": 136321,
+        "deletedAt": null
+      }
+    }
+  }
+}

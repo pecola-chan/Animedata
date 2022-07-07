@@ -1,0 +1,160 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T16:26:23.000Z",
+  "checkedAt": "2022-05-14T16:26:22.000Z",
+  "id": 34866,
+  "type": "anime",
+  "title": "Yu☆Gi☆Oh! VRAINS",
+  "altTitle": [
+    "Yuu Gi Ou!",
+    "Yugioh",
+    "Yu-Gi-Oh! VRAINS",
+    "遊戯王VRAINS"
+  ],
+  "url": "https://myanimelist.net/anime/34866/Yu☆Gi☆Oh_VRAINS",
+  "image": "https://cdn.myanimelist.net/images/anime/1789/101971.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/yugioh-vrains/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12659"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19180"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_VRAINS"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273231"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12659,
+  "Pages": {
+    "9anime": {
+      "r8mp": {
+        "createdAt": "2020-10-12T15:55:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8821,
+        "identifier": "r8mp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yu☆Gi☆Oh! VRAINS",
+        "url": "https://9anime.to/watch/yugioh-vrains.r8mp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-f5dYA2Km-p8/WQASwjvOBaI/AAAAAAAAkak/b24JcKLH9NMCK2OUR0Bn9VjSfxGglSMJACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34866,
+        "aniId": 98231,
+        "deletedAt": null
+      },
+      "wm6l": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9808,
+        "identifier": "wm6l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yu-Gi-Oh! VRAINS (Dub)",
+        "url": "https://9anime.to/watch/yu-gi-oh-vrains-dub.wm6l",
+        "image": "http://static.akacdn.ru/static/images/2018/03/4e26d7a2067f8bea7d33e701449d4dda.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34866,
+        "aniId": 98231,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yu-gi-oh-vrains": {
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21595,
+        "identifier": "yu-gi-oh-vrains",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yu-Gi-Oh! VRAINS",
+        "url": "https://gogoanime.vc/category/yu-gi-oh-vrains",
+        "image": "https://images.gogoanime.tv/cover/yu-gi-oh-vrains.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34866,
+        "aniId": 98231,
+        "deletedAt": null
+      },
+      "yugioh-vrains-dub": {
+        "createdAt": "2021-01-29T05:18:01.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34320,
+        "identifier": "yugioh-vrains-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yu☆Gi☆Oh! VRAINS (Dub)",
+        "url": "https://gogoanime.vc/category/yugioh-vrains-dub",
+        "image": "https://gogocdn.net/cover/yugioh-vrains-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34866,
+        "aniId": 98231,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2030": {
+        "identifier": "2030",
+        "malId": 34866,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yu☆Gi☆Oh! VRAINS",
+        "url": "https://animepahe.com/a/2030"
+      }
+    },
+    "AniMixPlay": {
+      "34866": {
+        "identifier": "34866",
+        "malId": 34866,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yu☆Gi☆Oh! VRAINS",
+        "url": "https://animixplay.to/anime/34866"
+      }
+    },
+    "YugenAnime": {
+      "2962": {
+        "identifier": "2962",
+        "malId": 34866,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yu☆Gi☆Oh! VRAINS",
+        "url": "https://yugen.to/anime/2962/yu-gi-oh-vrains/"
+      }
+    }
+  }
+}

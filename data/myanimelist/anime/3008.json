@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-15T02:29:36.000Z",
+  "checkedAt": "2022-05-15T02:29:36.000Z",
+  "id": 3008,
+  "type": "anime",
+  "title": "Time Bokan Series: Yatterman",
+  "altTitle": [
+    "Yattaman",
+    "Yattaaman",
+    "タイムボカンシリーズ ヤッターマン"
+  ],
+  "url": "https://myanimelist.net/anime/3008/Time_Bokan_Series__Yatterman",
+  "image": "https://cdn.myanimelist.net/images/anime/8/60747.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works_animation/archive/yatter.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2504"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1746"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yatterman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2504,
+  "Pages": {
+    "9anime": {
+      "6o6p": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3103,
+        "identifier": "6o6p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Time Bokan Series: Yatterman",
+        "url": "https://9anime.to/watch/time-bokan-series-yatterman.6o6p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gLFiBDZTKlg/WaGabOYhKgI/AAAAAAAADAU/LGMjF6v7wfgrQN4Dbu42CW_FkbLKxL0RgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3008,
+        "aniId": 3008,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "time-bokan-series-yatterman": {
+        "createdAt": "2020-10-12T16:02:05.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21108,
+        "identifier": "time-bokan-series-yatterman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Time Bokan Series: Yatterman\t",
+        "url": "https://gogoanime.vc/category/time-bokan-series-yatterman",
+        "image": "https://gogocdn.net/cover/time-bokan-series-yatterman.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3008,
+        "aniId": 3008,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3008": {
+        "identifier": "3008",
+        "malId": 3008,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Time Bokan Series: Yatterman",
+        "url": "https://animixplay.to/anime/3008"
+      }
+    },
+    "YugenAnime": {
+      "6223": {
+        "identifier": "6223",
+        "malId": 3008,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Time Bokan Series: Yatterman",
+        "url": "https://yugen.to/anime/6223/time-bokan-series-yatterman/"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T18:16:53.000Z",
+  "checkedAt": "2022-05-14T18:16:53.000Z",
+  "id": 31414,
+  "type": "anime",
+  "title": "Nijiiro Days",
+  "altTitle": [
+    "Nijiiro Days",
+    "Rainbow Days",
+    "虹色デイズ"
+  ],
+  "url": "https://myanimelist.net/anime/31414/Nijiiro_Days",
+  "image": "https://cdn.myanimelist.net/images/anime/8/76691.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rainbow-days.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11487"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17531"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nijiiro_Days"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/rainbow-days"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11487,
+  "Pages": {
+    "9anime": {
+      "kw5r": {
+        "createdAt": "2020-10-12T15:52:44.000Z",
+        "updatedAt": "2022-03-19T09:51:07.000Z",
+        "checkedAt": null,
+        "id": 5639,
+        "identifier": "kw5r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nijiiro Days",
+        "url": "https://9anime.to/watch/rainbow-days.kw5r",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/2156dbda1ddf901e7f4ac1f248d50d29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31414,
+        "aniId": 21292,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nijiiro-days": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19734,
+        "identifier": "nijiiro-days",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nijiiro Days",
+        "url": "https://gogoanime.vc/category/nijiiro-days",
+        "image": "https://cdnimg.xyz/images/upload/178464.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31414,
+        "aniId": 21292,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "329": {
+        "identifier": "329",
+        "malId": 31414,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nijiiro Days",
+        "url": "https://animepahe.com/a/329"
+      }
+    },
+    "AniMixPlay": {
+      "31414": {
+        "identifier": "31414",
+        "malId": 31414,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nijiiro Days",
+        "url": "https://animixplay.to/anime/31414"
+      }
+    },
+    "YugenAnime": {
+      "581": {
+        "identifier": "581",
+        "malId": 31414,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nijiiro Days",
+        "url": "https://yugen.to/anime/581/nijiiro-days/"
+      }
+    }
+  }
+}

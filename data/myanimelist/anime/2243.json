@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-16T18:58:20.000Z",
+  "checkedAt": "2022-05-16T18:58:20.000Z",
+  "id": 2243,
+  "type": "anime",
+  "title": "Karasu Tengu Kabuto",
+  "altTitle": [
+    "Crow Demon Kabuto",
+    "Raven Goblin Kabuto",
+    "カラス天狗カブト"
+  ],
+  "url": "https://myanimelist.net/anime/2243/Karasu_Tengu_Kabuto",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2445.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2635"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=198"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Karasu_Tengu_Kabuto#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2635,
+  "Pages": {
+    "9anime": {
+      "5699": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 171,
+        "identifier": "5699",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Karasu Tengu Kabuto",
+        "url": "https://9anime.to/watch/karasu-tengu-kabuto.5699",
+        "image": "https://static.akacdn.ru/files/images/2018/03/47e730c2a6cfbac4744a05021bc573fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2243,
+        "aniId": 2243,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2243": {
+        "identifier": "2243",
+        "malId": 2243,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Karasu Tengu Kabuto",
+        "url": "https://animixplay.to/anime/2243"
+      }
+    },
+    "YugenAnime": {
+      "5209": {
+        "identifier": "5209",
+        "malId": 2243,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Karasu Tengu Kabuto",
+        "url": "https://yugen.to/anime/5209/karasu-tengu-kabuto/"
+      }
+    }
+  }
+}

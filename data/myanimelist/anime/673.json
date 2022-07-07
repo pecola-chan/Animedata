@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-15T01:08:11.000Z",
+  "checkedAt": "2022-05-15T01:08:10.000Z",
+  "id": 673,
+  "type": "anime",
+  "title": "Mai-HiME Specials",
+  "altTitle": [
+    "My-HiME",
+    "My Princess",
+    "My-Hime Specials",
+    "舞-HiME"
+  ],
+  "url": "https://myanimelist.net/anime/673/Mai-HiME_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/11/3569.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/my-hime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1554"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mai_hime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1554,
+  "Pages": {
+    "9anime": {
+      "49mk": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2211,
+        "identifier": "49mk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai-HiME Specials",
+        "url": "https://9anime.to/watch/mai-hime-specials.49mk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MKRAPI6pX88/WEKXh0XLo0I/AAAAAAABRVk/arguAxjeNyE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 673,
+        "aniId": 673,
+        "deletedAt": null
+      },
+      "5yn0": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2857,
+        "identifier": "5yn0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai-HiME Specials (Dub)",
+        "url": "https://9anime.to/watch/mai-hime-specials-dub.5yn0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i4lUa19WWLs/WEKXkqzeILI/AAAAAAABRVo/ilQsZR-KaQM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 673,
+        "aniId": 673,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "769": {
+        "identifier": "769",
+        "malId": 673,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mai-HiME Specials",
+        "url": "https://animepahe.com/a/769"
+      }
+    },
+    "AniMixPlay": {
+      "673": {
+        "identifier": "673",
+        "malId": 673,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mai-HiME Specials",
+        "url": "https://animixplay.to/anime/673"
+      }
+    },
+    "YugenAnime": {
+      "6020": {
+        "identifier": "6020",
+        "malId": 673,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mai-HiME Specials",
+        "url": "https://yugen.to/anime/6020/mai-hime-specials/"
+      }
+    }
+  }
+}

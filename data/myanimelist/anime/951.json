@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-14T18:55:53.000Z",
+  "checkedAt": "2022-05-14T18:55:53.000Z",
+  "id": 951,
+  "type": "anime",
+  "title": "Chibi Maruko-chan",
+  "altTitle": [
+    "Petite Maruko-chan",
+    "Little Miss Maruko",
+    "ちびまる子ちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/951/Chibi_Maruko-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/7/22476.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/chibimaruko.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1841"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=479"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chibi_Maruko-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1841,
+  "Pages": {
+    "9anime": {
+      "2472": {
+        "createdAt": "2020-10-12T15:48:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 51,
+        "identifier": "2472",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chibi Maruko-chan",
+        "url": "https://9anime.to/watch/chibi-maruko-chan.2472",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zv-HqlvHOdc/WNH56OS2AXI/AAAAAAABgJ0/MJuEWeihBCc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 951,
+        "aniId": 951,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chibi-maruko-chan": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17054,
+        "identifier": "chibi-maruko-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chibi Maruko-chan",
+        "url": "https://gogoanime.vc/category/chibi-maruko-chan",
+        "image": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 951,
+        "aniId": 951,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "951": {
+        "identifier": "951",
+        "malId": 951,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chibi Maruko-chan",
+        "url": "https://animixplay.to/anime/951"
+      }
+    },
+    "YugenAnime": {
+      "5604": {
+        "identifier": "5604",
+        "malId": 951,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chibi Maruko-chan",
+        "url": "https://yugen.to/anime/5604/chibi-maruko-chan/"
+      }
+    }
+  }
+}

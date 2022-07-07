@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-22T09:09:24.000Z",
+  "updatedAt": "2021-05-20T15:21:56.000Z",
+  "checkedAt": null,
+  "id": 27728,
+  "identifier": "kage-kara-mamoru",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kage kara Mamoru!",
+  "url": "https://gogoanime.vc/category/kage-kara-mamoru",
+  "image": "https://gogocdn.net/cover/kage-kara-mamoru.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 590,
+  "aniId": 590,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T10:01:57.000Z",
+    "checkedAt": "2022-05-14T10:01:57.000Z",
+    "id": 590,
+    "type": "anime",
+    "title": "Kage kara Mamoru!",
+    "altTitle": [
+      "Protect from the Shadows!",
+      "Guardian Ninja Mamoru",
+      "陰からマモル！"
+    ],
+    "url": "https://myanimelist.net/anime/590/Kage_kara_Mamoru",
+    "image": "https://cdn.myanimelist.net/images/anime/8/20040.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aniplex.co.jp/kagemamo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4112"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6114"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kage_Kara_Mamoru%21"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4112
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:47.000Z",
+    "updatedAt": "2022-05-15T12:15:11.000Z",
+    "checkedAt": "2022-05-15T12:15:11.000Z",
+    "id": 590,
+    "type": "anime",
+    "title": "Kage kara Mamoru!",
+    "altTitle": [
+      "Protect from the Shadows!",
+      "陰からマモル！"
+    ],
+    "url": "https://anilist.co/anime/590",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/590.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 590,
+    "deletedAt": null
+  }
+}

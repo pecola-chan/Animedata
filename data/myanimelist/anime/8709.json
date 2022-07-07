@@ -1,0 +1,49 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T22:43:17.000Z",
+  "checkedAt": "2022-05-14T22:43:17.000Z",
+  "id": 8709,
+  "type": "anime",
+  "title": "Pokemon: Pikachu Koori no Daibouken",
+  "altTitle": [
+    "Pocket Monsters: Pikachu Koori no Daibouken",
+    "Pikachu's Great Ice Adventure",
+    "ピカチュウ 氷の大冒険"
+  ],
+  "url": "https://myanimelist.net/anime/8709/Pokemon__Pikachu_Koori_no_Daibouken",
+  "image": "https://cdn.myanimelist.net/images/anime/10/24008.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6803"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6803,
+  "Pages": {
+    "9anime": {
+      "wr87": {
+        "createdAt": "2021-05-13T12:56:21.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36974,
+        "identifier": "wr87",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon: Pikachu Koori no Daibouken",
+        "url": "https://9anime.to/watch/pikachus-great-ice-adventure.wr87",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/42/420f446f3a98447557596b70f77fa4d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8709,
+        "aniId": 8709,
+        "deletedAt": null
+      }
+    }
+  }
+}

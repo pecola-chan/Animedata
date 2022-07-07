@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T22:45:11.000Z",
+  "checkedAt": "2022-05-14T22:45:11.000Z",
+  "id": 15359,
+  "type": "anime",
+  "title": "Kyousou Giga (2012)",
+  "altTitle": [
+    "Kyousougiga (2012)",
+    "Kyousogiga (2012)",
+    "京騒戯画"
+  ],
+  "url": "https://myanimelist.net/anime/15359/Kyousou_Giga_2012",
+  "image": "https://cdn.myanimelist.net/images/anime/12/41893.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kyousogiga.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9390"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14964"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kyousogiga"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9390,
+  "Pages": {
+    "9anime": {
+      "6734": {
+        "createdAt": "2020-10-12T15:48:33.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 213,
+        "identifier": "6734",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyousou Giga (2012)",
+        "url": "https://9anime.to/watch/kyousou-giga-2012.6734",
+        "image": "https://static.akacdn.ru/static/images/2018/01/a6c26fd4a567668aacb1a9e7dd3d115d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15359,
+        "aniId": 15359,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2382": {
+        "identifier": "2382",
+        "malId": 15359,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyousou Giga (2012)",
+        "url": "https://animepahe.com/a/2382"
+      }
+    },
+    "AniMixPlay": {
+      "15359": {
+        "identifier": "15359",
+        "malId": 15359,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyousou Giga (2012)",
+        "url": "https://animixplay.to/anime/15359"
+      }
+    }
+  }
+}

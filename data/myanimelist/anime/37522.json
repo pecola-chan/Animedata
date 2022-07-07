@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T17:21:46.000Z",
+  "checkedAt": "2022-05-14T17:21:46.000Z",
+  "id": 37522,
+  "type": "anime",
+  "title": "Pet",
+  "altTitle": [
+    "Pet",
+    "ペット"
+  ],
+  "url": "https://myanimelist.net/anime/37522/Pet",
+  "image": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pet-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13947"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20777"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pet_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13947,
+  "Pages": {
+    "9anime": {
+      "zp2w": {
+        "createdAt": "2020-10-12T15:57:15.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11240,
+        "identifier": "zp2w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pet",
+        "url": "https://9anime.to/watch/pet.zp2w",
+        "image": "//static.9anime.to/i/cache/images/2020/01/15b2b8270c96c99d076f2ff837cedce8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37522,
+        "aniId": 101350,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pet": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20032,
+        "identifier": "pet",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pet",
+        "url": "https://gogoanime.vc/category/pet",
+        "image": "https://cdnimg.xyz/cover/pet.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37522,
+        "aniId": 101350,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3451": {
+        "identifier": "3451",
+        "malId": 37522,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pet",
+        "url": "https://animepahe.com/a/3451"
+      }
+    },
+    "AniMixPlay": {
+      "37522": {
+        "identifier": "37522",
+        "malId": 37522,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pet",
+        "url": "https://animixplay.to/anime/37522"
+      }
+    },
+    "YugenAnime": {
+      "1443": {
+        "identifier": "1443",
+        "malId": 37522,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pet",
+        "url": "https://yugen.to/anime/1443/pet/"
+      }
+    }
+  }
+}

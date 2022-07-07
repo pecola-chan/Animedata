@@ -1,0 +1,158 @@
+{
+  "createdAt": "2021-02-20T12:05:15.000Z",
+  "updatedAt": "2022-05-14T09:44:59.000Z",
+  "checkedAt": "2022-05-14T09:44:59.000Z",
+  "id": 46102,
+  "type": "anime",
+  "title": "Odd Taxi",
+  "altTitle": [
+    "Odd Taxi",
+    "オッドタクシー"
+  ],
+  "url": "https://myanimelist.net/anime/46102/Odd_Taxi",
+  "image": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://oddtaxi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15989"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23921"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odd_Taxi#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281177"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15989,
+  "Pages": {
+    "Gogoanime": {
+      "odd-taxi": {
+        "createdAt": "2021-04-05T19:38:10.000Z",
+        "updatedAt": "2022-05-16T15:14:56.000Z",
+        "checkedAt": "2022-05-16T15:14:43.000Z",
+        "id": 36224,
+        "identifier": "odd-taxi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Odd Taxi",
+        "url": "https://gogoanime.sk/category/odd-taxi",
+        "image": "https://gogocdn.net/cover/odd-taxi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 46102,
+        "aniId": 128547,
+        "deletedAt": null
+      },
+      "odd-taxi-dub": {
+        "createdAt": "2022-02-21T13:57:05.000Z",
+        "updatedAt": "2022-05-16T15:14:54.000Z",
+        "checkedAt": "2022-05-16T15:14:41.000Z",
+        "id": 40211,
+        "identifier": "odd-taxi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Odd Taxi (Dub)",
+        "url": "https://gogoanime.sk/category/odd-taxi-dub",
+        "image": "https://gogocdn.net/cover/odd-taxi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 46102,
+        "aniId": 128547,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "3w6y": {
+        "createdAt": "2021-04-06T16:44:25.000Z",
+        "updatedAt": "2022-05-16T15:14:41.000Z",
+        "checkedAt": "2022-05-16T15:14:29.000Z",
+        "id": 36245,
+        "identifier": "3w6y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Odd Taxi",
+        "url": "https://9anime.to/watch/oddtaxi.3w6y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f1/f109e9934c94f17f2da374093d7c4c91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 46102,
+        "aniId": 128547,
+        "deletedAt": null
+      },
+      "n33zn": {
+        "createdAt": "2022-02-21T13:49:06.000Z",
+        "updatedAt": "2022-05-16T15:14:42.000Z",
+        "checkedAt": "2022-05-16T15:14:30.000Z",
+        "id": 40142,
+        "identifier": "n33zn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Odd Taxi (Dub)",
+        "url": "https://9anime.to/watch/oddtaxi-dub.n33zn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/1c/1cf0762f1f00d6b59346d64988d4245b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 46102,
+        "aniId": 128547,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4329": {
+        "identifier": "4329",
+        "malId": 46102,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Odd Taxi",
+        "url": "https://animepahe.com/a/4329"
+      }
+    },
+    "AniMixPlay": {
+      "46102": {
+        "identifier": "46102",
+        "malId": 46102,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Odd Taxi",
+        "url": "https://animixplay.to/anime/46102"
+      }
+    },
+    "YugenAnime": {
+      "7438": {
+        "identifier": "7438",
+        "malId": 46102,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Odd Taxi",
+        "url": "https://yugen.to/anime/7438/odd-taxi/"
+      }
+    }
+  }
+}

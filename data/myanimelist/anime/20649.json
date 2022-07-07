@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T22:30:47.000Z",
+  "checkedAt": "2022-05-14T22:30:47.000Z",
+  "id": 20649,
+  "type": "anime",
+  "title": "Kimi no Iru Machi OVA",
+  "altTitle": [
+    "A Town Where You Live",
+    "Uchi ga Kita Machi",
+    "The Town Where I Came",
+    "君のいる町 OVA"
+  ],
+  "url": "https://myanimelist.net/anime/20649/Kimi_no_Iru_Machi_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/7/62537.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/kimino/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10162"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10162,
+  "Pages": {
+    "9anime": {
+      "1ovx": {
+        "createdAt": "2020-10-12T15:49:16.000Z",
+        "updatedAt": "2021-10-27T02:31:56.000Z",
+        "checkedAt": null,
+        "id": 1064,
+        "identifier": "1ovx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimi no Iru Machi OVA",
+        "url": "https://9anime.to/watch/kimi-no-iru-machi-ova.1ovx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/2480c614aad8147895699c86d352d41e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20649,
+        "aniId": 20715,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1408": {
+        "identifier": "1408",
+        "malId": 20649,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kimi no Iru Machi OVA",
+        "url": "https://animepahe.com/a/1408"
+      }
+    },
+    "AniMixPlay": {
+      "20649": {
+        "identifier": "20649",
+        "malId": 20649,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimi no Iru Machi OVA",
+        "url": "https://animixplay.to/anime/20649"
+      }
+    },
+    "YugenAnime": {
+      "3889": {
+        "identifier": "3889",
+        "malId": 20649,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kimi no Iru Machi OVA",
+        "url": "https://yugen.to/anime/3889/kimi-no-iru-machi-ova-2014/"
+      }
+    }
+  }
+}

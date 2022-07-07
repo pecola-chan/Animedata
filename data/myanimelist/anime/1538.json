@@ -1,0 +1,144 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T15:59:44.000Z",
+  "checkedAt": "2022-05-14T15:59:44.000Z",
+  "id": 1538,
+  "type": "anime",
+  "title": "Pumpkin Scissors",
+  "altTitle": [
+    "PumpSci",
+    "パンプキン・シザーズ"
+  ],
+  "url": "https://myanimelist.net/anime/1538/Pumpkin_Scissors",
+  "image": "https://cdn.myanimelist.net/images/anime/8/75181.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gonzo.co.jp/archives/pumpkin-scissors/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4473"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6552"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pumpkin_Scissors"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/pumpkin-scissors"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4473,
+  "Pages": {
+    "9anime": {
+      "4qwk": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2371,
+        "identifier": "4qwk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pumpkin Scissors",
+        "url": "https://9anime.to/watch/pumpkin-scissors.4qwk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2rWNw53YQT4/V4-OREQ_QoI/AAAAAAAAwq4/1lDre1uE2dk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1538,
+        "aniId": 1538,
+        "deletedAt": null
+      },
+      "5z2m": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2869,
+        "identifier": "5z2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pumpkin Scissors (Dub)",
+        "url": "https://9anime.to/watch/pumpkin-scissors-dub.5z2m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AkK85Pa_6X4/V_-uof-SkPI/AAAAAAABHUA/GdjjAz-3TuI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1538,
+        "aniId": 1538,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pumpkin-scissors": {
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20188,
+        "identifier": "pumpkin-scissors",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pumpkin Scissors",
+        "url": "https://gogoanime.vc/category/pumpkin-scissors",
+        "image": "https://gogocdn.net/images/anime/P/Pumpkin-Scissors.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1538,
+        "aniId": 1538,
+        "deletedAt": null
+      },
+      "pumpkin-scissors-dub": {
+        "createdAt": "2021-04-14T16:48:21.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36511,
+        "identifier": "pumpkin-scissors-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pumpkin Scissors (Dub)",
+        "url": "https://gogoanime.vc/category/pumpkin-scissors-dub",
+        "image": "https://gogocdn.net/cover/pumpkin-scissors-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1538,
+        "aniId": 1538,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1538": {
+        "identifier": "1538",
+        "malId": 1538,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pumpkin Scissors",
+        "url": "https://animixplay.to/anime/1538"
+      }
+    },
+    "YugenAnime": {
+      "845": {
+        "identifier": "845",
+        "malId": 1538,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pumpkin Scissors",
+        "url": "https://yugen.to/anime/845/pumpkin-scissors/"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-15T00:26:47.000Z",
+  "checkedAt": "2022-05-15T00:26:47.000Z",
+  "id": 39277,
+  "type": "anime",
+  "title": "Youkai Watch!",
+  "altTitle": [
+    "妖怪ウォッチ!"
+  ],
+  "url": "https://myanimelist.net/anime/39277/Youkai_Watch",
+  "image": "https://cdn.myanimelist.net/images/anime/1194/99093.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/youkai-watch2019/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14687"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14687,
+  "Pages": {
+    "9anime": {
+      "43lx": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2093,
+        "identifier": "43lx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Youkai Watch!",
+        "url": "https://9anime.to/watch/youkai-watch.43lx",
+        "image": "https://static.akacdn.ru/files/images/2020/04/9c07e41a475c357737912d5afcbb6321.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39277,
+        "aniId": 108767,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39277": {
+        "identifier": "39277",
+        "malId": 39277,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Youkai Watch!",
+        "url": "https://animixplay.to/anime/39277"
+      }
+    }
+  }
+}

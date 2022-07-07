@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-13T21:12:37.000Z",
+  "checkedAt": "2022-05-13T21:12:37.000Z",
+  "id": 416,
+  "type": "anime",
+  "title": "Kurenai no Buta",
+  "altTitle": [
+    "The Scarlet Pig",
+    "Porco Rosso",
+    "紅の豚"
+  ],
+  "url": "https://myanimelist.net/anime/416/Kurenai_no_Buta",
+  "image": "https://cdn.myanimelist.net/images/anime/6/2878.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghibli.jp/works/porco/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=306"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=855"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Porco_Rosso"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 306,
+  "Pages": {
+    "9anime": {
+      "4qlj": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2022-06-14T02:01:45.000Z",
+        "checkedAt": "2022-06-14T02:01:45.000Z",
+        "id": 2362,
+        "identifier": "4qlj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurenai no Buta",
+        "url": "https://9anime.to/watch/porco-rosso.4qlj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/48890cc1d1fb749a8bd4049b181837b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 416,
+        "aniId": 416,
+        "deletedAt": null
+      },
+      "m30p": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6351,
+        "identifier": "m30p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurenai no Buta (Dub)",
+        "url": "https://9anime.to/watch/porco-rosso-dub.m30p",
+        "image": "//static.9anime.to/i/cache/images/2018/04/9a01fa0f9dbe9f1bf825a04fdaa2417a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 416,
+        "aniId": 416,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "porco-rosso": {
+        "createdAt": "2020-10-12T16:01:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20133,
+        "identifier": "porco-rosso",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Porco Rosso",
+        "url": "https://gogoanime.vc/category/porco-rosso",
+        "image": "https://gogocdn.net/images/anime/P/Porco-Rosso.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 416,
+        "aniId": 416,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "588": {
+        "identifier": "588",
+        "malId": 416,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kurenai no Buta",
+        "url": "https://animepahe.com/a/588"
+      }
+    },
+    "AniMixPlay": {
+      "416": {
+        "identifier": "416",
+        "malId": 416,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kurenai no Buta",
+        "url": "https://animixplay.to/anime/416"
+      }
+    },
+    "YugenAnime": {
+      "4936": {
+        "identifier": "4936",
+        "malId": 416,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kurenai no Buta",
+        "url": "https://yugen.to/anime/4936/kurenai-no-buta/"
+      }
+    }
+  }
+}

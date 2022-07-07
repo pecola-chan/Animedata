@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-06-12T09:29:07.000Z",
+  "checkedAt": "2022-06-12T09:29:07.000Z",
+  "id": 35303,
+  "type": "anime",
+  "title": "Furusato Meguri: Nippon no Mukashibanashi",
+  "altTitle": [
+    "Hometown Visiting: Folktales from Japan",
+    "ふるさとめぐり 日本の昔ばなし"
+  ],
+  "url": "https://myanimelist.net/anime/35303/Furusato_Meguri__Nippon_no_Mukashibanashi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/85025.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/index2.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13050"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E3%82%81%E3%81%90%E3%82%8A_%E6%97%A5%E6%9C%AC%E3%81%AE%E6%98%94%E3%81%B0%E3%81%AA%E3%81%97"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-243998"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13050,
+  "Pages": {
+    "9anime": {
+      "o5qz": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7397,
+        "identifier": "o5qz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Furusato Meguri Nippon no Mukashibanashi",
+        "url": "https://9anime.to/watch/furusato-meguri-nippon-no-mukashibanashi.o5qz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BqhOipI0mXA/WOC87czHQJI/AAAAAAAAe7s/30fIeKnwvV4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35303,
+        "aniId": 98751,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "folktales-from-japan-season-2": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17684,
+        "identifier": "folktales-from-japan-season-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Folktales from Japan Season 2",
+        "url": "https://gogoanime.vc/category/folktales-from-japan-season-2",
+        "image": "https://images.gogoanime.tv/cover/furusato-meguri-nippon-no-mukashibanashi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35303,
+        "aniId": 98751,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2044": {
+        "identifier": "2044",
+        "malId": 35303,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Furusato Meguri: Nippon no Mukashibanashi",
+        "url": "https://animepahe.com/a/2044"
+      }
+    },
+    "AniMixPlay": {
+      "35303": {
+        "identifier": "35303",
+        "malId": 35303,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Furusato Meguri: Nippon no Mukashibanashi",
+        "url": "https://animixplay.to/anime/35303"
+      }
+    }
+  }
+}

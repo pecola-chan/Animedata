@@ -1,0 +1,147 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T20:36:35.000Z",
+  "checkedAt": "2022-05-14T20:36:35.000Z",
+  "id": 576,
+  "type": "anime",
+  "title": "Magikano",
+  "altTitle": [
+    "マジカノ"
+  ],
+  "url": "https://myanimelist.net/anime/576/Magikano",
+  "image": "https://cdn.myanimelist.net/images/anime/2/75539.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.magikano.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4074"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6035"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magikano"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275415"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/magikano"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4074,
+  "Pages": {
+    "9anime": {
+      "8yyo": {
+        "createdAt": "2020-10-12T15:51:35.000Z",
+        "updatedAt": "2022-06-14T03:02:51.000Z",
+        "checkedAt": "2022-06-14T03:02:51.000Z",
+        "id": 4106,
+        "identifier": "8yyo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Magikano (Dub)",
+        "url": "https://9anime.to/watch/magikano-dub.8yyo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/fa9c8e9b5e62b3ef1577b6a36b70d398.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 576,
+        "aniId": 576,
+        "deletedAt": null
+      },
+      "llyn": {
+        "createdAt": "2020-10-12T15:53:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6071,
+        "identifier": "llyn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Magikano",
+        "url": "https://9anime.to/watch/magikano.llyn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kkq88b9YHAU/V5D-ofWw4uI/AAAAAAAAxAA/Q9j2TMvRTxE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 576,
+        "aniId": 576,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "magikano": {
+        "createdAt": "2020-10-12T16:01:11.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19241,
+        "identifier": "magikano",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Magikano",
+        "url": "https://gogoanime.vc/category/magikano",
+        "image": "https://cdnimg.xyz/images/anime/M/magikano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 576,
+        "aniId": 576,
+        "deletedAt": null
+      },
+      "magikano-dub": {
+        "createdAt": "2021-04-14T16:47:51.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36497,
+        "identifier": "magikano-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Magikano (Dub)",
+        "url": "https://gogoanime.vc/category/magikano-dub",
+        "image": "https://gogocdn.net/cover/magikano-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 576,
+        "aniId": 576,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "576": {
+        "identifier": "576",
+        "malId": 576,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Magikano",
+        "url": "https://animixplay.to/anime/576"
+      }
+    },
+    "YugenAnime": {
+      "165": {
+        "identifier": "165",
+        "malId": 576,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Magikano",
+        "url": "https://yugen.to/anime/165/magikano/"
+      }
+    }
+  }
+}

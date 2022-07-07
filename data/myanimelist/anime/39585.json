@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T18:45:23.000Z",
+  "checkedAt": "2022-05-14T18:45:23.000Z",
+  "id": 39585,
+  "type": "anime",
+  "title": "Majo Minarai wo Sagashite",
+  "altTitle": [
+    "Majo Minarai wo Sagashite, Magical DoReMi Movie, Useless Witchgirl Doremi Movie",
+    "Looking for Magical Doremi",
+    "魔女見習いをさがして"
+  ],
+  "url": "https://myanimelist.net/anime/39585/Majo_Minarai_wo_Sagashite",
+  "image": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.doremi-anniv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14790"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22003"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ojamajo_Doremi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/movies/Looking-For-Magical-DoReMi/movie-919809"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14790,
+  "Pages": {
+    "9anime": {
+      "v6yl": {
+        "createdAt": "2020-10-27T11:12:39.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28049,
+        "identifier": "v6yl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Majo Minarai wo Sagashite",
+        "url": "https://9anime.to/watch/majo-minarai-wo-sagashite.v6yl",
+        "image": "//static.9anime.to/i/cache/images/e/ea/eabb270d01cb47c6e8256962b4b7c55d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39585,
+        "aniId": 108630,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "majo-minarai-wo-sagashite": {
+        "createdAt": "2021-04-22T19:57:00.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36668,
+        "identifier": "majo-minarai-wo-sagashite",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Majo Minarai wo Sagashite",
+        "url": "https://gogoanime.vc/category/majo-minarai-wo-sagashite",
+        "image": "https://gogocdn.net/cover/majo-minarai-wo-sagashite.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39585,
+        "aniId": 108630,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4417": {
+        "identifier": "4417",
+        "malId": 39585,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Majo Minarai wo Sagashite",
+        "url": "https://animepahe.com/a/4417"
+      }
+    },
+    "AniMixPlay": {
+      "39585": {
+        "identifier": "39585",
+        "malId": 39585,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Majo Minarai wo Sagashite",
+        "url": "https://animixplay.to/anime/39585"
+      }
+    },
+    "YugenAnime": {
+      "7587": {
+        "identifier": "7587",
+        "malId": 39585,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Majo Minarai wo Sagashite",
+        "url": "https://yugen.to/anime/7587/majo-minarai-wo-sagashite/"
+      }
+    }
+  }
+}

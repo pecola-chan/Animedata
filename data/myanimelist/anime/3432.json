@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T01:36:43.000Z",
+  "checkedAt": "2022-05-15T01:36:43.000Z",
+  "id": 3432,
+  "type": "anime",
+  "title": "Chou Mashin Eiyuuden Wataru",
+  "altTitle": [
+    "Super Demon Hero Wataru",
+    "超魔神英雄伝ワタル"
+  ],
+  "url": "https://myanimelist.net/anime/3432/Chou_Mashin_Eiyuuden_Wataru",
+  "image": "https://cdn.myanimelist.net/images/anime/1426/100501.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/datacard/card0138.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1083"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1172"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wataru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1083,
+  "Pages": {
+    "9anime": {
+      "p1z6": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7803,
+        "identifier": "p1z6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chou Mashin Eiyuuden Wataru",
+        "url": "https://9anime.to/watch/chou-mashin-eiyuuden-wataru.p1z6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GFhoB9np4wI/WI1dv00fgcI/AAAAAAABbeY/WsIWCqf52HQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3432,
+        "aniId": 3432,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3432": {
+        "identifier": "3432",
+        "malId": 3432,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chou Mashin Eiyuuden Wataru",
+        "url": "https://animixplay.to/anime/3432"
+      }
+    },
+    "YugenAnime": {
+      "4500": {
+        "identifier": "4500",
+        "malId": 3432,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chou Mashin Eiyuuden Wataru",
+        "url": "https://yugen.to/anime/4500/chou-mashin-eiyuuden-wataru/"
+      }
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-13T21:34:33.000Z",
+  "checkedAt": "2022-05-13T21:34:33.000Z",
+  "id": 15119,
+  "type": "anime",
+  "title": "Senran Kagura",
+  "altTitle": [
+    "Senran Kagura",
+    "Senran Kagura: Ninja Flash",
+    "閃乱カグラ"
+  ],
+  "url": "https://myanimelist.net/anime/15119/Senran_Kagura",
+  "image": "https://cdn.myanimelist.net/images/anime/5/45640.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.senran.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9166"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14280"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Senran_Kagura"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273305"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/senran-kagura"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9166,
+  "Pages": {
+    "9anime": {
+      "3136": {
+        "createdAt": "2020-10-12T15:48:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 87,
+        "identifier": "3136",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senran Kagura",
+        "url": "https://9anime.to/watch/senran-kagura.3136",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DzxO6zsqZRk/WATKKYqGW1I/AAAAAAABIzI/2E32aENfTaU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15119,
+        "aniId": 15119,
+        "deletedAt": null
+      },
+      "2owl": {
+        "createdAt": "2020-10-12T15:49:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1466,
+        "identifier": "2owl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senran Kagura (Dub)",
+        "url": "https://9anime.to/watch/senran-kagura-dub.2owl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NVvf5J26Bho/V4-NSkIt9dI/AAAAAAAAwqo/YVEdG9rbfko/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15119,
+        "aniId": 15119,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "-senran-kagura-ova": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16306,
+        "identifier": "-senran-kagura-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senran Kagura OVA",
+        "url": "https://gogoanime.vc/category/-senran-kagura-ova",
+        "image": "https://cdnimg.xyz/images/upload/Senran Kagura OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15119,
+        "aniId": 15119,
+        "deletedAt": null
+      },
+      "senran-kagura-": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20522,
+        "identifier": "senran-kagura-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senran Kagura ",
+        "url": "https://gogoanime.vc/category/senran-kagura-",
+        "image": "https://cdnimg.xyz/images/anime/S/senran_kagura1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15119,
+        "aniId": 15119,
+        "deletedAt": null
+      },
+      "senran-kagura-dub": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20523,
+        "identifier": "senran-kagura-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senran Kagura (Dub)",
+        "url": "https://gogoanime.vc/category/senran-kagura-dub",
+        "image": "https://gogocdn.net/cover/senran-kagura-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15119,
+        "aniId": 15119,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1035": {
+        "identifier": "1035",
+        "malId": 15119,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Senran Kagura",
+        "url": "https://animepahe.com/a/1035"
+      }
+    },
+    "AniMixPlay": {
+      "15119": {
+        "identifier": "15119",
+        "malId": 15119,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Senran Kagura",
+        "url": "https://animixplay.to/anime/15119"
+      }
+    },
+    "YugenAnime": {
+      "2817": {
+        "identifier": "2817",
+        "malId": 15119,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Senran Kagura",
+        "url": "https://yugen.to/anime/2817/senran-kagura/"
+      }
+    }
+  }
+}

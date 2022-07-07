@@ -1,0 +1,47 @@
+{
+  "createdAt": "2021-08-26T23:06:39.000Z",
+  "updatedAt": "2022-05-15T00:59:35.000Z",
+  "checkedAt": "2022-05-15T00:59:35.000Z",
+  "id": 34802,
+  "type": "anime",
+  "title": "Cobalt World",
+  "altTitle": [
+    "群青世界"
+  ],
+  "url": "https://myanimelist.net/anime/34802/Cobalt_World",
+  "image": "https://cdn.myanimelist.net/images/anime/2/83978.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=v60Cb9RUYTI"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "80n8y": {
+        "createdAt": "2022-03-31T07:31:23.000Z",
+        "updatedAt": "2022-03-31T08:00:21.000Z",
+        "checkedAt": null,
+        "id": 40566,
+        "identifier": "80n8y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gunjou Sekai",
+        "url": "https://9anime.to/watch/cobalt-world.80n8y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b1/b190fb0045d58975236c883d2bfc4ffb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 34802,
+        "aniId": 101912,
+        "deletedAt": null
+      }
+    }
+  }
+}

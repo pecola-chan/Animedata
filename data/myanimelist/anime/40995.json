@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T23:46:35.000Z",
+  "checkedAt": "2022-05-14T23:46:35.000Z",
+  "id": 40995,
+  "type": "anime",
+  "title": "Hentatsu (TV)",
+  "altTitle": [
+    "Oni to Neko to o-Cha to ka.",
+    "へんたつ"
+  ],
+  "url": "https://myanimelist.net/anime/40995/Hentatsu_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1399/112948.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://hentatsu.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15348"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22439"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B8%E3%82%93%E3%81%9F%E3%81%A4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15348,
+  "Pages": {
+    "9anime": {
+      "mkxv": {
+        "createdAt": "2020-10-12T15:53:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6590,
+        "identifier": "mkxv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hentatsu (TV)",
+        "url": "https://9anime.to/watch/hentatsu-tv.mkxv",
+        "image": "https://static.akacdn.ru/files/images/2020/01/d9980e9484c486c140c86936a3e7941d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "deletedAt": null
+      },
+      "jvjr4": {
+        "createdAt": "2022-05-20T10:00:06.040Z",
+        "updatedAt": "2022-05-20T11:20:00.000Z",
+        "checkedAt": "2022-05-20T10:00:06.000Z",
+        "id": 41033,
+        "identifier": "jvjr4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hentatsu Movie",
+        "url": "https://9anime.to/watch/hentatsu-movie.jvjr4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/3a/3a973b9c4edbf9a79ca5809b754312dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 40995,
+        "aniId": 114417,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hentatsu-2019": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18235,
+        "identifier": "hentatsu-2019",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hentatsu (2019)",
+        "url": "https://gogoanime.vc/category/hentatsu-2019",
+        "image": "https://cdnimg.xyz/cover/hentatsu-2019.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "deletedAt": null
+      },
+      "hentatsu-tv": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18236,
+        "identifier": "hentatsu-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hentatsu (TV)",
+        "url": "https://gogoanime.vc/category/hentatsu-tv",
+        "image": "https://cdnimg.xyz/cover/hentatsu-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40995": {
+        "identifier": "40995",
+        "malId": 40995,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hentatsu (TV)",
+        "url": "https://animixplay.to/anime/40995"
+      }
+    },
+    "YugenAnime": {
+      "6915": {
+        "identifier": "6915",
+        "malId": 40995,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hentatsu (TV)",
+        "url": "https://yugen.to/anime/6915/hentatsu-tv/"
+      }
+    }
+  }
+}

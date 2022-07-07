@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-15T01:58:04.000Z",
+  "checkedAt": "2022-05-15T01:58:04.000Z",
+  "id": 4723,
+  "type": "anime",
+  "title": "Seishun Anime Zenshuu",
+  "altTitle": [
+    "Youth Anime Complete Collection",
+    "Animated Classics of Japanese Literature",
+    "青春アニメ全集"
+  ],
+  "url": "https://myanimelist.net/anime/4723/Seishun_Anime_Zenshuu",
+  "image": "https://cdn.myanimelist.net/images/anime/2/9105.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/1499/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1081"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Animated_Classics_of_Japanese_Literature"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2427,
+  "Pages": {
+    "9anime": {
+      "57p0": {
+        "createdAt": "2020-10-12T15:50:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2571,
+        "identifier": "57p0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seishun Anime Zenshuu",
+        "url": "https://9anime.to/watch/seishun-anime-zenshuu.57p0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jLF1X7rOhQM/WMfuTXCPhcI/AAAAAAABfkc/Op26KpTl7zc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4723,
+        "aniId": 4723,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11325": {
+        "identifier": "11325",
+        "malId": 4723,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seishun Anime Zenshuu",
+        "url": "https://yugen.to/anime/11325/seishun-anime-zenshuu/"
+      }
+    }
+  }
+}

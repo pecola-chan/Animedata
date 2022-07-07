@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-11-27T00:32:02.000Z",
+  "updatedAt": "2022-05-15T04:17:28.000Z",
+  "checkedAt": "2022-05-15T04:17:28.000Z",
+  "id": 35302,
+  "type": "anime",
+  "title": "Neko Neko Nihonshi 2nd Season",
+  "altTitle": [
+    "Meow Meow Japanese History",
+    "ねこねこ日本史"
+  ],
+  "url": "https://myanimelist.net/anime/35302/Neko_Neko_Nihonshi_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/10/89586.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://neco-neco.jp/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13054"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E6%97%A5%E6%9C%AC%E5%8F%B2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13054,
+  "Pages": {
+    "Gogoanime": {
+      "neko-neko-nihonshi-2nd-season": {
+        "createdAt": "2021-05-27T17:28:47.000Z",
+        "updatedAt": "2021-06-02T01:01:15.000Z",
+        "checkedAt": null,
+        "id": 37121,
+        "identifier": "neko-neko-nihonshi-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Neko Neko Nihonshi 2nd Season",
+        "url": "https://gogoanime.vc/category/neko-neko-nihonshi-2nd-season",
+        "image": "https://gogocdn.net/cover/neko-neko-nihonshi-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35302,
+        "aniId": 98586,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "35302": {
+        "identifier": "35302",
+        "malId": 35302,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neko Neko Nihonshi 2nd Season",
+        "url": "https://animixplay.to/anime/35302"
+      }
+    },
+    "YugenAnime": {
+      "4643": {
+        "identifier": "4643",
+        "malId": 35302,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neko Neko Nihonshi 2nd Season",
+        "url": "https://yugen.to/anime/4643/neko-neko-nihonshi-2nd-season/"
+      }
+    }
+  }
+}

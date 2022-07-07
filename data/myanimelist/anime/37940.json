@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T16:09:58.000Z",
+  "checkedAt": "2022-05-14T16:09:58.000Z",
+  "id": 37940,
+  "type": "anime",
+  "title": "Yatogame-chan Kansatsu Nikki",
+  "altTitle": [
+    "八十亀ちゃんかんさつにっき"
+  ],
+  "url": "https://myanimelist.net/anime/37940/Yatogame-chan_Kansatsu_Nikki",
+  "image": "https://cdn.myanimelist.net/images/anime/1594/108633.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://yatogame.nagoya"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14103"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21593"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yatogame-chan_Kansatsu_Nikki"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277811"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14103,
+  "Pages": {
+    "9anime": {
+      "mro7": {
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6745,
+        "identifier": "mro7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "url": "https://9anime.to/watch/yatogame-chan-kansatsu-nikki.mro7",
+        "image": "https://static.akacdn.ru/static/images/2018/05/a2c928823d9a338d1a58b68197c8a5b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37940,
+        "aniId": 102064,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yatogame-chan-kansatsu-nikki": {
+        "createdAt": "2020-10-12T16:02:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21531,
+        "identifier": "yatogame-chan-kansatsu-nikki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "url": "https://gogoanime.vc/category/yatogame-chan-kansatsu-nikki",
+        "image": "https://cdnimg.xyz/cover/yatogame-chan-kansatsu-nikki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37940,
+        "aniId": 102064,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3234": {
+        "identifier": "3234",
+        "malId": 37940,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "url": "https://animepahe.com/a/3234"
+      }
+    },
+    "AniMixPlay": {
+      "37940": {
+        "identifier": "37940",
+        "malId": 37940,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "url": "https://animixplay.to/anime/37940"
+      }
+    },
+    "YugenAnime": {
+      "4191": {
+        "identifier": "4191",
+        "malId": 37940,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "url": "https://yugen.to/anime/4191/yatogame-chan-kansatsu-nikki/"
+      }
+    }
+  }
+}

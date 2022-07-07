@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T22:27:47.000Z",
+  "checkedAt": "2022-05-14T22:27:47.000Z",
+  "id": 12699,
+  "type": "anime",
+  "title": "Tales of Gekijou",
+  "altTitle": [
+    "Tales of the Heroes: Twin Brave Specials",
+    "ているず おぶ 劇場"
+  ],
+  "url": "https://myanimelist.net/anime/12699/Tales_of_Gekijou",
+  "image": "https://cdn.myanimelist.net/images/anime/5/48841.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8942"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%B6_%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA_%E3%83%84%E3%82%A4%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8942,
+  "Pages": {
+    "9anime": {
+      "rr8q": {
+        "createdAt": "2020-10-12T15:55:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9001,
+        "identifier": "rr8q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tales of Gekijou",
+        "url": "https://9anime.to/watch/tales-of-gekijou.rr8q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GDpvMWs7p4o/V-Uc66UfgjI/AAAAAAABAGk/zYZckrds85M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12699,
+        "aniId": 12699,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tales-of-gekijou": {
+        "createdAt": "2021-07-09T02:15:07.000Z",
+        "updatedAt": "2021-07-09T02:43:16.000Z",
+        "checkedAt": null,
+        "id": 37756,
+        "identifier": "tales-of-gekijou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tales of Gekijou",
+        "url": "https://gogoanime.pe/category/tales-of-gekijou",
+        "image": "https://gogocdn.net/cover/tales-of-gekijou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12699,
+        "aniId": 12699,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "12699": {
+        "identifier": "12699",
+        "malId": 12699,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tales of Gekijou",
+        "url": "https://animixplay.to/anime/12699"
+      }
+    },
+    "YugenAnime": {
+      "7883": {
+        "identifier": "7883",
+        "malId": 12699,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tales of Gekijou",
+        "url": "https://yugen.to/anime/7883/tales-of-gekijou/"
+      }
+    }
+  }
+}

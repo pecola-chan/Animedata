@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T21:45:47.000Z",
+  "checkedAt": "2022-05-14T21:45:47.000Z",
+  "id": 5521,
+  "type": "anime",
+  "title": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+  "altTitle": [
+    "Hayate the Combat Butler!! Episode 0",
+    "Hayate no Gotoku!! OVA",
+    "ハヤテのごとく!! アツがナツいぜ 水着編!"
+  ],
+  "url": "https://myanimelist.net/anime/5521/Hayate_no_Gotoku__Atsu_ga_Natsuize_-_Mizugi-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/3/13634.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hayatenogotoku.com/goods/ova.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6389"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10546"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6389,
+  "Pages": {
+    "9anime": {
+      "n20k": {
+        "createdAt": "2020-10-12T15:53:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6887,
+        "identifier": "n20k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+        "url": "https://9anime.to/watch/hayate-no-gotoku-atsu-ga-natsuize-mizugi-hen.n20k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SHuIOrudczE/WDEmZ6TByqI/AAAAAAABPok/VWApBb65ZMY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5521,
+        "aniId": 5521,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3239": {
+        "identifier": "3239",
+        "malId": 5521,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+        "url": "https://animepahe.com/a/3239"
+      }
+    },
+    "AniMixPlay": {
+      "5521": {
+        "identifier": "5521",
+        "malId": 5521,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+        "url": "https://animixplay.to/anime/5521"
+      }
+    }
+  }
+}

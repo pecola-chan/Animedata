@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T16:12:19.000Z",
+  "checkedAt": "2022-05-14T16:12:19.000Z",
+  "id": 687,
+  "type": "anime",
+  "title": "Tokyo Mew Mew",
+  "altTitle": [
+    "Mew Mew Power",
+    "東京ミュウミュウ"
+  ],
+  "url": "https://myanimelist.net/anime/687/Tokyo_Mew_Mew",
+  "image": "https://cdn.myanimelist.net/images/anime/4/89298.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/mewmew/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=161"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=829"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokyo_Mew_Mew"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 161,
+  "Pages": {
+    "9anime": {
+      "72x6": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3335,
+        "identifier": "72x6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Mew Mew",
+        "url": "https://9anime.to/watch/tokyo-mew-mew.72x6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FQ-A8gl027o/V6xTqmzRAOI/AAAAAAAA2VI/_ekAgtXizjY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 687,
+        "aniId": 687,
+        "deletedAt": null
+      },
+      "rq5n": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8977,
+        "identifier": "rq5n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Mew Mew (Dub)",
+        "url": "https://9anime.to/watch/tokyo-mew-mew-dub.rq5n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fk-4K78TomQ/WNIoUK-OCXI/AAAAAAABgMQ/2lu5oacBGE0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 687,
+        "aniId": 687,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokyo-mew-mew": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21166,
+        "identifier": "tokyo-mew-mew",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Mew Mew",
+        "url": "https://gogoanime.vc/category/tokyo-mew-mew",
+        "image": "https://gogocdn.net/images/anime/T/tokyo-mew-mew.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 687,
+        "aniId": 687,
+        "deletedAt": null
+      },
+      "tokyo-mew-mew-dub": {
+        "createdAt": "2021-02-28T19:14:42.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35360,
+        "identifier": "tokyo-mew-mew-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Mew Mew (Dub)",
+        "url": "https://gogoanime.vc/category/tokyo-mew-mew-dub",
+        "image": "https://gogocdn.net/cover/tokyo-mew-mew-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 687,
+        "aniId": 687,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "687": {
+        "identifier": "687",
+        "malId": 687,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo Mew Mew",
+        "url": "https://animixplay.to/anime/687"
+      }
+    },
+    "YugenAnime": {
+      "1493": {
+        "identifier": "1493",
+        "malId": 687,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokyo Mew Mew",
+        "url": "https://yugen.to/anime/1493/tokyo-mew-mew/"
+      }
+    }
+  }
+}

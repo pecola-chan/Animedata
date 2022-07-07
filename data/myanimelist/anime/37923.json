@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-27T22:30:02.000Z",
+  "checkedAt": "2022-05-27T22:30:02.000Z",
+  "id": 37923,
+  "type": "anime",
+  "title": "Baa-cha no Kingyo",
+  "altTitle": [
+    "A Grandma's Goldfish",
+    "婆ちゃの金魚"
+  ],
+  "url": "https://myanimelist.net/anime/37923/Baa-cha_no_Kingyo",
+  "image": "https://cdn.myanimelist.net/images/anime/1820/93031.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kaoriiwase.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10121"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10121,
+  "Pages": {
+    "9anime": {
+      "v39l": {
+        "createdAt": "2020-10-12T15:55:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9195,
+        "identifier": "v39l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Grandma's Goldfish",
+        "url": "https://9anime.to/watch/a-grandmas-goldfish.v39l",
+        "image": "https://static.akacdn.ru/files/images/2018/05/47830f26e891aab15e078bebe16a67bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37923,
+        "aniId": 103021,
+        "deletedAt": null
+      },
+      "2ooy0": {
+        "createdAt": "2021-12-21T09:54:18.000Z",
+        "updatedAt": "2021-12-21T10:21:45.000Z",
+        "checkedAt": null,
+        "id": 39512,
+        "identifier": "2ooy0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baa-cha no Kingyo",
+        "url": "https://9anime.to/watch/baa-cha-no-kingyo.2ooy0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/4e/4e17b921b5b0793bcda050ce47dbaf7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37923,
+        "aniId": 103021,
+        "deletedAt": null
+      }
+    }
+  }
+}

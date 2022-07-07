@@ -1,0 +1,64 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T22:57:23.000Z",
+  "checkedAt": "2022-05-14T22:57:23.000Z",
+  "id": 5493,
+  "type": "anime",
+  "title": "Ranma ½: Akumu! Shunmin Kou",
+  "altTitle": [
+    "Ranma ½: Okumu! Shunmin Kou",
+    "Ranma ½: Nightmare! Incense of Spring Sleep",
+    "It's a Rumic World: Ranma ½",
+    "らんま1/2 悪夢! 春眠香"
+  ],
+  "url": "https://myanimelist.net/anime/5493/Ranma_½__Akumu_Shunmin_Kou",
+  "image": "https://cdn.myanimelist.net/images/anime/10/63469.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6141"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14869"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6141,
+  "Pages": {
+    "9anime": {
+      "0187": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 332,
+        "identifier": "0187",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ranma ½: Akumu! Shunmin Kou",
+        "url": "https://9anime.to/watch/ranma-akumu-shunmin-kou.0187",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8cYDPfT3pA8/WP7q8zOw2zI/AAAAAAAAkHQ/GeXToUGKOn0oVbm84OZu5U3CWGzoU-JQACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5493,
+        "aniId": 5493,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4240": {
+        "identifier": "4240",
+        "malId": 5493,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ranma ½: Akumu! Shunmin Kou",
+        "url": "https://animepahe.com/a/4240"
+      }
+    }
+  }
+}

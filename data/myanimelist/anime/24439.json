@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:39:28.000Z",
+  "updatedAt": "2022-05-13T15:53:47.000Z",
+  "checkedAt": "2022-05-13T15:53:47.000Z",
+  "id": 24439,
+  "type": "anime",
+  "title": "Kekkai Sensen",
+  "altTitle": [
+    "Bloodline Battlefront",
+    "Blood Blockade Battlefront",
+    "血界戦線"
+  ],
+  "url": "https://myanimelist.net/anime/24439/Kekkai_Sensen",
+  "image": "https://cdn.myanimelist.net/images/anime/12/73559.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kekkaisensen.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10663"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16340"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Blood_Blockade_Battlefront"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272681"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/blood-blockade-battlefront"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10663,
+  "Pages": {
+    "9anime": {
+      "jw2": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5055,
+        "identifier": "jw2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kekkai Sensen",
+        "url": "https://9anime.to/watch/kekkai-sensen.jw2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-QIqAwHfQWqk/V3F4gnD_ybI/AAAAAAAArkw/-5J7LSP44lo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24439,
+        "aniId": 20727,
+        "deletedAt": null
+      },
+      "xxrv": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10427,
+        "identifier": "xxrv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kekkai Sensen (Dub)",
+        "url": "https://9anime.to/watch/kekkai-sensen-dub.xxrv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8Pz-6Rjp4FI/V9f9bVSsqGI/AAAAAAAA92s/9sYfoLDXoy0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24439,
+        "aniId": 20727,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kekkai-sensen": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18764,
+        "identifier": "kekkai-sensen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kekkai Sensen",
+        "url": "https://gogoanime.vc/category/kekkai-sensen",
+        "image": "https://images.gogoanime.tv/images/upload/72321.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24439,
+        "aniId": 20727,
+        "deletedAt": null
+      },
+      "kekkai-sensen-dub": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18768,
+        "identifier": "kekkai-sensen-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kekkai Sensen (Dub)",
+        "url": "https://gogoanime.vc/category/kekkai-sensen-dub",
+        "image": "https://cdnimg.xyz/cover/kekkai-sensen-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24439,
+        "aniId": 20727,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "51": {
+        "identifier": "51",
+        "malId": 24439,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kekkai Sensen",
+        "url": "https://animepahe.com/a/51"
+      }
+    },
+    "AniMixPlay": {
+      "24439": {
+        "identifier": "24439",
+        "malId": 24439,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kekkai Sensen",
+        "url": "https://animixplay.to/anime/24439"
+      }
+    },
+    "YugenAnime": {
+      "6881": {
+        "identifier": "6881",
+        "malId": 24439,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kekkai Sensen",
+        "url": "https://yugen.to/anime/6881/kekkai-sensen/"
+      }
+    }
+  }
+}

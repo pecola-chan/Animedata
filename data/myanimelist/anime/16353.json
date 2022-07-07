@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T16:27:11.000Z",
+  "checkedAt": "2022-05-14T16:27:11.000Z",
+  "id": 16353,
+  "type": "anime",
+  "title": "Love Lab",
+  "altTitle": [
+    "Renai Lab",
+    "Love Lab",
+    "恋愛ラボ"
+  ],
+  "url": "https://myanimelist.net/anime/16353/Love_Lab",
+  "image": "https://cdn.myanimelist.net/images/anime/12/50257.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://love-lab.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9509"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14896"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%81%8B%E6%84%9B%E3%83%A9%E3%83%9C"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-256651"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9509,
+  "Pages": {
+    "9anime": {
+      "j2zn": {
+        "createdAt": "2020-10-12T15:52:02.000Z",
+        "updatedAt": "2022-03-19T14:49:42.000Z",
+        "checkedAt": null,
+        "id": 4644,
+        "identifier": "j2zn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Lab",
+        "url": "https://9anime.to/watch/love-lab.j2zn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/1257314dd10a8ececd4bfb7ed41bf34b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16353,
+        "aniId": 16353,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "love-lab": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2022-03-15T23:01:46.000Z",
+        "checkedAt": null,
+        "id": 19141,
+        "identifier": "love-lab",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Lab",
+        "url": "https://gogoanime.fi/category/love-lab",
+        "image": "https://gogocdn.net/images/anime/Love-Lab1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16353,
+        "aniId": 16353,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "999": {
+        "identifier": "999",
+        "malId": 16353,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Love Lab",
+        "url": "https://animepahe.com/a/999"
+      }
+    },
+    "AniMixPlay": {
+      "16353": {
+        "identifier": "16353",
+        "malId": 16353,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love Lab",
+        "url": "https://animixplay.to/anime/16353"
+      }
+    },
+    "YugenAnime": {
+      "15028": {
+        "identifier": "15028",
+        "malId": 16353,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love Lab",
+        "url": "https://yugen.to/anime/15028/love-lab/"
+      }
+    }
+  }
+}

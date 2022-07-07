@@ -1,0 +1,186 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T16:24:32.000Z",
+  "checkedAt": "2022-05-14T16:24:32.000Z",
+  "id": 39617,
+  "type": "anime",
+  "title": "Yakusoku no Neverland 2nd Season",
+  "altTitle": [
+    "The Promised Neverland Season 2",
+    "約束のネバーランド"
+  ],
+  "url": "https://myanimelist.net/anime/39617/Yakusoku_no_Neverland_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1815/110626.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://neverland-anime.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14801"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23263"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Promised_Neverland"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277377"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/"
+    },
+    {
+      "site": "aniplusasia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "hulu",
+      "url": "https://www.hulu.com/"
+    },
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/"
+    },
+    {
+      "site": "wakanim",
+      "url": "https://www.wakanim.tv/"
+    },
+    {
+      "site": "iqiyi",
+      "url": "https://www.iq.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14801,
+  "Pages": {
+    "9anime": {
+      "mpxv": {
+        "createdAt": "2020-10-12T15:53:35.000Z",
+        "updatedAt": "2022-06-14T01:01:29.000Z",
+        "checkedAt": "2022-06-14T01:01:29.000Z",
+        "id": 6701,
+        "identifier": "mpxv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yakusoku no Neverland 2",
+        "url": "https://9anime.to/watch/the-promised-neverland-season-2.mpxv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/81/816cb04255627c470cae9bff0ac493be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39617,
+        "aniId": 108725,
+        "deletedAt": null
+      },
+      "o1rj": {
+        "createdAt": "2021-04-11T10:51:38.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36379,
+        "identifier": "o1rj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yakusoku no Neverland 2nd Season (Dub)",
+        "url": "https://9anime.to/watch/the-promised-neverland-season-2-dub.o1rj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/59/599b5eda6b755126c1a8dce58dc7d458.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39617,
+        "aniId": 108725,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yakusoku-no-neverland-2nd-season": {
+        "createdAt": "2021-01-06T15:35:20.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33096,
+        "identifier": "yakusoku-no-neverland-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yakusoku no Neverland 2nd Season",
+        "url": "https://gogoanime.vc/category/yakusoku-no-neverland-2nd-season",
+        "image": "https://gogocdn.net/cover/yakusoku-no-neverland-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39617,
+        "aniId": 108725,
+        "deletedAt": null
+      },
+      "yakusoku-no-neverland-2nd-season-dub": {
+        "createdAt": "2021-04-14T16:47:40.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36492,
+        "identifier": "yakusoku-no-neverland-2nd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yakusoku no Neverland 2nd Season (Dub)",
+        "url": "https://gogoanime.vc/category/yakusoku-no-neverland-2nd-season-dub",
+        "image": "https://gogocdn.net/cover/yakusoku-no-neverland-2nd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39617,
+        "aniId": 108725,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4158": {
+        "identifier": "4158",
+        "malId": 39617,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yakusoku no Neverland 2nd Season",
+        "url": "https://animepahe.com/a/4158"
+      }
+    },
+    "AniMixPlay": {
+      "39617": {
+        "identifier": "39617",
+        "malId": 39617,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yakusoku no Neverland 2nd Season",
+        "url": "https://animixplay.to/anime/39617"
+      }
+    },
+    "YugenAnime": {
+      "7085": {
+        "identifier": "7085",
+        "malId": 39617,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yakusoku no Neverland 2nd Season",
+        "url": "https://yugen.to/anime/7085/yakusoku-no-neverland-2nd-season/"
+      }
+    }
+  }
+}

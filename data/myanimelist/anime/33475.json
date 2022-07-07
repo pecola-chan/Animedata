@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:46.000Z",
+  "updatedAt": "2022-05-14T17:18:41.000Z",
+  "checkedAt": "2022-05-14T17:18:41.000Z",
+  "id": 33475,
+  "type": "anime",
+  "title": "Busou Shoujo Machiavellianism",
+  "altTitle": [
+    "Armed Girl's Machiavellism",
+    "武装少女マキャヴェリズム"
+  ],
+  "url": "https://myanimelist.net/anime/33475/Busou_Shoujo_Machiavellianism",
+  "image": "https://cdn.myanimelist.net/images/anime/3/83995.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://machiavellism-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12230"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18970"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%A3%85%E5%B0%91%E5%A5%B3%E3%83%9E%E3%82%AD%E3%83%A3%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%BA%E3%83%A0"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280226"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/armed-girls-machiavellism"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12230,
+  "Pages": {
+    "9anime": {
+      "6q5p": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2022-06-13T23:32:30.000Z",
+        "checkedAt": "2022-06-13T23:32:30.000Z",
+        "id": 3146,
+        "identifier": "6q5p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Busou Shoujo Machiavellianism (Dub)",
+        "url": "https://9anime.to/watch/armed-girls-machiavellism-dub.6q5p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/08/87418df885e75bbc3c1108481c9c32c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33475,
+        "aniId": 21851,
+        "deletedAt": null
+      },
+      "j6o8": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4746,
+        "identifier": "j6o8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Busou Shoujo Machiavellianism",
+        "url": "https://9anime.to/watch/busou-shoujo-machiavellianism.j6o8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gqk4EnXfnWk/WO5wCUvMO5I/AAAAAAAAhcM/Ht69HgCDrtY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33475,
+        "aniId": 21851,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "busou-shoujo-machiavellianism": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16984,
+        "identifier": "busou-shoujo-machiavellianism",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Busou Shoujo Machiavellianism",
+        "url": "https://gogoanime.vc/category/busou-shoujo-machiavellianism",
+        "image": "https://images.gogoanime.tv/cover/busou-shoujo-machiavellianism.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33475,
+        "aniId": 21851,
+        "deletedAt": null
+      },
+      "busou-shoujo-machiavellianism-dub": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16985,
+        "identifier": "busou-shoujo-machiavellianism-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Busou Shoujo Machiavellianism (Dub)",
+        "url": "https://gogoanime.vc/category/busou-shoujo-machiavellianism-dub",
+        "image": "https://cdnimg.xyz/cover/busou-shoujo-machiavellianism-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33475,
+        "aniId": 21851,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2011": {
+        "identifier": "2011",
+        "malId": 33475,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Busou Shoujo Machiavellianism",
+        "url": "https://animepahe.com/a/2011"
+      }
+    },
+    "AniMixPlay": {
+      "33475": {
+        "identifier": "33475",
+        "malId": 33475,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Busou Shoujo Machiavellianism",
+        "url": "https://animixplay.to/anime/33475"
+      }
+    },
+    "YugenAnime": {
+      "6258": {
+        "identifier": "6258",
+        "malId": 33475,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Busou Shoujo Machiavellianism",
+        "url": "https://yugen.to/anime/6258/busou-shoujo-machiavellianism/"
+      }
+    }
+  }
+}

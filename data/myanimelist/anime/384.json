@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T16:45:35.000Z",
+  "checkedAt": "2022-05-14T16:45:35.000Z",
+  "id": 384,
+  "type": "anime",
+  "title": "Gantz",
+  "altTitle": [
+    "GANTZ",
+    "Gantz",
+    "ガンツ"
+  ],
+  "url": "https://myanimelist.net/anime/384/Gantz",
+  "image": "https://cdn.myanimelist.net/images/anime/13/5998.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gantz.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2400"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3641"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gantz"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/gantz"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2400,
+  "Pages": {
+    "9anime": {
+      "ppqq": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8069,
+        "identifier": "ppqq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GANTZ",
+        "url": "https://9anime.to/watch/gantz.ppqq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Lh4WOeYwXro/V6_Uk9YOcWI/AAAAAAAA28M/DEEDg4_sELs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 384,
+        "aniId": 384,
+        "deletedAt": null
+      },
+      "y25z": {
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10504,
+        "identifier": "y25z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GANTZ (Dub)",
+        "url": "https://9anime.to/watch/gantz-dub.y25z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-urD0g0CXWs0/V-ax7ZM1mKI/AAAAAAABAls/d7M9rCwDv3Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 384,
+        "aniId": 384,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gantz": {
+        "createdAt": "2020-10-12T16:00:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17803,
+        "identifier": "gantz",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gantz",
+        "url": "https://gogoanime.vc/category/gantz",
+        "image": "https://cdnimg.xyz/images/anime/G/gantz.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 384,
+        "aniId": 384,
+        "deletedAt": null
+      },
+      "gantz-dub": {
+        "createdAt": "2020-10-12T16:00:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17805,
+        "identifier": "gantz-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gantz (Dub)",
+        "url": "https://gogoanime.vc/category/gantz-dub",
+        "image": "https://cdnimg.xyz/cover/gantz-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 384,
+        "aniId": 384,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "384": {
+        "identifier": "384",
+        "malId": 384,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gantz",
+        "url": "https://animixplay.to/anime/384"
+      }
+    },
+    "YugenAnime": {
+      "345": {
+        "identifier": "345",
+        "malId": 384,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gantz",
+        "url": "https://yugen.to/anime/345/gantz/"
+      }
+    }
+  }
+}

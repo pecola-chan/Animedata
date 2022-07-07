@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T23:10:35.000Z",
+  "checkedAt": "2022-05-14T23:10:35.000Z",
+  "id": 20945,
+  "type": "anime",
+  "title": "Iron Kid",
+  "altTitle": [
+    "Eon Kid",
+    "아이언 키드"
+  ],
+  "url": "https://myanimelist.net/anime/20945/Iron_Kid",
+  "image": "https://cdn.myanimelist.net/images/anime/13/55295.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://brbplay.com/en/shows/iron-kid-en"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13569"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Eon_Kid"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13569,
+  "Pages": {
+    "9anime": {
+      "843v": {
+        "createdAt": "2020-10-12T15:51:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3763,
+        "identifier": "843v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "IRON KID (Dub)",
+        "url": "https://9anime.to/watch/iron-kid-dub.843v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-517IIBN90e4/WLLiGQ65rHI/AAAAAAABeHc/skXhD4mI14k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20945,
+        "aniId": 102661,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "20945": {
+        "identifier": "20945",
+        "malId": 20945,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Iron Kid",
+        "url": "https://animixplay.to/anime/20945"
+      }
+    },
+    "YugenAnime": {
+      "7403": {
+        "identifier": "7403",
+        "malId": 20945,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Iron Kid",
+        "url": "https://yugen.to/anime/7403/iron-kid/"
+      }
+    }
+  }
+}

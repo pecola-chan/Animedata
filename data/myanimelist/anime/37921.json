@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T16:59:49.000Z",
+  "checkedAt": "2022-05-14T16:59:49.000Z",
+  "id": 37921,
+  "type": "anime",
+  "title": "ReLIFE: Kanketsu-hen Specials",
+  "altTitle": [
+    "Shagaihi ReLIFE Kenkyuusho Support-ka",
+    "ReLIFE Kanketsu-hen Special Smartphone Anime",
+    "Confidential Relife Institute Support Department",
+    "社外秘 リライフ研究所 サポート課"
+  ],
+  "url": "https://myanimelist.net/anime/37921/ReLIFE__Kanketsu-hen_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1563/93020.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13123"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13123,
+  "Pages": {
+    "9anime": {
+      "x30v": {
+        "createdAt": "2020-10-12T15:56:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10088,
+        "identifier": "x30v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ReLIFE: Kanketsu-hen Specials",
+        "url": "https://9anime.to/watch/relife-kanketsu-hen-specials.x30v",
+        "image": "https://static.akacdn.ru/static/images/2018/12/1d77579230f1e85b162a29a70d21722e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37921,
+        "aniId": 108939,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4606": {
+        "identifier": "4606",
+        "malId": 37921,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ReLIFE: Kanketsu-hen Specials",
+        "url": "https://animepahe.com/a/4606"
+      }
+    },
+    "AniMixPlay": {
+      "37921": {
+        "identifier": "37921",
+        "malId": 37921,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ReLIFE: Kanketsu-hen Specials",
+        "url": "https://animixplay.to/anime/37921"
+      }
+    }
+  }
+}

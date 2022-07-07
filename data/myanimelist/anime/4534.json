@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-05-18T15:57:50.000Z",
+  "checkedAt": "2022-05-18T15:57:50.000Z",
+  "id": 4534,
+  "type": "anime",
+  "title": "Choujin Locke: Shinsekai Sentai",
+  "altTitle": [
+    "Choujin Locke: Shin Sekai Sentai",
+    "Locke the Superman: New World Command",
+    "超人ロック 新世界戦隊"
+  ],
+  "url": "https://myanimelist.net/anime/4534/Choujin_Locke__Shinsekai_Sentai",
+  "image": "https://cdn.myanimelist.net/images/anime/6/85454.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/072/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1755"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=782"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Locke_the_Superman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1755,
+  "Pages": {
+    "9anime": {
+      "vj3l": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9337,
+        "identifier": "vj3l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Choujin Locke: Shinsekai Sentai",
+        "url": "https://9anime.to/watch/choujin-locke-shinsekai-sentai.vj3l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-b91PqbFAQIw/WG8zT4Na71I/AAAAAAABXTs/sVk6lESR2kM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4534,
+        "aniId": 4534,
+        "deletedAt": null
+      }
+    }
+  }
+}

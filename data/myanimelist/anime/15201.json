@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T17:04:23.000Z",
+  "checkedAt": "2022-05-14T17:04:23.000Z",
+  "id": 15201,
+  "type": "anime",
+  "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+  "altTitle": [
+    "Code Geass: Akito the Exiled - Memories of Hatred",
+    "コードギアス 亡国のアキト 第４章「憎しみの記憶から」"
+  ],
+  "url": "https://myanimelist.net/anime/15201/Code_Geass__Boukoku_no_Akito_4_-_Nikushimi_no_Kioku_kara",
+  "image": "https://cdn.myanimelist.net/images/anime/6/74757.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.geass.jp/akito/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7508"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13450"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Code_Geass#Akito_the_Exiled"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/code-geass-akito-the-exiled"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7508,
+  "Pages": {
+    "9anime": {
+      "6oj4": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3107,
+        "identifier": "6oj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara (Dub)",
+        "url": "https://9anime.to/watch/code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara-dub.6oj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OWBtwRrToGo/WVMec3lheUI/AAAAAAAAArM/mYGRKeVAeEwFQzXqqn7zzTdjYfaG4WtmQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15201,
+        "aniId": 15201,
+        "deletedAt": null
+      },
+      "kkxw": {
+        "createdAt": "2020-10-12T15:52:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5471,
+        "identifier": "kkxw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara",
+        "url": "https://9anime.to/watch/code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara.kkxw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-l8ukkh_UF3c/V6AEcjXZHQI/AAAAAAAAzoI/SvbrAPqgl5Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15201,
+        "aniId": 15201,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "922": {
+        "identifier": "922",
+        "malId": 15201,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+        "url": "https://animepahe.com/a/922"
+      }
+    },
+    "AniMixPlay": {
+      "15201": {
+        "identifier": "15201",
+        "malId": 15201,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+        "url": "https://animixplay.to/anime/15201"
+      }
+    }
+  }
+}

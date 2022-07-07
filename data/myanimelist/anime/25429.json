@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T15:59:09.000Z",
+  "checkedAt": "2022-05-14T15:59:09.000Z",
+  "id": 25429,
+  "type": "anime",
+  "title": "Isuca",
+  "altTitle": [
+    "Isuka",
+    "Isuca",
+    "ISUCA [イスカ]"
+  ],
+  "url": "https://myanimelist.net/anime/25429/Isuca",
+  "image": "https://cdn.myanimelist.net/images/anime/3/71767.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.isuca.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10692"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16128"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Isuca"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-264421"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10692,
+  "Pages": {
+    "9anime": {
+      "1n9m": {
+        "createdAt": "2020-10-12T15:49:14.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1032,
+        "identifier": "1n9m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Isuca",
+        "url": "https://9anime.to/watch/isuca.1n9m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OSq1K2XhpLk/V5GgualqeeI/AAAAAAAAxFU/OkuPI3jeS50/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25429,
+        "aniId": 20746,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "isuca": {
+        "createdAt": "2020-10-12T16:00:51.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18540,
+        "identifier": "isuca",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Isuca",
+        "url": "https://gogoanime.vc/category/isuca",
+        "image": "https://cdnimg.xyz/images/upload/166171.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25429,
+        "aniId": 20746,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "383": {
+        "identifier": "383",
+        "malId": 25429,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Isuca",
+        "url": "https://animepahe.com/a/383"
+      }
+    },
+    "AniMixPlay": {
+      "25429": {
+        "identifier": "25429",
+        "malId": 25429,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Isuca",
+        "url": "https://animixplay.to/anime/25429"
+      }
+    },
+    "YugenAnime": {
+      "765": {
+        "identifier": "765",
+        "malId": 25429,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Isuca",
+        "url": "https://yugen.to/anime/765/isuca/"
+      }
+    }
+  }
+}

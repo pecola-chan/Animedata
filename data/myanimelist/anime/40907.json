@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T16:36:35.000Z",
+  "checkedAt": "2022-05-14T16:36:35.000Z",
+  "id": 40907,
+  "type": "anime",
+  "title": "World Trigger 2nd Season",
+  "altTitle": [
+    "ワールドトリガー"
+  ],
+  "url": "https://myanimelist.net/anime/40907/World_Trigger_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1598/110462.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/wt/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15322"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23782"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_Trigger#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-263191"
+    },
+    {
+      "site": "animedigitalnetwork",
+      "url": "https://animedigitalnetwork.fr/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15322,
+  "Pages": {
+    "9anime": {
+      "9vv8": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4461,
+        "identifier": "9vv8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "World Trigger 2",
+        "url": "https://9anime.to/watch/world-trigger-2.9vv8",
+        "image": "https://static.akacdn.ru/files/images/2019/12/9d5011f965faf3942cd7c9f78eccff6f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40907,
+        "aniId": 114087,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "world-trigger-2nd-season": {
+        "createdAt": "2021-01-09T20:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33333,
+        "identifier": "world-trigger-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "World Trigger 2nd Season",
+        "url": "https://gogoanime.vc/category/world-trigger-2nd-season",
+        "image": "https://gogocdn.net/cover/world-trigger-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40907,
+        "aniId": 114087,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4175": {
+        "identifier": "4175",
+        "malId": 40907,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "World Trigger 2nd Season",
+        "url": "https://animepahe.com/a/4175"
+      }
+    },
+    "AniMixPlay": {
+      "40907": {
+        "identifier": "40907",
+        "malId": 40907,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "World Trigger 2nd Season",
+        "url": "https://animixplay.to/anime/40907"
+      }
+    },
+    "YugenAnime": {
+      "7117": {
+        "identifier": "7117",
+        "malId": 40907,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "World Trigger 2nd Season",
+        "url": "https://yugen.to/anime/7117/world-trigger-2nd-season/"
+      }
+    }
+  }
+}

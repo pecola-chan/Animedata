@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T20:32:53.000Z",
+  "checkedAt": "2022-05-14T20:32:53.000Z",
+  "id": 729,
+  "type": "anime",
+  "title": "Hiatari Ryoukou!",
+  "altTitle": [
+    "Hiatari Ryoukou",
+    "Sunny Ryoko",
+    "陽あたり良好！"
+  ],
+  "url": "https://myanimelist.net/anime/729/Hiatari_Ryoukou",
+  "image": "https://cdn.myanimelist.net/images/anime/12/29624.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mxtv.co.jp/hiatari/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3047"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1756"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hiatari_Ryōkō!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3047,
+  "Pages": {
+    "9anime": {
+      "9nqx": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4371,
+        "identifier": "9nqx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hiatari Ryoukou!",
+        "url": "https://9anime.to/watch/hiatari-ryoukou.9nqx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iEVX0OouaRc/WfArMBbRvKI/AAAAAAAADQs/103Suw-5dDcWdlHPwSmTAURtvFLoVb5TQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 729,
+        "aniId": 729,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hiatari-ryoukou": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18257,
+        "identifier": "hiatari-ryoukou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hiatari Ryoukou!",
+        "url": "https://gogoanime.vc/category/hiatari-ryoukou",
+        "image": "https://cdnimg.xyz/cover/hiatari-ryoukou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 729,
+        "aniId": 729,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "729": {
+        "identifier": "729",
+        "malId": 729,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hiatari Ryoukou!",
+        "url": "https://animixplay.to/anime/729"
+      }
+    },
+    "YugenAnime": {
+      "4546": {
+        "identifier": "4546",
+        "malId": 729,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hiatari Ryoukou!",
+        "url": "https://yugen.to/anime/4546/hiatari-ryoukou/"
+      }
+    }
+  }
+}

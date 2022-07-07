@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T19:33:17.000Z",
+  "checkedAt": "2022-05-14T19:33:17.000Z",
+  "id": 6676,
+  "type": "anime",
+  "title": "Asura Cryin' 2",
+  "altTitle": [
+    "アスラクライン 2"
+  ],
+  "url": "https://myanimelist.net/anime/6676/Asura_Cryin_2",
+  "image": "https://cdn.myanimelist.net/images/anime/9/50897.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/asura/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6769"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10932"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Asura_Cryin"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-119408"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6769,
+  "Pages": {
+    "9anime": {
+      "w1pl": {
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9601,
+        "identifier": "w1pl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asura Cryin' 2",
+        "url": "https://9anime.to/watch/asura-cryin-2.w1pl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dWcD--Z5hKY/V5YWRte4gqI/AAAAAAAAx7U/P8e7BsM_FEU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6676,
+        "aniId": 6676,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6676": {
+        "identifier": "6676",
+        "malId": 6676,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Asura Cryin' 2",
+        "url": "https://animixplay.to/anime/6676"
+      }
+    },
+    "YugenAnime": {
+      "921": {
+        "identifier": "921",
+        "malId": 6676,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Asura Cryin' 2",
+        "url": "https://yugen.to/anime/921/asura-cryin-2/"
+      }
+    }
+  }
+}

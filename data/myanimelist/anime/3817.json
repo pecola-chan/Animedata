@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-16T15:11:38.000Z",
+  "checkedAt": "2022-05-16T15:11:38.000Z",
+  "id": 3817,
+  "type": "anime",
+  "title": "Space Travelers The Animation",
+  "altTitle": [
+    "Space Travelers The Movie",
+    "Space Travelers",
+    "スペーストラベラーズ The Animation"
+  ],
+  "url": "https://myanimelist.net/anime/3817/Space_Travelers_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/3/61225.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1705"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=339"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Travelers:_The_Animation"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1705,
+  "Pages": {
+    "9anime": {
+      "l56z": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5855,
+        "identifier": "l56z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Space Travelers The Animation (Dub)",
+        "url": "https://9anime.to/watch/space-travelers-the-animation-dub.l56z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-emlO0SMGcMY/WOyy7yecm-I/AAAAAAAAhGg/DYUYi053e4o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3817,
+        "aniId": 3817,
+        "deletedAt": null
+      },
+      "m56x": {
+        "createdAt": "2020-10-12T15:53:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6412,
+        "identifier": "m56x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Space Travelers The Animation",
+        "url": "https://9anime.to/watch/space-travelers-the-animation.m56x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gm83BxgCR_A/WOyy8Oqfv_I/AAAAAAAAhGk/DrbXawLL3HY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3817,
+        "aniId": 3817,
+        "deletedAt": null
+      }
+    }
+  }
+}

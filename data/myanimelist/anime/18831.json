@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-14T19:21:17.000Z",
+  "checkedAt": "2022-05-14T19:21:17.000Z",
+  "id": 18831,
+  "type": "anime",
+  "title": "Rinkaku",
+  "altTitle": [
+    "輪郭"
+  ],
+  "url": "https://myanimelist.net/anime/18831/Rinkaku",
+  "image": "https://cdn.myanimelist.net/images/anime/12/50283.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.direngrey.co.jp/yoyaku.html#art"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rinkaku_(song)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "35w2": {
+        "createdAt": "2020-10-12T15:49:43.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1716,
+        "identifier": "35w2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rinkaku",
+        "url": "https://9anime.to/watch/rinkaku.35w2",
+        "image": "http://static.akacdn.ru/static/images/2018/03/05b086b7980a5183dd593dd289c1e823.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18831,
+        "aniId": 18831,
+        "deletedAt": null
+      }
+    }
+  }
+}

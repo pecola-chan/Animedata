@@ -1,0 +1,134 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T18:31:29.000Z",
+  "checkedAt": "2022-05-14T18:31:29.000Z",
+  "id": 14045,
+  "type": "anime",
+  "title": "Mangirl!",
+  "altTitle": [
+    "まんがーる!"
+  ],
+  "url": "https://myanimelist.net/anime/14045/Mangirl",
+  "image": "https://cdn.myanimelist.net/images/anime/6/45314.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mangirl.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9207"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14325"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mangirl!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-251501"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9207,
+  "Pages": {
+    "9anime": {
+      "8x3n": {
+        "createdAt": "2020-10-12T15:51:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4064,
+        "identifier": "8x3n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mangirl!",
+        "url": "https://9anime.to/watch/mangirl.8x3n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--g45UNjQx0g/V63XbimHNeI/AAAAAAAA2oE/8-AgK86xsgA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14045,
+        "aniId": 14045,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mangirl": {
+        "createdAt": "2020-11-20T18:20:58.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29460,
+        "identifier": "mangirl",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mangirl!",
+        "url": "https://gogoanime.vc/category/mangirl",
+        "image": "https://gogocdn.net/images/anime/M/mangirl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14045,
+        "aniId": 14045,
+        "deletedAt": null
+      },
+      "mangirl-ova": {
+        "createdAt": "2021-06-21T07:31:58.000Z",
+        "updatedAt": "2021-06-21T07:50:51.000Z",
+        "checkedAt": null,
+        "id": 37484,
+        "identifier": "mangirl-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mangirl! OVA",
+        "url": "https://gogoanime.vc/category/mangirl-ova",
+        "image": "https://gogocdn.net/images/anime/M/mangirl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14045,
+        "aniId": 14045,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2651": {
+        "identifier": "2651",
+        "malId": 14045,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mangirl!",
+        "url": "https://animepahe.com/a/2651"
+      }
+    },
+    "AniMixPlay": {
+      "14045": {
+        "identifier": "14045",
+        "malId": 14045,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mangirl!",
+        "url": "https://animixplay.to/anime/14045"
+      }
+    },
+    "YugenAnime": {
+      "1771": {
+        "identifier": "1771",
+        "malId": 14045,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mangirl!",
+        "url": "https://yugen.to/anime/1771/mangirl/"
+      }
+    }
+  }
+}

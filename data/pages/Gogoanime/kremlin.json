@@ -1,0 +1,65 @@
+{
+  "createdAt": "2021-05-03T13:32:03.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36853,
+  "identifier": "kremlin",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kremlin",
+  "url": "https://gogoanime.vc/category/kremlin",
+  "image": "https://gogocdn.net/cover/kremlin.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 15389,
+  "aniId": 15389,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:15.000Z",
+    "updatedAt": "2022-05-15T01:34:47.000Z",
+    "checkedAt": "2022-05-15T01:34:47.000Z",
+    "id": 15389,
+    "type": "anime",
+    "title": "Kremlin",
+    "altTitle": [
+      "クレムリン"
+    ],
+    "url": "https://myanimelist.net/anime/15389/Kremlin",
+    "image": "https://cdn.myanimelist.net/images/anime/5/42271.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9382"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9382
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:22.000Z",
+    "updatedAt": "2022-05-16T22:52:10.000Z",
+    "checkedAt": "2022-05-16T22:52:10.000Z",
+    "id": 15389,
+    "type": "anime",
+    "title": "Kremlin",
+    "altTitle": [
+      "クレムリン"
+    ],
+    "url": "https://anilist.co/anime/15389",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15389.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 15389,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-14T14:42:05.000Z",
+  "checkedAt": "2022-05-14T14:42:05.000Z",
+  "id": 35241,
+  "type": "anime",
+  "title": "Konohana Kitan",
+  "altTitle": [
+    "Konohana Kitan",
+    "このはな綺譚"
+  ],
+  "url": "https://myanimelist.net/anime/35241/Konohana_Kitan",
+  "image": "https://cdn.myanimelist.net/images/anime/3/88431.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://konohanatei.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13030"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19812"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A4%E8%8A%B1%E4%BA%AD%E5%A5%87%E8%AD%9A"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274411"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/konohana-kitan"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13030,
+  "Pages": {
+    "9anime": {
+      "1jxx": {
+        "createdAt": "2020-10-12T15:49:12.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 961,
+        "identifier": "1jxx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Konohana Kitan",
+        "url": "https://9anime.to/watch/konohana-kitan.1jxx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EKpxknmGvIE/WZG3CKJcv4I/AAAAAAAAB4A/SFHzdEtLMcoqHwtNEi6Ms9cLFCAXZV1GQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35241,
+        "aniId": 98506,
+        "deletedAt": null
+      },
+      "j714": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4758,
+        "identifier": "j714",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Konohana Kitan (Dub)",
+        "url": "https://9anime.to/watch/konohana-kitan-dub.j714",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-m-nAHBVqsns/WglxWNR_HvI/AAAAAAAAEhc/2Eb61AM2WZAU1J1ghjd8ekrh_-7UItLfQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35241,
+        "aniId": 98506,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "konohana-kitan": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18953,
+        "identifier": "konohana-kitan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Konohana Kitan",
+        "url": "https://gogoanime.vc/category/konohana-kitan",
+        "image": "https://images.gogoanime.tv/cover/konohana-kitan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35241,
+        "aniId": 98506,
+        "deletedAt": null
+      },
+      "konohana-kitan-dub": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18954,
+        "identifier": "konohana-kitan-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Konohana Kitan (Dub)",
+        "url": "https://gogoanime.vc/category/konohana-kitan-dub",
+        "image": "https://images.gogoanime.tv/cover/konohana-kitan-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35241,
+        "aniId": 98506,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2277": {
+        "identifier": "2277",
+        "malId": 35241,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Konohana Kitan",
+        "url": "https://animepahe.com/a/2277"
+      }
+    },
+    "AniMixPlay": {
+      "35241": {
+        "identifier": "35241",
+        "malId": 35241,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Konohana Kitan",
+        "url": "https://animixplay.to/anime/35241"
+      }
+    },
+    "YugenAnime": {
+      "2959": {
+        "identifier": "2959",
+        "malId": 35241,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Konohana Kitan",
+        "url": "https://yugen.to/anime/2959/konohana-kitan/"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T23:41:53.000Z",
+  "checkedAt": "2022-05-14T23:41:53.000Z",
+  "id": 33685,
+  "type": "anime",
+  "title": "Cyborg 009: Call of Justice 1",
+  "altTitle": [
+    "CYBORG009 CALL OF JUSTICE 第1章"
+  ],
+  "url": "https://myanimelist.net/anime/33685/Cyborg_009__Call_of_Justice_1",
+  "image": "https://cdn.myanimelist.net/images/anime/11/81018.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cyborg009.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12277"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18841"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%B0009_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12277,
+  "Pages": {
+    "9anime": {
+      "kj36": {
+        "createdAt": "2020-10-12T15:52:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5423,
+        "identifier": "kj36",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cyborg 009: Call of Justice 1",
+        "url": "https://9anime.to/watch/cyborg-009-call-of-justice-1.kj36",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wubPx6pek1Q/WKZ_Jrpw64I/AAAAAAABdEE/2N07TmaQLAo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33685,
+        "aniId": 87481,
+        "deletedAt": null
+      },
+      "z6ll": {
+        "createdAt": "2020-10-12T15:57:06.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11055,
+        "identifier": "z6ll",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cyborg 009: Call of Justice 1 (Dub)",
+        "url": "https://9anime.to/watch/cyborg-009-call-of-justice-1-dub.z6ll",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vCBC9nfd4-8/WKEaNLhineI/AAAAAAABcv4/ptFWoOGK9KA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33685,
+        "aniId": 87481,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33685": {
+        "identifier": "33685",
+        "malId": 33685,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cyborg 009: Call of Justice 1",
+        "url": "https://animixplay.to/anime/33685"
+      }
+    }
+  }
+}

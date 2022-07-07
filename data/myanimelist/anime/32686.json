@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T10:13:29.000Z",
+  "checkedAt": "2022-05-14T10:13:29.000Z",
+  "id": 32686,
+  "type": "anime",
+  "title": "Keijo!!!!!!!!",
+  "altTitle": [
+    "Keijo!!!!!!!!",
+    "競女!!!!!!!!"
+  ],
+  "url": "https://myanimelist.net/anime/32686/Keijo",
+  "image": "https://cdn.myanimelist.net/images/anime/10/81906.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://keijollllllll.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11922"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18413"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Keijo!!!!!!!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271513"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/keijo"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11922,
+  "Pages": {
+    "9anime": {
+      "3xo9": {
+        "createdAt": "2020-10-12T15:49:56.000Z",
+        "updatedAt": "2022-05-16T15:15:38.000Z",
+        "checkedAt": "2022-05-16T15:15:19.000Z",
+        "id": 1974,
+        "identifier": "3xo9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keijo!!!!!!!!",
+        "url": "https://9anime.to/watch/keijo.3xo9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/02/1771f24f6487359aec2ce1507d9aaf7d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32686,
+        "aniId": 21639,
+        "deletedAt": null
+      },
+      "n81j": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2022-05-16T15:15:53.000Z",
+        "checkedAt": "2022-05-16T15:15:31.000Z",
+        "id": 7017,
+        "identifier": "n81j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keijo!!!!!!!! (Dub)",
+        "url": "https://9anime.to/watch/keijo-dub.n81j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/07/07d1f21834249d6bb8ca2c6bda287aea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32686,
+        "aniId": 21639,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "keijo": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2022-05-16T15:16:05.000Z",
+        "checkedAt": "2022-05-16T15:15:43.000Z",
+        "id": 18759,
+        "identifier": "keijo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keijo!!!!!!!!",
+        "url": "https://gogoanime.sk/category/keijo",
+        "image": "https://gogocdn.net/cover/keijo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32686,
+        "aniId": 21639,
+        "deletedAt": null
+      },
+      "keijo-dub": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2022-05-16T15:16:20.000Z",
+        "checkedAt": "2022-05-16T15:15:55.000Z",
+        "id": 18760,
+        "identifier": "keijo-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keijo!!!!!!!! (Dub)",
+        "url": "https://gogoanime.sk/category/keijo-dub",
+        "image": "https://gogocdn.net/cover/keijo-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32686,
+        "aniId": 21639,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1357": {
+        "identifier": "1357",
+        "malId": 32686,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Keijo!!!!!!!!",
+        "url": "https://animepahe.com/a/1357"
+      }
+    },
+    "AniMixPlay": {
+      "32686": {
+        "identifier": "32686",
+        "malId": 32686,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keijo!!!!!!!!",
+        "url": "https://animixplay.to/anime/32686"
+      }
+    },
+    "YugenAnime": {
+      "2103": {
+        "identifier": "2103",
+        "malId": 32686,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Keijo!!!!!!!!",
+        "url": "https://yugen.to/anime/2103/keijo/"
+      }
+    }
+  }
+}

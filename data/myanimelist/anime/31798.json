@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:40.000Z",
+  "updatedAt": "2022-05-14T10:15:51.000Z",
+  "checkedAt": "2022-05-14T10:15:51.000Z",
+  "id": 31798,
+  "type": "anime",
+  "title": "Kiznaiver",
+  "altTitle": [
+    "Kiznaiver",
+    "キズナイーバー"
+  ],
+  "url": "https://myanimelist.net/anime/31798/Kiznaiver",
+  "image": "https://cdn.myanimelist.net/images/anime/6/78466.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kiznaiver.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11692"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17706"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kiznaiver"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-262165"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11692,
+  "Pages": {
+    "9anime": {
+      "vr0v": {
+        "createdAt": "2020-10-12T15:55:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9437,
+        "identifier": "vr0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiznaiver (Dub)",
+        "url": "https://9anime.to/watch/kiznaiver-dub.vr0v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/483078966a082b9bb66557d4fa6b29b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31798,
+        "aniId": 21421,
+        "deletedAt": null
+      },
+      "w1jo": {
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-07-31T06:52:15.000Z",
+        "checkedAt": null,
+        "id": 9595,
+        "identifier": "w1jo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiznaiver",
+        "url": "https://9anime.to/watch/kiznaiver.w1jo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/6f8e89d344e44bbaef850f70d61b78f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31798,
+        "aniId": 21421,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kiznaiver": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18887,
+        "identifier": "kiznaiver",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kiznaiver",
+        "url": "https://gogoanime.vc/category/kiznaiver",
+        "image": "https://images.gogoanime.tv/cover/kiznaiver.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31798,
+        "aniId": 21421,
+        "deletedAt": null
+      },
+      "kiznaiver-dub": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18888,
+        "identifier": "kiznaiver-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kiznaiver (Dub)",
+        "url": "https://gogoanime.vc/category/kiznaiver-dub",
+        "image": "https://cdnimg.xyz/cover/kiznaiver-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31798,
+        "aniId": 21421,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "878": {
+        "identifier": "878",
+        "malId": 31798,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kiznaiver",
+        "url": "https://animepahe.com/a/878"
+      }
+    },
+    "AniMixPlay": {
+      "31798": {
+        "identifier": "31798",
+        "malId": 31798,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kiznaiver",
+        "url": "https://animixplay.to/anime/31798"
+      }
+    },
+    "YugenAnime": {
+      "232": {
+        "identifier": "232",
+        "malId": 31798,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kiznaiver",
+        "url": "https://yugen.to/anime/232/kiznaiver/"
+      }
+    }
+  }
+}

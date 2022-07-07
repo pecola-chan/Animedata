@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T20:35:05.000Z",
+  "checkedAt": "2022-05-14T20:35:05.000Z",
+  "id": 1524,
+  "type": "anime",
+  "title": "Fuujin Monogatari",
+  "altTitle": [
+    "Windy Tales",
+    "風人物語"
+  ],
+  "url": "https://myanimelist.net/anime/1524/Fuujin_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/4/50349.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.windy-tales.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1759"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3447"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Windy_Tales"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1759,
+  "Pages": {
+    "9anime": {
+      "ww04": {
+        "createdAt": "2020-10-12T15:56:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9932,
+        "identifier": "ww04",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fuujin Monogatari",
+        "url": "https://9anime.to/watch/fuujin-monogatari.ww04",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-in87Dq-AcvY/V9Dn9M_KsZI/AAAAAAAA8WI/-rfE-SWNvRI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1524,
+        "aniId": 1524,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fuujin-monogatari": {
+        "createdAt": "2021-11-17T11:17:02.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
+        "checkedAt": null,
+        "id": 39219,
+        "identifier": "fuujin-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fuujin Monogatari",
+        "url": "https://gogoanime.cm/category/fuujin-monogatari",
+        "image": "https://gogocdn.net/cover/fuujin-monogatari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1524,
+        "aniId": 1524,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2065": {
+        "identifier": "2065",
+        "malId": 1524,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fuujin Monogatari",
+        "url": "https://animepahe.com/a/2065"
+      }
+    },
+    "AniMixPlay": {
+      "1524": {
+        "identifier": "1524",
+        "malId": 1524,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fuujin Monogatari",
+        "url": "https://animixplay.to/anime/1524"
+      }
+    },
+    "YugenAnime": {
+      "11349": {
+        "identifier": "11349",
+        "malId": 1524,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fuujin Monogatari",
+        "url": "https://yugen.to/anime/11349/fuujin-monogatari/"
+      }
+    }
+  }
+}

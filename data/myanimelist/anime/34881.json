@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T14:41:23.000Z",
+  "checkedAt": "2022-05-14T14:41:23.000Z",
+  "id": 34881,
+  "type": "anime",
+  "title": "Aho Girl",
+  "altTitle": [
+    "Ahogaru: Clueless Girl",
+    "Dummy Girl",
+    "AHO-GIRL",
+    "アホガール"
+  ],
+  "url": "https://myanimelist.net/anime/34881/Aho_Girl",
+  "image": "https://cdn.myanimelist.net/images/anime/7/86665.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ahogirl.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12803"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19022"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%82%AC%E3%83%BC%E3%83%AB"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273665"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12803,
+  "Pages": {
+    "9anime": {
+      "78jy": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3394,
+        "identifier": "78jy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aho Girl",
+        "url": "https://9anime.to/watch/aho-girl.78jy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-z4XBl-98SqY/WVxIZa2yXSI/AAAAAAAABS0/y12_ajj2gMEdHhd_6HdW4t81TRrZclttQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34881,
+        "aniId": 98251,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aho-girl": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16401,
+        "identifier": "aho-girl",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aho Girl",
+        "url": "https://gogoanime.vc/category/aho-girl",
+        "image": "https://images.gogoanime.tv/cover/aho-girl.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34881,
+        "aniId": 98251,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2219": {
+        "identifier": "2219",
+        "malId": 34881,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aho Girl",
+        "url": "https://animepahe.com/a/2219"
+      }
+    },
+    "AniMixPlay": {
+      "34881": {
+        "identifier": "34881",
+        "malId": 34881,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aho Girl",
+        "url": "https://animixplay.to/anime/34881"
+      }
+    },
+    "YugenAnime": {
+      "187": {
+        "identifier": "187",
+        "malId": 34881,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aho Girl",
+        "url": "https://yugen.to/anime/187/aho-girl/"
+      }
+    }
+  }
+}

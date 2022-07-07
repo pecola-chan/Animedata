@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T22:03:05.000Z",
+  "checkedAt": "2022-05-14T22:03:05.000Z",
+  "id": 7062,
+  "type": "anime",
+  "title": "Hidamari Sketch x ☆☆☆",
+  "altTitle": [
+    "Hidamari Sketch x Hoshi Mittsu, Hidamari Sketch 3rd Season",
+    "ひだまりスケッチ×☆☆☆"
+  ],
+  "url": "https://myanimelist.net/anime/7062/Hidamari_Sketch_x_☆☆☆",
+  "image": "https://cdn.myanimelist.net/images/anime/9/22349.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/hidamari/3rd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7128"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11047"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hidamari_Sketch"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/hidamari-sketch-hoshimittsu"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7128,
+  "Pages": {
+    "9anime": {
+      "jvr4": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5047,
+        "identifier": "jvr4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hidamari Sketch x ☆☆☆",
+        "url": "https://9anime.to/watch/hidamari-sketch-x.jvr4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-o53fo5AGM3s/WEARAiTxhhI/AAAAAAABRGU/SZibX06EwAA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7062,
+        "aniId": 7062,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hidamari-sketch-x-hoshimittsu": {
+        "createdAt": "2021-07-04T03:13:30.000Z",
+        "updatedAt": "2021-07-04T03:29:50.000Z",
+        "checkedAt": null,
+        "id": 37637,
+        "identifier": "hidamari-sketch-x-hoshimittsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hidamari Sketch x Hoshimittsu",
+        "url": "https://gogoanime.pe/category/hidamari-sketch-x-hoshimittsu",
+        "image": "https://gogocdn.net/images/anime/H/hidamari-sketch-x-hoshimittsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7062,
+        "aniId": 7062,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "394": {
+        "identifier": "394",
+        "malId": 7062,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hidamari Sketch x ☆☆☆",
+        "url": "https://animepahe.com/a/394"
+      }
+    },
+    "AniMixPlay": {
+      "7062": {
+        "identifier": "7062",
+        "malId": 7062,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hidamari Sketch x ☆☆☆",
+        "url": "https://animixplay.to/anime/7062"
+      }
+    }
+  }
+}

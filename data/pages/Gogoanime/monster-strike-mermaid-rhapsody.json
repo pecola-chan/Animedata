@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T17:48:36.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23655,
+  "identifier": "monster-strike-mermaid-rhapsody",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Monster Strike: Mermaid Rhapsody",
+  "url": "https://gogoanime.vc/category/monster-strike-mermaid-rhapsody",
+  "image": "https://gogocdn.net/cover/monster-strike-mermaid-rhapsody.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 33546,
+  "aniId": 98094,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:47.000Z",
+    "updatedAt": "2022-05-15T01:15:55.000Z",
+    "checkedAt": "2022-05-15T01:15:55.000Z",
+    "id": 33546,
+    "type": "anime",
+    "title": "Monster Strike: Mermaid Rhapsody",
+    "altTitle": [
+      "Monster Strike Summer Special",
+      "Monster Strike: Mermaid Rhapsody",
+      "モンスターストライク『マーメイド・ラプソディ』"
+    ],
+    "url": "https://myanimelist.net/anime/33546/Monster_Strike__Mermaid_Rhapsody",
+    "image": "https://cdn.myanimelist.net/images/anime/8/80678.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http:// http://anime.monster-strike.com/news/news_072.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11238"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monster_Strike"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11238
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:09.000Z",
+    "updatedAt": "2022-05-15T19:25:47.000Z",
+    "checkedAt": "2022-05-15T19:25:47.000Z",
+    "id": 98094,
+    "type": "anime",
+    "title": "Monster Strike: Mermaid Rhapsody",
+    "altTitle": [
+      "Monster Strike the Animation: Summer Special - Mermaid Rhapsody",
+      "モンスターストライク『マーメイド・ラプソディ』"
+    ],
+    "url": "https://anilist.co/anime/98094",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98094-gg1IiLJTrhJ6.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 33546,
+    "deletedAt": null
+  }
+}

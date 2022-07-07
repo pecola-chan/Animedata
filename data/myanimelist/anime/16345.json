@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-28T22:17:29.000Z",
+  "checkedAt": "2022-05-28T22:17:29.000Z",
+  "id": 16345,
+  "type": "anime",
+  "title": "Ninkuu: Knife no Bohyou",
+  "altTitle": [
+    "Ninku: Knife no Bohyou",
+    "NINKŪ－忍空－「ナイフの墓標」"
+  ],
+  "url": "https://myanimelist.net/anime/16345/Ninkuu__Knife_no_Bohyou",
+  "image": "https://cdn.myanimelist.net/images/anime/10/44468.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3209"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/NINKU_-忍空-_ナイフの墓標"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3209,
+  "Pages": {
+    "9anime": {
+      "jlv4": {
+        "createdAt": "2020-10-12T15:52:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4912,
+        "identifier": "jlv4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninku: Knife no Bohyou",
+        "url": "https://9anime.to/watch/ninku-knife-no-bohyou.jlv4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XeuShD4CqBA/V9irR9e6KkI/AAAAAAAA96Q/auDS_R8Xw6Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16345,
+        "aniId": 16345,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16345": {
+        "identifier": "16345",
+        "malId": 16345,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ninkuu: Knife no Bohyou",
+        "url": "https://animixplay.to/anime/16345"
+      }
+    },
+    "YugenAnime": {
+      "2021": {
+        "identifier": "2021",
+        "malId": 16345,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ninkuu: Knife no Bohyou",
+        "url": "https://yugen.to/anime/2021/ninku-knife-no-bohyou/"
+      }
+    }
+  }
+}

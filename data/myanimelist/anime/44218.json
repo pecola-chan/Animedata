@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-12-06T18:10:19.000Z",
+  "updatedAt": "2022-05-14T17:34:58.000Z",
+  "checkedAt": "2022-05-14T17:34:58.000Z",
+  "id": 44218,
+  "type": "anime",
+  "title": "Tunshi Xingkong",
+  "altTitle": [
+    "Swallowed Star",
+    "吞噬星空"
+  ],
+  "url": "https://myanimelist.net/anime/44218/Tunshi_Xingkong",
+  "image": "https://cdn.myanimelist.net/images/anime/1188/110437.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/3/324olz7ilvo2j5f.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/吞噬星空/22546021"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "tunshi-xingkong": {
+        "createdAt": "2020-11-30T08:52:22.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29605,
+        "identifier": "tunshi-xingkong",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tunshi Xingkong",
+        "url": "https://gogoanime.vc/category/tunshi-xingkong",
+        "image": "https://gogocdn.net/cover/tunshi-xingkong.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 44218,
+        "aniId": 117012,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "ynoj": {
+        "createdAt": "2020-12-09T14:00:40.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29825,
+        "identifier": "ynoj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tunshi Xingkong",
+        "url": "https://9anime.to/watch/swallowed-star.ynoj",
+        "image": "//static.9anime.to/i/cache/images/d/dc/dca400829af7bc4659debf3cc5e858ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44218,
+        "aniId": 117012,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44218": {
+        "identifier": "44218",
+        "malId": 44218,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tunshi Xingkong",
+        "url": "https://animixplay.to/anime/44218"
+      }
+    },
+    "YugenAnime": {
+      "6626": {
+        "identifier": "6626",
+        "malId": 44218,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tunshi Xingkong",
+        "url": "https://yugen.to/anime/6626/tunshi-xingkong/"
+      }
+    }
+  }
+}

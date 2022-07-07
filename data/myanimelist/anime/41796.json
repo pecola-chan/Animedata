@@ -1,0 +1,43 @@
+{
+  "createdAt": "2021-08-17T19:38:13.000Z",
+  "updatedAt": "2022-04-04T08:03:43.000Z",
+  "checkedAt": null,
+  "id": 41796,
+  "type": "anime",
+  "title": "Omukaisan",
+  "altTitle": [
+    "Face to Face",
+    "お向かいさん"
+  ],
+  "url": "https://myanimelist.net/anime/41796/Omukaisan",
+  "image": "https://cdn.myanimelist.net/images/anime/1711/107234.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "2o2y0": {
+        "createdAt": "2021-08-17T19:38:11.000Z",
+        "updatedAt": "2021-08-17T20:06:59.000Z",
+        "checkedAt": null,
+        "id": 38344,
+        "identifier": "2o2y0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Omukaisan",
+        "url": "https://9anime.to/watch/face-to-face.2o2y0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8f/8f58fa221cece822b67592bb12d4df18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41796,
+        "aniId": 116250,
+        "deletedAt": null
+      }
+    }
+  }
+}

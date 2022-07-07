@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T16:01:59.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20884,
+  "identifier": "superflat-monogram",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Superflat Monogram",
+  "url": "https://gogoanime.vc/category/superflat-monogram",
+  "image": "https://gogocdn.net/cover/superflat-monogram.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2290,
+  "aniId": 2290,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-15T00:37:29.000Z",
+    "checkedAt": "2022-05-15T00:37:29.000Z",
+    "id": 2290,
+    "type": "anime",
+    "title": "Superflat Monogram",
+    "altTitle": [
+      "すーぱーふらっと・ものぐらむ"
+    ],
+    "url": "https://myanimelist.net/anime/2290/Superflat_Monogram",
+    "image": "https://cdn.myanimelist.net/images/anime/10/23729.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5057"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5340"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/SUPERFLAT_MONOGRAM"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5057
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2022-05-15T20:16:11.000Z",
+    "checkedAt": "2022-05-15T20:16:11.000Z",
+    "id": 2290,
+    "type": "anime",
+    "title": "Superflat Monogram",
+    "altTitle": [
+      "すーぱーふらっと・ものぐらむ"
+    ],
+    "url": "https://anilist.co/anime/2290",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2290.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2290,
+    "deletedAt": null
+  }
+}

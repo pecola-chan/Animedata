@@ -1,0 +1,83 @@
+{
+  "createdAt": "2021-10-18T09:29:16.000Z",
+  "updatedAt": "2022-05-31T14:04:12.000Z",
+  "checkedAt": "2022-05-31T14:04:12.000Z",
+  "id": 43387,
+  "type": "anime",
+  "title": "Dalbitkungkwol",
+  "altTitle": [
+    "Lost in the Moonlight",
+    "달빛궁궐"
+  ],
+  "url": "https://myanimelist.net/anime/43387/Dalbitkungkwol",
+  "image": "https://cdn.myanimelist.net/images/anime/1639/109722.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12380"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8B%AC%EB%B9%9B%EA%B6%81%EA%B6%90"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12380,
+  "Pages": {
+    "9anime": {
+      "zlll3": {
+        "createdAt": "2021-10-18T09:29:15.000Z",
+        "updatedAt": "2021-10-18T09:29:16.000Z",
+        "checkedAt": null,
+        "id": 39049,
+        "identifier": "zlll3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dalbitkungkwol",
+        "url": "https://9anime.to/watch/lost-in-the-moonlight.zlll3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/34/34238d40f7a14206d8de3cf07a9a60a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43387,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dalbitkungkwol": {
+        "createdAt": "2021-12-22T04:51:58.000Z",
+        "updatedAt": "2021-12-22T04:52:08.000Z",
+        "checkedAt": null,
+        "id": 39524,
+        "identifier": "dalbitkungkwol",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dalbitkungkwol",
+        "url": "https://gogoanime.cm/category/dalbitkungkwol",
+        "image": "https://gogocdn.net/cover/dalbitkungkwol.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43387,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11445": {
+        "identifier": "11445",
+        "malId": 43387,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dalbitkungkwol",
+        "url": "https://yugen.to/anime/11445/dalbitkungkwol/"
+      }
+    }
+  }
+}

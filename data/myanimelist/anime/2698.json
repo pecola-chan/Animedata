@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T23:40:41.000Z",
+  "checkedAt": "2022-05-14T23:40:41.000Z",
+  "id": 2698,
+  "type": "anime",
+  "title": "Sanctuary",
+  "altTitle": [
+    "Sanctuary",
+    "サンクチュアリ"
+  ],
+  "url": "https://myanimelist.net/anime/2698/Sanctuary",
+  "image": "https://cdn.myanimelist.net/images/anime/1795/105898.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3439"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2481"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sanctuary_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3439,
+  "Pages": {
+    "9anime": {
+      "5nr9": {
+        "createdAt": "2020-10-12T15:50:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2704,
+        "identifier": "5nr9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sanctuary",
+        "url": "https://9anime.to/watch/sanctuary.5nr9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fo67pLbsHAM/WR0HexzPrsI/AAAAAAAAoSs/kbwLPJvaIXgNv3NvJFJ9F7A3CODwZm_1QCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2698,
+        "aniId": 2698,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2698": {
+        "identifier": "2698",
+        "malId": 2698,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sanctuary",
+        "url": "https://animixplay.to/anime/2698"
+      }
+    },
+    "YugenAnime": {
+      "939": {
+        "identifier": "939",
+        "malId": 2698,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sanctuary",
+        "url": "https://yugen.to/anime/939/angel-sanctuary/"
+      }
+    }
+  }
+}

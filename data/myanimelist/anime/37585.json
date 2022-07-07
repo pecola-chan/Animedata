@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T10:32:10.000Z",
+  "checkedAt": "2022-05-14T10:32:10.000Z",
+  "id": 37585,
+  "type": "anime",
+  "title": "Yarichin☆Bitch-bu",
+  "altTitle": [
+    "Yarichin☆Bitch Club",
+    "ヤリチン☆ビッチ部"
+  ],
+  "url": "https://myanimelist.net/anime/37585/Yarichin☆Bitch-bu",
+  "image": "https://cdn.myanimelist.net/images/anime/1431/91369.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yaribu.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13972"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21142"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%AA%E3%83%81%E3%83%B3%E2%98%86%E3%83%93%E3%83%83%E3%83%81%E9%83%A8"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13972,
+  "Pages": {
+    "9anime": {
+      "z7nw": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11078,
+        "identifier": "z7nw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yarichin☆Bitch-bu",
+        "url": "https://9anime.to/watch/yarichinbitch-bu.z7nw",
+        "image": "http://static.akacdn.ru/static/images/2018/06/6c91a3a5a58a3232ce30d8fa161c0af3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37585,
+        "aniId": 101374,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37585": {
+        "identifier": "37585",
+        "malId": 37585,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yarichin☆Bitch-bu",
+        "url": "https://animixplay.to/anime/37585"
+      }
+    }
+  }
+}

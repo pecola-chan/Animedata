@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T16:54:23.000Z",
+  "checkedAt": "2022-05-14T16:54:23.000Z",
+  "id": 32454,
+  "type": "anime",
+  "title": "Usakame",
+  "altTitle": [
+    "Usakame",
+    "うさかめ"
+  ],
+  "url": "https://myanimelist.net/anime/32454/Usakame",
+  "image": "https://cdn.myanimelist.net/images/anime/10/79223.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nemumi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11865"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17972"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269959"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11865,
+  "Pages": {
+    "9anime": {
+      "yvj0": {
+        "createdAt": "2020-10-12T15:56:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10855,
+        "identifier": "yvj0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usakame",
+        "url": "https://9anime.to/watch/usakame.yvj0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-g40bf5Uw8Pg/V6v1hJD02yI/AAAAAAAA2Jc/3k7twEqHJ0U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32454,
+        "aniId": 21570,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "usakame": {
+        "createdAt": "2021-01-07T12:50:40.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33160,
+        "identifier": "usakame",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Usakame",
+        "url": "https://gogoanime.vc/category/usakame",
+        "image": "https://gogocdn.net/cover/usakame.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32454,
+        "aniId": 21570,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "913": {
+        "identifier": "913",
+        "malId": 32454,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Usakame",
+        "url": "https://animepahe.com/a/913"
+      }
+    },
+    "AniMixPlay": {
+      "32454": {
+        "identifier": "32454",
+        "malId": 32454,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Usakame",
+        "url": "https://animixplay.to/anime/32454"
+      }
+    },
+    "YugenAnime": {
+      "274": {
+        "identifier": "274",
+        "malId": 32454,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Usakame",
+        "url": "https://yugen.to/anime/274/usakame/"
+      }
+    }
+  }
+}

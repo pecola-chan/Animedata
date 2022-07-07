@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-06-12T09:08:52.000Z",
+  "updatedAt": "2021-06-12T09:38:18.000Z",
+  "checkedAt": null,
+  "id": 37348,
+  "identifier": "tegami-bachi-omakebachi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tegami Bachi: Omakebachi",
+  "url": "https://gogoanime.vc/category/tegami-bachi-omakebachi",
+  "image": "https://gogocdn.net/cover/tegami-bachi-omakebachi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 9673,
+  "aniId": 9673,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:03.000Z",
+    "updatedAt": "2022-05-15T01:05:35.000Z",
+    "checkedAt": "2022-05-15T01:05:35.000Z",
+    "id": 9673,
+    "type": "anime",
+    "title": "Tegamibachi: Omakebachi",
+    "altTitle": [
+      "Omakebachi",
+      "Tegami Bachi Reverse Specials",
+      "Ura Tegamibachi",
+      "Letter Bee Reverse Specials",
+      "裏テガミバチ"
+    ],
+    "url": "https://myanimelist.net/anime/9673/Tegamibachi__Omakebachi",
+    "image": "https://cdn.myanimelist.net/images/anime/2/26809.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ani.tv/tegamibachi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7458"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tegami_Bachi"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7458
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:06.000Z",
+    "updatedAt": "2022-05-15T14:25:59.000Z",
+    "checkedAt": "2022-05-15T14:25:59.000Z",
+    "id": 9673,
+    "type": "anime",
+    "title": "Tegami Bachi Reverse Specials",
+    "altTitle": [
+      "Letter Bee Reverse Specials",
+      "裏テガミバチ",
+      "Ura Tegami Bachi",
+      "Omakebachi"
+    ],
+    "url": "https://anilist.co/anime/9673",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9673.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 9673,
+    "deletedAt": null
+  }
+}

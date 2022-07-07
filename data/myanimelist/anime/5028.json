@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T23:10:17.000Z",
+  "checkedAt": "2022-05-14T23:10:17.000Z",
+  "id": 5028,
+  "type": "anime",
+  "title": "Major S5",
+  "altTitle": [
+    "Major 5th Season",
+    "メジャー"
+  ],
+  "url": "https://myanimelist.net/anime/5028/Major_S5",
+  "image": "https://cdn.myanimelist.net/images/anime/9/75218.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/major/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6013"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Major_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6013,
+  "Pages": {
+    "9anime": {
+      "rj8n": {
+        "createdAt": "2020-10-12T15:55:31.000Z",
+        "updatedAt": "2022-03-19T19:22:41.000Z",
+        "checkedAt": null,
+        "id": 8859,
+        "identifier": "rj8n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Major S5",
+        "url": "https://9anime.to/watch/major-s5.rj8n",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/58915f3f982e6332382541754d801ca2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5028,
+        "aniId": 5028,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2392": {
+        "identifier": "2392",
+        "malId": 5028,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Major S5",
+        "url": "https://animepahe.com/a/2392"
+      }
+    },
+    "AniMixPlay": {
+      "5028": {
+        "identifier": "5028",
+        "malId": 5028,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Major S5",
+        "url": "https://animixplay.to/anime/5028"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T14:42:29.000Z",
+  "checkedAt": "2022-05-14T14:42:29.000Z",
+  "id": 34751,
+  "type": "anime",
+  "title": "Blood Lad: Kanketsu Kinen",
+  "altTitle": [
+    "『ブラッドラッド』完結記念PV"
+  ],
+  "url": "https://myanimelist.net/anime/34751/Blood_Lad__Kanketsu_Kinen",
+  "image": "https://cdn.myanimelist.net/images/anime/11/83781.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://shoten.kadokawa.co.jp/sp/201108-01/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blood_Lad"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "w647": {
+        "createdAt": "2020-10-12T15:56:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9699,
+        "identifier": "w647",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blood Lad Special (Dub)",
+        "url": "https://9anime.to/watch/blood-lad-special-dub.w647",
+        "image": "https://static.akacdn.ru/static/images/2018/04/9697a0fff16efaa4b10742b0d982cebb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34751,
+        "aniId": 100502,
+        "deletedAt": null
+      }
+    }
+  }
+}

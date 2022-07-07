@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T19:36:30.000Z",
+  "checkedAt": "2022-05-14T19:36:30.000Z",
+  "id": 5330,
+  "type": "anime",
+  "title": "Alice in Cyberland",
+  "altTitle": [
+    "ありす ALICE in Cyberland"
+  ],
+  "url": "https://myanimelist.net/anime/5330/Alice_in_Cyberland",
+  "image": "https://cdn.myanimelist.net/images/anime/12/10746.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2175"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=936"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%8A%E3%81%99_in_Cyberland"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2175,
+  "Pages": {
+    "9anime": {
+      "px96": {
+        "createdAt": "2020-10-12T15:54:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8168,
+        "identifier": "px96",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Alice in Cyberland",
+        "url": "https://9anime.to/watch/alice-in-cyberland.px96",
+        "image": "http://static.akacdn.ru/static/images/2018/09/3b425eb02c9391472ae63a6298b2b543.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5330,
+        "aniId": 5330,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "alice-in-cyberland": {
+        "createdAt": "2021-12-06T08:16:18.000Z",
+        "updatedAt": "2021-12-06T08:46:06.000Z",
+        "checkedAt": null,
+        "id": 39390,
+        "identifier": "alice-in-cyberland",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Alice in Cyberland",
+        "url": "https://gogoanime.cm/category/alice-in-cyberland",
+        "image": "https://gogocdn.net/cover/alice-in-cyberland.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5330,
+        "aniId": 5330,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5330": {
+        "identifier": "5330",
+        "malId": 5330,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Alice in Cyberland",
+        "url": "https://animixplay.to/anime/5330"
+      }
+    },
+    "YugenAnime": {
+      "11400": {
+        "identifier": "11400",
+        "malId": 5330,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Alice in Cyberland",
+        "url": "https://yugen.to/anime/11400/alice-in-cyberland/"
+      }
+    }
+  }
+}

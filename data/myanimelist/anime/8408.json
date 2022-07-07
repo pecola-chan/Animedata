@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-14T19:20:06.000Z",
+  "checkedAt": "2022-05-14T19:20:06.000Z",
+  "id": 8408,
+  "type": "anime",
+  "title": "Durarara!! Specials",
+  "altTitle": [
+    "Durarara!! Episode 12.5",
+    "Durarara!! Episode 25",
+    "Dhurarara!!",
+    "Dyurarara!!",
+    "Dulalala!!",
+    "Dullalala!!",
+    "DRRR!! OVA",
+    "Durarara!! Specials",
+    "デュラララ!!"
+  ],
+  "url": "https://myanimelist.net/anime/8408/Durarara_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/4/28684.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.durarara.com/1st/special/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6671"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10947"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Durarara!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6671,
+  "Pages": {
+    "9anime": {
+      "6j17": {
+        "createdAt": "2020-10-12T15:50:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3007,
+        "identifier": "6j17",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Durarara!! Specials (Dub)",
+        "url": "https://9anime.to/watch/durarara-specials-dub.6j17",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iWJ1pziU8QY/V_DiSosj-JI/AAAAAAABDWc/BfWSoUdY1_E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8408,
+        "aniId": 8408,
+        "deletedAt": null
+      },
+      "7k17": {
+        "createdAt": "2020-10-12T15:51:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3444,
+        "identifier": "7k17",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Durarara!! Specials",
+        "url": "https://9anime.to/watch/durarara-specials.7k17",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Udjx454Lupc/V_Dipx4xHQI/AAAAAAABDWg/65Rub-QoHpc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8408,
+        "aniId": 8408,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2133": {
+        "identifier": "2133",
+        "malId": 8408,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Durarara!! Specials",
+        "url": "https://animepahe.com/a/2133"
+      }
+    }
+  }
+}

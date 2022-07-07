@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-15T07:17:40.000Z",
+  "checkedAt": "2022-05-15T07:17:40.000Z",
+  "id": 2283,
+  "type": "anime",
+  "title": "Red Baron",
+  "altTitle": [
+    "レッドバロン"
+  ],
+  "url": "https://myanimelist.net/anime/2283/Red_Baron",
+  "image": "https://cdn.myanimelist.net/images/anime/1596/103314.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/tv/data/t_redbaron.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1818"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2614"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Red_Baron_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1818,
+  "Pages": {
+    "9anime": {
+      "78wy": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3404,
+        "identifier": "78wy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Red Baron",
+        "url": "https://9anime.to/watch/red-baron.78wy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GicSJAnKJc0/WNdzVDy-NvI/AAAAAAABgnk/kmeOYUbcHgk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2283,
+        "aniId": 2283,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "red-baron": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20253,
+        "identifier": "red-baron",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Red Baron",
+        "url": "https://gogoanime.vc/category/red-baron",
+        "image": "https://cdnimg.xyz/cover/red-baron.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2283,
+        "aniId": 2283,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2283": {
+        "identifier": "2283",
+        "malId": 2283,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Red Baron",
+        "url": "https://animixplay.to/anime/2283"
+      }
+    },
+    "YugenAnime": {
+      "615": {
+        "identifier": "615",
+        "malId": 2283,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Red Baron",
+        "url": "https://yugen.to/anime/615/red-baron/"
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "createdAt": "2021-02-03T15:40:35.000Z",
+  "updatedAt": "2022-05-13T19:55:05.000Z",
+  "checkedAt": "2022-05-13T19:55:05.000Z",
+  "id": 44961,
+  "type": "anime",
+  "title": "Platinum End",
+  "altTitle": [
+    "Platinum End",
+    "プラチナエンド"
+  ],
+  "url": "https://myanimelist.net/anime/44961/Platinum_End",
+  "image": "https://cdn.myanimelist.net/images/anime/1992/116576.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime-platinumend.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15936"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23861"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Platinum_End#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281929"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/platinum-end/?qid=None"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15936,
+  "Pages": {
+    "Gogoanime": {
+      "platinum-end": {
+        "createdAt": "2021-10-07T20:32:50.000Z",
+        "updatedAt": "2022-05-16T15:32:53.000Z",
+        "checkedAt": "2022-05-16T15:32:09.000Z",
+        "id": 38924,
+        "identifier": "platinum-end",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Platinum End",
+        "url": "https://gogoanime.sk/category/platinum-end",
+        "image": "https://gogocdn.net/cover/platinum-end.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44961,
+        "aniId": 127401,
+        "deletedAt": null
+      },
+      "platinum-end-dub": {
+        "createdAt": "2021-11-20T15:44:04.000Z",
+        "updatedAt": "2022-05-16T15:32:53.000Z",
+        "checkedAt": "2022-05-16T15:32:09.000Z",
+        "id": 39248,
+        "identifier": "platinum-end-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Platinum End (Dub)",
+        "url": "https://gogoanime.sk/category/platinum-end-dub",
+        "image": "https://gogocdn.net/cover/platinum-end-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44961,
+        "aniId": 127401,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "lzqz": {
+        "createdAt": "2021-10-08T00:02:19.000Z",
+        "updatedAt": "2022-05-16T15:32:54.000Z",
+        "checkedAt": "2022-05-16T15:32:10.000Z",
+        "id": 38925,
+        "identifier": "lzqz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Platinum End",
+        "url": "https://9anime.to/watch/platinum-end.lzqz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bf/bfc55d403178c96d99f7f4fcc81be66a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44961,
+        "aniId": 127401,
+        "deletedAt": null
+      },
+      "2oovl": {
+        "createdAt": "2021-11-19T04:14:33.000Z",
+        "updatedAt": "2022-05-16T15:33:06.000Z",
+        "checkedAt": "2022-05-16T15:32:21.000Z",
+        "id": 39236,
+        "identifier": "2oovl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Platinum End (Dub)",
+        "url": "https://9anime.to/watch/platinum-end-dub.2oovl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/09/09959111970ab6e70237adca2088d960.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44961,
+        "aniId": 127401,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4514": {
+        "identifier": "4514",
+        "malId": 44961,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Platinum End",
+        "url": "https://animepahe.com/a/4514"
+      }
+    },
+    "AniMixPlay": {
+      "44961": {
+        "identifier": "44961",
+        "malId": 44961,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Platinum End",
+        "url": "https://animixplay.to/anime/44961"
+      }
+    },
+    "YugenAnime": {
+      "9896": {
+        "identifier": "9896",
+        "malId": 44961,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Platinum End",
+        "url": "https://yugen.to/anime/9896/platinum-end/"
+      }
+    }
+  }
+}

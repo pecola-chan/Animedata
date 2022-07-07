@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T18:00:10.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 23785,
+  "identifier": "glass-fleet",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Glass Fleet",
+  "url": "https://gogoanime.vc/category/glass-fleet",
+  "image": "https://gogocdn.net/images/anime/G/glass-fleet.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 973,
+  "aniId": 20562,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:10.000Z",
+    "updatedAt": "2022-05-14T20:04:54.000Z",
+    "checkedAt": "2022-05-14T20:04:53.000Z",
+    "id": 973,
+    "type": "anime",
+    "title": "Glass no Kantai: La Legende du Vent de l'Univers",
+    "altTitle": [
+      "Garakan",
+      "Garasu no Kantai",
+      "Glass Fleet",
+      "Glass Fleet: The Legend of the Wind of the Universe",
+      "ガラスの艦隊～La legende du vent de l'univers～"
+    ],
+    "url": "https://myanimelist.net/anime/973/Glass_no_Kantai__La_Legende_du_Vent_de_lUnivers",
+    "image": "https://cdn.myanimelist.net/images/anime/2/75835.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gonzo.co.jp/archives/garakan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4265"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6544"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Glass_Fleet"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-275509"
+      },
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/glass-fleet"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4265
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:53.000Z",
+    "updatedAt": "2022-05-15T12:22:23.000Z",
+    "checkedAt": "2022-05-15T12:22:23.000Z",
+    "id": 20562,
+    "type": "anime",
+    "title": "Glass no Kantai: La legende du vent de l'univers",
+    "altTitle": [
+      "Glass Fleet: The Legend of the Wind of the Universe",
+      "ガラスの艦隊～La legende du vent de l'univers～",
+      "Garakan",
+      "Glass Fleet",
+      "Garasu no Kantai"
+    ],
+    "url": "https://anilist.co/anime/20562",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20562.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "http://www.funimation.com/shows/glass-fleet/"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/glass-fleet"
+      }
+    ],
+    "malId": 973,
+    "deletedAt": null
+  }
+}

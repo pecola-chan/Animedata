@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T16:14:33.000Z",
+  "checkedAt": "2022-05-14T16:14:33.000Z",
+  "id": 39990,
+  "type": "anime",
+  "title": "Vlad Love",
+  "altTitle": [
+    "ぶらどらぶ"
+  ],
+  "url": "https://myanimelist.net/anime/39990/Vlad_Love",
+  "image": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.vladlove.com/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14966"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23260"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vlad_Love"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280826"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14966,
+  "Pages": {
+    "Gogoanime": {
+      "vlad-love": {
+        "createdAt": "2020-12-31T19:56:32.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32085,
+        "identifier": "vlad-love",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vlad Love",
+        "url": "https://gogoanime.vc/category/vlad-love",
+        "image": "https://gogocdn.net/cover/vlad-love.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39990,
+        "aniId": 110200,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "7q46": {
+        "createdAt": "2021-01-01T12:52:09.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32414,
+        "identifier": "7q46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vlad Love",
+        "url": "https://9anime.to/watch/vlad-love.7q46",
+        "image": "//static.9anime.to/i/cache/images/f/f5/f562506c0be7d3bdeb29191fc7138937.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39990,
+        "aniId": 110200,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4187": {
+        "identifier": "4187",
+        "malId": 39990,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Vlad Love",
+        "url": "https://animepahe.com/a/4187"
+      }
+    },
+    "AniMixPlay": {
+      "39990": {
+        "identifier": "39990",
+        "malId": 39990,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vlad Love",
+        "url": "https://animixplay.to/anime/39990"
+      }
+    },
+    "YugenAnime": {
+      "7047": {
+        "identifier": "7047",
+        "malId": 39990,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Vlad Love",
+        "url": "https://yugen.to/anime/7047/vlad-love/"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T23:25:29.000Z",
+  "checkedAt": "2022-05-14T23:25:29.000Z",
+  "id": 3011,
+  "type": "anime",
+  "title": "Yotsunoha",
+  "altTitle": [
+    "よつのは"
+  ],
+  "url": "https://myanimelist.net/anime/3011/Yotsunoha",
+  "image": "https://cdn.myanimelist.net/images/anime/2/20273.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yotsunoha.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5275"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8194"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5275,
+  "Pages": {
+    "9anime": {
+      "6414": {
+        "createdAt": "2020-10-12T15:48:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 200,
+        "identifier": "6414",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yotsunoha",
+        "url": "https://9anime.to/watch/yotsunoha.6414",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gY9kQp58CUM/WKhGDFWvlpI/AAAAAAABdQs/Och2IPRSJeA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3011,
+        "aniId": 3011,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yotsunoha": {
+        "createdAt": "2021-04-20T16:11:46.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36639,
+        "identifier": "yotsunoha",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yotsunoha",
+        "url": "https://gogoanime.vc/category/yotsunoha",
+        "image": "https://gogocdn.net/images/anime/Y/Yotsunoha.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3011,
+        "aniId": 3011,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1060": {
+        "identifier": "1060",
+        "malId": 3011,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yotsunoha",
+        "url": "https://animepahe.com/a/1060"
+      }
+    },
+    "AniMixPlay": {
+      "3011": {
+        "identifier": "3011",
+        "malId": 3011,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yotsunoha",
+        "url": "https://animixplay.to/anime/3011"
+      }
+    },
+    "YugenAnime": {
+      "1911": {
+        "identifier": "1911",
+        "malId": 3011,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yotsunoha",
+        "url": "https://yugen.to/anime/1911/yotsunoha/"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-10-17T08:28:45.000Z",
+  "updatedAt": "2021-10-17T08:58:45.000Z",
+  "checkedAt": null,
+  "id": 39044,
+  "identifier": "yagami-kun-no-katei-no-jijou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Yagami-kun no Katei no Jijou",
+  "url": "https://gogoanime.pe/category/yagami-kun-no-katei-no-jijou",
+  "image": "https://gogocdn.net/cover/yagami-kun-no-katei-no-jijou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4537,
+  "aniId": 4537,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:43.000Z",
+    "updatedAt": "2022-05-15T01:42:07.000Z",
+    "checkedAt": "2022-05-15T01:42:07.000Z",
+    "id": 4537,
+    "type": "anime",
+    "title": "Yagami-kun no Katei no Jijou",
+    "altTitle": [
+      "Yagami's Family Affairs",
+      "Yagami-kun's Family Affairs",
+      "八神くんの家庭の事情"
+    ],
+    "url": "https://myanimelist.net/anime/4537/Yagami-kun_no_Katei_no_Jijou",
+    "image": "https://cdn.myanimelist.net/images/anime/11/8713.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4163"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7007"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yagami-kun_no_Katei_no_Jijō"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4163
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:36.000Z",
+    "updatedAt": "2022-05-17T00:54:05.000Z",
+    "checkedAt": "2022-05-17T00:54:05.000Z",
+    "id": 4537,
+    "type": "anime",
+    "title": "Yagami-kun no Katei no Jijou",
+    "altTitle": [
+      "八神くんの家庭の事情",
+      "Yagami's Family Affairs",
+      "Yagami-kun's Family Affairs"
+    ],
+    "url": "https://anilist.co/anime/4537",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4537.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4537,
+    "deletedAt": null
+  }
+}

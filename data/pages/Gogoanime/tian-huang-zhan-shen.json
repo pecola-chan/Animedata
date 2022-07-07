@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-11-24T11:56:05.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29561,
+  "identifier": "tian-huang-zhan-shen",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tian Huang Zhan Shen",
+  "url": "https://gogoanime.vc/category/tian-huang-zhan-shen",
+  "image": "https://gogocdn.net/cover/tian-huang-zhan-shen.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 44047,
+  "aniId": 122520,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-11-22T19:26:18.000Z",
+    "updatedAt": "2022-05-14T20:07:47.000Z",
+    "checkedAt": "2022-05-14T20:07:47.000Z",
+    "id": 44047,
+    "type": "anime",
+    "title": "Tian Huang Zhan Shen",
+    "altTitle": [
+      "God of Desolation",
+      "天荒战神"
+    ],
+    "url": "https://myanimelist.net/anime/44047/Tian_Huang_Zhan_Shen",
+    "image": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/m/mzc00200tw780l1.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%A4%A9%E8%8D%92%E6%88%98%E7%A5%9E/54807804"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:13.000Z",
+    "updatedAt": "2022-05-15T11:55:35.000Z",
+    "checkedAt": "2022-05-15T11:55:35.000Z",
+    "id": 122520,
+    "type": "anime",
+    "title": "Tian Huang",
+    "altTitle": [
+      "天荒",
+      "天荒战神"
+    ],
+    "url": "https://anilist.co/anime/122520",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122520-XLzcwM0lYMiZ.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 44047,
+    "deletedAt": null
+  }
+}

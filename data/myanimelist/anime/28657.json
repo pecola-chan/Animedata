@@ -1,0 +1,43 @@
+{
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2022-05-26T00:33:58.000Z",
+  "checkedAt": "2022-05-26T00:33:58.000Z",
+  "id": 28657,
+  "type": "anime",
+  "title": "Red Colored Bridge",
+  "altTitle": [
+    "Red-Colored Bridge",
+    "赤い太鼓橋"
+  ],
+  "url": "https://myanimelist.net/anime/28657/Red_Colored_Bridge",
+  "image": "https://cdn.myanimelist.net/images/anime/11/69171.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "z7ql": {
+        "createdAt": "2020-12-09T13:48:28.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29803,
+        "identifier": "z7ql",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Red Colored Bridge",
+        "url": "https://9anime.to/watch/red-colored-bridge.z7ql",
+        "image": "//static.9anime.to/i/cache/images/2018/06/59bfae4fa7326aebb6f7569f6590c2d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28657,
+        "aniId": 102682,
+        "deletedAt": null
+      }
+    }
+  }
+}

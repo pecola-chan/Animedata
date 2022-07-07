@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-15T11:49:36.000Z",
+  "checkedAt": "2022-05-15T11:49:36.000Z",
+  "id": 8898,
+  "type": "anime",
+  "title": "Circuit Angel: Ketsui no Starting Grid",
+  "altTitle": [
+    "Circuit Angel: Resolving Starting Grid",
+    "サーキットエンジェル　決意のスターティング・グリッド"
+  ],
+  "url": "https://myanimelist.net/anime/8898/Circuit_Angel__Ketsui_no_Starting_Grid",
+  "image": "https://cdn.myanimelist.net/images/anime/1489/112885.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5262"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3311"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5262,
+  "Pages": {
+    "9anime": {
+      "v4yv": {
+        "createdAt": "2020-10-12T15:55:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9226,
+        "identifier": "v4yv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Circuit Angel: Ketsui no Starting Grid",
+        "url": "https://9anime.to/watch/circuit-angel-ketsui-no-starting-grid.v4yv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--linq3DFBqI/WNzfGh_Zs2I/AAAAAAAAeWo/0QzkGVuJGL4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8898,
+        "aniId": 8898,
+        "deletedAt": null
+      }
+    }
+  }
+}

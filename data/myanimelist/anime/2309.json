@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-14T23:42:29.000Z",
+  "checkedAt": "2022-05-14T23:42:29.000Z",
+  "id": 2309,
+  "type": "anime",
+  "title": "Azusa, Otetsudai Shimasu!",
+  "altTitle": [
+    "Azusa Helps!",
+    "Azusa, Otetsudaishimasu!",
+    "Azusa Will Help!",
+    "アズサ、お手伝いします！"
+  ],
+  "url": "https://myanimelist.net/anime/2309/Azusa_Otetsudai_Shimasu",
+  "image": "https://cdn.myanimelist.net/images/anime/13/18625.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1760"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4581"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Azusa,_Otetsudai_Shimasu!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1760,
+  "Pages": {
+    "9anime": {
+      "m81z": {
+        "createdAt": "2020-10-12T15:53:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6487,
+        "identifier": "m81z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Azusa, Otetsudai Shimasu!",
+        "url": "https://9anime.to/watch/azusa-otetsudai-shimasu.m81z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zpOMclg8mc0/WIbzelFjZ8I/AAAAAAABbAY/lGFwezbjCe0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2309,
+        "aniId": 2309,
+        "deletedAt": null
+      }
+    }
+  }
+}

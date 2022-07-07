@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T19:28:47.000Z",
+  "checkedAt": "2022-05-14T19:28:47.000Z",
+  "id": 40854,
+  "type": "anime",
+  "title": "BanG Dream! Garupa☆Pico: Oomori",
+  "altTitle": [
+    "BanG Dream! Garupa Pico: Oomori, BanG Dream! Girls Band Party!☆PICO: Oomori",
+    "BanG Dream! ガルパ☆ピコ ~大盛り~"
+  ],
+  "url": "https://myanimelist.net/anime/40854/BanG_Dream_Garupa☆Pico__Oomori",
+  "image": "https://cdn.myanimelist.net/images/anime/1237/111699.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.bang-dream.com/pico/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15307"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23257"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BanG_Dream!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15307,
+  "Pages": {
+    "9anime": {
+      "9k7q": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4317,
+        "identifier": "9k7q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BanG Dream! Garupa☆Pico: Oomori",
+        "url": "https://9anime.to/watch/bang-dream-garupapico-oomori.9k7q",
+        "image": "https://static.akacdn.ru/files/images/2020/04/11f6e38a2a251cac3480b09cd2b7e0b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40854,
+        "aniId": 113906,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40854": {
+        "identifier": "40854",
+        "malId": 40854,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "BanG Dream! Garupa☆Pico: Oomori",
+        "url": "https://animixplay.to/anime/40854"
+      }
+    },
+    "YugenAnime": {
+      "6691": {
+        "identifier": "6691",
+        "malId": 40854,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "BanG Dream! Garupa☆Pico: Oomori",
+        "url": "https://yugen.to/anime/6691/bang-dream-garupapico-oomori/"
+      }
+    }
+  }
+}

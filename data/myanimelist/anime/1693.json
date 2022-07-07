@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-14T21:27:42.000Z",
+  "checkedAt": "2022-05-14T21:27:42.000Z",
+  "id": 1693,
+  "type": "anime",
+  "title": "Reideen",
+  "altTitle": [
+    "Reideen (2007)",
+    "Raideen",
+    "Reideen",
+    "ライディーン"
+  ],
+  "url": "https://myanimelist.net/anime/1693/Reideen",
+  "image": "https://cdn.myanimelist.net/images/anime/2/7363.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.reideen.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4808"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7292"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/reideen"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4808,
+  "Pages": {
+    "9anime": {
+      "417k": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2047,
+        "identifier": "417k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Reideen",
+        "url": "https://9anime.to/watch/reideen.417k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iP5rjhSLhDQ/V7mxP6TDO9I/AAAAAAAA4uY/gFEXAMwb-ew/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1693,
+        "aniId": 1693,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "reideen-": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20258,
+        "identifier": "reideen-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Reideen ",
+        "url": "https://gogoanime.vc/category/reideen-",
+        "image": "https://cdnimg.xyz/images/anime/R/reideen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1693,
+        "aniId": 1693,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1693": {
+        "identifier": "1693",
+        "malId": 1693,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Reideen",
+        "url": "https://animixplay.to/anime/1693"
+      }
+    },
+    "YugenAnime": {
+      "1037": {
+        "identifier": "1037",
+        "malId": 1693,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Reideen",
+        "url": "https://yugen.to/anime/1037/reideen/"
+      }
+    }
+  }
+}

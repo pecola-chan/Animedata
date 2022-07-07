@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T23:59:17.000Z",
+  "checkedAt": "2022-05-14T23:59:17.000Z",
+  "id": 1742,
+  "type": "anime",
+  "title": "Souryuuden",
+  "altTitle": [
+    "Sohryuuden: Legend of the Four Kings",
+    "Sohryuden",
+    "Legend of the Dragon Kings",
+    "創竜伝"
+  ],
+  "url": "https://myanimelist.net/anime/1742/Souryuuden",
+  "image": "https://cdn.myanimelist.net/images/anime/3/31923.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1533"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=84"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sohryuden:_Legend_of_the_Dragon_Kings"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1533,
+  "Pages": {
+    "9anime": {
+      "68kp": {
+        "createdAt": "2020-10-12T15:50:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2992,
+        "identifier": "68kp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Souryuuden",
+        "url": "https://9anime.to/watch/souryuuden.68kp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VWE53t3f6TE/WP3qHgMScrI/AAAAAAAAj6k/KyVqEI9_gSABsZPKy3GFPSulbQWMVp3ZQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1742,
+        "aniId": 1742,
+        "deletedAt": null
+      },
+      "m5wv": {
+        "createdAt": "2020-10-12T15:53:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6429,
+        "identifier": "m5wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Souryuuden (Dub)",
+        "url": "https://9anime.to/watch/souryuuden-dub.m5wv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-m4d4eRNBXrA/WP80I7rr_TI/AAAAAAAAkPI/HW09kbaTiqkmUSSFKkTRN8xhE5FrR3KfQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1742,
+        "aniId": 1742,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "souryuuden": {
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20786,
+        "identifier": "souryuuden",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Souryuuden",
+        "url": "https://gogoanime.vc/category/souryuuden",
+        "image": "https://cdnimg.xyz/cover/souryuuden.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1742,
+        "aniId": 1742,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1742": {
+        "identifier": "1742",
+        "malId": 1742,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Souryuuden",
+        "url": "https://animixplay.to/anime/1742"
+      }
+    },
+    "YugenAnime": {
+      "1041": {
+        "identifier": "1041",
+        "malId": 1742,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Souryuuden",
+        "url": "https://yugen.to/anime/1041/souryuuden/"
+      }
+    }
+  }
+}

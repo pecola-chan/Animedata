@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T09:55:41.000Z",
+  "checkedAt": "2022-05-14T09:55:41.000Z",
+  "id": 5760,
+  "type": "anime",
+  "title": "Dororo to Hyakkimaru",
+  "altTitle": [
+    "Dororo and Hyakkimaru",
+    "Dororo",
+    "どろろと百鬼丸"
+  ],
+  "url": "https://myanimelist.net/anime/5760/Dororo_to_Hyakkimaru",
+  "image": "https://cdn.myanimelist.net/images/anime/8/12061.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tezukaosamu.net/en/anime/37.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1119"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1320"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dororo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1119,
+  "Pages": {
+    "Gogoanime": {
+      "dororo-to-hyakkimaru": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17424,
+        "identifier": "dororo-to-hyakkimaru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dororo to Hyakkimaru",
+        "url": "https://gogoanime.vc/category/dororo-to-hyakkimaru",
+        "image": "https://gogocdn.net/cover/dororo-to-hyakkimaru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5760,
+        "aniId": 5760,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5760": {
+        "identifier": "5760",
+        "malId": 5760,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dororo to Hyakkimaru",
+        "url": "https://animixplay.to/anime/5760"
+      }
+    },
+    "YugenAnime": {
+      "2018": {
+        "identifier": "2018",
+        "malId": 5760,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dororo to Hyakkimaru",
+        "url": "https://yugen.to/anime/2018/dororo-to-hyakkimaru/"
+      }
+    }
+  }
+}

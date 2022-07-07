@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T07:02:24.000Z",
+  "checkedAt": "2022-05-14T07:02:24.000Z",
+  "id": 34825,
+  "type": "anime",
+  "title": "Keppeki Danshi! Aoyama-kun",
+  "altTitle": [
+    "Cleanliness Boy! Aoyama-kun",
+    "Clean Freak! Aoyama-kun",
+    "潔癖男子！青山くん"
+  ],
+  "url": "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/9/86644.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kda-anime.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12762"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19104"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BD%94%E7%99%96%E7%94%B7%E5%AD%90!%E9%9D%92%E5%B1%B1%E3%81%8F%E3%82%93"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273645"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12762,
+  "Pages": {
+    "9anime": {
+      "68lz": {
+        "createdAt": "2020-10-12T15:50:42.000Z",
+        "updatedAt": "2021-07-30T09:22:29.000Z",
+        "checkedAt": null,
+        "id": 2993,
+        "identifier": "68lz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keppeki Danshi! Aoyama-kun",
+        "url": "https://9anime.to/watch/clean-freak-aoyama-kun.68lz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ae15729e4c343da725e715073bf153bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34825,
+        "aniId": 98205,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "keppeki-danshi-aoyama-kun": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18793,
+        "identifier": "keppeki-danshi-aoyama-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Keppeki Danshi! Aoyama-kun",
+        "url": "https://gogoanime.vc/category/keppeki-danshi-aoyama-kun",
+        "image": "https://images.gogoanime.tv/cover/keppeki-danshi-aoyama-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34825,
+        "aniId": 98205,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2222": {
+        "identifier": "2222",
+        "malId": 34825,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Keppeki Danshi! Aoyama-kun",
+        "url": "https://animepahe.com/a/2222"
+      }
+    },
+    "AniMixPlay": {
+      "34825": {
+        "identifier": "34825",
+        "malId": 34825,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keppeki Danshi! Aoyama-kun",
+        "url": "https://animixplay.to/anime/34825"
+      }
+    },
+    "YugenAnime": {
+      "6082": {
+        "identifier": "6082",
+        "malId": 34825,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Keppeki Danshi! Aoyama-kun",
+        "url": "https://yugen.to/anime/6082/keppeki-danshi-aoyama-kun/"
+      }
+    }
+  }
+}

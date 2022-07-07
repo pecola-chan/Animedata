@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-13T23:19:08.000Z",
+  "checkedAt": "2022-05-13T23:19:08.000Z",
+  "id": 31498,
+  "type": "anime",
+  "title": "Pan de Peace!",
+  "altTitle": [
+    "Peace Through Bread!",
+    "Pan de Peace!",
+    "パンでPeace！"
+  ],
+  "url": "https://myanimelist.net/anime/31498/Pan_de_Peace",
+  "image": "https://cdn.myanimelist.net/images/anime/4/79400.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pandepeace.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11532"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18002"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%81%A7Peace!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269809"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11532,
+  "Pages": {
+    "9anime": {
+      "yq7j": {
+        "createdAt": "2020-10-12T15:56:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10814,
+        "identifier": "yq7j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pan de Peace!",
+        "url": "https://9anime.to/watch/pan-de-peace.yq7j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OeisXZHTCPc/V5c1211-xSI/AAAAAAAAyIw/fkZblbjnfVg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31498,
+        "aniId": 21315,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pan-de-peace": {
+        "createdAt": "2020-12-22T20:26:10.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30866,
+        "identifier": "pan-de-peace",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pan de Peace!",
+        "url": "https://gogoanime.vc/category/pan-de-peace",
+        "image": "https://gogocdn.net/cover/pan-de-peace.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31498,
+        "aniId": 21315,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "911": {
+        "identifier": "911",
+        "malId": 31498,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pan de Peace!",
+        "url": "https://animepahe.com/a/911"
+      }
+    },
+    "AniMixPlay": {
+      "31498": {
+        "identifier": "31498",
+        "malId": 31498,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pan de Peace!",
+        "url": "https://animixplay.to/anime/31498"
+      }
+    },
+    "YugenAnime": {
+      "810": {
+        "identifier": "810",
+        "malId": 31498,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pan de Peace!",
+        "url": "https://yugen.to/anime/810/pan-de-peace/"
+      }
+    }
+  }
+}

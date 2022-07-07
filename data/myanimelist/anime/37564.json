@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:07:58.000Z",
+  "checkedAt": "2022-05-14T16:07:58.000Z",
+  "id": 37564,
+  "type": "anime",
+  "title": "Wo de Ni Tian Shen Qi",
+  "altTitle": [
+    "Wo De Nitian Shenqi",
+    "My Holy Weapon",
+    "我的逆天神器"
+  ],
+  "url": "https://myanimelist.net/anime/37564/Wo_de_Ni_Tian_Shen_Qi",
+  "image": "https://cdn.myanimelist.net/images/anime/1989/91325.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ac.qq.com/Comic/ComicInfo/id/535495"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14029"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E9%80%86%E5%A4%A9%E7%A5%9E%E5%99%A8/19744159"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14029,
+  "Pages": {
+    "9anime": {
+      "nx7n": {
+        "createdAt": "2020-10-12T15:54:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7278,
+        "identifier": "nx7n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wo De Ni Tian Shen Qi",
+        "url": "https://9anime.to/watch/wo-de-ni-tian-shen-qi.nx7n",
+        "image": "http://static.akacdn.ru/static/images/2018/04/1f8b4b7527754da8aec12c35bed0f62c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37564,
+        "aniId": 101919,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "my-holy-weapon": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19601,
+        "identifier": "my-holy-weapon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "My Holy Weapon",
+        "url": "https://gogoanime.vc/category/my-holy-weapon",
+        "image": "https://cdnimg.xyz/cover/my-holy-weapon.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37564,
+        "aniId": 101919,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37564": {
+        "identifier": "37564",
+        "malId": 37564,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wo de Ni Tian Shen Qi",
+        "url": "https://animixplay.to/anime/37564"
+      }
+    },
+    "YugenAnime": {
+      "11471": {
+        "identifier": "11471",
+        "malId": 37564,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wo de Ni Tian Shen Qi",
+        "url": "https://yugen.to/anime/11471/ni-yian-jian-shen/"
+      }
+    }
+  }
+}

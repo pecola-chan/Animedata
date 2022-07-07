@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-15T00:59:29.000Z",
+  "checkedAt": "2022-05-15T00:59:29.000Z",
+  "id": 2336,
+  "type": "anime",
+  "title": "Hikaru no Go: New Year Special",
+  "altTitle": [
+    "ヒカルの碁 お正月スペシャル"
+  ],
+  "url": "https://myanimelist.net/anime/2336/Hikaru_no_Go__New_Year_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/11/60751.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/hikaru"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=84"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3433"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 84,
+  "Pages": {
+    "9anime": {
+      "734y": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3338,
+        "identifier": "734y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hikaru no Go: New Year Special",
+        "url": "https://9anime.to/watch/hikaru-no-go-new-year-special.734y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EAv2CnF5-V8/WHS2xYoJvuI/AAAAAAABYZk/iGfOJ5HKfAM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2336,
+        "aniId": 2336,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3408": {
+        "identifier": "3408",
+        "malId": 2336,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hikaru no Go: New Year Special",
+        "url": "https://animepahe.com/a/3408"
+      }
+    },
+    "AniMixPlay": {
+      "2336": {
+        "identifier": "2336",
+        "malId": 2336,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hikaru no Go: New Year Special",
+        "url": "https://animixplay.to/anime/2336"
+      }
+    },
+    "YugenAnime": {
+      "6661": {
+        "identifier": "6661",
+        "malId": 2336,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hikaru no Go: New Year Special",
+        "url": "https://yugen.to/anime/6661/hikaru-no-go-special/"
+      }
+    }
+  }
+}

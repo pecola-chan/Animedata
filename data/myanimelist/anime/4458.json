@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-05-27T18:21:53.000Z",
+  "checkedAt": "2022-05-27T18:21:53.000Z",
+  "id": 4458,
+  "type": "anime",
+  "title": "Bavel no Hon",
+  "altTitle": [
+    "Bavel's Book",
+    "バベルの本"
+  ],
+  "url": "https://myanimelist.net/anime/4458/Bavel_no_Hon",
+  "image": "https://cdn.myanimelist.net/images/anime/4/8562.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yamamura-animation.jp/ef11baveb.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5150"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7864"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kōji_Yamamura"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5150,
+  "Pages": {
+    "9anime": {
+      "y0k1": {
+        "createdAt": "2020-10-12T15:56:41.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10489,
+        "identifier": "y0k1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bavel no Hon",
+        "url": "https://9anime.to/watch/bavel-no-hon.y0k1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Skk-q69O1qw/WKKuvdXS3zI/AAAAAAABc2E/1fPOcpROfK0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4458,
+        "aniId": 4458,
+        "deletedAt": null
+      }
+    }
+  }
+}

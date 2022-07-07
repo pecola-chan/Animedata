@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-14T20:10:47.000Z",
+  "checkedAt": "2022-05-14T20:10:47.000Z",
+  "id": 812,
+  "type": "anime",
+  "title": "Chikyuu Shoujo Arjuna",
+  "altTitle": [
+    "Earth Maiden Arjuna",
+    "Earth Girl Arjuna",
+    "Arjuna",
+    "地球少女アルジュナ"
+  ],
+  "url": "https://myanimelist.net/anime/812/Chikyuu_Shoujo_Arjuna",
+  "image": "https://cdn.myanimelist.net/images/anime/4/57253.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dbeat.bandaivisual.co.jp/arjuna/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=107"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=602"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Earth_Maiden_Arjuna"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 107,
+  "Pages": {
+    "9anime": {
+      "2zoq": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1617,
+        "identifier": "2zoq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chikyuu Shoujo Arjuna (Dub)",
+        "url": "https://9anime.to/watch/chikyuu-shoujo-arjuna-dub.2zoq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nsWNchCgMUA/WBS7uCRT0iI/AAAAAAABL10/PubWk7jh8-A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 812,
+        "aniId": 812,
+        "deletedAt": null
+      },
+      "j22n": {
+        "createdAt": "2020-10-12T15:52:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4621,
+        "identifier": "j22n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chikyuu Shoujo Arjuna",
+        "url": "https://9anime.to/watch/chikyuu-shoujo-arjuna.j22n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0MLn6EFSnmw/V7aPOuX9FEI/AAAAAAAA4LA/uxUzl0GOT08/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 812,
+        "aniId": 812,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chikyuu-shoujo-arjuna": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17062,
+        "identifier": "chikyuu-shoujo-arjuna",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chikyuu Shoujo Arjuna",
+        "url": "https://gogoanime.vc/category/chikyuu-shoujo-arjuna",
+        "image": "https://gogocdn.net/cover/chikyuu-shoujo-arjuna.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 812,
+        "aniId": 812,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "812": {
+        "identifier": "812",
+        "malId": 812,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chikyuu Shoujo Arjuna",
+        "url": "https://animixplay.to/anime/812"
+      }
+    },
+    "YugenAnime": {
+      "3210": {
+        "identifier": "3210",
+        "malId": 812,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chikyuu Shoujo Arjuna",
+        "url": "https://yugen.to/anime/3210/chikyuu-shoujo-arjuna/"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T17:58:59.000Z",
+  "checkedAt": "2022-05-14T17:58:59.000Z",
+  "id": 38250,
+  "type": "anime",
+  "title": "Xiao Lu He Xiao Lan",
+  "altTitle": [
+    "Xiaolu He Xiaolan",
+    "Xiao Lv He Xiao Lan",
+    "Xiaolv He Xiaolan",
+    "Green and Blue",
+    "Lil' Green and Lil' Blue",
+    "Beryl and Sapphire",
+    "小绿和小蓝"
+  ],
+  "url": "https://myanimelist.net/anime/38250/Xiao_Lu_He_Xiao_Lan",
+  "image": "https://cdn.myanimelist.net/images/anime/1670/93590.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ac.qq.com/event/greenblue/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14373"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14373,
+  "Pages": {
+    "Gogoanime": {
+      "xiao-lu-he-xiao-lan": {
+        "createdAt": "2020-10-12T16:02:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21471,
+        "identifier": "xiao-lu-he-xiao-lan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Xiao Lu He Xiao Lan",
+        "url": "https://gogoanime.vc/category/xiao-lu-he-xiao-lan",
+        "image": "https://cdnimg.xyz/cover/xiao-lu-he-xiao-lan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38250,
+        "aniId": 104074,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38250": {
+        "identifier": "38250",
+        "malId": 38250,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Xiao Lu He Xiao Lan",
+        "url": "https://animixplay.to/anime/38250"
+      }
+    },
+    "YugenAnime": {
+      "6951": {
+        "identifier": "6951",
+        "malId": 38250,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Xiao Lu He Xiao Lan",
+        "url": "https://yugen.to/anime/6951/xiao-lu-he-xiao-lan/"
+      }
+    }
+  }
+}

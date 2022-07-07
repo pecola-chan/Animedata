@@ -1,0 +1,78 @@
+{
+  "createdAt": "2021-01-16T20:02:52.000Z",
+  "updatedAt": "2022-06-30T07:45:19.000Z",
+  "checkedAt": "2022-06-30T07:45:19.000Z",
+  "id": 9781,
+  "type": "anime",
+  "title": "Hyouga Senshi Gaislugger",
+  "altTitle": [
+    "Glacier Warrior Gaislugger",
+    "Guyslagger",
+    "Guyslugger",
+    "氷河戦士ガイスラッガー"
+  ],
+  "url": "https://myanimelist.net/anime/9781/Hyouga_Senshi_Gaislugger",
+  "image": "https://cdn.myanimelist.net/images/anime/10/27078.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4036"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=67"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%B0%B7%E6%B2%B3%E6%88%A6%E5%A3%AB%E3%82%AC%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%83%E3%82%AC%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4036,
+  "Pages": {
+    "9anime": {
+      "4k67": {
+        "createdAt": "2021-01-16T20:04:43.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33751,
+        "identifier": "4k67",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hyouga Senshi Gaislugger",
+        "url": "https://9anime.to/watch/hyouga-senshi-gaislugger.4k67",
+        "image": "//static.bunnycdn.ru/i/cache/images/3/3e/3e60f8b7f850569fda6940ad11afffbb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9781,
+        "aniId": 9781,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9781": {
+        "identifier": "9781",
+        "malId": 9781,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hyouga Senshi Gaislugger",
+        "url": "https://animixplay.to/anime/9781"
+      }
+    },
+    "YugenAnime": {
+      "9718": {
+        "identifier": "9718",
+        "malId": 9781,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hyouga Senshi Gaislugger",
+        "url": "https://yugen.to/anime/9718/hyouga-senshi-gaislugger/"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-03-31T20:01:04.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36099,
+  "identifier": "damekko-doubuts",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Damekko Doubuts",
+  "url": "https://gogoanime.vc/category/damekko-doubuts",
+  "image": "https://gogocdn.net/cover/damekko-doubuts.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 485,
+  "aniId": 485,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:04.000Z",
+    "updatedAt": "2022-05-15T16:47:43.000Z",
+    "checkedAt": "2022-05-15T16:47:43.000Z",
+    "id": 485,
+    "type": "anime",
+    "title": "Damekko Doubutsu",
+    "altTitle": [
+      "Damekko Dobutsu",
+      "Useless Animals",
+      "だめっこどうぶつ"
+    ],
+    "url": "https://myanimelist.net/anime/485/Damekko_Doubutsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1/485.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kids-station.com/minisite/damekko/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2824"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4994"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Damekko_D%C5%8Dbutsu"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2824
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:44.000Z",
+    "updatedAt": "2022-05-15T19:53:35.000Z",
+    "checkedAt": "2022-05-15T19:53:35.000Z",
+    "id": 485,
+    "type": "anime",
+    "title": "Damekko Doubutsu",
+    "altTitle": [
+      "だめっこどうぶつ",
+      "Damekko Dobutsu",
+      "Useless Animals"
+    ],
+    "url": "https://anilist.co/anime/485",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx485-JkVzRz4Dl1xD.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 485,
+    "deletedAt": null
+  }
+}

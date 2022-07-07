@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T19:26:17.000Z",
+  "checkedAt": "2022-05-14T19:26:17.000Z",
+  "id": 2466,
+  "type": "anime",
+  "title": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+  "altTitle": [
+    "Super Deformed Double Feature",
+    "スクランブル・ウォーズ　突っ走る！ゲノムトロフィーラリー"
+  ],
+  "url": "https://myanimelist.net/anime/2466/Scramble_Wars__Tsuppashire_Genom_Trophy_Rally",
+  "image": "https://cdn.myanimelist.net/images/anime/1226/99346.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2891"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=958"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2891,
+  "Pages": {
+    "9anime": {
+      "nxpm": {
+        "createdAt": "2020-10-12T15:54:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7285,
+        "identifier": "nxpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+        "url": "https://9anime.to/watch/scramble-wars-tsuppashire-genom-trophy-rally.nxpm",
+        "image": "https://static.akacdn.ru/files/images/2018/03/38dd0d0649a00a67cb14840dc646d92f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2466,
+        "aniId": 2466,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "scramble-wars-tsuppashire-genom-trophy-rally": {
+        "createdAt": "2022-01-13T18:41:43.000Z",
+        "updatedAt": "2022-01-13T19:11:42.000Z",
+        "checkedAt": null,
+        "id": 39808,
+        "identifier": "scramble-wars-tsuppashire-genom-trophy-rally",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+        "url": "https://gogoanime.cm/category/scramble-wars-tsuppashire-genom-trophy-rally",
+        "image": "https://gogocdn.net/cover/scramble-wars-tsuppashire-genom-trophy-rally.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2466,
+        "aniId": 2466,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11571": {
+        "identifier": "11571",
+        "malId": 2466,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+        "url": "https://yugen.to/anime/11571/scramble-wars-tsuppashire-genom-trophy-rally/"
+      }
+    }
+  }
+}

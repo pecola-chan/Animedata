@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T21:55:18.000Z",
+  "checkedAt": "2022-05-14T21:55:18.000Z",
+  "id": 2126,
+  "type": "anime",
+  "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+  "altTitle": [
+    "Yu Yu Hakusho: Eizou Hakusho II: Yuusuke",
+    "Kurama",
+    "Hiei",
+    "Kuwabara",
+    "Image Hakusho II",
+    "幽☆遊☆白書Ⅱ: 幽助、蔵魔、飛影、桑原"
+  ],
+  "url": "https://myanimelist.net/anime/2126/Yuu☆Yuu☆Hakusho__Eizou_Hakusho_II",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21614.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=312"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3349"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/YuYu_Hakusho"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274739"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 312,
+  "Pages": {
+    "9anime": {
+      "v21l": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9167,
+        "identifier": "v21l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+        "url": "https://9anime.to/watch/yuuyuuhakusho-eizou-hakusho-ii-dub.v21l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FsSmlrCsYwg/WFPXLQb8_sI/AAAAAAABTBM/ODWAbwnXqpE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2126,
+        "aniId": 2126,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3251": {
+        "identifier": "3251",
+        "malId": 2126,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+        "url": "https://animepahe.com/a/3251"
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-27T10:39:09.000Z",
+  "updatedAt": "2022-05-14T16:12:21.000Z",
+  "checkedAt": "2022-05-14T16:12:21.000Z",
+  "id": 43229,
+  "type": "anime",
+  "title": "Godzilla: S.P",
+  "altTitle": [
+    "Godzilla Singular Point",
+    "ゴジラ S.P ＜シンギュラポイント＞"
+  ],
+  "url": "https://myanimelist.net/anime/43229/Godzilla__SP",
+  "image": "https://cdn.myanimelist.net/images/anime/1447/114837.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://godzilla-sp.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15770"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23829"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Godzilla_Singular_Point"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15770,
+  "Pages": {
+    "9anime": {
+      "r50p": {
+        "createdAt": "2020-10-27T10:40:10.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28045,
+        "identifier": "r50p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Godzilla: S.P",
+        "url": "https://9anime.to/watch/godzilla-singular-point.r50p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a7/a737c54deb4dd2b35336884c32db6123.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43229,
+        "aniId": 124786,
+        "deletedAt": null
+      },
+      "jvnl2": {
+        "createdAt": "2021-06-19T15:21:20.000Z",
+        "updatedAt": "2021-06-19T15:50:49.000Z",
+        "checkedAt": null,
+        "id": 37458,
+        "identifier": "jvnl2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Godzilla: S.P (Dub)",
+        "url": "https://9anime.to/watch/godzilla-singular-point-dub.jvnl2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d0/d050fcc7a3b6ce812dba75bae3dad4d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43229,
+        "aniId": 124786,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "godzilla-singular-point": {
+        "createdAt": "2021-03-30T06:01:01.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36062,
+        "identifier": "godzilla-singular-point",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Godzilla Singular Point",
+        "url": "https://gogoanime.vc/category/godzilla-singular-point",
+        "image": "https://gogocdn.net/cover/godzilla-singular-point.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43229,
+        "aniId": 124786,
+        "deletedAt": null
+      },
+      "godzilla-singular-point-dub": {
+        "createdAt": "2021-06-21T07:41:31.000Z",
+        "updatedAt": "2021-06-21T07:50:51.000Z",
+        "checkedAt": null,
+        "id": 37489,
+        "identifier": "godzilla-singular-point-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Godzilla Singular Point (Dub)",
+        "url": "https://gogoanime.vc/category/godzilla-singular-point-dub",
+        "image": "https://gogocdn.net/cover/godzilla-singular-point-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43229,
+        "aniId": 124786,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4322": {
+        "identifier": "4322",
+        "malId": 43229,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Godzilla: S.P",
+        "url": "https://animepahe.com/a/4322"
+      }
+    },
+    "AniMixPlay": {
+      "43229": {
+        "identifier": "43229",
+        "malId": 43229,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Godzilla: S.P",
+        "url": "https://animixplay.to/anime/43229"
+      }
+    },
+    "YugenAnime": {
+      "7395": {
+        "identifier": "7395",
+        "malId": 43229,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Godzilla: S.P",
+        "url": "https://yugen.to/anime/7395/godzilla-sp/"
+      }
+    }
+  }
+}

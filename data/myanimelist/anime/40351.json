@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T09:32:58.000Z",
+  "checkedAt": "2022-05-14T09:32:57.000Z",
+  "id": 40351,
+  "type": "anime",
+  "title": "Pokemon (2019)",
+  "altTitle": [
+    "Pocket Monsters",
+    "Pokemon 2019",
+    "Pokémon",
+    "Pokémon Journeys: The Series",
+    "ポケットモンスター"
+  ],
+  "url": "https://myanimelist.net/anime/40351/Pokemon_2019",
+  "image": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/pocketmonster/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15067"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22559"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15067,
+  "Pages": {
+    "9anime": {
+      "3m68": {
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-11-09T11:14:05.000Z",
+        "checkedAt": null,
+        "id": 1833,
+        "identifier": "3m68",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pocket Monsters (2019)",
+        "url": "https://9anime.to/watch/pokemon-journeys-the-series.3m68",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/11/30508307ed37bf2b8172e4e97fc33c18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40351,
+        "aniId": 112153,
+        "deletedAt": null
+      },
+      "zm3w": {
+        "createdAt": "2020-10-12T15:57:11.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11196,
+        "identifier": "zm3w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon (2019) (Dub)",
+        "url": "https://9anime.to/watch/pokemon-2019-dub.zm3w",
+        "image": "https://static.akacdn.ru/files/images/2020/05/43b64f8c5b057fabb9b453cb92397627.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40351,
+        "aniId": 112153,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pokemon-2019": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-12-19T13:48:36.000Z",
+        "checkedAt": null,
+        "id": 20070,
+        "identifier": "pokemon-2019",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon (2019)",
+        "url": "https://gogoanime.cm/category/pokemon-2019",
+        "image": "https://gogocdn.net/cover/pokemon-2019.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40351,
+        "aniId": 112153,
+        "deletedAt": null
+      },
+      "pokemon-2019-dub": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20071,
+        "identifier": "pokemon-2019-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon (2019) (Dub)",
+        "url": "https://gogoanime.vc/category/pokemon-2019-dub",
+        "image": "https://gogocdn.net/cover/pokemon-2019-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40351,
+        "aniId": 112153,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3601": {
+        "identifier": "3601",
+        "malId": 40351,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pokemon (2019)",
+        "url": "https://animepahe.com/a/3601"
+      }
+    },
+    "AniMixPlay": {
+      "40351": {
+        "identifier": "40351",
+        "malId": 40351,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon (2019)",
+        "url": "https://animixplay.to/anime/40351"
+      }
+    },
+    "YugenAnime": {
+      "1377": {
+        "identifier": "1377",
+        "malId": 40351,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pokemon (2019)",
+        "url": "https://yugen.to/anime/1377/pokemon-2019/"
+      }
+    }
+  }
+}

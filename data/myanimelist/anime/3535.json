@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-18T03:19:17.000Z",
+  "checkedAt": "2022-05-18T03:19:17.000Z",
+  "id": 3535,
+  "type": "anime",
+  "title": "Neko Ramen",
+  "altTitle": [
+    "Neko Raamen",
+    "Neko Rahmen",
+    "猫ラーメン"
+  ],
+  "url": "https://myanimelist.net/anime/3535/Neko_Ramen",
+  "image": "https://cdn.myanimelist.net/images/anime/8/17126.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.neko-rahmen.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5843"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11317"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Neko_Rahmen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5843,
+  "Pages": {
+    "9anime": {
+      "3kmr": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1797,
+        "identifier": "3kmr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neko Ramen",
+        "url": "https://9anime.to/watch/neko-ramen.3kmr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mTlzqON7jx8/WJdJ-uETlVI/AAAAAAABb8Q/TC2r6Sqyaso/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3535,
+        "aniId": 3535,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "neko-ramen": {
+        "createdAt": "2021-05-21T10:43:19.000Z",
+        "updatedAt": "2021-05-21T11:12:56.000Z",
+        "checkedAt": null,
+        "id": 37079,
+        "identifier": "neko-ramen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Neko Ramen",
+        "url": "https://gogoanime.vc/category/neko-ramen",
+        "image": "https://gogocdn.net/cover/neko-ramen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3535,
+        "aniId": 3535,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3535": {
+        "identifier": "3535",
+        "malId": 3535,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neko Ramen",
+        "url": "https://animixplay.to/anime/3535"
+      }
+    },
+    "YugenAnime": {
+      "7691": {
+        "identifier": "7691",
+        "malId": 3535,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neko Ramen",
+        "url": "https://yugen.to/anime/7691/neko-ramen/"
+      }
+    }
+  }
+}

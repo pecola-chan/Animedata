@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-13T20:09:05.000Z",
+  "checkedAt": "2022-05-13T20:09:05.000Z",
+  "id": 38691,
+  "type": "anime",
+  "title": "Dr. Stone",
+  "altTitle": [
+    "Dr. Stone",
+    "ドクターストーン"
+  ],
+  "url": "https://myanimelist.net/anime/38691/Dr_Stone",
+  "image": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://dr-stone.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14491"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21703"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dr._Stone#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278134"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/dr-stone"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14491,
+  "Pages": {
+    "9anime": {
+      "lo6q": {
+        "createdAt": "2020-10-12T15:53:10.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6133,
+        "identifier": "lo6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dr. Stone",
+        "url": "https://9anime.to/watch/dr-stone.lo6q",
+        "image": "//static.bunnycdn.ru/i/cache/images/2019/08/6a16e50e3ed9be5fc307a1ffb928f630.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38691,
+        "aniId": 105333,
+        "deletedAt": null
+      },
+      "om3y": {
+        "createdAt": "2020-10-12T15:54:16.000Z",
+        "updatedAt": "2021-08-01T23:48:14.000Z",
+        "checkedAt": null,
+        "id": 7537,
+        "identifier": "om3y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dr. Stone (Dub)",
+        "url": "https://9anime.to/watch/dr-stone-dub.om3y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/07/41aeeea02653ce45d0698b5bf0c686a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38691,
+        "aniId": 105333,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dr-stone": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17447,
+        "identifier": "dr-stone",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dr. Stone",
+        "url": "https://gogoanime.vc/category/dr-stone",
+        "image": "https://cdnimg.xyz/cover/dr-stone.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38691,
+        "aniId": 105333,
+        "deletedAt": null
+      },
+      "dr-stone-dub": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17448,
+        "identifier": "dr-stone-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dr. Stone (Dub)",
+        "url": "https://gogoanime.vc/category/dr-stone-dub",
+        "image": "https://cdnimg.xyz/cover/dr-stone-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38691,
+        "aniId": 105333,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3332": {
+        "identifier": "3332",
+        "malId": 38691,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dr. Stone",
+        "url": "https://animepahe.com/a/3332"
+      }
+    },
+    "AniMixPlay": {
+      "38691": {
+        "identifier": "38691",
+        "malId": 38691,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dr. Stone",
+        "url": "https://animixplay.to/anime/38691"
+      }
+    },
+    "YugenAnime": {
+      "1140": {
+        "identifier": "1140",
+        "malId": 38691,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dr. Stone",
+        "url": "https://yugen.to/anime/1140/dr-stone/"
+      }
+    }
+  }
+}

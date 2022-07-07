@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T17:52:17.000Z",
+  "checkedAt": "2022-05-14T17:52:17.000Z",
+  "id": 12815,
+  "type": "anime",
+  "title": "Shirokuma Cafe",
+  "altTitle": [
+    "Polar Bear Café",
+    "Shirokuma Café",
+    "Polar Bear Cafe",
+    "しろくまカフェ"
+  ],
+  "url": "https://myanimelist.net/anime/12815/Shirokuma_Cafe",
+  "image": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/shirokumacafe/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8934"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13985"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shirokuma_Café"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-243968"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8934,
+  "Pages": {
+    "9anime": {
+      "l3qq": {
+        "createdAt": "2020-10-12T15:52:57.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5813,
+        "identifier": "l3qq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shirokuma Cafe",
+        "url": "https://9anime.to/watch/shirokuma-cafe.l3qq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jyHgrvGaD-A/V6fX2KUJo9I/AAAAAAAA1Kw/A4xGvpv0ekM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12815,
+        "aniId": 12815,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "polar-bear-cafe": {
+        "createdAt": "2020-12-17T18:55:03.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30441,
+        "identifier": "polar-bear-cafe",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Polar Bear Cafe",
+        "url": "https://gogoanime.vc/category/polar-bear-cafe",
+        "image": "https://gogocdn.net/cover/polar-bear-cafe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12815,
+        "aniId": 12815,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "435": {
+        "identifier": "435",
+        "malId": 12815,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shirokuma Cafe",
+        "url": "https://animepahe.com/a/435"
+      }
+    },
+    "AniMixPlay": {
+      "12815": {
+        "identifier": "12815",
+        "malId": 12815,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shirokuma Cafe",
+        "url": "https://animixplay.to/anime/12815"
+      }
+    },
+    "YugenAnime": {
+      "146": {
+        "identifier": "146",
+        "malId": 12815,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shirokuma Cafe",
+        "url": "https://yugen.to/anime/146/polar-bear-cafe/"
+      }
+    }
+  }
+}

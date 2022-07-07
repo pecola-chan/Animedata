@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T17:17:29.000Z",
+  "checkedAt": "2022-05-14T17:17:29.000Z",
+  "id": 12505,
+  "type": "anime",
+  "title": "C³: Rinkan Gakkou Confusion!",
+  "altTitle": [
+    "C³ Special",
+    "C3 Special",
+    "C Cube Special",
+    "C^3",
+    "C³ Episode 13",
+    "C³ - CubexCursedxCurious Special",
+    "-シーキューブ- 林間学校こんふゅーじょん!"
+  ],
+  "url": "https://myanimelist.net/anime/12505/C³__Rinkan_Gakkou_Confusion",
+  "image": "https://cdn.myanimelist.net/images/anime/8/79351.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/c3/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8376"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/C%C2%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8376,
+  "Pages": {
+    "9anime": {
+      "j60n": {
+        "createdAt": "2020-10-12T15:52:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4727,
+        "identifier": "j60n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "C³ Special",
+        "url": "https://9anime.to/watch/c3-special.j60n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-10xnHZyePPw/WC_d2jgnnaI/AAAAAAABPj4/hZj7nsvcmVo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12505,
+        "aniId": 12505,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1264": {
+        "identifier": "1264",
+        "malId": 12505,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "C³: Rinkan Gakkou Confusion!",
+        "url": "https://animepahe.com/a/1264"
+      }
+    },
+    "AniMixPlay": {
+      "12505": {
+        "identifier": "12505",
+        "malId": 12505,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "C³: Rinkan Gakkou Confusion!",
+        "url": "https://animixplay.to/anime/12505"
+      }
+    },
+    "YugenAnime": {
+      "9572": {
+        "identifier": "9572",
+        "malId": 12505,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "C³: Rinkan Gakkou Confusion!",
+        "url": "https://yugen.to/anime/9572/c3-rinkan-gakkou-confusion/"
+      }
+    }
+  }
+}

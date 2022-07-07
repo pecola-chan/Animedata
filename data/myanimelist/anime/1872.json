@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-14T22:36:53.000Z",
+  "checkedAt": "2022-05-14T22:36:53.000Z",
+  "id": 1872,
+  "type": "anime",
+  "title": "Saru Getchu: On Air",
+  "altTitle": [
+    "Saru! Get You: On Air",
+    "Ape Escape",
+    "サルゲッチュ ～オンエアー～"
+  ],
+  "url": "https://myanimelist.net/anime/1872/Saru_Getchu__On_Air",
+  "image": "https://cdn.myanimelist.net/images/anime/6/24681.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.xebec-inc.co.jp/anime/piposaru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4338"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6259"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saru_Get_You_-On_Air-"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4338,
+  "Pages": {
+    "9anime": {
+      "klpw": {
+        "createdAt": "2020-10-12T15:52:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5492,
+        "identifier": "klpw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saru Getchu: On Air",
+        "url": "https://9anime.to/watch/saru-getchu-on-air.klpw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-T2Ol-7FIQJw/WaIdES4aHRI/AAAAAAAADBY/j80Fzu_WgfAZ-Bj-5DoNkC1vRpaHh5lwgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1872,
+        "aniId": 1872,
+        "deletedAt": null
+      }
+    }
+  }
+}

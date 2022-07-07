@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-15T00:32:53.000Z",
+  "checkedAt": "2022-05-15T00:32:53.000Z",
+  "id": 7540,
+  "type": "anime",
+  "title": "Kurogane no Linebarrels Specials",
+  "altTitle": [
+    "Kurogane no Linebarrels OVA",
+    "Linebarrels of Iron",
+    "鉄のラインバレル"
+  ],
+  "url": "https://myanimelist.net/anime/7540/Kurogane_no_Linebarrels_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/25929.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.linebarrels.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5629"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9089"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Linebarrels_of_Iron#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5629,
+  "Pages": {
+    "9anime": {
+      "llpp3": {
+        "createdAt": "2021-06-10T05:35:06.000Z",
+        "updatedAt": "2021-07-26T10:21:33.000Z",
+        "checkedAt": null,
+        "id": 37292,
+        "identifier": "llpp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurogane no Linebarrels (Dub)",
+        "url": "https://9anime.to/watch/linebarrels-of-iron-dub.llpp3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/75/757080995bf9948dffce64080e426942.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7540,
+        "aniId": 7540,
+        "deletedAt": null
+      },
+      "jvnnn": {
+        "createdAt": "2021-06-10T15:09:53.000Z",
+        "updatedAt": "2021-07-26T10:21:33.000Z",
+        "checkedAt": null,
+        "id": 37307,
+        "identifier": "jvnnn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurogane no Linebarrels Specials",
+        "url": "https://9anime.to/watch/linebarrels-of-iron.jvnnn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/15/1597ecb3d83b9ea3a2e1b31a6f5f53a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7540,
+        "aniId": 7540,
+        "deletedAt": null
+      },
+      "m2mmv": {
+        "createdAt": "2021-06-11T15:10:11.000Z",
+        "updatedAt": "2021-07-26T10:21:33.000Z",
+        "checkedAt": null,
+        "id": 37330,
+        "identifier": "m2mmv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurogane no Linebarrels Specials (Dub)",
+        "url": "https://9anime.to/watch/linebarrels-of-iron-dub.m2mmv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d1/d1fbbad098726845e5c4eb26c2c7d72f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7540,
+        "aniId": 7540,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kurogane-no-linebarrels-specials-dub": {
+        "createdAt": "2021-12-30T13:53:39.000Z",
+        "updatedAt": "2021-12-30T14:23:27.000Z",
+        "checkedAt": null,
+        "id": 39625,
+        "identifier": "kurogane-no-linebarrels-specials-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurogane no Linebarrels Specials (Dub)",
+        "url": "https://gogoanime.cm/category/kurogane-no-linebarrels-specials-dub",
+        "image": "https://gogocdn.net/cover/kurogane-no-linebarrels-specials-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7540,
+        "aniId": 7540,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7540": {
+        "identifier": "7540",
+        "malId": 7540,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kurogane no Linebarrels Specials",
+        "url": "https://animixplay.to/anime/7540"
+      }
+    },
+    "YugenAnime": {
+      "4790": {
+        "identifier": "4790",
+        "malId": 7540,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kurogane no Linebarrels Specials",
+        "url": "https://yugen.to/anime/4790/kurogane-no-linebarrels-specials/"
+      }
+    }
+  }
+}

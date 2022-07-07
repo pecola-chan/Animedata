@@ -1,0 +1,132 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-13T23:46:37.000Z",
+  "checkedAt": "2022-05-13T23:46:37.000Z",
+  "id": 10681,
+  "type": "anime",
+  "title": "Blood-C: The Last Dark",
+  "altTitle": [
+    "Blood-C Movie",
+    "Gekijouban Blood-C",
+    "Blood-C: The Last Dark",
+    "劇場版 ブラッドシー ザ ラスト ダーク"
+  ],
+  "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark",
+  "image": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.production-ig.co.jp/works/blood-c-movie"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8375"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13228"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blood-C"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8375,
+  "Pages": {
+    "9anime": {
+      "00r3": {
+        "createdAt": "2020-10-12T15:48:38.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 383,
+        "identifier": "00r3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blood-C: The Last Dark (Dub)",
+        "url": "https://9anime.to/watch/blood-c-the-last-dark-dub.00r3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1ki146n9DEM/V8bdGJPEbHI/AAAAAAAA61w/bK9ztW-vx9w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10681,
+        "aniId": 10681,
+        "deletedAt": null
+      },
+      "ool4": {
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7587,
+        "identifier": "ool4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blood-C: The Last Dark",
+        "url": "https://9anime.to/watch/blood-c-the-last-dark.ool4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-orpKg1SoU78/V6AFEQQY27I/AAAAAAAAzok/JUxH-pT97-I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10681,
+        "aniId": 10681,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blood-c-the-last-dark-dub": {
+        "createdAt": "2020-11-19T01:21:12.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29387,
+        "identifier": "blood-c-the-last-dark-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blood-C: The Last Dark (Dub)",
+        "url": "https://gogoanime.vc/category/blood-c-the-last-dark-dub",
+        "image": "https://gogocdn.net/cover/blood-c-the-last-dark-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10681,
+        "aniId": 10681,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4010": {
+        "identifier": "4010",
+        "malId": 10681,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Blood-C: The Last Dark",
+        "url": "https://animepahe.com/a/4010"
+      }
+    },
+    "AniMixPlay": {
+      "10681": {
+        "identifier": "10681",
+        "malId": 10681,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Blood-C: The Last Dark",
+        "url": "https://animixplay.to/anime/10681"
+      }
+    },
+    "YugenAnime": {
+      "3221": {
+        "identifier": "3221",
+        "malId": 10681,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Blood-C: The Last Dark",
+        "url": "https://yugen.to/anime/3221/blood-c-the-last-dark/"
+      }
+    }
+  }
+}

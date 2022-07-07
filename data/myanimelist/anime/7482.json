@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-06-05T20:58:51.000Z",
+  "checkedAt": "2022-06-05T20:58:51.000Z",
+  "id": 7482,
+  "type": "anime",
+  "title": "Yume kara, Samenai",
+  "altTitle": [
+    "Can't Stop Dreaming",
+    "夢から、さめない"
+  ],
+  "url": "https://myanimelist.net/anime/7482/Yume_kara_Samenai",
+  "image": "https://cdn.myanimelist.net/images/anime/4/27220.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5010"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7429"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5010,
+  "Pages": {
+    "9anime": {
+      "x3q8": {
+        "createdAt": "2020-10-12T19:34:48.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23933,
+        "identifier": "x3q8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yume kara, Samenai",
+        "url": "https://9anime.to/watch/yume-kara-samenai.x3q8",
+        "image": "//static.9anime.to/i/cache/images/2019/01/ad4331cf429892b8bd53e0419f6d74e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7482,
+        "aniId": 7482,
+        "deletedAt": null
+      }
+    }
+  }
+}

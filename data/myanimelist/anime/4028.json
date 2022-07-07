@@ -1,0 +1,137 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T21:22:29.000Z",
+  "checkedAt": "2022-05-14T21:22:29.000Z",
+  "id": 4028,
+  "type": "anime",
+  "title": "Slayers Revolution",
+  "altTitle": [
+    "Slayers 4th Season",
+    "Slayers 4th Series",
+    "Slayers (TV 2008)",
+    "スレイヤーズ"
+  ],
+  "url": "https://myanimelist.net/anime/4028/Slayers_Revolution",
+  "image": "https://cdn.myanimelist.net/images/anime/7/20940.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/slayers_revolution/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5818"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9500"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Slayers#Slayers_Revolution"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/the-slayers-revolution"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5818,
+  "Pages": {
+    "9anime": {
+      "qk15": {
+        "createdAt": "2020-10-12T15:55:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8412,
+        "identifier": "qk15",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slayers Revolution",
+        "url": "https://9anime.to/watch/slayers-revolution.qk15",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GhaXd-hVNJ0/V6k0oQ0wCNI/AAAAAAAA1c8/DPBD7-xp1FM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4028,
+        "aniId": 4028,
+        "deletedAt": null
+      },
+      "yp5x": {
+        "createdAt": "2020-10-12T15:56:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10790,
+        "identifier": "yp5x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slayers Revolution (Dub)",
+        "url": "https://9anime.to/watch/slayers-revolution-dub.yp5x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ONfSuGMqq7s/WAjQr_ZRJ7I/AAAAAAABJq8/R1KlaqYf4MQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4028,
+        "aniId": 4028,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "slayers-revolution-dub": {
+        "createdAt": "2022-03-10T15:01:26.000Z",
+        "updatedAt": "2022-03-10T15:29:44.000Z",
+        "checkedAt": null,
+        "id": 40434,
+        "identifier": "slayers-revolution-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Slayers Revolution (Dub)",
+        "url": "https://gogoanime.fi/category/slayers-revolution-dub",
+        "image": "https://gogocdn.net/cover/slayers-revolution-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4028,
+        "aniId": 4028,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4577": {
+        "identifier": "4577",
+        "malId": 4028,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Slayers Revolution",
+        "url": "https://animepahe.com/a/4577"
+      }
+    },
+    "AniMixPlay": {
+      "4028": {
+        "identifier": "4028",
+        "malId": 4028,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Slayers Revolution",
+        "url": "https://animixplay.to/anime/4028"
+      }
+    },
+    "YugenAnime": {
+      "3609": {
+        "identifier": "3609",
+        "malId": 4028,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Slayers Revolution",
+        "url": "https://yugen.to/anime/3609/slayers-revolution/"
+      }
+    }
+  }
+}

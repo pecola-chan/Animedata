@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-14T19:27:53.000Z",
+  "checkedAt": "2022-05-14T19:27:53.000Z",
+  "id": 1694,
+  "type": "anime",
+  "title": "iDOLM@STER Xenoglossia",
+  "altTitle": [
+    "Idol Master Xenoglossia",
+    "Idolmaster Xenoglossia",
+    "IDOLM@STER Xenoglossia",
+    "アイドルマスター XENOGLOSSIA（ゼノグラシア）"
+  ],
+  "url": "https://myanimelist.net/anime/1694/iDOLMSTER_Xenoglossia",
+  "image": "https://cdn.myanimelist.net/images/anime/12/41087.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/idolmaster/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4773"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7442"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Idolmaster:_Xenoglossia"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4773,
+  "Pages": {
+    "9anime": {
+      "zn4p": {
+        "createdAt": "2020-10-12T15:57:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11218,
+        "identifier": "zn4p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "iDOLM@STER Xenoglossia",
+        "url": "https://9anime.to/watch/idolmatster-xenoglossia.zn4p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fp4mQi4dmdA/WGx-q31_KdI/AAAAAAABWoQ/kNyC5yHNgOM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1694,
+        "aniId": 1694,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "idolmster-xenoglossia": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18439,
+        "identifier": "idolmster-xenoglossia",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "iDOLM@STER Xenoglossia",
+        "url": "https://gogoanime.vc/category/idolmster-xenoglossia",
+        "image": "https://cdnimg.xyz/cover/idolmster-xenoglossia.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1694,
+        "aniId": 1694,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1694": {
+        "identifier": "1694",
+        "malId": 1694,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "iDOLM@STER Xenoglossia",
+        "url": "https://animixplay.to/anime/1694"
+      }
+    },
+    "YugenAnime": {
+      "1787": {
+        "identifier": "1787",
+        "malId": 1694,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "iDOLM@STER Xenoglossia",
+        "url": "https://yugen.to/anime/1787/idolmster-xenoglossia/"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T22:45:29.000Z",
+  "checkedAt": "2022-05-14T22:45:29.000Z",
+  "id": 6095,
+  "type": "anime",
+  "title": "Azuki-chan the Movie",
+  "altTitle": [
+    "あずきちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/6095/Azuki-chan_the_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/12/45236.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1997-1994/works_movie_azukichan.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5495"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5495,
+  "Pages": {
+    "9anime": {
+      "o62y": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7407,
+        "identifier": "o62y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Azuki-chan the Movie",
+        "url": "https://9anime.to/watch/azuki-chan-the-movie.o62y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jiFHm-xplWw/WHNKvB92cII/AAAAAAABYJI/xoXYGxNKMTM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6095,
+        "aniId": 6095,
+        "deletedAt": null
+      }
+    }
+  }
+}

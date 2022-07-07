@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-14T21:09:41.000Z",
+  "checkedAt": "2022-05-14T21:09:41.000Z",
+  "id": 1704,
+  "type": "anime",
+  "title": "Eat-Man",
+  "altTitle": [
+    "Eatman",
+    "イートマン"
+  ],
+  "url": "https://myanimelist.net/anime/1704/Eat-Man",
+  "image": "https://cdn.myanimelist.net/images/anime/1171/95124.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1773"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=143"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Eat-Man"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277970"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1773,
+  "Pages": {
+    "9anime": {
+      "k539": {
+        "createdAt": "2020-10-12T15:52:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5283,
+        "identifier": "k539",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eat-Man",
+        "url": "https://9anime.to/watch/eat-man.k539",
+        "image": "https://static.akacdn.ru/files/images/2019/05/13b17000236d810c99886a3b2ad041f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1704,
+        "aniId": 1704,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "eat-man": {
+        "createdAt": "2020-10-12T16:00:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17531,
+        "identifier": "eat-man",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eat-Man",
+        "url": "https://gogoanime.vc/category/eat-man",
+        "image": "https://cdnimg.xyz/cover/eat-man.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1704,
+        "aniId": 1704,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1704": {
+        "identifier": "1704",
+        "malId": 1704,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Eat-Man",
+        "url": "https://animixplay.to/anime/1704"
+      }
+    },
+    "YugenAnime": {
+      "353": {
+        "identifier": "353",
+        "malId": 1704,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Eat-Man",
+        "url": "https://yugen.to/anime/353/eat-man/"
+      }
+    }
+  }
+}

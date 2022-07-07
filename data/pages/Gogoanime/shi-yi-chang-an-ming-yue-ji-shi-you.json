@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-11-05T20:28:51.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 28918,
+  "identifier": "shi-yi-chang-an-ming-yue-ji-shi-you",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Shi Yi Chang An: Ming Yue Ji Shi You",
+  "url": "https://gogoanime.vc/category/shi-yi-chang-an-ming-yue-ji-shi-you",
+  "image": "https://gogocdn.net/cover/shi-yi-chang-an-ming-yue-ji-shi-you.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 41223,
+  "aniId": 114117,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-11-05T20:28:50.000Z",
+    "updatedAt": "2022-05-14T18:14:05.000Z",
+    "checkedAt": "2022-05-14T18:14:05.000Z",
+    "id": 41223,
+    "type": "anime",
+    "title": "Shi Yi Chang An: Mingyue Jishi You",
+    "altTitle": [
+      "Shi Yi Chang An: Ming Yue Ji Shi You",
+      "Memory of Chang'an",
+      "拾忆长安·明月几时有"
+    ],
+    "url": "https://myanimelist.net/anime/41223/Shi_Yi_Chang_An__Mingyue_Jishi_You",
+    "image": "https://cdn.myanimelist.net/images/anime/1789/109403.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28223058/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%8B%BE%E5%BF%86%E9%95%BF%E5%AE%89%C2%B7%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89/24149597"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:03.000Z",
+    "updatedAt": "2022-05-15T10:11:59.000Z",
+    "checkedAt": "2022-05-15T10:11:59.000Z",
+    "id": 114117,
+    "type": "anime",
+    "title": "Shi Yi Chang'an: Mingyue Ji Shi You",
+    "altTitle": [
+      "拾忆长安·明月几时有",
+      "Prince, Don't Do This!",
+      "The Love By Hypnotic",
+      "Memory of Chang'an",
+      "Shi Yi Chang'an: Ming Yue Ji Shi You"
+    ],
+    "url": "https://anilist.co/anime/114117",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114117-B5kJyQUnW5iO.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 41223,
+    "deletedAt": null
+  }
+}

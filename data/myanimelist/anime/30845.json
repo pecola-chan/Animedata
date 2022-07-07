@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-15T09:51:18.000Z",
+  "checkedAt": "2022-05-15T09:51:18.000Z",
+  "id": 30845,
+  "type": "anime",
+  "title": "Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!",
+  "altTitle": [
+    "アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！"
+  ],
+  "url": "https://myanimelist.net/anime/30845/Aikatsu_Music_Award__Minna_de_Shou_wo_MoracchaimaShow",
+  "image": "https://cdn.myanimelist.net/images/anime/6/74230.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aikatsu.com/event/ma2015/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11262"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17125"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aikatsu!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11262,
+  "Pages": {
+    "9anime": {
+      "oqv4": {
+        "createdAt": "2020-10-12T15:54:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7639,
+        "identifier": "oqv4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!",
+        "url": "https://9anime.to/watch/aikatsu-music-award-minna-de-shou-wo-moracchaimashow.oqv4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sLGfkDVCXaY/V99DGBkMACI/AAAAAAAA-zo/FfMmUYGenCk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30845,
+        "aniId": 21207,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "965": {
+        "identifier": "965",
+        "malId": 30845,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!",
+        "url": "https://animepahe.com/a/965"
+      }
+    },
+    "AniMixPlay": {
+      "30845": {
+        "identifier": "30845",
+        "malId": 30845,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!",
+        "url": "https://animixplay.to/anime/30845"
+      }
+    }
+  }
+}

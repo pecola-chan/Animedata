@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T16:38:27.000Z",
+  "checkedAt": "2022-05-14T16:38:27.000Z",
+  "id": 41084,
+  "type": "anime",
+  "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+  "altTitle": [
+    "Made in Abyss: The Golden City of the Scorching Sun",
+    "メイドインアビス 烈日の黄金郷"
+  ],
+  "url": "https://myanimelist.net/anime/41084/Made_in_Abyss__Retsujitsu_no_Ougonkyou",
+  "image": "https://cdn.myanimelist.net/images/anime/1864/122519.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://miabyss.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15359"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24357"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Made_in_Abyss"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15359,
+  "Pages": {
+    "9anime": {
+      "6kp9": {
+        "createdAt": "2020-10-12T15:50:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3043,
+        "identifier": "6kp9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Made in Abyss 2nd Season",
+        "url": "https://9anime.to/watch/made-in-abyss-2nd-season.6kp9",
+        "image": "https://static.akacdn.ru/files/images/2020/01/f5a41f5b2c9de2e7852dcac86a7e7268.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41084,
+        "aniId": 114745,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4808": {
+        "identifier": "4808",
+        "malId": 41084,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+        "url": "https://animepahe.com/a/4808"
+      }
+    },
+    "AniMixPlay": {
+      "41084": {
+        "identifier": "41084",
+        "malId": 41084,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+        "url": "https://animixplay.to/anime/41084"
+      }
+    }
+  }
+}

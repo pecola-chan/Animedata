@@ -1,0 +1,144 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T18:11:29.000Z",
+  "checkedAt": "2022-05-14T18:11:29.000Z",
+  "id": 325,
+  "type": "anime",
+  "title": "Peach Girl",
+  "altTitle": [
+    "Peach Girl: Super Pop Love Hurricane",
+    "ピーチガール"
+  ],
+  "url": "https://myanimelist.net/anime/325/Peach_Girl",
+  "image": "https://cdn.myanimelist.net/images/anime/13/75579.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/peachgirl/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2743"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4592"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Peach_Girl"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/peach-girl"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2743,
+  "Pages": {
+    "9anime": {
+      "jz0n": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5111,
+        "identifier": "jz0n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Peach Girl",
+        "url": "https://9anime.to/watch/peach-girl.jz0n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zbFV2uf-dfA/V_ZOTJDLnmI/AAAAAAABEaI/CgVST7HEOEw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 325,
+        "aniId": 325,
+        "deletedAt": null
+      },
+      "olv4": {
+        "createdAt": "2020-10-12T15:54:14.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7529,
+        "identifier": "olv4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Peach Girl (Dub)",
+        "url": "https://9anime.to/watch/peach-girl-dub.olv4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-e9nlGFsFc7g/V7hMf7M5r9I/AAAAAAAA4hU/sMlyWyEFVFU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 325,
+        "aniId": 325,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "peach-girl": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20012,
+        "identifier": "peach-girl",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Peach Girl",
+        "url": "https://gogoanime.vc/category/peach-girl",
+        "image": "https://cdnimg.xyz/images/anime/P/peach-girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 325,
+        "aniId": 325,
+        "deletedAt": null
+      },
+      "peach-girl-dub": {
+        "createdAt": "2021-07-12T14:45:01.000Z",
+        "updatedAt": "2021-07-12T15:15:01.000Z",
+        "checkedAt": null,
+        "id": 37821,
+        "identifier": "peach-girl-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Peach Girl (Dub)",
+        "url": "https://gogoanime.pe/category/peach-girl-dub",
+        "image": "https://gogocdn.net/cover/peach-girl-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 325,
+        "aniId": 325,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "325": {
+        "identifier": "325",
+        "malId": 325,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Peach Girl",
+        "url": "https://animixplay.to/anime/325"
+      }
+    },
+    "YugenAnime": {
+      "63": {
+        "identifier": "63",
+        "malId": 325,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Peach Girl",
+        "url": "https://yugen.to/anime/63/peach-girl/"
+      }
+    }
+  }
+}

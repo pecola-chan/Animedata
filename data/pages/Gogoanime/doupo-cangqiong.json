@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:17.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17439,
+  "identifier": "doupo-cangqiong",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Doupo Cangqiong",
+  "url": "https://gogoanime.vc/category/doupo-cangqiong",
+  "image": "https://cdnimg.xyz/cover/doupo-cangqiong.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36491,
+  "aniId": 102464,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:57.000Z",
+    "updatedAt": "2022-05-14T17:36:05.000Z",
+    "checkedAt": "2022-05-14T17:36:05.000Z",
+    "id": 36491,
+    "type": "anime",
+    "title": "Doupo Cangqiong",
+    "altTitle": [
+      "Fights Break Sphere",
+      "Battle Through the Heavens",
+      "斗破苍穹"
+    ],
+    "url": "https://myanimelist.net/anime/36491/Doupo_Cangqiong",
+    "image": "https://cdn.myanimelist.net/images/anime/6/88942.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13721"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13721
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:28.000Z",
+    "updatedAt": "2022-05-15T10:37:23.000Z",
+    "checkedAt": "2022-05-15T10:37:23.000Z",
+    "id": 102464,
+    "type": "anime",
+    "title": "Dou Po Cangqiong",
+    "altTitle": [
+      "Fights Break Sphere S1",
+      "斗破苍穹",
+      "Battle Through the Heavens",
+      "สัประยุทธ์ทะลุฟ้า"
+    ],
+    "url": "https://anilist.co/anime/102464",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102464-cn59GObkHyt1.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36491,
+    "deletedAt": null
+  }
+}

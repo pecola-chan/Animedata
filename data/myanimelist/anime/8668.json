@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-01-31T20:01:57.000Z",
+  "updatedAt": "2022-05-15T00:08:35.000Z",
+  "checkedAt": "2022-05-15T00:08:35.000Z",
+  "id": 8668,
+  "type": "anime",
+  "title": "Seikon no Qwaser Picture Drama",
+  "altTitle": [
+    "Seikon no Quasar Picture Drama",
+    "The Qwaser Of Stigmata Picture Drama",
+    "聖痕のクェイサー ピクチャードラマ"
+  ],
+  "url": "https://myanimelist.net/anime/8668/Seikon_no_Qwaser_Picture_Drama",
+  "image": "https://cdn.myanimelist.net/images/anime/11/23859.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.qwaser.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6816"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Seikon_No_Qwaser"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6816,
+  "Pages": {
+    "9anime": {
+      "wrq4": {
+        "createdAt": "2021-01-31T23:34:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34426,
+        "identifier": "wrq4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikon no Qwaser Picture Drama",
+        "url": "https://9anime.to/watch/the-qwaser-of-stigmata-picture-drama.wrq4",
+        "image": "//static.bunnycdn.ru/i/cache/images/a/a3/a36895d00a73288d1210d0f9a038c2c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8668,
+        "aniId": 8668,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3171": {
+        "identifier": "3171",
+        "malId": 8668,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikon no Qwaser Picture Drama",
+        "url": "https://animepahe.com/a/3171"
+      }
+    },
+    "AniMixPlay": {
+      "8668": {
+        "identifier": "8668",
+        "malId": 8668,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikon no Qwaser Picture Drama",
+        "url": "https://animixplay.to/anime/8668"
+      }
+    }
+  }
+}

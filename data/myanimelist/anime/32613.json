@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T20:50:47.000Z",
+  "checkedAt": "2022-05-14T20:50:47.000Z",
+  "id": 32613,
+  "type": "anime",
+  "title": "Elsword: El-ui Yeoin",
+  "altTitle": [
+    "Elsword: El Lady",
+    "엘소드 엘의 여인"
+  ],
+  "url": "https://myanimelist.net/anime/32613/Elsword__El-ui_Yeoin",
+  "image": "https://cdn.myanimelist.net/images/anime/8/83284.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://elsword.nexon.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12663"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elsword#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12663,
+  "Pages": {
+    "9anime": {
+      "97xm": {
+        "createdAt": "2020-10-12T15:51:46.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4267,
+        "identifier": "97xm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Elsword: El-ui Yeoin",
+        "url": "https://9anime.to/watch/elsword-el-ui-yeoin.97xm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-euHzFnDoCL0/WFFy4QblCaI/AAAAAAABSyg/_JCjMgzchlM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32613,
+        "aniId": 99662,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "elsword-el-lady": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17551,
+        "identifier": "elsword-el-lady",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Elsword: El Lady",
+        "url": "https://gogoanime.vc/category/elsword-el-lady",
+        "image": "https://images.gogoanime.tv/cover/elsword-el-lady.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32613,
+        "aniId": 99662,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "32613": {
+        "identifier": "32613",
+        "malId": 32613,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Elsword: El-ui Yeoin",
+        "url": "https://animixplay.to/anime/32613"
+      }
+    },
+    "YugenAnime": {
+      "1234": {
+        "identifier": "1234",
+        "malId": 32613,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Elsword: El-ui Yeoin",
+        "url": "https://yugen.to/anime/1234/elsword-el-lady/"
+      }
+    }
+  }
+}

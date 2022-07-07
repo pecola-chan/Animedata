@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T21:56:05.000Z",
+  "checkedAt": "2022-05-14T21:56:05.000Z",
+  "id": 124,
+  "type": "anime",
+  "title": "Fushigi Yuugi: Eikouden",
+  "altTitle": [
+    "Fushigi Yuugi OVA 3",
+    "Mysterious Play: Eikoden",
+    "ふしぎ遊戯 -永光伝"
+  ],
+  "url": "https://myanimelist.net/anime/124/Fushigi_Yuugi__Eikouden",
+  "image": "https://cdn.myanimelist.net/images/anime/11/67701.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/archives/ova_list_21th/ova_201.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=165"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=967"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fushigi_Y%C5%ABgi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269515"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 165,
+  "Pages": {
+    "9anime": {
+      "8p8o": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3961,
+        "identifier": "8p8o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fushigi Yuugi: Eikouden (Dub)",
+        "url": "https://9anime.to/watch/fushigi-yuugi-eikouden-dub.8p8o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vadWCT4AjCo/WITgTmE28jI/AAAAAAABawM/UY5492uLZ1Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 124,
+        "aniId": 124,
+        "deletedAt": null
+      },
+      "l2yz": {
+        "createdAt": "2020-10-12T15:52:56.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5794,
+        "identifier": "l2yz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fushigi Yuugi: Eikouden",
+        "url": "https://9anime.to/watch/fushigi-yuugi-eikouden.l2yz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eH8L6ZWIyJg/WH3XfzeJ-UI/AAAAAAABZv4/xfjc3nlGc6w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 124,
+        "aniId": 124,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "798": {
+        "identifier": "798",
+        "malId": 124,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fushigi Yuugi: Eikouden",
+        "url": "https://animepahe.com/a/798"
+      }
+    },
+    "AniMixPlay": {
+      "124": {
+        "identifier": "124",
+        "malId": 124,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fushigi Yuugi: Eikouden",
+        "url": "https://animixplay.to/anime/124"
+      }
+    },
+    "YugenAnime": {
+      "4309": {
+        "identifier": "4309",
+        "malId": 124,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fushigi Yuugi: Eikouden",
+        "url": "https://yugen.to/anime/4309/fushigi-yuugi-eikoden/"
+      }
+    }
+  }
+}

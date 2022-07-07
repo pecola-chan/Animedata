@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-15T13:14:03.000Z",
+  "checkedAt": "2022-05-15T13:14:03.000Z",
+  "id": 7247,
+  "type": "anime",
+  "title": "Naked Wolves",
+  "altTitle": [
+    "Hadaka no Ookami",
+    "ネイキッドウルブズ"
+  ],
+  "url": "https://myanimelist.net/anime/7247/Naked_Wolves",
+  "image": "https://cdn.myanimelist.net/images/anime/6/17171.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nakedwolves.jp/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Naked_Wolves"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-189368"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "q7p3": {
+        "createdAt": "2020-10-12T15:55:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8341,
+        "identifier": "q7p3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Naked Wolves",
+        "url": "https://9anime.to/watch/naked-wolves.q7p3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dmfUb71rWrE/V9DnD5t1tAI/AAAAAAAA8V4/2P5PR46feTc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7247,
+        "aniId": 7247,
+        "deletedAt": null
+      }
+    }
+  }
+}

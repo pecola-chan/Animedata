@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-14T21:41:06.000Z",
+  "checkedAt": "2022-05-14T21:41:06.000Z",
+  "id": 1862,
+  "type": "anime",
+  "title": "Strike Witches OVA",
+  "altTitle": [
+    "ストライクウィッチーズ"
+  ],
+  "url": "https://myanimelist.net/anime/1862/Strike_Witches_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82422.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toranoana.jp/shop/070101s_witches/070101s_witches.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4530"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6653"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4530,
+  "Pages": {
+    "9anime": {
+      "670z": {
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2973,
+        "identifier": "670z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Strike Witches OVA",
+        "url": "https://9anime.to/watch/strike-witches-ova.670z",
+        "image": "http://static.akacdn.ru/static/images/2018/04/b7bbb94c2164c8264df02eb13aac7fdc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1862,
+        "aniId": 1862,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-15T01:08:22.000Z",
+  "checkedAt": "2022-05-15T01:08:22.000Z",
+  "id": 1659,
+  "type": "anime",
+  "title": "Mai-Otome Specials",
+  "altTitle": [
+    "舞-乙HiME"
+  ],
+  "url": "https://myanimelist.net/anime/1659/Mai-Otome_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/3/27410.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3216"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/My-Otome"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3216,
+  "Pages": {
+    "9anime": {
+      "w2q7": {
+        "createdAt": "2020-10-12T15:56:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9622,
+        "identifier": "w2q7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai-Otome Specials",
+        "url": "https://9anime.to/watch/mai-otome-specials.w2q7",
+        "image": "http://static.akacdn.ru/static/images/2018/10/ca095bedd20b91fc66bfecc5c8277f93.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1659,
+        "aniId": 1659,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mai-otome-specials": {
+        "createdAt": "2021-08-16T09:07:03.000Z",
+        "updatedAt": "2021-08-16T09:36:59.000Z",
+        "checkedAt": null,
+        "id": 38320,
+        "identifier": "mai-otome-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mai-Otome Specials",
+        "url": "https://gogoanime.pe/category/mai-otome-specials",
+        "image": "https://gogocdn.net/cover/mai-otome-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1659,
+        "aniId": 1659,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3404": {
+        "identifier": "3404",
+        "malId": 1659,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mai-Otome Specials",
+        "url": "https://animepahe.com/a/3404"
+      }
+    },
+    "AniMixPlay": {
+      "1659": {
+        "identifier": "1659",
+        "malId": 1659,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mai-Otome Specials",
+        "url": "https://animixplay.to/anime/1659"
+      }
+    },
+    "YugenAnime": {
+      "9636": {
+        "identifier": "9636",
+        "malId": 1659,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mai-Otome Specials",
+        "url": "https://yugen.to/anime/9636/mai-otome-specials/"
+      }
+    }
+  }
+}

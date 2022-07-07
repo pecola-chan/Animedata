@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T17:21:34.000Z",
+  "checkedAt": "2022-05-14T17:21:34.000Z",
+  "id": 1606,
+  "type": "anime",
+  "title": "Kekkaishi (TV)",
+  "altTitle": [
+    "Barrier Master",
+    "Kekkaishi",
+    "結界師"
+  ],
+  "url": "https://myanimelist.net/anime/1606/Kekkaishi_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/kekkaishi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4574"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6806"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kekkaishi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281356"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4574,
+  "Pages": {
+    "9anime": {
+      "630": {
+        "createdAt": "2020-10-12T15:48:26.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 18,
+        "identifier": "630",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kekkaishi (Dub)",
+        "url": "https://9anime.to/watch/kekkaishi-dub.630",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0kCo24ALqvA/V3j2WyL2UrI/AAAAAAAAtAc/ifzTJt4LhQo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1606,
+        "aniId": 1606,
+        "deletedAt": null
+      },
+      "xo6z": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-08-01T09:48:14.000Z",
+        "checkedAt": null,
+        "id": 10328,
+        "identifier": "xo6z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kekkaishi (TV)",
+        "url": "https://9anime.to/watch/kekkaishi.xo6z",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/cf58984685bce0228b214142044ea26a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1606,
+        "aniId": 1606,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kekkaishi": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18770,
+        "identifier": "kekkaishi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kekkaishi",
+        "url": "https://gogoanime.vc/category/kekkaishi",
+        "image": "https://gogocdn.net/images/anime/K/Kekkaishi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1606,
+        "aniId": 1606,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4372": {
+        "identifier": "4372",
+        "malId": 1606,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kekkaishi (TV)",
+        "url": "https://animepahe.com/a/4372"
+      }
+    },
+    "AniMixPlay": {
+      "1606": {
+        "identifier": "1606",
+        "malId": 1606,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kekkaishi (TV)",
+        "url": "https://animixplay.to/anime/1606"
+      }
+    }
+  }
+}

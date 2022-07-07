@@ -1,0 +1,81 @@
+{
+  "createdAt": "2022-04-09T11:00:27.000Z",
+  "updatedAt": "2022-05-15T00:26:35.000Z",
+  "checkedAt": "2022-05-15T00:26:35.000Z",
+  "id": 51525,
+  "type": "anime",
+  "title": "Jantama Pong☆ Episode 0",
+  "altTitle": [
+    "Mahjong Soul Pon☆ Episode 0",
+    "じゃんたま PONG☆ 0"
+  ],
+  "url": "https://myanimelist.net/anime/51525/Jantama_Pong☆_Episode_0",
+  "image": "https://cdn.myanimelist.net/images/anime/1385/122259.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mahjongsoul-pong.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17127"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahjong_Soul"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282592"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 17127,
+  "Pages": {
+    "9anime": {
+      "6lvkz": {
+        "createdAt": "2022-04-11T08:42:52.000Z",
+        "updatedAt": "2022-04-11T08:42:52.000Z",
+        "checkedAt": null,
+        "id": 40726,
+        "identifier": "6lvkz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jantama Pong☆ Episode 0",
+        "url": "https://9anime.to/watch/jantama-pong-episode-0.6lvkz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/69/69fb4fee6a3ddba70c191bea67f5fd55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 51525,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4847": {
+        "identifier": "4847",
+        "malId": 51525,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Jantama Pong☆ Episode 0",
+        "url": "https://animepahe.com/a/4847"
+      }
+    },
+    "YugenAnime": {
+      "14975": {
+        "identifier": "14975",
+        "malId": 51525,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jantama Pong☆ Episode 0",
+        "url": "https://yugen.to/anime/14975/jantama-pong-episode-0/"
+      }
+    }
+  }
+}

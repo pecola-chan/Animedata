@@ -1,0 +1,138 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T20:05:17.000Z",
+  "checkedAt": "2022-05-14T20:05:17.000Z",
+  "id": 173,
+  "type": "anime",
+  "title": "Tactics",
+  "altTitle": [
+    "タクティクス"
+  ],
+  "url": "https://myanimelist.net/anime/173/Tactics",
+  "image": "https://cdn.myanimelist.net/images/anime/8/37549.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/tactics/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2182"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4100"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tactics_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2182,
+  "Pages": {
+    "9anime": {
+      "2v04": {
+        "createdAt": "2020-10-12T15:49:31.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1513,
+        "identifier": "2v04",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tactics",
+        "url": "https://9anime.to/watch/tactics.2v04",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1kngTP3L_wA/V-6qgLNmzGI/AAAAAAABCrg/w84E88lh89Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 173,
+        "aniId": 173,
+        "deletedAt": null
+      },
+      "v9r6": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9328,
+        "identifier": "v9r6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tactics (Dub)",
+        "url": "https://9anime.to/watch/tactics-dub.v9r6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fGiMjmxX8W4/V7Csz2Fdk2I/AAAAAAAA3FE/9HRYT--dEQA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 173,
+        "aniId": 173,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tactics-": {
+        "createdAt": "2020-10-12T16:02:00.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20916,
+        "identifier": "tactics-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tactics ",
+        "url": "https://gogoanime.vc/category/tactics-",
+        "image": "https://cdnimg.xyz/images/anime/T/tactics.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 173,
+        "aniId": 173,
+        "deletedAt": null
+      },
+      "tactics-dub": {
+        "createdAt": "2020-10-12T16:02:00.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20917,
+        "identifier": "tactics-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tactics (Dub)",
+        "url": "https://gogoanime.vc/category/tactics-dub",
+        "image": "https://cdnimg.xyz/cover/tactics-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 173,
+        "aniId": 173,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "173": {
+        "identifier": "173",
+        "malId": 173,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tactics",
+        "url": "https://animixplay.to/anime/173"
+      }
+    },
+    "YugenAnime": {
+      "55": {
+        "identifier": "55",
+        "malId": 173,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tactics",
+        "url": "https://yugen.to/anime/55/tactics/"
+      }
+    }
+  }
+}

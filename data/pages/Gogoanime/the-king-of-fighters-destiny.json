@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T16:02:04.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21054,
+  "identifier": "the-king-of-fighters-destiny",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "The King of Fighters: Destiny",
+  "url": "https://gogoanime.vc/category/the-king-of-fighters-destiny",
+  "image": "https://images.gogoanime.tv/cover/the-king-of-fighters-destiny.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 35204,
+  "aniId": 99934,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:53.000Z",
+    "updatedAt": "2022-05-14T20:16:05.000Z",
+    "checkedAt": "2022-05-14T20:16:05.000Z",
+    "id": 35204,
+    "type": "anime",
+    "title": "The King of Fighters: Destiny",
+    "altTitle": [
+      "KOF",
+      "Quanhuang Mingyun",
+      "拳皇命运"
+    ],
+    "url": "https://myanimelist.net/anime/35204/The_King_of_Fighters__Destiny",
+    "image": "https://cdn.myanimelist.net/images/anime/1238/110960.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kofd.snkchina.com.cn/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13005"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13005
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:25.000Z",
+    "updatedAt": "2022-05-15T12:25:59.000Z",
+    "checkedAt": "2022-05-15T12:25:59.000Z",
+    "id": 99934,
+    "type": "anime",
+    "title": "Quanhuang Mingyun",
+    "altTitle": [
+      "拳皇命运",
+      "ザ・キング・オブ・ファイターズ デスティニー",
+      "格斗天王",
+      "Gedou Tianwang",
+      "THE KING OF FIGHTERS: DESTINY"
+    ],
+    "url": "https://anilist.co/anime/99934",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99934-HIwrhaD4omJd.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 35204,
+    "deletedAt": null
+  }
+}

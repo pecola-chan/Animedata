@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-15T14:07:08.000Z",
+  "checkedAt": "2022-05-15T14:07:08.000Z",
+  "id": 3738,
+  "type": "anime",
+  "title": "Usavich II",
+  "altTitle": [
+    "Usavich 2",
+    "Usavich II",
+    "ウサビッチ"
+  ],
+  "url": "https://myanimelist.net/anime/3738/Usavich_II",
+  "image": "https://cdn.myanimelist.net/images/anime/5/15661.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.usavich.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5917"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1360"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Usavich"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5917,
+  "Pages": {
+    "9anime": {
+      "0w87": {
+        "createdAt": "2020-10-12T15:48:54.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 688,
+        "identifier": "0w87",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usavich II",
+        "url": "https://9anime.to/watch/usavich-ii.0w87",
+        "image": "https://static.akacdn.ru/files/images/2018/04/8a7217f431a1b22d1116a9929bc4e57c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3738,
+        "aniId": 3738,
+        "deletedAt": null
+      }
+    }
+  }
+}

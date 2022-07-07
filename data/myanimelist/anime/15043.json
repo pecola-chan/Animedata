@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T21:02:35.000Z",
+  "checkedAt": "2022-05-14T21:02:35.000Z",
+  "id": 15043,
+  "type": "anime",
+  "title": "Haitai Nanafa",
+  "altTitle": [
+    "Haitai Nana Fa",
+    "はいたい七葉"
+  ],
+  "url": "https://myanimelist.net/anime/15043/Haitai_Nanafa",
+  "image": "https://cdn.myanimelist.net/images/anime/12/45991.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hai-tai.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9295"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14638"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haitai_Nanafa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9295,
+  "Pages": {
+    "9anime": {
+      "8xoq": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4076,
+        "identifier": "8xoq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haitai Nanafa",
+        "url": "https://9anime.to/watch/haitai-nanafa.8xoq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tRYO2Shz9MU/V7O50m5_crI/AAAAAAAA3oo/EOM49XR7-GI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15043,
+        "aniId": 15043,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "haitai-nanafa": {
+        "createdAt": "2020-10-12T17:53:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23693,
+        "identifier": "haitai-nanafa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Haitai Nanafa",
+        "url": "https://gogoanime.vc/category/haitai-nanafa",
+        "image": "https://gogocdn.net/images/anime/H/haitai_nanafa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15043,
+        "aniId": 15043,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "15043": {
+        "identifier": "15043",
+        "malId": 15043,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Haitai Nanafa",
+        "url": "https://animixplay.to/anime/15043"
+      }
+    },
+    "YugenAnime": {
+      "142": {
+        "identifier": "142",
+        "malId": 15043,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Haitai Nanafa",
+        "url": "https://yugen.to/anime/142/haitai-nanafa/"
+      }
+    }
+  }
+}

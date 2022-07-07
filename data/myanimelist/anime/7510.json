@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-15T07:23:33.000Z",
+  "checkedAt": "2022-05-15T07:23:33.000Z",
+  "id": 7510,
+  "type": "anime",
+  "title": "Shisha no Sho",
+  "altTitle": [
+    "The Book of a Dead Person",
+    "A Book of a Dead Person",
+    "The Book of the Dead",
+    "死者の書"
+  ],
+  "url": "https://myanimelist.net/anime/7510/Shisha_no_Sho",
+  "image": "https://cdn.myanimelist.net/images/anime/3/18021.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.geneon-ent.co.jp/anime/NAA/contents/hp0009/index00090000.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6193"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Book_of_the_Dead_%28film%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6193,
+  "Pages": {
+    "9anime": {
+      "pz29": {
+        "createdAt": "2020-10-12T15:54:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8203,
+        "identifier": "pz29",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Book of the Dead",
+        "url": "https://9anime.to/watch/the-book-of-the-dead.pz29",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/038b889facf3a36ad680e9d9530ad222.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7510,
+        "aniId": 7510,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7510": {
+        "identifier": "7510",
+        "malId": 7510,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shisha no Sho",
+        "url": "https://animixplay.to/anime/7510"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:48.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18423,
+  "identifier": "hyper-police",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Hyper Police",
+  "url": "https://gogoanime.vc/category/hyper-police",
+  "image": "https://gogocdn.net/cover/hyper-police.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1180,
+  "aniId": 1180,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:13.000Z",
+    "updatedAt": "2022-05-15T03:57:23.000Z",
+    "checkedAt": "2022-05-15T03:57:23.000Z",
+    "id": 1180,
+    "type": "anime",
+    "title": "Hyper Police",
+    "altTitle": [
+      "はいぱーぽりす"
+    ],
+    "url": "https://myanimelist.net/anime/1180/Hyper_Police",
+    "image": "https://cdn.myanimelist.net/images/anime/1401/119360.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/hyper/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=417"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=603"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/はいぱーぽりす"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 417
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:57.000Z",
+    "updatedAt": "2022-05-15T20:12:24.000Z",
+    "checkedAt": "2022-05-15T20:12:24.000Z",
+    "id": 1180,
+    "type": "anime",
+    "title": "Hyper Police",
+    "altTitle": [
+      "はいぱーぽりす"
+    ],
+    "url": "https://anilist.co/anime/1180",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1180.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1180,
+    "deletedAt": null
+  }
+}

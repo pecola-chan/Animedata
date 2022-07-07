@@ -1,0 +1,84 @@
+{
+  "createdAt": "2021-01-05T14:56:45.000Z",
+  "updatedAt": "2022-05-14T21:31:29.000Z",
+  "checkedAt": "2022-05-14T21:31:29.000Z",
+  "id": 44513,
+  "type": "anime",
+  "title": "Wo Shi Da Shenxian",
+  "altTitle": [
+    "Da Shen Xian",
+    "I Am A Great God",
+    "我是大神仙"
+  ],
+  "url": "https://myanimelist.net/anime/44513/Wo_Shi_Da_Shenxian",
+  "image": "https://cdn.myanimelist.net/images/anime/1255/110963.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/m/mzc002009u3yfca.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E5%A4%A7%E7%A5%9E%E4%BB%99/23810783"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "da-shen-xian": {
+        "createdAt": "2020-11-17T10:45:25.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29312,
+        "identifier": "da-shen-xian",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Da Shen Xian",
+        "url": "https://gogoanime.vc/category/da-shen-xian",
+        "image": "https://gogocdn.net/cover/da-shen-xian.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 44513,
+        "aniId": 120203,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "7np8": {
+        "createdAt": "2020-12-09T14:03:21.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29841,
+        "identifier": "7np8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wo Shi Da Shenxian",
+        "url": "https://9anime.to/watch/da-shen-xian.7np8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/97/97987a309b3535a229fe8014cd047176.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44513,
+        "aniId": 120203,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44513": {
+        "identifier": "44513",
+        "malId": 44513,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wo Shi Da Shenxian",
+        "url": "https://animixplay.to/anime/44513"
+      }
+    }
+  }
+}

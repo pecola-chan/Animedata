@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-15T01:22:05.000Z",
+  "checkedAt": "2022-05-15T01:22:05.000Z",
+  "id": 37769,
+  "type": "anime",
+  "title": "Aguu: Tensai Ningyou",
+  "altTitle": [
+    "Aguu: Genius Dolls",
+    "悪偶 ‐天才人形‐"
+  ],
+  "url": "https://myanimelist.net/anime/37769/Aguu__Tensai_Ningyou",
+  "image": "https://cdn.myanimelist.net/images/anime/1208/92825.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://aguu-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14044"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20901"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%82%AA%E5%81%B6"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14044,
+  "Pages": {
+    "9anime": {
+      "nxz8": {
+        "createdAt": "2020-10-12T15:54:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7292,
+        "identifier": "nxz8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aguu: Genius Dolls",
+        "url": "https://9anime.to/watch/aguu-genius-dolls.nxz8",
+        "image": "http://static.akacdn.ru/static/images/2018/06/3bb4f3f04de8c22561f8282a22f12c27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37769,
+        "aniId": 101631,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aguu-tensai-ningyou": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16393,
+        "identifier": "aguu-tensai-ningyou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aguu: Tensai Ningyou",
+        "url": "https://gogoanime.vc/category/aguu-tensai-ningyou",
+        "image": "https://cdnimg.xyz/cover/aguu-tensai-ningyou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37769,
+        "aniId": 101631,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2696": {
+        "identifier": "2696",
+        "malId": 37769,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aguu: Tensai Ningyou",
+        "url": "https://animepahe.com/a/2696"
+      }
+    },
+    "AniMixPlay": {
+      "37769": {
+        "identifier": "37769",
+        "malId": 37769,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aguu: Tensai Ningyou",
+        "url": "https://animixplay.to/anime/37769"
+      }
+    },
+    "YugenAnime": {
+      "1890": {
+        "identifier": "1890",
+        "malId": 37769,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aguu: Tensai Ningyou",
+        "url": "https://yugen.to/anime/1890/aguu-tensai-ningyou/"
+      }
+    }
+  }
+}

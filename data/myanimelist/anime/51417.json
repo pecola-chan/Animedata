@@ -1,0 +1,96 @@
+{
+  "createdAt": "2022-04-01T11:30:50.000Z",
+  "updatedAt": "2022-05-14T16:09:35.000Z",
+  "checkedAt": "2022-05-14T16:09:35.000Z",
+  "id": 51417,
+  "type": "anime",
+  "title": "Engage Kiss",
+  "altTitle": [
+    "Engage Kiss"
+  ],
+  "url": "https://myanimelist.net/anime/51417/Engage_Kiss",
+  "image": "https://cdn.myanimelist.net/images/anime/1354/123263.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://engage-kiss.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17284"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Engage_Kiss"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 17284,
+  "Pages": {
+    "Gogoanime": {
+      "engage-kiss": {
+        "createdAt": "2022-07-02T17:30:02.624Z",
+        "updatedAt": "2022-07-02T18:20:00.000Z",
+        "checkedAt": "2022-07-02T17:30:02.000Z",
+        "id": 41313,
+        "identifier": "engage-kiss",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Engage Kiss",
+        "url": "https://gogoanime.lu/category/engage-kiss",
+        "image": "https://gogocdn.net/cover/engage-kiss.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 51417,
+        "aniId": 146625,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "w1oz7": {
+        "createdAt": "2022-07-02T18:00:07.645Z",
+        "updatedAt": "2022-07-02T18:20:00.000Z",
+        "checkedAt": "2022-07-02T18:00:07.000Z",
+        "id": 41314,
+        "identifier": "w1oz7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Engage Kiss",
+        "url": "https://9anime.to/watch/engage-kiss.w1oz7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f4/f455f69c6ca4054bcc498fd6ee192c3d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 51417,
+        "aniId": 146625,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4818": {
+        "identifier": "4818",
+        "malId": 51417,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Engage Kiss",
+        "url": "https://animepahe.com/a/4818"
+      }
+    },
+    "AniMixPlay": {
+      "51417": {
+        "identifier": "51417",
+        "malId": 51417,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Engage Kiss",
+        "url": "https://animixplay.to/anime/51417"
+      }
+    }
+  }
+}

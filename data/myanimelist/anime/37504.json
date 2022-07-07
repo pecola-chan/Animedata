@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T18:43:41.000Z",
+  "checkedAt": "2022-05-14T18:43:41.000Z",
+  "id": 37504,
+  "type": "anime",
+  "title": "Mob Psycho Mini",
+  "altTitle": [
+    "Mob Psycho 100 Specials",
+    "モブサイコ mini"
+  ],
+  "url": "https://myanimelist.net/anime/37504/Mob_Psycho_Mini",
+  "image": "https://cdn.myanimelist.net/images/anime/1225/91141.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mobpsycho100.com/#BD_DVD"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11803"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11803,
+  "Pages": {
+    "9anime": {
+      "3619": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 112,
+        "identifier": "3619",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mob Psycho Mini",
+        "url": "https://9anime.to/watch/mob-psycho-mini.3619",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/c712f2349f233566c139dfc1c02add1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37504,
+        "aniId": 102449,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mob-psycho-mini": {
+        "createdAt": "2020-10-12T16:01:18.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19480,
+        "identifier": "mob-psycho-mini",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mob Psycho Mini",
+        "url": "https://gogoanime.vc/category/mob-psycho-mini",
+        "image": "https://images.gogoanime.tv/cover/mob-psycho-mini.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37504,
+        "aniId": 102449,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2535": {
+        "identifier": "2535",
+        "malId": 37504,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mob Psycho Mini",
+        "url": "https://animepahe.com/a/2535"
+      }
+    },
+    "AniMixPlay": {
+      "37504": {
+        "identifier": "37504",
+        "malId": 37504,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mob Psycho Mini",
+        "url": "https://animixplay.to/anime/37504"
+      }
+    },
+    "YugenAnime": {
+      "2911": {
+        "identifier": "2911",
+        "malId": 37504,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mob Psycho Mini",
+        "url": "https://yugen.to/anime/2911/mob-psycho-mini/"
+      }
+    }
+  }
+}

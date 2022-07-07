@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-06-03T04:54:27.000Z",
+  "checkedAt": "2022-06-03T04:54:27.000Z",
+  "id": 39334,
+  "type": "anime",
+  "title": "Beyond Creation",
+  "altTitle": [
+    "Beyond Creation",
+    "Beyond Creation"
+  ],
+  "url": "https://myanimelist.net/anime/39334/Beyond_Creation",
+  "image": "https://cdn.myanimelist.net/images/anime/1123/99276.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=96sI9azWMcM"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "8jrv": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-09-15T11:20:13.000Z",
+        "checkedAt": null,
+        "id": 3875,
+        "identifier": "8jrv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beyond Creation",
+        "url": "https://9anime.to/watch/beyond-creation.8jrv",
+        "image": "https://static.akacdn.ru/files/images/2020/07/cea343cf3f22500ed9c679799a19c4e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39334,
+        "aniId": 139272,
+        "deletedAt": null
+      }
+    }
+  }
+}

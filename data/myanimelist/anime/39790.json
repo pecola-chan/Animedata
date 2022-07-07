@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T09:42:21.000Z",
+  "checkedAt": "2022-05-14T09:42:21.000Z",
+  "id": 39790,
+  "type": "anime",
+  "title": "Adachi to Shimamura",
+  "altTitle": [
+    "Adashima",
+    "Adachi and Shimamura",
+    "安達としまむら"
+  ],
+  "url": "https://myanimelist.net/anime/39790/Adachi_to_Shimamura",
+  "image": "https://cdn.myanimelist.net/images/anime/1649/109056.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tbs.co.jp/anime/adashima/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14904"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22954"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adachi_to_Shimamura#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282285"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/adachi-and-shimamura"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14904,
+  "Pages": {
+    "9anime": {
+      "9vjm": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4452,
+        "identifier": "9vjm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Adachi to Shimamura",
+        "url": "https://9anime.to/watch/adachi-and-shimamura.9vjm",
+        "image": "//static.9anime.to/i/cache/images/c/c0/c08e62e4410ff617297bfa3a734eef52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39790,
+        "aniId": 109287,
+        "deletedAt": null
+      },
+      "3w3r": {
+        "createdAt": "2021-02-18T19:36:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35008,
+        "identifier": "3w3r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Adachi to Shimamura (Dub)",
+        "url": "https://9anime.to/watch/adachi-and-shimamura-dub.3w3r",
+        "image": "//static.bunnycdn.ru/i/cache/images/8/85/85691d73738813801c5046c4e1cae2f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39790,
+        "aniId": 109287,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "adachi-to-shimamura": {
+        "createdAt": "2020-10-12T17:59:28.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23776,
+        "identifier": "adachi-to-shimamura",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Adachi to Shimamura",
+        "url": "https://gogoanime.vc/category/adachi-to-shimamura",
+        "image": "https://gogocdn.net/cover/adachi-to-shimamura.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39790,
+        "aniId": 109287,
+        "deletedAt": null
+      },
+      "adachi-to-shimamura-dub": {
+        "createdAt": "2021-02-18T20:33:31.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35012,
+        "identifier": "adachi-to-shimamura-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Adachi to Shimamura (Dub)",
+        "url": "https://gogoanime.vc/category/adachi-to-shimamura-dub",
+        "image": "https://gogocdn.net/cover/adachi-to-shimamura-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39790,
+        "aniId": 109287,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4081": {
+        "identifier": "4081",
+        "malId": 39790,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Adachi to Shimamura",
+        "url": "https://animepahe.com/a/4081"
+      }
+    },
+    "AniMixPlay": {
+      "39790": {
+        "identifier": "39790",
+        "malId": 39790,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Adachi to Shimamura",
+        "url": "https://animixplay.to/anime/39790"
+      }
+    },
+    "YugenAnime": {
+      "6484": {
+        "identifier": "6484",
+        "malId": 39790,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Adachi to Shimamura",
+        "url": "https://yugen.to/anime/6484/adachi-to-shimamura/"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-20T23:52:55.000Z",
+  "checkedAt": "2022-05-20T23:52:55.000Z",
+  "id": 8631,
+  "type": "anime",
+  "title": "YanYan Machiko",
+  "altTitle": [
+    "やんやんマチコ"
+  ],
+  "url": "https://myanimelist.net/anime/8631/YanYan_Machiko",
+  "image": "https://cdn.myanimelist.net/images/anime/9/40785.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yanyan-machiko.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8368"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%84%E3%82%93%E3%82%84%E3%82%93%E3%83%9E%E3%83%81%E3%82%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8368,
+  "Pages": {
+    "9anime": {
+      "85vo": {
+        "createdAt": "2020-10-12T15:51:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3797,
+        "identifier": "85vo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "YanYan Machiko",
+        "url": "https://9anime.to/watch/yanyan-machiko.85vo",
+        "image": "https://static.akacdn.ru/static/images/2018/03/8adc4a816da0f6fdd6d0307c0b896f2d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8631,
+        "aniId": 8631,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T20:08:30.000Z",
+  "checkedAt": "2022-05-14T20:08:30.000Z",
+  "id": 8783,
+  "type": "anime",
+  "title": "Nezha Nao Hai",
+  "altTitle": [
+    "Prince Nezha's Triumph Against Dragon King",
+    "Nazha Naohai",
+    "Nezha no Ooabare",
+    "Nezha Conquers The Dragon King",
+    "哪吒鬧海"
+  ],
+  "url": "https://myanimelist.net/anime/8783/Nezha_Nao_Hai",
+  "image": "https://cdn.myanimelist.net/images/anime/1217/112853.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9369"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Prince_Nezha's_Triumph_Against_Dragon_King"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9369,
+  "Pages": {
+    "9anime": {
+      "l7o3": {
+        "createdAt": "2020-10-12T15:53:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5922,
+        "identifier": "l7o3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Prince Nezha's Triumph Against Dragon King",
+        "url": "https://9anime.to/watch/prince-nezhas-triumph-against-dragon-king.l7o3",
+        "image": "https://static.akacdn.ru/files/images/2018/04/03119c57df56ab09ea2816df786685e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8783,
+        "aniId": 8783,
+        "deletedAt": null
+      }
+    }
+  }
+}

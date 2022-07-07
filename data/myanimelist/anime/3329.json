@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T20:14:29.000Z",
+  "checkedAt": "2022-05-14T20:14:29.000Z",
+  "id": 3329,
+  "type": "anime",
+  "title": "Izumo (2003)",
+  "altTitle": [
+    "IZUMO (2003)"
+  ],
+  "url": "https://myanimelist.net/anime/3329/Izumo_2003",
+  "image": "https://cdn.myanimelist.net/images/anime/6/5355.jpg",
+  "category": "OVA",
+  "hentai": true,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.milky-anime.com/01/viewer3/index.cgi?action=lineup&mode=milky&dir=izumo&file=izumo-1"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1987"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4922"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1987,
+  "Pages": {
+    "9anime": {
+      "24ml": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1271,
+        "identifier": "24ml",
+        "type": "anime",
+        "page": "9anime",
+        "title": "IZUMO (2003)",
+        "url": "https://9anime.to/watch/izumo-2003.24ml",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-v4zW1s5eEyw/WMaqENagheI/AAAAAAABfgE/3YbMS4vLvc4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3329,
+        "aniId": 3329,
+        "deletedAt": null
+      }
+    }
+  }
+}

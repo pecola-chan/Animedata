@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-05-13T20:09:17.000Z",
+  "checkedAt": "2022-05-13T20:09:17.000Z",
+  "id": 29803,
+  "type": "anime",
+  "title": "Overlord",
+  "altTitle": [
+    "Overlord",
+    "オーバーロード"
+  ],
+  "url": "https://myanimelist.net/anime/29803/Overlord",
+  "image": "https://cdn.myanimelist.net/images/anime/7/88019.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://overlord-anime.com/_season1/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10816"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16729"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Overlord_(novel_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273203"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/overlord"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10816,
+  "Pages": {
+    "9anime": {
+      "6j94": {
+        "createdAt": "2020-10-12T15:50:43.000Z",
+        "updatedAt": "2022-06-13T21:02:33.000Z",
+        "checkedAt": "2022-06-13T21:02:33.000Z",
+        "id": 3016,
+        "identifier": "6j94",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Overlord (Dub)",
+        "url": "https://9anime.to/watch/overlord-dub.6j94",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/fbee50266322e15e1c5421945377b5f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29803,
+        "aniId": 20832,
+        "deletedAt": null
+      },
+      "o35": {
+        "createdAt": "2020-10-12T15:54:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7344,
+        "identifier": "o35",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Overlord",
+        "url": "https://9anime.to/watch/overlord.o35",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-v4azBbxJxL0/V3hycS5YXOI/AAAAAAAAs0U/Vut_iYpqK1U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29803,
+        "aniId": 20832,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "overlord": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19967,
+        "identifier": "overlord",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Overlord",
+        "url": "https://gogoanime.vc/category/overlord",
+        "image": "https://images.gogoanime.tv/images/upload/overlord.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29803,
+        "aniId": 20832,
+        "deletedAt": null
+      },
+      "overlord-dub": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19968,
+        "identifier": "overlord-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Overlord (Dub)",
+        "url": "https://gogoanime.vc/category/overlord-dub",
+        "image": "https://cdnimg.xyz/cover/overlord-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29803,
+        "aniId": 20832,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "214": {
+        "identifier": "214",
+        "malId": 29803,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Overlord",
+        "url": "https://animepahe.com/a/214"
+      }
+    },
+    "AniMixPlay": {
+      "29803": {
+        "identifier": "29803",
+        "malId": 29803,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Overlord",
+        "url": "https://animixplay.to/anime/29803"
+      }
+    },
+    "YugenAnime": {
+      "1428": {
+        "identifier": "1428",
+        "malId": 29803,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Overlord",
+        "url": "https://yugen.to/anime/1428/overlord/"
+      }
+    }
+  }
+}

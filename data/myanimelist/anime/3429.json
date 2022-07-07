@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T22:10:23.000Z",
+  "checkedAt": "2022-05-14T22:10:22.000Z",
+  "id": 3429,
+  "type": "anime",
+  "title": "Blame! Special",
+  "altTitle": [
+    "Blame! Extra Log: Collapsed Data"
+  ],
+  "url": "https://myanimelist.net/anime/3429/Blame_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/5/10569.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1050"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1166"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1050,
+  "Pages": {
+    "9anime": {
+      "53j0": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2502,
+        "identifier": "53j0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blame! Special",
+        "url": "https://9anime.to/watch/blame-special.53j0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0WqPJV4Ua28/WGzaVKFGRKI/AAAAAAABWyA/Ch8C2wCogrY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3429,
+        "aniId": 3429,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4066": {
+        "identifier": "4066",
+        "malId": 3429,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Blame! Special",
+        "url": "https://animepahe.com/a/4066"
+      }
+    },
+    "AniMixPlay": {
+      "3429": {
+        "identifier": "3429",
+        "malId": 3429,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Blame! Special",
+        "url": "https://animixplay.to/anime/3429"
+      }
+    }
+  }
+}

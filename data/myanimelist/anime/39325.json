@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T21:42:05.000Z",
+  "checkedAt": "2022-05-14T21:42:05.000Z",
+  "id": 39325,
+  "type": "anime",
+  "title": "Otona no Bouguya-san (Rimen)",
+  "altTitle": [
+    "おとなの防具屋さん(裏面)"
+  ],
+  "url": "https://myanimelist.net/anime/39325/Otona_no_Bouguya-san_Rimen",
+  "image": "https://cdn.myanimelist.net/images/anime/1191/99230.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ganma.jp/g/anime/otonabouguuramen/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14694"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14694,
+  "Pages": {
+    "9anime": {
+      "rx2y": {
+        "createdAt": "2020-10-12T15:55:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9062,
+        "identifier": "rx2y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otona no Bouguya-san (Rimen)",
+        "url": "https://9anime.to/watch/otona-no-bouguya-san-rimen.rx2y",
+        "image": "//static.9anime.to/i/cache/images/2019/03/74305dba945393a84e5251ee4a4f440d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 39325,
+        "aniId": 108355,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "otona-no-bouguya-san-rimen": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19952,
+        "identifier": "otona-no-bouguya-san-rimen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Otona no Bouguya-san (Rimen)",
+        "url": "https://gogoanime.vc/category/otona-no-bouguya-san-rimen",
+        "image": "https://gogocdn.net/cover/otona-no-bouguya-san-rimen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 39325,
+        "aniId": 108355,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4213": {
+        "identifier": "4213",
+        "malId": 39325,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Otona no Bouguya-san (Rimen)",
+        "url": "https://animepahe.com/a/4213"
+      }
+    },
+    "AniMixPlay": {
+      "39325": {
+        "identifier": "39325",
+        "malId": 39325,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Otona no Bouguya-san (Rimen)",
+        "url": "https://animixplay.to/anime/39325"
+      }
+    },
+    "YugenAnime": {
+      "6492": {
+        "identifier": "6492",
+        "malId": 39325,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Otona no Bouguya-san (Rimen)",
+        "url": "https://yugen.to/anime/6492/otona-no-bouguya-san-rimen/"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-14T23:41:23.000Z",
+  "checkedAt": "2022-05-14T23:41:23.000Z",
+  "id": 34223,
+  "type": "anime",
+  "title": "Forest Fairy Five",
+  "altTitle": [
+    "Mori no Yousei: Kinoko no Musume",
+    "Forest Fairy Five",
+    "FOREST FAIRY FIVE"
+  ],
+  "url": "https://myanimelist.net/anime/34223/Forest_Fairy_Five",
+  "image": "https://cdn.myanimelist.net/images/anime/9/83713.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kinokomusume.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12714"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21582"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272309"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12714,
+  "Pages": {
+    "9anime": {
+      "5ylv": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2855,
+        "identifier": "5ylv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "FOREST FAIRY FIVE",
+        "url": "https://9anime.to/watch/forest-fairy-five.5ylv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3os97pCPME8/WFZwbY0g0EI/AAAAAAABTVM/v340iDXZQfE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34223,
+        "aniId": 97709,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mori-no-yousei-kinoko-no-musume": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19550,
+        "identifier": "mori-no-yousei-kinoko-no-musume",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mori no Yousei: Kinoko no Musume",
+        "url": "https://gogoanime.vc/category/mori-no-yousei-kinoko-no-musume",
+        "image": "https://images.gogoanime.tv/cover/forest-fariy-five.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34223,
+        "aniId": 97709,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34223": {
+        "identifier": "34223",
+        "malId": 34223,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Forest Fairy Five",
+        "url": "https://animixplay.to/anime/34223"
+      }
+    },
+    "YugenAnime": {
+      "1574": {
+        "identifier": "1574",
+        "malId": 34223,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Forest Fairy Five",
+        "url": "https://yugen.to/anime/1574/forest-fairy-five/"
+      }
+    }
+  }
+}

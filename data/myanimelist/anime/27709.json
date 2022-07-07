@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-14T22:51:29.000Z",
+  "checkedAt": "2022-05-14T22:51:29.000Z",
+  "id": 27709,
+  "type": "anime",
+  "title": "Saki Biyori Animation",
+  "altTitle": [
+    "咲日和 Animation"
+  ],
+  "url": "https://myanimelist.net/anime/27709/Saki_Biyori_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/4/69895.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jp.square-enix.com/magazine/biggangan/introduction/sakibiyori/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10849"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=171029"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saki_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10849,
+  "Pages": {
+    "9anime": {
+      "m1wv": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6321,
+        "identifier": "m1wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saki Biyori Animation",
+        "url": "https://9anime.to/watch/saki-biyori-animation.m1wv",
+        "image": "https://static.akacdn.ru/static/images/2018/02/45a3b96838b3074c44dfce523e45a7f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27709,
+        "aniId": 21642,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saki-biyori": {
+        "createdAt": "2021-02-18T16:15:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34931,
+        "identifier": "saki-biyori",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saki Biyori",
+        "url": "https://gogoanime.vc/category/saki-biyori",
+        "image": "https://gogocdn.net/images/upload/69895.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 27709,
+        "aniId": 21642,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "27709": {
+        "identifier": "27709",
+        "malId": 27709,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saki Biyori Animation",
+        "url": "https://animixplay.to/anime/27709"
+      }
+    }
+  }
+}

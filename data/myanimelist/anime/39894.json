@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T17:56:41.000Z",
+  "checkedAt": "2022-05-14T17:56:41.000Z",
+  "id": 39894,
+  "type": "anime",
+  "title": "Hibike! Euphonium: Kumiko 3 Nensei-hen",
+  "altTitle": [
+    "Hibike! Euphonium Third Season",
+    "Hibike! Euphonium 3",
+    "Sound! Euphonium 3",
+    "響け！ユーフォニアム3"
+  ],
+  "url": "https://myanimelist.net/anime/39894/Hibike_Euphonium__Kumiko_3_Nensei-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1050/101181.jpg",
+  "category": "Unknown",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-eupho.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14935"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound!_Euphonium"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14935,
+  "Pages": {
+    "9anime": {
+      "k5m4": {
+        "createdAt": "2020-10-12T15:52:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5293,
+        "identifier": "k5m4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sound! Euphonium 3",
+        "url": "https://9anime.to/watch/sound-euphonium-3.k5m4",
+        "image": "https://static.akacdn.ru/files/images/2019/06/30df690d0da9707ff5922a513ca0ce69.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39894,
+        "aniId": 109731,
+        "deletedAt": null
+      }
+    }
+  }
+}

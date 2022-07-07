@@ -1,0 +1,92 @@
+{
+  "createdAt": "2021-01-30T13:01:41.000Z",
+  "updatedAt": "2022-05-14T23:36:21.000Z",
+  "checkedAt": "2022-05-14T23:36:21.000Z",
+  "id": 46639,
+  "type": "anime",
+  "title": "Liu Xing Huan Jian",
+  "altTitle": [
+    "流星幻剑"
+  ],
+  "url": "https://myanimelist.net/anime/46639/Liu_Xing_Huan_Jian",
+  "image": "https://cdn.myanimelist.net/images/anime/1729/111278.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/m/mzc00200fltxze3.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%B5%81%E6%98%9F%E5%B9%BB%E5%89%91/55678793#viewPageContent"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "liu-xing-huan-jian": {
+        "createdAt": "2021-01-30T13:01:42.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34378,
+        "identifier": "liu-xing-huan-jian",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Liu Xing Huan Jian",
+        "url": "https://gogoanime.vc/category/liu-xing-huan-jian",
+        "image": "https://gogocdn.net/cover/liu-xing-huan-jian.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 46639,
+        "aniId": 129037,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "q5z3": {
+        "createdAt": "2021-01-31T16:33:42.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34417,
+        "identifier": "q5z3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Liu Xing Huan Jian",
+        "url": "https://9anime.to/watch/liu-xing-huan-jian.q5z3",
+        "image": "//static.bunnycdn.ru/i/cache/images/e/e1/e187a235e769c319295224d713101c74.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 46639,
+        "aniId": 129037,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "46639": {
+        "identifier": "46639",
+        "malId": 46639,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Liu Xing Huan Jian",
+        "url": "https://animixplay.to/anime/46639"
+      }
+    },
+    "YugenAnime": {
+      "7213": {
+        "identifier": "7213",
+        "malId": 46639,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Liu Xing Huan Jian",
+        "url": "https://yugen.to/anime/7213/liu-xing-huan-jian/"
+      }
+    }
+  }
+}

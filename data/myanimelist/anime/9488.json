@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T17:40:59.000Z",
+  "checkedAt": "2022-05-14T17:40:59.000Z",
+  "id": 9488,
+  "type": "anime",
+  "title": "Cencoroll Connect",
+  "altTitle": [
+    "Cencoroll 2",
+    "Cencoroll Connect",
+    "センコロール"
+  ],
+  "url": "https://myanimelist.net/anime/9488/Cencoroll_Connect",
+  "image": "https://cdn.myanimelist.net/images/anime/1454/99902.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cencoroll.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10546"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16260"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%B3%E3%83%AD%E3%83%BC%E3%83%AB2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10546,
+  "Pages": {
+    "9anime": {
+      "q8l5": {
+        "createdAt": "2020-10-12T15:55:05.000Z",
+        "updatedAt": "2022-05-16T15:28:45.000Z",
+        "checkedAt": "2022-05-16T15:28:45.000Z",
+        "id": 8359,
+        "identifier": "q8l5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cencoroll 2",
+        "url": "https://9anime.to/watch/cencoroll-2.q8l5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/12/86dc308952cb625375e6fb3187956cb7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9488,
+        "aniId": 9488,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cencoroll-connect": {
+        "createdAt": "2020-10-12T16:00:05.000Z",
+        "updatedAt": "2022-05-16T15:28:45.000Z",
+        "checkedAt": "2022-05-16T15:28:45.000Z",
+        "id": 17032,
+        "identifier": "cencoroll-connect",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cencoroll Connect",
+        "url": "https://gogoanime.sk/category/cencoroll-connect",
+        "image": "https://gogocdn.net/cover/cencoroll-connect.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9488,
+        "aniId": 9488,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3606": {
+        "identifier": "3606",
+        "malId": 9488,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cencoroll Connect",
+        "url": "https://animepahe.com/a/3606"
+      }
+    },
+    "AniMixPlay": {
+      "9488": {
+        "identifier": "9488",
+        "malId": 9488,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cencoroll Connect",
+        "url": "https://animixplay.to/anime/9488"
+      }
+    },
+    "YugenAnime": {
+      "946": {
+        "identifier": "946",
+        "malId": 9488,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cencoroll Connect",
+        "url": "https://yugen.to/anime/946/cencoroll-connect/"
+      }
+    }
+  }
+}

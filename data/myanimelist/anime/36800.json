@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-14T22:02:41.000Z",
+  "checkedAt": "2022-05-14T22:02:41.000Z",
+  "id": 36800,
+  "type": "anime",
+  "title": "Amanchu! Advance",
+  "altTitle": [
+    "Amanchu! 2",
+    "あまんちゅ！～あどばんす～"
+  ],
+  "url": "https://myanimelist.net/anime/36800/Amanchu_Advance",
+  "image": "https://cdn.myanimelist.net/images/anime/1095/95063.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.amanchu-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13583"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20692"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amanchu"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270703"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13583,
+  "Pages": {
+    "9anime": {
+      "6k59": {
+        "createdAt": "2020-10-12T15:50:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3034,
+        "identifier": "6k59",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amanchu! Advance",
+        "url": "https://9anime.to/watch/amanchu-advance.6k59",
+        "image": "http://static.akacdn.ru/static/images/2018/04/8fe9f2265d65f30755c36f21df43c45c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36800,
+        "aniId": 100532,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amanchu-advance": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16507,
+        "identifier": "amanchu-advance",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amanchu! Advance",
+        "url": "https://gogoanime.vc/category/amanchu-advance",
+        "image": "https://images.gogoanime.tv/cover/amanchu-advance.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36800,
+        "aniId": 100532,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2522": {
+        "identifier": "2522",
+        "malId": 36800,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amanchu! Advance",
+        "url": "https://animepahe.com/a/2522"
+      }
+    },
+    "AniMixPlay": {
+      "36800": {
+        "identifier": "36800",
+        "malId": 36800,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amanchu! Advance",
+        "url": "https://animixplay.to/anime/36800"
+      }
+    },
+    "YugenAnime": {
+      "1191": {
+        "identifier": "1191",
+        "malId": 36800,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amanchu! Advance",
+        "url": "https://yugen.to/anime/1191/amanchu-advance/"
+      }
+    }
+  }
+}

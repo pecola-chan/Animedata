@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-05-29T12:43:24.000Z",
+  "updatedAt": "2021-05-29T13:12:12.000Z",
+  "checkedAt": null,
+  "id": 37135,
+  "identifier": "catman-series-ii",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Catman Series II",
+  "url": "https://gogoanime.vc/category/catman-series-ii",
+  "image": "https://gogocdn.net/cover/catman-series-ii.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4418,
+  "aniId": 4418,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:43.000Z",
+    "updatedAt": "2022-05-14T22:26:11.000Z",
+    "checkedAt": "2022-05-14T22:26:11.000Z",
+    "id": 4418,
+    "type": "anime",
+    "title": "Catman Series II",
+    "altTitle": [
+      "Catman",
+      "Catman 2nd Season",
+      "キャットマン"
+    ],
+    "url": "https://myanimelist.net/anime/4418/Catman_Series_II",
+    "image": "https://cdn.myanimelist.net/images/anime/6/9524.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://wwwz.fujitv.co.jp/game/catman/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6790"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/CATMAN"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6790
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:34.000Z",
+    "updatedAt": "2022-05-15T21:53:35.000Z",
+    "checkedAt": "2022-05-15T21:53:35.000Z",
+    "id": 4418,
+    "type": "anime",
+    "title": "Catman Series II",
+    "altTitle": [
+      "キャットマン",
+      "Catman",
+      "Catman 2nd Season"
+    ],
+    "url": "https://anilist.co/anime/4418",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4418.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4418,
+    "deletedAt": null
+  }
+}

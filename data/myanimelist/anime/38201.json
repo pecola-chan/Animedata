@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-13T21:36:31.000Z",
+  "checkedAt": "2022-05-13T21:36:31.000Z",
+  "id": 38201,
+  "type": "anime",
+  "title": "Osomatsu-san Movie",
+  "altTitle": [
+    "Eiga no Osomatsu-san",
+    "Osomatsu-san the Movie",
+    "Mr. Osomatsu the Movie",
+    "えいがのおそ松さん"
+  ],
+  "url": "https://myanimelist.net/anime/38201/Osomatsu-san_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.osomatsusan-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14293"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21718"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mr._Osomatsu"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267957"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14293,
+  "Pages": {
+    "9anime": {
+      "8wxy": {
+        "createdAt": "2020-10-12T15:51:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4059,
+        "identifier": "8wxy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mr. Osomatsu the Movie",
+        "url": "https://9anime.to/watch/mr-osomatsu-the-movie.8wxy",
+        "image": "https://static.akacdn.ru/static/images/2018/10/2eb0d2ffef2634e44ed2f890d4ed0d96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38201,
+        "aniId": 104213,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "osomatsu-san-movie": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19944,
+        "identifier": "osomatsu-san-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Osomatsu-san Movie",
+        "url": "https://gogoanime.vc/category/osomatsu-san-movie",
+        "image": "https://cdnimg.xyz/cover/osomatsu-san-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38201,
+        "aniId": 104213,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3580": {
+        "identifier": "3580",
+        "malId": 38201,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Osomatsu-san Movie",
+        "url": "https://animepahe.com/a/3580"
+      }
+    },
+    "AniMixPlay": {
+      "38201": {
+        "identifier": "38201",
+        "malId": 38201,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Osomatsu-san Movie",
+        "url": "https://animixplay.to/anime/38201"
+      }
+    },
+    "YugenAnime": {
+      "6166": {
+        "identifier": "6166",
+        "malId": 38201,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Osomatsu-san Movie",
+        "url": "https://yugen.to/anime/6166/osomatsu-san-movie/"
+      }
+    }
+  }
+}

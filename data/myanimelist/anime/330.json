@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T16:39:02.000Z",
+  "checkedAt": "2022-05-14T16:39:02.000Z",
+  "id": 330,
+  "type": "anime",
+  "title": "Midori no Hibi",
+  "altTitle": [
+    "My Days With Midori",
+    "Midori Days",
+    "美鳥の日々"
+  ],
+  "url": "https://myanimelist.net/anime/330/Midori_no_Hibi",
+  "image": "https://cdn.myanimelist.net/images/anime/13/56961.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/midori/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1327"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3592"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Midori_no_hibi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1327,
+  "Pages": {
+    "9anime": {
+      "9oo8": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4390,
+        "identifier": "9oo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Midori no Hibi",
+        "url": "https://9anime.to/watch/midori-no-hibi.9oo8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rpjykgIxCeI/V4urBQR2UiI/AAAAAAAAwDM/q8j18BSJRnY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 330,
+        "aniId": 330,
+        "deletedAt": null
+      },
+      "k879": {
+        "createdAt": "2020-10-12T15:52:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5372,
+        "identifier": "k879",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Midori no Hibi (Dub)",
+        "url": "https://9anime.to/watch/midori-no-hibi-dub.k879",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pcC6BOBmI-I/WAjdAEUsT9I/AAAAAAABJtM/-MZWKeouZUw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 330,
+        "aniId": 330,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "midori-days": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19426,
+        "identifier": "midori-days",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Midori Days",
+        "url": "https://gogoanime.vc/category/midori-days",
+        "image": "https://cdnimg.xyz/images/anime/M/midori-days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 330,
+        "aniId": 330,
+        "deletedAt": null
+      },
+      "midori-no-hibi-dub": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19427,
+        "identifier": "midori-no-hibi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Midori no Hibi (Dub)",
+        "url": "https://gogoanime.vc/category/midori-no-hibi-dub",
+        "image": "https://cdnimg.xyz/cover/midori-no-hibi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 330,
+        "aniId": 330,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "330": {
+        "identifier": "330",
+        "malId": 330,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Midori no Hibi",
+        "url": "https://animixplay.to/anime/330"
+      }
+    },
+    "YugenAnime": {
+      "5509": {
+        "identifier": "5509",
+        "malId": 330,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Midori no Hibi",
+        "url": "https://yugen.to/anime/5509/midori-no-hibi/"
+      }
+    }
+  }
+}

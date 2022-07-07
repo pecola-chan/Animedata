@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T18:56:42.000Z",
+  "checkedAt": "2022-05-14T18:56:42.000Z",
+  "id": 8855,
+  "type": "anime",
+  "title": "Eiyuu Gaiden Mozaicka",
+  "altTitle": [
+    "Mozaika",
+    "英雄凱伝モザイカ"
+  ],
+  "url": "https://myanimelist.net/anime/8855/Eiyuu_Gaiden_Mozaicka",
+  "image": "https://cdn.myanimelist.net/images/anime/1292/99545.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5016"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7266"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5016,
+  "Pages": {
+    "9anime": {
+      "58q0": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2593,
+        "identifier": "58q0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eiyuu Gaiden Mozaicka",
+        "url": "https://9anime.to/watch/eiyuu-gaiden-mozaicka.58q0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fppaoduWCKs/WQhFzqccG-I/AAAAAAAAlOU/Sdk-jYiDNbEp60uiR9V3a5PsDwBdyRdPgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8855,
+        "aniId": 8855,
+        "deletedAt": null
+      }
+    }
+  }
+}

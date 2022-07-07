@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T21:14:18.000Z",
+  "checkedAt": "2022-05-14T21:14:18.000Z",
+  "id": 3354,
+  "type": "anime",
+  "title": "Zombie-Loan Specials",
+  "altTitle": [
+    "Zombie-Loan OVA",
+    "Zombie-Loan",
+    "ZOMBIE-LOAN ゾンビローン"
+  ],
+  "url": "https://myanimelist.net/anime/3354/Zombie-Loan_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/25890.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zombie-loan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5116"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7825"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268931"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5116,
+  "Pages": {
+    "9anime": {
+      "96yq": {
+        "createdAt": "2020-10-12T15:51:45.000Z",
+        "updatedAt": "2021-10-06T08:32:17.000Z",
+        "checkedAt": null,
+        "id": 4250,
+        "identifier": "96yq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zombie-Loan Specials",
+        "url": "https://9anime.to/watch/zombie-loan.96yq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/e9d1030424c4308232ad2784a2878e2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 3354,
+        "aniId": 3354,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2368": {
+        "identifier": "2368",
+        "malId": 3354,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Zombie-Loan Specials",
+        "url": "https://animepahe.com/a/2368"
+      }
+    },
+    "AniMixPlay": {
+      "3354": {
+        "identifier": "3354",
+        "malId": 3354,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Zombie-Loan Specials",
+        "url": "https://animixplay.to/anime/3354"
+      }
+    }
+  }
+}

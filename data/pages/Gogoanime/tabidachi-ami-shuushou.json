@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T16:02:00.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20911,
+  "identifier": "tabidachi-ami-shuushou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tabidachi: Ami Shuushou",
+  "url": "https://gogoanime.vc/category/tabidachi-ami-shuushou",
+  "image": "https://gogocdn.net/cover/tabidachi-ami-shuushou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5640,
+  "aniId": 5640,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-15T01:44:12.000Z",
+    "checkedAt": "2022-05-15T01:44:12.000Z",
+    "id": 5640,
+    "type": "anime",
+    "title": "Tabidachi: Ami Shuushou",
+    "altTitle": [
+      "Departure: Ami, the Final Chapter",
+      "Departure: Ami, Final Chapter",
+      "Departure: Ami, Last Chapter",
+      "Departure: Ami's Final Chapter",
+      "Departure: Ami's Last Chapter",
+      "Cream Lemon: Ami's Journey",
+      "Ami's Journey",
+      "Departure: Ami, the Last Chapter",
+      "旅立ち　-亜美・終章-"
+    ],
+    "url": "https://myanimelist.net/anime/5640/Tabidachi__Ami_Shuushou",
+    "image": "https://cdn.myanimelist.net/images/anime/5/11662.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://creamlemon.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7817"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7080"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cream_Lemon:_Ami%27s_Journey"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7817
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T14:17:23.000Z",
+    "checkedAt": "2022-05-15T14:17:23.000Z",
+    "id": 5640,
+    "type": "anime",
+    "title": "Tabidachi: Ami Shuushou",
+    "altTitle": [
+      "Cream Lemon: Ami's Journey",
+      "旅立ち　-亜美・終章-"
+    ],
+    "url": "https://anilist.co/anime/5640",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5640-LiRtbOhth4gk.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5640,
+    "deletedAt": null
+  }
+}

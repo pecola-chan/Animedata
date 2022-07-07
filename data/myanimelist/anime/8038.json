@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T09:03:22.000Z",
+  "checkedAt": "2022-05-14T09:03:22.000Z",
+  "id": 8038,
+  "type": "anime",
+  "title": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+  "altTitle": [
+    "Nodame Cantabile Third Season Special",
+    "Nodame Cantabile Season 3 Special",
+    "Nodame Cantabile Finale Episode 00",
+    "Mine to Kiyora no Saikai",
+    "のだめカンタービレ フィナーレ 峰と清良の再会"
+  ],
+  "url": "https://myanimelist.net/anime/8038/Nodame_Cantabile__Finale_-_Mine_to_Kiyora_no_Saikai",
+  "image": "https://cdn.myanimelist.net/images/anime/8/19590.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nodame-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7019"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nodame_Cantabile#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7019,
+  "Pages": {
+    "9anime": {
+      "rvmn": {
+        "createdAt": "2020-10-12T15:55:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9026,
+        "identifier": "rvmn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nodame Cantabile Finale Special",
+        "url": "https://9anime.to/watch/nodame-cantabile-finale-special.rvmn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VfhdqlpbfYE/WSEdOzpsvJI/AAAAAAAAo1o/3dQnRLje2nImVe-O-5dSti_1zBkS9MNOwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8038,
+        "aniId": 8038,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3158": {
+        "identifier": "3158",
+        "malId": 8038,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+        "url": "https://animepahe.com/a/3158"
+      }
+    },
+    "AniMixPlay": {
+      "8038": {
+        "identifier": "8038",
+        "malId": 8038,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+        "url": "https://animixplay.to/anime/8038"
+      }
+    }
+  }
+}

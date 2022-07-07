@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-12-03T19:16:16.000Z",
+  "updatedAt": "2021-12-03T19:46:05.000Z",
+  "checkedAt": null,
+  "id": 39374,
+  "identifier": "hatsumei-boy-kanipan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Hatsumei Boy Kanipan",
+  "url": "https://gogoanime.cm/category/hatsumei-boy-kanipan",
+  "image": "https://gogocdn.net/cover/hatsumei-boy-kanipan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3689,
+  "aniId": 3689,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:39.000Z",
+    "updatedAt": "2022-05-21T05:02:36.000Z",
+    "checkedAt": "2022-05-21T05:02:36.000Z",
+    "id": 3689,
+    "type": "anime",
+    "title": "Hatsumei Boy Kanipan",
+    "altTitle": [
+      "Inventor Boy Kanipan",
+      "Gadget Boy Kanipan",
+      "発明BOYカニパン"
+    ],
+    "url": "https://myanimelist.net/anime/3689/Hatsumei_Boy_Kanipan",
+    "image": "https://cdn.myanimelist.net/images/anime/3/46389.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4667"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2013"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E6%98%8EBOY%E3%82%AB%E3%83%8B%E3%83%91%E3%83%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4667
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:26.000Z",
+    "updatedAt": "2022-05-21T05:02:34.000Z",
+    "checkedAt": "2022-05-21T05:02:34.000Z",
+    "id": 3689,
+    "type": "anime",
+    "title": "Hatsumei Boy Kanipan",
+    "altTitle": [
+      "Inventor Boy Kanipan",
+      "発明BOYカニパン",
+      "Gadget Boy Kanipan"
+    ],
+    "url": "https://anilist.co/anime/3689",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3689.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3689,
+    "deletedAt": null
+  }
+}

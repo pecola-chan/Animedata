@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:01:13.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19311,
+  "identifier": "major",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Major",
+  "url": "https://gogoanime.vc/category/major",
+  "image": "https://images.gogoanime.tv/images/anime/M/major.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 627,
+  "aniId": 627,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T10:08:14.000Z",
+    "checkedAt": "2022-05-14T10:08:14.000Z",
+    "id": 627,
+    "type": "anime",
+    "title": "Major S1",
+    "altTitle": [
+      "メジャー （第1シリーズ）"
+    ],
+    "url": "https://myanimelist.net/anime/627/Major_S1",
+    "image": "https://cdn.myanimelist.net/images/anime/13/73973.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www3.nhk.or.jp/anime/major/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2168"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Major_(manga)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2168
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:24.000Z",
+    "updatedAt": "2022-05-15T15:44:35.000Z",
+    "checkedAt": "2022-05-15T15:44:35.000Z",
+    "id": 627,
+    "type": "anime",
+    "title": "Major S1",
+    "altTitle": [
+      "メジャー (第1シリーズ)"
+    ],
+    "url": "https://anilist.co/anime/627",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx627-B0V5aoDfwtz0.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 627,
+    "deletedAt": null
+  }
+}

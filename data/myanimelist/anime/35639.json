@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-14T09:01:42.000Z",
+  "checkedAt": "2022-05-14T09:01:42.000Z",
+  "id": 35639,
+  "type": "anime",
+  "title": "Just Because!",
+  "altTitle": [
+    "Just Because!",
+    "Just Because!"
+  ],
+  "url": "https://myanimelist.net/anime/35639/Just_Because",
+  "image": "https://cdn.myanimelist.net/images/anime/10/88234.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://justbecause.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13199"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19945"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Just_Because!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/just-because"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13199,
+  "Pages": {
+    "9anime": {
+      "2nl5": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1434,
+        "identifier": "2nl5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Just Because! (Dub)",
+        "url": "https://9anime.to/watch/just-because-dub.2nl5",
+        "image": "https://static.akacdn.ru/static/images/2019/02/2e37e31d12a88925332ff20254958bf6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35639,
+        "aniId": 98820,
+        "deletedAt": null
+      },
+      "6owz": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3115,
+        "identifier": "6owz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Just Because!",
+        "url": "https://9anime.to/watch/just-because.6owz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GR6QHwc29F0/WS5epxU9uEI/AAAAAAAArB8/7f4rKVD4XIQbe6v2nyTDxSHbfGn5s8U7wCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35639,
+        "aniId": 98820,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "just-because": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2022-06-13T22:32:35.000Z",
+        "checkedAt": "2022-06-13T22:32:34.000Z",
+        "id": 18614,
+        "identifier": "just-because",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Just Because!",
+        "url": "https://gogoanime.sk/category/just-because",
+        "image": "https://gogocdn.net/cover/just-because.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35639,
+        "aniId": 98820,
+        "deletedAt": null
+      },
+      "just-because-dub": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18615,
+        "identifier": "just-because-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Just Because! (Dub)",
+        "url": "https://gogoanime.vc/category/just-because-dub",
+        "image": "https://cdnimg.xyz/cover/just-because-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35639,
+        "aniId": 98820,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2280": {
+        "identifier": "2280",
+        "malId": 35639,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Just Because!",
+        "url": "https://animepahe.com/a/2280"
+      }
+    },
+    "AniMixPlay": {
+      "35639": {
+        "identifier": "35639",
+        "malId": 35639,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Just Because!",
+        "url": "https://animixplay.to/anime/35639"
+      }
+    },
+    "YugenAnime": {
+      "1266": {
+        "identifier": "1266",
+        "malId": 35639,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Just Because!",
+        "url": "https://yugen.to/anime/1266/just-because/"
+      }
+    }
+  }
+}

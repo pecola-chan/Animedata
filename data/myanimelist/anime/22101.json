@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-14T15:51:58.000Z",
+  "checkedAt": "2022-05-14T15:51:58.000Z",
+  "id": 22101,
+  "type": "anime",
+  "title": "Soredemo Sekai wa Utsukushii",
+  "altTitle": [
+    "Still world is Beautiful",
+    "The World is Still Beautiful",
+    "それでも世界は美しい"
+  ],
+  "url": "https://myanimelist.net/anime/22101/Soredemo_Sekai_wa_Utsukushii",
+  "image": "https://cdn.myanimelist.net/images/anime/4/59259.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/soreseka"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10395"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15853"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_World_is_Still_Beautiful"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260443"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/the-world-is-still-beautiful"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10395,
+  "Pages": {
+    "9anime": {
+      "kk49": {
+        "createdAt": "2020-10-12T15:52:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5454,
+        "identifier": "kk49",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soredemo Sekai wa Utsukushii",
+        "url": "https://9anime.to/watch/soredemo-sekai-wa-utsukushii.kk49",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9dAQuvJuX6E/V6IGn3bzHCI/AAAAAAAA0IU/bpGy7kQo374/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22101,
+        "aniId": 20599,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "soredemo-sekai-wa-utsukushii": {
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20772,
+        "identifier": "soredemo-sekai-wa-utsukushii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Soredemo Sekai wa Utsukushii",
+        "url": "https://gogoanime.vc/category/soredemo-sekai-wa-utsukushii",
+        "image": "https://cdnimg.xyz/images/spring/Soredemo Sekai wa Utsukushii.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22101,
+        "aniId": 20599,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1133": {
+        "identifier": "1133",
+        "malId": 22101,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Soredemo Sekai wa Utsukushii",
+        "url": "https://animepahe.com/a/1133"
+      }
+    },
+    "AniMixPlay": {
+      "22101": {
+        "identifier": "22101",
+        "malId": 22101,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Soredemo Sekai wa Utsukushii",
+        "url": "https://animixplay.to/anime/22101"
+      }
+    },
+    "YugenAnime": {
+      "4631": {
+        "identifier": "4631",
+        "malId": 22101,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Soredemo Sekai wa Utsukushii",
+        "url": "https://yugen.to/anime/4631/soredemo-sekai-wa-utsukushii/"
+      }
+    }
+  }
+}

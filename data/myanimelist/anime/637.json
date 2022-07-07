@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T22:42:29.000Z",
+  "checkedAt": "2022-05-14T22:42:29.000Z",
+  "id": 637,
+  "type": "anime",
+  "title": "Iketeru Futari",
+  "altTitle": [
+    "Cool Couple",
+    "イケてる２人"
+  ],
+  "url": "https://myanimelist.net/anime/637/Iketeru_Futari",
+  "image": "https://cdn.myanimelist.net/images/anime/5/19958.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=36"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1098"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Iketeru_Futari"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 36,
+  "Pages": {
+    "9anime": {
+      "0mq3": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 583,
+        "identifier": "0mq3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Iketeru Futari",
+        "url": "https://9anime.to/watch/iketeru-futari.0mq3",
+        "image": "//static.9anime.to/i/cache/images/2018/04/9dcde1c681eab1b829b6c94bc7a8e2ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 637,
+        "aniId": 637,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "iketeru-futari": {
+        "createdAt": "2021-12-01T13:16:30.000Z",
+        "updatedAt": "2021-12-01T13:46:05.000Z",
+        "checkedAt": null,
+        "id": 39361,
+        "identifier": "iketeru-futari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Iketeru Futari",
+        "url": "https://gogoanime.cm/category/iketeru-futari",
+        "image": "https://gogocdn.net/cover/iketeru-futari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 637,
+        "aniId": 637,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "637": {
+        "identifier": "637",
+        "malId": 637,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Iketeru Futari",
+        "url": "https://animixplay.to/anime/637"
+      }
+    },
+    "YugenAnime": {
+      "11388": {
+        "identifier": "11388",
+        "malId": 637,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Iketeru Futari",
+        "url": "https://yugen.to/anime/11388/iketeru-futari/"
+      }
+    }
+  }
+}

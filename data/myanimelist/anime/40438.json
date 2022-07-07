@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T21:09:11.000Z",
+  "checkedAt": "2022-05-14T21:09:11.000Z",
+  "id": 40438,
+  "type": "anime",
+  "title": "Obsolete",
+  "altTitle": [
+    "Obsolete",
+    "OBSOLETE"
+  ],
+  "url": "https://myanimelist.net/anime/40438/Obsolete",
+  "image": "https://cdn.myanimelist.net/images/anime/1711/103227.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://project-obsolete.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15108"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22540"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/OBSOLETE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15108,
+  "Pages": {
+    "9anime": {
+      "omrj": {
+        "createdAt": "2020-10-12T15:54:18.000Z",
+        "updatedAt": "2022-04-29T23:33:43.000Z",
+        "checkedAt": null,
+        "id": 7548,
+        "identifier": "omrj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "OBSOLETE",
+        "url": "https://9anime.to/watch/obsolete.omrj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/11/ba51b7837c36d164eb7992c0ab525e80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40438,
+        "aniId": 111964,
+        "deletedAt": null
+      },
+      "o2kz": {
+        "createdAt": "2020-12-09T14:14:22.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29892,
+        "identifier": "o2kz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Obsolete (Dub)",
+        "url": "https://9anime.to/watch/obsolete-dub.o2kz",
+        "image": "//static.9anime.to/i/cache/images/c/c9/c95290ebd0f75d6bef2569500ae65bb4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40438,
+        "aniId": 111964,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "obsolete": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19815,
+        "identifier": "obsolete",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Obsolete",
+        "url": "https://gogoanime.vc/category/obsolete",
+        "image": "https://cdnimg.xyz/cover/obsolete.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40438,
+        "aniId": 111964,
+        "deletedAt": null
+      },
+      "obsolete-dub": {
+        "createdAt": "2020-12-06T15:40:49.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29668,
+        "identifier": "obsolete-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Obsolete (Dub)",
+        "url": "https://gogoanime.vc/category/obsolete-dub",
+        "image": "https://gogocdn.net/cover/obsolete-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40438,
+        "aniId": 111964,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3604": {
+        "identifier": "3604",
+        "malId": 40438,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Obsolete",
+        "url": "https://animepahe.com/a/3604"
+      }
+    },
+    "AniMixPlay": {
+      "40438": {
+        "identifier": "40438",
+        "malId": 40438,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Obsolete",
+        "url": "https://animixplay.to/anime/40438"
+      }
+    },
+    "YugenAnime": {
+      "719": {
+        "identifier": "719",
+        "malId": 40438,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Obsolete",
+        "url": "https://yugen.to/anime/719/obsolete/"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-15T07:21:38.000Z",
+  "checkedAt": "2022-05-15T07:21:38.000Z",
+  "id": 2785,
+  "type": "anime",
+  "title": "OZ",
+  "altTitle": [
+    "オズ"
+  ],
+  "url": "https://myanimelist.net/anime/2785/OZ",
+  "image": "https://cdn.myanimelist.net/images/anime/13/77858.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4225"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7182"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/OZ_(%E6%A8%B9%E3%81%AA%E3%81%A4%E3%81%BF)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4225,
+  "Pages": {
+    "9anime": {
+      "rkny": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8881,
+        "identifier": "rkny",
+        "type": "anime",
+        "page": "9anime",
+        "title": "OZ",
+        "url": "https://9anime.to/watch/oz.rkny",
+        "image": "https://static.akacdn.ru/files/images/2018/04/761afcf2b88a187e719298c94cc92a44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2785,
+        "aniId": 2785,
+        "deletedAt": null
+      }
+    }
+  }
+}

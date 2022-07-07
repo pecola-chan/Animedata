@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T20:57:41.000Z",
+  "checkedAt": "2022-05-14T20:57:41.000Z",
+  "id": 40035,
+  "type": "anime",
+  "title": "Rebecca",
+  "altTitle": [
+    "Anime Tamago 2020",
+    "The Chronicles of Rebecca",
+    "レベッカ"
+  ],
+  "url": "https://myanimelist.net/anime/40035/Rebecca",
+  "image": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://animetamago.jp/title.php?id=2"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14981"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23158"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14981,
+  "Pages": {
+    "9anime": {
+      "m047": {
+        "createdAt": "2020-12-09T14:00:30.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29824,
+        "identifier": "m047",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rebecca",
+        "url": "https://9anime.to/watch/the-chronicles-of-rebecca.m047",
+        "image": "//static.9anime.to/i/cache/images/3/37/37292718ed960b371e3f9c6b4cbda827.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40035,
+        "aniId": 114945,
+        "deletedAt": null
+      }
+    }
+  }
+}

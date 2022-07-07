@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-09-01T03:15:48.000Z",
+  "updatedAt": "2021-09-01T03:45:45.000Z",
+  "checkedAt": null,
+  "id": 38508,
+  "identifier": "himote-house-dai-panic-minna-de-gokiburi-taiji",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Himote House: Dai Panic! Minna de Gokiburi Taiji",
+  "url": "https://gogoanime.pe/category/himote-house-dai-panic-minna-de-gokiburi-taiji",
+  "image": "https://gogocdn.net/cover/himote-house-dai-panic-minna-de-gokiburi-taiji.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39722,
+  "aniId": 124472,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-09-01T03:15:49.000Z",
+    "updatedAt": "2022-05-14T21:36:29.000Z",
+    "checkedAt": "2022-05-14T21:36:29.000Z",
+    "id": 39722,
+    "type": "anime",
+    "title": "Himote House: Dai Panic! Minna de Gokiburi Taiji",
+    "altTitle": [
+      "Himote House Episode 10.5",
+      "Himote House OVA",
+      "ひもてはうす大パニック！みんなでゴキブリ退治"
+    ],
+    "url": "https://myanimelist.net/anime/39722/Himote_House__Dai_Panic_Minna_de_Gokiburi_Taiji",
+    "image": "https://cdn.myanimelist.net/images/anime/1467/100601.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://himotehouse.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14826"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%82%E3%81%A6%E3%81%AF%E3%81%86%E3%81%99"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14826
+  },
+  "Ani": {
+    "createdAt": "2021-07-17T09:02:20.000Z",
+    "updatedAt": "2022-05-15T12:39:47.000Z",
+    "checkedAt": "2022-05-15T12:39:47.000Z",
+    "id": 124472,
+    "type": "anime",
+    "title": "Himote House: Dai Panic! Minna de Gokiburi Taiji",
+    "altTitle": [
+      "ひもてはうす 大パニック！みんなでゴキブリ退治",
+      "Himote House 10.5",
+      "Himote House OVA"
+    ],
+    "url": "https://anilist.co/anime/124472",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124472-T7mIM61Wbfbn.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39722,
+    "deletedAt": null
+  }
+}

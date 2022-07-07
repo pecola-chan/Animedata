@@ -1,0 +1,79 @@
+{
+  "createdAt": "2021-04-06T19:08:37.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36264,
+  "identifier": "cluster-edge",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Cluster Edge",
+  "url": "https://gogoanime.vc/category/cluster-edge",
+  "image": "https://gogocdn.net/images/anime/C/cluster-edge.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 69,
+  "aniId": 69,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2022-05-14T23:13:05.000Z",
+    "checkedAt": "2022-05-14T23:13:05.000Z",
+    "id": 69,
+    "type": "anime",
+    "title": "Cluster Edge",
+    "altTitle": [
+      "CLUSTER EDGE（クラスターエッジ）"
+    ],
+    "url": "https://myanimelist.net/anime/69/Cluster_Edge",
+    "image": "https://cdn.myanimelist.net/images/anime/1980/103243.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cluster-edge.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2392"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4671"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cluster_Edge"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2392
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2022-05-15T10:51:35.000Z",
+    "checkedAt": "2022-05-15T10:51:35.000Z",
+    "id": 69,
+    "type": "anime",
+    "title": "CLUSTER EDGE",
+    "altTitle": [
+      "CLUSTER EDGE",
+      "クラスターエッジ"
+    ],
+    "url": "https://anilist.co/anime/69",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/69.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/cluster-edge"
+      }
+    ],
+    "malId": 69,
+    "deletedAt": null
+  }
+}

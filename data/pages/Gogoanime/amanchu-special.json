@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:59:50.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16508,
+  "identifier": "amanchu-special",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Amanchu! Special",
+  "url": "https://gogoanime.vc/category/amanchu-special",
+  "image": "https://cdnimg.xyz/cover/amanchu-special.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39709,
+  "aniId": 110578,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:10.000Z",
+    "updatedAt": "2022-05-14T22:48:29.000Z",
+    "checkedAt": "2022-05-14T22:48:29.000Z",
+    "id": 39709,
+    "type": "anime",
+    "title": "Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!",
+    "altTitle": [
+      "Amanchu! Specials",
+      "Upyo Upyo! Dive Tsukkome! Umi no Sekai!",
+      "あまんちゅ！うぴょぴょ ダ～イブツッコめ！海の世界！"
+    ],
+    "url": "https://myanimelist.net/anime/39709/Amanchu__Upyopyo_Dive_Tsukkome_Umi_no_Sekai",
+    "image": "https://cdn.myanimelist.net/images/anime/1907/100565.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://amanchu-anime.com/bluray.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11683"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11683
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:57.000Z",
+    "updatedAt": "2022-05-15T19:46:23.000Z",
+    "checkedAt": "2022-05-15T19:46:23.000Z",
+    "id": 110578,
+    "type": "anime",
+    "title": "Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!",
+    "altTitle": [
+      "あまんちゅ！うぴょぴょ ダ～イブツッコめ！海の世界！"
+    ],
+    "url": "https://anilist.co/anime/110578",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110578-JOInGd6DO1Qh.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39709,
+    "deletedAt": null
+  }
+}

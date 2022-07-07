@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-15T12:09:30.000Z",
+  "checkedAt": "2022-05-15T12:09:30.000Z",
+  "id": 38274,
+  "type": "anime",
+  "title": "Akubi wo Suru ni wa Wake ga Aru",
+  "altTitle": [
+    "There Is a Reason That We Yawn",
+    "あくびをするにはワケがある"
+  ],
+  "url": "https://myanimelist.net/anime/38274/Akubi_wo_Suru_ni_wa_Wake_ga_Aru",
+  "image": "https://cdn.myanimelist.net/images/anime/1857/93622.jpg",
+  "category": "Unknown",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14384"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14384,
+  "Pages": {
+    "9anime": {
+      "5qmm": {
+        "createdAt": "2020-10-12T15:50:35.000Z",
+        "updatedAt": "2021-06-28T23:49:24.000Z",
+        "checkedAt": null,
+        "id": 2764,
+        "identifier": "5qmm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akubi wo Suru ni wa Wake ga Aru",
+        "url": "https://9anime.to/watch/akubi-wo-suru-ni-wa-wake-ga-aru.5qmm",
+        "image": "https://static.akacdn.ru/static/images/2018/12/3f462a6aa69bb24eae7d35e0b677683a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38274,
+        "aniId": 136205,
+        "deletedAt": null
+      }
+    }
+  }
+}

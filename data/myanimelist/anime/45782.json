@@ -1,0 +1,102 @@
+{
+  "createdAt": "2021-02-05T20:49:51.000Z",
+  "updatedAt": "2022-05-14T19:28:29.000Z",
+  "checkedAt": "2022-05-14T19:28:29.000Z",
+  "id": 45782,
+  "type": "anime",
+  "title": "D4DJ Petit Mix",
+  "altTitle": [
+    "Pucchimiku D4DJ Petit Mix",
+    "D4DJ Petit Mix",
+    "ぷっちみく♪"
+  ],
+  "url": "https://myanimelist.net/anime/45782/D4DJ_Petit_Mix",
+  "image": "https://cdn.myanimelist.net/images/anime/1089/113814.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.d4dj-pj.com/petit-mix/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15981"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23993"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http:// "
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15981,
+  "Pages": {
+    "9anime": {
+      "vp74": {
+        "createdAt": "2021-02-05T20:53:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34562,
+        "identifier": "vp74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D4DJ Petit Mix",
+        "url": "https://9anime.to/watch/d4dj-petit-mix.vp74",
+        "image": "//static.bunnycdn.ru/i/cache/images/d/df/dfd62923cdb84f72bee1236c28dd5166.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45782,
+        "aniId": 128563,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "d4dj-petit-mix": {
+        "createdAt": "2021-02-18T16:17:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34960,
+        "identifier": "d4dj-petit-mix",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "D4DJ Petit Mix",
+        "url": "https://gogoanime.vc/category/d4dj-petit-mix",
+        "image": "https://gogocdn.net/cover/d4dj-petit-mix.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45782,
+        "aniId": 128563,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "45782": {
+        "identifier": "45782",
+        "malId": 45782,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "D4DJ Petit Mix",
+        "url": "https://animixplay.to/anime/45782"
+      }
+    },
+    "YugenAnime": {
+      "7230": {
+        "identifier": "7230",
+        "malId": 45782,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "D4DJ Petit Mix",
+        "url": "https://yugen.to/anime/7230/d4dj-petit-mix/"
+      }
+    }
+  }
+}

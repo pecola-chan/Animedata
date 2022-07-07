@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2022-05-15T00:20:53.000Z",
+  "checkedAt": "2022-05-15T00:20:53.000Z",
+  "id": 1106,
+  "type": "anime",
+  "title": "Eikyuu Kazoku",
+  "altTitle": [
+    "Eternal Family",
+    "永久家族"
+  ],
+  "url": "https://myanimelist.net/anime/1106/Eikyuu_Kazoku",
+  "image": "https://cdn.myanimelist.net/images/anime/7/10210.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2777"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4808"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Eternal_Family"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2777,
+  "Pages": {
+    "9anime": {
+      "26zq": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1312,
+        "identifier": "26zq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eikyuu Kazoku",
+        "url": "https://9anime.to/watch/eikyuu-kazoku.26zq",
+        "image": "http://static.akacdn.ru/static/images/2018/03/5a94d04d1b3fc00fd0fd722c648f5992.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1106,
+        "aniId": 1106,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-14T23:58:41.000Z",
+  "checkedAt": "2022-05-14T23:58:41.000Z",
+  "id": 8216,
+  "type": "anime",
+  "title": "Aa Harimanada",
+  "altTitle": [
+    "Ah Harima-nada",
+    "Aah Harimanada",
+    "ああ播磨灘"
+  ],
+  "url": "https://myanimelist.net/anime/8216/Aa_Harimanada",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21286.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3055"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1048"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ああ播磨灘"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3055,
+  "Pages": {
+    "9anime": {
+      "o4k5": {
+        "createdAt": "2020-10-12T15:54:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7371,
+        "identifier": "o4k5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa Harimanada",
+        "url": "https://9anime.to/watch/aa-harimanada.o4k5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jiw8So0rqwA/V9Ih285X1TI/AAAAAAAA8qc/oUXpl99bc28/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8216,
+        "aniId": 8216,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aa-harimanada": {
+        "createdAt": "2020-10-12T15:59:45.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16356,
+        "identifier": "aa-harimanada",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aa Harimanada",
+        "url": "https://gogoanime.vc/category/aa-harimanada",
+        "image": "https://gogocdn.net/cover/aa-harimanada.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8216,
+        "aniId": 8216,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8216": {
+        "identifier": "8216",
+        "malId": 8216,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aa Harimanada",
+        "url": "https://animixplay.to/anime/8216"
+      }
+    },
+    "YugenAnime": {
+      "15031": {
+        "identifier": "15031",
+        "malId": 8216,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aa Harimanada",
+        "url": "https://yugen.to/anime/15031/aa-harimanada/"
+      }
+    }
+  }
+}

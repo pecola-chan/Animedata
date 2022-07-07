@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:02:19.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21560,
+  "identifier": "youkai-watch-shadow-side",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Youkai Watch: Shadow Side",
+  "url": "https://gogoanime.vc/category/youkai-watch-shadow-side",
+  "image": "https://cdnimg.xyz/cover/youkai-watch-shadow-side.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 37324,
+  "aniId": 101555,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:00.000Z",
+    "updatedAt": "2022-05-14T20:43:29.000Z",
+    "checkedAt": "2022-05-14T20:43:29.000Z",
+    "id": 37324,
+    "type": "anime",
+    "title": "Youkai Watch: Shadow Side",
+    "altTitle": [
+      "Yo-kai Watch: Shadowside",
+      "妖怪ウォッチ シャドウサイド"
+    ],
+    "url": "https://myanimelist.net/anime/37324/Youkai_Watch__Shadow_Side",
+    "image": "https://cdn.myanimelist.net/images/anime/1072/90600.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.youkai-watch.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13807"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20657"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13807
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:35.000Z",
+    "updatedAt": "2022-05-15T18:58:59.000Z",
+    "checkedAt": "2022-05-15T18:58:59.000Z",
+    "id": 101555,
+    "type": "anime",
+    "title": "Youkai Watch: Shadow Side",
+    "altTitle": [
+      "妖怪ウォッチ シャドウサイド"
+    ],
+    "url": "https://anilist.co/anime/101555",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101555-n4TcGWDhgmst.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37324,
+    "deletedAt": null
+  }
+}

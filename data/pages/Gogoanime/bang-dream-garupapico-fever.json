@@ -1,0 +1,66 @@
+{
+  "createdAt": "2022-04-02T12:31:23.000Z",
+  "updatedAt": "2022-04-02T13:00:21.000Z",
+  "checkedAt": null,
+  "id": 40600,
+  "identifier": "bang-dream-garupapico-fever",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "BanG Dream! Garupa☆Pico Fever!",
+  "url": "https://gogoanime.fi/category/bang-dream-garupapico-fever",
+  "image": "https://gogocdn.net/cover/bang-dream-garupapico-fever.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 49123,
+  "aniId": 135171,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-10-09T15:34:06.000Z",
+    "updatedAt": "2022-05-14T19:29:53.000Z",
+    "checkedAt": "2022-05-14T19:29:53.000Z",
+    "id": 49123,
+    "type": "anime",
+    "title": "BanG Dream! Garupa☆Pico Fever!",
+    "altTitle": [
+      "BanG Dream! ガルパ☆ピコ ふぃーばー！"
+    ],
+    "url": "https://myanimelist.net/anime/49123/BanG_Dream_Garupa☆Pico_Fever",
+    "image": "https://cdn.myanimelist.net/images/anime/1724/117808.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime.bang-dream.com/pico/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16370"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16370
+  },
+  "Ani": {
+    "createdAt": "2021-06-06T11:18:57.000Z",
+    "updatedAt": "2022-05-15T14:33:59.000Z",
+    "checkedAt": "2022-05-15T14:33:59.000Z",
+    "id": 135171,
+    "type": "anime",
+    "title": "BanG Dream! Garupa☆Pico Fever!",
+    "altTitle": [
+      "BanG Dream! Girls Band Party!☆PICO FEVER!",
+      "BanG Dream! ガルパ☆ピコ ふぃーばー！"
+    ],
+    "url": "https://anilist.co/anime/135171",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135171-prqopjfpm21S.png",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49123,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-14T19:41:05.000Z",
+  "checkedAt": "2022-05-14T19:41:05.000Z",
+  "id": 3088,
+  "type": "anime",
+  "title": "Tokyo Marble Chocolate",
+  "altTitle": [
+    "Zenryoku Shounen",
+    "Matta Aimashou",
+    "Tokyo Marble Chocolate",
+    "東京マーブルチョコレート"
+  ],
+  "url": "https://myanimelist.net/anime/3088/Tokyo_Marble_Chocolate",
+  "image": "https://cdn.myanimelist.net/images/anime/8/50455.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.production-ig.co.jp/works/tokyo-marble-chocolate/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5429"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8372"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5429,
+  "Pages": {
+    "9anime": {
+      "0vwk": {
+        "createdAt": "2020-10-12T15:48:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 678,
+        "identifier": "0vwk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Marble Chocolate",
+        "url": "https://9anime.to/watch/tokyo-marble-chocolate.0vwk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-g7FTGHSlEfY/WIbunS2SFTI/AAAAAAABa_Y/g3D3EEvMV5U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3088,
+        "aniId": 3088,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokyo-marble-chocolate": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21165,
+        "identifier": "tokyo-marble-chocolate",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Marble Chocolate",
+        "url": "https://gogoanime.vc/category/tokyo-marble-chocolate",
+        "image": "https://gogocdn.net/cover/tokyo-marble-chocolate.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3088,
+        "aniId": 3088,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3088": {
+        "identifier": "3088",
+        "malId": 3088,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo Marble Chocolate",
+        "url": "https://animixplay.to/anime/3088"
+      }
+    },
+    "YugenAnime": {
+      "3155": {
+        "identifier": "3155",
+        "malId": 3088,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokyo Marble Chocolate",
+        "url": "https://yugen.to/anime/3155/tokyo-marble-chocolate/"
+      }
+    }
+  }
+}

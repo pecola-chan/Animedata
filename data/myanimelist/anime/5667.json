@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T16:48:11.000Z",
+  "checkedAt": "2022-05-14T16:48:11.000Z",
+  "id": 5667,
+  "type": "anime",
+  "title": "To LOVE-Ru OVA",
+  "altTitle": [
+    "To-LOVE-Ru OVA",
+    "Trouble OVA",
+    "To Love You OVA",
+    "To LOVEる -とらぶる-"
+  ],
+  "url": "https://myanimelist.net/anime/5667/To_LOVE-Ru_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/2/17923.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.j-toloveru.com/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6463"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10556"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/To-LOVE-Ru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6463,
+  "Pages": {
+    "9anime": {
+      "l573": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2022-06-14T05:30:25.000Z",
+        "checkedAt": "2022-06-14T05:30:25.000Z",
+        "id": 5856,
+        "identifier": "l573",
+        "type": "anime",
+        "page": "9anime",
+        "title": "To LOVE-Ru OVA",
+        "url": "https://9anime.to/watch/to-love-ru-ova.l573",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/903d1d05a13fa49fbc3ad58924bb1bca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5667,
+        "aniId": 5667,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "to-love-ru-ova": {
+        "createdAt": "2020-10-12T16:02:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21123,
+        "identifier": "to-love-ru-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "To Love-Ru OVA",
+        "url": "https://gogoanime.vc/category/to-love-ru-ova",
+        "image": "https://images.gogoanime.tv/images/anime/T/to-love-ru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5667,
+        "aniId": 5667,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "548": {
+        "identifier": "548",
+        "malId": 5667,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "To LOVE-Ru OVA",
+        "url": "https://animepahe.com/a/548"
+      }
+    },
+    "AniMixPlay": {
+      "5667": {
+        "identifier": "5667",
+        "malId": 5667,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "To LOVE-Ru OVA",
+        "url": "https://animixplay.to/anime/5667"
+      }
+    },
+    "YugenAnime": {
+      "4590": {
+        "identifier": "4590",
+        "malId": 5667,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "To LOVE-Ru OVA",
+        "url": "https://yugen.to/anime/4590/to-love-ru-ova/"
+      }
+    }
+  }
+}

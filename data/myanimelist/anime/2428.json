@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T19:02:38.000Z",
+  "updatedAt": "2022-05-14T23:24:59.000Z",
+  "checkedAt": "2022-05-14T23:24:59.000Z",
+  "id": 2428,
+  "type": "anime",
+  "title": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+  "altTitle": [
+    "Unico: Black Cloud White Feather",
+    "短編ユニコ 黒い雲と白い羽"
+  ],
+  "url": "https://myanimelist.net/anime/2428/Tanpen_Unico__Kuroi_Kumo_to_Shiroi_Hane",
+  "image": "https://cdn.myanimelist.net/images/anime/1470/111870.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ja.tezuka.co.jp/anime/sakuhin/pi/pi009.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1379"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=630"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Unico"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1379,
+  "Pages": {
+    "9anime": {
+      "pz8x": {
+        "createdAt": "2020-10-12T19:02:47.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23857,
+        "identifier": "pz8x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+        "url": "https://9anime.to/watch/tanpen-unico-kuroi-kumo-to-shiroi-hane.pz8x",
+        "image": "//static.9anime.to/i/cache/images/2018/03/9c67984060e84f64e249ff1561f8dd1e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2428,
+        "aniId": 2428,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2428": {
+        "identifier": "2428",
+        "malId": 2428,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+        "url": "https://animixplay.to/anime/2428"
+      }
+    }
+  }
+}

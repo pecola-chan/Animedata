@@ -1,0 +1,98 @@
+{
+  "createdAt": "2021-07-06T18:30:01.000Z",
+  "updatedAt": "2022-05-29T20:28:25.000Z",
+  "checkedAt": "2022-05-29T20:28:25.000Z",
+  "id": 13947,
+  "type": "anime",
+  "title": "Ashita no Eleven-tachi",
+  "altTitle": [
+    "Ashita no Eleventachi",
+    "Tomorrow's Eleven",
+    "あしたの勇者(イレブン)たち"
+  ],
+  "url": "https://myanimelist.net/anime/13947/Ashita_no_Eleven-tachi",
+  "image": "https://cdn.myanimelist.net/images/anime/1980/110420.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6985"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23294"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%97%E3%81%9F%E3%81%AE%E5%8B%87%E8%80%85%E3%81%9F%E3%81%A1"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6985,
+  "Pages": {
+    "Gogoanime": {
+      "ashita-no-eleven-tachi": {
+        "createdAt": "2021-07-06T20:30:19.000Z",
+        "updatedAt": "2021-07-06T20:30:19.000Z",
+        "checkedAt": null,
+        "id": 37705,
+        "identifier": "ashita-no-eleven-tachi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ashita no Eleven-tachi",
+        "url": "https://gogoanime.pe/category/ashita-no-eleven-tachi",
+        "image": "https://gogocdn.net/cover/ashita-no-eleven-tachi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13947,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "vvnml": {
+        "createdAt": "2021-07-26T14:52:05.000Z",
+        "updatedAt": "2021-07-26T14:52:05.000Z",
+        "checkedAt": null,
+        "id": 38038,
+        "identifier": "vvnml",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ashita no Eleven-tachi",
+        "url": "https://9anime.to/watch/ashita-no-eleven-tachi.vvnml",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/92/926dba624e3fa0f10932398263790493.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13947,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "13947": {
+        "identifier": "13947",
+        "malId": 13947,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ashita no Eleven-tachi",
+        "url": "https://animixplay.to/anime/13947"
+      }
+    },
+    "YugenAnime": {
+      "7869": {
+        "identifier": "7869",
+        "malId": 13947,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ashita no Eleven-tachi",
+        "url": "https://yugen.to/anime/7869/ashita-no-eleven-tachi/"
+      }
+    }
+  }
+}

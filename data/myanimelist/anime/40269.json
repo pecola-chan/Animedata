@@ -1,0 +1,148 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T18:49:11.000Z",
+  "checkedAt": "2022-05-14T18:49:11.000Z",
+  "id": 40269,
+  "type": "anime",
+  "title": "Kengan Ashura Part 2",
+  "altTitle": [
+    "ケンガンアシュラ Part 2"
+  ],
+  "url": "https://myanimelist.net/anime/40269/Kengan_Ashura_Part_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1546/102680.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kengan.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11216"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20427"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ケンガンアシュラ"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11216,
+  "Pages": {
+    "9anime": {
+      "0j63": {
+        "createdAt": "2020-10-12T15:48:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 513,
+        "identifier": "0j63",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kengan Ashura 2nd Season",
+        "url": "https://9anime.to/watch/kengan-ashura-2nd-season.0j63",
+        "image": "https://static.akacdn.ru/files/images/2019/10/813c4f2352e65800f7f61e6a53a72464.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40269,
+        "aniId": 111048,
+        "deletedAt": null
+      },
+      "1k8w": {
+        "createdAt": "2020-10-12T15:49:12.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 972,
+        "identifier": "1k8w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kengan Ashura 2nd Season (Dub)",
+        "url": "https://9anime.to/watch/kengan-ashura-2nd-season-dub.1k8w",
+        "image": "https://static.akacdn.ru/files/images/2019/10/21b95e4a3c0e0604b9fb5f3f5ff7870c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40269,
+        "aniId": 111048,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kengan-ashura-2nd-season": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18781,
+        "identifier": "kengan-ashura-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kengan Ashura 2nd Season",
+        "url": "https://gogoanime.vc/category/kengan-ashura-2nd-season",
+        "image": "https://cdnimg.xyz/cover/kengan-ashura-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40269,
+        "aniId": 111048,
+        "deletedAt": null
+      },
+      "kengan-ashura-2nd-season-dub": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18782,
+        "identifier": "kengan-ashura-2nd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kengan Ashura 2nd Season (Dub)",
+        "url": "https://gogoanime.vc/category/kengan-ashura-2nd-season-dub",
+        "image": "https://gogocdn.net/cover/kengan-ashura-2nd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40269,
+        "aniId": 111048,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3560": {
+        "identifier": "3560",
+        "malId": 40269,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kengan Ashura Part 2",
+        "url": "https://animepahe.com/a/3560"
+      }
+    },
+    "AniMixPlay": {
+      "40269": {
+        "identifier": "40269",
+        "malId": 40269,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kengan Ashura Part 2",
+        "url": "https://animixplay.to/anime/40269"
+      }
+    },
+    "YugenAnime": {
+      "5879": {
+        "identifier": "5879",
+        "malId": 40269,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kengan Ashura 2nd Season",
+        "url": "https://yugen.to/anime/5879/kengan-ashura-2nd-season/"
+      }
+    }
+  }
+}

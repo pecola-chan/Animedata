@@ -1,0 +1,150 @@
+{
+  "createdAt": "2021-09-27T17:08:35.000Z",
+  "updatedAt": "2022-05-13T19:30:37.000Z",
+  "checkedAt": "2022-05-13T19:30:37.000Z",
+  "id": 41833,
+  "type": "anime",
+  "title": "Kyuuketsuki Sugu Shinu",
+  "altTitle": [
+    "KyuuShi",
+    "The Vampire Dies in No Time",
+    "吸血鬼すぐ死ぬ"
+  ],
+  "url": "https://myanimelist.net/anime/41833/Kyuuketsuki_Sugu_Shinu",
+  "image": "https://cdn.myanimelist.net/images/anime/1892/117151.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://sugushinu-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15528"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24198"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Vampire_Dies_in_No_Time#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15528,
+  "Pages": {
+    "Gogoanime": {
+      "kyuuketsuki-sugu-shinu": {
+        "createdAt": "2021-10-04T15:31:13.000Z",
+        "updatedAt": "2021-10-04T16:00:52.000Z",
+        "checkedAt": null,
+        "id": 38865,
+        "identifier": "kyuuketsuki-sugu-shinu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://gogoanime.pe/category/kyuuketsuki-sugu-shinu",
+        "image": "https://gogocdn.net/cover/kyuuketsuki-sugu-shinu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41833,
+        "aniId": 118103,
+        "deletedAt": null
+      },
+      "kyuuketsuki-sugu-shinu-dub": {
+        "createdAt": "2021-11-22T17:12:56.000Z",
+        "updatedAt": "2021-11-22T17:35:47.000Z",
+        "checkedAt": null,
+        "id": 39279,
+        "identifier": "kyuuketsuki-sugu-shinu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyuuketsuki Sugu Shinu (Dub)",
+        "url": "https://gogoanime.cm/category/kyuuketsuki-sugu-shinu-dub",
+        "image": "https://gogocdn.net/cover/kyuuketsuki-sugu-shinu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41833,
+        "aniId": 118103,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "kqzr": {
+        "createdAt": "2021-10-04T16:01:26.000Z",
+        "updatedAt": "2022-03-19T09:49:14.000Z",
+        "checkedAt": null,
+        "id": 38866,
+        "identifier": "kqzr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://9anime.to/watch/the-vampire-dies-in-no-time.kqzr",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/25/25886a8b3959f7ba3d23a75137f7a7c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41833,
+        "aniId": 118103,
+        "deletedAt": null
+      },
+      "jvv33": {
+        "createdAt": "2021-11-22T16:13:07.000Z",
+        "updatedAt": "2021-11-22T16:42:37.000Z",
+        "checkedAt": null,
+        "id": 39277,
+        "identifier": "jvv33",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyuuketsuki Sugu Shinu (Dub)",
+        "url": "https://9anime.to/watch/the-vampire-dies-in-no-time-dub.jvv33",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d2/d2ffc1a93ee47d0a00c1762fd1fb5ea4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41833,
+        "aniId": 118103,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4533": {
+        "identifier": "4533",
+        "malId": 41833,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://animepahe.com/a/4533"
+      }
+    },
+    "AniMixPlay": {
+      "41833": {
+        "identifier": "41833",
+        "malId": 41833,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://animixplay.to/anime/41833"
+      }
+    },
+    "YugenAnime": {
+      "9864": {
+        "identifier": "9864",
+        "malId": 41833,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://yugen.to/anime/9864/kyuuketsuki-sugu-shinu/"
+      }
+    }
+  }
+}

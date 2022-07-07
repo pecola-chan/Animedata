@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-13T23:19:52.000Z",
+  "checkedAt": "2022-05-13T23:19:52.000Z",
+  "id": 36516,
+  "type": "anime",
+  "title": "Beatless",
+  "altTitle": [
+    "Beatless",
+    "BEATLESS"
+  ],
+  "url": "https://myanimelist.net/anime/36516/Beatless",
+  "image": "https://cdn.myanimelist.net/images/anime/1986/90184.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://beatless-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13500"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20316"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/BEATLESS"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13500,
+  "Pages": {
+    "9anime": {
+      "8mlq": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2022-06-13T21:02:26.000Z",
+        "checkedAt": "2022-06-13T21:02:26.000Z",
+        "id": 3917,
+        "identifier": "8mlq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BEATLESS",
+        "url": "https://9anime.to/watch/beatless.8mlq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/f7513e0ac4a52c0c5bd146825c665eea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36516,
+        "aniId": 100245,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beatless": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16764,
+        "identifier": "beatless",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beatless",
+        "url": "https://gogoanime.vc/category/beatless",
+        "image": "https://images.gogoanime.tv/cover/beatless.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36516,
+        "aniId": 100245,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2456": {
+        "identifier": "2456",
+        "malId": 36516,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Beatless",
+        "url": "https://animepahe.com/a/2456"
+      }
+    },
+    "AniMixPlay": {
+      "36516": {
+        "identifier": "36516",
+        "malId": 36516,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Beatless",
+        "url": "https://animixplay.to/anime/36516"
+      }
+    },
+    "YugenAnime": {
+      "7698": {
+        "identifier": "7698",
+        "malId": 36516,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Beatless",
+        "url": "https://yugen.to/anime/7698/beatless/"
+      }
+    }
+  }
+}

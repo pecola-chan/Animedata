@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T17:32:53.000Z",
+  "checkedAt": "2022-05-14T17:32:53.000Z",
+  "id": 2963,
+  "type": "anime",
+  "title": "Minami-ke",
+  "altTitle": [
+    "Minamike",
+    "The Minami Family",
+    "みなみけ"
+  ],
+  "url": "https://myanimelist.net/anime/2963/Minami-ke",
+  "image": "https://cdn.myanimelist.net/images/anime/2/75279.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/minami-ke/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4309"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8536"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Minami-ke"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/minami-ke"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4309,
+  "Pages": {
+    "9anime": {
+      "4j9k": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2226,
+        "identifier": "4j9k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minami-ke",
+        "url": "https://9anime.to/watch/minami-ke.4j9k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EeboRJHANwo/V6NrAhDna_I/AAAAAAAA0Ug/upNYoVez4G0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2963,
+        "aniId": 2963,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "minami-ke": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19434,
+        "identifier": "minami-ke",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Minami-ke",
+        "url": "https://gogoanime.vc/category/minami-ke",
+        "image": "https://images.gogoanime.tv/images/anime/M/Minami-ke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2963,
+        "aniId": 2963,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1189": {
+        "identifier": "1189",
+        "malId": 2963,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Minami-ke",
+        "url": "https://animepahe.com/a/1189"
+      }
+    },
+    "AniMixPlay": {
+      "2963": {
+        "identifier": "2963",
+        "malId": 2963,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Minami-ke",
+        "url": "https://animixplay.to/anime/2963"
+      }
+    },
+    "YugenAnime": {
+      "2158": {
+        "identifier": "2158",
+        "malId": 2963,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Minami-ke",
+        "url": "https://yugen.to/anime/2158/minami-ke/"
+      }
+    }
+  }
+}

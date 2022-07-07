@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-15T09:55:06.000Z",
+  "checkedAt": "2022-05-15T09:55:06.000Z",
+  "id": 1123,
+  "type": "anime",
+  "title": "Bouken Ou Beet Excellion",
+  "altTitle": [
+    "Adventure King Beet Excellion",
+    "Beet the Vandel Buster Excellion",
+    "冒険王ビィト エクセリオン"
+  ],
+  "url": "https://myanimelist.net/anime/1123/Bouken_Ou_Beet_Excellion",
+  "image": "https://cdn.myanimelist.net/images/anime/4/21570.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/beet_ex/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3703"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6209"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Beet_the_Vandel_Buster"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3703,
+  "Pages": {
+    "9anime": {
+      "p1yj": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7802,
+        "identifier": "p1yj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beet the Vandel Buster Excellion",
+        "url": "https://9anime.to/watch/beet-the-vandel-buster-excellion.p1yj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MuRoSXmUkT4/WH24jQ58k7I/AAAAAAABZts/LJPU8funvn4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1123,
+        "aniId": 1123,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beet-the-vandel-buster-excellion": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16772,
+        "identifier": "beet-the-vandel-buster-excellion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beet The Vandel Buster Excellion",
+        "url": "https://gogoanime.vc/category/beet-the-vandel-buster-excellion",
+        "image": "https://cdnimg.xyz/images/anime/B/beet-the-vandel-buster.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1123,
+        "aniId": 1123,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1123": {
+        "identifier": "1123",
+        "malId": 1123,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bouken Ou Beet Excellion",
+        "url": "https://animixplay.to/anime/1123"
+      }
+    },
+    "YugenAnime": {
+      "3696": {
+        "identifier": "3696",
+        "malId": 1123,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bouken Ou Beet Excellion",
+        "url": "https://yugen.to/anime/3696/beet-the-vandel-buster-excellion/"
+      }
+    }
+  }
+}

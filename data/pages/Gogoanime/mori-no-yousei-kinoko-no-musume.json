@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T16:01:20.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19550,
+  "identifier": "mori-no-yousei-kinoko-no-musume",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mori no Yousei: Kinoko no Musume",
+  "url": "https://gogoanime.vc/category/mori-no-yousei-kinoko-no-musume",
+  "image": "https://images.gogoanime.tv/cover/forest-fariy-five.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 34223,
+  "aniId": 97709,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:49.000Z",
+    "updatedAt": "2022-05-14T23:41:23.000Z",
+    "checkedAt": "2022-05-14T23:41:23.000Z",
+    "id": 34223,
+    "type": "anime",
+    "title": "Forest Fairy Five",
+    "altTitle": [
+      "Mori no Yousei: Kinoko no Musume",
+      "Forest Fairy Five",
+      "FOREST FAIRY FIVE"
+    ],
+    "url": "https://myanimelist.net/anime/34223/Forest_Fairy_Five",
+    "image": "https://cdn.myanimelist.net/images/anime/9/83713.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kinokomusume.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12714"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21582"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-272309"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 12714
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:15.000Z",
+    "updatedAt": "2022-05-15T17:26:47.000Z",
+    "checkedAt": "2022-05-15T17:26:47.000Z",
+    "id": 97709,
+    "type": "anime",
+    "title": "FOREST FAIRY FIVE",
+    "altTitle": [
+      "FOREST FAIRY FIVE",
+      "FOREST FAIRY FIVE"
+    ],
+    "url": "https://anilist.co/anime/97709",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97709-75D2keANAFJm.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/forest-fairy-five"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GYGGKQ88Y/FOREST-FAIRY-FIVE"
+      }
+    ],
+    "malId": 34223,
+    "deletedAt": null
+  }
+}

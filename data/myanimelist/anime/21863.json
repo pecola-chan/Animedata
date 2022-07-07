@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-13T21:14:54.000Z",
+  "checkedAt": "2022-05-13T21:14:54.000Z",
+  "id": 21863,
+  "type": "anime",
+  "title": "Mangaka-san to Assistant-san to The Animation",
+  "altTitle": [
+    "Mangaka-san to Assistant-san to",
+    "ManAshi",
+    "The Comic Artist and His Assistants",
+    "マンガ家さんとアシスタントさんと THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/21863/Mangaka-san_to_Assistant-san_to_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/11/62219.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mangakasan.tv/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10295"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15793"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mangaka-san_to_Assistant-san_to"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10295,
+  "Pages": {
+    "9anime": {
+      "kqv": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5584,
+        "identifier": "kqv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Comic Artist and His Assistants",
+        "url": "https://9anime.to/watch/the-comic-artist-and-his-assistants.kqv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-I3IubgwNoCM/V4jeI5DA5sI/AAAAAAAAvps/EP9OoGf8u_U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21863,
+        "aniId": 20537,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mangaka-san-to-assistant-san-to": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19337,
+        "identifier": "mangaka-san-to-assistant-san-to",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mangaka-san to Assistant-san to",
+        "url": "https://gogoanime.vc/category/mangaka-san-to-assistant-san-to",
+        "image": "https://cdnimg.xyz/images/spring/Mangaka-san to Assistant-san to.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21863,
+        "aniId": 20537,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1545": {
+        "identifier": "1545",
+        "malId": 21863,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mangaka-san to Assistant-san to The Animation",
+        "url": "https://animepahe.com/a/1545"
+      }
+    },
+    "AniMixPlay": {
+      "21863": {
+        "identifier": "21863",
+        "malId": 21863,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mangaka-san to Assistant-san to The Animation",
+        "url": "https://animixplay.to/anime/21863"
+      }
+    },
+    "YugenAnime": {
+      "5940": {
+        "identifier": "5940",
+        "malId": 21863,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mangaka-san to Assistant-san to The Animation",
+        "url": "https://yugen.to/anime/5940/mangaka-san-to-assistant-san-to/"
+      }
+    }
+  }
+}

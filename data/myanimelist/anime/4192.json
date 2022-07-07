@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T19:11:35.000Z",
+  "checkedAt": "2022-05-14T19:11:35.000Z",
+  "id": 4192,
+  "type": "anime",
+  "title": "Hayate no Gotoku!!",
+  "altTitle": [
+    "Hayate the Combat Butler Season 2",
+    "Hayate the Combat Butler!!",
+    "ハヤテのごとく!!"
+  ],
+  "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku",
+  "image": "https://cdn.myanimelist.net/images/anime/11/75212.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hayatenogotoku.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6413"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10662"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hayate_the_Combat_Butler"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-52008"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/hayate-the-combat-butler-2nd-season"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6413,
+  "Pages": {
+    "9anime": {
+      "2omq": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1460,
+        "identifier": "2omq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hayate no Gotoku!!",
+        "url": "https://9anime.to/watch/hayate-the-combat-butler.2omq",
+        "image": "//static.9anime.to/i/cache/images/2018/04/c63aa2dcf7b9079b5d8bb8b184ebb08e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4192,
+        "aniId": 4192,
+        "deletedAt": null
+      },
+      "8z7o": {
+        "createdAt": "2020-10-12T15:51:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4112,
+        "identifier": "8z7o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hayate the Combat Butler!! (Dub)",
+        "url": "https://9anime.to/watch/hayate-the-combat-butler-dub.8z7o",
+        "image": "https://static.akacdn.ru/static/images/2018/04/fd45cc5d7c21225b2b3f943375edb6b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4192,
+        "aniId": 4192,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hayate-no-gotoku-s2": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-26T20:28:42.000Z",
+        "checkedAt": null,
+        "id": 18209,
+        "identifier": "hayate-no-gotoku-s2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hayate No Gotoku S2",
+        "url": "https://gogoanime.vc/category/hayate-no-gotoku-s2",
+        "image": "https://gogocdn.net/images/anime/H/hayate-no-gotoku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 4192,
+        "aniId": 4192,
+        "deletedAt": null
+      },
+      "hayate-no-gotoku-s2-dub": {
+        "createdAt": "2022-04-02T20:33:22.000Z",
+        "updatedAt": "2022-04-02T21:00:21.000Z",
+        "checkedAt": null,
+        "id": 40611,
+        "identifier": "hayate-no-gotoku-s2-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hayate no Gotoku!! Season 2 (Dub)",
+        "url": "https://gogoanime.fi/category/hayate-no-gotoku-s2-dub",
+        "image": "https://gogocdn.net/cover/hayate-no-gotoku-dub-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4192,
+        "aniId": 4192,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "372": {
+        "identifier": "372",
+        "malId": 4192,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hayate no Gotoku!!",
+        "url": "https://animepahe.com/a/372"
+      }
+    },
+    "AniMixPlay": {
+      "4192": {
+        "identifier": "4192",
+        "malId": 4192,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hayate no Gotoku!!",
+        "url": "https://animixplay.to/anime/4192"
+      }
+    }
+  }
+}

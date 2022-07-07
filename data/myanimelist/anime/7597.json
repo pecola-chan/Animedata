@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T22:32:05.000Z",
+  "checkedAt": "2022-05-14T22:32:05.000Z",
+  "id": 7597,
+  "type": "anime",
+  "title": "Boku, Otaryman.",
+  "altTitle": [
+    "ぼく、オタリーマン。"
+  ],
+  "url": "https://myanimelist.net/anime/7597/Boku_Otaryman",
+  "image": "https://cdn.myanimelist.net/images/anime/13/19796.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.liverp.co.jp/otari-man/otari-man.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7318"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%80%81%E3%82%AA%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E3%80%82"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7318,
+  "Pages": {
+    "9anime": {
+      "28nl": {
+        "createdAt": "2020-10-12T15:49:25.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1320,
+        "identifier": "28nl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boku, Otaryman.",
+        "url": "https://9anime.to/watch/boku-otaryman.28nl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3dHsLNk3MRk/WQhEsVU1jfI/AAAAAAAAlN4/dDVhkRnREVEAfVuYLJsNsIR3g31qMxKSACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7597,
+        "aniId": 7597,
+        "deletedAt": null
+      }
+    }
+  }
+}

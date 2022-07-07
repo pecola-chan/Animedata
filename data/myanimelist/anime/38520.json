@@ -1,0 +1,89 @@
+{
+  "createdAt": "2021-08-19T16:37:39.000Z",
+  "updatedAt": "2022-05-28T04:25:12.000Z",
+  "checkedAt": "2022-05-28T04:25:12.000Z",
+  "id": 38520,
+  "type": "anime",
+  "title": "Inko Colors the Animation",
+  "altTitle": [
+    "Inko Colors the Animation",
+    "インコカラーズ The animation"
+  ],
+  "url": "https://myanimelist.net/anime/38520/Inko_Colors_the_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/1364/95655.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13253"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13253,
+  "Pages": {
+    "9anime": {
+      "6l9kz": {
+        "createdAt": "2021-08-19T16:37:36.000Z",
+        "updatedAt": "2021-08-19T16:37:39.000Z",
+        "checkedAt": null,
+        "id": 38371,
+        "identifier": "6l9kz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inko Colors the Animation",
+        "url": "https://9anime.to/watch/inko-colors-the-animation.6l9kz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f0/f043526e79208b09c1af35f486dd783b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38520,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "inko-colors-the-animation": {
+        "createdAt": "2021-08-20T07:38:20.000Z",
+        "updatedAt": "2021-08-20T07:38:20.000Z",
+        "checkedAt": null,
+        "id": 38381,
+        "identifier": "inko-colors-the-animation",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inko Colors the Animation",
+        "url": "https://gogoanime.pe/category/inko-colors-the-animation",
+        "image": "https://gogocdn.net/cover/inko-colors-the-animation.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38520,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38520": {
+        "identifier": "38520",
+        "malId": 38520,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Inko Colors the Animation",
+        "url": "https://animixplay.to/anime/38520"
+      }
+    },
+    "YugenAnime": {
+      "9663": {
+        "identifier": "9663",
+        "malId": 38520,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Inko Colors the Animation",
+        "url": "https://yugen.to/anime/9663/inko-colors-the-animation/"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T19:28:53.000Z",
+  "checkedAt": "2022-05-14T19:28:53.000Z",
+  "id": 33985,
+  "type": "anime",
+  "title": "Bloodivores",
+  "altTitle": [
+    "Space Time Prisoner",
+    "Bloodivores",
+    "BLOODIVORES"
+  ],
+  "url": "https://myanimelist.net/anime/33985/Bloodivores",
+  "image": "https://cdn.myanimelist.net/images/anime/11/82233.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bloodivores.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12372"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18719"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time_Prisoners"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271477"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12372,
+  "Pages": {
+    "9anime": {
+      "rrxp": {
+        "createdAt": "2020-10-12T15:55:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9013,
+        "identifier": "rrxp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BLOODIVORES",
+        "url": "https://9anime.to/watch/bloodivores.rrxp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7wOyu0-Ja5o/V-o41cC2tHI/AAAAAAABBco/2dUii3PNV-c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33985,
+        "aniId": 97591,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bloodivores": {
+        "createdAt": "2020-10-12T16:00:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16871,
+        "identifier": "bloodivores",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bloodivores",
+        "url": "https://gogoanime.vc/category/bloodivores",
+        "image": "https://gogocdn.net/cover/bloodivores.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33985,
+        "aniId": 97591,
+        "deletedAt": null
+      },
+      "time-prisoner": {
+        "createdAt": "2021-10-07T01:02:32.000Z",
+        "updatedAt": "2021-10-07T01:32:19.000Z",
+        "checkedAt": null,
+        "id": 38905,
+        "identifier": "time-prisoner",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Time Prisoner",
+        "url": "https://gogoanime.pe/category/time-prisoner",
+        "image": "https://gogocdn.net/cover/time-prisoner.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33985,
+        "aniId": 97591,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1382": {
+        "identifier": "1382",
+        "malId": 33985,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bloodivores",
+        "url": "https://animepahe.com/a/1382"
+      }
+    },
+    "AniMixPlay": {
+      "33985": {
+        "identifier": "33985",
+        "malId": 33985,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bloodivores",
+        "url": "https://animixplay.to/anime/33985"
+      }
+    },
+    "YugenAnime": {
+      "680": {
+        "identifier": "680",
+        "malId": 33985,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bloodivores",
+        "url": "https://yugen.to/anime/680/bloodivores/"
+      }
+    }
+  }
+}

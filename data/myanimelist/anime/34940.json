@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-15T00:31:29.000Z",
+  "checkedAt": "2022-05-15T00:31:29.000Z",
+  "id": 34940,
+  "type": "anime",
+  "title": "Dongguo Xiaojie",
+  "altTitle": [
+    "Dongguo Xiaojie: Karma",
+    "东郭小节"
+  ],
+  "url": "https://myanimelist.net/anime/34940/Dongguo_Xiaojie",
+  "image": "https://cdn.myanimelist.net/images/anime/5/84996.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.qq.com/zt2016/dgxj2016/index.htm"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "34q9": {
+        "createdAt": "2020-10-12T15:49:42.000Z",
+        "updatedAt": "2022-04-02T22:32:23.000Z",
+        "checkedAt": null,
+        "id": 1696,
+        "identifier": "34q9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dongguo Xiaojie",
+        "url": "https://9anime.to/watch/dongguo-xiaojie.34q9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/0ff3cb535841a7b029857aa221617a4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34940,
+        "aniId": 99788,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dongguo-xiaojie": {
+        "createdAt": "2020-10-12T16:00:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17410,
+        "identifier": "dongguo-xiaojie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dongguo Xiaojie",
+        "url": "https://gogoanime.vc/category/dongguo-xiaojie",
+        "image": "https://cdnimg.xyz/cover/dongguo-xiaojie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34940,
+        "aniId": 99788,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34940": {
+        "identifier": "34940",
+        "malId": 34940,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dongguo Xiaojie",
+        "url": "https://animixplay.to/anime/34940"
+      }
+    },
+    "YugenAnime": {
+      "385": {
+        "identifier": "385",
+        "malId": 34940,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dongguo Xiaojie",
+        "url": "https://yugen.to/anime/385/dongguo-xiaojie/"
+      }
+    }
+  }
+}

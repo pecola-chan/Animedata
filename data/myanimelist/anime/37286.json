@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T18:40:05.000Z",
+  "checkedAt": "2022-05-14T18:40:05.000Z",
+  "id": 37286,
+  "type": "anime",
+  "title": "It's My Life",
+  "altTitle": [
+    "It's My Life",
+    "IT'S MY LIFE"
+  ],
+  "url": "https://myanimelist.net/anime/37286/Its_My_Life",
+  "image": "https://cdn.myanimelist.net/images/anime/1998/105349.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.urasunday.com/iml_anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13645"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22970"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13645,
+  "Pages": {
+    "9anime": {
+      "qyqw": {
+        "createdAt": "2020-10-12T15:55:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8647,
+        "identifier": "qyqw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "It's My Life",
+        "url": "https://9anime.to/watch/its-my-life.qyqw",
+        "image": "https://static.akacdn.ru/files/images/2018/05/a887dab71d69115982743c2869930ab3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37286,
+        "aniId": 105934,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "its-my-life": {
+        "createdAt": "2020-10-12T16:00:51.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18547,
+        "identifier": "its-my-life",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "It's My Life",
+        "url": "https://gogoanime.vc/category/its-my-life",
+        "image": "https://cdnimg.xyz/cover/its-my-life.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37286,
+        "aniId": 105934,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3627": {
+        "identifier": "3627",
+        "malId": 37286,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "It's My Life",
+        "url": "https://animepahe.com/a/3627"
+      }
+    },
+    "AniMixPlay": {
+      "37286": {
+        "identifier": "37286",
+        "malId": 37286,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "It's My Life",
+        "url": "https://animixplay.to/anime/37286"
+      }
+    },
+    "YugenAnime": {
+      "1577": {
+        "identifier": "1577",
+        "malId": 37286,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "It's My Life",
+        "url": "https://yugen.to/anime/1577/its-my-life/"
+      }
+    }
+  }
+}

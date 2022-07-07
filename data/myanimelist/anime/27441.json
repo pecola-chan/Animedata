@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T19:01:30.000Z",
+  "checkedAt": "2022-05-14T19:01:30.000Z",
+  "id": 27441,
+  "type": "anime",
+  "title": "Show By Rock!!",
+  "altTitle": [
+    "SB69",
+    "SHOW BY ROCK!!（ショウ・バイ・ロック!!）"
+  ],
+  "url": "https://myanimelist.net/anime/27441/Show_By_Rock",
+  "image": "https://cdn.myanimelist.net/images/anime/7/73674.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.showbyrock-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10830"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16311"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Show_by_Rock!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271529"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/show-by-rock"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10830,
+  "Pages": {
+    "9anime": {
+      "8nzn": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3949,
+        "identifier": "8nzn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Show By Rock!!",
+        "url": "https://9anime.to/watch/show-by-rock.8nzn",
+        "image": "https://static.akacdn.ru/static/images/2018/04/d025ec215b295113d80515fc04a9d197.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27441,
+        "aniId": 20843,
+        "deletedAt": null
+      },
+      "wwz4": {
+        "createdAt": "2020-10-12T15:56:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9953,
+        "identifier": "wwz4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Show By Rock!! (Dub)",
+        "url": "https://9anime.to/watch/show-by-rock-dub.wwz4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Y-ggnFhzX5A/V8_t-jBpMZI/AAAAAAAA8LY/HPJba2ZGoYY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27441,
+        "aniId": 20843,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "show-by-rock-": {
+        "createdAt": "2020-10-12T16:01:54.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20696,
+        "identifier": "show-by-rock-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Show by Rock!!",
+        "url": "https://gogoanime.vc/category/show-by-rock-",
+        "image": "https://images.gogoanime.tv/images/upload/68131.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27441,
+        "aniId": 20843,
+        "deletedAt": null
+      },
+      "show-by-rock-dub": {
+        "createdAt": "2020-10-12T16:01:54.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20698,
+        "identifier": "show-by-rock-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Show By Rock!! (Dub)",
+        "url": "https://gogoanime.vc/category/show-by-rock-dub",
+        "image": "https://gogocdn.net/cover/show-by-rock-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27441,
+        "aniId": 20843,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3637": {
+        "identifier": "3637",
+        "malId": 27441,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Show By Rock!!",
+        "url": "https://animepahe.com/a/3637"
+      }
+    },
+    "AniMixPlay": {
+      "27441": {
+        "identifier": "27441",
+        "malId": 27441,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Show By Rock!!",
+        "url": "https://animixplay.to/anime/27441"
+      }
+    },
+    "YugenAnime": {
+      "750": {
+        "identifier": "750",
+        "malId": 27441,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Show By Rock!!",
+        "url": "https://yugen.to/anime/750/show-by-rock/"
+      }
+    }
+  }
+}

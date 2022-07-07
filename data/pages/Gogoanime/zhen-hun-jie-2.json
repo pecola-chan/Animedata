@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:02:22.000Z",
+  "updatedAt": "2021-06-06T14:18:57.000Z",
+  "checkedAt": null,
+  "id": 21680,
+  "identifier": "zhen-hun-jie-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Zhen Hun Jie 2",
+  "url": "https://gogoanime.vc/category/zhen-hun-jie-2",
+  "image": "https://gogocdn.net/cover/zhen-hun-jie-2.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": 42359,
+  "aniId": 121528,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-06-06T11:49:20.000Z",
+    "updatedAt": "2022-05-15T00:11:59.000Z",
+    "checkedAt": "2022-05-15T00:11:59.000Z",
+    "id": 42359,
+    "type": "anime",
+    "title": "Zhen Hun Jie: Bei Luo Shi Men Pian Part 2",
+    "altTitle": [
+      "Zhen Hun Jie 2",
+      "Requiem Street 2",
+      "Rakshasa Street",
+      "镇魂街 北落师门篇 下"
+    ],
+    "url": "https://myanimelist.net/anime/42359/Zhen_Hun_Jie__Bei_Luo_Shi_Men_Pian_Part_2",
+    "image": "https://cdn.myanimelist.net/images/anime/1537/113755.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md5626"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E9%95%87%E9%AD%82%E8%A1%97/18867668"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-29T12:12:13.000Z",
+    "updatedAt": "2022-05-15T14:43:59.000Z",
+    "checkedAt": "2022-05-15T14:43:59.000Z",
+    "id": 121528,
+    "type": "anime",
+    "title": "Zhen Hun Jie 2 Chongzhi Ban",
+    "altTitle": [
+      "镇魂街 第二季 重制版",
+      "Zhen Hun Jie 2 Remastered Edition",
+      "Rakshasa Street 2 Remastered Edition"
+    ],
+    "url": "https://anilist.co/anime/121528",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121528-FGbLp6guxxwR.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 42359,
+    "deletedAt": null
+  }
+}

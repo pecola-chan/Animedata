@@ -1,0 +1,124 @@
+{
+  "createdAt": "2021-02-20T12:03:49.000Z",
+  "updatedAt": "2022-05-14T09:31:22.000Z",
+  "checkedAt": "2022-05-14T09:31:22.000Z",
+  "id": 42590,
+  "type": "anime",
+  "title": "Mashiro no Oto",
+  "altTitle": [
+    "Those Snow White Notes",
+    "ましろのおと"
+  ],
+  "url": "https://myanimelist.net/anime/42590/Mashiro_no_Oto",
+  "image": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mashironooto-official.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15666"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23554"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mashiro_no_Oto#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281151"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15666,
+  "Pages": {
+    "Gogoanime": {
+      "mashiro-no-oto": {
+        "createdAt": "2021-04-02T19:31:39.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36152,
+        "identifier": "mashiro-no-oto",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mashiro no Oto",
+        "url": "https://gogoanime.vc/category/mashiro-no-oto",
+        "image": "https://gogocdn.net/cover/mashiro-no-oto.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42590,
+        "aniId": 122348,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "76n6": {
+        "createdAt": "2021-04-07T15:21:59.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36284,
+        "identifier": "76n6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mashiro no Oto",
+        "url": "https://9anime.to/watch/mashiro-no-oto.76n6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/4f/4f77a5726bcb322a34ddac6dc7c8d9ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42590,
+        "aniId": 122348,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4321": {
+        "identifier": "4321",
+        "malId": 42590,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mashiro no Oto",
+        "url": "https://animepahe.com/a/4321"
+      }
+    },
+    "AniMixPlay": {
+      "42590": {
+        "identifier": "42590",
+        "malId": 42590,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mashiro no Oto",
+        "url": "https://animixplay.to/anime/42590"
+      }
+    },
+    "YugenAnime": {
+      "7419": {
+        "identifier": "7419",
+        "malId": 42590,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mashiro no Oto",
+        "url": "https://yugen.to/anime/7419/mashiro-no-oto/"
+      }
+    }
+  }
+}

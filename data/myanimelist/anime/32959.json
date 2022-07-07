@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T22:19:42.000Z",
+  "checkedAt": "2022-05-14T22:19:42.000Z",
+  "id": 32959,
+  "type": "anime",
+  "title": "Mirai no Watashi",
+  "altTitle": [
+    "The Future Me",
+    "McDonald's Crew ni Narou. Campaign",
+    "未来のワタシ"
+  ],
+  "url": "https://myanimelist.net/anime/32959/Mirai_no_Watashi",
+  "image": "https://cdn.myanimelist.net/images/anime/5/79144.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mcdonalds.co.jp/recruit/crew_recruiting/hiring/movie/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "wzwo": {
+        "createdAt": "2020-10-12T15:56:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10018,
+        "identifier": "wzwo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mirai no Watashi",
+        "url": "https://9anime.to/watch/mirai-no-watashi.wzwo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DJv4v8i88N8/WHpvAvMX0RI/AAAAAAABZVw/b0MWUPydHDw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32959,
+        "aniId": 98089,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1433": {
+        "identifier": "1433",
+        "malId": 32959,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mirai no Watashi",
+        "url": "https://animepahe.com/a/1433"
+      }
+    }
+  }
+}

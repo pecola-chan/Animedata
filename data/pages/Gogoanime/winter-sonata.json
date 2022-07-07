@@ -1,0 +1,79 @@
+{
+  "createdAt": "2021-06-29T08:28:26.000Z",
+  "updatedAt": "2021-06-29T08:49:23.000Z",
+  "checkedAt": null,
+  "id": 37562,
+  "identifier": "winter-sonata",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Winter Sonata",
+  "url": "https://gogoanime.vc/category/winter-sonata",
+  "image": "https://gogocdn.net/images/anime/W/winter-sonata.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4189,
+  "aniId": 4189,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:42.000Z",
+    "updatedAt": "2022-05-14T16:59:03.000Z",
+    "checkedAt": "2022-05-14T16:59:03.000Z",
+    "id": 4189,
+    "type": "anime",
+    "title": "Fuyu no Sonata",
+    "altTitle": [
+      "Winter Sonata",
+      "Winter Ballad",
+      "Winter Love Story",
+      "冬のソナタ"
+    ],
+    "url": "https://myanimelist.net/anime/4189/Fuyu_no_Sonata",
+    "image": "https://cdn.myanimelist.net/images/anime/12/26302.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime-wintersonata.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5855"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9706"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Winter_Sonata"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5855
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:33.000Z",
+    "updatedAt": "2022-05-15T15:39:23.000Z",
+    "checkedAt": "2022-05-15T15:39:23.000Z",
+    "id": 4189,
+    "type": "anime",
+    "title": "Fuyu no Sonata",
+    "altTitle": [
+      "Winter Sonata",
+      "冬のソナタ",
+      "Winter Ballad",
+      "Winter Love Story"
+    ],
+    "url": "https://anilist.co/anime/4189",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4189-dz9jdVftpAxr.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4189,
+    "deletedAt": null
+  }
+}

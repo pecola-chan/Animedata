@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2021-12-15T11:18:44.000Z",
+  "checkedAt": null,
+  "id": 3863,
+  "type": "anime",
+  "title": "Sweet Valerian Specials",
+  "altTitle": [
+    "スウィート・ヴァレリアン"
+  ],
+  "url": "https://myanimelist.net/anime/3863/Sweet_Valerian_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/2/85620.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aniplex.co.jp/sweetvalerian/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2339"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sweet_Valerian"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2339,
+  "Pages": {
+    "9anime": {
+      "2mq0": {
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1419,
+        "identifier": "2mq0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sweet Valerian Specials",
+        "url": "https://9anime.to/watch/sweet-valerian-specials.2mq0",
+        "image": "https://static.akacdn.ru/files/images/2018/06/0c8b5c0f5cbc0bcadc7eb0b35088f13f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3863,
+        "aniId": 3863,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sweet-valerian-specials": {
+        "createdAt": "2021-12-15T11:18:26.000Z",
+        "updatedAt": "2021-12-15T11:48:24.000Z",
+        "checkedAt": null,
+        "id": 39468,
+        "identifier": "sweet-valerian-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sweet Valerian Specials",
+        "url": "https://gogoanime.cm/category/sweet-valerian-specials",
+        "image": "https://gogocdn.net/cover/sweet-valerian-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3863,
+        "aniId": 3863,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "13765": {
+        "identifier": "13765",
+        "malId": 3863,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sweet Valerian Specials",
+        "url": "https://yugen.to/anime/13765/sweet-valerian-specials/"
+      }
+    }
+  }
+}

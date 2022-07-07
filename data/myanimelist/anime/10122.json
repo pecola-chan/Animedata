@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-15T01:08:53.000Z",
+  "checkedAt": "2022-05-15T01:08:53.000Z",
+  "id": 10122,
+  "type": "anime",
+  "title": "Kowarekake no Orgel Special",
+  "altTitle": [
+    "Kowarekake no Orgol Extra",
+    "Half-Broken Music Box Extra episode",
+    "こわれかけのオルゴール"
+  ],
+  "url": "https://myanimelist.net/anime/10122/Kowarekake_no_Orgel_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/8/27907.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ne.jp/asahi/magneticwave/popcan/kowa/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6271"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6271,
+  "Pages": {
+    "9anime": {
+      "krw4": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5606,
+        "identifier": "krw4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kowarekake no Orgel Special",
+        "url": "https://9anime.to/watch/kowarekake-no-orgel-special.krw4",
+        "image": "https://static.akacdn.ru/files/images/2018/03/bd818471ad8221d4882814a7976439cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10122,
+        "aniId": 10122,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kowarekake-no-orgol-special": {
+        "createdAt": "2022-01-23T19:30:12.000Z",
+        "updatedAt": "2022-01-23T20:00:11.000Z",
+        "checkedAt": null,
+        "id": 39953,
+        "identifier": "kowarekake-no-orgol-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kowarekake no Orgol Special",
+        "url": "https://gogoanime.cm/category/kowarekake-no-orgol-special",
+        "image": "https://gogocdn.net/images/o.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10122,
+        "aniId": 10122,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2892": {
+        "identifier": "2892",
+        "malId": 10122,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kowarekake no Orgel Special",
+        "url": "https://animepahe.com/a/2892"
+      }
+    },
+    "AniMixPlay": {
+      "10122": {
+        "identifier": "10122",
+        "malId": 10122,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kowarekake no Orgel Special",
+        "url": "https://animixplay.to/anime/10122"
+      }
+    },
+    "YugenAnime": {
+      "4369": {
+        "identifier": "4369",
+        "malId": 10122,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kowarekake no Orgel Special",
+        "url": "https://yugen.to/anime/4369/kowarekake-no-orgol-special/"
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-14T17:41:11.000Z",
+  "checkedAt": "2022-05-14T17:41:11.000Z",
+  "id": 28211,
+  "type": "anime",
+  "title": "Harmony",
+  "altTitle": [
+    "Project Itoh",
+    "Harmony",
+    "<harmony/> ハーモニー"
+  ],
+  "url": "https://myanimelist.net/anime/28211/Harmony",
+  "image": "https://cdn.myanimelist.net/images/anime/2/76993.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.project-itoh.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10932"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16580"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harmony_(2015_film)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280870"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10932,
+  "Pages": {
+    "9anime": {
+      "m3lz": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2022-06-14T00:30:24.000Z",
+        "checkedAt": "2022-06-14T00:30:24.000Z",
+        "id": 6365,
+        "identifier": "m3lz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Harmony (Dub)",
+        "url": "https://9anime.to/watch/harmony-dub.m3lz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/f0967a5ec887ca15abef88075535623c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28211,
+        "aniId": 20932,
+        "deletedAt": null
+      },
+      "w547": {
+        "createdAt": "2020-10-12T15:56:06.000Z",
+        "updatedAt": "2022-06-13T21:00:27.000Z",
+        "checkedAt": "2022-06-13T21:00:27.000Z",
+        "id": 9675,
+        "identifier": "w547",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Harmony",
+        "url": "https://9anime.to/watch/harmony.w547",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/01/a7dbc080a4005f8df228b9b2197891b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28211,
+        "aniId": 20932,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "harmony": {
+        "createdAt": "2020-10-12T16:00:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18182,
+        "identifier": "harmony",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Harmony",
+        "url": "https://gogoanime.vc/category/harmony",
+        "image": "https://cdnimg.xyz/cover/harmony.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28211,
+        "aniId": 20932,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "28211": {
+        "identifier": "28211",
+        "malId": 28211,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Harmony",
+        "url": "https://animixplay.to/anime/28211"
+      }
+    },
+    "YugenAnime": {
+      "438": {
+        "identifier": "438",
+        "malId": 28211,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Harmony",
+        "url": "https://yugen.to/anime/438/harmony/"
+      }
+    }
+  }
+}

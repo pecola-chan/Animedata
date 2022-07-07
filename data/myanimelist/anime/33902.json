@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T17:33:28.000Z",
+  "checkedAt": "2022-05-14T17:33:28.000Z",
+  "id": 33902,
+  "type": "anime",
+  "title": "Suntory Minami Alps no Tennensui",
+  "altTitle": [
+    "Kimi no Na wa.",
+    "Your Name.",
+    "SUNTORY × Kimi no Na wa.",
+    "サントリー 南アルプスの天然水"
+  ],
+  "url": "https://myanimelist.net/anime/33902/Suntory_Minami_Alps_no_Tennensui",
+  "image": "https://cdn.myanimelist.net/images/anime/13/81596.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.suntory.co.jp/enjoy/movie/kiminona/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E5%A4%A9%E7%84%B6%E6%B0%B4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "5v9j": {
+        "createdAt": "2020-10-12T15:50:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2785,
+        "identifier": "5v9j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Suntory Minami Alps no Tennen Mizu",
+        "url": "https://9anime.to/watch/suntory-minami-alps-no-tennen-mizu.5v9j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-p8rSsBVFizc/V-53ownX0AI/AAAAAAABCns/PpmUk8odf_I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33902,
+        "aniId": 97962,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33902": {
+        "identifier": "33902",
+        "malId": 33902,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Suntory Minami Alps no Tennensui",
+        "url": "https://animixplay.to/anime/33902"
+      }
+    },
+    "YugenAnime": {
+      "2522": {
+        "identifier": "2522",
+        "malId": 33902,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Suntory Minami Alps no Tennensui",
+        "url": "https://yugen.to/anime/2522/suntory-minami-alps-no-tennen-mizu/"
+      }
+    }
+  }
+}

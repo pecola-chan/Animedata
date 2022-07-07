@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-15T12:29:29.000Z",
+  "checkedAt": "2022-05-15T12:29:29.000Z",
+  "id": 3281,
+  "type": "anime",
+  "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+  "altTitle": [
+    "Kinnikuman: Kinnikusei Oui Soudatsuhen",
+    "Kinnikuman: Scramble For The Throne",
+    "キン肉マン　キン肉星王位争奪編"
+  ],
+  "url": "https://myanimelist.net/anime/3281/Kinnikuman__Kinnikusei_Oui_Soudatsu-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1877/105621.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/kinniku_soudatsu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2090"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1525"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E8%82%89%E3%83%9E%E3%83%B3_%28%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%29#.E3.82.AD.E3.83.B3.E8.82.89.E3.83.9E.E3.83.B3_.E3.82.AD.E3.83.B3.E8.82.89.E6.98.9F.E7.8E.8B.E4.BD.8D.E4.BA.89.E5.A5.AA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2090,
+  "Pages": {
+    "9anime": {
+      "32zy": {
+        "createdAt": "2020-10-12T15:49:42.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1672,
+        "identifier": "32zy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+        "url": "https://9anime.to/watch/kinnikuman-kinnikusei-oui-soudatsu-hen.32zy",
+        "image": "https://static.akacdn.ru/files/images/7/7f/7fc81a25bc971470552b2123bfa175fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3281,
+        "aniId": 3281,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kinnikuman-kinnikusei-oui-soudatsu-hen": {
+        "createdAt": "2020-10-12T16:01:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18860,
+        "identifier": "kinnikuman-kinnikusei-oui-soudatsu-hen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+        "url": "https://gogoanime.vc/category/kinnikuman-kinnikusei-oui-soudatsu-hen",
+        "image": "https://gogocdn.net/cover/kinnikuman-kinnikusei-oui-soudatsu-hen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3281,
+        "aniId": 3281,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3281": {
+        "identifier": "3281",
+        "malId": 3281,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+        "url": "https://animixplay.to/anime/3281"
+      }
+    },
+    "YugenAnime": {
+      "4663": {
+        "identifier": "4663",
+        "malId": 3281,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kinnikuman: Kinnikusei Oui Soudatsu-hen",
+        "url": "https://yugen.to/anime/4663/kinnikuman-kinnikusei-oui-soudatsu-hen/"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-15T00:24:41.000Z",
+  "checkedAt": "2022-05-15T00:24:41.000Z",
+  "id": 3038,
+  "type": "anime",
+  "title": "Senya Ichiya Monogatari",
+  "altTitle": [
+    "One Thousand and One Arabian Nights",
+    "1001 Nights",
+    "A Thousand and One Nights",
+    "千夜一夜物語"
+  ],
+  "url": "https://myanimelist.net/anime/3038/Senya_Ichiya_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/4/39379.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3683"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3265"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Thousand_and_One_Nights_%281969_film%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3683,
+  "Pages": {
+    "9anime": {
+      "nxwj": {
+        "createdAt": "2020-10-12T15:54:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7289,
+        "identifier": "nxwj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senya Ichiya Monogatari",
+        "url": "https://9anime.to/watch/senya-ichiya-monogatari.nxwj",
+        "image": "https://static.akacdn.ru/static/images/2018/03/19c9d969943e722fbb5207b2384ddf32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3038,
+        "aniId": 3038,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-14T18:52:53.000Z",
+  "checkedAt": "2022-05-14T18:52:53.000Z",
+  "id": 2014,
+  "type": "anime",
+  "title": "Taiho Shichau zo: Second Season",
+  "altTitle": [
+    "Taiho Shichauzo: Second Season",
+    "Taiho Shichau zo 2nd Season",
+    "You're Under Arrest: Second Season",
+    "You're Under Arrest: Fast & Furious",
+    "逮捕しちゃうぞ SECOND SEASON"
+  ],
+  "url": "https://myanimelist.net/anime/2014/Taiho_Shichau_zo__Second_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/9/21852.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=675"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=621"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/You're_Under_Arrest"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/youre-under-arrest-fast-and-furious"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 675,
+  "Pages": {
+    "9anime": {
+      "8xmy": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4073,
+        "identifier": "8xmy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Taiho Shichau zo: Second Season",
+        "url": "https://9anime.to/watch/taiho-shichau-zo-second-season.8xmy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Pj8-Y0-GCCY/V7BTHjGDgEI/AAAAAAAA3AA/ZOjLhuKd0wE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2014,
+        "aniId": 2014,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2014": {
+        "identifier": "2014",
+        "malId": 2014,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Taiho Shichau zo: Second Season",
+        "url": "https://animixplay.to/anime/2014"
+      }
+    },
+    "YugenAnime": {
+      "9396": {
+        "identifier": "9396",
+        "malId": 2014,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Taiho Shichau zo: Second Season",
+        "url": "https://yugen.to/anime/9396/taiho-shichau-zo-second-season/"
+      }
+    }
+  }
+}

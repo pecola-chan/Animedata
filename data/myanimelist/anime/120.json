@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T09:46:35.000Z",
+  "checkedAt": "2022-05-14T09:46:35.000Z",
+  "id": 120,
+  "type": "anime",
+  "title": "Fruits Basket",
+  "altTitle": [
+    "Furuba",
+    "Fruits Basket",
+    "フルーツバスケット"
+  ],
+  "url": "https://myanimelist.net/anime/120/Fruits_Basket",
+  "image": "https://cdn.myanimelist.net/images/anime/4/75204.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/fruits_basket/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=34"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=348"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fruits_Basket"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/fruits-basket-2001"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 34,
+  "Pages": {
+    "9anime": {
+      "5x2m": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2825,
+        "identifier": "5x2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fruits Basket (Dub)",
+        "url": "https://9anime.to/watch/fruits-basket-dub.5x2m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/6b160508e7d543e15ab077cfb051547f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 120,
+        "aniId": 120,
+        "deletedAt": null
+      },
+      "rlvp": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8904,
+        "identifier": "rlvp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fruits Basket",
+        "url": "https://9anime.to/watch/fruits-basket.rlvp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5O2mGBGQAUM/V5Sv18zCm2I/AAAAAAAAxv4/IS9eU0t4WDw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 120,
+        "aniId": 120,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fruits-basket": {
+        "createdAt": "2020-10-12T16:00:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17708,
+        "identifier": "fruits-basket",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fruits Basket",
+        "url": "https://gogoanime.vc/category/fruits-basket",
+        "image": "https://images.gogoanime.tv/images/anime/F/fruits-basket.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 120,
+        "aniId": 120,
+        "deletedAt": null
+      },
+      "fruits-basket-dub": {
+        "createdAt": "2020-10-12T16:00:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17713,
+        "identifier": "fruits-basket-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fruits Basket (Dub)",
+        "url": "https://gogoanime.vc/category/fruits-basket-dub",
+        "image": "https://cdnimg.xyz/cover/fruits-basket-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 120,
+        "aniId": 120,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "783": {
+        "identifier": "783",
+        "malId": 120,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fruits Basket",
+        "url": "https://animepahe.com/a/783"
+      }
+    },
+    "AniMixPlay": {
+      "120": {
+        "identifier": "120",
+        "malId": 120,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fruits Basket",
+        "url": "https://animixplay.to/anime/120"
+      }
+    },
+    "YugenAnime": {
+      "1662": {
+        "identifier": "1662",
+        "malId": 120,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fruits Basket",
+        "url": "https://yugen.to/anime/1662/fruits-basket/"
+      }
+    }
+  }
+}

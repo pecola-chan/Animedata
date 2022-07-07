@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T21:36:59.000Z",
+  "checkedAt": "2022-05-14T21:36:59.000Z",
+  "id": 5774,
+  "type": "anime",
+  "title": "Seitokaichou ni Chuukoku",
+  "altTitle": [
+    "Hey Class President",
+    "High-School Love",
+    "Highschool Love",
+    "Hey, Class President!",
+    "生徒会長に忠告"
+  ],
+  "url": "https://myanimelist.net/anime/5774/Seitokaichou_ni_Chuukoku",
+  "image": "https://cdn.myanimelist.net/images/anime/5/17008.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.primetime.gs/product/seito.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7015"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10565"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hey,_Class_President!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7015,
+  "Pages": {
+    "9anime": {
+      "63lz": {
+        "createdAt": "2020-10-12T15:50:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2923,
+        "identifier": "63lz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seitokaichou ni Chuukoku",
+        "url": "https://9anime.to/watch/seitokaichou-ni-chuukoku.63lz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1TJIyskoChc/WFaCab2RW8I/AAAAAAABTac/mFMt8F2Ruqw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5774,
+        "aniId": 5774,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5774": {
+        "identifier": "5774",
+        "malId": 5774,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seitokaichou ni Chuukoku",
+        "url": "https://animixplay.to/anime/5774"
+      }
+    }
+  }
+}

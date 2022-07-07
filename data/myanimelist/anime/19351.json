@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T22:51:59.000Z",
+  "checkedAt": "2022-05-14T22:51:59.000Z",
+  "id": 19351,
+  "type": "anime",
+  "title": "Nijiiro☆Prism Girl",
+  "altTitle": [
+    "にじいろ☆プリズムガール"
+  ],
+  "url": "https://myanimelist.net/anime/19351/Nijiiro☆Prism_Girl",
+  "image": "https://cdn.myanimelist.net/images/anime/8/58531.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ciao.shogakukan.co.jp/ciaotv/nijipuri/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9965"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15495"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%98%E3%81%84%E3%82%8D%E2%98%86%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%AC%E3%83%BC%E3%83%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9965,
+  "Pages": {
+    "9anime": {
+      "58wv": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2597,
+        "identifier": "58wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nijiiro☆Prism Girl",
+        "url": "https://9anime.to/watch/nijiiroprism-girl.58wv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OQs1zfqNTdI/WNuPSEAVLqI/AAAAAAAAd-k/vAU4NUGtHQg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19351,
+        "aniId": 19351,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "19351": {
+        "identifier": "19351",
+        "malId": 19351,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nijiiro☆Prism Girl",
+        "url": "https://animixplay.to/anime/19351"
+      }
+    }
+  }
+}

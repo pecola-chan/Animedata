@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-15T01:38:54.000Z",
+  "checkedAt": "2022-05-15T01:38:54.000Z",
+  "id": 681,
+  "type": "anime",
+  "title": "Tenbatsu Angel Rabbie☆",
+  "altTitle": [
+    "Judgment! XX Angel Rabbie",
+    "Divine Punishment: Angel Rabbie OVA",
+    "XX Angel Rabbie OVA",
+    "天罰エンジェルラビィ☆"
+  ],
+  "url": "https://myanimelist.net/anime/681/Tenbatsu_Angel_Rabbie☆",
+  "image": "https://cdn.myanimelist.net/images/anime/11/3789.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tenbatsu.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1277"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3248"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tenbatsu!_Angel_Rabbie"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1277,
+  "Pages": {
+    "9anime": {
+      "1wnq": {
+        "createdAt": "2020-10-12T15:49:20.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1150,
+        "identifier": "1wnq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenbatsu Angel Rabbie☆",
+        "url": "https://9anime.to/watch/tenbatsu-angel-rabbie.1wnq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ztYNEYiACJY/WHXDhJmDgkI/AAAAAAABYog/2vphYOTd-ds/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 681,
+        "aniId": 681,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "681": {
+        "identifier": "681",
+        "malId": 681,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenbatsu Angel Rabbie☆",
+        "url": "https://animixplay.to/anime/681"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T21:52:30.000Z",
+  "checkedAt": "2022-05-14T21:52:30.000Z",
+  "id": 1912,
+  "type": "anime",
+  "title": "Marginal Prince: Gekkeiju no Ouji-tachi",
+  "altTitle": [
+    "Marginal Prince: Gekkeijyu no Oujitachi",
+    "Marginal Prince: Gekkeiju no Ohji Tachi",
+    "マージナルプリンス -月桂樹の王子達-"
+  ],
+  "url": "https://myanimelist.net/anime/1912/Marginal_Prince__Gekkeiju_no_Ouji-tachi",
+  "image": "https://cdn.myanimelist.net/images/anime/6/27476.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mpri.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4621"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6805"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Marginal_Prince"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4621,
+  "Pages": {
+    "9anime": {
+      "1w0p": {
+        "createdAt": "2020-10-12T15:49:19.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1136,
+        "identifier": "1w0p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Marginal Prince: Gekkeiju no Ouji-tachi",
+        "url": "https://9anime.to/watch/marginal-prince-gekkeiju-no-ouji-tachi.1w0p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8zMsgAYIp_4/WJweW23jMAI/AAAAAAABcZY/JZjbHWYrOyo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1912,
+        "aniId": 1912,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "marginal-prince": {
+        "createdAt": "2020-11-13T14:52:48.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29168,
+        "identifier": "marginal-prince",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Marginal Prince",
+        "url": "https://gogoanime.vc/category/marginal-prince",
+        "image": "https://gogocdn.net/images/anime/M/marginal-prince.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 1912,
+        "aniId": 1912,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1912": {
+        "identifier": "1912",
+        "malId": 1912,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Marginal Prince: Gekkeiju no Ouji-tachi",
+        "url": "https://animixplay.to/anime/1912"
+      }
+    },
+    "YugenAnime": {
+      "2705": {
+        "identifier": "2705",
+        "malId": 1912,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Marginal Prince: Gekkeiju no Ouji-tachi",
+        "url": "https://yugen.to/anime/2705/marginal-prince/"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T07:01:23.000Z",
+  "checkedAt": "2022-05-14T07:01:23.000Z",
+  "id": 276,
+  "type": "anime",
+  "title": "Mahoromatic: Automatic Maiden",
+  "altTitle": [
+    "Mahoromatic: Automatic Maiden",
+    "まほろまてぃっく"
+  ],
+  "url": "https://myanimelist.net/anime/276/Mahoromatic__Automatic_Maiden",
+  "image": "https://cdn.myanimelist.net/images/anime/13/23051.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mahoro-matic.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=109"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=428"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mahoromatic"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/mahoromatic-automatic-maiden"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 109,
+  "Pages": {
+    "9anime": {
+      "3plr": {
+        "createdAt": "2020-10-12T15:49:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1902,
+        "identifier": "3plr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoromatic: Automatic Maiden (Dub)",
+        "url": "https://9anime.to/watch/mahoromatic-automatic-maiden-dub.3plr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JJG8demvSCw/V69wHxIILiI/AAAAAAAA26k/hW0BEZcnvpw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 276,
+        "aniId": 276,
+        "deletedAt": null
+      },
+      "9y5m": {
+        "createdAt": "2020-10-12T15:51:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4510,
+        "identifier": "9y5m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoromatic: Automatic Maiden",
+        "url": "https://9anime.to/watch/mahoromatic-automatic-maiden.9y5m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vX-ddaz7DuQ/V-gIkEjvbcI/AAAAAAABA5g/1Vd_4gJQj_E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 276,
+        "aniId": 276,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "145": {
+        "identifier": "145",
+        "malId": 276,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mahoromatic: Automatic Maiden",
+        "url": "https://animepahe.com/a/145"
+      }
+    },
+    "AniMixPlay": {
+      "276": {
+        "identifier": "276",
+        "malId": 276,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahoromatic: Automatic Maiden",
+        "url": "https://animixplay.to/anime/276"
+      }
+    }
+  }
+}

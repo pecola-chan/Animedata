@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-12-23T14:26:15.000Z",
+  "updatedAt": "2022-05-15T04:07:56.000Z",
+  "checkedAt": "2022-05-15T04:07:56.000Z",
+  "id": 44050,
+  "type": "anime",
+  "title": "Gundam Build Divers: Battlogue",
+  "altTitle": [
+    "Gundam Build Divers Series: Battlogue",
+    "Gundam Build Divers Battlogue",
+    "ガンダムビルドダイバーズ バトローグ"
+  ],
+  "url": "https://myanimelist.net/anime/44050/Gundam_Build_Divers__Battlogue",
+  "image": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://en.gundam.info/about-gundam/series-pages/builddivers_rerise/battlogue.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15401"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15401,
+  "Pages": {
+    "9anime": {
+      "vk17": {
+        "createdAt": "2021-01-01T13:10:50.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32487,
+        "identifier": "vk17",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gundam Build Divers Battlogue",
+        "url": "https://9anime.to/watch/gundam-build-divers-battlogue.vk17",
+        "image": "//static.9anime.to/i/cache/images/7/73/73a1d9a7945f5bf2061cbf613c0a1e83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44050,
+        "aniId": 126662,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gundam-build-divers-battlogue": {
+        "createdAt": "2022-01-18T05:04:05.000Z",
+        "updatedAt": "2022-01-18T05:34:03.000Z",
+        "checkedAt": null,
+        "id": 39870,
+        "identifier": "gundam-build-divers-battlogue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gundam Build Divers: Battlogue",
+        "url": "https://gogoanime.cm/category/gundam-build-divers-battlogue",
+        "image": "https://gogocdn.net/cover/gundam-build-divers-battlogue.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44050,
+        "aniId": 126662,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44050": {
+        "identifier": "44050",
+        "malId": 44050,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gundam Build Divers: Battlogue",
+        "url": "https://animixplay.to/anime/44050"
+      }
+    },
+    "YugenAnime": {
+      "11596": {
+        "identifier": "11596",
+        "malId": 44050,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gundam Build Divers: Battlogue",
+        "url": "https://yugen.to/anime/11596/gundam-build-divers-battlogue/"
+      }
+    }
+  }
+}

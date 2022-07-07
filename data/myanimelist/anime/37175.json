@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T17:32:22.000Z",
+  "checkedAt": "2022-05-14T17:32:22.000Z",
+  "id": 37175,
+  "type": "anime",
+  "title": "Mi Yu Xing Zhe",
+  "altTitle": [
+    "Uncharted Walker",
+    "迷域行者"
+  ],
+  "url": "https://myanimelist.net/anime/37175/Mi_Yu_Xing_Zhe",
+  "image": "https://cdn.myanimelist.net/images/anime/1869/104422.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://topic.dajiaochongmanhua.com/myxz/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "pl5j": {
+        "createdAt": "2020-10-12T15:54:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7967,
+        "identifier": "pl5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uncharted Walker",
+        "url": "https://9anime.to/watch/uncharted-walker.pl5j",
+        "image": "https://static.akacdn.ru/static/images/2018/02/5c191699655fb36f1d0f2fe67954ec24.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37175,
+        "aniId": 101132,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mi-yu-xing-zhe": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19421,
+        "identifier": "mi-yu-xing-zhe",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mi Yu Xing Zhe",
+        "url": "https://gogoanime.vc/category/mi-yu-xing-zhe",
+        "image": "https://cdnimg.xyz/cover/mi-yu-xing-zhe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37175,
+        "aniId": 101132,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37175": {
+        "identifier": "37175",
+        "malId": 37175,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mi Yu Xing Zhe",
+        "url": "https://animixplay.to/anime/37175"
+      }
+    },
+    "YugenAnime": {
+      "3702": {
+        "identifier": "3702",
+        "malId": 37175,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mi Yu Xing Zhe",
+        "url": "https://yugen.to/anime/3702/mi-yu-xing-zhe/"
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T16:00:48.000Z",
+  "updatedAt": "2021-11-05T18:34:20.000Z",
+  "checkedAt": null,
+  "id": 18426,
+  "identifier": "ice-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ice (Dub)",
+  "url": "https://gogoanime.pe/category/ice-dub",
+  "image": "https://gogocdn.net/cover/ice-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 2169,
+  "aniId": 2169,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:26.000Z",
+    "updatedAt": "2022-05-14T19:35:47.000Z",
+    "checkedAt": "2022-05-14T19:35:47.000Z",
+    "id": 2169,
+    "type": "anime",
+    "title": "Ice",
+    "altTitle": [
+      "ICE: The Last Generation",
+      "Project Ice",
+      "ICE - アイス -"
+    ],
+    "url": "https://myanimelist.net/anime/2169/Ice",
+    "image": "https://cdn.myanimelist.net/images/anime/1/2329.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.project-ice.com/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4974"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7528"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/ICE_(anime)"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/movies/ice"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4974
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:13.000Z",
+    "updatedAt": "2022-05-15T12:16:47.000Z",
+    "checkedAt": "2022-05-15T12:16:47.000Z",
+    "id": 2169,
+    "type": "anime",
+    "title": "Ice",
+    "altTitle": [
+      "ICE - アイス -",
+      "ICE: The Last Generation",
+      "Project Ice"
+    ],
+    "url": "https://anilist.co/anime/2169",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2169.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/ice"
+      }
+    ],
+    "malId": 2169,
+    "deletedAt": null
+  }
+}

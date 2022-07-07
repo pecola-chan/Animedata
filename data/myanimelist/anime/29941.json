@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-05-14T22:17:18.000Z",
+  "checkedAt": "2022-05-14T22:17:18.000Z",
+  "id": 29941,
+  "type": "anime",
+  "title": "Million Doll",
+  "altTitle": [
+    "Million Doll",
+    "ミリオンドール"
+  ],
+  "url": "https://myanimelist.net/anime/29941/Million_Doll",
+  "image": "https://cdn.myanimelist.net/images/anime/4/75013.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11066"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16783"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Million_Doll"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-266793"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11066,
+  "Pages": {
+    "9anime": {
+      "qzrj": {
+        "createdAt": "2020-10-12T15:55:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8671,
+        "identifier": "qzrj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Million Doll",
+        "url": "https://9anime.to/watch/million-doll.qzrj",
+        "image": "https://static.akacdn.ru/files/images/2018/04/36e33538566f41e835a22c3e79bae77b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29941,
+        "aniId": 21044,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "million-doll": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19432,
+        "identifier": "million-doll",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Million Doll",
+        "url": "https://gogoanime.vc/category/million-doll",
+        "image": "https://cdnimg.xyz/images/upload/million_doll.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29941,
+        "aniId": 21044,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "29941": {
+        "identifier": "29941",
+        "malId": 29941,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Million Doll",
+        "url": "https://animixplay.to/anime/29941"
+      }
+    },
+    "YugenAnime": {
+      "1132": {
+        "identifier": "1132",
+        "malId": 29941,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Million Doll",
+        "url": "https://yugen.to/anime/1132/million-doll/"
+      }
+    }
+  }
+}

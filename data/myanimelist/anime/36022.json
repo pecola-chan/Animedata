@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T19:40:17.000Z",
+  "checkedAt": "2022-05-14T19:40:17.000Z",
+  "id": 36022,
+  "type": "anime",
+  "title": "Cardfight!! Vanguard G: Z",
+  "altTitle": [
+    "Cardfight!! Vanguard G Z",
+    "CARDFIGHT!! ヴァンガードG Z"
+  ],
+  "url": "https://myanimelist.net/anime/36022/Cardfight_Vanguard_G__Z",
+  "image": "https://cdn.myanimelist.net/images/anime/13/88063.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13329"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20072"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cardfight!!_Vanguard"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-263897"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13329,
+  "Pages": {
+    "9anime": {
+      "8qjn": {
+        "createdAt": "2020-10-12T15:51:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3985,
+        "identifier": "8qjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cardfight!! Vanguard G Z",
+        "url": "https://9anime.to/watch/cardfight-vanguard-g-z.8qjn",
+        "image": "https://static.akacdn.ru/files/images/2018/04/ac1036bce6d7e482bc94017baa4a3076.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36022,
+        "aniId": 99733,
+        "deletedAt": null
+      },
+      "m7pz": {
+        "createdAt": "2020-10-12T15:53:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6478,
+        "identifier": "m7pz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cardfight!! Vanguard G Z (Dub)",
+        "url": "https://9anime.to/watch/cardfight-vanguard-g-z-dub.m7pz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4_u-sBJyfCA/WhlKeQTV4oI/AAAAAAAAAsM/AnQMBxGG-CwXx9hd2_U2PG4dtEMdKEU8wCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36022,
+        "aniId": 99733,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cardfight-vanguard-g-z": {
+        "createdAt": "2021-04-03T03:31:06.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36162,
+        "identifier": "cardfight-vanguard-g-z",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cardfight!! Vanguard G: Z",
+        "url": "https://gogoanime.vc/category/cardfight-vanguard-g-z",
+        "image": "https://gogocdn.net/cover/cardfight-vanguard-g-z.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36022,
+        "aniId": 99733,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2307": {
+        "identifier": "2307",
+        "malId": 36022,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cardfight!! Vanguard G: Z",
+        "url": "https://animepahe.com/a/2307"
+      }
+    },
+    "AniMixPlay": {
+      "36022": {
+        "identifier": "36022",
+        "malId": 36022,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cardfight!! Vanguard G: Z",
+        "url": "https://animixplay.to/anime/36022"
+      }
+    },
+    "YugenAnime": {
+      "1050": {
+        "identifier": "1050",
+        "malId": 36022,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cardfight!! Vanguard G: Z",
+        "url": "https://yugen.to/anime/1050/cardfight-vanguard-g-z/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-15T01:32:07.000Z",
+  "checkedAt": "2022-05-15T01:32:07.000Z",
+  "id": 1584,
+  "type": "anime",
+  "title": "Stratos 4 Advance Kanketsu-hen",
+  "altTitle": [
+    "ストラトス・フォー アドヴァンス 完結編"
+  ],
+  "url": "https://myanimelist.net/anime/1584/Stratos_4_Advance_Kanketsu-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/13/59213.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4419"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6361"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Stratos4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4419,
+  "Pages": {
+    "9anime": {
+      "7o18": {
+        "createdAt": "2020-10-12T15:51:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3491,
+        "identifier": "7o18",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Stratos 4 Advance Kanketsu-hen",
+        "url": "https://9anime.to/watch/stratos-4-advance-kanketsu-hen.7o18",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YBVhqH-Y1LE/WHsOwzhykUI/AAAAAAABZX8/UL8XBFDyOcU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1584,
+        "aniId": 1584,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1584": {
+        "identifier": "1584",
+        "malId": 1584,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Stratos 4 Advance Kanketsu-hen",
+        "url": "https://animixplay.to/anime/1584"
+      }
+    },
+    "YugenAnime": {
+      "1207": {
+        "identifier": "1207",
+        "malId": 1584,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Stratos 4 Advance Kanketsu-hen",
+        "url": "https://yugen.to/anime/1207/stratos-4-advance-kanketsuhen/"
+      }
+    }
+  }
+}

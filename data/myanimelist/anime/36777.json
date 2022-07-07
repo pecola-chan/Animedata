@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-15T00:07:17.000Z",
+  "checkedAt": "2022-05-15T00:07:17.000Z",
+  "id": 36777,
+  "type": "anime",
+  "title": "Utawarerumono: Tusukuru-koujo no Karei Naru Hibi",
+  "altTitle": [
+    "Utawarerumono: Imperial Princess Tusukuru's Splendid Days",
+    "うたわれるもの トゥスクル皇女の華麗なる日々"
+  ],
+  "url": "https://myanimelist.net/anime/36777/Utawarerumono__Tusukuru-koujo_no_Karei_Naru_Hibi",
+  "image": "https://cdn.myanimelist.net/images/anime/1747/105151.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13570"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13570,
+  "Pages": {
+    "9anime": {
+      "p7v6": {
+        "createdAt": "2020-10-12T15:54:35.000Z",
+        "updatedAt": "2022-05-05T13:31:56.000Z",
+        "checkedAt": null,
+        "id": 7911,
+        "identifier": "p7v6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Utawarerumono: Tusukuru-koujo no Karei Naru Hibi",
+        "url": "https://9anime.to/watch/utawarerumono-imperial-princess-tusukurus-splendid-days.p7v6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/5777f5efc9a3bdf738f7321c500edd0a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36777,
+        "aniId": 102573,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3112": {
+        "identifier": "3112",
+        "malId": 36777,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Utawarerumono: Tusukuru-koujo no Karei Naru Hibi",
+        "url": "https://animepahe.com/a/3112"
+      }
+    },
+    "AniMixPlay": {
+      "36777": {
+        "identifier": "36777",
+        "malId": 36777,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Utawarerumono: Tusukuru-koujo no Karei Naru Hibi",
+        "url": "https://animixplay.to/anime/36777"
+      }
+    }
+  }
+}

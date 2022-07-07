@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-14T20:51:05.000Z",
+  "checkedAt": "2022-05-14T20:51:05.000Z",
+  "id": 1696,
+  "type": "anime",
+  "title": "Murder Princess",
+  "altTitle": [
+    "Murder Princess",
+    "マーダープリンセス"
+  ],
+  "url": "https://myanimelist.net/anime/1696/Murder_Princess",
+  "image": "https://cdn.myanimelist.net/images/anime/5/19558.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.murderprincess.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4860"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7216"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Murder_Princess"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276893"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/murder-princess"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4860,
+  "Pages": {
+    "9anime": {
+      "47vm": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2172,
+        "identifier": "47vm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Murder Princess (Dub)",
+        "url": "https://9anime.to/watch/murder-princess-dub.47vm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bDaVkIEJrUU/WGEJMckfMEI/AAAAAAABUxY/b9SMUV7uQGY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1696,
+        "aniId": 1696,
+        "deletedAt": null
+      },
+      "wky6": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9796,
+        "identifier": "wky6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Murder Princess",
+        "url": "https://9anime.to/watch/murder-princess.wky6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WMWHc5TlLqY/WGHbJrDCTeI/AAAAAAABU98/t4ilk6Cvj4g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1696,
+        "aniId": 1696,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1056": {
+        "identifier": "1056",
+        "malId": 1696,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Murder Princess",
+        "url": "https://animepahe.com/a/1056"
+      }
+    },
+    "AniMixPlay": {
+      "1696": {
+        "identifier": "1696",
+        "malId": 1696,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Murder Princess",
+        "url": "https://animixplay.to/anime/1696"
+      }
+    },
+    "YugenAnime": {
+      "2667": {
+        "identifier": "2667",
+        "malId": 1696,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Murder Princess",
+        "url": "https://yugen.to/anime/2667/murder-princess/"
+      }
+    }
+  }
+}

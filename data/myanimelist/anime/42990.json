@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-21T18:09:04.000Z",
+  "updatedAt": "2022-05-14T09:26:36.000Z",
+  "checkedAt": "2022-05-14T09:26:36.000Z",
+  "id": 42990,
+  "type": "anime",
+  "title": "Dogeza de Tanondemita: Isekai-hen",
+  "altTitle": [
+    "Dogeza de Tanondemita Episode 13",
+    "I Tried Asking In Dogeza Episode 13",
+    "土下座で頼んでみた 異世界編"
+  ],
+  "url": "https://myanimelist.net/anime/42990/Dogeza_de_Tanondemita__Isekai-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1973/109541.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dogeza-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15659"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15659,
+  "Pages": {
+    "9anime": {
+      "4k7x": {
+        "createdAt": "2021-02-18T16:46:50.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34998,
+        "identifier": "4k7x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dogeza de Tanondemita: Isekai-hen",
+        "url": "https://9anime.to/watch/dogeza-de-tanondemita-isekai-hen.4k7x",
+        "image": "//static.bunnycdn.ru/i/cache/images/3/33/33970eee44b8e2cfa50e7f4dc871439d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42990,
+        "aniId": 124612,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4251": {
+        "identifier": "4251",
+        "malId": 42990,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dogeza de Tanondemita: Isekai-hen",
+        "url": "https://animepahe.com/a/4251"
+      }
+    },
+    "AniMixPlay": {
+      "42990": {
+        "identifier": "42990",
+        "malId": 42990,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dogeza de Tanondemita: Isekai-hen",
+        "url": "https://animixplay.to/anime/42990"
+      }
+    }
+  }
+}

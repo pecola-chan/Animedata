@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T16:12:23.000Z",
+  "checkedAt": "2022-05-14T16:12:23.000Z",
+  "id": 31338,
+  "type": "anime",
+  "title": "Hundred",
+  "altTitle": [
+    "Hundred",
+    "ハンドレッド"
+  ],
+  "url": "https://myanimelist.net/anime/31338/Hundred",
+  "image": "https://cdn.myanimelist.net/images/anime/3/78858.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hundred-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11234"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17063"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hundred_(novel_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269791"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11234,
+  "Pages": {
+    "9anime": {
+      "408m": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2030,
+        "identifier": "408m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hundred (Dub)",
+        "url": "https://9anime.to/watch/hundred-dub.408m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DOwaVckI-PA/WgI660tA0qI/AAAAAAAAEKc/90ogkXhX500g1WH80R8K76vAObOL1-_EwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31338,
+        "aniId": 21362,
+        "deletedAt": null
+      },
+      "n3ql": {
+        "createdAt": "2020-10-12T15:53:48.000Z",
+        "updatedAt": "2021-07-17T22:32:51.000Z",
+        "checkedAt": null,
+        "id": 6926,
+        "identifier": "n3ql",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hundred",
+        "url": "https://9anime.to/watch/hundred.n3ql",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/fc82222a463ae0f5827e3d6f52776d4d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31338,
+        "aniId": 21362,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hundred": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18397,
+        "identifier": "hundred",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hundred",
+        "url": "https://gogoanime.vc/category/hundred",
+        "image": "https://images.gogoanime.tv/cover/hundred.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31338,
+        "aniId": 21362,
+        "deletedAt": null
+      },
+      "hundred-dub": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18398,
+        "identifier": "hundred-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hundred (Dub)",
+        "url": "https://gogoanime.vc/category/hundred-dub",
+        "image": "https://cdnimg.xyz/cover/hundred-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31338,
+        "aniId": 21362,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "891": {
+        "identifier": "891",
+        "malId": 31338,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hundred",
+        "url": "https://animepahe.com/a/891"
+      }
+    },
+    "AniMixPlay": {
+      "31338": {
+        "identifier": "31338",
+        "malId": 31338,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hundred",
+        "url": "https://animixplay.to/anime/31338"
+      }
+    },
+    "YugenAnime": {
+      "1137": {
+        "identifier": "1137",
+        "malId": 31338,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hundred",
+        "url": "https://yugen.to/anime/1137/hundred/"
+      }
+    }
+  }
+}

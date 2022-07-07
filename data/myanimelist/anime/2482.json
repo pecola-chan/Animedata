@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T23:26:35.000Z",
+  "checkedAt": "2022-05-14T23:26:35.000Z",
+  "id": 2482,
+  "type": "anime",
+  "title": "Good Morning Althea",
+  "altTitle": [
+    "グッドモーニング・アルテア"
+  ],
+  "url": "https://myanimelist.net/anime/2482/Good_Morning_Althea",
+  "image": "https://cdn.myanimelist.net/images/anime/1980/97311.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3350"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6211"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Good_Morning%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3350,
+  "Pages": {
+    "9anime": {
+      "9n68": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4362,
+        "identifier": "9n68",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Good Morning Althea",
+        "url": "https://9anime.to/watch/good-morning-althea.9n68",
+        "image": "https://static.akacdn.ru/files/images/2018/04/bd2223114289acf73a1c76c7677a2871.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2482,
+        "aniId": 2482,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-22T00:39:23.000Z",
+  "updatedAt": "2022-05-14T22:31:59.000Z",
+  "checkedAt": "2022-05-14T22:31:59.000Z",
+  "id": 32886,
+  "type": "anime",
+  "title": "Anitore! EX: Jigoku no Training",
+  "altTitle": [
+    "Anitore! EX Specials",
+    "Anime de Training! EX Specials",
+    "Ani Tore! EX Specials",
+    "あにトレ！ＥＸ「地獄のトレーニング」"
+  ],
+  "url": "https://myanimelist.net/anime/32886/Anitore_EX__Jigoku_no_Training",
+  "image": "https://cdn.myanimelist.net/images/anime/5/78856.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime-training.com/category/goods"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11540"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ani_Tore!_EX"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11540,
+  "Pages": {
+    "9anime": {
+      "kql6": {
+        "createdAt": "2021-03-22T16:39:58.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35853,
+        "identifier": "kql6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anitore! EX: Jigoku no Training",
+        "url": "https://9anime.to/watch/anitore-ex-jigoku-no-training.kql6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5f/5fb042012be0f89c0f24a7f0b7c22889.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32886,
+        "aniId": 100071,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3630": {
+        "identifier": "3630",
+        "malId": 32886,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Anitore! EX: Jigoku no Training",
+        "url": "https://animepahe.com/a/3630"
+      }
+    }
+  }
+}

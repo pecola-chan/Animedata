@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-13T23:45:26.000Z",
+  "checkedAt": "2022-05-13T23:45:26.000Z",
+  "id": 27829,
+  "type": "anime",
+  "title": "Heavy Object",
+  "altTitle": [
+    "Heavy Object",
+    "ヘヴィーオブジェクト"
+  ],
+  "url": "https://myanimelist.net/anime/27829/Heavy_Object",
+  "image": "https://cdn.myanimelist.net/images/anime/13/75940.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.heavyobject.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10864"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16322"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Heavy_Object"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/heavy-object"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10864,
+  "Pages": {
+    "9anime": {
+      "2o42": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1450,
+        "identifier": "2o42",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Heavy Object",
+        "url": "https://9anime.to/watch/heavy-object.2o42",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZUyhTH5BxdE/V5LtnuPdVFI/AAAAAAAAxWo/UMjgWPdlAEw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27829,
+        "aniId": 20881,
+        "deletedAt": null
+      },
+      "2wm0": {
+        "createdAt": "2020-10-12T15:49:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1547,
+        "identifier": "2wm0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Heavy Object (Dub)",
+        "url": "https://9anime.to/watch/heavy-object-dub.2wm0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bgKZBKBC4Q0/V9J2-VkhNjI/AAAAAAAA8y0/BUbYIEh7b8A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27829,
+        "aniId": 20881,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "heavy-object": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18214,
+        "identifier": "heavy-object",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Heavy Object",
+        "url": "https://gogoanime.vc/category/heavy-object",
+        "image": "https://cdnimg.xyz/images/upload/75940.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27829,
+        "aniId": 20881,
+        "deletedAt": null
+      },
+      "heavy-object-dub": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18215,
+        "identifier": "heavy-object-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Heavy Object (Dub)",
+        "url": "https://gogoanime.vc/category/heavy-object-dub",
+        "image": "https://cdnimg.xyz/cover/heavy-object-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27829,
+        "aniId": 20881,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "11": {
+        "identifier": "11",
+        "malId": 27829,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Heavy Object",
+        "url": "https://animepahe.com/a/11"
+      }
+    },
+    "AniMixPlay": {
+      "27829": {
+        "identifier": "27829",
+        "malId": 27829,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Heavy Object",
+        "url": "https://animixplay.to/anime/27829"
+      }
+    },
+    "YugenAnime": {
+      "506": {
+        "identifier": "506",
+        "malId": 27829,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Heavy Object",
+        "url": "https://yugen.to/anime/506/heavy-object/"
+      }
+    }
+  }
+}

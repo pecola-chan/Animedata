@@ -1,0 +1,75 @@
+{
+  "createdAt": "2022-03-02T22:12:50.000Z",
+  "updatedAt": "2022-03-02T22:40:28.000Z",
+  "checkedAt": null,
+  "id": 40369,
+  "identifier": "kaibutsu-kun-1980",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kaibutsu-kun (1980)",
+  "url": "https://gogoanime.fi/category/kaibutsu-kun-1980",
+  "image": "https://gogocdn.net/cover/kaibutsu-kun-1980.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3130,
+  "aniId": 3130,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-26T16:53:39.000Z",
+    "checkedAt": "2022-05-26T16:53:39.000Z",
+    "id": 3130,
+    "type": "anime",
+    "title": "Kaibutsu-kun (1980)",
+    "altTitle": [
+      "Kaibutsu-kun 2",
+      "怪物くん (1980)"
+    ],
+    "url": "https://myanimelist.net/anime/3130/Kaibutsu-kun_1980",
+    "image": "https://cdn.myanimelist.net/images/anime/5/29925.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-asahi.co.jp/channel/contents/anime/0037/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5906"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1851"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kaibutsu-kun"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5906
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:36.000Z",
+    "updatedAt": "2022-05-26T16:53:37.000Z",
+    "checkedAt": "2022-05-26T16:53:37.000Z",
+    "id": 3130,
+    "type": "anime",
+    "title": "Kaibutsu-kun (1980)",
+    "altTitle": [
+      "怪物くん (1980)",
+      "Kaibutsu-kun 2"
+    ],
+    "url": "https://anilist.co/anime/3130",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3130.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3130,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-15T05:40:52.000Z",
+  "checkedAt": "2022-05-15T05:40:52.000Z",
+  "id": 38558,
+  "type": "anime",
+  "title": "Laidbackers",
+  "altTitle": [
+    "Raidbackers",
+    "LAIDBACKERS-レイドバッカーズ-"
+  ],
+  "url": "https://myanimelist.net/anime/38558/Laidbackers",
+  "image": "https://cdn.myanimelist.net/images/anime/1345/119892.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://laidbackers.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14450"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21515"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/LAIDBACKERS-%E3%83%AC%E3%82%A4%E3%83%89%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%82%BA-"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282101"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14450,
+  "Pages": {
+    "9anime": {
+      "zjzw": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11148,
+        "identifier": "zjzw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Laidbackers",
+        "url": "https://9anime.to/watch/laidbackers.zjzw",
+        "image": "https://static.akacdn.ru/static/images/2018/12/ef8a6c13daa0921332ef011b3fee9333.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38558,
+        "aniId": 104721,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "laidbackers": {
+        "createdAt": "2020-10-12T16:01:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19073,
+        "identifier": "laidbackers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Laidbackers",
+        "url": "https://gogoanime.vc/category/laidbackers",
+        "image": "https://cdnimg.xyz/cover/laidbackers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38558,
+        "aniId": 104721,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3579": {
+        "identifier": "3579",
+        "malId": 38558,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Laidbackers",
+        "url": "https://animepahe.com/a/3579"
+      }
+    },
+    "AniMixPlay": {
+      "38558": {
+        "identifier": "38558",
+        "malId": 38558,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Laidbackers",
+        "url": "https://animixplay.to/anime/38558"
+      }
+    },
+    "YugenAnime": {
+      "70": {
+        "identifier": "70",
+        "malId": 38558,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Laidbackers",
+        "url": "https://yugen.to/anime/70/laidbackers/"
+      }
+    }
+  }
+}

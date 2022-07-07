@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-05-14T19:36:35.000Z",
+  "checkedAt": "2022-05-14T19:36:35.000Z",
+  "id": 23251,
+  "type": "anime",
+  "title": "Gugure! Kokkuri-san",
+  "altTitle": [
+    "GuguKoku",
+    "GUGURE! KOKKURI-SAN",
+    "繰繰れ！コックリさん"
+  ],
+  "url": "https://myanimelist.net/anime/23251/Gugure_Kokkuri-san",
+  "image": "https://cdn.myanimelist.net/images/anime/6/65665.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gugukoku.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10530"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16123"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gugure!_Kokkuri-san"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/gugure-kokkuri-san"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10530,
+  "Pages": {
+    "9anime": {
+      "jv58": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5032,
+        "identifier": "jv58",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GUGURE! KOKKURI-SAN",
+        "url": "https://9anime.to/watch/gugure-kokkuri-san.jv58",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BTtJ_yTPzn8/V5OxsJpkPcI/AAAAAAAAxhY/q_jzkEzP7H4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23251,
+        "aniId": 20656,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gugure-kokkuri-san": {
+        "createdAt": "2020-10-12T16:00:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18011,
+        "identifier": "gugure-kokkuri-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gugure! Kokkuri-san",
+        "url": "https://gogoanime.vc/category/gugure-kokkuri-san",
+        "image": "https://gogocdn.net/images/fall/Gugure Kokkuri-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23251,
+        "aniId": 20656,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "23251": {
+        "identifier": "23251",
+        "malId": 23251,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gugure! Kokkuri-san",
+        "url": "https://animixplay.to/anime/23251"
+      }
+    },
+    "YugenAnime": {
+      "7067": {
+        "identifier": "7067",
+        "malId": 23251,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gugure! Kokkuri-san",
+        "url": "https://yugen.to/anime/7067/gugure-kokkuri-san/"
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:38:15.000Z",
+  "updatedAt": "2022-05-14T19:00:59.000Z",
+  "checkedAt": "2022-05-14T19:00:59.000Z",
+  "id": 1299,
+  "type": "anime",
+  "title": "Flag",
+  "altTitle": [
+    "FLAG（フラッグ）"
+  ],
+  "url": "https://myanimelist.net/anime/1299/Flag",
+  "image": "https://cdn.myanimelist.net/images/anime/1274/90483.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.flag20xx.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4476"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6617"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Flag_(anime)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4476,
+  "Pages": {
+    "9anime": {
+      "8lmn": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3895,
+        "identifier": "8lmn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Flag (Dub)",
+        "url": "https://9anime.to/watch/flag-dub.8lmn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dEPVxUCbdrc/V_kkRtaYZEI/AAAAAAABFW8/YctXWaU39NI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1299,
+        "aniId": 1299,
+        "deletedAt": null
+      },
+      "zxow": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11340,
+        "identifier": "zxow",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Flag",
+        "url": "https://9anime.to/watch/flag.zxow",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Wvfnj5hVE2A/V7NY4sEe20I/AAAAAAAA3nY/akO0wyUuf9E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1299,
+        "aniId": 1299,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "flag": {
+        "createdAt": "2020-10-12T16:00:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17673,
+        "identifier": "flag",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "FLAG",
+        "url": "https://gogoanime.vc/category/flag",
+        "image": "https://cdnimg.xyz/images/anime/F/flag.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1299,
+        "aniId": 1299,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1299": {
+        "identifier": "1299",
+        "malId": 1299,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Flag",
+        "url": "https://animixplay.to/anime/1299"
+      }
+    },
+    "YugenAnime": {
+      "158": {
+        "identifier": "158",
+        "malId": 1299,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Flag",
+        "url": "https://yugen.to/anime/158/flag/"
+      }
+    }
+  }
+}

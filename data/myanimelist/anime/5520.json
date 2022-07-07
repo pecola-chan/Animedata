@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T16:32:46.000Z",
+  "checkedAt": "2022-05-14T16:32:46.000Z",
+  "id": 5520,
+  "type": "anime",
+  "title": "Onegai My Melody Sukkiri♪",
+  "altTitle": [
+    "おねがい マイメロディ すっきり♪"
+  ],
+  "url": "https://myanimelist.net/anime/5520/Onegai_My_Melody_Sukkiri♪",
+  "image": "https://cdn.myanimelist.net/images/anime/10/23593.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-osaka.co.jp/ip4/animelobby/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5158"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7866"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Onegai_My_Melody"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5158,
+  "Pages": {
+    "9anime": {
+      "on0j": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7553,
+        "identifier": "on0j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onegai My Melody Sukkiri♪",
+        "url": "https://9anime.to/watch/onegai-my-melody-sukkiri.on0j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eQ6caNBMYFM/WLLo_dmkR3I/AAAAAAABeIg/DaQZOX3gShs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5520,
+        "aniId": 5520,
+        "deletedAt": null
+      }
+    }
+  }
+}

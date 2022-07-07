@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-15T22:34:45.000Z",
+  "checkedAt": "2022-05-15T22:34:45.000Z",
+  "id": 24877,
+  "type": "anime",
+  "title": "Hare Tokidoki Buta",
+  "altTitle": [
+    "Fair, then Partly Piggy",
+    "はれときどきぶた (1988)"
+  ],
+  "url": "https://myanimelist.net/anime/24877/Hare_Tokidoki_Buta",
+  "image": "https://cdn.myanimelist.net/images/anime/13/63889.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8670"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20712"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%8C%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%8D%E3%81%B6%E3%81%9F#.E3.82.A2.E3.83.8B.E3.83.A1.E6.98.A0.E7.94.BB"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280921"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8670,
+  "Pages": {
+    "9anime": {
+      "9xx8": {
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4503,
+        "identifier": "9xx8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fair, then Partly Piggy",
+        "url": "https://9anime.to/watch/fair-then-partly-piggy.9xx8",
+        "image": "https://static.akacdn.ru/files/images/2019/02/86941f9b15f72c7fd8ab3cd863bbf5db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24877,
+        "aniId": 107618,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T22:54:05.000Z",
+  "checkedAt": "2022-05-14T22:54:05.000Z",
+  "id": 9353,
+  "type": "anime",
+  "title": "D.C. I&II P.S.P. Re-Animated",
+  "altTitle": [
+    "Da Capo: D.C. I & II P.S.P. OVA",
+    "D.C.I&II P.S.P. RE-ANIMATED"
+  ],
+  "url": "https://myanimelist.net/anime/9353/DC_I_II_PSP_Re-Animated",
+  "image": "https://cdn.myanimelist.net/images/anime/12/26017.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://circus.nandemo.gr.jp/common/dc12-p/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7986"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7986,
+  "Pages": {
+    "9anime": {
+      "m1yp": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6323,
+        "identifier": "m1yp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D.C. I&II P.S.P. Re-Animated",
+        "url": "https://9anime.to/watch/dc-iii-psp-re-animated.m1yp",
+        "image": "https://static.akacdn.ru/files/images/2018/01/b2bbe8d220a9c06778a70e8a4e79d744.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9353,
+        "aniId": 9353,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3380": {
+        "identifier": "3380",
+        "malId": 9353,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "D.C. I&II P.S.P. Re-Animated",
+        "url": "https://animepahe.com/a/3380"
+      }
+    },
+    "AniMixPlay": {
+      "9353": {
+        "identifier": "9353",
+        "malId": 9353,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "D.C. I&amp;II P.S.P. Re-Animated",
+        "url": "https://animixplay.to/anime/9353"
+      }
+    },
+    "YugenAnime": {
+      "14962": {
+        "identifier": "14962",
+        "malId": 9353,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "D.C. I&II P.S.P. Re-Animated",
+        "url": "https://yugen.to/anime/14962/dc-iii-psp-re-animated/"
+      }
+    }
+  }
+}

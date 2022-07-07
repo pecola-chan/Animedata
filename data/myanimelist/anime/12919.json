@@ -1,0 +1,44 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-15T16:11:40.000Z",
+  "checkedAt": "2022-05-15T16:11:40.000Z",
+  "id": 12919,
+  "type": "anime",
+  "title": "Yoru no Hi",
+  "altTitle": [
+    "Night Lamp",
+    "Night Lights",
+    "夜の灯"
+  ],
+  "url": "https://myanimelist.net/anime/12919/Yoru_no_Hi",
+  "image": "https://cdn.myanimelist.net/images/anime/11/36271.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "v427": {
+        "createdAt": "2020-10-12T15:55:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9208,
+        "identifier": "v427",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yoru no Hi",
+        "url": "https://9anime.to/watch/yoru-no-hi.v427",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-G7LcAOk-gBE/WOkiyRa0SXI/AAAAAAAAgZM/8Bv-TyGOftw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12919,
+        "aniId": 12919,
+        "deletedAt": null
+      }
+    }
+  }
+}

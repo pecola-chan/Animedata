@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T15:53:46.000Z",
+  "checkedAt": "2022-05-14T15:53:46.000Z",
+  "id": 32212,
+  "type": "anime",
+  "title": "Ensemble Stars!",
+  "altTitle": [
+    "Enstars",
+    "あんさんぶるスターズ！"
+  ],
+  "url": "https://myanimelist.net/anime/32212/Ensemble_Stars",
+  "image": "https://cdn.myanimelist.net/images/anime/1804/107203.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ensemblestars-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11810"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22259"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ensemble_Stars!#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/ensemble-stars"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11810,
+  "Pages": {
+    "9anime": {
+      "1y6q": {
+        "createdAt": "2020-10-12T15:49:21.000Z",
+        "updatedAt": "2021-12-15T18:48:24.000Z",
+        "checkedAt": null,
+        "id": 1179,
+        "identifier": "1y6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ensemble Stars!",
+        "url": "https://9anime.to/watch/ensemble-stars.1y6q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/07/90813dc027541ad9c021c57f12ae0616.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 32212,
+        "aniId": 21512,
+        "deletedAt": null
+      },
+      "xy6w": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10437,
+        "identifier": "xy6w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ensemble Stars! (Dub)",
+        "url": "https://9anime.to/watch/ensemble-stars-dub.xy6w",
+        "image": "https://static.akacdn.ru/files/images/2019/08/0d26a83ef55353f3b7e40de861a5bfca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32212,
+        "aniId": 21512,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ensemble-stars": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17566,
+        "identifier": "ensemble-stars",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ensemble Stars!",
+        "url": "https://gogoanime.vc/category/ensemble-stars",
+        "image": "https://cdnimg.xyz/cover/ensemble-stars.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32212,
+        "aniId": 21512,
+        "deletedAt": null
+      },
+      "ensemble-stars-dub": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17567,
+        "identifier": "ensemble-stars-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ensemble Stars (Dub)",
+        "url": "https://gogoanime.vc/category/ensemble-stars-dub",
+        "image": "https://cdnimg.xyz/cover/ensemble-stars-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32212,
+        "aniId": 21512,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3354": {
+        "identifier": "3354",
+        "malId": 32212,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ensemble Stars!",
+        "url": "https://animepahe.com/a/3354"
+      }
+    },
+    "AniMixPlay": {
+      "32212": {
+        "identifier": "32212",
+        "malId": 32212,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ensemble Stars!",
+        "url": "https://animixplay.to/anime/32212"
+      }
+    },
+    "YugenAnime": {
+      "1385": {
+        "identifier": "1385",
+        "malId": 32212,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ensemble Stars!",
+        "url": "https://yugen.to/anime/1385/ensemble-stars/"
+      }
+    }
+  }
+}

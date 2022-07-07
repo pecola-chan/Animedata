@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-15T07:15:40.000Z",
+  "checkedAt": "2022-05-15T07:15:40.000Z",
+  "id": 8248,
+  "type": "anime",
+  "title": "Soukou Kihei Votoms: Case;Irvine",
+  "altTitle": [
+    "Armored Trooper Votoms: Case; Irvine",
+    "装甲騎兵ボトムズ Case;IRVINE"
+  ],
+  "url": "https://myanimelist.net/anime/8248/Soukou_Kihei_Votoms__Case_Irvine",
+  "image": "https://cdn.myanimelist.net/images/anime/7/23338.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7918"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11845"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Armored_Trooper_Votoms"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/armored-trooper-votoms-case-irvine"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7918,
+  "Pages": {
+    "9anime": {
+      "onk8": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7564,
+        "identifier": "onk8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soukou Kihei Votoms: Case; Irvine",
+        "url": "https://9anime.to/watch/soukou-kihei-votoms-case-irvine.onk8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xhafc-WaVHw/WMDGk-K3h6I/AAAAAAABe_8/9XOg0VZQHpU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8248,
+        "aniId": 8248,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8248": {
+        "identifier": "8248",
+        "malId": 8248,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Soukou Kihei Votoms: Case;Irvine",
+        "url": "https://animixplay.to/anime/8248"
+      }
+    },
+    "YugenAnime": {
+      "2648": {
+        "identifier": "2648",
+        "malId": 8248,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Soukou Kihei Votoms: Case;Irvine",
+        "url": "https://yugen.to/anime/2648/armored-trooper-votoms-case-irvine/"
+      }
+    }
+  }
+}

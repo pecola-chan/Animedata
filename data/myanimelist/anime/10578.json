@@ -1,0 +1,142 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-14T16:40:49.000Z",
+  "checkedAt": "2022-05-14T16:40:49.000Z",
+  "id": 10578,
+  "type": "anime",
+  "title": "C³",
+  "altTitle": [
+    "C3",
+    "C Cube",
+    "C^3",
+    "C³ - CubexCursedxCurious",
+    "シーキューブ"
+  ],
+  "url": "https://myanimelist.net/anime/10578/C³",
+  "image": "https://cdn.myanimelist.net/images/anime/13/32285.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/c3/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8376"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12992"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/C%C2%B3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276820"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/c3-anime"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8376,
+  "Pages": {
+    "9anime": {
+      "3p96": {
+        "createdAt": "2020-10-12T15:49:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1900,
+        "identifier": "3p96",
+        "type": "anime",
+        "page": "9anime",
+        "title": "C³",
+        "url": "https://9anime.to/watch/c3.3p96",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bgxusI_JEDY/V6wKksrcwFI/AAAAAAAA2Oo/V9R5rzYfWY4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10578,
+        "aniId": 10578,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "c3-cube-x-cursed-x-curious": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16991,
+        "identifier": "c3-cube-x-cursed-x-curious",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "C3 Cube x Cursed x Curious",
+        "url": "https://gogoanime.vc/category/c3-cube-x-cursed-x-curious",
+        "image": "https://cdnimg.xyz/images/anime/C/C3-Cube-x-Cursed-x-Curious.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10578,
+        "aniId": 10578,
+        "deletedAt": null
+      },
+      "c3-cube-x-cursed-x-curious-ova": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16992,
+        "identifier": "c3-cube-x-cursed-x-curious-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "C3 Cube x Cursed x Curious OVA",
+        "url": "https://gogoanime.vc/category/c3-cube-x-cursed-x-curious-ova",
+        "image": "https://gogocdn.net/images/anime/C/C3-Cube-x-Cursed-x-Curious.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10578,
+        "aniId": 10578,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "369": {
+        "identifier": "369",
+        "malId": 10578,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "C³",
+        "url": "https://animepahe.com/a/369"
+      }
+    },
+    "AniMixPlay": {
+      "10578": {
+        "identifier": "10578",
+        "malId": 10578,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "C³",
+        "url": "https://animixplay.to/anime/10578"
+      }
+    },
+    "YugenAnime": {
+      "9571": {
+        "identifier": "9571",
+        "malId": 10578,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "C³",
+        "url": "https://yugen.to/anime/9571/c3/"
+      }
+    }
+  }
+}

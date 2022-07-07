@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T16:55:47.000Z",
+  "checkedAt": "2022-05-14T16:55:47.000Z",
+  "id": 121,
+  "type": "anime",
+  "title": "Fullmetal Alchemist",
+  "altTitle": [
+    "Hagane no Renkinjutsushi",
+    "FMA",
+    "Full Metal Alchemist",
+    "Fullmetal Alchemist",
+    "鋼の錬金術師"
+  ],
+  "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hagaren.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=979"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fullmetal_Alchemist"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 979,
+  "Pages": {
+    "9anime": {
+      "2wn0": {
+        "createdAt": "2020-10-12T15:49:37.000Z",
+        "updatedAt": "2022-06-14T01:31:42.000Z",
+        "checkedAt": "2022-06-14T01:31:42.000Z",
+        "id": 1548,
+        "identifier": "2wn0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hagane no Renkinjutsushi (Dub)",
+        "url": "https://9anime.to/watch/fullmetal-alchemist-dub.2wn0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/5b6d88e426cd8275948ee71f922a2116.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 121,
+        "aniId": 121,
+        "deletedAt": null
+      },
+      "37v2": {
+        "createdAt": "2020-10-12T15:49:44.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1747,
+        "identifier": "37v2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fullmetal Alchemist",
+        "url": "https://9anime.to/watch/fullmetal-alchemist.37v2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wkAxzW8rcPA/V6EJMOlMAPI/AAAAAAAAz88/Gih1fL38Xbc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 121,
+        "aniId": 121,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fullmetal-alchemist": {
+        "createdAt": "2020-10-12T16:00:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17733,
+        "identifier": "fullmetal-alchemist",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fullmetal Alchemist",
+        "url": "https://gogoanime.vc/category/fullmetal-alchemist",
+        "image": "https://cdnimg.xyz/images/anime/F/fullmetal_alchemist.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 121,
+        "aniId": 121,
+        "deletedAt": null
+      },
+      "fullmetal-alchemist-dub": {
+        "createdAt": "2020-10-12T16:00:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17739,
+        "identifier": "fullmetal-alchemist-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fullmetal Alchemist (Dub)",
+        "url": "https://gogoanime.vc/category/fullmetal-alchemist-dub",
+        "image": "https://gogocdn.net/cover/fullmetal-alchemist-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 121,
+        "aniId": 121,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1547": {
+        "identifier": "1547",
+        "malId": 121,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fullmetal Alchemist",
+        "url": "https://animepahe.com/a/1547"
+      }
+    },
+    "AniMixPlay": {
+      "121": {
+        "identifier": "121",
+        "malId": 121,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fullmetal Alchemist",
+        "url": "https://animixplay.to/anime/121"
+      }
+    },
+    "YugenAnime": {
+      "2418": {
+        "identifier": "2418",
+        "malId": 121,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fullmetal Alchemist",
+        "url": "https://yugen.to/anime/2418/fullmetal-alchemist/"
+      }
+    }
+  }
+}

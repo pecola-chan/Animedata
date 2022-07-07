@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:37:14.000Z",
+  "checkedAt": "2022-05-14T16:37:14.000Z",
+  "id": 37447,
+  "type": "anime",
+  "title": "Karakuri Circus (TV)",
+  "altTitle": [
+    "Le Cirque de Karakuri",
+    "からくりサーカス"
+  ],
+  "url": "https://myanimelist.net/anime/37447/Karakuri_Circus_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1518/110450.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://karakuri-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13898"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20774"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karakuri_Circus"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13898,
+  "Pages": {
+    "9anime": {
+      "46xx": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2154,
+        "identifier": "46xx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Le Cirque de Karakuri",
+        "url": "https://9anime.to/watch/le-cirque-de-karakuri.46xx",
+        "image": "http://static.akacdn.ru/static/images/2018/10/1204a705894456f2f8eafc4832005f19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37447,
+        "aniId": 101336,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "karakuri-circus": {
+        "createdAt": "2020-10-12T16:00:56.000Z",
+        "updatedAt": "2022-02-03T14:48:57.000Z",
+        "checkedAt": null,
+        "id": 18729,
+        "identifier": "karakuri-circus",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Karakuri Circus",
+        "url": "https://gogoanime.pe/category/karakuri-circus",
+        "image": "https://gogocdn.net/cover/karakuri-circus.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37447,
+        "aniId": 101336,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2848": {
+        "identifier": "2848",
+        "malId": 37447,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Karakuri Circus (TV)",
+        "url": "https://animepahe.com/a/2848"
+      }
+    },
+    "AniMixPlay": {
+      "37447": {
+        "identifier": "37447",
+        "malId": 37447,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Karakuri Circus (TV)",
+        "url": "https://animixplay.to/anime/37447"
+      }
+    },
+    "YugenAnime": {
+      "842": {
+        "identifier": "842",
+        "malId": 37447,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Karakuri Circus (TV)",
+        "url": "https://yugen.to/anime/842/karakuri-circus-tv/"
+      }
+    }
+  }
+}

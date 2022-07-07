@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T17:05:35.000Z",
+  "checkedAt": "2022-05-14T17:05:35.000Z",
+  "id": 9014,
+  "type": "anime",
+  "title": "Kuttsukiboshi",
+  "altTitle": [
+    "くっつきぼし"
+  ],
+  "url": "https://myanimelist.net/anime/9014/Kuttsukiboshi",
+  "image": "https://cdn.myanimelist.net/images/anime/7/25761.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kuttsukiboshi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7602"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11634"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7602,
+  "Pages": {
+    "9anime": {
+      "533q": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2499,
+        "identifier": "533q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuttsukiboshi",
+        "url": "https://9anime.to/watch/kuttsukiboshi.533q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FCE1YThW1Gw/WGOfmpl31tI/AAAAAAABVSI/2GH9YMVgRlI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9014,
+        "aniId": 9014,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kuttsukiboshi-ova": {
+        "createdAt": "2020-10-12T16:01:05.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19022,
+        "identifier": "kuttsukiboshi-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kuttsukiboshi OVA",
+        "url": "https://gogoanime.vc/category/kuttsukiboshi-ova",
+        "image": "https://cdnimg.xyz/images/anime/K/Kuttsukiboshi OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9014,
+        "aniId": 9014,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2186": {
+        "identifier": "2186",
+        "malId": 9014,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kuttsukiboshi",
+        "url": "https://animepahe.com/a/2186"
+      }
+    },
+    "AniMixPlay": {
+      "9014": {
+        "identifier": "9014",
+        "malId": 9014,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kuttsukiboshi",
+        "url": "https://animixplay.to/anime/9014"
+      }
+    },
+    "YugenAnime": {
+      "6737": {
+        "identifier": "6737",
+        "malId": 9014,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kuttsukiboshi",
+        "url": "https://yugen.to/anime/6737/kuttsukiboshi-ova/"
+      }
+    }
+  }
+}

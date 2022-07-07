@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-08-04T20:50:25.000Z",
+  "updatedAt": "2021-08-04T21:17:29.000Z",
+  "checkedAt": null,
+  "id": 38130,
+  "identifier": "mini-van-large",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mini Van Large",
+  "url": "https://gogoanime.pe/category/mini-van-large",
+  "image": "https://gogocdn.net/cover/mini-van-large.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 49370,
+  "aniId": 136517,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-08-04T20:50:33.000Z",
+    "updatedAt": "2022-05-15T01:53:24.000Z",
+    "checkedAt": "2022-05-15T01:53:24.000Z",
+    "id": 49370,
+    "type": "anime",
+    "title": "Mini Van Large",
+    "altTitle": [
+      "mini vanguard Large",
+      "みにヴぁん ら～じ"
+    ],
+    "url": "https://myanimelist.net/anime/49370/Mini_Van_Large",
+    "image": "https://cdn.myanimelist.net/images/anime/1758/116411.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://cf-vanguard.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16423"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24500"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89TV#%E3%81%BF%E3%81%AB%E3%83%B4%E3%81%81%E3%82%93"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16423
+  },
+  "Ani": {
+    "createdAt": "2021-07-10T03:13:17.000Z",
+    "updatedAt": "2022-05-15T12:38:47.000Z",
+    "checkedAt": "2022-05-15T12:38:47.000Z",
+    "id": 136517,
+    "type": "anime",
+    "title": "Mini Van Large",
+    "altTitle": [
+      "mini vanguard Large",
+      "みにヴぁん ら～じ"
+    ],
+    "url": "https://anilist.co/anime/136517",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136517-BQqc2RAI5U0A.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49370,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-06-02T23:32:14.000Z",
+  "checkedAt": "2022-06-02T23:32:14.000Z",
+  "id": 20955,
+  "type": "anime",
+  "title": "Peeping Life: YouTuber-kun",
+  "altTitle": [
+    "Peeping Life ユーチューバ―くん"
+  ],
+  "url": "https://myanimelist.net/anime/20955/Peeping_Life__YouTuber-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/2/55315.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10074"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10074,
+  "Pages": {
+    "9anime": {
+      "krnw": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5600,
+        "identifier": "krnw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Peeping Life: YouTuber-kun",
+        "url": "https://9anime.to/watch/peeping-life-youtuber-kun.krnw",
+        "image": "http://static.akacdn.ru/static/images/2018/04/477a00916feb33470767db92c22566a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20955,
+        "aniId": 117409,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "peeping-life-youtuber-kun": {
+        "createdAt": "2021-06-23T22:44:53.000Z",
+        "updatedAt": "2021-06-23T23:14:51.000Z",
+        "checkedAt": null,
+        "id": 37535,
+        "identifier": "peeping-life-youtuber-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Peeping Life: YouTuber-kun",
+        "url": "https://gogoanime.vc/category/peeping-life-youtuber-kun",
+        "image": "https://gogocdn.net/cover/peeping-life-youtuber-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20955,
+        "aniId": 117409,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "20955": {
+        "identifier": "20955",
+        "malId": 20955,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Peeping Life: YouTuber-kun",
+        "url": "https://animixplay.to/anime/20955"
+      }
+    },
+    "YugenAnime": {
+      "7816": {
+        "identifier": "7816",
+        "malId": 20955,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Peeping Life: YouTuber-kun",
+        "url": "https://yugen.to/anime/7816/peeping-life-youtuber-kun/"
+      }
+    }
+  }
+}

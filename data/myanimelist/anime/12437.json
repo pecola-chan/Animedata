@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-15T01:16:19.000Z",
+  "checkedAt": "2022-05-15T01:16:19.000Z",
+  "id": 12437,
+  "type": "anime",
+  "title": "Yuri Seijin Naoko-san (2012)",
+  "altTitle": [
+    "Lesbian Citizen Naoko-san",
+    "Yurian Naoko-san",
+    "百合星人ナオコサン"
+  ],
+  "url": "https://myanimelist.net/anime/12437/Yuri_Seijin_Naoko-san_2012",
+  "image": "https://cdn.myanimelist.net/images/anime/12/75497.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.animebunko.com/naokosan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8602"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/百合星人ナオコサン"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8602,
+  "Pages": {
+    "9anime": {
+      "468m": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2147,
+        "identifier": "468m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuri Seijin Naoko-san (2012)",
+        "url": "https://9anime.to/watch/yuri-seijin-naoko-san-2012.468m",
+        "image": "https://static.akacdn.ru/static/images/2018/03/fe66bbddcfe3733edccd3aae51045977.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12437,
+        "aniId": 12437,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1028": {
+        "identifier": "1028",
+        "malId": 12437,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yuri Seijin Naoko-san (2012)",
+        "url": "https://animepahe.com/a/1028"
+      }
+    },
+    "AniMixPlay": {
+      "12437": {
+        "identifier": "12437",
+        "malId": 12437,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuri Seijin Naoko-san (2012)",
+        "url": "https://animixplay.to/anime/12437"
+      }
+    }
+  }
+}

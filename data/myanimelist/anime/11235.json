@@ -1,0 +1,138 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T17:08:59.000Z",
+  "checkedAt": "2022-05-14T17:08:59.000Z",
+  "id": 11235,
+  "type": "anime",
+  "title": "Amagami SS+ Plus",
+  "altTitle": [
+    "Amagami SS Dai Ni Ki",
+    "Amagami SS Second Season",
+    "Amagami SS 2nd Season",
+    "Amagami SS+ plus",
+    "アマガミSS+ plus"
+  ],
+  "url": "https://myanimelist.net/anime/11235/Amagami_SS__Plus",
+  "image": "https://cdn.myanimelist.net/images/anime/1951/114976.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/amagami/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8573"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13328"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amagami"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/amagami-ss-plus"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8573,
+  "Pages": {
+    "9anime": {
+      "75y": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3364,
+        "identifier": "75y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amagami SS+ Plus",
+        "url": "https://9anime.to/watch/amagami-ss-plus.75y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Nrv3S2hhQaM/V4Iah0WP5eI/AAAAAAAAuXo/Uzi_oT044F8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11235,
+        "aniId": 11235,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amagami-ss-plus": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16501,
+        "identifier": "amagami-ss-plus",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amagami SS plus",
+        "url": "https://gogoanime.vc/category/amagami-ss-plus",
+        "image": "https://gogocdn.net/images/anime/Amagami SS plus.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11235,
+        "aniId": 11235,
+        "deletedAt": null
+      },
+      "amagami-ss-plus-ova": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16502,
+        "identifier": "amagami-ss-plus-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amagami SS plus OVA",
+        "url": "https://gogoanime.vc/category/amagami-ss-plus-ova",
+        "image": "https://cdnimg.xyz/images/anime/Amagami SS plus.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11235,
+        "aniId": 11235,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "230": {
+        "identifier": "230",
+        "malId": 11235,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amagami SS+ Plus",
+        "url": "https://animepahe.com/a/230"
+      }
+    },
+    "AniMixPlay": {
+      "11235": {
+        "identifier": "11235",
+        "malId": 11235,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amagami SS+ Plus",
+        "url": "https://animixplay.to/anime/11235"
+      }
+    },
+    "YugenAnime": {
+      "3068": {
+        "identifier": "3068",
+        "malId": 11235,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amagami SS+ Plus",
+        "url": "https://yugen.to/anime/3068/amagami-ss-plus/"
+      }
+    }
+  }
+}

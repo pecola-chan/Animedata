@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T21:42:53.000Z",
+  "checkedAt": "2022-05-14T21:42:53.000Z",
+  "id": 9396,
+  "type": "anime",
+  "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+  "altTitle": [
+    "Mitsudomoe Special",
+    "みつどもえ OPPAI IPPAI ママ元気"
+  ],
+  "url": "https://myanimelist.net/anime/9396/Mitsudomoe__Oppai_Ippai_Mama_Genki",
+  "image": "https://cdn.myanimelist.net/images/anime/8/26045.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mitsudomoe-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7224"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11180"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mitsudomoe_(manga)#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7224,
+  "Pages": {
+    "9anime": {
+      "9q2q": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4402,
+        "identifier": "9q2q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mitsudomoe Special",
+        "url": "https://9anime.to/watch/mitsudomoe-special.9q2q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8565SnimomE/WHc50vV9drI/AAAAAAABY2k/lPKbzc7ulao/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9396,
+        "aniId": 9396,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mitsudomoe-oppai-ippai-mama-genki": {
+        "createdAt": "2021-04-14T16:45:51.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36445,
+        "identifier": "mitsudomoe-oppai-ippai-mama-genki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "url": "https://gogoanime.vc/category/mitsudomoe-oppai-ippai-mama-genki",
+        "image": "https://gogocdn.net/cover/mitsudomoe-oppai-ippai-mama-genki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9396,
+        "aniId": 9396,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2889": {
+        "identifier": "2889",
+        "malId": 9396,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "url": "https://animepahe.com/a/2889"
+      }
+    },
+    "AniMixPlay": {
+      "9396": {
+        "identifier": "9396",
+        "malId": 9396,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "url": "https://animixplay.to/anime/9396"
+      }
+    },
+    "YugenAnime": {
+      "7466": {
+        "identifier": "7466",
+        "malId": 9396,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "url": "https://yugen.to/anime/7466/mitsudomoe-oppai-ippai-mama-genki/"
+      }
+    }
+  }
+}

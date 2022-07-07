@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T15:39:13.000Z",
+  "updatedAt": "2022-05-15T00:24:41.000Z",
+  "checkedAt": "2022-05-15T00:24:41.000Z",
+  "id": 13679,
+  "type": "anime",
+  "title": "Tottoko Hamtarou Hai!",
+  "altTitle": [
+    "Tottoko Hamutarou Hai!",
+    "Tottoko Hamutarou: Norisuta Haai!",
+    "Hamtaro Hai!",
+    "とっとこハム太郎は〜い!"
+  ],
+  "url": "https://myanimelist.net/anime/13679/Tottoko_Hamtarou_Hai",
+  "image": "https://cdn.myanimelist.net/images/anime/1048/94783.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9462"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/とっとこハム太郎_(アニメ)#.E7.AC.AC3.E6.9C.9F.EF.BC.88.E3.81.AF.E3.80.9C.E3.81.84.21.EF.BC.89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9462,
+  "Pages": {
+    "9anime": {
+      "6rk7": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3170,
+        "identifier": "6rk7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hamtaro Hai!",
+        "url": "https://9anime.to/watch/hamtaro-hai.6rk7",
+        "image": "https://static.akacdn.ru/static/images/2019/01/b96ab560e9907920c09a4842168c1069.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13679,
+        "aniId": 13679,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "13679": {
+        "identifier": "13679",
+        "malId": 13679,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tottoko Hamtarou Hai!",
+        "url": "https://animixplay.to/anime/13679"
+      }
+    },
+    "YugenAnime": {
+      "11335": {
+        "identifier": "11335",
+        "malId": 13679,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tottoko Hamtarou Hai!",
+        "url": "https://yugen.to/anime/11335/tottoko-hamtarou-hai/"
+      }
+    }
+  }
+}

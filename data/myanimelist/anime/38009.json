@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T19:29:53.000Z",
+  "checkedAt": "2022-05-14T19:29:53.000Z",
+  "id": 38009,
+  "type": "anime",
+  "title": "Re:Stage! Dream Days♪",
+  "altTitle": [
+    "Re:ステージ! ドリームデイズ♪"
+  ],
+  "url": "https://myanimelist.net/anime/38009/Re_Stage_Dream_Days♪",
+  "image": "https://cdn.myanimelist.net/images/anime/1002/111617.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://rst-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14192"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21866"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Re:Stage!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/restage-dream-days"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14192,
+  "Pages": {
+    "9anime": {
+      "xyv3": {
+        "createdAt": "2020-10-12T15:56:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10451,
+        "identifier": "xyv3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Re:Stage! Dream Days♪",
+        "url": "https://9anime.to/watch/restage-dream-days.xyv3",
+        "image": "https://static.akacdn.ru/files/images/2019/05/2fd1ffb1db22d67c652c0158104807f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38009,
+        "aniId": 103048,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "restage-dream-days": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20275,
+        "identifier": "restage-dream-days",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Re:Stage! Dream Days♪",
+        "url": "https://gogoanime.vc/category/restage-dream-days",
+        "image": "https://cdnimg.xyz/cover/restage-dream-days.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38009,
+        "aniId": 103048,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3363": {
+        "identifier": "3363",
+        "malId": 38009,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Re:Stage! Dream Days♪",
+        "url": "https://animepahe.com/a/3363"
+      }
+    },
+    "AniMixPlay": {
+      "38009": {
+        "identifier": "38009",
+        "malId": 38009,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Re:Stage! Dream Days♪",
+        "url": "https://animixplay.to/anime/38009"
+      }
+    },
+    "YugenAnime": {
+      "6306": {
+        "identifier": "6306",
+        "malId": 38009,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Re:Stage! Dream Days♪",
+        "url": "https://yugen.to/anime/6306/restage-dream-days/"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-05-15T16:12:20.000Z",
+  "checkedAt": "2022-05-15T16:12:20.000Z",
+  "id": 4566,
+  "type": "anime",
+  "title": "Prism Ark Specials",
+  "altTitle": [
+    "Prism Ark: Pri Ark",
+    "プリズム・アーク ぷりあーく"
+  ],
+  "url": "https://myanimelist.net/anime/4566/Prism_Ark_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/13/8747.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.p-ark.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5068"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Prism_Ark"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5068,
+  "Pages": {
+    "9anime": {
+      "qmv5": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8447,
+        "identifier": "qmv5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Prism Ark Specials",
+        "url": "https://9anime.to/watch/prism-ark-specials.qmv5",
+        "image": "https://static.akacdn.ru/files/images/2018/04/3b7779c20fc6f287b46ff75702f4f166.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4566,
+        "aniId": 4566,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4566": {
+        "identifier": "4566",
+        "malId": 4566,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Prism Ark Specials",
+        "url": "https://animixplay.to/anime/4566"
+      }
+    },
+    "YugenAnime": {
+      "3219": {
+        "identifier": "3219",
+        "malId": 4566,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Prism Ark Specials",
+        "url": "https://yugen.to/anime/3219/prism-ark-specials/"
+      }
+    }
+  }
+}

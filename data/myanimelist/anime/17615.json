@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-05-05T07:03:43.000Z",
+  "updatedAt": "2022-05-15T16:08:13.000Z",
+  "checkedAt": "2022-05-15T16:08:13.000Z",
+  "id": 17615,
+  "type": "anime",
+  "title": "Kyoufu Shinbun",
+  "altTitle": [
+    "Kyofu Shinbun",
+    "恐怖新聞"
+  ],
+  "url": "https://myanimelist.net/anime/17615/Kyoufu_Shinbun",
+  "image": "https://cdn.myanimelist.net/images/anime/5/47041.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6806"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7307"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%81%90%E6%80%96%E6%96%B0%E8%81%9E"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6806,
+  "Pages": {
+    "Gogoanime": {
+      "kyoufu-shinbun": {
+        "createdAt": "2021-05-05T07:03:44.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36879,
+        "identifier": "kyoufu-shinbun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyoufu Shinbun",
+        "url": "https://gogoanime.vc/category/kyoufu-shinbun",
+        "image": "https://gogocdn.net/cover/kyoufu-shinbun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17615,
+        "aniId": 17615,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "17615": {
+        "identifier": "17615",
+        "malId": 17615,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyoufu Shinbun",
+        "url": "https://animixplay.to/anime/17615"
+      }
+    },
+    "YugenAnime": {
+      "7641": {
+        "identifier": "7641",
+        "malId": 17615,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyoufu Shinbun",
+        "url": "https://yugen.to/anime/7641/kyoufu-shinbun/"
+      }
+    }
+  }
+}

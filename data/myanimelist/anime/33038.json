@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T18:12:05.000Z",
+  "checkedAt": "2022-05-14T18:12:05.000Z",
+  "id": 33038,
+  "type": "anime",
+  "title": "Nuwa Chengzhang Riji",
+  "altTitle": [
+    "Nuwa Chengchang Riji",
+    "Nuwa's Diary",
+    "女娲成长日记"
+  ],
+  "url": "https://myanimelist.net/anime/33038/Nuwa_Chengzhang_Riji",
+  "image": "https://cdn.myanimelist.net/images/anime/7/79259.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11972"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11972,
+  "Pages": {
+    "9anime": {
+      "0wo9": {
+        "createdAt": "2020-10-12T15:48:54.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 693,
+        "identifier": "0wo9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nuwa Chengzhang Riji",
+        "url": "https://9anime.to/watch/nuwa-chengzhang-riji.0wo9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i1RK14szypQ/Wd5xJZPW6wI/AAAAAAAACcw/FviRMlgBdi0ovZTwbQL1aDt_DP-YE_YzwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33038,
+        "aniId": 99653,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nuwa-chengzhang-riji": {
+        "createdAt": "2021-04-14T16:47:40.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36491,
+        "identifier": "nuwa-chengzhang-riji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nuwa Chengzhang Riji",
+        "url": "https://gogoanime.vc/category/nuwa-chengzhang-riji",
+        "image": "https://gogocdn.net/cover/nuwa-chengzhang-riji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33038,
+        "aniId": 99653,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33038": {
+        "identifier": "33038",
+        "malId": 33038,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nuwa Chengzhang Riji",
+        "url": "https://animixplay.to/anime/33038"
+      }
+    },
+    "YugenAnime": {
+      "7473": {
+        "identifier": "7473",
+        "malId": 33038,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nuwa Chengzhang Riji",
+        "url": "https://yugen.to/anime/7473/nuwa-chengzhang-riji/"
+      }
+    }
+  }
+}

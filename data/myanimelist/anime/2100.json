@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-15T00:59:47.000Z",
+  "checkedAt": "2022-05-15T00:59:47.000Z",
+  "id": 2100,
+  "type": "anime",
+  "title": "Silent Möbius 2",
+  "altTitle": [
+    "Silent Mobius: The Motion Picture 2",
+    "サイレントメビウス2"
+  ],
+  "url": "https://myanimelist.net/anime/2100/Silent_Möbius_2",
+  "image": "https://cdn.myanimelist.net/images/anime/13/46951.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2638"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6074"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silent_M%C3%B6bius#Films"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2638,
+  "Pages": {
+    "9anime": {
+      "wmo7": {
+        "createdAt": "2020-10-12T15:56:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9817,
+        "identifier": "wmo7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Silent Möbius 2 (Dub)",
+        "url": "https://9anime.to/watch/silent-moebius-2-dub.wmo7",
+        "image": "https://static.akacdn.ru/files/images/2018/03/0e6b15a24991c244f7d83abafaec4416.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2100,
+        "aniId": 2100,
+        "deletedAt": null
+      },
+      "z462": {
+        "createdAt": "2020-10-12T15:57:05.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11007,
+        "identifier": "z462",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Silent Möbius 2",
+        "url": "https://9anime.to/watch/silent-moebius-2.z462",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cuduaIvo2z8/WX7TgH70izI/AAAAAAAAAf0/MHIY5OZySeYHZdyK5o0XUO5PuremkOA7wCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2100,
+        "aniId": 2100,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2694": {
+        "identifier": "2694",
+        "malId": 2100,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Silent Möbius 2",
+        "url": "https://animepahe.com/a/2694"
+      }
+    },
+    "AniMixPlay": {
+      "2100": {
+        "identifier": "2100",
+        "malId": 2100,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Silent Möbius 2",
+        "url": "https://animixplay.to/anime/2100"
+      }
+    }
+  }
+}

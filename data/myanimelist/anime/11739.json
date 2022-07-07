@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-14T18:11:23.000Z",
+  "checkedAt": "2022-05-14T18:11:23.000Z",
+  "id": 11739,
+  "type": "anime",
+  "title": "Kimi to Boku. 2",
+  "altTitle": [
+    "You and Me. Second Season",
+    "Kimi to Boku. 2nd Season",
+    "You and Me 2",
+    "君と僕。2"
+  ],
+  "url": "https://myanimelist.net/anime/11739/Kimi_to_Boku_2",
+  "image": "https://cdn.myanimelist.net/images/anime/10/42107.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kimiboku.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8875"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13943"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kimi_to_Boku_%28manga%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-243966"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8875,
+  "Pages": {
+    "9anime": {
+      "rpm": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8962,
+        "identifier": "rpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimi to Boku. 2",
+        "url": "https://9anime.to/watch/kimi-to-boku-2.rpm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mP54SeVTRKM/V4S3dGKnO0I/AAAAAAAAu-o/7m0YgiSlYjo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11739,
+        "aniId": 11739,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kimi-to-boku-2": {
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18839,
+        "identifier": "kimi-to-boku-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimi to Boku 2",
+        "url": "https://gogoanime.vc/category/kimi-to-boku-2",
+        "image": "https://cdnimg.xyz/images/anime/K/Kimi-to-Boku-2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11739,
+        "aniId": 11739,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "835": {
+        "identifier": "835",
+        "malId": 11739,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kimi to Boku. 2",
+        "url": "https://animepahe.com/a/835"
+      }
+    },
+    "AniMixPlay": {
+      "11739": {
+        "identifier": "11739",
+        "malId": 11739,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimi to Boku. 2",
+        "url": "https://animixplay.to/anime/11739"
+      }
+    },
+    "YugenAnime": {
+      "2148": {
+        "identifier": "2148",
+        "malId": 11739,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kimi to Boku. 2",
+        "url": "https://yugen.to/anime/2148/kimi-to-boku-2/"
+      }
+    }
+  }
+}

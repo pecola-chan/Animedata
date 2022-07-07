@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T16:57:58.000Z",
+  "updatedAt": "2022-05-14T15:49:45.000Z",
+  "checkedAt": "2022-05-14T15:49:45.000Z",
+  "id": 42963,
+  "type": "anime",
+  "title": "Kanojo, Okarishimasu 2nd Season",
+  "altTitle": [
+    "Kanokari",
+    "Rent-a-Girlfriend 2nd Season",
+    "彼女、お借りします"
+  ],
+  "url": "https://myanimelist.net/anime/42963/Kanojo_Okarishimasu_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1427/120522.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kanokari-official.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15743"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24095"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rent-A-Girlfriend#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15743,
+  "Pages": {
+    "9anime": {
+      "wl87": {
+        "createdAt": "2020-10-12T19:11:28.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23888,
+        "identifier": "wl87",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanojo, Okarishimasu 2",
+        "url": "https://9anime.to/watch/rent-a-girlfriend-2.wl87",
+        "image": "//static.9anime.to/i/cache/images/7/77/77fe77c195bec0bbfe1c04b14dd81ddf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42963,
+        "aniId": 124410,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kanojo-okarishimasu-2nd-season": {
+        "createdAt": "2022-07-01T18:00:23.134Z",
+        "updatedAt": "2022-07-01T18:20:00.000Z",
+        "checkedAt": "2022-07-01T18:00:23.000Z",
+        "id": 41290,
+        "identifier": "kanojo-okarishimasu-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanojo, Okarishimasu 2nd Season",
+        "url": "https://gogoanime.lu/category/kanojo-okarishimasu-2nd-season",
+        "image": "https://gogocdn.net/cover/kanojo-okarishimasu-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42963,
+        "aniId": 124410,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4806": {
+        "identifier": "4806",
+        "malId": 42963,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanojo, Okarishimasu 2nd Season",
+        "url": "https://animepahe.com/a/4806"
+      }
+    },
+    "AniMixPlay": {
+      "42963": {
+        "identifier": "42963",
+        "malId": 42963,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanojo, Okarishimasu 2nd Season",
+        "url": "https://animixplay.to/anime/42963"
+      }
+    },
+    "YugenAnime": {
+      "15497": {
+        "identifier": "15497",
+        "malId": 42963,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kanojo, Okarishimasu 2nd Season",
+        "url": "https://yugen.to/anime/15497/kanojo-okarishimasu-2nd-season/"
+      }
+    }
+  }
+}

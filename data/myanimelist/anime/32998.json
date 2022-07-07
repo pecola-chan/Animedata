@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T09:03:59.000Z",
+  "checkedAt": "2022-05-14T09:03:59.000Z",
+  "id": 32998,
+  "type": "anime",
+  "title": "91 Days",
+  "altTitle": [
+    "91 Days",
+    "91Days"
+  ],
+  "url": "https://myanimelist.net/anime/32998/91_Days",
+  "image": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.91days.family/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12014"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18169"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/91_Days"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270679"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12014,
+  "Pages": {
+    "9anime": {
+      "7j7y": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2022-06-13T21:03:15.000Z",
+        "checkedAt": "2022-06-13T21:03:15.000Z",
+        "id": 3428,
+        "identifier": "7j7y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "91Days",
+        "url": "https://9anime.to/watch/91-days.7j7y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/0e20695d94a3bf36745b388e93d43e65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32998,
+        "aniId": 21711,
+        "deletedAt": null
+      },
+      "xoyw": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10343,
+        "identifier": "xoyw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "91 Days (Dub)",
+        "url": "https://9anime.to/watch/91-days-dub.xoyw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0u2OnrmF2Ag/WA3fJLcsimI/AAAAAAABKwE/gPu47kL1gPM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32998,
+        "aniId": 21711,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "91-days": {
+        "createdAt": "2020-10-12T15:59:45.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16339,
+        "identifier": "91-days",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "91 Days",
+        "url": "https://gogoanime.vc/category/91-days",
+        "image": "https://cdnimg.xyz/cover/91-days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32998,
+        "aniId": 21711,
+        "deletedAt": null
+      },
+      "91-days-dub": {
+        "createdAt": "2020-10-12T15:59:45.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16340,
+        "identifier": "91-days-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "91 Days (Dub)",
+        "url": "https://gogoanime.vc/category/91-days-dub",
+        "image": "https://cdnimg.xyz/cover/91-days-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32998,
+        "aniId": 21711,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1100": {
+        "identifier": "1100",
+        "malId": 32998,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "91 Days",
+        "url": "https://animepahe.com/a/1100"
+      }
+    },
+    "AniMixPlay": {
+      "32998": {
+        "identifier": "32998",
+        "malId": 32998,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "91 Days",
+        "url": "https://animixplay.to/anime/32998"
+      }
+    },
+    "YugenAnime": {
+      "568": {
+        "identifier": "568",
+        "malId": 32998,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "91 Days",
+        "url": "https://yugen.to/anime/568/91-days/"
+      }
+    }
+  }
+}

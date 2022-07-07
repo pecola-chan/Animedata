@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-14T20:43:34.000Z",
+  "checkedAt": "2022-05-14T20:43:34.000Z",
+  "id": 21427,
+  "type": "anime",
+  "title": "Minna Atsumare! Falcom Gakuen",
+  "altTitle": [
+    "Everyone Assemble! Falcom Academy",
+    "みんな集まれ！ファルコム学園"
+  ],
+  "url": "https://myanimelist.net/anime/21427/Minna_Atsumare_Falcom_Gakuen",
+  "image": "https://cdn.myanimelist.net/images/anime/10/56549.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.fal-gaku.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10289"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15747"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Minna_Atsumare!_Falcom_Gakuen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10289,
+  "Pages": {
+    "9anime": {
+      "olyy": {
+        "createdAt": "2020-10-12T15:54:15.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7532,
+        "identifier": "olyy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minna Atsumare! Falcom Gakuen",
+        "url": "https://9anime.to/watch/minna-atsumare-falcom-gakuen.olyy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aANt64kNY_Y/V7_6ADuSGFI/AAAAAAAA5k0/2cUlPf8ZGJM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21427,
+        "aniId": 20538,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "minna-atsumare-falcom-gakuen": {
+        "createdAt": "2020-10-12T16:01:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19443,
+        "identifier": "minna-atsumare-falcom-gakuen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Minna Atsumare! Falcom Gakuen",
+        "url": "https://gogoanime.vc/category/minna-atsumare-falcom-gakuen",
+        "image": "https://cdnimg.xyz/images/Minna-Atsumare-Falcom-Gakuen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21427,
+        "aniId": 20538,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "21427": {
+        "identifier": "21427",
+        "malId": 21427,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Minna Atsumare! Falcom Gakuen",
+        "url": "https://animixplay.to/anime/21427"
+      }
+    },
+    "YugenAnime": {
+      "2420": {
+        "identifier": "2420",
+        "malId": 21427,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Minna Atsumare! Falcom Gakuen",
+        "url": "https://yugen.to/anime/2420/minna-atsumare-falcom-gakuen/"
+      }
+    }
+  }
+}

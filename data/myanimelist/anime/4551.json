@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-05-14T18:15:29.000Z",
+  "checkedAt": "2022-05-14T18:15:29.000Z",
+  "id": 4551,
+  "type": "anime",
+  "title": "Hakushaku to Yousei",
+  "altTitle": [
+    "Hakushaku to Yosei",
+    "Count and Fairy",
+    "Earl and Fairy",
+    "伯爵と妖精"
+  ],
+  "url": "https://myanimelist.net/anime/4551/Hakushaku_to_Yousei",
+  "image": "https://cdn.myanimelist.net/images/anime/13/21898.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.myfairy.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5954"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9420"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hakushaku_to_Yōsei"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275675"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5954,
+  "Pages": {
+    "9anime": {
+      "znq2": {
+        "createdAt": "2020-10-12T15:57:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11231,
+        "identifier": "znq2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hakushaku to Yousei",
+        "url": "https://9anime.to/watch/hakushaku-to-yousei.znq2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PeLv9OIhTBU/WGEtK_ID0DI/AAAAAAABU3U/gD3IZ7Q-BSU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4551,
+        "aniId": 4551,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "earl-and-fairy": {
+        "createdAt": "2020-10-12T16:00:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17530,
+        "identifier": "earl-and-fairy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Earl and Fairy",
+        "url": "https://gogoanime.vc/category/earl-and-fairy",
+        "image": "https://cdnimg.xyz/images/anime/E/earl-and-fairy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4551,
+        "aniId": 4551,
+        "deletedAt": null
+      },
+      "hakushaku-to-yousei": {
+        "createdAt": "2021-01-14T06:39:59.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33637,
+        "identifier": "hakushaku-to-yousei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hakushaku to Yousei",
+        "url": "https://gogoanime.vc/category/hakushaku-to-yousei",
+        "image": "https://gogocdn.net/images/anime/H/hakushaku-to-yousei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4551,
+        "aniId": 4551,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4551": {
+        "identifier": "4551",
+        "malId": 4551,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hakushaku to Yousei",
+        "url": "https://animixplay.to/anime/4551"
+      }
+    },
+    "YugenAnime": {
+      "6767": {
+        "identifier": "6767",
+        "malId": 4551,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hakushaku to Yousei",
+        "url": "https://yugen.to/anime/6767/hakushaku-to-yousei/"
+      }
+    }
+  }
+}

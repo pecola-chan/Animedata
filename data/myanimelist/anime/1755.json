@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-15T08:57:50.000Z",
+  "checkedAt": "2022-05-15T08:57:50.000Z",
+  "id": 1755,
+  "type": "anime",
+  "title": "Di Gi Charat Ohanami Special",
+  "altTitle": [
+    "DiGi Charat Ohanami Special",
+    "Di Gi Charat お花見すぺしゃる"
+  ],
+  "url": "https://myanimelist.net/anime/1755/Di_Gi_Charat_Ohanami_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/1234/95891.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.broccoli.co.jp/dejiko/anime.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=553"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3299"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Specials"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 553,
+  "Pages": {
+    "9anime": {
+      "p13x": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7784,
+        "identifier": "p13x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Di Gi Charat Ohanami Special",
+        "url": "https://9anime.to/watch/di-gi-charat-ohanami-special.p13x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YlsJMPJAH6I/WJ8GQfC6oDI/AAAAAAABcng/S6Kf0nIIqBo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1755,
+        "aniId": 1755,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1755": {
+        "identifier": "1755",
+        "malId": 1755,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Di Gi Charat Ohanami Special",
+        "url": "https://animixplay.to/anime/1755"
+      }
+    },
+    "YugenAnime": {
+      "5607": {
+        "identifier": "5607",
+        "malId": 1755,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Di Gi Charat Ohanami Special",
+        "url": "https://yugen.to/anime/5607/di-gi-charat-ohanami-special/"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T20:38:05.000Z",
+  "checkedAt": "2022-05-14T20:38:05.000Z",
+  "id": 6129,
+  "type": "anime",
+  "title": "Umi Monogatari: Anata ga Ite Kureta Koto",
+  "altTitle": [
+    "Umimonogatari Anata ga Itekuretakoto",
+    "Sea Story",
+    "Umi Monogatari",
+    "うみものがたり　～あなたがいてくれたコト～"
+  ],
+  "url": "https://myanimelist.net/anime/6129/Umi_Monogatari__Anata_ga_Ite_Kureta_Koto",
+  "image": "https://cdn.myanimelist.net/images/anime/7/15586.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sea-story.tv"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6402"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10658"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Umi_Monogatari_~Anata_ga_Ite_Kureta_Koto~"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272597"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/umi-monogatari"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6402,
+  "Pages": {
+    "9anime": {
+      "vv46": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9459,
+        "identifier": "vv46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Umi Monogatari: Anata ga Ite Kureta Koto",
+        "url": "https://9anime.to/watch/umi-monogatari-anata-ga-ite-kureta-koto.vv46",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qKzhstURstU/V5Q8smg9NjI/AAAAAAAAxpE/GcNdNspdt2s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6129,
+        "aniId": 6129,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6129": {
+        "identifier": "6129",
+        "malId": 6129,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Umi Monogatari: Anata ga Ite Kureta Koto",
+        "url": "https://animixplay.to/anime/6129"
+      }
+    },
+    "YugenAnime": {
+      "2949": {
+        "identifier": "2949",
+        "malId": 6129,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Umi Monogatari: Anata ga Ite Kureta Koto",
+        "url": "https://yugen.to/anime/2949/umi-monogatari-anata-ga-ite-kureta-koto/"
+      }
+    }
+  }
+}

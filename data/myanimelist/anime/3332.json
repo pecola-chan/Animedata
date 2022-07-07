@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T19:30:05.000Z",
+  "checkedAt": "2022-05-14T19:30:05.000Z",
+  "id": 3332,
+  "type": "anime",
+  "title": "Stop!! Hibari-kun!",
+  "altTitle": [
+    "ストップ！！ひばりくん！"
+  ],
+  "url": "https://myanimelist.net/anime/3332/Stop_Hibari-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/5/72083.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/hibarikun/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1931"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1524"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1931,
+  "Pages": {
+    "9anime": {
+      "884v": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3827,
+        "identifier": "884v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Stop!! Hibari-kun!",
+        "url": "https://9anime.to/watch/stop-hibari-kun.884v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ihOY44QDHh4/WPX_nx0gT1I/AAAAAAAAicI/2KGqSw3Zmas/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3332,
+        "aniId": 3332,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "stop-hibari-kun": {
+        "createdAt": "2021-02-27T20:43:58.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35315,
+        "identifier": "stop-hibari-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Stop!! Hibari-kun!",
+        "url": "https://gogoanime.vc/category/stop-hibari-kun",
+        "image": "https://gogocdn.net/cover/stop-hibari-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3332,
+        "aniId": 3332,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3332": {
+        "identifier": "3332",
+        "malId": 3332,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Stop!! Hibari-kun!",
+        "url": "https://animixplay.to/anime/3332"
+      }
+    },
+    "YugenAnime": {
+      "7290": {
+        "identifier": "7290",
+        "malId": 3332,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Stop!! Hibari-kun!",
+        "url": "https://yugen.to/anime/7290/stop-hibari-kun/"
+      }
+    }
+  }
+}

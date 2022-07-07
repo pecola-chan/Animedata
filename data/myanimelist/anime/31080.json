@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-14T19:50:47.000Z",
+  "checkedAt": "2022-05-14T19:50:47.000Z",
+  "id": 31080,
+  "type": "anime",
+  "title": "Anne Happy♪",
+  "altTitle": [
+    "Unhappy Go Lucky!",
+    "Anne-Happy",
+    "あんハピ♪"
+  ],
+  "url": "https://myanimelist.net/anime/31080/Anne_Happy♪",
+  "image": "https://cdn.myanimelist.net/images/anime/9/78701.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anne-happy.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11321"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17372"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anne_Happy"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269777"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11321,
+  "Pages": {
+    "9anime": {
+      "vvk7": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9465,
+        "identifier": "vvk7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anne Happy♪",
+        "url": "https://9anime.to/watch/anne-happy.vvk7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dQDtFqQ26K0/V5oxfr7rXMI/AAAAAAAAyoY/1CbF25bUL98/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31080,
+        "aniId": 21238,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "anne-happy": {
+        "createdAt": "2020-10-12T15:59:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16535,
+        "identifier": "anne-happy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Anne Happy♪",
+        "url": "https://gogoanime.vc/category/anne-happy",
+        "image": "https://images.gogoanime.tv/cover/unhappy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31080,
+        "aniId": 21238,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "901": {
+        "identifier": "901",
+        "malId": 31080,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Anne Happy♪",
+        "url": "https://animepahe.com/a/901"
+      }
+    },
+    "AniMixPlay": {
+      "31080": {
+        "identifier": "31080",
+        "malId": 31080,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Anne Happy♪",
+        "url": "https://animixplay.to/anime/31080"
+      }
+    },
+    "YugenAnime": {
+      "410": {
+        "identifier": "410",
+        "malId": 31080,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Anne Happy♪",
+        "url": "https://yugen.to/anime/410/anne-happy/"
+      }
+    }
+  }
+}

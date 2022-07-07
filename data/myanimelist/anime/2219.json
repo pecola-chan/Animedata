@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-15T00:55:17.000Z",
+  "checkedAt": "2022-05-15T00:55:17.000Z",
+  "id": 2219,
+  "type": "anime",
+  "title": "Ryokunohara Meikyuu",
+  "altTitle": [
+    "Ryokunohara Labyrinth - Sparkling Phantom",
+    "Ryokohunohara Labyrinth",
+    "緑野原迷宮"
+  ],
+  "url": "https://myanimelist.net/anime/2219/Ryokunohara_Meikyuu",
+  "image": "https://cdn.myanimelist.net/images/anime/9/73807.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1270"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4125"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1270,
+  "Pages": {
+    "9anime": {
+      "zyp3": {
+        "createdAt": "2020-10-12T15:57:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11360,
+        "identifier": "zyp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ryokunohara Meikyuu",
+        "url": "https://9anime.to/watch/ryokunohara-meikyuu.zyp3",
+        "image": "https://static.akacdn.ru/static/images/2018/02/0b07d1f643d2a938d7176142ff02ee27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2219,
+        "aniId": 2219,
+        "deletedAt": null
+      }
+    }
+  }
+}

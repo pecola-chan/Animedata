@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-12-09T07:39:51.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29787,
+  "identifier": "bakegyamon",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Bakegyamon",
+  "url": "https://gogoanime.vc/category/bakegyamon",
+  "image": "https://gogocdn.net/cover/bakegyamon.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2786,
+  "aniId": 2786,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:33.000Z",
+    "updatedAt": "2022-05-15T00:01:53.000Z",
+    "checkedAt": "2022-05-15T00:01:53.000Z",
+    "id": 2786,
+    "type": "anime",
+    "title": "Bakegyamon",
+    "altTitle": [
+      "BakéGyamon",
+      "Gekifu Bakegyamon",
+      "妖逆門"
+    ],
+    "url": "https://myanimelist.net/anime/2786/Bakegyamon",
+    "image": "https://cdn.myanimelist.net/images/anime/10/21146.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/bakegyamon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4362"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6665"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A6%96%E9%80%86%E9%96%80"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4362
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:27.000Z",
+    "updatedAt": "2022-05-16T01:22:54.000Z",
+    "checkedAt": "2022-05-16T01:22:54.000Z",
+    "id": 2786,
+    "type": "anime",
+    "title": "Bakegyamon",
+    "altTitle": [
+      "妖逆門"
+    ],
+    "url": "https://anilist.co/anime/2786",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2786.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2786,
+    "deletedAt": null
+  }
+}

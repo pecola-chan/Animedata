@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-14T17:18:34.000Z",
+  "checkedAt": "2022-05-14T17:18:34.000Z",
+  "id": 8426,
+  "type": "anime",
+  "title": "Hourou Musuko",
+  "altTitle": [
+    "The Transient Son",
+    "Wandering Son",
+    "放浪息子"
+  ],
+  "url": "https://myanimelist.net/anime/8426/Hourou_Musuko",
+  "image": "https://cdn.myanimelist.net/images/anime/13/53945.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.houroumusuko.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7949"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11875"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wandering_Son"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7949,
+  "Pages": {
+    "9anime": {
+      "2p05": {
+        "createdAt": "2020-10-12T15:49:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1469,
+        "identifier": "2p05",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hourou Musuko",
+        "url": "https://9anime.to/watch/hourou-musuko.2p05",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-IZV40kgd-wc/V6v3kj1zVsI/AAAAAAAA2KU/gjaMVRsurqY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8426,
+        "aniId": 8426,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hourou-musuko": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18377,
+        "identifier": "hourou-musuko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hourou Musuko",
+        "url": "https://gogoanime.vc/category/hourou-musuko",
+        "image": "https://cdnimg.xyz/images/anime/H/hourou-musuko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8426,
+        "aniId": 8426,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "424": {
+        "identifier": "424",
+        "malId": 8426,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hourou Musuko",
+        "url": "https://animepahe.com/a/424"
+      }
+    },
+    "AniMixPlay": {
+      "8426": {
+        "identifier": "8426",
+        "malId": 8426,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hourou Musuko",
+        "url": "https://animixplay.to/anime/8426"
+      }
+    },
+    "YugenAnime": {
+      "2665": {
+        "identifier": "2665",
+        "malId": 8426,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hourou Musuko",
+        "url": "https://yugen.to/anime/2665/hourou-musuko/"
+      }
+    }
+  }
+}

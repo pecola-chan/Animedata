@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-15T01:32:18.000Z",
+  "checkedAt": "2022-05-15T01:32:18.000Z",
+  "id": 22335,
+  "type": "anime",
+  "title": "Teekyuu 3 Specials",
+  "altTitle": [
+    "Tekyuu 3 Specials",
+    "Te-kyu 3 Specials",
+    "てーきゅう３期　映像特典"
+  ],
+  "url": "https://myanimelist.net/anime/22335/Teekyuu_3_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/58477.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.te-kyu.com/bluraydvd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9805"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Teekyu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9805,
+  "Pages": {
+    "9anime": {
+      "3vv6": {
+        "createdAt": "2020-10-12T15:49:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1955,
+        "identifier": "3vv6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Teekyuu 3 Specials",
+        "url": "https://9anime.to/watch/teekyuu-3-specials.3vv6",
+        "image": "http://static.akacdn.ru/static/images/2018/04/0a41e9c2e4b489529ef584692f739bca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22335,
+        "aniId": 20834,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3536": {
+        "identifier": "3536",
+        "malId": 22335,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Teekyuu 3 Specials",
+        "url": "https://animepahe.com/a/3536"
+      }
+    }
+  }
+}

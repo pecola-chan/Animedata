@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T16:02:18.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21548,
+  "identifier": "yoru-no-yatterman",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Yoru no Yatterman",
+  "url": "https://gogoanime.vc/category/yoru-no-yatterman",
+  "image": "https://cdnimg.xyz/images/upload/163306.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 28155,
+  "aniId": 20922,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:31.000Z",
+    "updatedAt": "2022-05-14T20:42:05.000Z",
+    "checkedAt": "2022-05-14T20:42:05.000Z",
+    "id": 28155,
+    "type": "anime",
+    "title": "Yoru no Yatterman",
+    "altTitle": [
+      "Yatterman Night",
+      "夜ノヤッターマン"
+    ],
+    "url": "https://myanimelist.net/anime/28155/Yoru_no_Yatterman",
+    "image": "https://cdn.myanimelist.net/images/anime/11/71773.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yatterman.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10897"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16345"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/夜ノヤッターマン"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-273623"
+      },
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/yatterman-night"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 10897
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:43.000Z",
+    "updatedAt": "2022-05-15T16:53:11.000Z",
+    "checkedAt": "2022-05-15T16:53:11.000Z",
+    "id": 20922,
+    "type": "anime",
+    "title": "Yoru no Yatterman",
+    "altTitle": [
+      "Yatterman Night",
+      "夜ノヤッターマン"
+    ],
+    "url": "https://anilist.co/anime/20922",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20922-btBItFbmWgma.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "http://www.funimation.com/shows/yatterman-night/"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/yatterman-night"
+      }
+    ],
+    "malId": 28155,
+    "deletedAt": null
+  }
+}

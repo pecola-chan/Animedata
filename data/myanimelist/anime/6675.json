@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T17:36:47.000Z",
+  "checkedAt": "2022-05-14T17:36:47.000Z",
+  "id": 6675,
+  "type": "anime",
+  "title": "Redline",
+  "altTitle": [
+    "Red line",
+    "Redline",
+    "REDLINE"
+  ],
+  "url": "https://myanimelist.net/anime/6675/Redline",
+  "image": "https://cdn.myanimelist.net/images/anime/12/28553.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://red-line.jp/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6529"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6456"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Redline_(2009_film)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6529,
+  "Pages": {
+    "9anime": {
+      "vqpv": {
+        "createdAt": "2020-10-12T15:55:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9432,
+        "identifier": "vqpv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Redline (Dub)",
+        "url": "https://9anime.to/watch/redline-dub.vqpv",
+        "image": "//static.9anime.to/i/cache/images/2018/04/bc40b4ff61796b40ee55ca9be207c389.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6675,
+        "aniId": 6675,
+        "deletedAt": null
+      },
+      "xx43": {
+        "createdAt": "2020-10-12T15:56:33.000Z",
+        "updatedAt": "2022-06-14T03:36:25.000Z",
+        "checkedAt": "2022-06-14T03:36:25.000Z",
+        "id": 10415,
+        "identifier": "xx43",
+        "type": "anime",
+        "page": "9anime",
+        "title": "REDLINE",
+        "url": "https://9anime.to/watch/redline.xx43",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ffc93753dbfa94d18fbdc08ecc768b7f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6675,
+        "aniId": 6675,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "redline": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20255,
+        "identifier": "redline",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Redline",
+        "url": "https://gogoanime.vc/category/redline",
+        "image": "https://cdnimg.xyz/images/anime/R/Redline.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6675,
+        "aniId": 6675,
+        "deletedAt": null
+      },
+      "redline-dub": {
+        "createdAt": "2020-10-12T17:20:41.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23590,
+        "identifier": "redline-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Redline (Dub)",
+        "url": "https://gogoanime.vc/category/redline-dub",
+        "image": "https://gogocdn.net/cover/redline-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6675,
+        "aniId": 6675,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1441": {
+        "identifier": "1441",
+        "malId": 6675,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Redline",
+        "url": "https://animepahe.com/a/1441"
+      }
+    },
+    "AniMixPlay": {
+      "6675": {
+        "identifier": "6675",
+        "malId": 6675,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Redline",
+        "url": "https://animixplay.to/anime/6675"
+      }
+    },
+    "YugenAnime": {
+      "1094": {
+        "identifier": "1094",
+        "malId": 6675,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Redline",
+        "url": "https://yugen.to/anime/1094/redline/"
+      }
+    }
+  }
+}

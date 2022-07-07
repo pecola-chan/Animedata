@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-05-13T21:35:20.000Z",
+  "checkedAt": "2022-05-13T21:35:20.000Z",
+  "id": 30123,
+  "type": "anime",
+  "title": "Akagami no Shirayuki-hime",
+  "altTitle": [
+    "Akagami no Shirayukihime",
+    "Snow White with the Red Hair",
+    "赤髪の白雪姫"
+  ],
+  "url": "https://myanimelist.net/anime/30123/Akagami_no_Shirayuki-hime",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75764.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.clarines-kingdom.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11082"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16792"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snow_White_with_the_Red_Hair"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274723"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/snow-white-with-the-red-hair"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11082,
+  "Pages": {
+    "9anime": {
+      "00kr": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 376,
+        "identifier": "00kr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akagami no Shirayuki-hime (Dub)",
+        "url": "https://9anime.to/watch/akagami-no-shirayuki-hime-dub.00kr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oH76KPAzIv0/V9J17_rXdJI/AAAAAAAA8yk/XXQoiGn1HQU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30123,
+        "aniId": 21058,
+        "deletedAt": null
+      },
+      "09k": {
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 495,
+        "identifier": "09k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Snow White with the Red Hair",
+        "url": "https://9anime.to/watch/snow-white-with-the-red-hair.09k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rNAM2T8_EW8/V3NZ2X16psI/AAAAAAAAr7Y/3C2W-LFTcG0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30123,
+        "aniId": 21058,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akagami-no-shirayuki-hime-dub": {
+        "createdAt": "2020-10-12T15:59:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16448,
+        "identifier": "akagami-no-shirayuki-hime-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akagami no Shirayuki-hime (Dub)",
+        "url": "https://gogoanime.vc/category/akagami-no-shirayuki-hime-dub",
+        "image": "https://images.gogoanime.tv/cover/akagami-no-shirayuki-hime-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30123,
+        "aniId": 21058,
+        "deletedAt": null
+      },
+      "akagami-no-shirayukihime": {
+        "createdAt": "2020-10-12T15:59:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16450,
+        "identifier": "akagami-no-shirayukihime",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akagami no Shirayukihime",
+        "url": "https://gogoanime.vc/category/akagami-no-shirayukihime",
+        "image": "https://images.gogoanime.tv/images/upload/akagami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30123,
+        "aniId": 21058,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "570": {
+        "identifier": "570",
+        "malId": 30123,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Akagami no Shirayuki-hime",
+        "url": "https://animepahe.com/a/570"
+      }
+    },
+    "AniMixPlay": {
+      "30123": {
+        "identifier": "30123",
+        "malId": 30123,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akagami no Shirayuki-hime",
+        "url": "https://animixplay.to/anime/30123"
+      }
+    },
+    "YugenAnime": {
+      "2079": {
+        "identifier": "2079",
+        "malId": 30123,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akagami no Shirayuki-hime",
+        "url": "https://yugen.to/anime/2079/akagami-no-shirayuki-hime/"
+      }
+    }
+  }
+}

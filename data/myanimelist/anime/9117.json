@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T17:09:04.000Z",
+  "checkedAt": "2022-05-14T17:09:04.000Z",
+  "id": 9117,
+  "type": "anime",
+  "title": "Amagami SS OVA",
+  "altTitle": [
+    "Amagami SS Short Animations",
+    "アマガミSS"
+  ],
+  "url": "https://myanimelist.net/anime/9117/Amagami_SS_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/8/29939.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/amagami/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7506"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amagami"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7506,
+  "Pages": {
+    "9anime": {
+      "m4k8": {
+        "createdAt": "2020-10-12T15:53:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6393,
+        "identifier": "m4k8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amagami SS OVA",
+        "url": "https://9anime.to/watch/amagami-ss-ova.m4k8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-j51Y00tFHoo/WFU1TqOuQgI/AAAAAAABTKI/k8BHhD1CKtU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9117,
+        "aniId": 9117,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amagami-ss-ova": {
+        "createdAt": "2020-10-12T17:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23753,
+        "identifier": "amagami-ss-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amagami SS OVA",
+        "url": "https://gogoanime.vc/category/amagami-ss-ova",
+        "image": "https://gogocdn.net/images/anime/amagami-ss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9117,
+        "aniId": 9117,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2672": {
+        "identifier": "2672",
+        "malId": 9117,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amagami SS OVA",
+        "url": "https://animepahe.com/a/2672"
+      }
+    },
+    "AniMixPlay": {
+      "9117": {
+        "identifier": "9117",
+        "malId": 9117,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amagami SS OVA",
+        "url": "https://animixplay.to/anime/9117"
+      }
+    },
+    "YugenAnime": {
+      "4585": {
+        "identifier": "4585",
+        "malId": 9117,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amagami SS OVA",
+        "url": "https://yugen.to/anime/4585/amagami-ss-ova/"
+      }
+    }
+  }
+}

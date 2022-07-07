@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T09:01:05.000Z",
+  "checkedAt": "2022-05-14T09:01:05.000Z",
+  "id": 26243,
+  "type": "anime",
+  "title": "Owari no Seraph",
+  "altTitle": [
+    "Seraph of the End",
+    "Seraph of the End: Vampire Reign",
+    "終わりのセラフ"
+  ],
+  "url": "https://myanimelist.net/anime/26243/Owari_no_Seraph",
+  "image": "https://cdn.myanimelist.net/images/anime/5/73474.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.owarino-seraph.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10813"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16357"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Seraph_of_the_End"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/seraph-of-the-end-vampire-reign"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10813,
+  "Pages": {
+    "9anime": {
+      "g98": {
+        "createdAt": "2020-10-12T15:51:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4559,
+        "identifier": "g98",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seraph of the End: Vampire Reign",
+        "url": "https://9anime.to/watch/seraph-of-the-end-vampire-reign.g98",
+        "image": "http://static.akacdn.ru/static/images/2018/04/da7ff2f4745151476b1433d838c08302.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26243,
+        "aniId": 20829,
+        "deletedAt": null
+      },
+      "yp2p": {
+        "createdAt": "2020-10-12T15:56:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10787,
+        "identifier": "yp2p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Owari no Seraph (Dub)",
+        "url": "https://9anime.to/watch/seraph-of-the-end-vampire-reign-dub.yp2p",
+        "image": "//static.9anime.to/i/cache/images/2018/04/e4a2661f28be75955c984fc42928feaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26243,
+        "aniId": 20829,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "owari-no-seraph": {
+        "createdAt": "2020-10-12T16:01:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19980,
+        "identifier": "owari-no-seraph",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Owari no Seraph",
+        "url": "https://gogoanime.vc/category/owari-no-seraph",
+        "image": "https://images.gogoanime.tv/images/upload/169432.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26243,
+        "aniId": 20829,
+        "deletedAt": null
+      },
+      "owari-no-seraph-dub": {
+        "createdAt": "2020-10-12T16:01:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19982,
+        "identifier": "owari-no-seraph-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Owari no Seraph (Dub)",
+        "url": "https://gogoanime.vc/category/owari-no-seraph-dub",
+        "image": "https://gogocdn.net/cover/owari-no-seraph-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26243,
+        "aniId": 20829,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "198": {
+        "identifier": "198",
+        "malId": 26243,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Owari no Seraph",
+        "url": "https://animepahe.com/a/198"
+      }
+    },
+    "AniMixPlay": {
+      "26243": {
+        "identifier": "26243",
+        "malId": 26243,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Owari no Seraph",
+        "url": "https://animixplay.to/anime/26243"
+      }
+    },
+    "YugenAnime": {
+      "3010": {
+        "identifier": "3010",
+        "malId": 26243,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Owari no Seraph",
+        "url": "https://yugen.to/anime/3010/owari-no-seraph/"
+      }
+    }
+  }
+}

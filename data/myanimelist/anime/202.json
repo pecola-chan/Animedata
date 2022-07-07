@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T17:46:59.000Z",
+  "checkedAt": "2022-05-14T17:46:59.000Z",
+  "id": 202,
+  "type": "anime",
+  "title": "Wolf's Rain",
+  "altTitle": [
+    "Wolf Rain",
+    "Wolf's Rain",
+    "ウルフズレイン"
+  ],
+  "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+  "image": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bones.co.jp/work/wolfs-rain/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=449"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1806"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wolf%27s_Rain"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274547"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/wolfs-rain"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 449,
+  "Pages": {
+    "9anime": {
+      "myqp": {
+        "createdAt": "2020-10-12T15:53:39.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6823,
+        "identifier": "myqp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wolf's Rain",
+        "url": "https://9anime.to/watch/wolfs-rain.myqp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VWrbKUHqn_Q/V__AXdVzy8I/AAAAAAABHZg/WjGm8TvZKTs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 202,
+        "aniId": 202,
+        "deletedAt": null
+      },
+      "x0w": {
+        "createdAt": "2020-10-12T15:56:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10040,
+        "identifier": "x0w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wolf's Rain (Dub)",
+        "url": "https://9anime.to/watch/wolfs-rain-dub.x0w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2e6JTtSxVIY/V30sZmzPKrI/AAAAAAAAtvw/yJPx0SeO_j4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 202,
+        "aniId": 202,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wolfs-rain": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21440,
+        "identifier": "wolfs-rain",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wolfs Rain",
+        "url": "https://gogoanime.vc/category/wolfs-rain",
+        "image": "https://cdnimg.xyz/images/anime/wolfs-rain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 202,
+        "aniId": 202,
+        "deletedAt": null
+      },
+      "wolfs-rain-dub": {
+        "createdAt": "2021-04-25T02:57:02.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36690,
+        "identifier": "wolfs-rain-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wolf's Rain (Dub)",
+        "url": "https://gogoanime.vc/category/wolfs-rain-dub",
+        "image": "https://gogocdn.net/cover/wolfs-rain-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 202,
+        "aniId": 202,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "202": {
+        "identifier": "202",
+        "malId": 202,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wolf's Rain",
+        "url": "https://animixplay.to/anime/202"
+      }
+    },
+    "YugenAnime": {
+      "2454": {
+        "identifier": "2454",
+        "malId": 202,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wolf's Rain",
+        "url": "https://yugen.to/anime/2454/wolfs-rain-4den/"
+      }
+    }
+  }
+}

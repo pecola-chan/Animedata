@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-19T06:57:23.000Z",
+  "checkedAt": "2022-05-19T06:57:23.000Z",
+  "id": 6553,
+  "type": "anime",
+  "title": "Junjou Romantica Special",
+  "altTitle": [
+    "純情ロマンチカ"
+  ],
+  "url": "https://myanimelist.net/anime/6553/Junjou_Romantica_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/11/14958.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.suzukisan.info/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5532"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5532,
+  "Pages": {
+    "9anime": {
+      "m6ox": {
+        "createdAt": "2020-10-12T15:53:25.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 6454,
+        "identifier": "m6ox",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junjou Romantica Special",
+        "url": "https://9anime.to/watch/junjou-romantica-special.m6ox",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FvYmvBjIYyk/WF9GGI6COBI/AAAAAAABUhE/pyW6Oox_Siw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6553,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

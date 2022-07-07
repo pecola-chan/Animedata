@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-14T17:31:05.000Z",
+  "checkedAt": "2022-05-14T17:31:05.000Z",
+  "id": 34392,
+  "type": "anime",
+  "title": "One Room",
+  "altTitle": [
+    "One Room",
+    "One Room (ワンルーム)"
+  ],
+  "url": "https://myanimelist.net/anime/34392/One_Room",
+  "image": "https://cdn.myanimelist.net/images/anime/9/83777.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://oneroom-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12550"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18889"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/One_Room"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272205"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12550,
+  "Pages": {
+    "9anime": {
+      "0ynr": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 741,
+        "identifier": "0ynr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Room",
+        "url": "https://9anime.to/watch/one-room.0ynr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-r4yK8_gWhZA/WHaC_yxcLpI/AAAAAAABYwM/6zS_rxWDwoo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34392,
+        "aniId": 97857,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-room": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19876,
+        "identifier": "one-room",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Room",
+        "url": "https://gogoanime.vc/category/one-room",
+        "image": "https://images.gogoanime.tv/cover/one-room.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34392,
+        "aniId": 97857,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1614": {
+        "identifier": "1614",
+        "malId": 34392,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Room",
+        "url": "https://animepahe.com/a/1614"
+      }
+    },
+    "AniMixPlay": {
+      "34392": {
+        "identifier": "34392",
+        "malId": 34392,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Room",
+        "url": "https://animixplay.to/anime/34392"
+      }
+    },
+    "YugenAnime": {
+      "2708": {
+        "identifier": "2708",
+        "malId": 34392,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Room",
+        "url": "https://yugen.to/anime/2708/one-room/"
+      }
+    }
+  }
+}

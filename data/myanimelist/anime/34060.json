@@ -1,0 +1,45 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-23T09:00:30.000Z",
+  "checkedAt": "2022-05-23T09:00:30.000Z",
+  "id": 34060,
+  "type": "anime",
+  "title": "Dead World",
+  "altTitle": [],
+  "url": "https://myanimelist.net/anime/34060/Dead_World",
+  "image": "https://cdn.myanimelist.net/images/anime/4/82024.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=-_c4FIA2C8k"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "xq58": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10350,
+        "identifier": "xq58",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dead World",
+        "url": "https://9anime.to/watch/dead-world.xq58",
+        "image": "https://static.akacdn.ru/static/images/2018/04/4210501ecb2eca9e9b7c697cd34a2d56.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34060,
+        "aniId": 102785,
+        "deletedAt": null
+      }
+    }
+  }
+}

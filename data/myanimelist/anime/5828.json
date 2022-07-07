@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T00:05:05.000Z",
+  "checkedAt": "2022-05-15T00:05:05.000Z",
+  "id": 5828,
+  "type": "anime",
+  "title": "Kishin Douji Zenki Gaiden: Anki Kitan",
+  "altTitle": [
+    "Zenki: Anki Kitan",
+    "鬼神童子ＺＥＮＫＩ外伝　黯鬼奇譚"
+  ],
+  "url": "https://myanimelist.net/anime/5828/Kishin_Douji_Zenki_Gaiden__Anki_Kitan",
+  "image": "https://cdn.myanimelist.net/images/anime/1468/92571.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5194"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8224"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zenki"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5194,
+  "Pages": {
+    "9anime": {
+      "m1pv": {
+        "createdAt": "2020-12-12T03:19:35.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30058,
+        "identifier": "m1pv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kishin Douji Zenki Gaiden: Anki Kitan",
+        "url": "https://9anime.to/watch/zenki-anki-kitan.m1pv",
+        "image": "//static.9anime.to/i/cache/images/2018/03/25b163fa4630e40f8dd7c81428c4ca13.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5828,
+        "aniId": 5828,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5828": {
+        "identifier": "5828",
+        "malId": 5828,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kishin Douji Zenki Gaiden: Anki Kitan",
+        "url": "https://animixplay.to/anime/5828"
+      }
+    }
+  }
+}

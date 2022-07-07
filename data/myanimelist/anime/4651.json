@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-15T01:29:52.000Z",
+  "checkedAt": "2022-05-15T01:29:52.000Z",
+  "id": 4651,
+  "type": "anime",
+  "title": "Yume no Crayon Oukoku",
+  "altTitle": [
+    "Crayon Kingdom of Dreams",
+    "夢のクレヨン王国"
+  ],
+  "url": "https://myanimelist.net/anime/4651/Yume_no_Crayon_Oukoku",
+  "image": "https://cdn.myanimelist.net/images/anime/11/28591.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/crayon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2104"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1773"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yume_no_Crayon_Oukoku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2104,
+  "Pages": {
+    "9anime": {
+      "o515": {
+        "createdAt": "2020-10-12T15:54:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7384,
+        "identifier": "o515",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yume no Crayon Oukoku",
+        "url": "https://9anime.to/watch/yume-no-crayon-oukoku.o515",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-R_e8nyjWww4/WRs3btW4M0I/AAAAAAAAn8w/cUtbxOrCO8I56zbI-T3bB6nXRjI6AAcpgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4651,
+        "aniId": 4651,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yume-no-crayon-oukoku": {
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21610,
+        "identifier": "yume-no-crayon-oukoku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yume no Crayon Oukoku",
+        "url": "https://gogoanime.vc/category/yume-no-crayon-oukoku",
+        "image": "https://cdnimg.xyz/cover/yume-no-crayon-oukoku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4651,
+        "aniId": 4651,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4651": {
+        "identifier": "4651",
+        "malId": 4651,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yume no Crayon Oukoku",
+        "url": "https://animixplay.to/anime/4651"
+      }
+    },
+    "YugenAnime": {
+      "5012": {
+        "identifier": "5012",
+        "malId": 4651,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yume no Crayon Oukoku",
+        "url": "https://yugen.to/anime/5012/yume-no-crayon-oukoku/"
+      }
+    }
+  }
+}

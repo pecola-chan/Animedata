@@ -1,0 +1,130 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-14T17:27:53.000Z",
+  "checkedAt": "2022-05-14T17:27:53.000Z",
+  "id": 36259,
+  "type": "anime",
+  "title": "Pingu in the City",
+  "altTitle": [
+    "Pingu in the City",
+    "ピングー in ザ・シティ"
+  ],
+  "url": "https://myanimelist.net/anime/36259/Pingu_in_the_City",
+  "image": "https://cdn.myanimelist.net/images/anime/1140/95174.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/anime/pingu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13421"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21191"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pingu_in_the_City"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13421,
+  "Pages": {
+    "9anime": {
+      "j7l8": {
+        "createdAt": "2020-10-12T15:52:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4769,
+        "identifier": "j7l8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pingu in the City",
+        "url": "https://9anime.to/watch/pingu-in-the-city.j7l8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/43e73b0b9c5fa6c347cc1fc7a4442f28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36259,
+        "aniId": 99994,
+        "deletedAt": null
+      },
+      "lwz3": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6234,
+        "identifier": "lwz3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pingu in the City",
+        "url": "https://9anime.to/watch/pingu-in-the-city.lwz3",
+        "image": "https://static.akacdn.ru/files/images/2020/07/95bd0b09b9c1a6723e6962766adffb2e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36259,
+        "aniId": 99994,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pingu-in-the-city": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20057,
+        "identifier": "pingu-in-the-city",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pingu in the City",
+        "url": "https://gogoanime.vc/category/pingu-in-the-city",
+        "image": "https://images.gogoanime.tv/cover/pingu-in-the-city.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36259,
+        "aniId": 99994,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2350": {
+        "identifier": "2350",
+        "malId": 36259,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pingu in the City",
+        "url": "https://animepahe.com/a/2350"
+      }
+    },
+    "AniMixPlay": {
+      "36259": {
+        "identifier": "36259",
+        "malId": 36259,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pingu in the City",
+        "url": "https://animixplay.to/anime/36259"
+      }
+    },
+    "YugenAnime": {
+      "3445": {
+        "identifier": "3445",
+        "malId": 36259,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pingu in the City",
+        "url": "https://yugen.to/anime/3445/pingu-in-the-city/"
+      }
+    }
+  }
+}

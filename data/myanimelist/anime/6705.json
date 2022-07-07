@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T21:36:23.000Z",
+  "checkedAt": "2022-05-14T21:36:23.000Z",
+  "id": 6705,
+  "type": "anime",
+  "title": "Tayutayu: Pure My Heart",
+  "altTitle": [
+    "Tayutama Specials",
+    "タユタマ -Pure my heart-"
+  ],
+  "url": "https://myanimelist.net/anime/6705/Tayutayu__Pure_My_Heart",
+  "image": "https://cdn.myanimelist.net/images/anime/6/15398.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tayutama.com/blog/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6296"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6296,
+  "Pages": {
+    "9anime": {
+      "x508": {
+        "createdAt": "2020-10-12T15:56:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10131,
+        "identifier": "x508",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tayutayu: Pure My Heart",
+        "url": "https://9anime.to/watch/tayutayu-pure-my-heart.x508",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3YA40sqM718/WPRvFGLOQ7I/AAAAAAAAiNI/Yr2JEn6pojU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6705,
+        "aniId": 6705,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "482": {
+        "identifier": "482",
+        "malId": 6705,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tayutayu: Pure My Heart",
+        "url": "https://animepahe.com/a/482"
+      }
+    },
+    "AniMixPlay": {
+      "6705": {
+        "identifier": "6705",
+        "malId": 6705,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tayutayu: Pure My Heart",
+        "url": "https://animixplay.to/anime/6705"
+      }
+    }
+  }
+}

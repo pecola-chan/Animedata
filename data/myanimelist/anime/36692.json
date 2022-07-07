@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-14T20:44:30.000Z",
+  "checkedAt": "2022-05-14T20:44:30.000Z",
+  "id": 36692,
+  "type": "anime",
+  "title": "Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear",
+  "altTitle": [
+    "Symphogear AXZ Specials",
+    "戦姫絶唱シンフォギアAXZ 戦姫絶唱しないシンフォギア"
+  ],
+  "url": "https://myanimelist.net/anime/36692/Senki_Zesshou_Symphogear_AXZ__Senki_Zesshou_Shinai_Symphogear",
+  "image": "https://cdn.myanimelist.net/images/anime/6/89564.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.symphogear-axz.com/products/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Symphogear"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "kyow": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5689,
+        "identifier": "kyow",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear",
+        "url": "https://9anime.to/watch/senki-zesshou-symphogear-axz-senki-zesshou-shinai-symphogear.kyow",
+        "image": "https://static.akacdn.ru/files/images/2020/08/e44b9bb2ef1e1036ac62c28ed677880e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36692,
+        "aniId": 101104,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3479": {
+        "identifier": "3479",
+        "malId": 36692,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear",
+        "url": "https://animepahe.com/a/3479"
+      }
+    }
+  }
+}

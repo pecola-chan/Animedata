@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-14T22:27:59.000Z",
+  "checkedAt": "2022-05-14T22:27:59.000Z",
+  "id": 8156,
+  "type": "anime",
+  "title": "Gegege no Kitarou: Obake Nighter",
+  "altTitle": [
+    "Gegege no Kitaro: Obake Nighter",
+    "Spooky Kitaro: The Obake Nighter",
+    "ゲゲゲの鬼太郎　おばけナイター"
+  ],
+  "url": "https://myanimelist.net/anime/8156/Gegege_no_Kitarou__Obake_Nighter",
+  "image": "https://cdn.myanimelist.net/images/anime/3/77085.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7357"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3699"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7357,
+  "Pages": {
+    "9anime": {
+      "y4wz": {
+        "createdAt": "2020-10-12T15:56:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10563,
+        "identifier": "y4wz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spooky Kitaro: The Obake Nighter",
+        "url": "https://9anime.to/watch/spooky-kitaro-the-obake-nighter.y4wz",
+        "image": "https://static.akacdn.ru/files/images/2018/10/819b5f7129aacafdb621bdeb861fcd54.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8156,
+        "aniId": 8156,
+        "deletedAt": null
+      }
+    }
+  }
+}

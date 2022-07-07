@@ -1,0 +1,52 @@
+{
+  "createdAt": "2021-04-17T02:44:20.000Z",
+  "updatedAt": "2022-05-15T09:50:42.000Z",
+  "checkedAt": "2022-05-15T09:50:42.000Z",
+  "id": 3221,
+  "type": "anime",
+  "title": "Shakugan no Shana-tan Movie",
+  "altTitle": [
+    "Shakugan no Shana-tan Gekijouban",
+    "灼眼のシャナたん＠劇場版Ver"
+  ],
+  "url": "https://myanimelist.net/anime/3221/Shakugan_no_Shana-tan_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/11/17218.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shakugan.com/contents/hp0019/index00740000.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4388"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4388,
+  "Pages": {
+    "9anime": {
+      "kqnv": {
+        "createdAt": "2021-04-17T02:44:21.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36571,
+        "identifier": "kqnv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shakugan no Shana-tan Movie",
+        "url": "https://9anime.to/watch/shakugan-no-shana-tan-movie.kqnv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/43/43fcee039b7089de58fff62268f40f29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3221,
+        "aniId": 3221,
+        "deletedAt": null
+      }
+    }
+  }
+}

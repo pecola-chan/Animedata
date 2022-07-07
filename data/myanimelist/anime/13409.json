@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:13.000Z",
+  "updatedAt": "2022-05-14T23:53:10.000Z",
+  "checkedAt": "2022-05-14T23:53:10.000Z",
+  "id": 13409,
+  "type": "anime",
+  "title": "Moyashimon Returns",
+  "altTitle": [
+    "Moyashimon Returns: Tales of Agriculture",
+    "Moyasimon Returns",
+    "もやしもん リターンズ"
+  ],
+  "url": "https://myanimelist.net/anime/13409/Moyashimon_Returns",
+  "image": "https://cdn.myanimelist.net/images/anime/11/39775.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kamosuzo2.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9093"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14177"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Moyasimon:_Tales_of_Agriculture"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-247118"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9093,
+  "Pages": {
+    "9anime": {
+      "90lx": {
+        "createdAt": "2020-10-12T15:51:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4135,
+        "identifier": "90lx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Moyashimon Returns",
+        "url": "https://9anime.to/watch/moyashimon-returns.90lx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-09Lpz4QsVbs/V6m103UTbtI/AAAAAAAA1sw/nyFdaTeadrE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13409,
+        "aniId": 13409,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "moyashimon-returns": {
+        "createdAt": "2020-11-27T20:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29591,
+        "identifier": "moyashimon-returns",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Moyashimon Returns",
+        "url": "https://gogoanime.vc/category/moyashimon-returns",
+        "image": "https://gogocdn.net/images/anime/M/moyashimon-returns.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13409,
+        "aniId": 13409,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "433": {
+        "identifier": "433",
+        "malId": 13409,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Moyashimon Returns",
+        "url": "https://animepahe.com/a/433"
+      }
+    },
+    "AniMixPlay": {
+      "13409": {
+        "identifier": "13409",
+        "malId": 13409,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Moyashimon Returns",
+        "url": "https://animixplay.to/anime/13409"
+      }
+    },
+    "YugenAnime": {
+      "3029": {
+        "identifier": "3029",
+        "malId": 13409,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Moyashimon Returns",
+        "url": "https://yugen.to/anime/3029/moyashimon-returns/"
+      }
+    }
+  }
+}

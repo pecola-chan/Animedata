@@ -1,0 +1,102 @@
+{
+  "createdAt": "2021-04-17T01:44:18.000Z",
+  "updatedAt": "2022-05-14T16:48:51.000Z",
+  "checkedAt": "2022-05-14T16:48:51.000Z",
+  "id": 48727,
+  "type": "anime",
+  "title": "Yoru no Kuni",
+  "altTitle": [
+    "Night World",
+    "Night Country",
+    "夜の国"
+  ],
+  "url": "https://myanimelist.net/anime/48727/Yoru_no_Kuni",
+  "image": "https://cdn.myanimelist.net/images/anime/1674/114425.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.yorunokuni.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16246"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24298"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Night_World_(web_series)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16246,
+  "Pages": {
+    "Gogoanime": {
+      "yoru-no-kuni": {
+        "createdAt": "2021-04-17T01:44:19.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36568,
+        "identifier": "yoru-no-kuni",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yoru no Kuni",
+        "url": "https://gogoanime.vc/category/yoru-no-kuni",
+        "image": "https://gogocdn.net/cover/yoru-no-kuni.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48727,
+        "aniId": 132283,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "lvoz": {
+        "createdAt": "2021-04-17T02:15:11.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36569,
+        "identifier": "lvoz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yoru no Kuni",
+        "url": "https://9anime.to/watch/yoru-no-kuni.lvoz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a5/a5f0cf3e6fa4f0eff3826afee60e4124.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48727,
+        "aniId": 132283,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "48727": {
+        "identifier": "48727",
+        "malId": 48727,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yoru no Kuni",
+        "url": "https://animixplay.to/anime/48727"
+      }
+    },
+    "YugenAnime": {
+      "7565": {
+        "identifier": "7565",
+        "malId": 48727,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yoru no Kuni",
+        "url": "https://yugen.to/anime/7565/yoru-no-kuni/"
+      }
+    }
+  }
+}

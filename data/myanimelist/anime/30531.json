@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-05-14T21:40:08.000Z",
+  "checkedAt": "2022-05-14T21:40:08.000Z",
+  "id": 30531,
+  "type": "anime",
+  "title": "Gakuen Handsome The Animation",
+  "altTitle": [
+    "学園ハンサム The Animation"
+  ],
+  "url": "https://myanimelist.net/anime/30531/Gakuen_Handsome_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/11/76861.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.liverp.co.jp/ani_pu/gakuen-handsome/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11174"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17033"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11174,
+  "Pages": {
+    "9anime": {
+      "3w28": {
+        "createdAt": "2021-05-10T13:44:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36948,
+        "identifier": "3w28",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakuen Handsome The Animation",
+        "url": "https://9anime.to/watch/gakuen-handsome-the-animation.3w28",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/07/076f2d81e41b3dce3ad9e04b75a65eb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30531,
+        "aniId": 21392,
+        "deletedAt": null
+      }
+    }
+  }
+}

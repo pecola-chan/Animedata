@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:45.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20407,
+  "identifier": "sakura-taisen-le-nouveau-paris",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sakura Taisen: Le Nouveau Paris",
+  "url": "https://gogoanime.vc/category/sakura-taisen-le-nouveau-paris",
+  "image": "https://gogocdn.net/cover/sakura-taisen-le-nouveau-paris.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 562,
+  "aniId": 562,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:05.000Z",
+    "updatedAt": "2022-05-15T01:36:54.000Z",
+    "checkedAt": "2022-05-15T01:36:54.000Z",
+    "id": 562,
+    "type": "anime",
+    "title": "Sakura Taisen: Le Nouveau Paris",
+    "altTitle": [
+      "Sakura Wars: The New Paris",
+      "サクラ大戦『ル・ヌーヴォー・巴里』"
+    ],
+    "url": "https://myanimelist.net/anime/562/Sakura_Taisen__Le_Nouveau_Paris",
+    "image": "https://cdn.myanimelist.net/images/anime/1260/107216.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sakura-taisen.com/ova_4/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2407"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4160"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sakura_Wars"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2407
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:47.000Z",
+    "updatedAt": "2022-05-16T02:30:34.000Z",
+    "checkedAt": "2022-05-16T02:30:34.000Z",
+    "id": 562,
+    "type": "anime",
+    "title": "Sakura Taisen: Le Nouveau Paris",
+    "altTitle": [
+      "Sakura Wars: The New Paris",
+      "サクラ大戦『ル・ヌーヴォー・巴里』"
+    ],
+    "url": "https://anilist.co/anime/562",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/562.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 562,
+    "deletedAt": null
+  }
+}

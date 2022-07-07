@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T21:49:18.000Z",
+  "checkedAt": "2022-05-14T21:49:18.000Z",
+  "id": 5080,
+  "type": "anime",
+  "title": "Quiz Magic Academy: The Original Animation",
+  "altTitle": [
+    "QMA",
+    "クイズマジックアカデミー ~The Original Animation~"
+  ],
+  "url": "https://myanimelist.net/anime/5080/Quiz_Magic_Academy__The_Original_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/8/13459.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.konami.jp/products/qma_ova/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6071"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9560"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6071,
+  "Pages": {
+    "9anime": {
+      "6n79": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3082,
+        "identifier": "6n79",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Quiz Magic Academy: The Original Animation",
+        "url": "https://9anime.to/watch/quiz-magic-academy-the-original-animation.6n79",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nLVPxnTB_IM/WIbweLvlvOI/AAAAAAABa_0/2fJufNgoPzI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5080,
+        "aniId": 5080,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5080": {
+        "identifier": "5080",
+        "malId": 5080,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Quiz Magic Academy: The Original Animation",
+        "url": "https://animixplay.to/anime/5080"
+      }
+    }
+  }
+}

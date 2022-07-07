@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-14T18:18:41.000Z",
+  "checkedAt": "2022-05-14T18:18:41.000Z",
+  "id": 4618,
+  "type": "anime",
+  "title": "RideBack",
+  "altTitle": [
+    "Ride Back",
+    "ライドバック"
+  ],
+  "url": "https://myanimelist.net/anime/4618/RideBack",
+  "image": "https://cdn.myanimelist.net/images/anime/9/21745.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mxtv.co.jp/rideback/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6235"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8049"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rideback"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/rideback"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6235,
+  "Pages": {
+    "9anime": {
+      "3pq8": {
+        "createdAt": "2020-10-12T15:49:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1907,
+        "identifier": "3pq8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RideBack",
+        "url": "https://9anime.to/watch/rideback.3pq8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-C8oudB1izKQ/V6mzZm6PqeI/AAAAAAAA1sE/nD6GYbKnP5k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4618,
+        "aniId": 4618,
+        "deletedAt": null
+      },
+      "7yk7": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3650,
+        "identifier": "7yk7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RideBack (Dub)",
+        "url": "https://9anime.to/watch/rideback-dub.7yk7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WgmvhhAQ5A0/WCVsRI1xSxI/AAAAAAABOSk/DywRFD3a3U8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4618,
+        "aniId": 4618,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rideback-dub": {
+        "createdAt": "2021-01-05T21:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33035,
+        "identifier": "rideback-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "RideBack\t (Dub)",
+        "url": "https://gogoanime.vc/category/rideback-dub",
+        "image": "https://gogocdn.net/cover/rideback-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4618,
+        "aniId": 4618,
+        "deletedAt": null
+      },
+      "rideback": {
+        "createdAt": "2022-03-02T06:10:41.000Z",
+        "updatedAt": "2022-03-02T06:40:28.000Z",
+        "checkedAt": null,
+        "id": 40359,
+        "identifier": "rideback",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rideback",
+        "url": "https://gogoanime.fi/category/rideback",
+        "image": "https://gogocdn.net/images/anime/R/Rideback.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4618,
+        "aniId": 4618,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "849": {
+        "identifier": "849",
+        "malId": 4618,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "RideBack",
+        "url": "https://animepahe.com/a/849"
+      }
+    },
+    "AniMixPlay": {
+      "4618": {
+        "identifier": "4618",
+        "malId": 4618,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "RideBack",
+        "url": "https://animixplay.to/anime/4618"
+      }
+    },
+    "YugenAnime": {
+      "1260": {
+        "identifier": "1260",
+        "malId": 4618,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "RideBack",
+        "url": "https://yugen.to/anime/1260/rideback-uubb/"
+      }
+    }
+  }
+}

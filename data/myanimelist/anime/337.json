@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T22:30:23.000Z",
+  "checkedAt": "2022-05-14T22:30:23.000Z",
+  "id": 337,
+  "type": "anime",
+  "title": "Psychic Academy",
+  "altTitle": [
+    "Psychic Academy Aura Banshou",
+    "Psychic Academy",
+    "サイキックアカデミー煌羅万象"
+  ],
+  "url": "https://myanimelist.net/anime/337/Psychic_Academy",
+  "image": "https://cdn.myanimelist.net/images/anime/1886/98806.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/aura/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=157"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=880"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 157,
+  "Pages": {
+    "9anime": {
+      "l1xz": {
+        "createdAt": "2020-10-12T15:52:55.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5763,
+        "identifier": "l1xz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Psychic Academy",
+        "url": "https://9anime.to/watch/psychic-academy.l1xz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6-MN6EWooRQ/V8zU8BzV_tI/AAAAAAAA7bU/BLxhOzkK3Fc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 337,
+        "aniId": 337,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "psychic-academy": {
+        "createdAt": "2021-01-02T08:20:43.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32571,
+        "identifier": "psychic-academy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Psychic Academy",
+        "url": "https://gogoanime.vc/category/psychic-academy",
+        "image": "https://gogocdn.net/images/anime/P/Psychic-Academy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 337,
+        "aniId": 337,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "337": {
+        "identifier": "337",
+        "malId": 337,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Psychic Academy",
+        "url": "https://animixplay.to/anime/337"
+      }
+    },
+    "YugenAnime": {
+      "1386": {
+        "identifier": "1386",
+        "malId": 337,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Psychic Academy",
+        "url": "https://yugen.to/anime/1386/psychic-academy/"
+      }
+    }
+  }
+}

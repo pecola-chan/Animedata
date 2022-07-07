@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T16:01:33.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20005,
+  "identifier": "patalliro",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Patalliro",
+  "url": "https://gogoanime.vc/category/patalliro",
+  "image": "https://cdnimg.xyz/cover/patalliro.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2835,
+  "aniId": 2835,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:33.000Z",
+    "updatedAt": "2022-05-14T23:06:05.000Z",
+    "checkedAt": "2022-05-14T23:06:05.000Z",
+    "id": 2835,
+    "type": "anime",
+    "title": "Patalliro!",
+    "altTitle": [
+      "Boku Pataliro!",
+      "Boku",
+      "Patariro",
+      "I Pataliro!",
+      "Patarillo",
+      "パタリロ！"
+    ],
+    "url": "https://myanimelist.net/anime/2835/Patalliro",
+    "image": "https://cdn.myanimelist.net/images/anime/2/56443.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.patalliro.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2990"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1228"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Patalliro!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2990
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:31.000Z",
+    "updatedAt": "2022-05-15T19:31:23.000Z",
+    "checkedAt": "2022-05-15T19:31:23.000Z",
+    "id": 2835,
+    "type": "anime",
+    "title": "Patalliro!",
+    "altTitle": [
+      "パタリロ！",
+      "Boku Pataliro!",
+      "Boku",
+      "Patariro",
+      "I Pataliro!"
+    ],
+    "url": "https://anilist.co/anime/2835",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2835-2iugxDsTZz74.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2835,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T22:37:34.000Z",
+  "checkedAt": "2022-05-14T22:37:34.000Z",
+  "id": 1749,
+  "type": "anime",
+  "title": "Amaenaide yo!!: Yasumanaide yo!!",
+  "altTitle": [
+    "Amaenaide yo!! Special",
+    "Ah! My Buddha Special",
+    "あまえないでよっ!!: 休まないでよっ!!"
+  ],
+  "url": "https://myanimelist.net/anime/1749/Amaenaide_yo__Yasumanaide_yo",
+  "image": "https://cdn.myanimelist.net/images/anime/12/32069.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3168"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5381"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amaenaideyo%21%21"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3168,
+  "Pages": {
+    "9anime": {
+      "nlzk": {
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7123,
+        "identifier": "nlzk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ah! My Buddha Special",
+        "url": "https://9anime.to/watch/ah-my-buddha-special.nlzk",
+        "image": "https://static.akacdn.ru/files/images/2020/01/286d675b88e66eba645747249d20c1fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1749,
+        "aniId": 1749,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "createdAt": "2022-03-07T05:59:51.000Z",
+  "updatedAt": "2022-03-07T06:29:39.000Z",
+  "checkedAt": null,
+  "id": 40406,
+  "identifier": "tales-of-puppet",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tales of Puppet",
+  "url": "https://gogoanime.fi/category/tales-of-puppet",
+  "image": "https://gogocdn.net/cover/tales-of-puppet.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38112,
+  "aniId": 110331,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-07-27T01:51:48.000Z",
+    "updatedAt": "2022-05-14T22:27:23.000Z",
+    "checkedAt": "2022-05-14T22:27:23.000Z",
+    "id": 38112,
+    "type": "anime",
+    "title": "Tales of Puppet",
+    "altTitle": [
+      "Tales of Puppet",
+      "TALES OF パペット"
+    ],
+    "url": "https://myanimelist.net/anime/38112/Tales_of_Puppet",
+    "image": "https://cdn.myanimelist.net/images/anime/1534/93342.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://tales-ch.jp/special_index.php?ms_id=168"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-06-06T06:18:57.000Z",
+    "updatedAt": "2022-05-15T15:32:47.000Z",
+    "checkedAt": "2022-05-15T15:32:47.000Z",
+    "id": 110331,
+    "type": "anime",
+    "title": "Tales of Puppet",
+    "altTitle": [
+      "TALES OF パペット"
+    ],
+    "url": "https://anilist.co/anime/110331",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110331-tIj7flS6hwiY.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38112,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T21:22:53.000Z",
+  "checkedAt": "2022-05-14T21:22:53.000Z",
+  "id": 7591,
+  "type": "anime",
+  "title": "Tono to Issho",
+  "altTitle": [
+    "殿といっしょ"
+  ],
+  "url": "https://myanimelist.net/anime/7591/Tono_to_Issho",
+  "image": "https://cdn.myanimelist.net/images/anime/5/18878.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tono-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7230"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11220"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tono_to_Issho"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7230,
+  "Pages": {
+    "9anime": {
+      "6qzz": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3159,
+        "identifier": "6qzz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tono to Issho",
+        "url": "https://9anime.to/watch/tono-to-issho.6qzz",
+        "image": "https://static.akacdn.ru/files/images/2018/06/e5f17420b5c43c3543ffcc988176e228.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7591,
+        "aniId": 7591,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "4151": {
+        "identifier": "4151",
+        "malId": 7591,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tono to Issho",
+        "url": "https://yugen.to/anime/4151/tono-to-issho/"
+      }
+    }
+  }
+}

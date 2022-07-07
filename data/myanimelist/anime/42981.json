@@ -1,0 +1,116 @@
+{
+  "createdAt": "2021-01-04T14:57:37.000Z",
+  "updatedAt": "2022-05-14T20:51:41.000Z",
+  "checkedAt": "2022-05-14T20:51:41.000Z",
+  "id": 42981,
+  "type": "anime",
+  "title": "Idolls!",
+  "altTitle": [
+    "Idolls!: Idol Survival",
+    "アイドールズ!"
+  ],
+  "url": "https://myanimelist.net/anime/42981/Idolls",
+  "image": "https://cdn.myanimelist.net/images/anime/1886/119199.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://wsy-idolls.com/anime"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15746"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23821"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%BC%E3%83%AB%E3%82%BA!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280511"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15746,
+  "Pages": {
+    "9anime": {
+      "lzy6": {
+        "createdAt": "2021-01-08T16:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33242,
+        "identifier": "lzy6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Idolls!",
+        "url": "https://9anime.to/watch/idolls.lzy6",
+        "image": "//static.bunnycdn.ru/i/cache/images/7/7b/7b4702556207089c7f96ecd3f46392cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42981,
+        "aniId": 124555,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "idolls": {
+        "createdAt": "2021-01-08T16:52:20.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33243,
+        "identifier": "idolls",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Idolls!",
+        "url": "https://gogoanime.vc/category/idolls",
+        "image": "https://gogocdn.net/cover/idolls.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42981,
+        "aniId": 124555,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4208": {
+        "identifier": "4208",
+        "malId": 42981,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Idolls!",
+        "url": "https://animepahe.com/a/4208"
+      }
+    },
+    "AniMixPlay": {
+      "42981": {
+        "identifier": "42981",
+        "malId": 42981,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Idolls!",
+        "url": "https://animixplay.to/anime/42981"
+      }
+    },
+    "YugenAnime": {
+      "7104": {
+        "identifier": "7104",
+        "malId": 42981,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Idolls!",
+        "url": "https://yugen.to/anime/7104/idolls/"
+      }
+    }
+  }
+}

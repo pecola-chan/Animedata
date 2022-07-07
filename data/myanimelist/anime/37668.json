@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-11-23T15:56:20.000Z",
+  "updatedAt": "2022-05-22T00:38:35.000Z",
+  "checkedAt": "2022-05-22T00:38:35.000Z",
+  "id": 37668,
+  "type": "anime",
+  "title": "Medama Oyaji no April Fools'",
+  "altTitle": [
+    "目玉おやじのエイプリルフール"
+  ],
+  "url": "https://myanimelist.net/anime/37668/Medama_Oyaji_no_April_Fools",
+  "image": "https://cdn.myanimelist.net/images/anime/1547/91683.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=CmJog_3_f4o"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13742"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13742,
+  "Pages": {
+    "9anime": {
+      "7nl8": {
+        "createdAt": "2020-12-09T14:01:41.000Z",
+        "updatedAt": "2020-12-09T14:01:41.000Z",
+        "checkedAt": null,
+        "id": 29832,
+        "identifier": "7nl8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Medama Oyaji no April Fools'",
+        "url": "https://9anime.to/watch/medama-oyaji-no-april-fools.7nl8",
+        "image": "//static.9anime.to/i/cache/images/a/ad/add093723d5d361c16a269f920a8cee3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37668,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

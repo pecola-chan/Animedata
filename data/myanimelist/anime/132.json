@@ -1,0 +1,164 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T18:37:59.000Z",
+  "checkedAt": "2022-05-14T18:37:59.000Z",
+  "id": 132,
+  "type": "anime",
+  "title": "GetBackers",
+  "altTitle": [
+    "GetBackers: Dakkan'ya",
+    "Getbackers",
+    "ゲットバッカーズ　奪還屋"
+  ],
+  "url": "https://myanimelist.net/anime/132/GetBackers",
+  "image": "https://cdn.myanimelist.net/images/anime/4/7547.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/getbackers/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=272"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1840"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Get_Backers"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/get-backers"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 272,
+  "Pages": {
+    "9anime": {
+      "6wqz": {
+        "createdAt": "2020-10-12T15:50:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3222,
+        "identifier": "6wqz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Getbackers",
+        "url": "https://9anime.to/watch/getbackers.6wqz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-QDxMJ2VaRBo/V7FtljoetCI/AAAAAAAA3N8/wVPpVxhk-S4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 132,
+        "aniId": 132,
+        "deletedAt": null
+      },
+      "km09": {
+        "createdAt": "2020-10-12T15:52:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5501,
+        "identifier": "km09",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Getbackers (Dub)",
+        "url": "https://9anime.to/watch/getbackers-dub.km09",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rUsnJm_-wu4/V-JzgyqWMnI/AAAAAAAA_U4/bok1h7C_8Eo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 132,
+        "aniId": 132,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "getbackers-dub": {
+        "createdAt": "2020-11-29T22:52:41.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29602,
+        "identifier": "getbackers-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "GetBackers (Dub)",
+        "url": "https://gogoanime.vc/category/getbackers-dub",
+        "image": "https://gogocdn.net/cover/getbackers-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 132,
+        "aniId": 132,
+        "deletedAt": null
+      },
+      "get-backers": {
+        "createdAt": "2021-03-25T01:49:18.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35927,
+        "identifier": "get-backers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Get Backers",
+        "url": "https://gogoanime.vc/category/get-backers",
+        "image": "https://gogocdn.net/images/anime/G/get-backers.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 132,
+        "aniId": 132,
+        "deletedAt": null
+      },
+      "getbackers": {
+        "createdAt": "2021-10-16T09:29:11.000Z",
+        "updatedAt": "2021-10-16T09:58:44.000Z",
+        "checkedAt": null,
+        "id": 39034,
+        "identifier": "getbackers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "GetBackers",
+        "url": "https://gogoanime.pe/category/getbackers",
+        "image": "https://gogocdn.net/cover/getbackers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 132,
+        "aniId": 132,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "132": {
+        "identifier": "132",
+        "malId": 132,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "GetBackers",
+        "url": "https://animixplay.to/anime/132"
+      }
+    },
+    "YugenAnime": {
+      "3383": {
+        "identifier": "3383",
+        "malId": 132,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "GetBackers",
+        "url": "https://yugen.to/anime/3383/getbackers/"
+      }
+    }
+  }
+}

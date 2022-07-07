@@ -1,0 +1,141 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T15:59:08.000Z",
+  "checkedAt": "2022-05-14T15:59:08.000Z",
+  "id": 526,
+  "type": "anime",
+  "title": "Boku no Chikyuu wo Mamotte",
+  "altTitle": [
+    "Bokutama",
+    "PSME",
+    "Please Save My Earth",
+    "ぼくの地球を守って"
+  ],
+  "url": "https://myanimelist.net/anime/526/Boku_no_Chikyuu_wo_Mamotte",
+  "image": "https://cdn.myanimelist.net/images/anime/5/25035.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jvcmusic.co.jp/m-serve/ova/bokutama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=327"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=195"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Please_Save_My_Earth"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 327,
+  "Pages": {
+    "9anime": {
+      "9q3x": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4403,
+        "identifier": "9q3x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boku no Chikyuu wo Mamotte (Dub)",
+        "url": "https://9anime.to/watch/boku-no-chikyuu-wo-mamotte-dub.9q3x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0g1v3u7r6K0/WIBpBKm_jCI/AAAAAAABaHI/pi0WxCUdHQM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 526,
+        "aniId": 526,
+        "deletedAt": null
+      },
+      "r06o": {
+        "createdAt": "2020-10-12T15:55:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8683,
+        "identifier": "r06o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boku no Chikyuu wo Mamotte",
+        "url": "https://9anime.to/watch/boku-no-chikyuu-wo-mamotte.r06o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LZ0JkAIFgdY/WIBZU4rAoOI/AAAAAAABaFE/LRMvIrASvxw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 526,
+        "aniId": 526,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "boku-no-chikyuu-wo-mamotte": {
+        "createdAt": "2021-03-23T13:05:03.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35882,
+        "identifier": "boku-no-chikyuu-wo-mamotte",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Boku no Chikyuu wo Mamotte",
+        "url": "https://gogoanime.vc/category/boku-no-chikyuu-wo-mamotte",
+        "image": "https://gogocdn.net/cover/boku-no-chikyuu-wo-mamotte.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 526,
+        "aniId": 526,
+        "deletedAt": null
+      },
+      "please-save-my-earth-dub": {
+        "createdAt": "2021-07-24T13:22:56.000Z",
+        "updatedAt": "2021-07-24T13:51:33.000Z",
+        "checkedAt": null,
+        "id": 38008,
+        "identifier": "please-save-my-earth-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Please Save My Earth (Dub)",
+        "url": "https://gogoanime.pe/category/please-save-my-earth-dub",
+        "image": "https://gogocdn.net/cover/please-save-my-earth-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 526,
+        "aniId": 526,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "526": {
+        "identifier": "526",
+        "malId": 526,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Boku no Chikyuu wo Mamotte",
+        "url": "https://animixplay.to/anime/526"
+      }
+    },
+    "YugenAnime": {
+      "4029": {
+        "identifier": "4029",
+        "malId": 526,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Boku no Chikyuu wo Mamotte",
+        "url": "https://yugen.to/anime/4029/boku-no-chikyuu-wo-mamotte/"
+      }
+    }
+  }
+}

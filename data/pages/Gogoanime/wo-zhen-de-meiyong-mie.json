@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-06-18T12:25:43.000Z",
+  "updatedAt": "2021-06-18T12:50:49.000Z",
+  "checkedAt": null,
+  "id": 37428,
+  "identifier": "wo-zhen-de-meiyong-mie",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Wo Zhen de Meiyong Mie?",
+  "url": "https://gogoanime.vc/category/wo-zhen-de-meiyong-mie",
+  "image": "https://gogocdn.net/cover/wo-zhen-de-meiyong-mie.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 48844,
+  "aniId": 121477,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-05-02T17:03:52.000Z",
+    "updatedAt": "2022-06-05T15:18:10.000Z",
+    "checkedAt": "2022-06-05T15:18:10.000Z",
+    "id": 48844,
+    "type": "anime",
+    "title": "Wo Zhen de Meiyong Mie?",
+    "altTitle": [
+      "Wo Zhen de Mei Yong Mie?",
+      "Call Star",
+      "我真的没用咩？"
+    ],
+    "url": "https://myanimelist.net/anime/48844/Wo_Zhen_de_Meiyong_Mie",
+    "image": "https://cdn.myanimelist.net/images/anime/1703/114630.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28223063/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%88%91%E7%9C%9F%E7%9A%84%E6%B2%A1%E7%94%A8%E5%92%A9%EF%BC%9F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:16.000Z",
+    "updatedAt": "2022-06-05T15:18:10.000Z",
+    "checkedAt": "2022-06-05T15:18:10.000Z",
+    "id": 121477,
+    "type": "anime",
+    "title": "Wo Zhen de Meiyong Mie?",
+    "altTitle": [
+      "我真的没用咩？",
+      "Am I really useless?",
+      "\"Super\" Star",
+      "Call Star"
+    ],
+    "url": "https://anilist.co/anime/121477",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121477-tSUVG4fJcKrH.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 48844,
+    "deletedAt": null
+  }
+}

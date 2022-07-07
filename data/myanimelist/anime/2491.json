@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T22:58:47.000Z",
+  "checkedAt": "2022-05-14T22:58:47.000Z",
+  "id": 2491,
+  "type": "anime",
+  "title": "Touch: Sebangou no Nai Ace",
+  "altTitle": [
+    "Touch: Ace Without A Number On His Back",
+    "タッチ 背番号のないエース"
+  ],
+  "url": "https://myanimelist.net/anime/2491/Touch__Sebangou_no_Nai_Ace",
+  "image": "https://cdn.myanimelist.net/images/anime/4/21457.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2556"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3267"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2556,
+  "Pages": {
+    "9anime": {
+      "1l5w": {
+        "createdAt": "2020-10-12T15:49:13.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 990,
+        "identifier": "1l5w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Touch: Sebangou no Nai Ace",
+        "url": "https://9anime.to/watch/touch-sebangou-no-nai-ace.1l5w",
+        "image": "https://static.akacdn.ru/files/images/2018/07/aad7fda80e5b7b41d117e7b11f9925ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2491,
+        "aniId": 2491,
+        "deletedAt": null
+      }
+    }
+  }
+}

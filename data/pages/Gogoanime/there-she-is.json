@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-10-05T21:02:17.000Z",
+  "updatedAt": "2021-10-05T21:32:17.000Z",
+  "checkedAt": null,
+  "id": 38886,
+  "identifier": "there-she-is",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "There She Is!!",
+  "url": "https://gogoanime.pe/category/there-she-is",
+  "image": "https://gogocdn.net/cover/there-she-is.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6505,
+  "aniId": 6505,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:51.000Z",
+    "updatedAt": "2022-05-14T22:01:29.000Z",
+    "checkedAt": "2022-05-14T22:01:29.000Z",
+    "id": 6505,
+    "type": "anime",
+    "title": "There She Is!!",
+    "altTitle": [
+      "떳다 그녀!!"
+    ],
+    "url": "https://myanimelist.net/anime/6505/There_She_Is",
+    "image": "https://cdn.myanimelist.net/images/anime/2/29995.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sambakza.net/works_tsi/tsi_main.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8043"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/There_she_is"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8043
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:57.000Z",
+    "updatedAt": "2022-05-15T18:14:11.000Z",
+    "checkedAt": "2022-05-15T18:14:11.000Z",
+    "id": 6505,
+    "type": "anime",
+    "title": "Tteotda Keunyeo!!",
+    "altTitle": [
+      "There She Is!!",
+      "떳다 그녀!!"
+    ],
+    "url": "https://anilist.co/anime/6505",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6505.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6505,
+    "deletedAt": null
+  }
+}

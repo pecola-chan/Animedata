@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-10-27T08:01:30.000Z",
+  "updatedAt": "2021-10-27T08:15:57.000Z",
+  "checkedAt": null,
+  "id": 39115,
+  "identifier": "gundam-breaker-battlogue",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gundam Breaker: Battlogue",
+  "url": "https://gogoanime.pe/category/gundam-breaker-battlogue",
+  "image": "https://gogocdn.net/cover/gundam-breaker-battlogue.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 49211,
+  "aniId": 135645,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-10-05T04:33:08.000Z",
+    "updatedAt": "2022-05-15T00:53:35.000Z",
+    "checkedAt": "2022-05-15T00:53:35.000Z",
+    "id": 49211,
+    "type": "anime",
+    "title": "Gundam Breaker: Battlogue",
+    "altTitle": [
+      "ガンダムブレイカー バトローグ"
+    ],
+    "url": "https://myanimelist.net/anime/49211/Gundam_Breaker__Battlogue",
+    "image": "https://cdn.myanimelist.net/images/anime/1712/117280.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://g-bb.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16384"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24456"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16384
+  },
+  "Ani": {
+    "createdAt": "2021-06-15T12:27:33.000Z",
+    "updatedAt": "2022-05-15T17:22:11.000Z",
+    "checkedAt": "2022-05-15T17:22:11.000Z",
+    "id": 135645,
+    "type": "anime",
+    "title": "Gundam Breaker Battlogue",
+    "altTitle": [
+      "ガンダムブレイカー バトルローグ",
+      "高达破坏者 对战记录"
+    ],
+    "url": "https://anilist.co/anime/135645",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135645-rwUKbXACM0UV.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49211,
+    "deletedAt": null
+  }
+}

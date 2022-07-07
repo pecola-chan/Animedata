@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T16:01:19.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19524,
+  "identifier": "momoiro-sisters",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Momoiro Sisters",
+  "url": "https://gogoanime.vc/category/momoiro-sisters",
+  "image": "https://cdnimg.xyz/cover/momoiro-sisters.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1188,
+  "aniId": 1188,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:14.000Z",
+    "updatedAt": "2022-05-14T20:37:05.000Z",
+    "checkedAt": "2022-05-14T20:37:05.000Z",
+    "id": 1188,
+    "type": "anime",
+    "title": "Momoiro Sisters",
+    "altTitle": [
+      "Pink Sisters",
+      "ももいろシスターズ"
+    ],
+    "url": "https://myanimelist.net/anime/1188/Momoiro_Sisters",
+    "image": "https://cdn.myanimelist.net/images/anime/7/15422.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=194"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1327"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 194
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:01.000Z",
+    "updatedAt": "2022-05-15T21:40:59.000Z",
+    "checkedAt": "2022-05-15T21:40:59.000Z",
+    "id": 1188,
+    "type": "anime",
+    "title": "Momoiro Sisters",
+    "altTitle": [
+      "ももいろシスターズ",
+      "Pink Sisters"
+    ],
+    "url": "https://anilist.co/anime/1188",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1188.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1188,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-15T01:29:28.000Z",
+  "checkedAt": "2022-05-15T01:29:28.000Z",
+  "id": 654,
+  "type": "anime",
+  "title": "Galaxy Angel 3 Specials",
+  "altTitle": [
+    "Galaxy Angel AA",
+    "Galaxy Angel AA",
+    "ギャラクシーエンジェルＡＡ"
+  ],
+  "url": "https://myanimelist.net/anime/654/Galaxy_Angel_3_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/8/6758.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=260"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2142"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Galaxy_Angel"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 260,
+  "Pages": {
+    "9anime": {
+      "0xw5": {
+        "createdAt": "2020-10-12T15:48:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 722,
+        "identifier": "0xw5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Galaxy Angel 3 Specials",
+        "url": "https://9anime.to/watch/galaxy-angel-3-specials.0xw5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8HYxZAdnbaU/V_nJ7GLOZ4I/AAAAAAABFgM/WJq96HQEBWc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 654,
+        "aniId": 654,
+        "deletedAt": null
+      },
+      "1vxp": {
+        "createdAt": "2020-10-12T15:49:19.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1133,
+        "identifier": "1vxp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Galaxy Angel 3 Specials (Dub)",
+        "url": "https://9anime.to/watch/galaxy-angel-3-specials-dub.1vxp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rH9SP1zTels/V_nKELnfzuI/AAAAAAABFgU/Fl1LkHypXqA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 654,
+        "aniId": 654,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "galaxy-angel-3-specials": {
+        "createdAt": "2021-02-21T13:04:29.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35122,
+        "identifier": "galaxy-angel-3-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Galaxy Angel 3 Specials",
+        "url": "https://gogoanime.vc/category/galaxy-angel-3-specials",
+        "image": "https://gogocdn.net/cover/galaxy-angel-3-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 654,
+        "aniId": 654,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "654": {
+        "identifier": "654",
+        "malId": 654,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Galaxy Angel 3 Specials",
+        "url": "https://animixplay.to/anime/654"
+      }
+    },
+    "YugenAnime": {
+      "7267": {
+        "identifier": "7267",
+        "malId": 654,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Galaxy Angel 3 Specials",
+        "url": "https://yugen.to/anime/7267/galaxy-angel-3-specials/"
+      }
+    }
+  }
+}

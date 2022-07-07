@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-06-17T14:23:56.000Z",
+  "checkedAt": "2022-06-17T14:23:56.000Z",
+  "id": 20713,
+  "type": "anime",
+  "title": "Mai Zhu",
+  "altTitle": [
+    "Pig Sale",
+    "卖猪"
+  ],
+  "url": "https://myanimelist.net/anime/20713/Mai_Zhu",
+  "image": "https://cdn.myanimelist.net/images/anime/8/54833.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10073"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10073,
+  "Pages": {
+    "9anime": {
+      "797j": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3408,
+        "identifier": "797j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai Zhu",
+        "url": "https://9anime.to/watch/mai-zhu.797j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BJ1Rnu8JqkQ/WMJMbmdhDNI/AAAAAAABfJg/OiwM5JHvINc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20713,
+        "aniId": 101974,
+        "deletedAt": null
+      }
+    }
+  }
+}

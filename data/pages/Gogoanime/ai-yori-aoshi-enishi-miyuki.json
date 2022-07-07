@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-12-03T20:16:27.000Z",
+  "updatedAt": "2021-12-03T20:46:05.000Z",
+  "checkedAt": null,
+  "id": 39375,
+  "identifier": "ai-yori-aoshi-enishi-miyuki",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ai Yori Aoshi: Enishi - Miyuki",
+  "url": "https://gogoanime.cm/category/ai-yori-aoshi-enishi-miyuki",
+  "image": "https://gogocdn.net/cover/ai-yori-aoshi-enishi-miyuki.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3266,
+  "aniId": 3266,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:36.000Z",
+    "updatedAt": "2022-05-14T22:37:53.000Z",
+    "checkedAt": "2022-05-14T22:37:53.000Z",
+    "id": 3266,
+    "type": "anime",
+    "title": "Ai Yori Aoshi: Enishi - Miyuki",
+    "altTitle": [
+      "藍より青し～縁～ Miyuki"
+    ],
+    "url": "https://myanimelist.net/anime/3266/Ai_Yori_Aoshi__Enishi_-_Miyuki",
+    "image": "https://cdn.myanimelist.net/images/anime/7/10173.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aiyoriaoshi.com/enishi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1059"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2568"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ai_Yori_Aoshi"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1059
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:37.000Z",
+    "updatedAt": "2022-05-15T16:34:23.000Z",
+    "checkedAt": "2022-05-15T16:34:23.000Z",
+    "id": 3266,
+    "type": "anime",
+    "title": "Ai Yori Aoshi: Enishi - Miyuki",
+    "altTitle": [
+      "藍より青し～縁～ Miyuki"
+    ],
+    "url": "https://anilist.co/anime/3266",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3266.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3266,
+    "deletedAt": null
+  }
+}

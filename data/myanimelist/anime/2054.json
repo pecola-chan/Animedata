@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-15T01:37:43.000Z",
+  "checkedAt": "2022-05-15T01:37:43.000Z",
+  "id": 2054,
+  "type": "anime",
+  "title": "Carol",
+  "altTitle": [
+    "Carol: A Day In A Girl's Life",
+    "CAROL"
+  ],
+  "url": "https://myanimelist.net/anime/2054/Carol",
+  "image": "https://cdn.myanimelist.net/images/anime/1306/103782.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4001"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3225"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Carol_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4001,
+  "Pages": {
+    "9anime": {
+      "m5lx": {
+        "createdAt": "2020-10-12T15:53:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6421,
+        "identifier": "m5lx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "CAROL",
+        "url": "https://9anime.to/watch/carol.m5lx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vz0-ryj5lf0/WPhsWYbYJkI/AAAAAAAAi4Q/f1ELKKvd5eE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2054,
+        "aniId": 2054,
+        "deletedAt": null
+      }
+    }
+  }
+}

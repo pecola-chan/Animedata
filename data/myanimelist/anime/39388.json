@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T17:49:23.000Z",
+  "checkedAt": "2022-05-14T17:49:23.000Z",
+  "id": 39388,
+  "type": "anime",
+  "title": "Koisuru Asteroid",
+  "altTitle": [
+    "Koisuru Shouwakusei",
+    "Asteroid in Love",
+    "恋する小惑星〈アストロイド〉"
+  ],
+  "url": "https://myanimelist.net/anime/39388/Koisuru_Asteroid",
+  "image": "https://cdn.myanimelist.net/images/anime/1142/111693.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://koiastv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14707"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22609"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asteroid_in_Love#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278924"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/asteroid-in-love"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14707,
+  "Pages": {
+    "9anime": {
+      "0z05": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 748,
+        "identifier": "0z05",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asteroid in Love (Dub)",
+        "url": "https://9anime.to/watch/asteroid-in-love-dub.0z05",
+        "image": "https://static.akacdn.ru/files/images/2020/03/e1f3277dc511e1c6954043a50894e5ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39388,
+        "aniId": 108092,
+        "deletedAt": null
+      },
+      "zjo3": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11140,
+        "identifier": "zjo3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koisuru Asteroid",
+        "url": "https://9anime.to/watch/koisuru-asteroid.zjo3",
+        "image": "https://static.akacdn.ru/files/images/2020/01/39bc9b9c519f3c5525877b3076e4abe4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39388,
+        "aniId": 108092,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koisuru-asteroid": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18920,
+        "identifier": "koisuru-asteroid",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koisuru Asteroid",
+        "url": "https://gogoanime.vc/category/koisuru-asteroid",
+        "image": "https://cdnimg.xyz/cover/koisuru-asteroid.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39388,
+        "aniId": 108092,
+        "deletedAt": null
+      },
+      "koisuru-asteroid-dub": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18921,
+        "identifier": "koisuru-asteroid-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koisuru Asteroid (Dub)",
+        "url": "https://gogoanime.vc/category/koisuru-asteroid-dub",
+        "image": "https://gogocdn.net/cover/koisuru-asteroid-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39388,
+        "aniId": 108092,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3659": {
+        "identifier": "3659",
+        "malId": 39388,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koisuru Asteroid",
+        "url": "https://animepahe.com/a/3659"
+      }
+    },
+    "AniMixPlay": {
+      "39388": {
+        "identifier": "39388",
+        "malId": 39388,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koisuru Asteroid",
+        "url": "https://animixplay.to/anime/39388"
+      }
+    },
+    "YugenAnime": {
+      "6117": {
+        "identifier": "6117",
+        "malId": 39388,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koisuru Asteroid",
+        "url": "https://yugen.to/anime/6117/koisuru-asteroid/"
+      }
+    }
+  }
+}

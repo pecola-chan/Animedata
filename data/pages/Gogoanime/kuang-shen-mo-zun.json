@@ -1,0 +1,68 @@
+{
+  "createdAt": "2021-05-21T01:13:28.000Z",
+  "updatedAt": "2021-06-29T19:50:01.000Z",
+  "checkedAt": null,
+  "id": 37078,
+  "identifier": "kuang-shen-mo-zun",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kuang Shen Mo Zun",
+  "url": "https://gogoanime.vc/category/kuang-shen-mo-zun",
+  "image": "https://gogocdn.net/cover/kuang-shen-mo-zun.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 48942,
+  "aniId": 133869,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-05-23T17:08:57.000Z",
+    "updatedAt": "2022-05-14T19:12:47.000Z",
+    "checkedAt": "2022-05-14T19:12:47.000Z",
+    "id": 48942,
+    "type": "anime",
+    "title": "Kuang Shen Mo Zun",
+    "altTitle": [
+      "The Lord of Rogue Devil",
+      "Mad Demon Lord",
+      "狂神魔尊"
+    ],
+    "url": "https://myanimelist.net/anime/48942/Kuang_Shen_Mo_Zun",
+    "image": "https://cdn.myanimelist.net/images/anime/1084/114888.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/m/mzc00200wzqlm1h.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E7%8B%82%E7%A5%9E%E9%AD%94%E5%B0%8A/55667887"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-06-29T19:20:01.000Z",
+    "updatedAt": "2022-05-15T11:55:23.000Z",
+    "checkedAt": "2022-05-15T11:55:23.000Z",
+    "id": 133869,
+    "type": "anime",
+    "title": "Kuang Shenmo Zun",
+    "altTitle": [
+      "狂神魔尊",
+      "Mad Demon Lord"
+    ],
+    "url": "https://anilist.co/anime/133869",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133869-SByvjedZez51.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 48942,
+    "deletedAt": null
+  }
+}

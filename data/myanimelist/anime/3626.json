@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-15T00:02:41.000Z",
+  "checkedAt": "2022-05-15T00:02:41.000Z",
+  "id": 3626,
+  "type": "anime",
+  "title": "Mobile Suit Gundam Wing: Operation Meteor",
+  "altTitle": [
+    "Gundam Wing: Odd & Even Numbers",
+    "Gundam Wing: Operation Meteor",
+    "New Mobile Report Gundam Wing: Operation Meteor",
+    "Shin Kidou Senki Gundam Wing: Operation Meteor",
+    "Mobile Suit Gundam Wing: Operation Meteor",
+    "新機動戦記ガンダムＷ オペレーション・メテオ ODD＆EVEN NUMBERS"
+  ],
+  "url": "https://myanimelist.net/anime/3626/Mobile_Suit_Gundam_Wing__Operation_Meteor",
+  "image": "https://cdn.myanimelist.net/images/anime/1114/118424.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.b-ch.com/contents/w_gundam/#ova"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2853"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3932"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Wing"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2853,
+  "Pages": {
+    "9anime": {
+      "32ly": {
+        "createdAt": "2020-10-12T15:49:42.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1662,
+        "identifier": "32ly",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam Wing: Operation Meteor",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-wing-operation-meteor.32ly",
+        "image": "https://static.akacdn.ru/files/images/4/48/48c101915837488a2003912b078e5dcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3626,
+        "aniId": 3626,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mobile-suit-gundam-wing-operation-meteor": {
+        "createdAt": "2020-10-12T16:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19514,
+        "identifier": "mobile-suit-gundam-wing-operation-meteor",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mobile Suit Gundam Wing: Operation Meteor",
+        "url": "https://gogoanime.vc/category/mobile-suit-gundam-wing-operation-meteor",
+        "image": "https://gogocdn.net/cover/mobile-suit-gundam-wing-operation-meteor.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3626,
+        "aniId": 3626,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3626": {
+        "identifier": "3626",
+        "malId": 3626,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam Wing: Operation Meteor",
+        "url": "https://animixplay.to/anime/3626"
+      }
+    },
+    "YugenAnime": {
+      "5637": {
+        "identifier": "5637",
+        "malId": 3626,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit Gundam Wing: Operation Meteor",
+        "url": "https://yugen.to/anime/5637/mobile-suit-gundam-wing-operation-meteor/"
+      }
+    }
+  }
+}

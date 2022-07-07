@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-12-01T23:23:02.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29628,
+  "identifier": "junjou-romantica-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Junjou Romantica 2",
+  "url": "https://gogoanime.vc/category/junjou-romantica-2",
+  "image": "https://gogocdn.net/images/anime/J/Junjou-Romantica-2.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4814,
+  "aniId": 4814,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-14T21:15:47.000Z",
+    "checkedAt": "2022-05-14T21:15:47.000Z",
+    "id": 4814,
+    "type": "anime",
+    "title": "Junjou Romantica 2",
+    "altTitle": [
+      "Junjou Romantica Second Season",
+      "Junjyou Romantica II",
+      "Junjo Romantica 2",
+      "純情ロマンチカ2(に)"
+    ],
+    "url": "https://myanimelist.net/anime/4814/Junjou_Romantica_2",
+    "image": "https://cdn.myanimelist.net/images/anime/6/38417.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://suzukisan.info/romantica/index2.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6073"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10183"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Junjou_Romantica"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-271959"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 6073
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:37.000Z",
+    "updatedAt": "2022-05-15T17:46:23.000Z",
+    "checkedAt": "2022-05-15T17:46:23.000Z",
+    "id": 4814,
+    "type": "anime",
+    "title": "Junjou Romantica 2",
+    "altTitle": [
+      "Junjo Romantica 2",
+      "純情ロマンチカ2(に)",
+      "Junjou Romantica Second Season",
+      "Junjyou Romantica II"
+    ],
+    "url": "https://anilist.co/anime/4814",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4814-p0o6nYsrDA81.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/junjo-romantica/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/junjo-romantica"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRMGM57VR/Junjo-Romantica"
+      }
+    ],
+    "malId": 4814,
+    "deletedAt": null
+  }
+}

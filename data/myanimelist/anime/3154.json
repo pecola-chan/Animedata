@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-15T00:49:53.000Z",
+  "checkedAt": "2022-05-15T00:49:53.000Z",
+  "id": 3154,
+  "type": "anime",
+  "title": "Gatchaman",
+  "altTitle": [
+    "Kagaku Ninja-Tai Gatchaman 1994",
+    "GATCHAMAN"
+  ],
+  "url": "https://myanimelist.net/anime/3154/Gatchaman",
+  "image": "https://cdn.myanimelist.net/images/anime/6/63307.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works/archive/ova_gatchaman.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=858"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=318"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gatchaman_%28OVA%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 858,
+  "Pages": {
+    "9anime": {
+      "lnkn": {
+        "createdAt": "2020-10-12T15:53:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6112,
+        "identifier": "lnkn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GATCHAMAN",
+        "url": "https://9anime.to/watch/gatchaman.lnkn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oUBl0FCBi0c/V-ORBzDAEcI/AAAAAAAA_ho/Q0ms8d9_VSY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3154,
+        "aniId": 3154,
+        "deletedAt": null
+      },
+      "ro2m": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8930,
+        "identifier": "ro2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GATCHAMAN (Dub)",
+        "url": "https://9anime.to/watch/gatchaman-dub.ro2m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oDcoK1kjLd0/V8MEIahYDZI/AAAAAAAA6Gk/4hHmBZXUwX8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3154,
+        "aniId": 3154,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3154": {
+        "identifier": "3154",
+        "malId": 3154,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gatchaman",
+        "url": "https://animixplay.to/anime/3154"
+      }
+    },
+    "YugenAnime": {
+      "14090": {
+        "identifier": "14090",
+        "malId": 3154,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gatchaman",
+        "url": "https://yugen.to/anime/14090/ratchet-clank/"
+      }
+    }
+  }
+}

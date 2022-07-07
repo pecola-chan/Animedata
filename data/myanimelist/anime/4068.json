@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T22:58:23.000Z",
+  "checkedAt": "2022-05-14T22:58:23.000Z",
+  "id": 4068,
+  "type": "anime",
+  "title": "Shin Megami Tensei Devil Children: Light & Dark",
+  "altTitle": [
+    "真･女神転生Ｄチルドレン ライト＆ダーク"
+  ],
+  "url": "https://myanimelist.net/anime/4068/Shin_Megami_Tensei_Devil_Children__Light___Dark",
+  "image": "https://cdn.myanimelist.net/images/anime/5/23110.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1968"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1832"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Devil_Children"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1968,
+  "Pages": {
+    "9anime": {
+      "1n22x": {
+        "createdAt": "2021-06-29T10:04:38.000Z",
+        "updatedAt": "2021-07-13T18:50:49.000Z",
+        "checkedAt": null,
+        "id": 37574,
+        "identifier": "1n22x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Megami Tensei Devil Children: Light & Dark",
+        "url": "https://9anime.to/watch/shin-megami-tensei-devil-children-light-dark.1n22x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8f/8f12f9b251f8788ea8cd8b2153e4400a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4068,
+        "aniId": 4068,
+        "deletedAt": null
+      }
+    }
+  }
+}

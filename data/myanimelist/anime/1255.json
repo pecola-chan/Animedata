@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T21:56:42.000Z",
+  "checkedAt": "2022-05-14T21:56:42.000Z",
+  "id": 1255,
+  "type": "anime",
+  "title": "Saint Seiya: Shinku no Shounen Densetsu",
+  "altTitle": [
+    "Saint Seiya: Legend of Crimson Youth",
+    "聖闘士星矢 真紅の少年伝説"
+  ],
+  "url": "https://myanimelist.net/anime/1255/Saint_Seiya__Shinku_no_Shounen_Densetsu",
+  "image": "https://cdn.myanimelist.net/images/anime/11/52889.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1887"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3331"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Seiya:_Legend_of_Crimson_Youth"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1887,
+  "Pages": {
+    "9anime": {
+      "l6j6": {
+        "createdAt": "2020-10-12T15:53:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5888,
+        "identifier": "l6j6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint Seiya: Shinku no Shounen Densetsu",
+        "url": "https://9anime.to/watch/saint-seiya-shinku-no-shounen-densetsu.l6j6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xMqW88wnoxA/WHCs3_s00BI/AAAAAAABXos/gFunyxSpO4g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1255,
+        "aniId": 1255,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1255": {
+        "identifier": "1255",
+        "malId": 1255,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint Seiya: Shinku no Shounen Densetsu",
+        "url": "https://animixplay.to/anime/1255"
+      }
+    }
+  }
+}

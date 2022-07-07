@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T19:00:30.000Z",
+  "checkedAt": "2022-05-14T19:00:30.000Z",
+  "id": 33032,
+  "type": "anime",
+  "title": "Drifters: Special Edition",
+  "altTitle": [
+    "Drifters OVA",
+    "DRIFTERS Special edition"
+  ],
+  "url": "https://myanimelist.net/anime/33032/Drifters__Special_Edition",
+  "image": "https://cdn.myanimelist.net/images/anime/1141/97770.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nbcuni.co.jp/rondorobe/anime/drifters/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12038"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%95%E3%82%BF%E3%83%BC%E3%82%BA_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12038,
+  "Pages": {
+    "9anime": {
+      "ywqp": {
+        "createdAt": "2020-10-12T15:56:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10882,
+        "identifier": "ywqp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Drifters: Special Edition",
+        "url": "https://9anime.to/watch/drifters-special-edition.ywqp",
+        "image": "//static.9anime.to/i/cache/images/2018/04/5b3aa0cacaa31b52229be9d979d66fd9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33032,
+        "aniId": 122922,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "drifters-specials": {
+        "createdAt": "2020-10-12T16:00:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17502,
+        "identifier": "drifters-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Drifters Specials",
+        "url": "https://gogoanime.vc/category/drifters-specials",
+        "image": "https://cdnimg.xyz/cover/drifters-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33032,
+        "aniId": 122922,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33032": {
+        "identifier": "33032",
+        "malId": 33032,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Drifters: Special Edition",
+        "url": "https://animixplay.to/anime/33032"
+      }
+    }
+  }
+}

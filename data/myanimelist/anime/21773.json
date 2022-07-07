@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-15T01:33:31.000Z",
+  "checkedAt": "2022-05-15T01:33:31.000Z",
+  "id": 21773,
+  "type": "anime",
+  "title": "Sugar*Soldier",
+  "altTitle": [
+    "Sugar Soldier",
+    "Sugar * Soldier",
+    "Ribbon x Oha Suta Specials",
+    "Ribon x Oha Suta Specials",
+    "シュガー＊ソルジャー"
+  ],
+  "url": "https://myanimelist.net/anime/21773/SugarSoldier",
+  "image": "https://cdn.myanimelist.net/images/anime/9/57959.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ribon.shueisha.co.jp/ohasta/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10361"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sugar_Soldier"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10361,
+  "Pages": {
+    "9anime": {
+      "mjyv": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6563,
+        "identifier": "mjyv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sugar*Soldier",
+        "url": "https://9anime.to/watch/sugarsoldier.mjyv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-T_sP10-nkxU/V7k2z9_WloI/AAAAAAAA4k8/C4WHXOcoIBo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21773,
+        "aniId": 20584,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sugar-soldier": {
+        "createdAt": "2020-10-12T16:01:59.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20864,
+        "identifier": "sugar-soldier",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sugar Soldier",
+        "url": "https://gogoanime.vc/category/sugar-soldier",
+        "image": "https://cdnimg.xyz/images/anime/S/Sugar Soldier.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21773,
+        "aniId": 20584,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "21773": {
+        "identifier": "21773",
+        "malId": 21773,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sugar*Soldier",
+        "url": "https://animixplay.to/anime/21773"
+      }
+    },
+    "YugenAnime": {
+      "1083": {
+        "identifier": "1083",
+        "malId": 21773,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sugar*Soldier",
+        "url": "https://yugen.to/anime/1083/sugar-soldier/"
+      }
+    }
+  }
+}

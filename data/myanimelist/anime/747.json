@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-15T16:09:43.000Z",
+  "checkedAt": "2022-05-15T16:09:43.000Z",
+  "id": 747,
+  "type": "anime",
+  "title": "Haru wo Daite Ita",
+  "altTitle": [
+    "Haru wo Daiteita",
+    "Embracing Love",
+    "春を抱いていた"
+  ],
+  "url": "https://myanimelist.net/anime/747/Haru_wo_Daite_Ita",
+  "image": "https://cdn.myanimelist.net/images/anime/6/3718.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2600"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5215"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Embracing_Love"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2600,
+  "Pages": {
+    "9anime": {
+      "239q": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1253,
+        "identifier": "239q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haru wo Daite Ita",
+        "url": "https://9anime.to/watch/haru-wo-daite-ita.239q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-a4amVSTFT1A/WFfIBvi-V7I/AAAAAAABTkw/TEK1-2SV2Uw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 747,
+        "aniId": 747,
+        "deletedAt": null
+      }
+    }
+  }
+}

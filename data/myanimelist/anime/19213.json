@@ -1,0 +1,42 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-04-02T19:33:51.000Z",
+  "checkedAt": null,
+  "id": 19213,
+  "type": "anime",
+  "title": "Lost Utopia",
+  "altTitle": [
+    "LOST UTOPIA"
+  ],
+  "url": "https://myanimelist.net/anime/19213/Lost_Utopia",
+  "image": "https://cdn.myanimelist.net/images/anime/7/51513.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "kpm6": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5572,
+        "identifier": "kpm6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lost Utopia",
+        "url": "https://9anime.to/watch/lost-utopia.kpm6",
+        "image": "https://static.akacdn.ru/files/images/2018/05/7e189f0fb27fc289934e072a129ea339.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19213,
+        "aniId": 19213,
+        "deletedAt": null
+      }
+    }
+  }
+}

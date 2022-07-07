@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T17:56:53.000Z",
+  "checkedAt": "2022-05-14T17:56:53.000Z",
+  "id": 9331,
+  "type": "anime",
+  "title": "Yumekui Merry",
+  "altTitle": [
+    "Yumekui Merry",
+    "Dream Eater Merry",
+    "夢喰いメリー"
+  ],
+  "url": "https://myanimelist.net/anime/9331/Yumekui_Merry",
+  "image": "https://cdn.myanimelist.net/images/anime/3/30869.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/yumekui/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7725"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11765"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yumekui_Merry"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/dream-eater-merry"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7725,
+  "Pages": {
+    "9anime": {
+      "3vw9": {
+        "createdAt": "2020-10-12T15:49:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1956,
+        "identifier": "3vw9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yumekui Merry (Dub)",
+        "url": "https://9anime.to/watch/yumekui-merry-dub.3vw9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-31oyjOSed1Q/V_6C9xDlpgI/AAAAAAABHA8/6yeBfYYU7Ko/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9331,
+        "aniId": 9331,
+        "deletedAt": null
+      },
+      "4j8j": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2225,
+        "identifier": "4j8j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yumekui Merry",
+        "url": "https://9anime.to/watch/yumekui-merry.4j8j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ISuHcn9-8c0/V6WtavLzWmI/AAAAAAAA0wU/CGkhndZ9dI4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9331,
+        "aniId": 9331,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yumekui-merry": {
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21614,
+        "identifier": "yumekui-merry",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yumekui Merry",
+        "url": "https://gogoanime.vc/category/yumekui-merry",
+        "image": "https://cdnimg.xyz/images/anime/yumekui-merry.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9331,
+        "aniId": 9331,
+        "deletedAt": null
+      },
+      "yumekui-merry-dub": {
+        "createdAt": "2021-11-20T00:14:04.000Z",
+        "updatedAt": "2021-11-20T00:44:03.000Z",
+        "checkedAt": null,
+        "id": 39240,
+        "identifier": "yumekui-merry-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yumekui Merry (Dub)",
+        "url": "https://gogoanime.cm/category/yumekui-merry-dub",
+        "image": "https://gogocdn.net/cover/yumekui-merry-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9331,
+        "aniId": 9331,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "872": {
+        "identifier": "872",
+        "malId": 9331,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yumekui Merry",
+        "url": "https://animepahe.com/a/872"
+      }
+    },
+    "AniMixPlay": {
+      "9331": {
+        "identifier": "9331",
+        "malId": 9331,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yumekui Merry",
+        "url": "https://animixplay.to/anime/9331"
+      }
+    },
+    "YugenAnime": {
+      "3250": {
+        "identifier": "3250",
+        "malId": 9331,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yumekui Merry",
+        "url": "https://yugen.to/anime/3250/yumekui-merry/"
+      }
+    }
+  }
+}

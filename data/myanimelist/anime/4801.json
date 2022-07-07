@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-06-01T22:19:47.000Z",
+  "checkedAt": "2022-06-01T22:19:47.000Z",
+  "id": 4801,
+  "type": "anime",
+  "title": "Suhoyojeong Michel",
+  "altTitle": [
+    "Guardian Fairy Michel",
+    "Michel: The Little Guardian",
+    "Michel",
+    "수호요정 미셸"
+  ],
+  "url": "https://myanimelist.net/anime/4801/Suhoyojeong_Michel",
+  "image": "https://cdn.myanimelist.net/images/anime/8/9197.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbs.co.kr/2tv/michel/index.shtml"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5511"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6870"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5511,
+  "Pages": {
+    "9anime": {
+      "lk8z": {
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6025,
+        "identifier": "lk8z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Suhoyojeong Michel",
+        "url": "https://9anime.to/watch/suhoyojeong-michel.lk8z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_9kHaIGi4zY/WK29KXWIMHI/AAAAAAABdq8/ByHCAyWRtF0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4801,
+        "aniId": 4801,
+        "deletedAt": null
+      },
+      "mlzx": {
+        "createdAt": "2020-10-12T15:53:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6620,
+        "identifier": "mlzx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Suhoyojeong Michel (Dub)",
+        "url": "https://9anime.to/watch/suhoyojeong-michel-dub.mlzx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cHCACvQ0QCo/WK29O50ND7I/AAAAAAABdrA/d36gjmcUnco/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4801,
+        "aniId": 4801,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "suhoyojeong-michel": {
+        "createdAt": "2021-10-19T12:28:53.000Z",
+        "updatedAt": "2021-10-19T12:58:52.000Z",
+        "checkedAt": null,
+        "id": 39063,
+        "identifier": "suhoyojeong-michel",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Suhoyojeong Michel",
+        "url": "https://gogoanime.pe/category/suhoyojeong-michel",
+        "image": "https://gogocdn.net/cover/suhoyojeong-michel.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4801,
+        "aniId": 4801,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4801": {
+        "identifier": "4801",
+        "malId": 4801,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Suhoyojeong Michel",
+        "url": "https://animixplay.to/anime/4801"
+      }
+    },
+    "YugenAnime": {
+      "11264": {
+        "identifier": "11264",
+        "malId": 4801,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Suhoyojeong Michel",
+        "url": "https://yugen.to/anime/11264/suhoyojeong-michel/"
+      }
+    }
+  }
+}

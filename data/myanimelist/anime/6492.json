@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-15T13:36:07.000Z",
+  "checkedAt": "2022-05-15T13:36:07.000Z",
+  "id": 6492,
+  "type": "anime",
+  "title": "Minky Momo in Tabidachi no Eki",
+  "altTitle": [
+    "Minky Momo: Tabidachi no Eki",
+    "The Station of Your Memories",
+    "Station of Embarkation",
+    "Minky Momo OVA3",
+    "Minky Momo: The Station of Your Memories",
+    "MINKY MOMO in 旅立ちの駅"
+  ],
+  "url": "https://myanimelist.net/anime/6492/Minky_Momo_in_Tabidachi_no_Eki",
+  "image": "https://cdn.myanimelist.net/images/anime/1596/108440.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4014"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2806"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magical_Princess_Minky_Momo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4014,
+  "Pages": {
+    "9anime": {
+      "rxjn": {
+        "createdAt": "2020-10-12T15:55:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9067,
+        "identifier": "rxjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minky Momo: The Station of Your Memories",
+        "url": "https://9anime.to/watch/minky-momo-the-station-of-your-memories.rxjn",
+        "image": "https://static.akacdn.ru/files/images/2018/10/305244c11f4d5da6731a4dd8bd4bf7f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6492,
+        "aniId": 6492,
+        "deletedAt": null
+      }
+    }
+  }
+}

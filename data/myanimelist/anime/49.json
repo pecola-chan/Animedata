@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T18:54:23.000Z",
+  "checkedAt": "2022-05-14T18:54:23.000Z",
+  "id": 49,
+  "type": "anime",
+  "title": "Aa! Megami-sama!",
+  "altTitle": [
+    "Ah! My Goddess (OVA)",
+    "Oh! My Goddess",
+    "ああっ女神さまっ"
+  ],
+  "url": "https://myanimelist.net/anime/49/Aa_Megami-sama",
+  "image": "https://cdn.myanimelist.net/images/anime/11/71215.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=27"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=53"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Oh_My_Goddess!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 27,
+  "Pages": {
+    "9anime": {
+      "0om3": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 603,
+        "identifier": "0om3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa! Megami-sama! (Dub)",
+        "url": "https://9anime.to/watch/aa-megami-sama-dub.0om3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LfsJwOkvnCA/WACdiZjbu1I/AAAAAAABHmo/eAAaOTYBRUs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49,
+        "aniId": 49,
+        "deletedAt": null
+      },
+      "v9y2": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9332,
+        "identifier": "v9y2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa! Megami-sama!",
+        "url": "https://9anime.to/watch/oh-my-goddess.v9y2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/1632cd5a0ee2057e843aa04b967e5e98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 49,
+        "aniId": 49,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ah-my-goddess": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16394,
+        "identifier": "ah-my-goddess",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ah! My Goddess",
+        "url": "https://gogoanime.vc/category/ah-my-goddess",
+        "image": "https://cdnimg.xyz/images/anime/ah-my-goddess.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49,
+        "aniId": 49,
+        "deletedAt": null
+      },
+      "aa-megami-sama-tv-dub": {
+        "createdAt": "2020-10-12T17:57:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23760,
+        "identifier": "aa-megami-sama-tv-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aa! Megami-sama! (TV) (Dub)",
+        "url": "https://gogoanime.vc/category/aa-megami-sama-tv-dub",
+        "image": "https://gogocdn.net/cover/aa-megami-sama-tv-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49,
+        "aniId": 49,
+        "deletedAt": null
+      },
+      "aa-megami-sama": {
+        "createdAt": "2021-03-13T21:39:43.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35695,
+        "identifier": "aa-megami-sama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aa! Megami-sama!",
+        "url": "https://gogoanime.vc/category/aa-megami-sama",
+        "image": "https://gogocdn.net/cover/aa-megami-sama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49,
+        "aniId": 49,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "49": {
+        "identifier": "49",
+        "malId": 49,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aa! Megami-sama!",
+        "url": "https://animixplay.to/anime/49"
+      }
+    },
+    "YugenAnime": {
+      "194": {
+        "identifier": "194",
+        "malId": 49,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aa! Megami-sama!",
+        "url": "https://yugen.to/anime/194/ah-my-goddess/"
+      }
+    }
+  }
+}

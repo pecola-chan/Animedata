@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-14T20:57:17.000Z",
+  "checkedAt": "2022-05-14T20:57:17.000Z",
+  "id": 1399,
+  "type": "anime",
+  "title": "Macross 7 Encore",
+  "altTitle": [
+    "マクロス7アンコール"
+  ],
+  "url": "https://myanimelist.net/anime/1399/Macross_7_Encore",
+  "image": "https://cdn.myanimelist.net/images/anime/1514/96093.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1357"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=943"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1357,
+  "Pages": {
+    "9anime": {
+      "0q97": {
+        "createdAt": "2020-10-12T15:48:51.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 623,
+        "identifier": "0q97",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross 7 Encore",
+        "url": "https://9anime.to/watch/macross-7-encore.0q97",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9XMTsZq52hA/V6w0QdYPZBI/AAAAAAAA2SY/-P35zP2ac7c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1399,
+        "aniId": 1399,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "macross-7-encore": {
+        "createdAt": "2021-02-24T00:25:38.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35177,
+        "identifier": "macross-7-encore",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross 7 Encore",
+        "url": "https://gogoanime.vc/category/macross-7-encore",
+        "image": "https://gogocdn.net/images/Macross-7-Encore.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1399,
+        "aniId": 1399,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1399": {
+        "identifier": "1399",
+        "malId": 1399,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Macross 7 Encore",
+        "url": "https://animixplay.to/anime/1399"
+      }
+    },
+    "YugenAnime": {
+      "7270": {
+        "identifier": "7270",
+        "malId": 1399,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Macross 7 Encore",
+        "url": "https://yugen.to/anime/7270/macross-7-encore/"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:22.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17612,
+  "identifier": "fairy-tail-x-rave-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fairy Tail x Rave OVA",
+  "url": "https://gogoanime.vc/category/fairy-tail-x-rave-ova",
+  "image": "https://cdnimg.xyz/cover/fairy-tail-x-rave-ova.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 18393,
+  "aniId": 18393,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:20.000Z",
+    "updatedAt": "2022-05-14T22:03:41.000Z",
+    "checkedAt": "2022-05-14T22:03:41.000Z",
+    "id": 18393,
+    "type": "anime",
+    "title": "Fairy Tail x Rave",
+    "altTitle": [
+      "FAIRYTAIL×RAVE"
+    ],
+    "url": "https://myanimelist.net/anime/18393/Fairy_Tail_x_Rave",
+    "image": "https://cdn.myanimelist.net/images/anime/9/58513.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web.archive.org/web/20130622062422/kc.kodansha.co.jp/fairytail/limited39/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9834"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15504"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fairy_Tail"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9834
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:32.000Z",
+    "updatedAt": "2022-05-15T12:06:23.000Z",
+    "checkedAt": "2022-05-15T12:06:23.000Z",
+    "id": 18393,
+    "type": "anime",
+    "title": "FAIRY TAIL × RAVE",
+    "altTitle": [
+      "FAIRY TAIL × RAVE"
+    ],
+    "url": "https://anilist.co/anime/18393",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18393-aYbUsy5YeL1M.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 18393,
+    "deletedAt": null
+  }
+}

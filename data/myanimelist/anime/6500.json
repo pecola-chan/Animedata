@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-14T16:07:56.000Z",
+  "checkedAt": "2022-05-14T16:07:56.000Z",
+  "id": 6500,
+  "type": "anime",
+  "title": "Seikon no Qwaser",
+  "altTitle": [
+    "The Qwaser of Stigmata",
+    "聖痕のクェイサー"
+  ],
+  "url": "https://myanimelist.net/anime/6500/Seikon_no_Qwaser",
+  "image": "https://cdn.myanimelist.net/images/anime/1212/97589.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.qwaser.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6816"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10873"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Qwaser_of_Stigmata"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/the-qwaser-of-stigmata"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6816,
+  "Pages": {
+    "9anime": {
+      "4qrm": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2369,
+        "identifier": "4qrm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikon no Qwaser",
+        "url": "https://9anime.to/watch/seikon-no-qwaser.4qrm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Yuhkx63lioI/V4ouN_Znc4I/AAAAAAAAv3c/35fGTS6l64c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6500,
+        "aniId": 6500,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seikon-no-qwaser-": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20466,
+        "identifier": "seikon-no-qwaser-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seikon no Qwaser ",
+        "url": "https://gogoanime.vc/category/seikon-no-qwaser-",
+        "image": "https://cdnimg.xyz/images/anime/S/seikon-no-qwaser.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6500,
+        "aniId": 6500,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "504": {
+        "identifier": "504",
+        "malId": 6500,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikon no Qwaser",
+        "url": "https://animepahe.com/a/504"
+      }
+    },
+    "AniMixPlay": {
+      "6500": {
+        "identifier": "6500",
+        "malId": 6500,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikon no Qwaser",
+        "url": "https://animixplay.to/anime/6500"
+      }
+    },
+    "YugenAnime": {
+      "3152": {
+        "identifier": "3152",
+        "malId": 6500,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seikon no Qwaser",
+        "url": "https://yugen.to/anime/3152/seikon-no-qwaser/"
+      }
+    }
+  }
+}

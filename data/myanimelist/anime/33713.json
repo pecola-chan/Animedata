@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T19:03:29.000Z",
+  "checkedAt": "2022-05-14T19:03:29.000Z",
+  "id": 33713,
+  "type": "anime",
+  "title": "Seihou Bukyou Outlaw Star Specials",
+  "altTitle": [
+    "Future Hero Next Generation Outlaw Star",
+    "Starward Warrior Knight Outlaw Star",
+    "Outlaw Star",
+    "星方武侠アウトロースター"
+  ],
+  "url": "https://myanimelist.net/anime/33713/Seihou_Bukyou_Outlaw_Star_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/8/81082.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/seihou/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=171"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Outlaw_Star_episodes"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 171,
+  "Pages": {
+    "9anime": {
+      "q8j3": {
+        "createdAt": "2020-10-12T15:55:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8357,
+        "identifier": "q8j3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seihou Bukyou Outlaw Star Specials (Dub)",
+        "url": "https://9anime.to/watch/seihou-bukyou-outlaw-star-specials-dub.q8j3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7OMkbm9cViA/WAmCeiFXYxI/AAAAAAABJw4/KEnj89A0ToU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33713,
+        "aniId": 102401,
+        "deletedAt": null
+      },
+      "x27w": {
+        "createdAt": "2020-10-12T15:56:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10072,
+        "identifier": "x27w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seihou Bukyou Outlaw Star Specials",
+        "url": "https://9anime.to/watch/seihou-bukyou-outlaw-star-specials.x27w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-556LkCOTiXU/V9LoHVc2iSI/AAAAAAAA86I/iNxiPjKm7u8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33713,
+        "aniId": 102401,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1970": {
+        "identifier": "1970",
+        "malId": 33713,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seihou Bukyou Outlaw Star Specials",
+        "url": "https://animepahe.com/a/1970"
+      }
+    }
+  }
+}

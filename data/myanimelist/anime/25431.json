@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T19:08:18.000Z",
+  "checkedAt": "2022-05-14T19:08:18.000Z",
+  "id": 25431,
+  "type": "anime",
+  "title": "Chain Chronicle: Short Animation",
+  "altTitle": [
+    "チェインクロニクル ~ショートアニメ~"
+  ],
+  "url": "https://myanimelist.net/anime/25431/Chain_Chronicle__Short_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/13/67751.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://chronicle.sega-net.com/1st/previewtour/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10747"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16638"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10747,
+  "Pages": {
+    "9anime": {
+      "7yq1": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3656,
+        "identifier": "7yq1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chain Chronicle: Short Animation",
+        "url": "https://9anime.to/watch/chain-chronicle-short-animation.7yq1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BpniQ3ToDSg/WFSYGXwz2gI/AAAAAAABTEo/KwNN1QTh63Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25431,
+        "aniId": 20787,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "25431": {
+        "identifier": "25431",
+        "malId": 25431,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chain Chronicle: Short Animation",
+        "url": "https://animixplay.to/anime/25431"
+      }
+    }
+  }
+}

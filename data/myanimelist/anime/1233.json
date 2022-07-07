@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T18:31:47.000Z",
+  "checkedAt": "2022-05-14T18:31:47.000Z",
+  "id": 1233,
+  "type": "anime",
+  "title": "Aozora Shoujo-tai",
+  "altTitle": [
+    "Blue Sky Girl Squadron",
+    "The Blue Sky Girls Squad",
+    "Aozora Shoujotai",
+    "801 T.T.S. Airbats",
+    "青空少女隊"
+  ],
+  "url": "https://myanimelist.net/anime/1233/Aozora_Shoujo-tai",
+  "image": "https://cdn.myanimelist.net/images/anime/1306/100405.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=198"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=369"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/801_T.T.S._Airbats"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 198,
+  "Pages": {
+    "9anime": {
+      "3yry": {
+        "createdAt": "2020-10-12T15:49:57.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1997,
+        "identifier": "3yry",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aozora Shoujo-tai (Dub)",
+        "url": "https://9anime.to/watch/aozora-shoujo-tai-dub.3yry",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7qIVAHrApp0/WBS_BsVvcFI/AAAAAAABL2E/5SGInh8dQzg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1233,
+        "aniId": 1233,
+        "deletedAt": null
+      },
+      "49q7": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2215,
+        "identifier": "49q7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aozora Shoujo-tai",
+        "url": "https://9anime.to/watch/aozora-shoujo-tai.49q7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vVbkXTKXFAI/WBS_CNvf6wI/AAAAAAABL2I/KvKnQUItqx0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1233,
+        "aniId": 1233,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1233": {
+        "identifier": "1233",
+        "malId": 1233,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aozora Shoujo-tai",
+        "url": "https://animixplay.to/anime/1233"
+      }
+    },
+    "YugenAnime": {
+      "3037": {
+        "identifier": "3037",
+        "malId": 1233,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aozora Shoujo-tai",
+        "url": "https://yugen.to/anime/3037/aozora-shoujo-tai/"
+      }
+    }
+  }
+}

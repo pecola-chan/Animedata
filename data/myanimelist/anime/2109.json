@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T22:23:11.000Z",
+  "checkedAt": "2022-05-14T22:23:11.000Z",
+  "id": 2109,
+  "type": "anime",
+  "title": "Rockman.EXE Stream",
+  "altTitle": [
+    "Rockman EXE Stream",
+    "ロックマンエクゼStream"
+  ],
+  "url": "https://myanimelist.net/anime/2109/RockmanEXE_Stream",
+  "image": "https://cdn.myanimelist.net/images/anime/5/41575.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/rockmanexe_st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2664"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4397"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2664,
+  "Pages": {
+    "9anime": {
+      "wzqo": {
+        "createdAt": "2020-10-12T15:56:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10015,
+        "identifier": "wzqo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rockman.EXE Stream",
+        "url": "https://9anime.to/watch/rockmanexe-stream.wzqo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EO8coV9y9EY/WHmiNBka93I/AAAAAAABZK0/mRCyS_R4R-8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2109,
+        "aniId": 2109,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rockman-exe-stream": {
+        "createdAt": "2021-05-15T17:25:17.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36997,
+        "identifier": "rockman-exe-stream",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rockman.EXE Stream",
+        "url": "https://gogoanime.vc/category/rockman-exe-stream",
+        "image": "https://gogocdn.net/cover/rockman-exe-stream.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2109,
+        "aniId": 2109,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2341": {
+        "identifier": "2341",
+        "malId": 2109,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rockman.EXE Stream",
+        "url": "https://animepahe.com/a/2341"
+      }
+    },
+    "AniMixPlay": {
+      "2109": {
+        "identifier": "2109",
+        "malId": 2109,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rockman.EXE Stream",
+        "url": "https://animixplay.to/anime/2109"
+      }
+    },
+    "YugenAnime": {
+      "7678": {
+        "identifier": "7678",
+        "malId": 2109,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rockman.EXE Stream",
+        "url": "https://yugen.to/anime/7678/rockmanexe-stream/"
+      }
+    }
+  }
+}

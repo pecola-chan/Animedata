@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-13T23:18:23.000Z",
+  "checkedAt": "2022-05-13T23:18:23.000Z",
+  "id": 10521,
+  "type": "anime",
+  "title": "Working'!!",
+  "altTitle": [
+    "Working!! 2",
+    "Wagnaria!!2",
+    "ワーキング’！！"
+  ],
+  "url": "https://myanimelist.net/anime/10521/Working",
+  "image": "https://cdn.myanimelist.net/images/anime/3/75263.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wagnaria.com/2nd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8364"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12841"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Working!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8364,
+  "Pages": {
+    "9anime": {
+      "w64": {
+        "createdAt": "2020-10-12T15:56:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9698,
+        "identifier": "w64",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wagnaria!!2",
+        "url": "https://9anime.to/watch/wagnaria2.w64",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zFEuKPWyYkM/V3Kek0vWTtI/AAAAAAAAr30/tbM3rqfvd2k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10521,
+        "aniId": 10521,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "-working-season-2": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16307,
+        "identifier": "-working-season-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Working Season 2",
+        "url": "https://gogoanime.vc/category/-working-season-2",
+        "image": "https://images.gogoanime.tv/images/anime/working.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10521,
+        "aniId": 10521,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "277": {
+        "identifier": "277",
+        "malId": 10521,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Working'!!",
+        "url": "https://animepahe.com/a/277"
+      }
+    },
+    "AniMixPlay": {
+      "10521": {
+        "identifier": "10521",
+        "malId": 10521,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Working'!!",
+        "url": "https://animixplay.to/anime/10521"
+      }
+    },
+    "YugenAnime": {
+      "3216": {
+        "identifier": "3216",
+        "malId": 10521,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Working'!!",
+        "url": "https://yugen.to/anime/3216/working-29cx/"
+      }
+    }
+  }
+}

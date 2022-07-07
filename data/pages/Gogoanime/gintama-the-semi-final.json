@@ -1,0 +1,74 @@
+{
+  "createdAt": "2021-01-20T22:03:45.000Z",
+  "updatedAt": "2021-05-20T15:21:58.000Z",
+  "checkedAt": null,
+  "id": 33996,
+  "identifier": "gintama-the-semi-final",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gintama: The Semi-Final",
+  "url": "https://gogoanime.vc/category/gintama-the-semi-final",
+  "image": "https://gogocdn.net/cover/gintama-the-semi-final.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 44087,
+  "aniId": 126819,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-01-01T16:50:20.000Z",
+    "updatedAt": "2022-05-14T09:54:49.000Z",
+    "checkedAt": "2022-05-14T09:54:49.000Z",
+    "id": 44087,
+    "type": "anime",
+    "title": "Gintama: The Semi-Final",
+    "altTitle": [
+      "銀魂 THE SEMI-FINAL"
+    ],
+    "url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final",
+    "image": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pc.video.dmkt-sp.jp/ft/s0007147"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15902"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23827"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "shahid",
+        "url": "https://shahid.mbc.net/en/movies/Gintama-Part-2:-Don't-Make-Big-Decisions-At-The-Last-Minute/movie-919155"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 15902
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:13.000Z",
+    "updatedAt": "2022-05-15T12:42:11.000Z",
+    "checkedAt": "2022-05-15T12:42:11.000Z",
+    "id": 126819,
+    "type": "anime",
+    "title": "Gintama: THE SEMI-FINAL",
+    "altTitle": [
+      "銀魂 THE SEMI-FINAL"
+    ],
+    "url": "https://anilist.co/anime/126819",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126819-KlcARzqDMjvf.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 44087,
+    "deletedAt": null
+  }
+}

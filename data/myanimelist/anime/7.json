@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T17:47:11.000Z",
+  "checkedAt": "2022-05-14T17:47:11.000Z",
+  "id": 7,
+  "type": "anime",
+  "title": "Witch Hunter Robin",
+  "altTitle": [
+    "WHR",
+    "Witch Hunter Robin",
+    "Witch Hunter ROBIN (ウイッチハンターロビン)"
+  ],
+  "url": "https://myanimelist.net/anime/7/Witch_Hunter_Robin",
+  "image": "https://cdn.myanimelist.net/images/anime/1796/91065.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bandaivisual.co.jp/robin/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=96"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=913"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Witch_Hunter_Robin"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/witch-hunter-robin"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 96,
+  "Pages": {
+    "9anime": {
+      "2x10": {
+        "createdAt": "2020-10-12T15:49:38.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1559,
+        "identifier": "2x10",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Witch Hunter Robin (Dub)",
+        "url": "https://9anime.to/watch/witch-hunter-robin-dub.2x10",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YeiX7JdQYe4/V-pcs-GB5pI/AAAAAAABBhw/OuvJattsBUI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7,
+        "aniId": 7,
+        "deletedAt": null
+      },
+      "v96v": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9317,
+        "identifier": "v96v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Witch Hunter Robin",
+        "url": "https://9anime.to/watch/witch-hunter-robin.v96v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-P2sb1NIyN1A/V7LGFQKgU3I/AAAAAAAA3fE/kWBLleBwW14/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7,
+        "aniId": 7,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "witch-hunter-robin": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21431,
+        "identifier": "witch-hunter-robin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Witch Hunter Robin",
+        "url": "https://gogoanime.vc/category/witch-hunter-robin",
+        "image": "https://gogocdn.net/images/anime/W/witch-hunter-robin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7,
+        "aniId": 7,
+        "deletedAt": null
+      },
+      "witch-hunter-robin-dub": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21432,
+        "identifier": "witch-hunter-robin-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Witch Hunter Robin (Dub)",
+        "url": "https://gogoanime.vc/category/witch-hunter-robin-dub",
+        "image": "https://cdnimg.xyz/cover/witch-hunter-robin-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7,
+        "aniId": 7,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7": {
+        "identifier": "7",
+        "malId": 7,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Witch Hunter Robin",
+        "url": "https://animixplay.to/anime/7"
+      }
+    },
+    "YugenAnime": {
+      "3388": {
+        "identifier": "3388",
+        "malId": 7,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Witch Hunter Robin",
+        "url": "https://yugen.to/anime/3388/witch-hunter-robin/"
+      }
+    }
+  }
+}

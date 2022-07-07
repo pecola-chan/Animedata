@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-14T22:42:41.000Z",
+  "checkedAt": "2022-05-14T22:42:41.000Z",
+  "id": 8422,
+  "type": "anime",
+  "title": "Vampire Knight: Gekiai no Portrait",
+  "altTitle": [
+    "Vampire Knight Special",
+    "Vampire Kishi Special",
+    "Portrait of Passionate Love",
+    "ヴァンパイア騎士 激愛の肖像～ポートレート～"
+  ],
+  "url": "https://myanimelist.net/anime/8422/Vampire_Knight__Gekiai_no_Portrait",
+  "image": "https://cdn.myanimelist.net/images/anime/1167/118808.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Vampire_Knight"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "jkwy": {
+        "createdAt": "2020-10-12T15:52:10.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4885,
+        "identifier": "jkwy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vampire Knight: Gekiai no Portrait",
+        "url": "https://9anime.to/watch/vampire-knight-gekiai-no-portrait.jkwy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7vlQLliQTWE/WUDqcfFTNFI/AAAAAAAAAag/Mjcv2u9ktAgi_q94MRebZZmw-WguzWHtgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8422,
+        "aniId": 8422,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3971": {
+        "identifier": "3971",
+        "malId": 8422,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Vampire Knight: Gekiai no Portrait",
+        "url": "https://animepahe.com/a/3971"
+      }
+    },
+    "AniMixPlay": {
+      "8422": {
+        "identifier": "8422",
+        "malId": 8422,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vampire Knight: Gekiai no Portrait",
+        "url": "https://animixplay.to/anime/8422"
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-15T00:30:59.000Z",
+  "checkedAt": "2022-05-15T00:30:59.000Z",
+  "id": 23781,
+  "type": "anime",
+  "title": "Blade & Soul Specials",
+  "altTitle": [
+    "Blade and Soul Specials",
+    "ブレイドアンドソウル"
+  ],
+  "url": "https://myanimelist.net/anime/23781/Blade___Soul_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/11/70471.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/blade/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10432"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15893"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Blade_&_Soul"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10432,
+  "Pages": {
+    "9anime": {
+      "15wv": {
+        "createdAt": "2020-10-12T15:49:07.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 866,
+        "identifier": "15wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blade & Soul Specials",
+        "url": "https://9anime.to/watch/blade-soul-specials.15wv",
+        "image": "http://static.akacdn.ru/static/images/2018/02/faafe4e31107a7fb6faf54bb4d29944c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23781,
+        "aniId": 20836,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blade-and-soul": {
+        "createdAt": "2020-10-12T16:00:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16843,
+        "identifier": "blade-and-soul",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blade and Soul",
+        "url": "https://gogoanime.vc/category/blade-and-soul",
+        "image": "https://cdnimg.xyz/images/spring/Blade and Soul.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23781,
+        "aniId": 20836,
+        "deletedAt": null
+      },
+      "blade-and-soul-specials": {
+        "createdAt": "2020-10-12T16:00:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16844,
+        "identifier": "blade-and-soul-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blade and Soul Specials",
+        "url": "https://gogoanime.vc/category/blade-and-soul-specials",
+        "image": "https://gogocdn.net/images/spring/Blade and Soul.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23781,
+        "aniId": 20836,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "23781": {
+        "identifier": "23781",
+        "malId": 23781,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Blade &amp; Soul Specials",
+        "url": "https://animixplay.to/anime/23781"
+      }
+    },
+    "YugenAnime": {
+      "6321": {
+        "identifier": "6321",
+        "malId": 23781,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Blade & Soul Specials",
+        "url": "https://yugen.to/anime/6321/blade-and-soul-specials/"
+      }
+    }
+  }
+}

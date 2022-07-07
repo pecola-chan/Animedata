@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T18:33:41.000Z",
+  "checkedAt": "2022-05-14T18:33:41.000Z",
+  "id": 10372,
+  "type": "anime",
+  "title": "Kamisama Dolls",
+  "altTitle": [
+    "Kami-sama Dolls",
+    "Kamisama Dolls",
+    "神様ドォルズ"
+  ],
+  "url": "https://myanimelist.net/anime/10372/Kamisama_Dolls",
+  "image": "https://cdn.myanimelist.net/images/anime/1001/98636.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kamisama-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8275"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12532"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kamisama_Dolls"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-234149"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/kamisama-dolls"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8275,
+  "Pages": {
+    "9anime": {
+      "5x30": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2826,
+        "identifier": "5x30",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kamisama Dolls (Dub)",
+        "url": "https://9anime.to/watch/kamisama-dolls-dub.5x30",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XL--PoNEUs0/V-I5bfbJlaI/AAAAAAAA_SU/ZIG-nCYXJDM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10372,
+        "aniId": 10372,
+        "deletedAt": null
+      },
+      "qxzv": {
+        "createdAt": "2020-10-12T15:55:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8632,
+        "identifier": "qxzv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kamisama Dolls",
+        "url": "https://9anime.to/watch/kamisama-dolls.qxzv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-r9OYgacyBOs/V45zO05zrDI/AAAAAAAAwgk/Z3j4buwv8oM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10372,
+        "aniId": 10372,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kami-sama-dolls": {
+        "createdAt": "2020-10-29T19:12:18.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28191,
+        "identifier": "kami-sama-dolls",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kami-sama Dolls",
+        "url": "https://gogoanime.vc/category/kami-sama-dolls",
+        "image": "https://gogocdn.net/images/anime/K/Kami-sama-Dolls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10372,
+        "aniId": 10372,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "513": {
+        "identifier": "513",
+        "malId": 10372,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kamisama Dolls",
+        "url": "https://animepahe.com/a/513"
+      }
+    },
+    "AniMixPlay": {
+      "10372": {
+        "identifier": "10372",
+        "malId": 10372,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kamisama Dolls",
+        "url": "https://animixplay.to/anime/10372"
+      }
+    },
+    "YugenAnime": {
+      "2537": {
+        "identifier": "2537",
+        "malId": 10372,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kamisama Dolls",
+        "url": "https://yugen.to/anime/2537/kami-sama-dolls/"
+      }
+    }
+  }
+}

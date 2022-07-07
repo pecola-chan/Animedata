@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T21:17:54.000Z",
+  "checkedAt": "2022-05-14T21:17:54.000Z",
+  "id": 10249,
+  "type": "anime",
+  "title": "Toaru Majutsu no Index-tan II",
+  "altTitle": [
+    "Toaru Majutsu no Index-tan II Specials",
+    "A Certain Magical Index-tan II",
+    "A Certain Magical Index II: Specials",
+    "とある魔術のいんでっくすたん"
+  ],
+  "url": "https://myanimelist.net/anime/10249/Toaru_Majutsu_no_Index-tan_II",
+  "image": "https://cdn.myanimelist.net/images/anime/2/28233.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.project-index.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7599"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_Toaru_Majutsu_no_Index_episodes#Toaru_Majutsu_no_Index-tan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7599,
+  "Pages": {
+    "9anime": {
+      "x293": {
+        "createdAt": "2020-10-12T15:56:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10074,
+        "identifier": "x293",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toaru Majutsu no Index-tan II",
+        "url": "https://9anime.to/watch/toaru-majutsu-no-index-tan-ii.x293",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FYg6IvejLY4/V9Iqqoz32QI/AAAAAAAA8rg/kkrICN-XMWE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10249,
+        "aniId": 10249,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2704": {
+        "identifier": "2704",
+        "malId": 10249,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toaru Majutsu no Index-tan II",
+        "url": "https://animepahe.com/a/2704"
+      }
+    },
+    "AniMixPlay": {
+      "10249": {
+        "identifier": "10249",
+        "malId": 10249,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toaru Majutsu no Index-tan II",
+        "url": "https://animixplay.to/anime/10249"
+      }
+    }
+  }
+}

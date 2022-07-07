@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T18:20:29.000Z",
+  "checkedAt": "2022-05-14T18:20:29.000Z",
+  "id": 149,
+  "type": "anime",
+  "title": "Loveless",
+  "altTitle": [
+    "LL",
+    "Loveless",
+    "LOVELESS"
+  ],
+  "url": "https://myanimelist.net/anime/149/Loveless",
+  "image": "https://cdn.myanimelist.net/images/anime/2/22947.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.loveless.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2815"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4877"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Loveless_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2815,
+  "Pages": {
+    "9anime": {
+      "49wm": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2217,
+        "identifier": "49wm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "LOVELESS (Dub)",
+        "url": "https://9anime.to/watch/loveless-dub.49wm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gQID1NaJhsg/WB28USNye0I/AAAAAAABNYs/-WjVLfNbrqk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 149,
+        "aniId": 149,
+        "deletedAt": null
+      },
+      "vvxl": {
+        "createdAt": "2020-10-12T15:56:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9474,
+        "identifier": "vvxl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "LOVELESS",
+        "url": "https://9anime.to/watch/loveless.vvxl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zaXE0oP0i8w/V5M4MLjeMXI/AAAAAAAAxdg/3rxYb9AP_4Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 149,
+        "aniId": 149,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "loveless": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19158,
+        "identifier": "loveless",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Loveless",
+        "url": "https://gogoanime.vc/category/loveless",
+        "image": "https://cdnimg.xyz/images/anime/L/loveless.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 149,
+        "aniId": 149,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "149": {
+        "identifier": "149",
+        "malId": 149,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Loveless",
+        "url": "https://animixplay.to/anime/149"
+      }
+    },
+    "YugenAnime": {
+      "1358": {
+        "identifier": "1358",
+        "malId": 149,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Loveless",
+        "url": "https://yugen.to/anime/1358/loveless/"
+      }
+    }
+  }
+}

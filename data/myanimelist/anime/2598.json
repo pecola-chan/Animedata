@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-14T20:17:35.000Z",
+  "checkedAt": "2022-05-14T20:17:35.000Z",
+  "id": 2598,
+  "type": "anime",
+  "title": "Juusenki L-Gaim",
+  "altTitle": [
+    "Heavy Metal L-Gaim",
+    "重戦機エルガイム"
+  ],
+  "url": "https://myanimelist.net/anime/2598/Juusenki_L-Gaim",
+  "image": "https://cdn.myanimelist.net/images/anime/3/46129.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/datacard/card0022.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=522"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=878"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Heavy_Metal_L-Gaim"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 522,
+  "Pages": {
+    "9anime": {
+      "60pz": {
+        "createdAt": "2020-10-12T15:50:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2897,
+        "identifier": "60pz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Juusenki L-Gaim",
+        "url": "https://9anime.to/watch/juusenki-l-gaim.60pz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DiHVd3vi8Ao/V8JnM9Keo2I/AAAAAAAA5_M/LhPN8_F34vE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2598,
+        "aniId": 2598,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "juusenki-l-gaim": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18623,
+        "identifier": "juusenki-l-gaim",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Juusenki L-Gaim",
+        "url": "https://gogoanime.vc/category/juusenki-l-gaim",
+        "image": "https://cdnimg.xyz/cover/juusenki-l-gaim.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2598,
+        "aniId": 2598,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2598": {
+        "identifier": "2598",
+        "malId": 2598,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Juusenki L-Gaim",
+        "url": "https://animixplay.to/anime/2598"
+      }
+    },
+    "YugenAnime": {
+      "2334": {
+        "identifier": "2334",
+        "malId": 2598,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Juusenki L-Gaim",
+        "url": "https://yugen.to/anime/2334/juusenki-l-gaim/"
+      }
+    }
+  }
+}

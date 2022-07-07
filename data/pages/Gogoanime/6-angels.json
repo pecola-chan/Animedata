@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-07-16T06:02:20.000Z",
+  "updatedAt": "2021-07-16T06:32:20.000Z",
+  "checkedAt": null,
+  "id": 37889,
+  "identifier": "6-angels",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "6 Angels",
+  "url": "https://gogoanime.pe/category/6-angels",
+  "image": "https://gogocdn.net/images/anime/65476.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2475,
+  "aniId": 2475,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:29.000Z",
+    "updatedAt": "2022-05-15T01:29:35.000Z",
+    "checkedAt": "2022-05-15T01:29:35.000Z",
+    "id": 2475,
+    "type": "anime",
+    "title": "6 Angels",
+    "altTitle": [
+      "Six Angels",
+      "シックス・エンジェルズ"
+    ],
+    "url": "https://myanimelist.net/anime/2475/6_Angels",
+    "image": "https://cdn.myanimelist.net/images/anime/6/36019.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kenmedia.jp/anime/6angels/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2773"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=896"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/6_Angels"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2773
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:17.000Z",
+    "updatedAt": "2022-05-15T15:05:35.000Z",
+    "checkedAt": "2022-05-15T15:05:35.000Z",
+    "id": 2475,
+    "type": "anime",
+    "title": "6 Angels",
+    "altTitle": [
+      "シックス・エンジェルズ",
+      "Six Angels"
+    ],
+    "url": "https://anilist.co/anime/2475",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2475.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2475,
+    "deletedAt": null
+  }
+}

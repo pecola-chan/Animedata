@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-16T08:24:32.000Z",
+  "checkedAt": "2022-05-16T08:24:32.000Z",
+  "id": 3203,
+  "type": "anime",
+  "title": "Chibi Maruko-chan Movie",
+  "altTitle": [
+    "Chibi Maruko Chan Movie (1990)",
+    "ちびまる子ちゃん (1990)"
+  ],
+  "url": "https://myanimelist.net/anime/3203/Chibi_Maruko-chan_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/3/54919.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/069/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1323"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14072"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chibi_Maruko-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1323,
+  "Pages": {
+    "9anime": {
+      "r02n": {
+        "createdAt": "2020-10-12T15:55:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8679,
+        "identifier": "r02n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chibi Maruko-chan Movie",
+        "url": "https://9anime.to/watch/chibi-maruko-chan-movie.r02n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9y3JFD3pKGU/WJqjbAEYXtI/AAAAAAABcRI/-x-u13uve18/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3203,
+        "aniId": 3203,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3203": {
+        "identifier": "3203",
+        "malId": 3203,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chibi Maruko-chan Movie",
+        "url": "https://animixplay.to/anime/3203"
+      }
+    },
+    "YugenAnime": {
+      "6369": {
+        "identifier": "6369",
+        "malId": 3203,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chibi Maruko-chan Movie",
+        "url": "https://yugen.to/anime/6369/chibi-maruko-chan-movie/"
+      }
+    }
+  }
+}

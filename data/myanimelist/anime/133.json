@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T20:37:06.000Z",
+  "checkedAt": "2022-05-14T20:37:06.000Z",
+  "id": 133,
+  "type": "anime",
+  "title": "Green Green",
+  "altTitle": [
+    "Green Green TV",
+    "Guri Guri",
+    "Green Green",
+    "グリーングリーン"
+  ],
+  "url": "https://myanimelist.net/anime/133/Green_Green",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75251.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ponycanyon.co.jp/greengreen/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=834"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2291"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Green_Green"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 834,
+  "Pages": {
+    "9anime": {
+      "5zvj": {
+        "createdAt": "2020-10-12T15:50:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2883,
+        "identifier": "5zvj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Green Green (Dub)",
+        "url": "https://9anime.to/watch/green-green-dub.5zvj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6IBynq-cV6M/WAKPucrnSxI/AAAAAAABIPA/EIm3SrqYPh8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 133,
+        "aniId": 133,
+        "deletedAt": null
+      },
+      "ykr1": {
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10716,
+        "identifier": "ykr1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Green Green",
+        "url": "https://9anime.to/watch/green-green.ykr1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zK49FjaBKiU/V6YSG_HjfOI/AAAAAAAA04M/70R5VWYzIbg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 133,
+        "aniId": 133,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "133": {
+        "identifier": "133",
+        "malId": 133,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Green Green",
+        "url": "https://animixplay.to/anime/133"
+      }
+    },
+    "YugenAnime": {
+      "1284": {
+        "identifier": "1284",
+        "malId": 133,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Green Green",
+        "url": "https://yugen.to/anime/1284/green-green/"
+      }
+    }
+  }
+}

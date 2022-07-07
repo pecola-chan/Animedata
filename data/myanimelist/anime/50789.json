@@ -1,0 +1,116 @@
+{
+  "createdAt": "2022-03-20T19:53:46.000Z",
+  "updatedAt": "2022-05-14T16:22:56.000Z",
+  "checkedAt": "2022-05-14T16:22:56.000Z",
+  "id": 50789,
+  "type": "anime",
+  "title": "Jantama Pong☆",
+  "altTitle": [
+    "Mahjong Soul Pon☆",
+    "じゃんたま PONG☆"
+  ],
+  "url": "https://myanimelist.net/anime/50789/Jantama_Pong☆",
+  "image": "https://cdn.myanimelist.net/images/anime/1960/120445.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mahjongsoul-pong.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17127"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=25116"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahjong_Soul"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "https://www.crunchyroll.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 17127,
+  "Pages": {
+    "9anime": {
+      "6lv80": {
+        "createdAt": "2022-03-30T12:00:58.000Z",
+        "updatedAt": "2022-03-31T08:00:21.000Z",
+        "checkedAt": null,
+        "id": 40562,
+        "identifier": "6lv80",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jongtama PONG☆",
+        "url": "https://9anime.to/watch/mahjong-soul-pon.6lv80",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0d/0d72c4f740386197a469cef2af45b110.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 50789,
+        "aniId": 143455,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jantama-pong": {
+        "createdAt": "2022-04-01T18:31:13.000Z",
+        "updatedAt": "2022-04-01T19:00:20.000Z",
+        "checkedAt": null,
+        "id": 40589,
+        "identifier": "jantama-pong",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jantama Pong☆",
+        "url": "https://gogoanime.fi/category/jantama-pong",
+        "image": "https://gogocdn.net/cover/jantama-pong.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50789,
+        "aniId": 143455,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4762": {
+        "identifier": "4762",
+        "malId": 50789,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Jantama Pong☆",
+        "url": "https://animepahe.com/a/4762"
+      }
+    },
+    "AniMixPlay": {
+      "50789": {
+        "identifier": "50789",
+        "malId": 50789,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jantama Pong☆",
+        "url": "https://animixplay.to/anime/50789"
+      }
+    },
+    "YugenAnime": {
+      "11893": {
+        "identifier": "11893",
+        "malId": 50789,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jantama Pong☆",
+        "url": "https://yugen.to/anime/11893/jantama-pong/"
+      }
+    }
+  }
+}

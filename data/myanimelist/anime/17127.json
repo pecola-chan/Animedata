@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-13T23:19:01.000Z",
+  "checkedAt": "2022-05-13T23:19:01.000Z",
+  "id": 17127,
+  "type": "anime",
+  "title": "Chokkyuu Hyoudai Robot Anime: Straight Title",
+  "altTitle": [
+    "Straight Title Robot Anime",
+    "直球表題 ロボットアニメ-STRAIGHT TITLE-"
+  ],
+  "url": "https://myanimelist.net/anime/17127/Chokkyuu_Hyoudai_Robot_Anime__Straight_Title",
+  "image": "https://cdn.myanimelist.net/images/anime/3/46763.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.robotanime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9654"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15095"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-252827"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9654,
+  "Pages": {
+    "9anime": {
+      "91ln": {
+        "createdAt": "2020-10-12T15:51:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4151,
+        "identifier": "91ln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chokkyuu Hyoudai Robot Anime: Straight Title",
+        "url": "https://9anime.to/watch/chokkyuu-hyoudai-robot-anime-straight-title.91ln",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zh5Mb8641Zo/V8Vm2EH_dQI/AAAAAAAA6gk/IPsNJRFkjlc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17127,
+        "aniId": 17127,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "straight-title-robot-anime": {
+        "createdAt": "2021-02-18T16:14:43.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34920,
+        "identifier": "straight-title-robot-anime",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Straight Title Robot Anime",
+        "url": "https://gogoanime.vc/category/straight-title-robot-anime",
+        "image": "https://gogocdn.net/images/anime/S/Straight-Title-Robot-Anime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17127,
+        "aniId": 17127,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "17127": {
+        "identifier": "17127",
+        "malId": 17127,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chokkyuu Hyoudai Robot Anime: Straight Title",
+        "url": "https://animixplay.to/anime/17127"
+      }
+    }
+  }
+}

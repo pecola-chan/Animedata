@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T18:09:35.000Z",
+  "checkedAt": "2022-05-14T18:09:35.000Z",
+  "id": 3464,
+  "type": "anime",
+  "title": "Kemeko Deluxe!",
+  "altTitle": [
+    "The Unknown Girlfriend",
+    "Kemeko DX",
+    "ケメコデラックス！"
+  ],
+  "url": "https://myanimelist.net/anime/3464/Kemeko_Deluxe",
+  "image": "https://cdn.myanimelist.net/images/anime/3/75538.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kemeko.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5578"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9011"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5578,
+  "Pages": {
+    "9anime": {
+      "jvjn": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5037,
+        "identifier": "jvjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kemeko Deluxe!",
+        "url": "https://9anime.to/watch/kemeko-deluxe.jvjn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jPwubo814QI/V4urkI-pc_I/AAAAAAAAwDQ/QKT8YT7W3X8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3464,
+        "aniId": 3464,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kemeko-deluxe": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18771,
+        "identifier": "kemeko-deluxe",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kemeko Deluxe!",
+        "url": "https://gogoanime.vc/category/kemeko-deluxe",
+        "image": "https://cdnimg.xyz/images/anime/K/Kemeko-Deluxe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3464,
+        "aniId": 3464,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3464": {
+        "identifier": "3464",
+        "malId": 3464,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kemeko Deluxe!",
+        "url": "https://animixplay.to/anime/3464"
+      }
+    },
+    "YugenAnime": {
+      "1379": {
+        "identifier": "1379",
+        "malId": 3464,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kemeko Deluxe!",
+        "url": "https://yugen.to/anime/1379/kemeko-deluxe/"
+      }
+    }
+  }
+}

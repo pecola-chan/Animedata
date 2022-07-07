@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-15T06:38:04.000Z",
+  "checkedAt": "2022-05-15T06:38:04.000Z",
+  "id": 11099,
+  "type": "anime",
+  "title": "Tiger & Bunny Pilot",
+  "altTitle": [
+    "Tiger and Bunny Pilot",
+    "Taibani Pilot",
+    "Tiger & Bunny Pilot",
+    "TIGER & BUNNY （タイガー・アンド・バニー）"
+  ],
+  "url": "https://myanimelist.net/anime/11099/Tiger___Bunny_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/4/30751.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tigerandbunny.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8101"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tiger_&_Bunny"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8101,
+  "Pages": {
+    "9anime": {
+      "4qjlj": {
+        "createdAt": "2022-03-21T02:23:35.000Z",
+        "updatedAt": "2022-03-21T02:53:04.000Z",
+        "checkedAt": null,
+        "id": 40502,
+        "identifier": "4qjlj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "TIGER & BUNNY Pilot (Dub)",
+        "url": "https://9anime.to/watch/tiger-bunny-pilot-dub.4qjlj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/56/56d83086d824d91bab0c831a5adbe35a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11099,
+        "aniId": 11099,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3262": {
+        "identifier": "3262",
+        "malId": 11099,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tiger & Bunny Pilot",
+        "url": "https://animepahe.com/a/3262"
+      }
+    }
+  }
+}

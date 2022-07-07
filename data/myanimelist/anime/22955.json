@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-05-15T01:09:10.000Z",
+  "checkedAt": "2022-05-15T01:09:10.000Z",
+  "id": 22955,
+  "type": "anime",
+  "title": "Francesca",
+  "altTitle": [
+    "Francesca: Girls Be Ambitious",
+    "Hungry Zombie Francesca",
+    "フランチェスカ"
+  ],
+  "url": "https://myanimelist.net/anime/22955/Francesca",
+  "image": "https://cdn.myanimelist.net/images/anime/12/63633.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.heart-bit.com/francesca/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10496"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15955"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%AB_(%E3%83%8F%E3%83%BC%E3%83%88%E3%83%93%E3%83%83%E3%83%88)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10496,
+  "Pages": {
+    "9anime": {
+      "rz6m": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9107,
+        "identifier": "rz6m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hungry Zombie Francesca",
+        "url": "https://9anime.to/watch/hungry-zombie-francesca.rz6m",
+        "image": "https://static.akacdn.ru/files/images/2018/06/6c7b35e3c0a637feef25872c06b30ad8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22955,
+        "aniId": 20748,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "francesca-girls-be-ambitious": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17692,
+        "identifier": "francesca-girls-be-ambitious",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Francesca: Girls Be Ambitious",
+        "url": "https://gogoanime.vc/category/francesca-girls-be-ambitious",
+        "image": "https://cdnimg.xyz/images/summer/francesca_girls_be_ambitious.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22955,
+        "aniId": 20748,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "22955": {
+        "identifier": "22955",
+        "malId": 22955,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Francesca",
+        "url": "https://animixplay.to/anime/22955"
+      }
+    },
+    "YugenAnime": {
+      "5813": {
+        "identifier": "5813",
+        "malId": 22955,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Francesca",
+        "url": "https://yugen.to/anime/5813/francesca/"
+      }
+    }
+  }
+}

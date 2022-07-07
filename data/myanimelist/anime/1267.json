@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:15.000Z",
+  "updatedAt": "2022-05-14T18:57:29.000Z",
+  "checkedAt": "2022-05-14T18:57:29.000Z",
+  "id": 1267,
+  "type": "anime",
+  "title": "Yoroiden Samurai Troopers Message",
+  "altTitle": [
+    "Samurai Troopers OVA 3",
+    "Ronin Warriors Message",
+    "鎧伝サムライトルーパーMESSAGE"
+  ],
+  "url": "https://myanimelist.net/anime/1267/Yoroiden_Samurai_Troopers_Message",
+  "image": "https://cdn.myanimelist.net/images/anime/1754/94191.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/datacard/samurai03.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3380"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1879"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ronin_Warriors"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3380,
+  "Pages": {
+    "9anime": {
+      "p19q": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7789,
+        "identifier": "p19q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yoroiden Samurai Troopers Message (Dub)",
+        "url": "https://9anime.to/watch/yoroiden-samurai-troopers-message-dub.p19q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-coULHZV0mvU/WJw7nqf6jEI/AAAAAAABccE/FN9a4cnZ8IU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1267,
+        "aniId": 1267,
+        "deletedAt": null
+      },
+      "q34j": {
+        "createdAt": "2020-10-12T15:54:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8278,
+        "identifier": "q34j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yoroiden Samurai Troopers Message",
+        "url": "https://9anime.to/watch/yoroiden-samurai-troopers-message.q34j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uKYtWW_lolA/WJw7nuXYmfI/AAAAAAABccI/fNOD2XPgej8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1267,
+        "aniId": 1267,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1267": {
+        "identifier": "1267",
+        "malId": 1267,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yoroiden Samurai Troopers Message",
+        "url": "https://animixplay.to/anime/1267"
+      }
+    },
+    "YugenAnime": {
+      "6300": {
+        "identifier": "6300",
+        "malId": 1267,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yoroiden Samurai Troopers Message",
+        "url": "https://yugen.to/anime/6300/ronin-warriors-message/"
+      }
+    }
+  }
+}

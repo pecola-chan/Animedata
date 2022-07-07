@@ -1,0 +1,114 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T19:27:11.000Z",
+  "checkedAt": "2022-05-14T19:27:11.000Z",
+  "id": 6645,
+  "type": "anime",
+  "title": "Chu-Bra!!",
+  "altTitle": [
+    "Chuu Bra!!",
+    "Chubra!!",
+    "Chuubra!!",
+    "Chu-Bra",
+    "ちゅーぶら!!"
+  ],
+  "url": "https://myanimelist.net/anime/6645/Chu-Bra",
+  "image": "https://cdn.myanimelist.net/images/anime/1130/91352.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/chuubra/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7124"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11135"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chu-Bra!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7124,
+  "Pages": {
+    "9anime": {
+      "v1v": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9160,
+        "identifier": "v1v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chuu Bra!!",
+        "url": "https://9anime.to/watch/chuu-bra.v1v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lyQgv5O3M5k/V4O-hLd0YYI/AAAAAAAAuzk/z4DtWydZ-28/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6645,
+        "aniId": 6645,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chu-bra": {
+        "createdAt": "2020-10-12T16:00:07.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17100,
+        "identifier": "chu-bra",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chu-Bra!!",
+        "url": "https://gogoanime.vc/category/chu-bra",
+        "image": "https://gogocdn.net/images/anime/C/chu-bra.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6645,
+        "aniId": 6645,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "102": {
+        "identifier": "102",
+        "malId": 6645,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Chu-Bra!!",
+        "url": "https://animepahe.com/a/102"
+      }
+    },
+    "AniMixPlay": {
+      "6645": {
+        "identifier": "6645",
+        "malId": 6645,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chu-Bra!!",
+        "url": "https://animixplay.to/anime/6645"
+      }
+    },
+    "YugenAnime": {
+      "701": {
+        "identifier": "701",
+        "malId": 6645,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chu-Bra!!",
+        "url": "https://yugen.to/anime/701/chu-bra/"
+      }
+    }
+  }
+}

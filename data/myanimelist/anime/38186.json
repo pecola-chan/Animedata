@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T10:10:33.000Z",
+  "checkedAt": "2022-05-14T10:10:33.000Z",
+  "id": 38186,
+  "type": "anime",
+  "title": "Bokutachi wa Benkyou ga Dekinai",
+  "altTitle": [
+    "BokuBen",
+    "We Can't Study",
+    "We Never Learn: BOKUBEN",
+    "ぼくたちは勉強ができない"
+  ],
+  "url": "https://myanimelist.net/anime/38186/Bokutachi_wa_Benkyou_ga_Dekinai",
+  "image": "https://cdn.myanimelist.net/images/anime/1602/100510.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://boku-ben.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14289"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21294"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/We_Never_Learn"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277767"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/we-never-learn-bokuben"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14289,
+  "Pages": {
+    "9anime": {
+      "nvyk": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2021-10-27T04:01:35.000Z",
+        "checkedAt": null,
+        "id": 7251,
+        "identifier": "nvyk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "url": "https://9anime.to/watch/we-never-learn-bokuben.nvyk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/04/e92972972fea678f13fef7bee4b51db3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38186,
+        "aniId": 103900,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bokutachi-wa-benkyou-ga-dekinai": {
+        "createdAt": "2020-10-12T16:00:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16916,
+        "identifier": "bokutachi-wa-benkyou-ga-dekinai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "url": "https://gogoanime.vc/category/bokutachi-wa-benkyou-ga-dekinai",
+        "image": "https://cdnimg.xyz/cover/bokutachi-wa-benkyou-ga-dekinai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38186,
+        "aniId": 103900,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3210": {
+        "identifier": "3210",
+        "malId": 38186,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "url": "https://animepahe.com/a/3210"
+      }
+    },
+    "AniMixPlay": {
+      "38186": {
+        "identifier": "38186",
+        "malId": 38186,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "url": "https://animixplay.to/anime/38186"
+      }
+    },
+    "YugenAnime": {
+      "4035": {
+        "identifier": "4035",
+        "malId": 38186,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "url": "https://yugen.to/anime/4035/bokutachi-wa-benkyou-ga-dekinai/"
+      }
+    }
+  }
+}

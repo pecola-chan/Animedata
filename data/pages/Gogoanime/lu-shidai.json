@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T16:01:08.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19161,
+  "identifier": "lu-shidai",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Lu Shidai",
+  "url": "https://gogoanime.vc/category/lu-shidai",
+  "image": "https://cdnimg.xyz/cover/lu-shidai.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 31233,
+  "aniId": 99660,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:38.000Z",
+    "updatedAt": "2022-05-14T16:12:43.000Z",
+    "checkedAt": "2022-05-14T16:12:43.000Z",
+    "id": 31233,
+    "type": "anime",
+    "title": "Lu Shidai",
+    "altTitle": [
+      "Age of League",
+      "Lu's Time",
+      "撸时代"
+    ],
+    "url": "https://myanimelist.net/anime/31233/Lu_Shidai",
+    "image": "https://cdn.myanimelist.net/images/anime/13/82659.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%92%B8%E6%97%B6%E4%BB%A3/12012905#2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:57.000Z",
+    "updatedAt": "2022-05-15T12:12:23.000Z",
+    "checkedAt": "2022-05-15T12:12:23.000Z",
+    "id": 99660,
+    "type": "anime",
+    "title": "Lu Shidai",
+    "altTitle": [
+      "撸时代",
+      "Lu's Time",
+      "Age of League"
+    ],
+    "url": "https://anilist.co/anime/99660",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99660-Bg9YJTlDn8aq.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 31233,
+    "deletedAt": null
+  }
+}

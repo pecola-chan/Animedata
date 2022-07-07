@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-15T07:20:37.000Z",
+  "checkedAt": "2022-05-15T07:20:37.000Z",
+  "id": 9708,
+  "type": "anime",
+  "title": "Mobile Suit Gundam ZZ: Gundam Frag.",
+  "altTitle": [
+    "機動戦士ガンダムZZ: GUNDAM FRAG."
+  ],
+  "url": "https://myanimelist.net/anime/9708/Mobile_Suit_Gundam_ZZ__Gundam_Frag",
+  "image": "https://cdn.myanimelist.net/images/anime/8/88568.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gundam.info/topic/2850"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=719"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11178"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_ZZ"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 719,
+  "Pages": {
+    "9anime": {
+      "jzj4": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5123,
+        "identifier": "jzj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam ZZ: Gundam Frag.",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-zz-gundam-frag.jzj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LQ1L12rhXbI/V-30QKGldKI/AAAAAAABCds/isfPqq-yJ04/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9708,
+        "aniId": 9708,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9708": {
+        "identifier": "9708",
+        "malId": 9708,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam ZZ: Gundam Frag.",
+        "url": "https://animixplay.to/anime/9708"
+      }
+    }
+  }
+}

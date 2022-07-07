@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-21T19:43:25.000Z",
+  "checkedAt": "2022-05-21T19:43:25.000Z",
+  "id": 14231,
+  "type": "anime",
+  "title": "Akuemon",
+  "altTitle": [
+    "悪右衛門"
+  ],
+  "url": "https://myanimelist.net/anime/14231/Akuemon",
+  "image": "https://cdn.myanimelist.net/images/anime/3/87863.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tezukaosamu.net/jp/anime/89.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3618"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4460"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Akuemon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3618,
+  "Pages": {
+    "9anime": {
+      "5z4v": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2870,
+        "identifier": "5z4v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akuemon",
+        "url": "https://9anime.to/watch/akuemon.5z4v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qyjKzWxF9mY/WA3lDAJOYwI/AAAAAAABKyI/fW3Lc_cCW4g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14231,
+        "aniId": 14231,
+        "deletedAt": null
+      }
+    }
+  }
+}

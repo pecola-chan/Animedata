@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T16:01:41.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20251,
+  "identifier": "recorder-to-randoseru-mi-special",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Recorder to Randoseru Mi Special",
+  "url": "https://gogoanime.vc/category/recorder-to-randoseru-mi-special",
+  "image": "https://cdnimg.xyz/images/summer/50651.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 24935,
+  "aniId": 20828,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T21:44:30.000Z",
+    "checkedAt": "2022-05-14T21:44:30.000Z",
+    "id": 24935,
+    "type": "anime",
+    "title": "Recorder to Randoseru Mi☆ Special",
+    "altTitle": [
+      "Recorder to Randoseru Mi☆ Episode 13",
+      "リコーダーとランドセル ミ☆ リコーダーとアカランドセル"
+    ],
+    "url": "https://myanimelist.net/anime/24935/Recorder_to_Randoseru_Mi☆_Special",
+    "image": "https://cdn.myanimelist.net/images/anime/12/63955.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.takeshobo.co.jp/sp/tv_rikoran_mi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9802"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9802
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:37.000Z",
+    "updatedAt": "2022-05-16T01:20:14.000Z",
+    "checkedAt": "2022-05-16T01:20:14.000Z",
+    "id": 20828,
+    "type": "anime",
+    "title": "Recorder to Randoseru Mi☆ Special",
+    "altTitle": [
+      "リコーダーとランドセル ミ☆ リコーダーとアカランドセル"
+    ],
+    "url": "https://anilist.co/anime/20828",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20828.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 24935,
+    "deletedAt": null
+  }
+}

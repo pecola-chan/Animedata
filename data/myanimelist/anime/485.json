@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-15T16:47:43.000Z",
+  "checkedAt": "2022-05-15T16:47:43.000Z",
+  "id": 485,
+  "type": "anime",
+  "title": "Damekko Doubutsu",
+  "altTitle": [
+    "Damekko Dobutsu",
+    "Useless Animals",
+    "だめっこどうぶつ"
+  ],
+  "url": "https://myanimelist.net/anime/485/Damekko_Doubutsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1/485.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kids-station.com/minisite/damekko/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2824"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4994"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Damekko_D%C5%8Dbutsu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2824,
+  "Pages": {
+    "9anime": {
+      "0vm9": {
+        "createdAt": "2020-10-12T15:48:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 672,
+        "identifier": "0vm9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Damekko Doubutsu",
+        "url": "https://9anime.to/watch/damekko-doubutsu.0vm9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eyW0iC6Up_g/WHnBTljyoOI/AAAAAAABZMQ/wuIearmeJmo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 485,
+        "aniId": 485,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "damekko-doubuts": {
+        "createdAt": "2021-03-31T20:01:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36099,
+        "identifier": "damekko-doubuts",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Damekko Doubuts",
+        "url": "https://gogoanime.vc/category/damekko-doubuts",
+        "image": "https://gogocdn.net/cover/damekko-doubuts.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 485,
+        "aniId": 485,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "485": {
+        "identifier": "485",
+        "malId": 485,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Damekko Doubutsu",
+        "url": "https://animixplay.to/anime/485"
+      }
+    },
+    "YugenAnime": {
+      "3557": {
+        "identifier": "3557",
+        "malId": 485,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Damekko Doubutsu",
+        "url": "https://yugen.to/anime/3557/damekko-doubuts/"
+      }
+    }
+  }
+}

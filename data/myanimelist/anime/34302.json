@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-15T01:49:19.000Z",
+  "checkedAt": "2022-05-15T01:49:19.000Z",
+  "id": 34302,
+  "type": "anime",
+  "title": "Precure Dream Stars! Movie",
+  "altTitle": [
+    "Eiga Precure Dream Stars!",
+    "映画プリキュアドリームスターズ!"
+  ],
+  "url": "https://myanimelist.net/anime/34302/Precure_Dream_Stars_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/4/86596.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.precure-dreamstars.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12509"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19257"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB_%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12509,
+  "Pages": {
+    "9anime": {
+      "op0j": {
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7598,
+        "identifier": "op0j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Precure Dream Stars! Movie",
+        "url": "https://9anime.to/watch/precure-dream-stars-movie.op0j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Lgskq46HL3k/WXVIO_7SfnI/AAAAAAAADF8/zuB9qITYd-0UneNWXV1lR7FJ9oKM7c_UACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34302,
+        "aniId": 99642,
+        "deletedAt": null
+      },
+      "oj95y": {
+        "createdAt": "2022-03-24T22:28:45.000Z",
+        "updatedAt": "2022-03-24T22:57:13.000Z",
+        "checkedAt": null,
+        "id": 40517,
+        "identifier": "oj95y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Precure Dream Stars! (Dub)",
+        "url": "https://9anime.to/watch/precure-dream-stars-dub.oj95y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/64/644503ee23b5f7e0390e94a033ad2120.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34302,
+        "aniId": 99642,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "precure-dream-stars-movie": {
+        "createdAt": "2021-04-28T22:50:21.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36725,
+        "identifier": "precure-dream-stars-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Precure Dream Stars! Movie",
+        "url": "https://gogoanime.vc/category/precure-dream-stars-movie",
+        "image": "https://gogocdn.net/cover/precure-dream-stars-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34302,
+        "aniId": 99642,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34302": {
+        "identifier": "34302",
+        "malId": 34302,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Precure Dream Stars! Movie",
+        "url": "https://animixplay.to/anime/34302"
+      }
+    },
+    "YugenAnime": {
+      "7613": {
+        "identifier": "7613",
+        "malId": 34302,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Precure Dream Stars! Movie",
+        "url": "https://yugen.to/anime/7613/precure-dream-stars-movie/"
+      }
+    }
+  }
+}

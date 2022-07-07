@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:59:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16771,
+  "identifier": "beet-the-vandel-buster",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Beet The Vandel Buster",
+  "url": "https://gogoanime.vc/category/beet-the-vandel-buster",
+  "image": "https://cdnimg.xyz/images/anime/B/beet-the-vandel-buster.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8,
+  "aniId": 8,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:37:58.000Z",
+    "updatedAt": "2022-05-15T08:23:13.000Z",
+    "checkedAt": "2022-05-15T08:23:13.000Z",
+    "id": 8,
+    "type": "anime",
+    "title": "Bouken Ou Beet",
+    "altTitle": [
+      "Adventure King Beet",
+      "Beet the Vandel Buster",
+      "冒険王ビィト"
+    ],
+    "url": "https://myanimelist.net/anime/8/Bouken_Ou_Beet",
+    "image": "https://cdn.myanimelist.net/images/anime/7/21569.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/beet/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2391"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4347"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Beet_the_Vandel_Buster"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2391
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:25.000Z",
+    "updatedAt": "2022-05-15T17:01:35.000Z",
+    "checkedAt": "2022-05-15T17:01:35.000Z",
+    "id": 8,
+    "type": "anime",
+    "title": "Bouken Ou Beet",
+    "altTitle": [
+      "Beet the Vandel Buster",
+      "冒険王ビィト",
+      "Adventure King Beet"
+    ],
+    "url": "https://anilist.co/anime/8",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8-ReS3TwSgrDDi.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8,
+    "deletedAt": null
+  }
+}

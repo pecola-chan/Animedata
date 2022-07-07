@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-05-14T20:16:11.000Z",
+  "checkedAt": "2022-05-14T20:16:11.000Z",
+  "id": 30458,
+  "type": "anime",
+  "title": "Tokyo Ghoul: \"Jack\"",
+  "altTitle": [
+    "Tokyo Ghoul: Jack",
+    "東京喰種 トーキョーグール【JACK】"
+  ],
+  "url": "https://myanimelist.net/anime/30458/Tokyo_Ghoul__Jack",
+  "image": "https://cdn.myanimelist.net/images/anime/1739/123152.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.marv.jp/special/tokyoghoul/products_ova.html#filter=.jack"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11268"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17155"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276013"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11268,
+  "Pages": {
+    "9anime": {
+      "jjwn": {
+        "createdAt": "2020-10-12T15:52:09.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4856,
+        "identifier": "jjwn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "url": "https://9anime.to/watch/tokyo-ghoul-jack.jjwn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-T-oHmIboQdE/V6BmzxcO6VI/AAAAAAAAzyE/e0BxpE8CGbk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30458,
+        "aniId": 21132,
+        "deletedAt": null
+      },
+      "lvwz": {
+        "createdAt": "2021-04-29T04:22:12.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36728,
+        "identifier": "lvwz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Ghoul: \"Jack\" (Dub)",
+        "url": "https://9anime.to/watch/tokyo-ghoul-jack-dub.lvwz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fb/fb84ab0d27485a8bf0987f6a06180994.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30458,
+        "aniId": 21132,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokyo-ghoul-jack-": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21150,
+        "identifier": "tokyo-ghoul-jack-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "url": "https://gogoanime.vc/category/tokyo-ghoul-jack-",
+        "image": "https://cdnimg.xyz/images/upload/Tokyo-Ghoul-Jack.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30458,
+        "aniId": 21132,
+        "deletedAt": null
+      },
+      "tokyo-ghoul-jack-dub": {
+        "createdAt": "2021-04-30T16:18:42.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36754,
+        "identifier": "tokyo-ghoul-jack-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Ghoul: \"Jack\" (Dub)",
+        "url": "https://gogoanime.vc/category/tokyo-ghoul-jack-dub",
+        "image": "https://gogocdn.net/cover/tokyo-ghoul-jack-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30458,
+        "aniId": 21132,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "391": {
+        "identifier": "391",
+        "malId": 30458,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "url": "https://animepahe.com/a/391"
+      }
+    },
+    "AniMixPlay": {
+      "30458": {
+        "identifier": "30458",
+        "malId": 30458,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "url": "https://animixplay.to/anime/30458"
+      }
+    },
+    "YugenAnime": {
+      "2300": {
+        "identifier": "2300",
+        "malId": 30458,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "url": "https://yugen.to/anime/2300/tokyo-ghoul-jack/"
+      }
+    }
+  }
+}

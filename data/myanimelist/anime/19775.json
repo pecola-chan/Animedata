@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T18:34:41.000Z",
+  "checkedAt": "2022-05-14T18:34:41.000Z",
+  "id": 19775,
+  "type": "anime",
+  "title": "Sidonia no Kishi",
+  "altTitle": [
+    "Sidonia no Kishi",
+    "Knights of Sidonia",
+    "シドニアの騎士"
+  ],
+  "url": "https://myanimelist.net/anime/19775/Sidonia_no_Kishi",
+  "image": "https://cdn.myanimelist.net/images/anime/12/53257.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.knightsofsidonia.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9892"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15496"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Knights_of_Sidonia"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/knights-of-sidonia"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9892,
+  "Pages": {
+    "9anime": {
+      "6xq0": {
+        "createdAt": "2020-10-12T15:50:55.000Z",
+        "updatedAt": "2022-06-14T00:31:13.000Z",
+        "checkedAt": "2022-06-14T00:31:13.000Z",
+        "id": 3244,
+        "identifier": "6xq0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sidonia no Kishi (Dub)",
+        "url": "https://9anime.to/watch/knights-of-sidonia-dub.6xq0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/06b0163e81765289374f2be25f58504e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19775,
+        "aniId": 19775,
+        "deletedAt": null
+      },
+      "qxq3": {
+        "createdAt": "2020-10-12T15:55:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8625,
+        "identifier": "qxq3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sidonia no Kishi",
+        "url": "https://9anime.to/watch/sidonia-no-kishi.qxq3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-F3kmY1APWjc/V5A9BfLhihI/AAAAAAAAwuI/zleOQMS9UgM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19775,
+        "aniId": 19775,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sidonia-no-kishi": {
+        "createdAt": "2020-10-12T16:01:54.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20715,
+        "identifier": "sidonia-no-kishi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sidonia no Kishi",
+        "url": "https://gogoanime.vc/category/sidonia-no-kishi",
+        "image": "https://cdnimg.xyz/images/spring/Sidonia no Kishi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19775,
+        "aniId": 19775,
+        "deletedAt": null
+      },
+      "knights-of-sidonia-dub": {
+        "createdAt": "2021-01-30T14:02:03.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34381,
+        "identifier": "knights-of-sidonia-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Knights of Sidonia (Dub)",
+        "url": "https://gogoanime.vc/category/knights-of-sidonia-dub",
+        "image": "https://gogocdn.net/cover/knights-of-sidonia-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19775,
+        "aniId": 19775,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "408": {
+        "identifier": "408",
+        "malId": 19775,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sidonia no Kishi",
+        "url": "https://animepahe.com/a/408"
+      }
+    },
+    "AniMixPlay": {
+      "19775": {
+        "identifier": "19775",
+        "malId": 19775,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sidonia no Kishi",
+        "url": "https://animixplay.to/anime/19775"
+      }
+    },
+    "YugenAnime": {
+      "5925": {
+        "identifier": "5925",
+        "malId": 19775,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sidonia no Kishi",
+        "url": "https://yugen.to/anime/5925/sidonia-no-kishi/"
+      }
+    }
+  }
+}

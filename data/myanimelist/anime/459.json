@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T09:27:09.000Z",
+  "checkedAt": "2022-05-14T09:27:09.000Z",
+  "id": 459,
+  "type": "anime",
+  "title": "One Piece Movie 01",
+  "altTitle": [
+    "One Piece: The Movie",
+    "ONE PIECE"
+  ],
+  "url": "https://myanimelist.net/anime/459/One_Piece_Movie_01",
+  "image": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=411"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3708"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/One_Piece:_The_Movie"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 411,
+  "Pages": {
+    "9anime": {
+      "yv0z": {
+        "createdAt": "2020-10-12T15:56:57.000Z",
+        "updatedAt": "2022-06-14T02:02:02.000Z",
+        "checkedAt": "2022-06-14T02:02:02.000Z",
+        "id": 10845,
+        "identifier": "yv0z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece (Movie)",
+        "url": "https://9anime.to/watch/one-piece-movie.yv0z",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/94bdb3a5369f77aa508264e2badbf966.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 459,
+        "aniId": 459,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-piece-movie-1-the-great-gold-pirate": {
+        "createdAt": "2020-10-12T16:01:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19859,
+        "identifier": "one-piece-movie-1-the-great-gold-pirate",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece Movie 1: The Great Gold Pirate",
+        "url": "https://gogoanime.vc/category/one-piece-movie-1-the-great-gold-pirate",
+        "image": "https://gogocdn.net/images/anime/O/One-Piece-movie-1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 459,
+        "aniId": 459,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3778": {
+        "identifier": "3778",
+        "malId": 459,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece Movie 01",
+        "url": "https://animepahe.com/a/3778"
+      }
+    },
+    "AniMixPlay": {
+      "459": {
+        "identifier": "459",
+        "malId": 459,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece Movie 01",
+        "url": "https://animixplay.to/anime/459"
+      }
+    },
+    "YugenAnime": {
+      "3941": {
+        "identifier": "3941",
+        "malId": 459,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Piece Movie 1",
+        "url": "https://yugen.to/anime/3941/one-piece-movie-1/"
+      }
+    }
+  }
+}

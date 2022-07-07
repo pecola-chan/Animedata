@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T19:29:11.000Z",
+  "checkedAt": "2022-05-14T19:29:11.000Z",
+  "id": 33811,
+  "type": "anime",
+  "title": "Teekyuu 8",
+  "altTitle": [
+    "Teekyu 8",
+    "てーきゅう 8期"
+  ],
+  "url": "https://myanimelist.net/anime/33811/Teekyuu_8",
+  "image": "https://cdn.myanimelist.net/images/anime/8/81424.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://te-kyu.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12321"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18687"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teekyu"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-249472"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12321,
+  "Pages": {
+    "9anime": {
+      "n9zl": {
+        "createdAt": "2020-10-12T15:53:52.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7059,
+        "identifier": "n9zl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Teekyuu 8",
+        "url": "https://9anime.to/watch/teekyuu-8.n9zl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KNVmGu-f4H8/V-vA3itL_YI/AAAAAAABB5c/qnAwoc4VCyw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33811,
+        "aniId": 21896,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "teekyuu-8": {
+        "createdAt": "2021-11-17T11:19:23.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
+        "checkedAt": null,
+        "id": 39227,
+        "identifier": "teekyuu-8",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Teekyuu 8",
+        "url": "https://gogoanime.cm/category/teekyuu-8",
+        "image": "https://gogocdn.net/cover/teekyuu-8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33811,
+        "aniId": 21896,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1390": {
+        "identifier": "1390",
+        "malId": 33811,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Teekyuu 8",
+        "url": "https://animepahe.com/a/1390"
+      }
+    },
+    "AniMixPlay": {
+      "33811": {
+        "identifier": "33811",
+        "malId": 33811,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Teekyuu 8",
+        "url": "https://animixplay.to/anime/33811"
+      }
+    },
+    "YugenAnime": {
+      "1276": {
+        "identifier": "1276",
+        "malId": 33811,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Teekyuu 8",
+        "url": "https://yugen.to/anime/1276/teekyuu-8/"
+      }
+    }
+  }
+}

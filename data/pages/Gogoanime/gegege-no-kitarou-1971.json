@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-03-27T22:49:12.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36000,
+  "identifier": "gegege-no-kitarou-1971",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gegege no Kitarou (1971)",
+  "url": "https://gogoanime.vc/category/gegege-no-kitarou-1971",
+  "image": "https://gogocdn.net/cover/gegege-no-kitarou-1971.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6971,
+  "aniId": 6971,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:54.000Z",
+    "updatedAt": "2022-05-14T22:28:17.000Z",
+    "checkedAt": "2022-05-14T22:28:17.000Z",
+    "id": 6971,
+    "type": "anime",
+    "title": "Gegege no Kitarou (1971)",
+    "altTitle": [
+      "ゲゲゲの鬼太郎"
+    ],
+    "url": "https://myanimelist.net/anime/6971/Gegege_no_Kitarou_1971",
+    "image": "https://cdn.myanimelist.net/images/anime/6/27399.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/kitaro_2nd/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1452"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2212"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#TV_series"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1452
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:46.000Z",
+    "updatedAt": "2022-05-15T20:07:59.000Z",
+    "checkedAt": "2022-05-15T20:07:59.000Z",
+    "id": 6971,
+    "type": "anime",
+    "title": "Gegege no Kitarou (1971)",
+    "altTitle": [
+      "ゲゲゲの鬼太郎"
+    ],
+    "url": "https://anilist.co/anime/6971",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6971.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6971,
+    "deletedAt": null
+  }
+}

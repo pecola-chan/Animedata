@@ -1,0 +1,83 @@
+{
+  "createdAt": "2021-04-30T21:20:46.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36759,
+  "identifier": "omoi-omoware-furi-furare",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Omoi, Omoware, Furi, Furare",
+  "url": "https://gogoanime.vc/category/omoi-omoware-furi-furare",
+  "image": "https://gogocdn.net/cover/omoi-omoware-furi-furare.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39753,
+  "aniId": 109125,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:10.000Z",
+    "updatedAt": "2022-05-14T16:12:09.000Z",
+    "checkedAt": "2022-05-14T16:12:09.000Z",
+    "id": 39753,
+    "type": "anime",
+    "title": "Omoi, Omoware, Furi, Furare",
+    "altTitle": [
+      "Love, Be Loved, Leave, Be Left",
+      "Furifura",
+      "Love Me, Love Me Not",
+      "思い、思われ、ふり、ふられ"
+    ],
+    "url": "https://myanimelist.net/anime/39753/Omoi_Omoware_Furi_Furare",
+    "image": "https://cdn.myanimelist.net/images/anime/1418/108748.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://furifura-movie-animation.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14883"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22922"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Omoi,_Omoware,_Furi,_Furare#Anime_film"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "shahid",
+        "url": "https://shahid.mbc.net/en/movies/Love-Me-Love-Me-Not/movie-919802"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 14883
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:24.000Z",
+    "updatedAt": "2022-05-15T09:37:11.000Z",
+    "checkedAt": "2022-05-15T09:37:11.000Z",
+    "id": 109125,
+    "type": "anime",
+    "title": "Omoi, Omoware, Furi, Furare",
+    "altTitle": [
+      "思い、思われ、ふり、ふられ",
+      "Love, Be Loved, Leave, Be Left",
+      "Love Me, Love Me Not"
+    ],
+    "url": "https://anilist.co/anime/109125",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109125-LRhTuc4RMct7.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39753,
+    "deletedAt": null
+  }
+}

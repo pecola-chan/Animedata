@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-15T00:51:11.000Z",
+  "checkedAt": "2022-05-15T00:51:11.000Z",
+  "id": 8609,
+  "type": "anime",
+  "title": "Detective Conan OVA 10: Kid in Trap Island",
+  "altTitle": [
+    "Detective Conan OAV 10: Kid in Trap Island",
+    "名探偵コナン ～KID in TRAP ISLAND～"
+  ],
+  "url": "https://myanimelist.net/anime/8609/Detective_Conan_OVA_10__Kid_in_Trap_Island",
+  "image": "https://cdn.myanimelist.net/images/anime/7/23698.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://websunday.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7494"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11689"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_Case_Closed_anime_specials#Sh.C5.8Dnen_Sunday_Original_Animation"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7494,
+  "Pages": {
+    "9anime": {
+      "m64x": {
+        "createdAt": "2020-10-12T15:53:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6441,
+        "identifier": "m64x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Detective Conan OVA 10: Kid in Trap Island",
+        "url": "https://9anime.to/watch/detective-conan-ova-10-kid-in-trap-island.m64x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ITukZbFqX5U/WGIYNcwc5lI/AAAAAAABVCM/x_Q_HaNtUs8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8609,
+        "aniId": 8609,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8609": {
+        "identifier": "8609",
+        "malId": 8609,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Detective Conan OVA 10: Kid in Trap Island",
+        "url": "https://animixplay.to/anime/8609"
+      }
+    }
+  }
+}

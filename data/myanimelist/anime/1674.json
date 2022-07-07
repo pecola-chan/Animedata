@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-15T08:18:56.000Z",
+  "checkedAt": "2022-05-15T08:18:56.000Z",
+  "id": 1674,
+  "type": "anime",
+  "title": "Captain Tsubasa J",
+  "altTitle": [
+    "キャプテン翼Ｊ"
+  ],
+  "url": "https://myanimelist.net/anime/1674/Captain_Tsubasa_J",
+  "image": "https://cdn.myanimelist.net/images/anime/1140/92113.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=507"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1782"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Captain_Tsubasa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 507,
+  "Pages": {
+    "9anime": {
+      "4z0k": {
+        "createdAt": "2020-10-12T15:50:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2441,
+        "identifier": "4z0k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Captain Tsubasa J",
+        "url": "https://9anime.to/watch/captain-tsubasa-j.4z0k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FVzJhO5STlg/WAmrKnxqOxI/AAAAAAABJ0U/x4Hro8wNC5s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1674,
+        "aniId": 1674,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "captain-tsubasa-j": {
+        "createdAt": "2021-02-23T15:56:09.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35170,
+        "identifier": "captain-tsubasa-j",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Captain Tsubasa J",
+        "url": "https://gogoanime.vc/category/captain-tsubasa-j",
+        "image": "https://gogocdn.net/cover/captain-tsubasa-j.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1674,
+        "aniId": 1674,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1674": {
+        "identifier": "1674",
+        "malId": 1674,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Captain Tsubasa J",
+        "url": "https://animixplay.to/anime/1674"
+      }
+    },
+    "YugenAnime": {
+      "7268": {
+        "identifier": "7268",
+        "malId": 1674,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Captain Tsubasa J",
+        "url": "https://yugen.to/anime/7268/captain-tsubasa-j/"
+      }
+    }
+  }
+}

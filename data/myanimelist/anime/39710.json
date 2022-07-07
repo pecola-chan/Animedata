@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T16:19:23.000Z",
+  "checkedAt": "2022-05-14T16:19:23.000Z",
+  "id": 39710,
+  "type": "anime",
+  "title": "Yesterday wo Utatte",
+  "altTitle": [
+    "Sing \"Yesterday\" for Me",
+    "イエスタデイをうたって"
+  ],
+  "url": "https://myanimelist.net/anime/39710/Yesterday_wo_Utatte",
+  "image": "https://cdn.myanimelist.net/images/anime/1553/107721.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://singyesterday.com/toppage/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14822"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22975"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sing_%22Yesterday%22_for_Me#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279210"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14822,
+  "Pages": {
+    "9anime": {
+      "mkv8": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6587,
+        "identifier": "mkv8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yesterday wo Utatte",
+        "url": "https://9anime.to/watch/sing-yesterday-for-me.mkv8",
+        "image": "//static.9anime.to/i/cache/images/2019/05/ce0d93e430b534b892624c3ea954e399.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39710,
+        "aniId": 109020,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yesterday-wo-utatte": {
+        "createdAt": "2020-10-12T16:02:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21535,
+        "identifier": "yesterday-wo-utatte",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yesterday wo Utatte",
+        "url": "https://gogoanime.vc/category/yesterday-wo-utatte",
+        "image": "https://gogocdn.net/cover/yesterday-wo-utatte.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39710,
+        "aniId": 109020,
+        "deletedAt": null
+      },
+      "yesterday-wo-utatte-extras": {
+        "createdAt": "2022-03-10T09:59:55.000Z",
+        "updatedAt": "2022-03-10T10:29:44.000Z",
+        "checkedAt": null,
+        "id": 40431,
+        "identifier": "yesterday-wo-utatte-extras",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yesterday wo Utatte Extras",
+        "url": "https://gogoanime.fi/category/yesterday-wo-utatte-extras",
+        "image": "https://gogocdn.net/cover/yesterday-wo-utatte-extras.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39710,
+        "aniId": 109020,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3884": {
+        "identifier": "3884",
+        "malId": 39710,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yesterday wo Utatte",
+        "url": "https://animepahe.com/a/3884"
+      }
+    },
+    "AniMixPlay": {
+      "39710": {
+        "identifier": "39710",
+        "malId": 39710,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yesterday wo Utatte",
+        "url": "https://animixplay.to/anime/39710"
+      }
+    },
+    "YugenAnime": {
+      "3754": {
+        "identifier": "3754",
+        "malId": 39710,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yesterday wo Utatte",
+        "url": "https://yugen.to/anime/3754/yesterday-wo-utatte/"
+      }
+    }
+  }
+}

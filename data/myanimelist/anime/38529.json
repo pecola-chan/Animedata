@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T18:34:05.000Z",
+  "checkedAt": "2022-05-14T18:34:05.000Z",
+  "id": 38529,
+  "type": "anime",
+  "title": "Rifle Is Beautiful",
+  "altTitle": [
+    "Chidori RSC",
+    "ライフル・イズ・ビューティフル"
+  ],
+  "url": "https://myanimelist.net/anime/38529/Rifle_Is_Beautiful",
+  "image": "https://cdn.myanimelist.net/images/anime/1874/100747.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://chidori-high-school.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14445"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22361"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rifle_is_Beautiful#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282043"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/chidori-rsc"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14445,
+  "Pages": {
+    "9anime": {
+      "rxwn": {
+        "createdAt": "2020-10-12T15:55:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9077,
+        "identifier": "rxwn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chidori RSC",
+        "url": "https://9anime.to/watch/rifle-is-beautiful.rxwn",
+        "image": "https://static.akacdn.ru/files/images/2019/10/f893971ac6d4ec1a337d427114ac58fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38529,
+        "aniId": 104679,
+        "deletedAt": null
+      },
+      "zom2": {
+        "createdAt": "2021-01-01T12:53:09.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32419,
+        "identifier": "zom2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rifle Is Beautiful (Dub)",
+        "url": "https://9anime.to/watch/chidori-rsc-dub.zom2",
+        "image": "//static.9anime.to/i/cache/images/1/1d/1dfa3d6678102e328d6aa6ced4df42a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38529,
+        "aniId": 104679,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rifle-is-beautiful": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20293,
+        "identifier": "rifle-is-beautiful",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rifle Is Beautiful",
+        "url": "https://gogoanime.vc/category/rifle-is-beautiful",
+        "image": "https://cdnimg.xyz/cover/rifle-is-beautiful.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38529,
+        "aniId": 104679,
+        "deletedAt": null
+      },
+      "rifle-is-beautiful-dub": {
+        "createdAt": "2020-12-29T02:17:15.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31285,
+        "identifier": "rifle-is-beautiful-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rifle Is Beautiful (Dub)",
+        "url": "https://gogoanime.vc/category/rifle-is-beautiful-dub",
+        "image": "https://gogocdn.net/cover/rifle-is-beautiful-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38529,
+        "aniId": 104679,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3464": {
+        "identifier": "3464",
+        "malId": 38529,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rifle Is Beautiful",
+        "url": "https://animepahe.com/a/3464"
+      }
+    },
+    "AniMixPlay": {
+      "38529": {
+        "identifier": "38529",
+        "malId": 38529,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rifle Is Beautiful",
+        "url": "https://animixplay.to/anime/38529"
+      }
+    },
+    "YugenAnime": {
+      "1634": {
+        "identifier": "1634",
+        "malId": 38529,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rifle Is Beautiful",
+        "url": "https://yugen.to/anime/1634/rifle-is-beautiful/"
+      }
+    }
+  }
+}

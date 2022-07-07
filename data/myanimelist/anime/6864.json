@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T21:52:29.000Z",
+  "checkedAt": "2022-05-14T21:52:29.000Z",
+  "id": 6864,
+  "type": "anime",
+  "title": "xxxHOLiC: Rou",
+  "altTitle": [
+    "xxxHOLiC Rou: Adayume",
+    "×××HOLiC・籠"
+  ],
+  "url": "https://myanimelist.net/anime/6864/xxxHOLiC__Rou",
+  "image": "https://cdn.myanimelist.net/images/anime/9/25080.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/tsubaholi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7178"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11396"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Xxxholic#Original_video_animations"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7178,
+  "Pages": {
+    "9anime": {
+      "lx0m": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6236,
+        "identifier": "lx0m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "xxxHOLiC Rou",
+        "url": "https://9anime.to/watch/xxxholic-rou.lx0m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iQxUH659Gac/V77pK-fQ5bI/AAAAAAAA5bQ/bmYEYwgx0lo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6864,
+        "aniId": 6864,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "xxxholic-rou": {
+        "createdAt": "2020-10-12T16:02:17.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21482,
+        "identifier": "xxxholic-rou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "xxxHOLiC Rou",
+        "url": "https://gogoanime.vc/category/xxxholic-rou",
+        "image": "https://cdnimg.xyz/cover/xxxholic-rou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6864,
+        "aniId": 6864,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3191": {
+        "identifier": "3191",
+        "malId": 6864,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "xxxHOLiC: Rou",
+        "url": "https://animepahe.com/a/3191"
+      }
+    },
+    "AniMixPlay": {
+      "6864": {
+        "identifier": "6864",
+        "malId": 6864,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "xxxHOLiC: Rou",
+        "url": "https://animixplay.to/anime/6864"
+      }
+    },
+    "YugenAnime": {
+      "1966": {
+        "identifier": "1966",
+        "malId": 6864,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "xxxHOLiC Rou",
+        "url": "https://yugen.to/anime/1966/xxxholic-rou/"
+      }
+    }
+  }
+}

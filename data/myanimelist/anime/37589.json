@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T23:46:46.000Z",
+  "checkedAt": "2022-05-14T23:46:46.000Z",
+  "id": 37589,
+  "type": "anime",
+  "title": "Ano Hi no Kanojo-tachi",
+  "altTitle": [
+    "22/7",
+    "Nanabun no Nijuuni",
+    "The Diary of Our Days",
+    "あの日の彼女たち"
+  ],
+  "url": "https://myanimelist.net/anime/37589/Ano_Hi_no_Kanojo-tachi",
+  "image": "https://cdn.myanimelist.net/images/anime/1263/93685.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nanabunnonijyuuni.com/special/gallery-001/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13299"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13299,
+  "Pages": {
+    "9anime": {
+      "4o9x": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2319,
+        "identifier": "4o9x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ano Hi no Kanojo-tachi",
+        "url": "https://9anime.to/watch/ano-hi-no-kanojo-tachi.4o9x",
+        "image": "http://static.akacdn.ru/static/images/2018/06/986da54c2ae211c647c543f924dd13cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37589,
+        "aniId": 101775,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ano-hi-no-kanojo-tachi": {
+        "createdAt": "2020-10-12T15:59:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16538,
+        "identifier": "ano-hi-no-kanojo-tachi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ano Hi no Kanojo-tachi",
+        "url": "https://gogoanime.vc/category/ano-hi-no-kanojo-tachi",
+        "image": "https://cdnimg.xyz/cover/ano-hi-no-kanojo-tachi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37589,
+        "aniId": 101775,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37589": {
+        "identifier": "37589",
+        "malId": 37589,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ano Hi no Kanojo-tachi",
+        "url": "https://animixplay.to/anime/37589"
+      }
+    },
+    "YugenAnime": {
+      "3997": {
+        "identifier": "3997",
+        "malId": 37589,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ano Hi no Kanojo-tachi",
+        "url": "https://yugen.to/anime/3997/ano-hi-no-kanojo-tachi/"
+      }
+    }
+  }
+}

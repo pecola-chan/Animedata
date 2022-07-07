@@ -1,0 +1,114 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T23:13:41.000Z",
+  "checkedAt": "2022-05-14T23:13:41.000Z",
+  "id": 20651,
+  "type": "anime",
+  "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+  "altTitle": [
+    "Natsume Yuujinchou OVA",
+    "Natsume Yujincho OVA",
+    "Natsume's Book of Friends OVA",
+    "Natsume on One Snowy Day",
+    "夏目友人帳 新作OVA いつかゆきのひに"
+  ],
+  "url": "https://myanimelist.net/anime/20651/Natsume_Yuujinchou__Itsuka_Yuki_no_Hi_ni",
+  "image": "https://cdn.myanimelist.net/images/anime/11/79742.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aniplex.co.jp/natsume/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10447"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17081"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3#OVA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10447,
+  "Pages": {
+    "9anime": {
+      "x66z": {
+        "createdAt": "2020-10-12T15:56:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10160,
+        "identifier": "x66z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+        "url": "https://9anime.to/watch/natsume-yuujinchou-itsuka-yuki-no-hi-ni.x66z",
+        "image": "http://static.akacdn.ru/static/images/2018/04/53cd55bd9a1977db11e0cf50d472d73e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20651,
+        "aniId": 20478,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "natsume-yuujinchou-itsuka-yuki-no-hi-ni-ova": {
+        "createdAt": "2020-10-12T16:01:23.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19675,
+        "identifier": "natsume-yuujinchou-itsuka-yuki-no-hi-ni-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Natsume Yuujinchou Itsuka Yuki no Hi ni OVA",
+        "url": "https://gogoanime.vc/category/natsume-yuujinchou-itsuka-yuki-no-hi-ni-ova",
+        "image": "https://gogocdn.net/images/Natsume Yuujinchou Itsuka Yuki no Hi ni.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20651,
+        "aniId": 20478,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "658": {
+        "identifier": "658",
+        "malId": 20651,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+        "url": "https://animepahe.com/a/658"
+      }
+    },
+    "AniMixPlay": {
+      "20651": {
+        "identifier": "20651",
+        "malId": 20651,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+        "url": "https://animixplay.to/anime/20651"
+      }
+    },
+    "YugenAnime": {
+      "5588": {
+        "identifier": "5588",
+        "malId": 20651,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+        "url": "https://yugen.to/anime/5588/natsume-yuujinchou-itsuka-yuki-no-hi-ni-ova/"
+      }
+    }
+  }
+}

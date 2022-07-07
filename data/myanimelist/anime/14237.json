@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T20:21:47.000Z",
+  "checkedAt": "2022-05-14T20:21:47.000Z",
+  "id": 14237,
+  "type": "anime",
+  "title": "Busou Shinki",
+  "altTitle": [
+    "Busou Shinki: Armored War Goddess",
+    "武装神姫"
+  ],
+  "url": "https://myanimelist.net/anime/14237/Busou_Shinki",
+  "image": "https://cdn.myanimelist.net/images/anime/10/43155.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/busou/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9237"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14341"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Busou_Shinki"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/busou-shinki"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9237,
+  "Pages": {
+    "9anime": {
+      "znm": {
+        "createdAt": "2020-10-12T15:57:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11227,
+        "identifier": "znm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Busou Shinki",
+        "url": "https://9anime.to/watch/busou-shinki.znm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FlIusp9PuDU/V3o07PU4pOI/AAAAAAAAtPY/cKYwiyspk88/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14237,
+        "aniId": 14237,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "busou-shinki": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16983,
+        "identifier": "busou-shinki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Busou Shinki",
+        "url": "https://gogoanime.vc/category/busou-shinki",
+        "image": "https://gogocdn.net/images/upload/126479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14237,
+        "aniId": 14237,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "514": {
+        "identifier": "514",
+        "malId": 14237,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Busou Shinki",
+        "url": "https://animepahe.com/a/514"
+      }
+    },
+    "AniMixPlay": {
+      "14237": {
+        "identifier": "14237",
+        "malId": 14237,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Busou Shinki",
+        "url": "https://animixplay.to/anime/14237"
+      }
+    },
+    "YugenAnime": {
+      "736": {
+        "identifier": "736",
+        "malId": 14237,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Busou Shinki",
+        "url": "https://yugen.to/anime/736/busou-shinki/"
+      }
+    }
+  }
+}

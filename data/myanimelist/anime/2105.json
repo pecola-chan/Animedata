@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T22:18:42.000Z",
+  "checkedAt": "2022-05-14T22:18:42.000Z",
+  "id": 2105,
+  "type": "anime",
+  "title": "Touka Gettan",
+  "altTitle": [
+    "Toka Gettan",
+    "The Moonlight Lady returns",
+    "桃華月憚"
+  ],
+  "url": "https://myanimelist.net/anime/2105/Touka_Gettan",
+  "image": "https://cdn.myanimelist.net/images/anime/2/75452.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.avexmovie.jp/lineup/momotsuki/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4971"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7508"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Touka_Gettan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4971,
+  "Pages": {
+    "9anime": {
+      "5jv": {
+        "createdAt": "2020-10-12T15:50:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2633,
+        "identifier": "5jv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Touka Gettan",
+        "url": "https://9anime.to/watch/touka-gettan.5jv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GhNaJ-nIbig/V4EALCT4AeI/AAAAAAAAuP0/KM8knZQQttw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2105,
+        "aniId": 2105,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "touka-gettan": {
+        "createdAt": "2020-10-12T16:02:08.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21200,
+        "identifier": "touka-gettan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Touka Gettan",
+        "url": "https://gogoanime.vc/category/touka-gettan",
+        "image": "https://cdnimg.xyz/images/anime/T/touka-gettan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2105,
+        "aniId": 2105,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2105": {
+        "identifier": "2105",
+        "malId": 2105,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Touka Gettan",
+        "url": "https://animixplay.to/anime/2105"
+      }
+    },
+    "YugenAnime": {
+      "1450": {
+        "identifier": "1450",
+        "malId": 2105,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Touka Gettan",
+        "url": "https://yugen.to/anime/1450/touka-gettan/"
+      }
+    }
+  }
+}

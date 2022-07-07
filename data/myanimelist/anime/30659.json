@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-06-06T00:18:07.000Z",
+  "checkedAt": "2022-06-06T00:18:07.000Z",
+  "id": 30659,
+  "type": "anime",
+  "title": "Nouryou Anime: Denkyuu Ika Matsuri",
+  "altTitle": [
+    "Ikamaturi",
+    "Metempsychosis",
+    "Squid Festival",
+    "納涼アニメ 電球烏賊祭"
+  ],
+  "url": "https://myanimelist.net/anime/30659/Nouryou_Anime__Denkyuu_Ika_Matsuri",
+  "image": "https://cdn.myanimelist.net/images/anime/13/73673.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yamamuraanimation.blog13.fc2.com/blog-entry-95.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/K%C5%8Dji_Yamamura"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "x78w": {
+        "createdAt": "2020-12-09T14:32:52.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29952,
+        "identifier": "x78w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nouryou Anime: Denkyuu Ika Matsuri",
+        "url": "https://9anime.to/watch/squid-festival.x78w",
+        "image": "//static.9anime.to/i/cache/images/2018/06/ec5232192bd00bba80fac41cd3386282.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30659,
+        "aniId": 103926,
+        "deletedAt": null
+      }
+    }
+  }
+}

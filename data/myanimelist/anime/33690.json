@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T21:35:35.000Z",
+  "checkedAt": "2022-05-14T21:35:35.000Z",
+  "id": 33690,
+  "type": "anime",
+  "title": "Nazotokine",
+  "altTitle": [
+    "Nazotokine",
+    "ナゾトキネ"
+  ],
+  "url": "https://myanimelist.net/anime/33690/Nazotokine",
+  "image": "https://cdn.myanimelist.net/images/anime/4/81048.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nazotokine.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12280"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18634"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nazotokine"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271463"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12280,
+  "Pages": {
+    "9anime": {
+      "oq2z": {
+        "createdAt": "2020-10-12T15:54:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7623,
+        "identifier": "oq2z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nazotokine",
+        "url": "https://9anime.to/watch/nazotokine.oq2z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7_6MpJsiCvA/V-uHLDeUbzI/AAAAAAABB1A/KExIEwTMY0w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33690,
+        "aniId": 21876,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nazotokine": {
+        "createdAt": "2020-10-12T16:01:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19688,
+        "identifier": "nazotokine",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nazotokine",
+        "url": "https://gogoanime.vc/category/nazotokine",
+        "image": "https://gogocdn.net/cover/nazotokine.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33690,
+        "aniId": 21876,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1429": {
+        "identifier": "1429",
+        "malId": 33690,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nazotokine",
+        "url": "https://animepahe.com/a/1429"
+      }
+    },
+    "AniMixPlay": {
+      "33690": {
+        "identifier": "33690",
+        "malId": 33690,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nazotokine",
+        "url": "https://animixplay.to/anime/33690"
+      }
+    },
+    "YugenAnime": {
+      "592": {
+        "identifier": "592",
+        "malId": 33690,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nazotokine",
+        "url": "https://yugen.to/anime/592/nazotokine/"
+      }
+    }
+  }
+}

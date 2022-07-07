@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T16:00:57.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18756,
+  "identifier": "kazemakase-tsukikage-ran",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kazemakase Tsukikage Ran",
+  "url": "https://gogoanime.vc/category/kazemakase-tsukikage-ran",
+  "image": "https://cdnimg.xyz/images/16745.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 606,
+  "aniId": 606,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T20:10:17.000Z",
+    "checkedAt": "2022-05-14T20:10:17.000Z",
+    "id": 606,
+    "type": "anime",
+    "title": "Kazemakase Tsukikage Ran",
+    "altTitle": [
+      "Wind-borne Moon-lit Ran",
+      "The Samurai Girl",
+      "Carried by the Wind: Tsukikage Ran",
+      "風まかせ月影蘭"
+    ],
+    "url": "https://myanimelist.net/anime/606/Kazemakase_Tsukikage_Ran",
+    "image": "https://cdn.myanimelist.net/images/anime/5/16745.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madhouse.co.jp/works/2000-1999/works_tv_kazemakase.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=407"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=789"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Carried_by_the_Wind:_Tsukikage_Ran"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 407
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-15T15:40:11.000Z",
+    "checkedAt": "2022-05-15T15:40:11.000Z",
+    "id": 606,
+    "type": "anime",
+    "title": "Kazemakase Tsukikage Ran",
+    "altTitle": [
+      "Carried by the Wind: Tsukikage Ran",
+      "風まかせ月影蘭",
+      "Wind-borne Moon-lit Ran",
+      "The Samurai Girl"
+    ],
+    "url": "https://anilist.co/anime/606",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b606-z4pd5NIJs0dm.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/carried-by-the-wind-tsukikage-ran"
+      }
+    ],
+    "malId": 606,
+    "deletedAt": null
+  }
+}

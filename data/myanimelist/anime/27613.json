@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-15T01:07:35.000Z",
+  "checkedAt": "2022-05-15T01:07:35.000Z",
+  "id": 27613,
+  "type": "anime",
+  "title": "Selector Infected WIXOSS: Midoriko-san to Piruruku-tan",
+  "altTitle": [
+    "selector infected WIXOSS 『緑子さんとピルルクたん』"
+  ],
+  "url": "https://myanimelist.net/anime/27613/Selector_Infected_WIXOSS__Midoriko-san_to_Piruruku-tan",
+  "image": "https://cdn.myanimelist.net/images/anime/10/67027.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.selector-wixoss.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10417"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10417,
+  "Pages": {
+    "9anime": {
+      "2vv5": {
+        "createdAt": "2020-10-12T15:49:34.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1532,
+        "identifier": "2vv5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Selector Infected WIXOSS: Midoriko-san to Piruruku-tan",
+        "url": "https://9anime.to/watch/selector-infected-wixoss-midoriko-san-to-piruruku-tan.2vv5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZjlJyycVhSY/V_HV-jIowmI/AAAAAAABDiw/jPlASQVI0hw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27613,
+        "aniId": 20870,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "100": {
+        "identifier": "100",
+        "malId": 27613,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Selector Infected WIXOSS: Midoriko-san to Piruruku-tan",
+        "url": "https://animepahe.com/a/100"
+      }
+    },
+    "AniMixPlay": {
+      "27613": {
+        "identifier": "27613",
+        "malId": 27613,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Selector Infected WIXOSS: Midoriko-san to Piruruku-tan",
+        "url": "https://animixplay.to/anime/27613"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-15T06:00:30.000Z",
+  "checkedAt": "2022-05-15T06:00:30.000Z",
+  "id": 10177,
+  "type": "anime",
+  "title": "DD Hokuto no Ken",
+  "altTitle": [
+    "DD Fist of the North Star",
+    "DD北斗之拳"
+  ],
+  "url": "https://myanimelist.net/anime/10177/DD_Hokuto_no_Ken",
+  "image": "https://cdn.myanimelist.net/images/anime/12/28072.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hokuto-no-ken.jp/2010/12/tvanime-dd.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8182"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12347"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/DD%E5%8C%97%E6%96%97%E3%81%AE%E6%8B%B3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255113"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/dd-fist-of-the-north-star"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8182,
+  "Pages": {
+    "9anime": {
+      "gxz": {
+        "createdAt": "2020-10-12T15:51:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4560,
+        "identifier": "gxz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "DD Hokuto no Ken",
+        "url": "https://9anime.to/watch/dd-hokuto-no-ken.gxz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jgft1ouMKB4/V2idI-XlTOI/AAAAAAAApfg/7CMXcScEwt8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10177,
+        "aniId": 10177,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dd-hokuto-no-ken": {
+        "createdAt": "2021-05-07T10:49:28.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36917,
+        "identifier": "dd-hokuto-no-ken",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "DD Hokuto no Ken",
+        "url": "https://gogoanime.vc/category/dd-hokuto-no-ken",
+        "image": "https://gogocdn.net/images/anime/DD-Hokuto-no-Ken.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10177,
+        "aniId": 10177,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10177": {
+        "identifier": "10177",
+        "malId": 10177,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "DD Hokuto no Ken",
+        "url": "https://animixplay.to/anime/10177"
+      }
+    },
+    "YugenAnime": {
+      "1019": {
+        "identifier": "1019",
+        "malId": 10177,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "DD Hokuto no Ken",
+        "url": "https://yugen.to/anime/1019/dd-hokuto-no-ken/"
+      }
+    }
+  }
+}

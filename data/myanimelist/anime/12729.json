@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T10:07:52.000Z",
+  "checkedAt": "2022-05-14T10:07:52.000Z",
+  "id": 12729,
+  "type": "anime",
+  "title": "High School DxD OVA",
+  "altTitle": [
+    "High School DxD Episodes 13 and 14",
+    "Highschool DxD OVA",
+    "ハイスクールD×D OVA"
+  ],
+  "url": "https://myanimelist.net/anime/12729/High_School_DxD_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/13/63561.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.haremking.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8925"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High_School_D%C3%97D"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8925,
+  "Pages": {
+    "9anime": {
+      "x6o8": {
+        "createdAt": "2020-10-12T15:56:26.000Z",
+        "updatedAt": "2022-06-14T01:01:28.000Z",
+        "checkedAt": "2022-06-14T01:01:28.000Z",
+        "id": 10169,
+        "identifier": "x6o8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High School DxD OVA",
+        "url": "https://9anime.to/watch/high-school-dxd-ova.x6o8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/c9ebed543e52e82def88003ceb21bf1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12729,
+        "aniId": 12729,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "256": {
+        "identifier": "256",
+        "malId": 12729,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "High School DxD OVA",
+        "url": "https://animepahe.com/a/256"
+      }
+    },
+    "AniMixPlay": {
+      "12729": {
+        "identifier": "12729",
+        "malId": 12729,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "High School DxD OVA",
+        "url": "https://animixplay.to/anime/12729"
+      }
+    },
+    "YugenAnime": {
+      "1222": {
+        "identifier": "1222",
+        "malId": 12729,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "High School DxD OVA",
+        "url": "https://yugen.to/anime/1222/high-school-dxd-ova/"
+      }
+    }
+  }
+}

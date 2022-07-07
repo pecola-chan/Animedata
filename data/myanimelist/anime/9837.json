@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-15T01:40:54.000Z",
+  "checkedAt": "2022-05-15T01:40:54.000Z",
+  "id": 9837,
+  "type": "anime",
+  "title": "Emblem Take 2",
+  "altTitle": [
+    "代紋(エンブレム) TAKE2"
+  ],
+  "url": "https://myanimelist.net/anime/9837/Emblem_Take_2",
+  "image": "https://cdn.myanimelist.net/images/anime/7/27231.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4234"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15723"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/代紋TAKE2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4234,
+  "Pages": {
+    "9anime": {
+      "7p76": {
+        "createdAt": "2020-10-12T15:51:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3519,
+        "identifier": "7p76",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Emblem Take 2",
+        "url": "https://9anime.to/watch/emblem-take-2.7p76",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RyicyVW1RmY/WaGbswLlCVI/AAAAAAAADAk/IXkQFanpu_06rr923AUv3bFN5-sU1EpwQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9837,
+        "aniId": 9837,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "emblem-take-2": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17552,
+        "identifier": "emblem-take-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Emblem Take 2",
+        "url": "https://gogoanime.vc/category/emblem-take-2",
+        "image": "https://cdnimg.xyz/cover/emblem-take-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9837,
+        "aniId": 9837,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9837": {
+        "identifier": "9837",
+        "malId": 9837,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Emblem Take 2",
+        "url": "https://animixplay.to/anime/9837"
+      }
+    },
+    "YugenAnime": {
+      "1375": {
+        "identifier": "1375",
+        "malId": 9837,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Emblem Take 2",
+        "url": "https://yugen.to/anime/1375/emblem-take-2/"
+      }
+    }
+  }
+}

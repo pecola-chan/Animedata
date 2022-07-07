@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:01:30.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19881,
+  "identifier": "onegai-my-melody",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Onegai My Melody",
+  "url": "https://gogoanime.vc/category/onegai-my-melody",
+  "image": "https://gogocdn.net/cover/onegai-my-melody.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2489,
+  "aniId": 2489,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:29.000Z",
+    "updatedAt": "2022-05-14T22:18:59.000Z",
+    "checkedAt": "2022-05-14T22:18:59.000Z",
+    "id": 2489,
+    "type": "anime",
+    "title": "Onegai My Melody",
+    "altTitle": [
+      "Onegai My Melody",
+      "おねがいマイメロディ"
+    ],
+    "url": "https://myanimelist.net/anime/2489/Onegai_My_Melody",
+    "image": "https://cdn.myanimelist.net/images/anime/6/23590.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sanrio.co.jp/characters/mymelody/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2966"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5103"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Onegai_My_Melody"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2966
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:24.000Z",
+    "updatedAt": "2022-05-15T14:29:35.000Z",
+    "checkedAt": "2022-05-15T14:29:35.000Z",
+    "id": 2489,
+    "type": "anime",
+    "title": "Onegai My Melody",
+    "altTitle": [
+      "Onegai My Melody",
+      "おねがいマイメロディ",
+      "My Melody's Magical Adventure"
+    ],
+    "url": "https://anilist.co/anime/2489",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2489.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2489,
+    "deletedAt": null
+  }
+}

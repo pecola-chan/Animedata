@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-14T20:53:29.000Z",
+  "checkedAt": "2022-05-14T20:53:29.000Z",
+  "id": 21781,
+  "type": "anime",
+  "title": "Tsubasa to Hotaru",
+  "altTitle": [
+    "Ribon Festa 2014",
+    "Ribbon Festa 2014",
+    "Tsubasa and Hotaru",
+    "つばさとホタル"
+  ],
+  "url": "https://myanimelist.net/anime/21781/Tsubasa_to_Hotaru",
+  "image": "https://cdn.myanimelist.net/images/anime/11/59507.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jcstaff.co.jp/sakuhin/nenpyo/2014/03_tsuba_hota/tsuba_hota.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10367"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16337"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsubasa_to_Hotaru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10367,
+  "Pages": {
+    "9anime": {
+      "kp26": {
+        "createdAt": "2020-10-12T15:52:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5560,
+        "identifier": "kp26",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsubasa to Hotaru",
+        "url": "https://9anime.to/watch/tsubasa-to-hotaru.kp26",
+        "image": "//static.9anime.to/i/cache/images/2018/06/49d5e9d96bcbc9f1f55e185405096421.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 21781,
+        "aniId": 20943,
+        "deletedAt": null
+      }
+    }
+  }
+}

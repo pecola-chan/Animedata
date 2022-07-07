@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-14T17:51:05.000Z",
+  "checkedAt": "2022-05-14T17:51:05.000Z",
+  "id": 15771,
+  "type": "anime",
+  "title": "Saint☆Oniisan (Movie)",
+  "altTitle": [
+    "Saint☆Onii-san (Movie)",
+    "Saint Onii-san (Movie)",
+    "Saint☆Young Men (Movie)",
+    "聖☆おにいさん"
+  ],
+  "url": "https://myanimelist.net/anime/15771/Saint☆Oniisan_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/7/48723.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saint023.com/top/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9454"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14826"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Young_Men"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9454,
+  "Pages": {
+    "9anime": {
+      "23x4": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1264,
+        "identifier": "23x4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint☆Oniisan (Movie)",
+        "url": "https://9anime.to/watch/saintyoung-men-movie.23x4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/3a367c1199319a7a68184a20c123e967.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15771,
+        "aniId": 15771,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3496": {
+        "identifier": "3496",
+        "malId": 15771,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Saint☆Oniisan (Movie)",
+        "url": "https://animepahe.com/a/3496"
+      }
+    },
+    "AniMixPlay": {
+      "15771": {
+        "identifier": "15771",
+        "malId": 15771,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint☆Oniisan (Movie)",
+        "url": "https://animixplay.to/anime/15771"
+      }
+    }
+  }
+}

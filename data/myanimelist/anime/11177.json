@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T18:47:05.000Z",
+  "checkedAt": "2022-05-14T18:47:05.000Z",
+  "id": 11177,
+  "type": "anime",
+  "title": "Cross Fight B-Daman",
+  "altTitle": [
+    "Cross Fight Bedaman",
+    "B-Daman Crossfire",
+    "クロスファイト ビーダマン"
+  ],
+  "url": "https://myanimelist.net/anime/11177/Cross_Fight_B-Daman",
+  "image": "https://cdn.myanimelist.net/images/anime/1686/119340.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/cf_b-daman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8555"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13256"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/クロスファイト_ビーダマン"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8555,
+  "Pages": {
+    "9anime": {
+      "73v1": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3348,
+        "identifier": "73v1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cross Fight B-Daman (Dub)",
+        "url": "https://9anime.to/watch/cross-fight-b-daman-dub.73v1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bQkrP_uEDuE/WG9N91V8AXI/AAAAAAABXVk/zQ1RNXhggdA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11177,
+        "aniId": 11177,
+        "deletedAt": null
+      },
+      "o6n4": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7417,
+        "identifier": "o6n4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B-Daman Crossfire",
+        "url": "https://9anime.to/watch/b-daman-crossfire.o6n4",
+        "image": "http://static.akacdn.ru/static/images/2018/04/e656083db87a27f77a586bc8a788642b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11177,
+        "aniId": 11177,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cross-fight-b-daman1": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17195,
+        "identifier": "cross-fight-b-daman1",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cross Fight B-Daman",
+        "url": "https://gogoanime.vc/category/cross-fight-b-daman1",
+        "image": "https://gogocdn.net/images/anime/C/cross-fight-b-daman.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11177,
+        "aniId": 11177,
+        "deletedAt": null
+      },
+      "b-daman-crossfire-dub": {
+        "createdAt": "2021-06-12T18:08:25.000Z",
+        "updatedAt": "2021-06-12T18:38:18.000Z",
+        "checkedAt": null,
+        "id": 37351,
+        "identifier": "b-daman-crossfire-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "B-Daman Crossfire (Dub)",
+        "url": "https://gogoanime.vc/category/b-daman-crossfire-dub",
+        "image": "https://gogocdn.net/cover/b-daman-crossfire-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11177,
+        "aniId": 11177,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "11177": {
+        "identifier": "11177",
+        "malId": 11177,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cross Fight B-Daman",
+        "url": "https://animixplay.to/anime/11177"
+      }
+    },
+    "YugenAnime": {
+      "14517": {
+        "identifier": "14517",
+        "malId": 11177,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cross Fight B-Daman",
+        "url": "https://yugen.to/anime/14517/cross-fight-b-daman/"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T18:23:17.000Z",
+  "checkedAt": "2022-05-14T18:23:17.000Z",
+  "id": 33850,
+  "type": "anime",
+  "title": "Nil Admirari no Tenbin",
+  "altTitle": [
+    "The Scales of Nil Admirari ~The Mysterious Story of Teito~",
+    "Libra of Nil Admirari",
+    "ニル・アドミラリの天秤"
+  ],
+  "url": "https://myanimelist.net/anime/33850/Nil_Admirari_no_Tenbin",
+  "image": "https://cdn.myanimelist.net/images/anime/1669/90604.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nilad-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12333"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20069"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nil_Admirari_no_Tenbin:_Teito_Genwaku_Kitan"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276095"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12333,
+  "Pages": {
+    "9anime": {
+      "9nlm": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4366,
+        "identifier": "9nlm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Scales of Nil Admirari ~The Mysterious Story of Teito~",
+        "url": "https://9anime.to/watch/the-scales-of-nil-admirari-the-mysterious-story-of-teito.9nlm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3R2Zq38IxO4/WbplbRpp4nI/AAAAAAAAAVY/YwF823SHSpUxTRRnN7IeSdmmc48RW94_ACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33850,
+        "aniId": 99963,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nil-admirari-no-tenbin-teito-genwaku-kitan": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19736,
+        "identifier": "nil-admirari-no-tenbin-teito-genwaku-kitan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nil Admirari no Tenbin: Teito Genwaku Kitan",
+        "url": "https://gogoanime.vc/category/nil-admirari-no-tenbin-teito-genwaku-kitan",
+        "image": "https://images.gogoanime.tv/cover/nil-admirari-no-tenbin-teito-genwaku-kitan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33850,
+        "aniId": 99963,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2527": {
+        "identifier": "2527",
+        "malId": 33850,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nil Admirari no Tenbin",
+        "url": "https://animepahe.com/a/2527"
+      }
+    },
+    "AniMixPlay": {
+      "33850": {
+        "identifier": "33850",
+        "malId": 33850,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nil Admirari no Tenbin",
+        "url": "https://animixplay.to/anime/33850"
+      }
+    },
+    "YugenAnime": {
+      "1110": {
+        "identifier": "1110",
+        "malId": 33850,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nil Admirari no Tenbin",
+        "url": "https://yugen.to/anime/1110/nil-admirari-no-tenbin-teito-genwaku-kitan/"
+      }
+    }
+  }
+}

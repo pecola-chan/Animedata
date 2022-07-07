@@ -1,0 +1,96 @@
+{
+  "createdAt": "2021-01-25T00:13:28.000Z",
+  "updatedAt": "2022-05-14T19:19:23.000Z",
+  "checkedAt": "2022-05-14T19:19:23.000Z",
+  "id": 45557,
+  "type": "anime",
+  "title": "Chang Jian Feng Yun",
+  "altTitle": [
+    "长剑风云"
+  ],
+  "url": "https://myanimelist.net/anime/45557/Chang_Jian_Feng_Yun",
+  "image": "https://cdn.myanimelist.net/images/anime/1094/110890.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28230736/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16011"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E9%95%BF%E5%89%91%E9%A3%8E%E4%BA%91"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16011,
+  "Pages": {
+    "9anime": {
+      "jojn": {
+        "createdAt": "2021-01-25T00:16:39.000Z",
+        "updatedAt": "2022-04-02T22:31:51.000Z",
+        "checkedAt": null,
+        "id": 34186,
+        "identifier": "jojn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chang Jian Fengyun",
+        "url": "https://9anime.to/watch/long-sword.jojn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/3f/3fe2289ea8a87758324e81db3dfb5289.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45557,
+        "aniId": 126392,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chang-jian-feng-yun": {
+        "createdAt": "2021-01-25T02:42:10.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34192,
+        "identifier": "chang-jian-feng-yun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chang Jian Feng Yun",
+        "url": "https://gogoanime.vc/category/chang-jian-feng-yun",
+        "image": "https://gogocdn.net/cover/chang-jian-feng-yun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45557,
+        "aniId": 126392,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "45557": {
+        "identifier": "45557",
+        "malId": 45557,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chang Jian Feng Yun",
+        "url": "https://animixplay.to/anime/45557"
+      }
+    },
+    "YugenAnime": {
+      "7201": {
+        "identifier": "7201",
+        "malId": 45557,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chang Jian Feng Yun",
+        "url": "https://yugen.to/anime/7201/chang-jian-feng-yun/"
+      }
+    }
+  }
+}

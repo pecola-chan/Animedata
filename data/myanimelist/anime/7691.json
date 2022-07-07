@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T22:55:17.000Z",
+  "checkedAt": "2022-05-14T22:55:17.000Z",
+  "id": 7691,
+  "type": "anime",
+  "title": "Tokimeki Memorial 4 OVA",
+  "altTitle": [
+    "Tokimeki Memorial 4 Original Animation -Hajimari ni Fainda-",
+    "ときめきメモリアル4 ORIGINAL ANIMATION -始まりのファインダー"
+  ],
+  "url": "https://myanimelist.net/anime/7691/Tokimeki_Memorial_4_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/12/21756.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.konami.jp/tokimeki4/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7411"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7411,
+  "Pages": {
+    "9anime": {
+      "mvn8": {
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6770,
+        "identifier": "mvn8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokimeki Memorial 4 OVA",
+        "url": "https://9anime.to/watch/tokimeki-memorial-4-ova.mvn8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-m_VLr2eQKGU/V6_C5iMajLI/AAAAAAAA27o/djey44mfOco/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7691,
+        "aniId": 7691,
+        "deletedAt": null
+      }
+    }
+  }
+}

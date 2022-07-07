@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-14T21:23:05.000Z",
+  "checkedAt": "2022-05-14T21:23:05.000Z",
+  "id": 15633,
+  "type": "anime",
+  "title": "Code:Breaker OVA",
+  "altTitle": [
+    "Code Breaker OVA",
+    "Code:Breaker: code:extra 1,2,3 & Plus 1",
+    "Code:Breaker: code:100 & extra HANAMI & Plus 2",
+    "Code:Breaker: code:4koma Special Theater",
+    "CØDE:BREAKER"
+  ],
+  "url": "https://myanimelist.net/anime/15633/Code_Breaker_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1388/98050.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/SEP/02065/special/codebreaker_dvd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9321"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/CØDE:BREAKER"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9321,
+  "Pages": {
+    "9anime": {
+      "xl1v": {
+        "createdAt": "2020-10-12T15:56:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10274,
+        "identifier": "xl1v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Code:Breaker OVA",
+        "url": "https://9anime.to/watch/codebreaker-ova.xl1v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-F8LKNcKsjjQ/WFp7trLdBBI/AAAAAAABT-k/n5vGiCXYo0g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15633,
+        "aniId": 15633,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "codebreaker-ova": {
+        "createdAt": "2020-10-12T16:00:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17159,
+        "identifier": "codebreaker-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Code:Breaker OVA",
+        "url": "https://gogoanime.vc/category/codebreaker-ova",
+        "image": "https://gogocdn.net/images/anime/C/code_breaker.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 15633,
+        "aniId": 15633,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1015": {
+        "identifier": "1015",
+        "malId": 15633,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Code:Breaker OVA",
+        "url": "https://animepahe.com/a/1015"
+      }
+    },
+    "AniMixPlay": {
+      "15633": {
+        "identifier": "15633",
+        "malId": 15633,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Code:Breaker OVA",
+        "url": "https://animixplay.to/anime/15633"
+      }
+    },
+    "YugenAnime": {
+      "705": {
+        "identifier": "705",
+        "malId": 15633,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Code:Breaker OVA",
+        "url": "https://yugen.to/anime/705/codebreaker-ova/"
+      }
+    }
+  }
+}

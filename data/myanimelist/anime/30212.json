@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-25T11:58:05.000Z",
+  "checkedAt": "2022-05-25T11:58:05.000Z",
+  "id": 30212,
+  "type": "anime",
+  "title": "Kono Mayonnaise wa Yuru Sugiru",
+  "altTitle": [
+    "This Mayonnaise is too Liquid.",
+    "このマヨネーズはゆるすぎる"
+  ],
+  "url": "https://myanimelist.net/anime/30212/Kono_Mayonnaise_wa_Yuru_Sugiru",
+  "image": "https://cdn.myanimelist.net/images/anime/3/72282.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kankaku.jp/independent-en/liquid.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13368"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13368,
+  "Pages": {
+    "9anime": {
+      "jyk4": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5097,
+        "identifier": "jyk4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "This Mayonnaise is too Liquid.",
+        "url": "https://9anime.to/watch/this-mayonnaise-is-too-liquid.jyk4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/5b1dbd1cf9468a0d9734621a6c818f5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30212,
+        "aniId": 102616,
+        "deletedAt": null
+      }
+    }
+  }
+}

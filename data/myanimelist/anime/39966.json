@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T17:16:52.000Z",
+  "checkedAt": "2022-05-14T17:16:52.000Z",
+  "id": 39966,
+  "type": "anime",
+  "title": "Tamayomi",
+  "altTitle": [
+    "TAMAYOMI: The Baseball Girls",
+    "球詠"
+  ],
+  "url": "https://myanimelist.net/anime/39966/Tamayomi",
+  "image": "https://cdn.myanimelist.net/images/anime/1108/119277.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://tamayomi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14960"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22526"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tamayomi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/tamayomi-the-baseball-girls"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14960,
+  "Pages": {
+    "9anime": {
+      "9810": {
+        "createdAt": "2021-02-03T17:12:57.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 34520,
+        "identifier": "9810",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tamayomi (Dub)",
+        "url": "https://9anime.to/watch/tamayomi-the-baseball-girls-dub.9810",
+        "image": "//static.bunnycdn.ru/i/cache/images/5/55/55d786af31c26f9b26ffcd76bda28a6d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39966,
+        "aniId": 110130,
+        "deletedAt": null
+      },
+      "8rly": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4007,
+        "identifier": "8rly",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tamayomi",
+        "url": "https://9anime.to/watch/tamayomi.8rly",
+        "image": "https://static.akacdn.ru/files/images/2020/01/a10afdcd9687180b37dc57683ae28d31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39966,
+        "aniId": 110130,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tamayomi": {
+        "createdAt": "2020-10-12T16:02:01.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20945,
+        "identifier": "tamayomi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tamayomi",
+        "url": "https://gogoanime.vc/category/tamayomi",
+        "image": "https://gogocdn.net/cover/tamayomi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39966,
+        "aniId": 110130,
+        "deletedAt": null
+      },
+      "tamayomi-dub": {
+        "createdAt": "2021-02-18T16:13:03.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34892,
+        "identifier": "tamayomi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tamayomi (Dub)",
+        "url": "https://gogoanime.vc/category/tamayomi-dub",
+        "image": "https://gogocdn.net/cover/tamayomi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39966,
+        "aniId": 110130,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3897": {
+        "identifier": "3897",
+        "malId": 39966,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tamayomi",
+        "url": "https://animepahe.com/a/3897"
+      }
+    },
+    "AniMixPlay": {
+      "39966": {
+        "identifier": "39966",
+        "malId": 39966,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tamayomi",
+        "url": "https://animixplay.to/anime/39966"
+      }
+    },
+    "YugenAnime": {
+      "336": {
+        "identifier": "336",
+        "malId": 39966,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tamayomi",
+        "url": "https://yugen.to/anime/336/tamayomi/"
+      }
+    }
+  }
+}

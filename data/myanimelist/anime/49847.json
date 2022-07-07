@@ -1,0 +1,69 @@
+{
+  "createdAt": "2021-10-30T17:04:50.000Z",
+  "updatedAt": "2022-05-14T18:13:05.000Z",
+  "checkedAt": "2022-05-14T18:13:05.000Z",
+  "id": 49847,
+  "type": "anime",
+  "title": "Meng Qi Shi Shen 2nd Season",
+  "altTitle": [
+    "Adorable Food Goddess",
+    "Cinderella Chef",
+    "萌妻食神 第二季"
+  ],
+  "url": "https://myanimelist.net/anime/49847/Meng_Qi_Shi_Shen_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1084/117772.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md139952"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "3rr76": {
+        "createdAt": "2021-10-16T16:28:45.000Z",
+        "updatedAt": "2021-12-27T18:53:27.000Z",
+        "checkedAt": null,
+        "id": 39038,
+        "identifier": "3rr76",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Meng Qi Shi Shen: Zaijie Liangyuan",
+        "url": "https://9anime.to/watch/cinderella-chef-2.3rr76",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d0/d0fa5320f2194fec900665cd5a5deff4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 49847,
+        "aniId": 139348,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "49847": {
+        "identifier": "49847",
+        "malId": 49847,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Meng Qi Shi Shen 2nd Season",
+        "url": "https://animixplay.to/anime/49847"
+      }
+    },
+    "YugenAnime": {
+      "11293": {
+        "identifier": "11293",
+        "malId": 49847,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Meng Qi Shi Shen 2nd Season",
+        "url": "https://yugen.to/anime/11293/meng-qi-shi-shen-zaijie-liangyuan/"
+      }
+    }
+  }
+}

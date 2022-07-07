@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T22:32:05.000Z",
+  "checkedAt": "2022-05-14T22:32:05.000Z",
+  "id": 3446,
+  "type": "anime",
+  "title": "Biohazard: Degeneration",
+  "altTitle": [
+    "Resident Evil: Degeneration",
+    "バイオハザード ディジェネレーション"
+  ],
+  "url": "https://myanimelist.net/anime/3446/Biohazard__Degeneration",
+  "image": "https://cdn.myanimelist.net/images/anime/4/11769.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.residentevilcg.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6108"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9198"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Resident_Evil_Degeneration"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6108,
+  "Pages": {
+    "9anime": {
+      "j1y2": {
+        "createdAt": "2020-10-12T15:52:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4616,
+        "identifier": "j1y2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Biohazard: Degeneration",
+        "url": "https://9anime.to/watch/biohazard-degeneration.j1y2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gWW53_MG_ZM/WG2oUv_GrdI/AAAAAAABW3c/8tvRd_DoXQk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3446,
+        "aniId": 3446,
+        "deletedAt": null
+      },
+      "k1z9": {
+        "createdAt": "2020-10-12T15:52:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5194,
+        "identifier": "k1z9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Biohazard: Degeneration (Dub)",
+        "url": "https://9anime.to/watch/biohazard-degeneration-dub.k1z9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ff5JwMXtIP4/WG2pXSreRYI/AAAAAAABW34/ZXsQWI8lBeQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3446,
+        "aniId": 3446,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3446": {
+        "identifier": "3446",
+        "malId": 3446,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Biohazard: Degeneration",
+        "url": "https://animixplay.to/anime/3446"
+      }
+    },
+    "YugenAnime": {
+      "6317": {
+        "identifier": "6317",
+        "malId": 3446,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Biohazard: Degeneration",
+        "url": "https://yugen.to/anime/6317/resident-evil-degeneration/"
+      }
+    }
+  }
+}

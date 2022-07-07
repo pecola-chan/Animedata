@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T20:35:53.000Z",
+  "checkedAt": "2022-05-14T20:35:53.000Z",
+  "id": 1587,
+  "type": "anime",
+  "title": "Tenpou Ibun: Ayakashi Ayashi",
+  "altTitle": [
+    "Tenpouibun Ayakashiayashi",
+    "Strange Story of Tempou Era: Ayakashiayashi",
+    "Ghost Slayers Ayashi",
+    "天保異聞 妖奇士"
+  ],
+  "url": "https://myanimelist.net/anime/1587/Tenpou_Ibun__Ayakashi_Ayashi",
+  "image": "https://cdn.myanimelist.net/images/anime/11/4452.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ayakashiayashi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4571"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6730"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ayakashi_Ayashi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-254563"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4571,
+  "Pages": {
+    "9anime": {
+      "42mj": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2075,
+        "identifier": "42mj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenpou Ibun: Ayakashi Ayashi",
+        "url": "https://9anime.to/watch/tenpou-ibun-ayakashi-ayashi.42mj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ePLUsjR8qio/V69waPcRvVI/AAAAAAAA26o/fEtU-akRhNk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1587,
+        "aniId": 1587,
+        "deletedAt": null
+      },
+      "pl4x": {
+        "createdAt": "2020-10-12T15:54:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7966,
+        "identifier": "pl4x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ghost Slayers Ayashi (Dub)",
+        "url": "https://9anime.to/watch/ghost-slayers-ayashi-dub.pl4x",
+        "image": "https://static.akacdn.ru/files/images/2018/04/78c689be671cd2f3f878f31b62831e09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1587,
+        "aniId": 1587,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ghost-slayers-ayashi": {
+        "createdAt": "2020-10-12T16:00:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17869,
+        "identifier": "ghost-slayers-ayashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ghost Slayers Ayashi",
+        "url": "https://gogoanime.vc/category/ghost-slayers-ayashi",
+        "image": "https://cdnimg.xyz/images/anime/G/ghost-slayers-ayashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1587,
+        "aniId": 1587,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1587": {
+        "identifier": "1587",
+        "malId": 1587,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenpou Ibun: Ayakashi Ayashi",
+        "url": "https://animixplay.to/anime/1587"
+      }
+    },
+    "YugenAnime": {
+      "7504": {
+        "identifier": "7504",
+        "malId": 1587,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tenpou Ibun: Ayakashi Ayashi",
+        "url": "https://yugen.to/anime/7504/tenpou-ibun-ayakashi-ayashi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-15T07:10:40.000Z",
+  "checkedAt": "2022-05-15T07:10:40.000Z",
+  "id": 34324,
+  "type": "anime",
+  "title": "Chiryokumaru",
+  "altTitle": [
+    "知力丸"
+  ],
+  "url": "https://myanimelist.net/anime/34324/Chiryokumaru",
+  "image": "https://cdn.myanimelist.net/images/anime/5/82646.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kanken.or.jp/kanken/chiryokumaru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12516"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12516,
+  "Pages": {
+    "9anime": {
+      "r9yo": {
+        "createdAt": "2020-10-12T15:55:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8850,
+        "identifier": "r9yo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chiryokumaru",
+        "url": "https://9anime.to/watch/chiryokumaru.r9yo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-A6gBXjAiftE/WCZo04BuqAI/AAAAAAABOaQ/LLl1WfTFv0Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34324,
+        "aniId": 97967,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chiryokumaru": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17067,
+        "identifier": "chiryokumaru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chiryokumaru",
+        "url": "https://gogoanime.vc/category/chiryokumaru",
+        "image": "https://gogocdn.net/cover/chiryokumaru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34324,
+        "aniId": 97967,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34324": {
+        "identifier": "34324",
+        "malId": 34324,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chiryokumaru",
+        "url": "https://animixplay.to/anime/34324"
+      }
+    },
+    "YugenAnime": {
+      "2977": {
+        "identifier": "2977",
+        "malId": 34324,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chiryokumaru",
+        "url": "https://yugen.to/anime/2977/chiryokumaru/"
+      }
+    }
+  }
+}

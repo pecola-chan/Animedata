@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T17:57:23.000Z",
+  "checkedAt": "2022-05-14T17:57:23.000Z",
+  "id": 3467,
+  "type": "anime",
+  "title": "Nogizaka Haruka no Himitsu",
+  "altTitle": [
+    "Nogizaka Haruka no Himitsu",
+    "Haruka Nogizaka's Secret",
+    "乃木坂春香の秘密"
+  ],
+  "url": "https://myanimelist.net/anime/3467/Nogizaka_Haruka_no_Himitsu",
+  "image": "https://cdn.myanimelist.net/images/anime/11/56965.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nogizaka-haruka.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5581"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9012"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nogizaka_Haruka_no_Himitsu"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-81816"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5581,
+  "Pages": {
+    "9anime": {
+      "1rpw": {
+        "createdAt": "2020-10-12T15:49:18.000Z",
+        "updatedAt": "2022-03-11T20:30:37.000Z",
+        "checkedAt": null,
+        "id": 1106,
+        "identifier": "1rpw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nogizaka Haruka no Himitsu",
+        "url": "https://9anime.to/watch/haruka-nogizakas-secret.1rpw",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/f558ed24c3271d21e1fa6c54a0676da4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3467,
+        "aniId": 3467,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nogizaka-haruka-no-himitsu": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19780,
+        "identifier": "nogizaka-haruka-no-himitsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nogizaka Haruka no Himitsu",
+        "url": "https://gogoanime.vc/category/nogizaka-haruka-no-himitsu",
+        "image": "https://cdnimg.xyz/images/anime/N/nogizaka-haruka-no-himitsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3467,
+        "aniId": 3467,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "72": {
+        "identifier": "72",
+        "malId": 3467,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nogizaka Haruka no Himitsu",
+        "url": "https://animepahe.com/a/72"
+      }
+    },
+    "AniMixPlay": {
+      "3467": {
+        "identifier": "3467",
+        "malId": 3467,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nogizaka Haruka no Himitsu",
+        "url": "https://animixplay.to/anime/3467"
+      }
+    },
+    "YugenAnime": {
+      "5433": {
+        "identifier": "5433",
+        "malId": 3467,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nogizaka Haruka no Himitsu",
+        "url": "https://yugen.to/anime/5433/nogizaka-haruka-no-himitsu/"
+      }
+    }
+  }
+}

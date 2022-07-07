@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T20:15:47.000Z",
+  "checkedAt": "2022-05-14T20:15:47.000Z",
+  "id": 5719,
+  "type": "anime",
+  "title": "Sex Pistols",
+  "altTitle": [
+    "Love Pistols",
+    "セックス・ピストルズ"
+  ],
+  "url": "https://myanimelist.net/anime/5719/Sex_Pistols",
+  "image": "https://cdn.myanimelist.net/images/anime/9/23742.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://s-pistols.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6295"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10561"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Love_Pistols"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6295,
+  "Pages": {
+    "9anime": {
+      "13rv": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 821,
+        "identifier": "13rv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sex Pistols",
+        "url": "https://9anime.to/watch/sex-pistols.13rv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kGuqYLv8hLs/WFfCciNk4KI/AAAAAAABTkM/RozpDw8ajDQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5719,
+        "aniId": 5719,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5719": {
+        "identifier": "5719",
+        "malId": 5719,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sex Pistols",
+        "url": "https://animixplay.to/anime/5719"
+      }
+    }
+  }
+}

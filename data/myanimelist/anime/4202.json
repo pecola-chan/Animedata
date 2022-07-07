@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-15T00:29:59.000Z",
+  "checkedAt": "2022-05-15T00:29:59.000Z",
+  "id": 4202,
+  "type": "anime",
+  "title": "Mokke Specials",
+  "altTitle": [
+    "Mokke - Toorikaze",
+    "Mokke Special Episodes",
+    "もっけ"
+  ],
+  "url": "https://myanimelist.net/anime/4202/Mokke_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/2/7761.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.avexmovie.jp/lineup/mokke/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5052"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5052,
+  "Pages": {
+    "9anime": {
+      "lklm": {
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6030,
+        "identifier": "lklm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mokke Specials",
+        "url": "https://9anime.to/watch/mokke-specials.lklm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GamwQZVlEWk/WKKqKLLKn4I/AAAAAAABc1E/wtbxqJ1F0fM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4202,
+        "aniId": 4202,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mokke-special": {
+        "createdAt": "2021-08-04T10:49:42.000Z",
+        "updatedAt": "2021-08-04T11:17:29.000Z",
+        "checkedAt": null,
+        "id": 38123,
+        "identifier": "mokke-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mokke Special",
+        "url": "https://gogoanime.pe/category/mokke-special",
+        "image": "https://gogocdn.net/images/anime/M/mokke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4202,
+        "aniId": 4202,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4202": {
+        "identifier": "4202",
+        "malId": 4202,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mokke Specials",
+        "url": "https://animixplay.to/anime/4202"
+      }
+    },
+    "YugenAnime": {
+      "831": {
+        "identifier": "831",
+        "malId": 4202,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mokke Specials",
+        "url": "https://yugen.to/anime/831/mokke-special/"
+      }
+    }
+  }
+}

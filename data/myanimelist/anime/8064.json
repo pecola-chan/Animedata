@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-15T05:19:41.000Z",
+  "checkedAt": "2022-05-15T05:19:41.000Z",
+  "id": 8064,
+  "type": "anime",
+  "title": "Ashiaraiyashiki no Juunin-tachi.",
+  "altTitle": [
+    "Ashiaraiyashiki no Junin-tachi",
+    "Ashiaraiyashiki no Juunin Tachi",
+    "足洗邸の住人たち。"
+  ],
+  "url": "https://myanimelist.net/anime/8064/Ashiaraiyashiki_no_Juunin-tachi",
+  "image": "https://cdn.myanimelist.net/images/anime/12/19699.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7398"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11311"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E8%B6%B3%E6%B4%97%E9%82%B8%E3%81%AE%E4%BD%8F%E4%BA%BA%E3%81%9F%E3%81%A1%E3%80%82"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7398,
+  "Pages": {
+    "9anime": {
+      "67m9": {
+        "createdAt": "2020-10-12T15:50:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2979,
+        "identifier": "67m9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ashiaraiyashiki no Juunin-tachi.",
+        "url": "https://9anime.to/watch/ashiaraiyashiki-no-juunin-tachi.67m9",
+        "image": "https://static.akacdn.ru/files/images/2018/03/34ee3478a962981b11b95c8bc5fba015.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8064,
+        "aniId": 8064,
+        "deletedAt": null
+      }
+    }
+  }
+}

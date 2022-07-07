@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-13T23:39:11.000Z",
+  "checkedAt": "2022-05-13T23:39:11.000Z",
+  "id": 21085,
+  "type": "anime",
+  "title": "Witch Craft Works",
+  "altTitle": [
+    "Witchcraft Works",
+    "ウィッチクラフトワークス"
+  ],
+  "url": "https://myanimelist.net/anime/21085/Witch_Craft_Works",
+  "image": "https://cdn.myanimelist.net/images/anime/1949/112982.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.witch-cw-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9496"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15708"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-258767"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9496,
+  "Pages": {
+    "9anime": {
+      "woxo": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9866,
+        "identifier": "woxo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Witch Craft Works",
+        "url": "https://9anime.to/watch/witch-craft-works.woxo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xi85Ayvz3f8/V6iPfIRSQ-I/AAAAAAAA1Uc/WUrXWt8VThs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21085,
+        "aniId": 20503,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "witch-craft-works": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21429,
+        "identifier": "witch-craft-works",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Witch Craft Works",
+        "url": "https://gogoanime.vc/category/witch-craft-works",
+        "image": "https://cdnimg.xyz/images/anime/W/Witch Craft Works.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21085,
+        "aniId": 20503,
+        "deletedAt": null
+      },
+      "witch-craft-works-ova": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21430,
+        "identifier": "witch-craft-works-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Witch Craft Works OVA",
+        "url": "https://gogoanime.vc/category/witch-craft-works-ova",
+        "image": "https://gogocdn.net/images/upload/58011.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21085,
+        "aniId": 20503,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "932": {
+        "identifier": "932",
+        "malId": 21085,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Witch Craft Works",
+        "url": "https://animepahe.com/a/932"
+      }
+    },
+    "AniMixPlay": {
+      "21085": {
+        "identifier": "21085",
+        "malId": 21085,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Witch Craft Works",
+        "url": "https://animixplay.to/anime/21085"
+      }
+    },
+    "YugenAnime": {
+      "148": {
+        "identifier": "148",
+        "malId": 21085,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Witch Craft Works",
+        "url": "https://yugen.to/anime/148/witch-craft-works/"
+      }
+    }
+  }
+}

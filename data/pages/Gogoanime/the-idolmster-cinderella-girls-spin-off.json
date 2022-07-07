@@ -1,0 +1,65 @@
+{
+  "createdAt": "2021-07-17T10:03:13.000Z",
+  "updatedAt": "2021-07-17T10:32:20.000Z",
+  "checkedAt": null,
+  "id": 37899,
+  "identifier": "the-idolmster-cinderella-girls-spin-off",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "The iDOLM@STER Cinderella Girls: Spin-off!",
+  "url": "https://gogoanime.pe/category/the-idolmster-cinderella-girls-spin-off",
+  "image": "https://gogocdn.net/cover/the-idolmster-cinderella-girls-spin-off.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 40693,
+  "aniId": 113221,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-19T12:26:04.000Z",
+    "updatedAt": "2022-05-15T01:09:41.000Z",
+    "checkedAt": "2022-05-15T01:09:41.000Z",
+    "id": 40693,
+    "type": "anime",
+    "title": "The iDOLM@STER Cinderella Girls: Spin-off!",
+    "altTitle": [
+      "アイドルマスター シンデレラガールズ Spin-off!"
+    ],
+    "url": "https://myanimelist.net/anime/40693/The_iDOLMSTER_Cinderella_Girls__Spin-off",
+    "image": "https://cdn.myanimelist.net/images/anime/1661/116594.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://asobistore.jp/content/title/Idolmaster/cg_spinoff/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15262"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 15262
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:00.000Z",
+    "updatedAt": "2022-05-15T20:11:47.000Z",
+    "checkedAt": "2022-05-15T20:11:47.000Z",
+    "id": 113221,
+    "type": "anime",
+    "title": "THE IDOLM@STER CINDERELLA GIRLS: Spin-off!",
+    "altTitle": [
+      "THE IDOLM@STER CINDERELLA GIRLS Spin-off!"
+    ],
+    "url": "https://anilist.co/anime/113221",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113221-DlRbl5HcIDoM.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 40693,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T22:56:11.000Z",
+  "checkedAt": "2022-05-14T22:56:11.000Z",
+  "id": 5688,
+  "type": "anime",
+  "title": "Gegege no Kitarou (1968)",
+  "altTitle": [
+    "Cackling Kitarou",
+    "Spooky Kitarou",
+    "ゲゲゲの鬼太郎"
+  ],
+  "url": "https://myanimelist.net/anime/5688/Gegege_no_Kitarou_1968",
+  "image": "https://cdn.myanimelist.net/images/anime/13/27398.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/kitaro/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1451"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1328"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#TV_series"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1451,
+  "Pages": {
+    "9anime": {
+      "z2vp": {
+        "createdAt": "2020-10-12T15:57:02.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10975,
+        "identifier": "z2vp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gegege no Kitarou (1968)",
+        "url": "https://9anime.to/watch/gegege-no-kitarou-1968.z2vp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iHS8vy7tmT0/WERaRzitqVI/AAAAAAABReI/i-wsipgiMr8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5688,
+        "aniId": 5688,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gegege-no-kitarou-1968": {
+        "createdAt": "2021-11-01T02:34:20.000Z",
+        "updatedAt": "2021-11-01T03:04:19.000Z",
+        "checkedAt": null,
+        "id": 39152,
+        "identifier": "gegege-no-kitarou-1968",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gegege no Kitarou (1968)",
+        "url": "https://gogoanime.pe/category/gegege-no-kitarou-1968",
+        "image": "https://gogocdn.net/cover/gegege-no-kitarou-1968.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5688,
+        "aniId": 5688,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5688": {
+        "identifier": "5688",
+        "malId": 5688,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gegege no Kitarou (1968)",
+        "url": "https://animixplay.to/anime/5688"
+      }
+    },
+    "YugenAnime": {
+      "4796": {
+        "identifier": "4796",
+        "malId": 5688,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gegege no Kitarou (1968)",
+        "url": "https://yugen.to/anime/4796/gegege-no-kitarou-1968/"
+      }
+    }
+  }
+}

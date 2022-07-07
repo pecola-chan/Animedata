@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-13T23:22:32.000Z",
+  "checkedAt": "2022-05-13T23:22:32.000Z",
+  "id": 34148,
+  "type": "anime",
+  "title": "Nyanko Days",
+  "altTitle": [
+    "Nyanko Days",
+    "にゃんこデイズ"
+  ],
+  "url": "https://myanimelist.net/anime/34148/Nyanko_Days",
+  "image": "https://cdn.myanimelist.net/images/anime/10/83933.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nyanko-days.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12433"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18832"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nyanko_Days"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272207"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12433,
+  "Pages": {
+    "9anime": {
+      "x6ww": {
+        "createdAt": "2020-10-12T15:56:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10173,
+        "identifier": "x6ww",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nyanko Days",
+        "url": "https://9anime.to/watch/nyanko-days.x6ww",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2Hjy5wfnOLg/WFZ36_BOvSI/AAAAAAABTX8/6bMWKsLnDXw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34148,
+        "aniId": 97673,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nyanko-days": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19812,
+        "identifier": "nyanko-days",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nyanko Days",
+        "url": "https://gogoanime.vc/category/nyanko-days",
+        "image": "https://cdnimg.xyz/cover/nyanko-days.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34148,
+        "aniId": 97673,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1621": {
+        "identifier": "1621",
+        "malId": 34148,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nyanko Days",
+        "url": "https://animepahe.com/a/1621"
+      }
+    },
+    "AniMixPlay": {
+      "34148": {
+        "identifier": "34148",
+        "malId": 34148,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nyanko Days",
+        "url": "https://animixplay.to/anime/34148"
+      }
+    },
+    "YugenAnime": {
+      "579": {
+        "identifier": "579",
+        "malId": 34148,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nyanko Days",
+        "url": "https://yugen.to/anime/579/nyanko-days/"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T18:47:47.000Z",
+  "checkedAt": "2022-05-14T18:47:47.000Z",
+  "id": 589,
+  "type": "anime",
+  "title": "Ginga Nagareboshi Gin",
+  "altTitle": [
+    "Ginga: Nagareboshi Gin",
+    "Silverfang",
+    "Silver Fang",
+    "The small hero. Birth of Gin",
+    "銀牙　流れ星銀"
+  ],
+  "url": "https://myanimelist.net/anime/589/Ginga_Nagareboshi_Gin",
+  "image": "https://cdn.myanimelist.net/images/anime/3/47461.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1243"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1469"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ginga:_Nagareboshi_Gin"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1243,
+  "Pages": {
+    "9anime": {
+      "3kl6": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1796,
+        "identifier": "3kl6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ginga Nagareboshi Gin",
+        "url": "https://9anime.to/watch/ginga-nagareboshi-gin.3kl6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6jqtbwxO5-A/WIWW-WA5GhI/AAAAAAABa0I/EElSyqs-TyA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 589,
+        "aniId": 589,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "589": {
+        "identifier": "589",
+        "malId": 589,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ginga Nagareboshi Gin",
+        "url": "https://animixplay.to/anime/589"
+      }
+    },
+    "YugenAnime": {
+      "1255": {
+        "identifier": "1255",
+        "malId": 589,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ginga Nagareboshi Gin",
+        "url": "https://yugen.to/anime/1255/ginga-nagareboshi-gin/"
+      }
+    }
+  }
+}

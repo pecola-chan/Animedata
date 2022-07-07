@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T18:43:41.000Z",
+  "checkedAt": "2022-05-14T18:43:41.000Z",
+  "id": 1004,
+  "type": "anime",
+  "title": "Kanojo to Kanojo no Neko",
+  "altTitle": [
+    "Kanojo to Kanojo no Neko",
+    "She and Her Cat: Their Standing Points",
+    "彼女と彼女の猫"
+  ],
+  "url": "https://myanimelist.net/anime/1004/Kanojo_to_Kanojo_no_Neko",
+  "image": "https://cdn.myanimelist.net/images/anime/11/73498.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www2.odn.ne.jp/~ccs50140/cat/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=461"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2814"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/She_and_Her_Cat"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 461,
+  "Pages": {
+    "9anime": {
+      "wz74": {
+        "createdAt": "2020-10-12T15:56:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10007,
+        "identifier": "wz74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanojo to Kanojo no Neko",
+        "url": "https://9anime.to/watch/kanojo-to-kanojo-no-neko.wz74",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2gt3NQAbdcA/WJBkR37tkXI/AAAAAAABbl8/OdwckZ0IfPM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1004,
+        "aniId": 1004,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "819": {
+        "identifier": "819",
+        "malId": 1004,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanojo to Kanojo no Neko",
+        "url": "https://animepahe.com/a/819"
+      }
+    }
+  }
+}

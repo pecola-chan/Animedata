@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T17:53:53.000Z",
+  "checkedAt": "2022-05-14T17:53:53.000Z",
+  "id": 37584,
+  "type": "anime",
+  "title": "Bakumatsu",
+  "altTitle": [
+    "Renai Bakumatsu Kareshi",
+    "BAKUMATSU"
+  ],
+  "url": "https://myanimelist.net/anime/37584/Bakumatsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1764/95110.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/BAKUMATSU/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13971"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20795"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%81%8B%E6%84%9B%E5%B9%95%E6%9C%AB%E3%82%AB%E3%83%AC%E3%82%B7%E3%80%9C%E6%99%82%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E8%8A%B1%E5%92%B2%E3%81%8F%E6%81%8B%E3%80%9C"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277062"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13971,
+  "Pages": {
+    "9anime": {
+      "r1vo": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8717,
+        "identifier": "r1vo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakumatsu",
+        "url": "https://9anime.to/watch/bakumatsu.r1vo",
+        "image": "http://static.akacdn.ru/static/images/2018/03/1b82ebe6a8af796741ac52d029695431.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37584,
+        "aniId": 101373,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bakumatsu": {
+        "createdAt": "2020-10-12T15:59:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16704,
+        "identifier": "bakumatsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bakumatsu",
+        "url": "https://gogoanime.vc/category/bakumatsu",
+        "image": "https://cdnimg.xyz/cover/bakumatsu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37584,
+        "aniId": 101373,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2851": {
+        "identifier": "2851",
+        "malId": 37584,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bakumatsu",
+        "url": "https://animepahe.com/a/2851"
+      }
+    },
+    "AniMixPlay": {
+      "37584": {
+        "identifier": "37584",
+        "malId": 37584,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bakumatsu",
+        "url": "https://animixplay.to/anime/37584"
+      }
+    },
+    "YugenAnime": {
+      "282": {
+        "identifier": "282",
+        "malId": 37584,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bakumatsu",
+        "url": "https://yugen.to/anime/282/bakumatsu/"
+      }
+    }
+  }
+}

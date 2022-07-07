@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T18:51:35.000Z",
+  "checkedAt": "2022-05-14T18:51:35.000Z",
+  "id": 9159,
+  "type": "anime",
+  "title": "Kaibutsu Oujo (OVA)",
+  "altTitle": [
+    "Kaibutsu Ohjo",
+    "Monster Princess",
+    "Princess Resurrection (OVA)",
+    "怪物王女"
+  ],
+  "url": "https://myanimelist.net/anime/9159/Kaibutsu_Oujo_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/12/27643.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/kaibutsu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7651"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11669"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Princess_Resurrection"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/princess-resurrection-special"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7651,
+  "Pages": {
+    "9anime": {
+      "6n50": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2022-06-14T02:02:44.000Z",
+        "checkedAt": "2022-06-14T02:02:44.000Z",
+        "id": 3080,
+        "identifier": "6n50",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaibutsu Oujo (OVA)",
+        "url": "https://9anime.to/watch/princess-resurrection-ova.6n50",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b13e61224f6d0e1163fbc985d3f8e23c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9159,
+        "aniId": 9159,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3372": {
+        "identifier": "3372",
+        "malId": 9159,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kaibutsu Oujo (OVA)",
+        "url": "https://animepahe.com/a/3372"
+      }
+    },
+    "AniMixPlay": {
+      "9159": {
+        "identifier": "9159",
+        "malId": 9159,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaibutsu Oujo (OVA)",
+        "url": "https://animixplay.to/anime/9159"
+      }
+    }
+  }
+}

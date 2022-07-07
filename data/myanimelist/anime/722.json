@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T22:33:41.000Z",
+  "checkedAt": "2022-05-14T22:33:41.000Z",
+  "id": 722,
+  "type": "anime",
+  "title": "Baby☆Love",
+  "altTitle": [
+    "ベイビィ☆LOVE"
+  ],
+  "url": "https://myanimelist.net/anime/722/Baby☆Love",
+  "image": "https://cdn.myanimelist.net/images/anime/13/10176.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.st-comet.com/works.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2005"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4757"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%93%E3%82%A3%E2%98%85LOVE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2005,
+  "Pages": {
+    "9anime": {
+      "wz9l": {
+        "createdAt": "2020-10-12T15:56:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10009,
+        "identifier": "wz9l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baby☆Love",
+        "url": "https://9anime.to/watch/babylove.wz9l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DyIy-mb_8D0/WHXBgCXUdEI/AAAAAAABYoA/CHazUB59q3s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 722,
+        "aniId": 722,
+        "deletedAt": null
+      }
+    }
+  }
+}

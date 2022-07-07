@@ -1,0 +1,134 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-14T18:44:11.000Z",
+  "checkedAt": "2022-05-14T18:44:11.000Z",
+  "id": 1351,
+  "type": "anime",
+  "title": "Angel Cop",
+  "altTitle": [
+    "エンジェルコップ"
+  ],
+  "url": "https://myanimelist.net/anime/1351/Angel_Cop",
+  "image": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=878"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=511"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Angel_Cop"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 878,
+  "Pages": {
+    "9anime": {
+      "48ok": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2190,
+        "identifier": "48ok",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Angel Cop (Dub)",
+        "url": "https://9anime.to/watch/angel-cop-dub.48ok",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CIu7R8d1Z1A/WQMNEZvPKNI/AAAAAAAAk2M/ILACLQQXqBMFVo1sYuAI3WICztykHLYdgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1351,
+        "aniId": 1351,
+        "deletedAt": null
+      },
+      "916m": {
+        "createdAt": "2020-10-12T15:51:37.000Z",
+        "updatedAt": "2022-06-14T05:30:37.000Z",
+        "checkedAt": "2022-06-14T05:30:37.000Z",
+        "id": 4147,
+        "identifier": "916m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Angel Cop",
+        "url": "https://9anime.to/watch/angel-cop.916m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/10dfaed447916bb80d2f48ec02811161.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1351,
+        "aniId": 1351,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "angel-cop-": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16522,
+        "identifier": "angel-cop-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Angel Cop ",
+        "url": "https://gogoanime.vc/category/angel-cop-",
+        "image": "https://gogocdn.net/images/anime/angel-cop.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1351,
+        "aniId": 1351,
+        "deletedAt": null
+      },
+      "angel-cop-dub": {
+        "createdAt": "2022-05-15T08:30:26.476Z",
+        "updatedAt": "2022-05-15T09:20:00.000Z",
+        "checkedAt": "2022-05-15T08:30:26.000Z",
+        "id": 40991,
+        "identifier": "angel-cop-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Angel Cop (Dub)",
+        "url": "https://gogoanime.sk/category/angel-cop-dub",
+        "image": "https://gogocdn.net/cover/angel-cop-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1351,
+        "aniId": 1351,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1351": {
+        "identifier": "1351",
+        "malId": 1351,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Angel Cop",
+        "url": "https://animixplay.to/anime/1351"
+      }
+    },
+    "YugenAnime": {
+      "896": {
+        "identifier": "896",
+        "malId": 1351,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Angel Cop",
+        "url": "https://yugen.to/anime/896/angel-cop/"
+      }
+    }
+  }
+}

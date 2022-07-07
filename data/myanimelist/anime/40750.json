@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-13T23:19:16.000Z",
+  "checkedAt": "2022-05-13T23:19:16.000Z",
+  "id": 40750,
+  "type": "anime",
+  "title": "Kaifuku Jutsushi no Yarinaoshi",
+  "altTitle": [
+    "Kaiyari",
+    "Redo of Healer",
+    "回復術士のやり直し"
+  ],
+  "url": "https://myanimelist.net/anime/40750/Kaifuku_Jutsushi_no_Yarinaoshi",
+  "image": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kaiyari.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15277"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23465"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kaifuku_Jutsushi_no_Yarinaoshi#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15277,
+  "Pages": {
+    "9anime": {
+      "8rvv": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2022-02-03T13:18:11.000Z",
+        "checkedAt": null,
+        "id": 4014,
+        "identifier": "8rvv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaifuku Jutsushi no Yarinaoshi",
+        "url": "https://9anime.to/watch/redo-of-healer.8rvv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/11/d465394a04a5eaafea6758debdc1a791.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40750,
+        "aniId": 113425,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaifuku-jutsushi-no-yarinaoshi": {
+        "createdAt": "2021-01-13T16:09:05.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33613,
+        "identifier": "kaifuku-jutsushi-no-yarinaoshi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaifuku Jutsushi no Yarinaoshi",
+        "url": "https://gogoanime.vc/category/kaifuku-jutsushi-no-yarinaoshi",
+        "image": "https://gogocdn.net/cover/kaifuku-jutsushi-no-yarinaoshi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40750,
+        "aniId": 113425,
+        "deletedAt": null
+      },
+      "kaifuku-jutsushi-no-yarinaoshi-uncensored": {
+        "createdAt": "2021-01-14T15:01:51.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33651,
+        "identifier": "kaifuku-jutsushi-no-yarinaoshi-uncensored",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaifuku Jutsushi no Yarinaoshi (Uncensored)",
+        "url": "https://gogoanime.vc/category/kaifuku-jutsushi-no-yarinaoshi-uncensored",
+        "image": "https://gogocdn.net/cover/kaifuku-jutsushi-no-yarinaoshi-uncensored.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40750,
+        "aniId": 113425,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4173": {
+        "identifier": "4173",
+        "malId": 40750,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kaifuku Jutsushi no Yarinaoshi",
+        "url": "https://animepahe.com/a/4173"
+      }
+    },
+    "AniMixPlay": {
+      "40750": {
+        "identifier": "40750",
+        "malId": 40750,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaifuku Jutsushi no Yarinaoshi",
+        "url": "https://animixplay.to/anime/40750"
+      }
+    },
+    "YugenAnime": {
+      "7148": {
+        "identifier": "7148",
+        "malId": 40750,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kaifuku Jutsushi no Yarinaoshi",
+        "url": "https://yugen.to/anime/7148/kaifuku-jutsushi-no-yarinaoshi/"
+      }
+    }
+  }
+}

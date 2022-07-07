@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T17:24:40.000Z",
+  "checkedAt": "2022-05-14T17:24:40.000Z",
+  "id": 41053,
+  "type": "anime",
+  "title": "Dorohedoro: Ma no Omake",
+  "altTitle": [
+    "Dorohedoro OVA",
+    "ドロヘドロ 魔のおまけ"
+  ],
+  "url": "https://myanimelist.net/anime/41053/Dorohedoro__Ma_no_Omake",
+  "image": "https://cdn.myanimelist.net/images/anime/1611/105459.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://dorohedoro.net/goods/2.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14483"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dorohedoro#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14483,
+  "Pages": {
+    "9anime": {
+      "0zpk": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 759,
+        "identifier": "0zpk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dorohedoro: Ma no Omake",
+        "url": "https://9anime.to/watch/dorohedoro-ma-no-omake.0zpk",
+        "image": "https://static.akacdn.ru/files/images/2020/01/bc96e411b9cc9c1ff0eba29eae03a900.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41053,
+        "aniId": 114622,
+        "deletedAt": null
+      },
+      "zonl": {
+        "createdAt": "2020-10-23T11:29:09.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27812,
+        "identifier": "zonl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dorohedoro: Ma no Omake (Dub)",
+        "url": "https://9anime.to/watch/dorohedoro-ma-no-omake-dub.zonl",
+        "image": "//static.9anime.to/i/cache/images/e/e6/e67d37f3f3e29fe3f75f409aaab8aefe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41053,
+        "aniId": 114622,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dorohedoro-ma-no-omake": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17422,
+        "identifier": "dorohedoro-ma-no-omake",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dorohedoro: Ma no Omake",
+        "url": "https://gogoanime.vc/category/dorohedoro-ma-no-omake",
+        "image": "https://gogocdn.net/cover/dorohedoro-ma-no-omake.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41053,
+        "aniId": 114622,
+        "deletedAt": null
+      },
+      "dorohedoro-ma-no-omake-dub": {
+        "createdAt": "2020-10-20T19:09:44.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27518,
+        "identifier": "dorohedoro-ma-no-omake-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dorohedoro: Ma no Omake (Dub)",
+        "url": "https://gogoanime.vc/category/dorohedoro-ma-no-omake-dub",
+        "image": "https://gogocdn.net/cover/dorohedoro-ma-no-omake-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41053,
+        "aniId": 114622,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4127": {
+        "identifier": "4127",
+        "malId": 41053,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dorohedoro: Ma no Omake",
+        "url": "https://animepahe.com/a/4127"
+      }
+    },
+    "AniMixPlay": {
+      "41053": {
+        "identifier": "41053",
+        "malId": 41053,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dorohedoro: Ma no Omake",
+        "url": "https://animixplay.to/anime/41053"
+      }
+    },
+    "YugenAnime": {
+      "5743": {
+        "identifier": "5743",
+        "malId": 41053,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dorohedoro: Ma no Omake",
+        "url": "https://yugen.to/anime/5743/dorohedoro-ma-no-omake/"
+      }
+    }
+  }
+}

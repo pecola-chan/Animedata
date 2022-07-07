@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-06-04T05:16:12.000Z",
+  "checkedAt": "2022-06-04T05:16:12.000Z",
+  "id": 8935,
+  "type": "anime",
+  "title": "Nekketsu Uchuujin",
+  "altTitle": [
+    "Hot-blooded Alien",
+    "熱血宇宙人"
+  ],
+  "url": "https://myanimelist.net/anime/8935/Nekketsu_Uchuujin",
+  "image": "https://cdn.myanimelist.net/images/anime/1655/113432.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://falcon-one.net/movie/nekketsu/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "q95j": {
+        "createdAt": "2020-10-12T15:55:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8375,
+        "identifier": "q95j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nekketsu Uchuujin",
+        "url": "https://9anime.to/watch/nekketsu-uchuujin.q95j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-p97r14yYNiU/WRvUGXCoZEI/AAAAAAAAn_M/21GVP-DHT7go7xX7pD9w8q42g0F1NDFswCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8935,
+        "aniId": 8935,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nekketsu-uchuujin": {
+        "createdAt": "2021-08-02T10:48:39.000Z",
+        "updatedAt": "2021-08-02T11:17:28.000Z",
+        "checkedAt": null,
+        "id": 38105,
+        "identifier": "nekketsu-uchuujin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nekketsu Uchuujin",
+        "url": "https://gogoanime.pe/category/nekketsu-uchuujin",
+        "image": "https://gogocdn.net/cover/nekketsu-uchuujin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8935,
+        "aniId": 8935,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8935": {
+        "identifier": "8935",
+        "malId": 8935,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nekketsu Uchuujin",
+        "url": "https://animixplay.to/anime/8935"
+      }
+    },
+    "YugenAnime": {
+      "9544": {
+        "identifier": "9544",
+        "malId": 8935,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nekketsu Uchuujin",
+        "url": "https://yugen.to/anime/9544/nekketsu-uchuujin/"
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T20:47:17.000Z",
+  "checkedAt": "2022-05-14T20:47:17.000Z",
+  "id": 77,
+  "type": "anime",
+  "title": "Mahou Shoujo Lyrical Nanoha A's",
+  "altTitle": [
+    "Mahou Shoujo Lyrical Nanoha A's",
+    "Magical Girl Lyrical Nanoha A's",
+    "魔法少女リリカルなのは エース"
+  ],
+  "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As",
+  "image": "https://cdn.myanimelist.net/images/anime/4/6767.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nanoha.com/archive2/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3440"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5770"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nanoha_A%27s"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3440,
+  "Pages": {
+    "9anime": {
+      "8lxv": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3902,
+        "identifier": "8lxv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo Lyrical Nanoha A's (Dub)",
+        "url": "https://9anime.to/watch/mahou-shoujo-lyrical-nanoha-as-dub.8lxv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jS9V_Drc9aA/V-6FmVQ89PI/AAAAAAABCpI/SAKu8y9WGhA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 77,
+        "aniId": 77,
+        "deletedAt": null
+      },
+      "w1ok": {
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9600,
+        "identifier": "w1ok",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "url": "https://9anime.to/watch/mahou-shoujo-lyrical-nanoha-as.w1ok",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1PC0UqlbC0Q/V4vAXkp63_I/AAAAAAAAwE0/JYCWECw52i8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 77,
+        "aniId": 77,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahou-shoujo-lyrical-nanoha-as": {
+        "createdAt": "2020-12-25T08:26:25.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31090,
+        "identifier": "mahou-shoujo-lyrical-nanoha-as",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "url": "https://gogoanime.vc/category/mahou-shoujo-lyrical-nanoha-as",
+        "image": "https://gogocdn.net/cover/mahou-shoujo-lyrical-nanoha-as.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 77,
+        "aniId": 77,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "77": {
+        "identifier": "77",
+        "malId": 77,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "url": "https://animixplay.to/anime/77"
+      }
+    },
+    "YugenAnime": {
+      "6221": {
+        "identifier": "6221",
+        "malId": 77,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "url": "https://yugen.to/anime/6221/magical-girl-lyrical-nanoha-as/"
+      }
+    }
+  }
+}

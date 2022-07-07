@@ -1,0 +1,70 @@
+{
+  "createdAt": "2022-02-21T13:57:24.000Z",
+  "updatedAt": "2022-02-21T14:17:39.000Z",
+  "checkedAt": null,
+  "id": 40214,
+  "identifier": "hit-wo-nerae-specials",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Hit wo Nerae! Specials",
+  "url": "https://gogoanime.fi/category/hit-wo-nerae-specials",
+  "image": "https://gogocdn.net/cover/hit-wo-nerae-specials.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1741,
+  "aniId": 1741,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:21.000Z",
+    "updatedAt": "2022-05-15T01:28:47.000Z",
+    "checkedAt": "2022-05-15T01:28:47.000Z",
+    "id": 1741,
+    "type": "anime",
+    "title": "Hit wo Nerae! Specials",
+    "altTitle": [
+      "Smash Hit! Specials",
+      "ヒットをねらえ!"
+    ],
+    "url": "https://myanimelist.net/anime/1741/Hit_wo_Nerae_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/3/5357.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ponycanyon.co.jp/pc-moe/hit/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1532"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hit_wo_Nerae"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1532
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:16.000Z",
+    "updatedAt": "2022-05-15T13:35:11.000Z",
+    "checkedAt": "2022-05-15T13:35:11.000Z",
+    "id": 1741,
+    "type": "anime",
+    "title": "Smash Hit Specials",
+    "altTitle": [
+      "ヒットをねらえ!"
+    ],
+    "url": "https://anilist.co/anime/1741",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1741.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1741,
+    "deletedAt": null
+  }
+}

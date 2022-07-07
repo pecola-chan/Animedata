@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T16:58:59.000Z",
+  "checkedAt": "2022-05-14T16:58:59.000Z",
+  "id": 40901,
+  "type": "anime",
+  "title": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
+  "altTitle": [
+    "Tojitomo",
+    "Katana Maidens: Tomoshibi",
+    "刀使ノ巫女 刻みし一閃の燈火"
+  ],
+  "url": "https://myanimelist.net/anime/40901/Toji_no_Miko__Kizamishi_Issen_no_Tomoshibi_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1767/108306.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tojinomiko-tomoshibi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15318"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23091"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katana_Maidens_~_Toji_No_Miko"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280091"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15318,
+  "Pages": {
+    "9anime": {
+      "108w": {
+        "createdAt": "2020-10-25T14:48:52.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27933,
+        "identifier": "108w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
+        "url": "https://9anime.to/watch/toji-no-miko-kizamishi-issen-no-tomoshibi-ova.108w",
+        "image": "//static.9anime.to/i/cache/images/a/ae/ae4ae7e2f77eb5ea504a38485501e61e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40901,
+        "aniId": 114030,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4108": {
+        "identifier": "4108",
+        "malId": 40901,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
+        "url": "https://animepahe.com/a/4108"
+      }
+    },
+    "AniMixPlay": {
+      "40901": {
+        "identifier": "40901",
+        "malId": 40901,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
+        "url": "https://animixplay.to/anime/40901"
+      }
+    }
+  }
+}

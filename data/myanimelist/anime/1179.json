@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-15T00:57:53.000Z",
+  "checkedAt": "2022-05-15T00:57:53.000Z",
+  "id": 1179,
+  "type": "anime",
+  "title": "Gakuen Senki Muryou",
+  "altTitle": [
+    "Shingu: Secret of the Stellar Wars",
+    "学園戦記ムリョウ"
+  ],
+  "url": "https://myanimelist.net/anime/1179/Gakuen_Senki_Muryou",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75379.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.muryou.gr.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=482"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1009"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shingu:_Secret_of_the_Stellar_Wars"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269035"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 482,
+  "Pages": {
+    "9anime": {
+      "jpq8": {
+        "createdAt": "2020-10-12T15:52:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4969,
+        "identifier": "jpq8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakuen Senki Muryou (Dub)",
+        "url": "https://9anime.to/watch/gakuen-senki-muryou-dub.jpq8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9u6WC1g-izs/V7C1zvE39CI/AAAAAAAA3Gk/0FlxHM23rGk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1179,
+        "aniId": 1179,
+        "deletedAt": null
+      },
+      "q77v": {
+        "createdAt": "2020-10-12T15:55:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8334,
+        "identifier": "q77v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakuen Senki Muryou",
+        "url": "https://9anime.to/watch/gakuen-senki-muryou.q77v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fPop2skPFMo/V8znQOBEzLI/AAAAAAAA7fc/1iChH0gbmD0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1179,
+        "aniId": 1179,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gakuen-senki-muryou": {
+        "createdAt": "2020-10-12T16:00:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17772,
+        "identifier": "gakuen-senki-muryou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gakuen Senki Muryou",
+        "url": "https://gogoanime.vc/category/gakuen-senki-muryou",
+        "image": "https://gogocdn.net/cover/gakuen-senki-muryou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1179,
+        "aniId": 1179,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1179": {
+        "identifier": "1179",
+        "malId": 1179,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gakuen Senki Muryou",
+        "url": "https://animixplay.to/anime/1179"
+      }
+    },
+    "YugenAnime": {
+      "5293": {
+        "identifier": "5293",
+        "malId": 1179,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gakuen Senki Muryou",
+        "url": "https://yugen.to/anime/5293/gakuen-senki-muryou/"
+      }
+    }
+  }
+}

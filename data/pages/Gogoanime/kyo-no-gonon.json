@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T16:01:05.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19029,
+  "identifier": "kyo-no-gonon",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kyo no Gonon",
+  "url": "https://gogoanime.vc/category/kyo-no-gonon",
+  "image": "https://gogocdn.net/images/anime/K/kyo-no-gononi.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 837,
+  "aniId": 837,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T21:15:54.000Z",
+    "checkedAt": "2022-05-14T21:15:54.000Z",
+    "id": 837,
+    "type": "anime",
+    "title": "Kyou no 5 no 2",
+    "altTitle": [
+      "Kyo no Gononi",
+      "Kyou no Go no Ni",
+      "Today in Class 5-2",
+      "今日の５の２"
+    ],
+    "url": "https://myanimelist.net/anime/837/Kyou_no_5_no_2",
+    "image": "https://cdn.myanimelist.net/images/anime/6/42631.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.avexmovie.jp/lineup/5-2/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4241"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6245"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kyou_no_Go_no_Ni"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4241
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T15:38:59.000Z",
+    "checkedAt": "2022-05-15T15:38:59.000Z",
+    "id": 837,
+    "type": "anime",
+    "title": "Kyou no Go no Ni",
+    "altTitle": [
+      "Today in Class 5-2",
+      "今日の5の2",
+      "Kyo no Gononi",
+      "Kyou no 5 no 2"
+    ],
+    "url": "https://anilist.co/anime/837",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/837.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 837,
+    "deletedAt": null
+  }
+}

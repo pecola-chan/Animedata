@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:59:54.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16669,
+  "identifier": "bad-boys",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Bad Boys",
+  "url": "https://gogoanime.vc/category/bad-boys",
+  "image": "https://cdnimg.xyz/cover/bad-boys.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6096,
+  "aniId": 6096,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:50.000Z",
+    "updatedAt": "2022-05-15T00:12:11.000Z",
+    "checkedAt": "2022-05-15T00:12:11.000Z",
+    "id": 6096,
+    "type": "anime",
+    "title": "Bad Boys",
+    "altTitle": [
+      "BAD BOYS"
+    ],
+    "url": "https://myanimelist.net/anime/6096/Bad_Boys",
+    "image": "https://cdn.myanimelist.net/images/anime/9/13330.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5295"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3260"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/BADBOYS"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5295
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:53.000Z",
+    "updatedAt": "2022-05-15T18:23:59.000Z",
+    "checkedAt": "2022-05-15T18:23:59.000Z",
+    "id": 6096,
+    "type": "anime",
+    "title": "Bad Boys",
+    "altTitle": [
+      "Bad Boys",
+      "BAD BOYS"
+    ],
+    "url": "https://anilist.co/anime/6096",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6096.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6096,
+    "deletedAt": null
+  }
+}

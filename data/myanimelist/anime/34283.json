@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-15T01:12:05.000Z",
+  "checkedAt": "2022-05-15T01:12:05.000Z",
+  "id": 34283,
+  "type": "anime",
+  "title": "Nobunaga no Shinobi: Nobunaga to Minarai Shinobi",
+  "altTitle": [
+    "Nobunaga no Shinobi Episode 0",
+    "Ninja Girl & Samurai Master: Episode 0",
+    "信長の忍び 第0話『信長と見習い忍び』"
+  ],
+  "url": "https://myanimelist.net/anime/34283/Nobunaga_no_Shinobi__Nobunaga_to_Minarai_Shinobi",
+  "image": "https://cdn.myanimelist.net/images/anime/8/82507.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11951"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BF%A1%E9%95%B7%E3%81%AE%E5%BF%8D%E3%81%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11951,
+  "Pages": {
+    "9anime": {
+      "558j": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2535,
+        "identifier": "558j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninja Girl & Samurai Master: Episode 0",
+        "url": "https://9anime.to/watch/ninja-girl-samurai-master-episode-0.558j",
+        "image": "https://static.akacdn.ru/files/images/2018/02/311eabb25920d3fc7be9b508c5eab504.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34283,
+        "aniId": 97969,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2541": {
+        "identifier": "2541",
+        "malId": 34283,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nobunaga no Shinobi: Nobunaga to Minarai Shinobi",
+        "url": "https://animepahe.com/a/2541"
+      }
+    }
+  }
+}

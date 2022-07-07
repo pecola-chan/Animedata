@@ -1,0 +1,52 @@
+{
+  "createdAt": "2022-01-17T18:34:54.000Z",
+  "updatedAt": "2022-05-15T01:08:35.000Z",
+  "checkedAt": "2022-05-15T01:08:35.000Z",
+  "id": 37859,
+  "type": "anime",
+  "title": "Free! Movie 2: Timeless Medley - Yakusoku: Character Butai Aisatsu",
+  "altTitle": [
+    "Timeless Medley - Yakusoku: Photo Session",
+    "劇場版 Free!-Timeless Medley- 約束 キャラクター舞台挨拶"
+  ],
+  "url": "https://myanimelist.net/anime/37859/Free_Movie_2__Timeless_Medley_-_Yakusoku__Character_Butai_Aisatsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1961/92778.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tym.iwatobi-sc.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12332"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12332,
+  "Pages": {
+    "9anime": {
+      "2o995": {
+        "createdAt": "2022-02-07T19:10:12.000Z",
+        "updatedAt": "2022-02-07T19:39:37.000Z",
+        "checkedAt": null,
+        "id": 40110,
+        "identifier": "2o995",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free!: Timeless Medley - Yakusoku: Character Butai Aisatsu",
+        "url": "https://9anime.to/watch/free-timeless-medley-yakusoku-character-butai-aisatsu.2o995",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b9/b9a01bcdfe5a403533272387fd285285.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37859,
+        "aniId": 121065,
+        "deletedAt": null
+      }
+    }
+  }
+}

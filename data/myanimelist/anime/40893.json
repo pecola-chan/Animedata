@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T21:59:17.000Z",
+  "checkedAt": "2022-05-14T21:59:17.000Z",
+  "id": 40893,
+  "type": "anime",
+  "title": "Komatta Jiisan",
+  "altTitle": [
+    "Troublesome Old Man, Komatta Jii-san",
+    "困ったじいさん"
+  ],
+  "url": "https://myanimelist.net/anime/40893/Komatta_Jiisan",
+  "image": "https://cdn.myanimelist.net/images/anime/1801/116872.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bs4.jp/komatta-jiisan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15316"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22929"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Komatta_Jii-san#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15316,
+  "Pages": {
+    "9anime": {
+      "65yz": {
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2959,
+        "identifier": "65yz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Komatta Jiisan",
+        "url": "https://9anime.to/watch/komatta-jiisan.65yz",
+        "image": "https://static.akacdn.ru/files/images/2020/04/64b596dfeb7ecc146f9bc74473084a5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40893,
+        "aniId": 115892,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "komatta-jiisan": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18929,
+        "identifier": "komatta-jiisan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Komatta Jiisan",
+        "url": "https://gogoanime.vc/category/komatta-jiisan",
+        "image": "https://gogocdn.net/cover/komatta-jiisan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40893,
+        "aniId": 115892,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40893": {
+        "identifier": "40893",
+        "malId": 40893,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Komatta Jiisan",
+        "url": "https://animixplay.to/anime/40893"
+      }
+    },
+    "YugenAnime": {
+      "2085": {
+        "identifier": "2085",
+        "malId": 40893,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Komatta Jiisan",
+        "url": "https://yugen.to/anime/2085/komatta-jiisan/"
+      }
+    }
+  }
+}

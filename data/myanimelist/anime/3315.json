@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T02:03:55.000Z",
+  "checkedAt": "2022-05-15T02:03:55.000Z",
+  "id": 3315,
+  "type": "anime",
+  "title": "Kikou Keisatsu Metal Jack",
+  "altTitle": [
+    "Armored Police Metal Jack",
+    "機甲警察 メタルジャック"
+  ],
+  "url": "https://myanimelist.net/anime/3315/Kikou_Keisatsu_Metal_Jack",
+  "image": "https://cdn.myanimelist.net/images/anime/2/77278.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=49"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3049"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=209"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Armored_Police_Metal_Jack"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3049,
+  "Pages": {
+    "9anime": {
+      "lmrm": {
+        "createdAt": "2020-10-12T15:53:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6094,
+        "identifier": "lmrm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kikou Keisatsu Metal Jack",
+        "url": "https://9anime.to/watch/kikou-keisatsu-metal-jack.lmrm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PbNNqKY-lJ4/WS-_zFgf_aI/AAAAAAAArRs/ReMUoiJQXjoBoRwwnUD_UXjgky6MTB6gQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3315,
+        "aniId": 3315,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kikou-keisatsu-metal-jack": {
+        "createdAt": "2021-03-22T15:04:56.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35837,
+        "identifier": "kikou-keisatsu-metal-jack",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kikou Keisatsu Metal Jack",
+        "url": "https://gogoanime.vc/category/kikou-keisatsu-metal-jack",
+        "image": "https://gogocdn.net/cover/kikou-keisatsu-metal-jack.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3315,
+        "aniId": 3315,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3315": {
+        "identifier": "3315",
+        "malId": 3315,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kikou Keisatsu Metal Jack",
+        "url": "https://animixplay.to/anime/3315"
+      }
+    },
+    "YugenAnime": {
+      "7287": {
+        "identifier": "7287",
+        "malId": 3315,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kikou Keisatsu Metal Jack",
+        "url": "https://yugen.to/anime/7287/kikou-keisatsu-metal-jack/"
+      }
+    }
+  }
+}

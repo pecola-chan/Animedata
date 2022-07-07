@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T19:20:59.000Z",
+  "checkedAt": "2022-05-14T19:20:59.000Z",
+  "id": 9509,
+  "type": "anime",
+  "title": "Yami no Purple Eye",
+  "altTitle": [
+    "Purple Eyes in the Dark",
+    "闇のパープル・アイ"
+  ],
+  "url": "https://myanimelist.net/anime/9509/Yami_no_Purple_Eye",
+  "image": "https://cdn.myanimelist.net/images/anime/8/26389.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7235"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7167"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Purple_Eyes_in_the_Dark"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7235,
+  "Pages": {
+    "9anime": {
+      "xn8w": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10307,
+        "identifier": "xn8w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Purple Eyes in the Dark",
+        "url": "https://9anime.to/watch/purple-eyes-in-the-dark.xn8w",
+        "image": "https://static.akacdn.ru/files/images/2018/03/e46260416b34ad8ac0edcc4e70ace72e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9509,
+        "aniId": 9509,
+        "deletedAt": null
+      }
+    }
+  }
+}

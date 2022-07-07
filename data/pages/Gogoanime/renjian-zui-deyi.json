@@ -1,0 +1,63 @@
+{
+  "createdAt": "2021-10-28T04:45:58.000Z",
+  "updatedAt": "2022-04-10T14:33:18.000Z",
+  "checkedAt": null,
+  "id": 39121,
+  "identifier": "renjian-zui-deyi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Renjian Zui Deyi",
+  "url": "https://gogoanime.fi/category/renjian-zui-deyi",
+  "image": "https://gogocdn.net/cover/renjian-zui-deyi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 50378,
+  "aniId": 137678,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2022-01-25T14:30:33.000Z",
+    "updatedAt": "2022-05-14T21:23:29.000Z",
+    "checkedAt": "2022-05-14T21:23:29.000Z",
+    "id": 50378,
+    "type": "anime",
+    "title": "Renjian Zui Deyi",
+    "altTitle": [
+      "Proud Swordsman",
+      "人间最得意"
+    ],
+    "url": "https://myanimelist.net/anime/50378/Renjian_Zui_Deyi",
+    "image": "https://cdn.myanimelist.net/images/anime/1584/119823.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E4%BA%BA%E9%97%B4%E6%9C%80%E5%BE%97%E6%84%8F/56023547"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-08-08T22:39:16.000Z",
+    "updatedAt": "2022-05-16T09:41:15.000Z",
+    "checkedAt": "2022-05-16T09:41:15.000Z",
+    "id": 137678,
+    "type": "anime",
+    "title": "Renjian Zui Deyi",
+    "altTitle": [
+      "人间最得意",
+      "Proud Swordsman"
+    ],
+    "url": "https://anilist.co/anime/137678",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137678-Qynbncg6d1vU.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 50378,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-18T17:50:47.000Z",
+  "checkedAt": "2022-05-18T17:50:47.000Z",
+  "id": 1370,
+  "type": "anime",
+  "title": "Atama Yama",
+  "altTitle": [
+    "Atama-yama",
+    "Mt. Head",
+    "頭山"
+  ],
+  "url": "https://myanimelist.net/anime/1370/Atama_Yama",
+  "image": "https://cdn.myanimelist.net/images/anime/1845/112896.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yamamura-animation.jp/ef14mt_head.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1210"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2275"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1210,
+  "Pages": {
+    "9anime": {
+      "rq6o": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8978,
+        "identifier": "rq6o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Atama Yama",
+        "url": "https://9anime.to/watch/atama-yama.rq6o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OaUWgmqrgW8/WLGBx2IoYfI/AAAAAAABd9A/20xYX5HpJ5g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1370,
+        "aniId": 1370,
+        "deletedAt": null
+      }
+    }
+  }
+}

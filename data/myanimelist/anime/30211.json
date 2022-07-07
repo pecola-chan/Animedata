@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-04-03T05:02:11.000Z",
+  "checkedAt": null,
+  "id": 30211,
+  "type": "anime",
+  "title": "Zenchuu Maite",
+  "altTitle": [
+    "Dancer of Vermicular",
+    "蠕虫舞手"
+  ],
+  "url": "https://myanimelist.net/anime/30211/Zenchuu_Maite",
+  "image": "https://cdn.myanimelist.net/images/anime/10/72281.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kankaku.jp/independent-en/vermicu.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13373"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13373,
+  "Pages": {
+    "9anime": {
+      "ok7j": {
+        "createdAt": "2020-10-12T15:54:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7499,
+        "identifier": "ok7j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dancer of Vermicular",
+        "url": "https://9anime.to/watch/dancer-of-vermicular.ok7j",
+        "image": "http://static.akacdn.ru/static/images/2018/02/1d7a7080c566bf2d63734a7ae618fdc7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30211,
+        "aniId": 103434,
+        "deletedAt": null
+      }
+    }
+  }
+}

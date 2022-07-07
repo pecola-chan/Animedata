@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-14T20:12:59.000Z",
+  "checkedAt": "2022-05-14T20:12:59.000Z",
+  "id": 6408,
+  "type": "anime",
+  "title": "\"Bungaku Shoujo\" Movie",
+  "altTitle": [
+    "Book Girl",
+    "Literature Girl",
+    "劇場版“文学少女”"
+  ],
+  "url": "https://myanimelist.net/anime/6408/Bungaku_Shoujo_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/8/81162.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bungakushoujo.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6959"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10815"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Book_Girl_(film)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257075"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6959,
+  "Pages": {
+    "9anime": {
+      "92m0": {
+        "createdAt": "2020-10-12T15:51:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4170,
+        "identifier": "92m0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "\"Bungaku Shoujo\" Movie",
+        "url": "https://9anime.to/watch/bungaku-shoujo-movie.92m0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-43k-YbxoMqU/V6C89zZHt1I/AAAAAAAAz5w/MjQTD0ALcrs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6408,
+        "aniId": 6408,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bungaku-shoujo": {
+        "createdAt": "2020-10-12T16:00:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16967,
+        "identifier": "bungaku-shoujo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bungaku Shoujo",
+        "url": "https://gogoanime.vc/category/bungaku-shoujo",
+        "image": "https://cdnimg.xyz/images/bungaku_shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6408,
+        "aniId": 6408,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6408": {
+        "identifier": "6408",
+        "malId": 6408,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "\"Bungaku Shoujo\" Movie",
+        "url": "https://animixplay.to/anime/6408"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "createdAt": "2022-01-18T05:34:04.000Z",
+  "updatedAt": "2022-01-18T06:04:03.000Z",
+  "checkedAt": null,
+  "id": 39871,
+  "identifier": "usuzumizakura-garo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Usuzumizakura: Garo",
+  "url": "https://gogoanime.cm/category/usuzumizakura-garo",
+  "image": "https://gogocdn.net/cover/usuzumizakura-garo.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36858,
+  "aniId": 101370,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:58.000Z",
+    "updatedAt": "2022-05-14T23:20:41.000Z",
+    "checkedAt": "2022-05-14T23:20:41.000Z",
+    "id": 36858,
+    "type": "anime",
+    "title": "Usuzumizakura: Garo",
+    "altTitle": [
+      "Garo: The Fleeting Cherry Blossom",
+      "薄墨桜 -GARO-"
+    ],
+    "url": "https://myanimelist.net/anime/36858/Usuzumizakura__Garo",
+    "image": "https://cdn.myanimelist.net/images/anime/1428/93934.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13608"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20800"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%89%99%E7%8B%BC_-%E7%B4%85%E8%93%AE%E3%83%8E%E6%9C%88-"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13608
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:29.000Z",
+    "updatedAt": "2022-05-15T18:14:11.000Z",
+    "checkedAt": "2022-05-15T18:14:11.000Z",
+    "id": 101370,
+    "type": "anime",
+    "title": "Usuzumizakura -GARO-",
+    "altTitle": [
+      "薄墨桜 -GARO-"
+    ],
+    "url": "https://anilist.co/anime/101370",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101370-N9qRFFBIaFwA.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36858,
+    "deletedAt": null
+  }
+}

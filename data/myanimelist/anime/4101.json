@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-15T00:14:53.000Z",
+  "checkedAt": "2022-05-15T00:14:53.000Z",
+  "id": 4101,
+  "type": "anime",
+  "title": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+  "altTitle": [
+    "Wanwan Celepoo Sore Yuke! Tetsunoshin",
+    "ワンワンセレプー それゆけ！徹之進"
+  ],
+  "url": "https://myanimelist.net/anime/4101/Wan_Wan_Celepoo_Soreyuke_Tetsunoshin",
+  "image": "https://cdn.myanimelist.net/images/anime/13/7489.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-aichi.co.jp/tetsunoshin/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4124"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6203"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wan_Wan_Celeb_Soreyuke!_Tetsunoshin"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4124,
+  "Pages": {
+    "9anime": {
+      "rp5y": {
+        "createdAt": "2020-11-01T20:44:00.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28722,
+        "identifier": "rp5y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+        "url": "https://9anime.to/watch/wan-wan-celepoo-soreyuke-tetsunoshin.rp5y",
+        "image": "//static.9anime.to/i/cache/images/2020/01/5a6bbb7b2257052c402a42b836363227.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4101,
+        "aniId": 4101,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4101": {
+        "identifier": "4101",
+        "malId": 4101,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+        "url": "https://animixplay.to/anime/4101"
+      }
+    },
+    "YugenAnime": {
+      "5948": {
+        "identifier": "5948",
+        "malId": 4101,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wan Wan Celepoo Soreyuke! Tetsunoshin",
+        "url": "https://yugen.to/anime/5948/wan-wan-celepoo-soreyuke-tetsunoshin/"
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T09:43:47.000Z",
+  "checkedAt": "2022-05-14T09:43:47.000Z",
+  "id": 37202,
+  "type": "anime",
+  "title": "Radiant",
+  "altTitle": [
+    "Radiant",
+    "ラディアン"
+  ],
+  "url": "https://myanimelist.net/anime/37202/Radiant",
+  "image": "https://cdn.myanimelist.net/images/anime/1318/95345.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/anime/radiant/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13767"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20793"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radiant_(TV_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277072"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/radiant"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13767,
+  "Pages": {
+    "9anime": {
+      "7v11": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3579,
+        "identifier": "7v11",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Radiant (Dub)",
+        "url": "https://9anime.to/watch/radiant-dub.7v11",
+        "image": "http://static.akacdn.ru/static/images/2018/10/888f9800e3688848401d1100bb16dad5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37202,
+        "aniId": 101024,
+        "deletedAt": null
+      },
+      "njmn": {
+        "createdAt": "2020-10-12T15:53:52.000Z",
+        "updatedAt": "2022-03-19T09:49:54.000Z",
+        "checkedAt": null,
+        "id": 7071,
+        "identifier": "njmn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Radiant",
+        "url": "https://9anime.to/watch/radiant.njmn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/02/90eba29e618bca6a3bd436a5eeb53045.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37202,
+        "aniId": 101024,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "radiant": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20217,
+        "identifier": "radiant",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Radiant",
+        "url": "https://gogoanime.vc/category/radiant",
+        "image": "https://cdnimg.xyz/cover/radiant.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37202,
+        "aniId": 101024,
+        "deletedAt": null
+      },
+      "radiant-dub": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20220,
+        "identifier": "radiant-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Radiant (Dub)",
+        "url": "https://gogoanime.vc/category/radiant-dub",
+        "image": "https://cdnimg.xyz/cover/radiant-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37202,
+        "aniId": 101024,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2815": {
+        "identifier": "2815",
+        "malId": 37202,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Radiant",
+        "url": "https://animepahe.com/a/2815"
+      }
+    },
+    "AniMixPlay": {
+      "37202": {
+        "identifier": "37202",
+        "malId": 37202,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Radiant",
+        "url": "https://animixplay.to/anime/37202"
+      }
+    },
+    "YugenAnime": {
+      "84": {
+        "identifier": "84",
+        "malId": 37202,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Radiant",
+        "url": "https://yugen.to/anime/84/radiant/"
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T19:37:59.000Z",
+  "checkedAt": "2022-05-14T19:37:59.000Z",
+  "id": 28,
+  "type": "anime",
+  "title": "Yakitate!! Japan",
+  "altTitle": [
+    "Freshly Baked!! Ja-pan!",
+    "Yakitate!! Japan",
+    "焼きたて!! ジャぱん"
+  ],
+  "url": "https://myanimelist.net/anime/28/Yakitate_Japan",
+  "image": "https://cdn.myanimelist.net/images/anime/3/76432.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yakitate-japan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2429"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4454"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yakitate"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268497"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/yakitate-JP"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2429,
+  "Pages": {
+    "9anime": {
+      "wor6": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9863,
+        "identifier": "wor6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yakitate!! Japan",
+        "url": "https://9anime.to/watch/yakitate-japan.wor6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-53IvAC6fN-c/V6ldVb_53NI/AAAAAAAA1h4/aEB4-fuD7QM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28,
+        "aniId": 28,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yakitate-japan": {
+        "createdAt": "2020-10-12T16:02:17.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21496,
+        "identifier": "yakitate-japan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yakitate Japan",
+        "url": "https://gogoanime.vc/category/yakitate-japan#",
+        "image": "https://cdnimg.xyz/images/anime/Y/yakitate-japan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28,
+        "aniId": 28,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1575": {
+        "identifier": "1575",
+        "malId": 28,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yakitate!! Japan",
+        "url": "https://animepahe.com/a/1575"
+      }
+    },
+    "AniMixPlay": {
+      "28": {
+        "identifier": "28",
+        "malId": 28,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yakitate!! Japan",
+        "url": "https://animixplay.to/anime/28"
+      }
+    },
+    "YugenAnime": {
+      "2293": {
+        "identifier": "2293",
+        "malId": 28,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yakitate!! Japan",
+        "url": "https://yugen.to/anime/2293/yakitate-japan/"
+      }
+    }
+  }
+}

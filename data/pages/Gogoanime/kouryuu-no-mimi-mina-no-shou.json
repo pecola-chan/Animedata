@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-12-09T09:09:54.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29789,
+  "identifier": "kouryuu-no-mimi-mina-no-shou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kouryuu no Mimi: Mina no Shou",
+  "url": "https://gogoanime.vc/category/kouryuu-no-mimi-mina-no-shou",
+  "image": "https://gogocdn.net/cover/kouryuu-no-mimi-mina-no-shou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2737,
+  "aniId": 2737,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:32.000Z",
+    "updatedAt": "2022-05-15T02:22:28.000Z",
+    "checkedAt": "2022-05-15T02:22:28.000Z",
+    "id": 2737,
+    "type": "anime",
+    "title": "Kouryuu no Mimi: Mina no Shou",
+    "altTitle": [
+      "Koryu no Mimi",
+      "Ear of the Yellow Dragon",
+      "Ear of the Golden Dragon",
+      "黄龍の耳"
+    ],
+    "url": "https://myanimelist.net/anime/2737/Kouryuu_no_Mimi__Mina_no_Shou",
+    "image": "https://cdn.myanimelist.net/images/anime/10/59847.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3535"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7394"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/黄龍の耳"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3535
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:26.000Z",
+    "updatedAt": "2022-05-16T07:27:19.000Z",
+    "checkedAt": "2022-05-16T07:27:19.000Z",
+    "id": 2737,
+    "type": "anime",
+    "title": "Kouryuu no Mimi: Mina no Shou",
+    "altTitle": [
+      "黄龍の耳 美那の章",
+      "Ear of The Yellow Dragon",
+      "Ear of the Golden Dragon"
+    ],
+    "url": "https://anilist.co/anime/2737",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2737-KLtvEnG2azDj.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2737,
+    "deletedAt": null
+  }
+}

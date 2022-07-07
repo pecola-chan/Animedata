@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-14T23:24:41.000Z",
+  "checkedAt": "2022-05-14T23:24:41.000Z",
+  "id": 2094,
+  "type": "anime",
+  "title": "Relic Armor Legaciam",
+  "altTitle": [
+    "レリック・アーマー レガシアム"
+  ],
+  "url": "https://myanimelist.net/anime/2094/Relic_Armor_Legaciam",
+  "image": "https://cdn.myanimelist.net/images/anime/1364/92792.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5013"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7259"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/レリックアーマーLEGACIAM"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5013,
+  "Pages": {
+    "9anime": {
+      "3856": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 124,
+        "identifier": "3856",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Relic Armor Legaciam",
+        "url": "https://9anime.to/watch/relic-armor-legaciam.3856",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-y2T7VZBuiZc/WP7t79Vt-zI/AAAAAAAAkIE/-bI4qa_NrUkasijbCJwO2bgjcCc01ZAYwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2094,
+        "aniId": 2094,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2094": {
+        "identifier": "2094",
+        "malId": 2094,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Relic Armor Legaciam",
+        "url": "https://animixplay.to/anime/2094"
+      }
+    },
+    "YugenAnime": {
+      "3226": {
+        "identifier": "3226",
+        "malId": 2094,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Relic Armor Legaciam",
+        "url": "https://yugen.to/anime/3226/relic-armor-legaciam/"
+      }
+    }
+  }
+}

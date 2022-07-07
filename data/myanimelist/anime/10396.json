@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-14T16:40:27.000Z",
+  "checkedAt": "2022-05-14T16:40:27.000Z",
+  "id": 10396,
+  "type": "anime",
+  "title": "Ben-To",
+  "altTitle": [
+    "Bento",
+    "Ben-Tou",
+    "Ben-To",
+    "ベン・トー"
+  ],
+  "url": "https://myanimelist.net/anime/10396/Ben-To",
+  "image": "https://cdn.myanimelist.net/images/anime/12/73984.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ben-to.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8292"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12541"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ben-To"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/ben-to"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8292,
+  "Pages": {
+    "9anime": {
+      "0n3": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 590,
+        "identifier": "0n3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ben-To",
+        "url": "https://9anime.to/watch/ben-to.0n3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hoT4xlT3FQY/V4i4Hjfs3jI/AAAAAAAAvn4/FEKF-MUSROY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10396,
+        "aniId": 10396,
+        "deletedAt": null
+      },
+      "jlw4": {
+        "createdAt": "2020-10-12T15:52:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4914,
+        "identifier": "jlw4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ben-To (Dub)",
+        "url": "https://9anime.to/watch/ben-to-dub.jlw4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KaheGc3A1Qc/V9z8T6mxkyI/AAAAAAAA-mU/aShtXInbTFE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10396,
+        "aniId": 10396,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ben-to": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16775,
+        "identifier": "ben-to",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ben-To",
+        "url": "https://gogoanime.vc/category/ben-to",
+        "image": "https://images.gogoanime.tv/images/anime/B/ben-to.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10396,
+        "aniId": 10396,
+        "deletedAt": null
+      },
+      "ben-to-dub": {
+        "createdAt": "2020-10-12T15:59:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16776,
+        "identifier": "ben-to-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ben-To (Dub)",
+        "url": "https://gogoanime.vc/category/ben-to-dub",
+        "image": "https://cdnimg.xyz/cover/ben-to-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10396,
+        "aniId": 10396,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "772": {
+        "identifier": "772",
+        "malId": 10396,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ben-To",
+        "url": "https://animepahe.com/a/772"
+      }
+    },
+    "AniMixPlay": {
+      "10396": {
+        "identifier": "10396",
+        "malId": 10396,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ben-To",
+        "url": "https://animixplay.to/anime/10396"
+      }
+    },
+    "YugenAnime": {
+      "630": {
+        "identifier": "630",
+        "malId": 10396,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ben-To",
+        "url": "https://yugen.to/anime/630/ben-to/"
+      }
+    }
+  }
+}

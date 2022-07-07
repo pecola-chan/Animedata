@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-13T23:14:58.000Z",
+  "checkedAt": "2022-05-13T23:14:58.000Z",
+  "id": 23277,
+  "type": "anime",
+  "title": "Saenai Heroine no Sodatekata",
+  "altTitle": [
+    "Saenai Kanojo no Sodate-kata",
+    "Saekano: How to Raise a Boring Girlfriend",
+    "冴えない彼女〈ヒロイン〉の育てかた"
+  ],
+  "url": "https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata",
+  "image": "https://cdn.myanimelist.net/images/anime/7/68783.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saenai.tv/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10538"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16141"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saekano:_How_to_Raise_a_Boring_Girlfriend"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-264423"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/saekano-how-to-raise-a-boring-girlfriend-"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10538,
+  "Pages": {
+    "9anime": {
+      "80ln": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2022-06-14T03:31:23.000Z",
+        "checkedAt": "2022-06-14T03:31:23.000Z",
+        "id": 3690,
+        "identifier": "80ln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saenai Heroine no Sodatekata",
+        "url": "https://9anime.to/watch/saekano-how-to-raise-a-boring-girlfriend.80ln",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a218ff6f5294f64459594c3bc74e127c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23277,
+        "aniId": 20657,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saenai-heroine-no-sodatekata": {
+        "createdAt": "2020-10-12T16:01:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20359,
+        "identifier": "saenai-heroine-no-sodatekata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saenai Heroine no Sodatekata",
+        "url": "https://gogoanime.vc/category/saenai-heroine-no-sodatekata",
+        "image": "https://cdnimg.xyz/images/upload/164360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23277,
+        "aniId": 20657,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "46": {
+        "identifier": "46",
+        "malId": 23277,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Saenai Heroine no Sodatekata",
+        "url": "https://animepahe.com/a/46"
+      }
+    },
+    "AniMixPlay": {
+      "23277": {
+        "identifier": "23277",
+        "malId": 23277,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saenai Heroine no Sodatekata",
+        "url": "https://animixplay.to/anime/23277"
+      }
+    },
+    "YugenAnime": {
+      "3897": {
+        "identifier": "3897",
+        "malId": 23277,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Saenai Heroine no Sodatekata",
+        "url": "https://yugen.to/anime/3897/saenai-heroine-no-sodatekata/"
+      }
+    }
+  }
+}

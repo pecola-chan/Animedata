@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-06-14T17:56:29.000Z",
+  "checkedAt": "2022-06-14T17:56:29.000Z",
+  "id": 31377,
+  "type": "anime",
+  "title": "Kataribe Shoujo Honoka",
+  "altTitle": [
+    "語りべ少女ほのか"
+  ],
+  "url": "https://myanimelist.net/anime/31377/Kataribe_Shoujo_Honoka",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75474.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.honokatari.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11470"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11470,
+  "Pages": {
+    "9anime": {
+      "9kqq": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4326,
+        "identifier": "9kqq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kataribe Shoujo Honoka",
+        "url": "https://9anime.to/watch/kataribe-shoujo-honoka.9kqq",
+        "image": "https://static.akacdn.ru/files/images/2020/04/5a4289506f782f6129b2b99fb927c8f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31377,
+        "aniId": 101248,
+        "deletedAt": null
+      }
+    }
+  }
+}

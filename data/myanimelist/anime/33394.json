@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:46.000Z",
+  "updatedAt": "2022-05-14T10:31:03.000Z",
+  "checkedAt": "2022-05-14T10:31:03.000Z",
+  "id": 33394,
+  "type": "anime",
+  "title": "Mahou Shoujo? Naria☆Girls",
+  "altTitle": [
+    "Mahou Shoujo? Naria Girls",
+    "魔法少女? なりあ☆がーるず"
+  ],
+  "url": "https://myanimelist.net/anime/33394/Mahou_Shoujo_Naria☆Girls",
+  "image": "https://cdn.myanimelist.net/images/anime/9/80373.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nariagirls.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12158"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18463"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%3F%E3%81%AA%E3%82%8A%E3%81%82%E2%98%86%E3%81%8C%E3%83%BC%E3%82%8B%E3%81%9A"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270775"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12158,
+  "Pages": {
+    "9anime": {
+      "pm26": {
+        "createdAt": "2020-10-12T15:54:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7988,
+        "identifier": "pm26",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo? Naria☆Girls",
+        "url": "https://9anime.to/watch/mahou-shoujo-nariagirls.pm26",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lxJ19WmcO3Y/V7mTxaeB0FI/AAAAAAAA4qA/Q0TSrDZc8w4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33394,
+        "aniId": 21835,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahou-shoujo-nariagirls": {
+        "createdAt": "2020-11-17T08:15:17.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29305,
+        "identifier": "mahou-shoujo-nariagirls",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahou Shoujo? Naria☆Girls",
+        "url": "https://gogoanime.vc/category/mahou-shoujo-nariagirls",
+        "image": "https://gogocdn.net/cover/mahou-shoujo-nariagirls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33394,
+        "aniId": 21835,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33394": {
+        "identifier": "33394",
+        "malId": 33394,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou Shoujo? Naria☆Girls",
+        "url": "https://animixplay.to/anime/33394"
+      }
+    },
+    "YugenAnime": {
+      "4553": {
+        "identifier": "4553",
+        "malId": 33394,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahou Shoujo? Naria☆Girls",
+        "url": "https://yugen.to/anime/4553/mahou-shoujo-nariagirls/"
+      }
+    }
+  }
+}

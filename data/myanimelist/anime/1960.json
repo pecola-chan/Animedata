@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-21T09:08:59.000Z",
+  "updatedAt": "2022-05-15T04:08:05.000Z",
+  "checkedAt": "2022-05-15T04:08:05.000Z",
+  "id": 1960,
+  "type": "anime",
+  "title": "Sore Ike! Anpanman",
+  "altTitle": [
+    "Soreike! Anpanman",
+    "Go! Anpanman",
+    "Anpanman TV",
+    "それいけ！アンパンマン"
+  ],
+  "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman",
+  "image": "https://cdn.myanimelist.net/images/anime/1902/111797.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/anpanman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5548"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1158"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anpanman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5548,
+  "Pages": {
+    "9anime": {
+      "lz6m": {
+        "createdAt": "2020-10-21T09:10:00.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27607,
+        "identifier": "lz6m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sore Ike! Anpanman",
+        "url": "https://9anime.to/watch/sore-ike-anpanman.lz6m",
+        "image": "//static.9anime.to/i/cache/images/e/e5/e5661cba760b70f9d9bf4eac5b76bd99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1960,
+        "aniId": 1960,
+        "deletedAt": null
+      }
+    }
+  }
+}

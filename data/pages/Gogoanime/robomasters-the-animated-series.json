@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T16:01:43.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20309,
+  "identifier": "robomasters-the-animated-series",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "RoboMasters the Animated Series",
+  "url": "https://gogoanime.vc/category/robomasters-the-animated-series",
+  "image": "https://images.gogoanime.tv/cover/robomasters-the-animated-series.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 34903,
+  "aniId": 98526,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:52.000Z",
+    "updatedAt": "2022-05-14T16:16:45.000Z",
+    "checkedAt": "2022-05-14T16:16:45.000Z",
+    "id": 34903,
+    "type": "anime",
+    "title": "RoboMasters the Animated Series",
+    "altTitle": [
+      "ROBOMASTERS THE ANIMATED SERIES"
+    ],
+    "url": "https://myanimelist.net/anime/34903/RoboMasters_the_Animated_Series",
+    "image": "https://cdn.myanimelist.net/images/anime/11/86297.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.robomasters.com/jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12815"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 12815
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:23.000Z",
+    "updatedAt": "2022-05-15T17:07:23.000Z",
+    "checkedAt": "2022-05-15T17:07:23.000Z",
+    "id": 98526,
+    "type": "anime",
+    "title": "Robomasters The Animated Series",
+    "altTitle": [
+      "ROBOMASTERS THE ANIMATED SERIES"
+    ],
+    "url": "https://anilist.co/anime/98526",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98526-VKJSGv2walfo.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 34903,
+    "deletedAt": null
+  }
+}

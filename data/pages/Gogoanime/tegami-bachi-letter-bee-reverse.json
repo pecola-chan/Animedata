@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T16:02:02.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20979,
+  "identifier": "tegami-bachi-letter-bee-reverse",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tegami Bachi – Letter Bee REVERSE",
+  "url": "https://gogoanime.vc/category/tegami-bachi-letter-bee-reverse",
+  "image": "https://gogocdn.net/images/anime/Tegami Bachi  Letter Bee REVERSE.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8311,
+  "aniId": 8311,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:58.000Z",
+    "updatedAt": "2022-05-14T16:41:26.000Z",
+    "checkedAt": "2022-05-14T16:41:26.000Z",
+    "id": 8311,
+    "type": "anime",
+    "title": "Tegamibachi Reverse",
+    "altTitle": [
+      "Tegami Bachi 2",
+      "Letter Bee 2",
+      "Tegami Bachi: Letter Bee Reverse",
+      "テガミバチ REVERSE"
+    ],
+    "url": "https://myanimelist.net/anime/8311/Tegamibachi_Reverse",
+    "image": "https://cdn.myanimelist.net/images/anime/4/26472.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ani.tv/tegamibachi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7458"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11600"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tegami_Bachi"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7458
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:55.000Z",
+    "updatedAt": "2022-05-15T16:12:59.000Z",
+    "checkedAt": "2022-05-15T16:12:59.000Z",
+    "id": 8311,
+    "type": "anime",
+    "title": "Tegami Bachi Reverse",
+    "altTitle": [
+      "Letter Bee Reverse",
+      "テガミバチ REVERSE",
+      "Tegami Bachi 2",
+      "Letter Bee 2"
+    ],
+    "url": "https://anilist.co/anime/8311",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8311.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/tegami-bachi-letter-bee"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/tegami-bachi-letter-bee-reverse"
+      }
+    ],
+    "malId": 8311,
+    "deletedAt": null
+  }
+}

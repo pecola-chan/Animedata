@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T18:49:59.000Z",
+  "checkedAt": "2022-05-14T18:49:59.000Z",
+  "id": 3359,
+  "type": "anime",
+  "title": "Amatsuki",
+  "altTitle": [
+    "Amatsuki",
+    "あまつき"
+  ],
+  "url": "https://myanimelist.net/anime/3359/Amatsuki",
+  "image": "https://cdn.myanimelist.net/images/anime/12/75555.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://amatsuki.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5534"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9029"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amatsuki"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5534,
+  "Pages": {
+    "9anime": {
+      "rlqn": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8902,
+        "identifier": "rlqn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amatsuki",
+        "url": "https://9anime.to/watch/amatsuki.rlqn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-f_FoQihZdbQ/V5M3gCH2PNI/AAAAAAAAxdU/VKn9yAbRRFo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3359,
+        "aniId": 3359,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amatsuki": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16509,
+        "identifier": "amatsuki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amatsuki",
+        "url": "https://gogoanime.vc/category/amatsuki",
+        "image": "https://gogocdn.net/images/anime/amatsuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3359,
+        "aniId": 3359,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3359": {
+        "identifier": "3359",
+        "malId": 3359,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amatsuki",
+        "url": "https://animixplay.to/anime/3359"
+      }
+    },
+    "YugenAnime": {
+      "338": {
+        "identifier": "338",
+        "malId": 3359,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amatsuki",
+        "url": "https://yugen.to/anime/338/amatsuki/"
+      }
+    }
+  }
+}

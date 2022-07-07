@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-12-16T03:56:45.000Z",
+  "updatedAt": "2022-05-18T08:31:07.000Z",
+  "checkedAt": "2022-05-18T08:31:07.000Z",
+  "id": 4103,
+  "type": "anime",
+  "title": "Oval x Over",
+  "altTitle": [
+    "OVALxOVER"
+  ],
+  "url": "https://myanimelist.net/anime/4103/Oval_x_Over",
+  "image": "https://cdn.myanimelist.net/images/anime/5/29979.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.production-ig.co.jp/works/oval-over/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3044"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5032"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3044,
+  "Pages": {
+    "9anime": {
+      "r5zo": {
+        "createdAt": "2020-12-16T03:57:45.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30273,
+        "identifier": "r5zo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oval x Over",
+        "url": "https://9anime.to/watch/oval-x-over.r5zo",
+        "image": "//static.9anime.to/i/cache/images/f/fc/fcac563a1bd7de6fbead4aa3bbd9467a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4103,
+        "aniId": 4103,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oval-x-over": {
+        "createdAt": "2020-12-16T05:25:32.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30275,
+        "identifier": "oval-x-over",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oval x Over",
+        "url": "https://gogoanime.vc/category/oval-x-over",
+        "image": "https://gogocdn.net/cover/oval-x-over.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4103,
+        "aniId": 4103,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4103": {
+        "identifier": "4103",
+        "malId": 4103,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oval x Over",
+        "url": "https://animixplay.to/anime/4103"
+      }
+    },
+    "YugenAnime": {
+      "6786": {
+        "identifier": "6786",
+        "malId": 4103,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Oval x Over",
+        "url": "https://yugen.to/anime/6786/oval-x-over/"
+      }
+    }
+  }
+}

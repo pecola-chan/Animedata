@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T18:55:23.000Z",
+  "checkedAt": "2022-05-14T18:55:23.000Z",
+  "id": 37368,
+  "type": "anime",
+  "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
+  "altTitle": [
+    "Young Ashibe: Go! Go! Goma-chan 3",
+    "少年アシベ GO! GO! ゴマちゃん 3"
+  ],
+  "url": "https://myanimelist.net/anime/37368/Shounen_Ashibe__Go_Go_Goma-chan_3",
+  "image": "https://cdn.myanimelist.net/images/anime/1001/91711.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www6.nhk.or.jp/anime/program/detail.html?i=gomachan"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13838"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20784"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E3%82%A2%E3%82%B7%E3%83%99"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13838,
+  "Pages": {
+    "9anime": {
+      "q0wv": {
+        "createdAt": "2020-10-12T15:54:55.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8231,
+        "identifier": "q0wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
+        "url": "https://9anime.to/watch/shounen-ashibe-go-go-goma-chan-3-dub.q0wv",
+        "image": "http://static.akacdn.ru/static/images/2018/04/1fc80947ccd3b21dd45f401c75bb3bab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37368,
+        "aniId": 101498,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2497": {
+        "identifier": "2497",
+        "malId": 37368,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
+        "url": "https://animepahe.com/a/2497"
+      }
+    },
+    "AniMixPlay": {
+      "37368": {
+        "identifier": "37368",
+        "malId": 37368,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
+        "url": "https://animixplay.to/anime/37368"
+      }
+    },
+    "YugenAnime": {
+      "4168": {
+        "identifier": "4168",
+        "malId": 37368,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
+        "url": "https://yugen.to/anime/4168/shounen-ashibe-go-go-goma-chan-3/"
+      }
+    }
+  }
+}

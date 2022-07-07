@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T19:54:42.000Z",
+  "checkedAt": "2022-05-14T19:54:42.000Z",
+  "id": 4928,
+  "type": "anime",
+  "title": "Idol Tenshi Youkoso Youko",
+  "altTitle": [
+    "Idol Angel Welcome Yoko",
+    "アイドル天使ようこそようこ"
+  ],
+  "url": "https://myanimelist.net/anime/4928/Idol_Tenshi_Youkoso_Youko",
+  "image": "https://cdn.myanimelist.net/images/anime/2/9469.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3058"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1779"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3058,
+  "Pages": {
+    "9anime": {
+      "jml3": {
+        "createdAt": "2020-10-12T15:52:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4933,
+        "identifier": "jml3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Idol Angel Welcome Yoko",
+        "url": "https://9anime.to/watch/idol-angel-welcome-yoko.jml3",
+        "image": "https://static.akacdn.ru/files/images/2018/11/017957316585fe67a6db4ce5d4ba6bf9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4928,
+        "aniId": 4928,
+        "deletedAt": null
+      }
+    }
+  }
+}

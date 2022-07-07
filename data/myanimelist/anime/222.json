@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-13T16:42:28.000Z",
+  "checkedAt": "2022-05-13T16:42:28.000Z",
+  "id": 222,
+  "type": "anime",
+  "title": "Mezzo DSA",
+  "altTitle": [
+    "Mezzo Danger Service Agency",
+    "Mezzo Forte TV",
+    "Mezzo TV Danger Service Agency",
+    "メゾ"
+  ],
+  "url": "https://myanimelist.net/anime/222/Mezzo_DSA",
+  "image": "https://cdn.myanimelist.net/images/anime/9/3235.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.a-rms.co.jp/works/mezzo.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=998"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3059"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mezzo_DSA"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/mezzo"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 998,
+  "Pages": {
+    "9anime": {
+      "0qq7": {
+        "createdAt": "2020-10-12T15:48:51.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 631,
+        "identifier": "0qq7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mezzo DSA",
+        "url": "https://9anime.to/watch/mezzo-dsa.0qq7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_52oKnbvFO8/V6sBXFV12eI/AAAAAAAA194/OizcvFzWmog/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 222,
+        "aniId": 222,
+        "deletedAt": null
+      },
+      "xoww": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10341,
+        "identifier": "xoww",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mezzo DSA (Dub)",
+        "url": "https://9anime.to/watch/mezzo-dsa-dub.xoww",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-usWV_RGaDw4/WBIqZLu3zPI/AAAAAAABLe4/ATMik2QAvuI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 222,
+        "aniId": 222,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mezzo-dsa-dub": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2022-05-13T16:42:26.000Z",
+        "checkedAt": "2022-05-13T16:42:26.000Z",
+        "id": 19418,
+        "identifier": "mezzo-dsa-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mezzo DSA (Dub)",
+        "url": "https://gogoanime.sk/category/mezzo-dsa-dub",
+        "image": "https://gogocdn.net/cover/mezzo-dsa-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 222,
+        "aniId": 222,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "222": {
+        "identifier": "222",
+        "malId": 222,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mezzo DSA",
+        "url": "https://animixplay.to/anime/222"
+      }
+    },
+    "YugenAnime": {
+      "1155": {
+        "identifier": "1155",
+        "malId": 222,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mezzo DSA",
+        "url": "https://yugen.to/anime/1155/mezzo-dsa/"
+      }
+    }
+  }
+}

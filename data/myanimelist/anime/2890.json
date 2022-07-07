@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-14T18:04:17.000Z",
+  "checkedAt": "2022-05-14T18:04:17.000Z",
+  "id": 2890,
+  "type": "anime",
+  "title": "Gake no Ue no Ponyo",
+  "altTitle": [
+    "Ponyo on the Cliff by the Sea",
+    "Ponyo",
+    "崖の上のポニョ"
+  ],
+  "url": "https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo",
+  "image": "https://cdn.myanimelist.net/images/anime/7/8970.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghibli.jp/works/ponyo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5107"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7814"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ponyo"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5107,
+  "Pages": {
+    "9anime": {
+      "4w5j": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2022-06-14T00:02:03.000Z",
+        "checkedAt": "2022-06-14T00:02:03.000Z",
+        "id": 2400,
+        "identifier": "4w5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gake no Ue no Ponyo (Dub)",
+        "url": "https://9anime.to/watch/ponyo-dub.4w5j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a3fd59717a4636f78302116cd359bb16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2890,
+        "aniId": 2890,
+        "deletedAt": null
+      },
+      "n30m": {
+        "createdAt": "2020-10-12T15:53:47.000Z",
+        "updatedAt": "2022-06-14T00:00:20.000Z",
+        "checkedAt": "2022-06-14T00:00:20.000Z",
+        "id": 6909,
+        "identifier": "n30m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gake no Ue no Ponyo",
+        "url": "https://9anime.to/watch/ponyo.n30m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d04ebfacee2cbd99e6ed9aeee99cad5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2890,
+        "aniId": 2890,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ponyo-on-a-cliff-dub": {
+        "createdAt": "2020-10-12T16:01:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20126,
+        "identifier": "ponyo-on-a-cliff-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ponyo on a Cliff (Dub)",
+        "url": "https://gogoanime.vc/category/ponyo-on-a-cliff-dub",
+        "image": "https://gogocdn.net/cover/ponyo-on-a-cliff-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2890,
+        "aniId": 2890,
+        "deletedAt": null
+      },
+      "ponyo-on-the-cliff-by-the-sea": {
+        "createdAt": "2020-10-12T16:01:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20127,
+        "identifier": "ponyo-on-the-cliff-by-the-sea",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ponyo on the Cliff by the Sea",
+        "url": "https://gogoanime.vc/category/ponyo-on-the-cliff-by-the-sea",
+        "image": "https://cdnimg.xyz/images/anime/P/Ponyo-on-the-Cliff-by-the-Sea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2890,
+        "aniId": 2890,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "601": {
+        "identifier": "601",
+        "malId": 2890,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gake no Ue no Ponyo",
+        "url": "https://animepahe.com/a/601"
+      }
+    },
+    "AniMixPlay": {
+      "2890": {
+        "identifier": "2890",
+        "malId": 2890,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gake no Ue no Ponyo",
+        "url": "https://animixplay.to/anime/2890"
+      }
+    }
+  }
+}

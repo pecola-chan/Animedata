@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-05-15T00:21:05.000Z",
+  "checkedAt": "2022-05-15T00:21:05.000Z",
+  "id": 22735,
+  "type": "anime",
+  "title": "Oreca Battle",
+  "altTitle": [
+    "オレカバトル"
+  ],
+  "url": "https://myanimelist.net/anime/22735/Oreca_Battle",
+  "image": "https://cdn.myanimelist.net/images/anime/1934/101823.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/oreca_dracolle/oreca/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10444"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15913"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Monster_Retsuden_Oreca_Battle"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260489"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10444,
+  "Pages": {
+    "9anime": {
+      "4wr7": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2412,
+        "identifier": "4wr7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oreca Battle",
+        "url": "https://9anime.to/watch/oreca-battle.4wr7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WJw2uFp5eQM/V8VkU3IVwNI/AAAAAAAA6f8/UNaL4-IDdFs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22735,
+        "aniId": 20699,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oreca-battle": {
+        "createdAt": "2020-10-12T16:01:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19925,
+        "identifier": "oreca-battle",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oreca Battle",
+        "url": "https://gogoanime.vc/category/oreca-battle",
+        "image": "https://gogocdn.net/images/spring/Oreca Battle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22735,
+        "aniId": 20699,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "22735": {
+        "identifier": "22735",
+        "malId": 22735,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oreca Battle",
+        "url": "https://animixplay.to/anime/22735"
+      }
+    },
+    "YugenAnime": {
+      "772": {
+        "identifier": "772",
+        "malId": 22735,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Oreca Battle",
+        "url": "https://yugen.to/anime/772/oreca-battle/"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-15T01:15:52.000Z",
+  "checkedAt": "2022-05-15T01:15:52.000Z",
+  "id": 18205,
+  "type": "anime",
+  "title": "World Fool News (TV)",
+  "altTitle": [
+    "World Fool News (2014)",
+    "World Fool News",
+    "ワールド フールニュース"
+  ],
+  "url": "https://myanimelist.net/anime/18205/World_Fool_News_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/13/62235.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gtv.co.jp/program/animation/wfn/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10685"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16146"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260603"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10685,
+  "Pages": {
+    "9anime": {
+      "78l6": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3396,
+        "identifier": "78l6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "World Fool News (TV)",
+        "url": "https://9anime.to/watch/world-fool-news-tv.78l6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-P3e1hgb-kvI/WP3ql7XD3rI/AAAAAAAAj6o/nLsAzA3sHV0AahuWq3XtWQxf1eP659g4ACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18205,
+        "aniId": 98552,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2064": {
+        "identifier": "2064",
+        "malId": 18205,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "World Fool News (TV)",
+        "url": "https://animepahe.com/a/2064"
+      }
+    },
+    "AniMixPlay": {
+      "18205": {
+        "identifier": "18205",
+        "malId": 18205,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "World Fool News (TV)",
+        "url": "https://animixplay.to/anime/18205"
+      }
+    },
+    "YugenAnime": {
+      "8739": {
+        "identifier": "8739",
+        "malId": 18205,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "World Fool News (TV)",
+        "url": "https://yugen.to/anime/8739/the-world-god-only-knows-2/"
+      }
+    }
+  }
+}

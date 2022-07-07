@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-15T00:04:53.000Z",
+  "checkedAt": "2022-05-15T00:04:53.000Z",
+  "id": 6736,
+  "type": "anime",
+  "title": "Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
+  "altTitle": [
+    "Mouryou no Hako - Hako no Yuurei no Koto",
+    "The Case Files of Atsuko Chuzenji: 'The Case of the Spirits in the Boxes'",
+    "Chuzenji Atsuko no Jikenbo 'Hako no Yuurei no Koto'",
+    "魍魎の匣"
+  ],
+  "url": "https://myanimelist.net/anime/6736/Mouryou_no_Hako__Chuuzenji_Atsuko_no_Jikenbo_-_Hako_no_Yurei_no_Koto",
+  "image": "https://cdn.myanimelist.net/images/anime/5/23740.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/mouryou/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6047"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10153"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mouryou_no_Hako"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6047,
+  "Pages": {
+    "9anime": {
+      "9o28": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4377,
+        "identifier": "9o28",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mouryou no Hako Special",
+        "url": "https://9anime.to/watch/mouryou-no-hako-special.9o28",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KWDbuXGMhS4/V4zu0eZjLXI/AAAAAAAAwSs/Qcu7W9CRSHo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6736,
+        "aniId": 6736,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1180": {
+        "identifier": "1180",
+        "malId": 6736,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
+        "url": "https://animepahe.com/a/1180"
+      }
+    }
+  }
+}

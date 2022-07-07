@@ -1,0 +1,48 @@
+{
+  "createdAt": "2021-03-07T05:33:06.000Z",
+  "updatedAt": "2022-05-15T01:11:53.000Z",
+  "checkedAt": "2022-05-15T01:11:53.000Z",
+  "id": 34710,
+  "type": "anime",
+  "title": "Choco Kyouju no Oheya",
+  "altTitle": [
+    "Meiji CM",
+    "チョコ教授のお部屋"
+  ],
+  "url": "https://myanimelist.net/anime/34710/Choco_Kyouju_no_Oheya",
+  "image": "https://cdn.myanimelist.net/images/anime/7/83687.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.meiji.co.jp/chocohealthlife/oshiete/01/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "z03l": {
+        "createdAt": "2021-03-10T10:11:56.000Z",
+        "updatedAt": "2021-03-10T10:11:56.000Z",
+        "checkedAt": null,
+        "id": 35562,
+        "identifier": "z03l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Choco Kyouju no Oheya",
+        "url": "https://9anime.to/watch/choco-kyouju-no-oheya.z03l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5e/5e6329f59daf3e981d181793d616392a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34710,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

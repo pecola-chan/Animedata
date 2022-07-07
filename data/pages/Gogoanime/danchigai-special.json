@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T16:00:11.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17238,
+  "identifier": "danchigai-special",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Danchigai Special",
+  "url": "https://gogoanime.vc/category/danchigai-special",
+  "image": "https://cdnimg.xyz/images/upload/Danchigai Special.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 31683,
+  "aniId": 21381,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:40.000Z",
+    "updatedAt": "2022-05-14T07:07:54.000Z",
+    "checkedAt": "2022-05-14T07:07:54.000Z",
+    "id": 31683,
+    "type": "anime",
+    "title": "Danchigai: Juusan Goutou Sentou Ikitai!!",
+    "altTitle": [
+      "Danchigai Special",
+      "だんちがい 十三号棟 銭湯行きたいー!!"
+    ],
+    "url": "https://myanimelist.net/anime/31683/Danchigai__Juusan_Goutou_Sentou_Ikitai",
+    "image": "https://cdn.myanimelist.net/images/anime/2/76368.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dreamcreation.co.jp/danchigai/goods.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11081"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11081
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:42:56.000Z",
+    "updatedAt": "2022-05-15T15:08:23.000Z",
+    "checkedAt": "2022-05-15T15:08:23.000Z",
+    "id": 21381,
+    "type": "anime",
+    "title": "Danchigai Special",
+    "altTitle": [
+      "だんちがい 未放送1話"
+    ],
+    "url": "https://anilist.co/anime/21381",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21381-9c2jemtO2UiE.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 31683,
+    "deletedAt": null
+  }
+}

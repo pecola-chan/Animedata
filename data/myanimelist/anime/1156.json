@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T16:53:35.000Z",
+  "checkedAt": "2022-05-14T16:53:35.000Z",
+  "id": 1156,
+  "type": "anime",
+  "title": "I: Wish You Were Here",
+  "altTitle": [
+    "Anata ga Koko ni Itehoshii",
+    "Zaion: I Wish You Were Here",
+    "i -wish you were here- ～あなたがここにいてほしい～"
+  ],
+  "url": "https://myanimelist.net/anime/1156/I__Wish_You_Were_Here",
+  "image": "https://cdn.myanimelist.net/images/anime/1610/94731.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gonzo.co.jp/works/i-wish-you-were-here/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=374"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=845"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zaion:_I_Wish_You_Were_Here"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 374,
+  "Pages": {
+    "9anime": {
+      "k2p4": {
+        "createdAt": "2020-10-12T15:52:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5215,
+        "identifier": "k2p4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "I: Wish You Were Here",
+        "url": "https://9anime.to/watch/i-wish-you-were-here.k2p4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DbRj8cp6_AE/V_pr25KFJtI/AAAAAAABFxk/3cR5LbYLp6Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1156,
+        "aniId": 1156,
+        "deletedAt": null
+      },
+      "l8q6": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5954,
+        "identifier": "l8q6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "I: Wish You Were Here (Dub)",
+        "url": "https://9anime.to/watch/i-wish-you-were-here-dub.l8q6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jUQ3ynXObQg/V_pr8mVvoMI/AAAAAAABFxo/LHCmhMExbfU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1156,
+        "aniId": 1156,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zaion-i-wish-you-were-here": {
+        "createdAt": "2020-10-12T16:02:21.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21649,
+        "identifier": "zaion-i-wish-you-were-here",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Zaion I Wish You Were Here",
+        "url": "https://gogoanime.vc/category/zaion-i-wish-you-were-here",
+        "image": "https://images.gogoanime.tv/images/anime/zaion-i-wish-you-were-here.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1156,
+        "aniId": 1156,
+        "deletedAt": null
+      },
+      "zaion-i-wish-you-were-here-dub": {
+        "createdAt": "2020-10-12T16:02:21.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21650,
+        "identifier": "zaion-i-wish-you-were-here-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Zaion: I Wish You Were Here (Dub)",
+        "url": "https://gogoanime.vc/category/zaion-i-wish-you-were-here-dub",
+        "image": "https://images.gogoanime.tv/cover/zaion-i-wish-you-were-here-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1156,
+        "aniId": 1156,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1156": {
+        "identifier": "1156",
+        "malId": 1156,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "I: Wish You Were Here",
+        "url": "https://animixplay.to/anime/1156"
+      }
+    },
+    "YugenAnime": {
+      "6903": {
+        "identifier": "6903",
+        "malId": 1156,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "I: Wish You Were Here",
+        "url": "https://yugen.to/anime/6903/zaion-i-wish-you-were-here/"
+      }
+    }
+  }
+}

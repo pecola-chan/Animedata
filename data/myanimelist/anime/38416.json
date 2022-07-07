@@ -1,0 +1,123 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T21:24:18.000Z",
+  "checkedAt": "2022-05-14T21:24:18.000Z",
+  "id": 38416,
+  "type": "anime",
+  "title": "Arad: Gyakuten no Wa",
+  "altTitle": [
+    "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+    "Arad: Reversal of Fate",
+    "Arad: Nizhuan Zhi Lun",
+    "地下城与勇士·逆转之轮",
+    "アラド：逆転の輪"
+  ],
+  "url": "https://myanimelist.net/anime/38416/Arad__Gyakuten_no_Wa",
+  "image": "https://cdn.myanimelist.net/images/anime/1117/108106.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/arad_gia/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14559"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23477"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dungeon_Fighter_Online"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14559,
+  "Pages": {
+    "9anime": {
+      "3j72": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1781,
+        "identifier": "3j72",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+        "url": "https://9anime.to/watch/dixia-cheng-yu-yongshi-nizhuan-zhi-lun.3j72",
+        "image": "https://static.akacdn.ru/files/images/2020/08/56f07e52c14e2006662349945cb09837.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38416,
+        "aniId": 124341,
+        "deletedAt": null
+      },
+      "zjrp": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11142,
+        "identifier": "zjrp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arad: Suming zhi Men 2nd Season",
+        "url": "https://9anime.to/watch/arad-suming-zhi-men-2nd-season.zjrp",
+        "image": "https://static.akacdn.ru/static/images/2018/09/dbf505af66dfd1dda00c72fdf98b50d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38416,
+        "aniId": 124341,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dixia-cheng-yu-yongshi-nizhuan-zhi-lun": {
+        "createdAt": "2020-10-12T16:00:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17396,
+        "identifier": "dixia-cheng-yu-yongshi-nizhuan-zhi-lun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+        "url": "https://gogoanime.vc/category/dixia-cheng-yu-yongshi-nizhuan-zhi-lun",
+        "image": "https://gogocdn.net/cover/dixia-cheng-yu-yongshi-nizhuan-zhi-lun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38416,
+        "aniId": 124341,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38416": {
+        "identifier": "38416",
+        "malId": 38416,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Arad: Gyakuten no Wa",
+        "url": "https://animixplay.to/anime/38416"
+      }
+    },
+    "YugenAnime": {
+      "2245": {
+        "identifier": "2245",
+        "malId": 38416,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun",
+        "url": "https://yugen.to/anime/2245/dixia-cheng-yu-yongshi-nizhuan-zhi-lun/"
+      }
+    }
+  }
+}

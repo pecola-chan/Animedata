@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-14T22:36:41.000Z",
+  "checkedAt": "2022-05-14T22:36:41.000Z",
+  "id": 8190,
+  "type": "anime",
+  "title": "Nodame Cantabile: Finale OVA",
+  "altTitle": [
+    "Nodame Cantabile Finale: Episode 12",
+    "のだめカンタービレ OVA 2"
+  ],
+  "url": "https://myanimelist.net/anime/8190/Nodame_Cantabile__Finale_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/13/22335.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nodame-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6779"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nodame_Cantabile"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6779,
+  "Pages": {
+    "9anime": {
+      "yqq10": {
+        "createdAt": "2021-10-01T18:02:36.000Z",
+        "updatedAt": "2021-10-01T18:30:52.000Z",
+        "checkedAt": null,
+        "id": 38804,
+        "identifier": "yqq10",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nodame Cantabile: Finale OVA",
+        "url": "https://9anime.to/watch/nodame-cantabile-finale-ova.yqq10",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/e3/e3e74b098f5f9fbede0e7f9d5dcef991.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8190,
+        "aniId": 8190,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3159": {
+        "identifier": "3159",
+        "malId": 8190,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nodame Cantabile: Finale OVA",
+        "url": "https://animepahe.com/a/3159"
+      }
+    },
+    "AniMixPlay": {
+      "8190": {
+        "identifier": "8190",
+        "malId": 8190,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nodame Cantabile: Finale OVA",
+        "url": "https://animixplay.to/anime/8190"
+      }
+    }
+  }
+}

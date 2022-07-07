@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T07:06:32.000Z",
+  "checkedAt": "2022-05-14T07:06:32.000Z",
+  "id": 5505,
+  "type": "anime",
+  "title": "Viper's Creed",
+  "altTitle": [
+    "Viper's Creed",
+    "ヴァイパーズ・クリード"
+  ],
+  "url": "https://myanimelist.net/anime/5505/Vipers_Creed",
+  "image": "https://cdn.myanimelist.net/images/anime/10/56471.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bd-dvd.sonypictures.jp/viperscreed/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6236"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10351"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Viper%27s_Creed"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6236,
+  "Pages": {
+    "9anime": {
+      "jzw4": {
+        "createdAt": "2020-10-12T15:52:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5136,
+        "identifier": "jzw4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Viper's Creed",
+        "url": "https://9anime.to/watch/vipers-creed.jzw4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_zjYJn5GY0k/V_Dme77MJmI/AAAAAAABDXY/DRoQDyuK8OU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5505,
+        "aniId": 5505,
+        "deletedAt": null
+      },
+      "7jwq8": {
+        "createdAt": "2022-05-14T07:06:28.135Z",
+        "updatedAt": "2022-05-14T07:20:02.000Z",
+        "checkedAt": "2022-05-14T07:06:28.000Z",
+        "id": 40971,
+        "identifier": "7jwq8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Viper's Creed (Dub)",
+        "url": "https://9anime.to/watch/vipers-creed-dub.7jwq8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/24/2423aae91b8401e1d211c2bbb1509769.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5505,
+        "aniId": 5505,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5505": {
+        "identifier": "5505",
+        "malId": 5505,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Viper's Creed",
+        "url": "https://animixplay.to/anime/5505"
+      }
+    },
+    "YugenAnime": {
+      "914": {
+        "identifier": "914",
+        "malId": 5505,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Viper's Creed",
+        "url": "https://yugen.to/anime/914/vipers-creed/"
+      }
+    }
+  }
+}

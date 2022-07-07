@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-14T20:19:29.000Z",
+  "checkedAt": "2022-05-14T20:19:29.000Z",
+  "id": 2560,
+  "type": "anime",
+  "title": "Terra e...",
+  "altTitle": [
+    "Terra he... (Movie)",
+    "Toward the Terra",
+    "地球へ..."
+  ],
+  "url": "https://myanimelist.net/anime/2560/Terra_e",
+  "image": "https://cdn.myanimelist.net/images/anime/9/42523.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1416"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1407"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Toward_the_terra"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269039"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1416,
+  "Pages": {
+    "9anime": {
+      "x4ov": {
+        "createdAt": "2020-10-12T15:56:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10122,
+        "identifier": "x4ov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Terra e...",
+        "url": "https://9anime.to/watch/toward-the-terra.x4ov",
+        "image": "//static.9anime.to/i/cache/images/2018/04/cb252e542d3541dedcbfee4b8f54058c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 2560,
+        "aniId": 2560,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "terra-e": {
+        "createdAt": "2021-09-14T09:34:54.000Z",
+        "updatedAt": "2021-09-14T10:04:40.000Z",
+        "checkedAt": null,
+        "id": 38630,
+        "identifier": "terra-e",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Terra e...",
+        "url": "https://gogoanime.pe/category/terra-e",
+        "image": "https://gogocdn.net/cover/terra-e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2560,
+        "aniId": 2560,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4290": {
+        "identifier": "4290",
+        "malId": 2560,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Terra e...",
+        "url": "https://animepahe.com/a/4290"
+      }
+    },
+    "AniMixPlay": {
+      "2560": {
+        "identifier": "2560",
+        "malId": 2560,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Terra e...",
+        "url": "https://animixplay.to/anime/2560"
+      }
+    },
+    "YugenAnime": {
+      "3259": {
+        "identifier": "3259",
+        "malId": 2560,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Terra e...",
+        "url": "https://yugen.to/anime/3259/terra-e/"
+      }
+    }
+  }
+}

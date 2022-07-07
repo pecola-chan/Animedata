@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T18:55:11.000Z",
+  "checkedAt": "2022-05-14T18:55:11.000Z",
+  "id": 8753,
+  "type": "anime",
+  "title": "Ultraman Kids: Haha wo Tazunete 3000-man Kounen",
+  "altTitle": [
+    "Ultraman Kids: Haha o Tazunete 3000 Man Konen",
+    "Ultraman Kids Looking for Mother for 30000000 Light Years",
+    "ウルトラマンキッズ 母をたずねて3000万光年"
+  ],
+  "url": "https://myanimelist.net/anime/8753/Ultraman_Kids__Haha_wo_Tazunete_3000-man_Kounen",
+  "image": "https://cdn.myanimelist.net/images/anime/12/24191.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3162"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11078"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ultra_Series#Ultraman_Kids.27_shows"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3162,
+  "Pages": {
+    "9anime": {
+      "qmwv": {
+        "createdAt": "2022-01-19T16:34:55.000Z",
+        "updatedAt": "2022-01-19T16:34:56.000Z",
+        "checkedAt": null,
+        "id": 39895,
+        "identifier": "qmwv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ultraman Kids: Haha wo Tazunete 3000-man Kounen",
+        "url": "https://9anime.to/watch/ultraman-kids-looking-for-mother-for-30000000-light-years.qmwv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/5c6d67982b7514931d611b32dad77f37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8753,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8753": {
+        "identifier": "8753",
+        "malId": 8753,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ultraman Kids: Haha wo Tazunete 3000-man Kounen",
+        "url": "https://animixplay.to/anime/8753"
+      }
+    },
+    "YugenAnime": {
+      "4124": {
+        "identifier": "4124",
+        "malId": 8753,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ultraman Kids: Haha wo Tazunete 3000-man Kounen",
+        "url": "https://yugen.to/anime/4124/ultraman-kids-haha-wo-tazunete-3000-man-kounen/"
+      }
+    }
+  }
+}

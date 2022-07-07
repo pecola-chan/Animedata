@@ -1,0 +1,64 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T19:40:29.000Z",
+  "checkedAt": "2022-05-14T19:40:29.000Z",
+  "id": 2752,
+  "type": "anime",
+  "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal",
+  "altTitle": [
+    "Prince of Tennis: The National Tournament Semifinals",
+    "Prince of Tennis OVA 2",
+    "Prince of Tennis OVA Semifinal",
+    "テニスの王子様 全国大会篇 Semifinal"
+  ],
+  "url": "https://myanimelist.net/anime/2752/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen_-_Semifinal",
+  "image": "https://cdn.myanimelist.net/images/anime/10/3713.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5134"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7952"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5134,
+  "Pages": {
+    "9anime": {
+      "p614": {
+        "createdAt": "2020-10-12T15:54:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7874,
+        "identifier": "p614",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Prince of Tennis: The National Tournament Semifinals",
+        "url": "https://9anime.to/watch/prince-of-tennis-the-national-tournament-semifinals.p614",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ArWumFCYdic/WGP1Ppqir8I/AAAAAAABVWw/H5Iian333rc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2752,
+        "aniId": 2752,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2752": {
+        "identifier": "2752",
+        "malId": 2752,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal",
+        "url": "https://animixplay.to/anime/2752"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-18T20:30:44.000Z",
+  "checkedAt": "2022-05-18T20:30:44.000Z",
+  "id": 33693,
+  "type": "anime",
+  "title": "Meitantei Gordon",
+  "altTitle": [
+    "Detective Gordon",
+    "Meitantei Gordon",
+    "名探偵ゴードン"
+  ],
+  "url": "https://myanimelist.net/anime/33693/Meitantei_Gordon",
+  "image": "https://cdn.myanimelist.net/images/anime/7/81033.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=R_NzZMnP6is"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%8F%A3%E5%B4%87_(%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "knyw": {
+        "createdAt": "2020-10-12T15:52:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5557,
+        "identifier": "knyw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Meitantei Gordon",
+        "url": "https://9anime.to/watch/meitantei-gordon.knyw",
+        "image": "https://static.akacdn.ru/static/images/2019/03/b69f5e4f84e22c5222c9c16f68108594.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33693,
+        "aniId": 103535,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-13T21:13:11.000Z",
+  "checkedAt": "2022-05-13T21:13:11.000Z",
+  "id": 6383,
+  "type": "anime",
+  "title": "Chargeman Ken!",
+  "altTitle": [
+    "Charge Man Ken!",
+    "Cha-Ken!",
+    "チャージマン研！"
+  ],
+  "url": "https://myanimelist.net/anime/6383/Chargeman_Ken",
+  "image": "https://cdn.myanimelist.net/images/anime/11/86971.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://cha-ken.github.io/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3111"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1242"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chargeman_Ken!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273423"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3111,
+  "Pages": {
+    "9anime": {
+      "07v3": {
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 477,
+        "identifier": "07v3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chargeman Ken!",
+        "url": "https://9anime.to/watch/chargeman-ken.07v3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Af6H03NEslI/WXlTb2yxjkI/AAAAAAAAAHs/dZ5_dJmKJW4SfxYSJesgnb_z_M-xiwV9QCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6383,
+        "aniId": 6383,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chargeman-ken": {
+        "createdAt": "2021-09-12T21:04:46.000Z",
+        "updatedAt": "2021-09-12T21:34:33.000Z",
+        "checkedAt": null,
+        "id": 38617,
+        "identifier": "chargeman-ken",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chargeman Ken!",
+        "url": "https://gogoanime.pe/category/chargeman-ken",
+        "image": "https://gogocdn.net/cover/chargeman-ken.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6383,
+        "aniId": 6383,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6383": {
+        "identifier": "6383",
+        "malId": 6383,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chargeman Ken!",
+        "url": "https://animixplay.to/anime/6383"
+      }
+    },
+    "YugenAnime": {
+      "1382": {
+        "identifier": "1382",
+        "malId": 6383,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chargeman Ken!",
+        "url": "https://yugen.to/anime/1382/chargeman-ken/"
+      }
+    }
+  }
+}

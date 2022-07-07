@@ -1,0 +1,102 @@
+{
+  "createdAt": "2021-09-24T20:47:34.000Z",
+  "updatedAt": "2022-05-14T21:52:47.000Z",
+  "checkedAt": "2022-05-14T21:52:47.000Z",
+  "id": 3196,
+  "type": "anime",
+  "title": "Wakakusa no Charlotte",
+  "altTitle": [
+    "Charlotte of the Young Grass",
+    "Charlotte the Young Shoot",
+    "若草のシャルロット"
+  ],
+  "url": "https://myanimelist.net/anime/3196/Wakakusa_no_Charlotte",
+  "image": "https://cdn.myanimelist.net/images/anime/1988/118431.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/wakakusano_charlotte.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3486"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2107"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wakakusa_no_Charlotte"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3486,
+  "Pages": {
+    "9anime": {
+      "prk3j": {
+        "createdAt": "2021-09-24T20:46:43.000Z",
+        "updatedAt": "2021-09-24T21:15:23.000Z",
+        "checkedAt": null,
+        "id": 38726,
+        "identifier": "prk3j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wakakusa no Charlotte",
+        "url": "https://9anime.to/watch/wakakusa-no-charlotte.prk3j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a3/a38267d3bedf059ddb4f0c6f88baf047.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3196,
+        "aniId": 3196,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wakakusa-no-charlotte": {
+        "createdAt": "2021-09-24T20:47:34.000Z",
+        "updatedAt": "2021-09-24T21:15:23.000Z",
+        "checkedAt": null,
+        "id": 38727,
+        "identifier": "wakakusa-no-charlotte",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wakakusa no Charlotte",
+        "url": "https://gogoanime.pe/category/wakakusa-no-charlotte",
+        "image": "https://gogocdn.net/cover/wakakusa-no-charlotte.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3196,
+        "aniId": 3196,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3196": {
+        "identifier": "3196",
+        "malId": 3196,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wakakusa no Charlotte",
+        "url": "https://animixplay.to/anime/3196"
+      }
+    },
+    "YugenAnime": {
+      "9798": {
+        "identifier": "9798",
+        "malId": 3196,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wakakusa no Charlotte",
+        "url": "https://yugen.to/anime/9798/wakakusa-no-charlotte/"
+      }
+    }
+  }
+}

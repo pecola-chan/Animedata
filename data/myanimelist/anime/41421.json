@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-15T09:45:28.000Z",
+  "checkedAt": "2022-05-15T09:45:28.000Z",
+  "id": 41421,
+  "type": "anime",
+  "title": "Kyouryuu Shoujo Gauko 2nd Season",
+  "altTitle": [
+    "Dino Girl Gauko Season 2",
+    "恐竜少女ガウ子シーズン2"
+  ],
+  "url": "https://myanimelist.net/anime/41421/Kyouryuu_Shoujo_Gauko_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1284/106412.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.gauko.com/"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "yl5j": {
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10722,
+        "identifier": "yl5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dino Girl Gauko Season 2",
+        "url": "https://9anime.to/watch/dino-girl-gauko-season-2.yl5j",
+        "image": "https://static.akacdn.ru/files/images/4/4c/4cc9cb2989956998d9558903e968b2c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41421,
+        "aniId": 115794,
+        "deletedAt": null
+      },
+      "zm4w": {
+        "createdAt": "2020-10-12T15:57:11.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11197,
+        "identifier": "zm4w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dino Girl Gauko Season 2 (Dub)",
+        "url": "https://9anime.to/watch/dino-girl-gauko-season-2-dub.zm4w",
+        "image": "https://static.akacdn.ru/files/images/d/df/df0c74a0d4fbbac1584d7e85667cb7dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41421,
+        "aniId": 115794,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3977": {
+        "identifier": "3977",
+        "malId": 41421,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyouryuu Shoujo Gauko 2nd Season",
+        "url": "https://animepahe.com/a/3977"
+      }
+    },
+    "AniMixPlay": {
+      "41421": {
+        "identifier": "41421",
+        "malId": 41421,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyouryuu Shoujo Gauko 2nd Season",
+        "url": "https://animixplay.to/anime/41421"
+      }
+    },
+    "YugenAnime": {
+      "4998": {
+        "identifier": "4998",
+        "malId": 41421,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyouryuu Shoujo Gauko 2nd Season",
+        "url": "https://yugen.to/anime/4998/kyouryuu-shoujo-gauko-2nd-season/"
+      }
+    }
+  }
+}

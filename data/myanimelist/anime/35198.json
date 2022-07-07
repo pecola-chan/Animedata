@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T18:42:59.000Z",
+  "checkedAt": "2022-05-14T18:42:59.000Z",
+  "id": 35198,
+  "type": "anime",
+  "title": "Free! Take Your Marks",
+  "altTitle": [
+    "Tokubetsuban Free! Take Your Marks",
+    "Free! -Take Your Marks-",
+    "特別版 Free!-Take Your Marks-"
+  ],
+  "url": "https://myanimelist.net/anime/35198/Free_Take_Your_Marks",
+  "image": "https://cdn.myanimelist.net/images/anime/6/87928.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tym.iwatobi-sc.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12996"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19353"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12996,
+  "Pages": {
+    "9anime": {
+      "0lq5": {
+        "createdAt": "2020-10-12T15:48:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 561,
+        "identifier": "0lq5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free! -Take Your Marks- (Dub)",
+        "url": "https://9anime.to/watch/free-take-your-marks-dub.0lq5",
+        "image": "http://static.akacdn.ru/static/images/2018/10/d051a425babb2e0117b2606dbd02836a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35198,
+        "aniId": 98497,
+        "deletedAt": null
+      },
+      "z4mp": {
+        "createdAt": "2020-10-12T15:57:05.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11012,
+        "identifier": "z4mp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free!: Take Your Marks",
+        "url": "https://9anime.to/watch/free-take-your-marks.z4mp",
+        "image": "http://static.akacdn.ru/static/images/2018/04/120d7aad7ee68cc0e88acb33af35b801.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35198,
+        "aniId": 98497,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "free-take-your-marks": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17701,
+        "identifier": "free-take-your-marks",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Free!: Take Your Marks",
+        "url": "https://gogoanime.vc/category/free-take-your-marks",
+        "image": "https://cdnimg.xyz/cover/free-take-your-marks.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35198,
+        "aniId": 98497,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2953": {
+        "identifier": "2953",
+        "malId": 35198,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Free! Take Your Marks",
+        "url": "https://animepahe.com/a/2953"
+      }
+    },
+    "AniMixPlay": {
+      "35198": {
+        "identifier": "35198",
+        "malId": 35198,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Free! Take Your Marks",
+        "url": "https://animixplay.to/anime/35198"
+      }
+    },
+    "YugenAnime": {
+      "2384": {
+        "identifier": "2384",
+        "malId": 35198,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Free!: Take Your Marks",
+        "url": "https://yugen.to/anime/2384/free-take-your-marks/"
+      }
+    }
+  }
+}

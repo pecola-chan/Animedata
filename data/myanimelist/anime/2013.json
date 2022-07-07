@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-14T18:52:53.000Z",
+  "checkedAt": "2022-05-14T18:52:53.000Z",
+  "id": 2013,
+  "type": "anime",
+  "title": "Taiho Shichau zo The Movie",
+  "altTitle": [
+    "Taiho Shichauzo The Movie",
+    "You're Under Arrest The Movie",
+    "逮捕しちゃうぞ　the MOVIE"
+  ],
+  "url": "https://myanimelist.net/anime/2013/Taiho_Shichau_zo_The_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1921/92313.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=993"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=622"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 993,
+  "Pages": {
+    "9anime": {
+      "59j9": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2608,
+        "identifier": "59j9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Taiho Shichau zo The Movie",
+        "url": "https://9anime.to/watch/taiho-shichau-zo-the-movie.59j9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YzP6ymQWMzk/V7BQSgUGZqI/AAAAAAAA2_g/NSWk4tzV0sA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2013,
+        "aniId": 2013,
+        "deletedAt": null
+      },
+      "xnlv": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10311,
+        "identifier": "xnlv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "You're Under Arrest The Movie (Dub)",
+        "url": "https://9anime.to/watch/youre-under-arrest-the-movie-dub.xnlv",
+        "image": "http://static.akacdn.ru/static/images/2018/03/53f14c0021c548cc56405c0c6e99fbb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2013,
+        "aniId": 2013,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "youre-under-arrest-the-movie-dub": {
+        "createdAt": "2022-04-19T15:01:36.000Z",
+        "updatedAt": "2022-04-19T15:30:23.000Z",
+        "checkedAt": null,
+        "id": 40789,
+        "identifier": "youre-under-arrest-the-movie-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "You're Under Arrest The Movie (Dub)",
+        "url": "https://gogoanime.fi/category/youre-under-arrest-the-movie-dub",
+        "image": "https://gogocdn.net/cover/youre-under-arrest-the-movie-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2013,
+        "aniId": 2013,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2013": {
+        "identifier": "2013",
+        "malId": 2013,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Taiho Shichau zo The Movie",
+        "url": "https://animixplay.to/anime/2013"
+      }
+    },
+    "YugenAnime": {
+      "14466": {
+        "identifier": "14466",
+        "malId": 2013,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Taiho Shichau zo The Movie",
+        "url": "https://yugen.to/anime/14466/taiho-shichau-zo-the-movie/"
+      }
+    }
+  }
+}

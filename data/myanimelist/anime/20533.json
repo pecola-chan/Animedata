@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T21:47:41.000Z",
+  "checkedAt": "2022-05-14T21:47:41.000Z",
+  "id": 20533,
+  "type": "anime",
+  "title": "Z/X: Ignition",
+  "altTitle": [
+    "Zillions of Enemy X Ignition",
+    "Z/X IGNITION"
+  ],
+  "url": "https://myanimelist.net/anime/20533/Z_X__Ignition",
+  "image": "https://cdn.myanimelist.net/images/anime/6/56797.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://zxignition.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9580"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15702"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Z/X"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-258799"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9580,
+  "Pages": {
+    "9anime": {
+      "42ox": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2077,
+        "identifier": "42ox",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Z/X: Ignition",
+        "url": "https://9anime.to/watch/zx-ignition.42ox",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-85hFUTu5haY/V7FsKKdiR9I/AAAAAAAA3Nk/BxhD9aTteLs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20533,
+        "aniId": 20486,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zx-ignition": {
+        "createdAt": "2020-10-12T16:02:23.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21704,
+        "identifier": "zx-ignition",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Z/X: Ignition",
+        "url": "https://gogoanime.vc/category/zx-ignition",
+        "image": "https://cdnimg.xyz/images/Z-X_Ignition.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20533,
+        "aniId": 20486,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "20533": {
+        "identifier": "20533",
+        "malId": 20533,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Z/X: Ignition",
+        "url": "https://animixplay.to/anime/20533"
+      }
+    },
+    "YugenAnime": {
+      "1807": {
+        "identifier": "1807",
+        "malId": 20533,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Z/X: Ignition",
+        "url": "https://yugen.to/anime/1807/zx-ignition/"
+      }
+    }
+  }
+}

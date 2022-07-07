@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T22:00:07.000Z",
+  "checkedAt": "2022-05-14T22:00:07.000Z",
+  "id": 6796,
+  "type": "anime",
+  "title": "Kyuukyoku Choujin R",
+  "altTitle": [
+    "Kyukyoku Chojin R",
+    "Kyuukyoku Choujin A~ru",
+    "Kyukyoku Choujin R",
+    "R The Ultimate Esper",
+    "The Ultimate Esper \"R\"",
+    "究極超人あ～る"
+  ],
+  "url": "https://myanimelist.net/anime/6796/Kyuukyoku_Choujin_R",
+  "image": "https://cdn.myanimelist.net/images/anime/1073/94286.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5215"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4491"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ky%C5%ABkyoku_Ch%C5%8Djin_R#Original_video_animation"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5215,
+  "Pages": {
+    "9anime": {
+      "v3r7": {
+        "createdAt": "2020-10-12T15:55:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9201,
+        "identifier": "v3r7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyukyoku Chojin R",
+        "url": "https://9anime.to/watch/kyukyoku-chojin-r.v3r7",
+        "image": "https://static.akacdn.ru/files/images/2018/07/ee06eaf17eb35998b5bec4caeda87c83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6796,
+        "aniId": 6796,
+        "deletedAt": null
+      }
+    }
+  }
+}

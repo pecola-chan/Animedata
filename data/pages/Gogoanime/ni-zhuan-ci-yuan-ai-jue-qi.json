@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T16:01:25.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19727,
+  "identifier": "ni-zhuan-ci-yuan-ai-jue-qi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ni Zhuan Ci Yuan : AI Jue Qi",
+  "url": "https://gogoanime.vc/category/ni-zhuan-ci-yuan-ai-jue-qi",
+  "image": "https://gogocdn.net/cover/ni-zhuan-ci-yuan-ai-jue-qi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 40823,
+  "aniId": 114604,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:13.000Z",
+    "updatedAt": "2022-05-14T21:52:17.000Z",
+    "checkedAt": "2022-05-14T21:52:17.000Z",
+    "id": 40823,
+    "type": "anime",
+    "title": "Ni Zhuan Ci Yuan: AI Jue Qi",
+    "altTitle": [
+      "Reversal Dimension: The Rise of AI",
+      "逆转次元：AI崛起"
+    ],
+    "url": "https://myanimelist.net/anime/40823/Ni_Zhuan_Ci_Yuan__AI_Jue_Qi",
+    "image": "https://cdn.myanimelist.net/images/anime/1021/105729.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15360"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 15360
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:00.000Z",
+    "updatedAt": "2022-05-15T21:17:59.000Z",
+    "checkedAt": "2022-05-15T21:17:59.000Z",
+    "id": 114604,
+    "type": "anime",
+    "title": "Nizhuan Ciyuan: AI Jueqi",
+    "altTitle": [
+      "逆转次元：AI崛起",
+      "Reversal Dimension: The Rise Of AI"
+    ],
+    "url": "https://anilist.co/anime/114604",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114604-BZ7I4fnK88jf.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 40823,
+    "deletedAt": null
+  }
+}

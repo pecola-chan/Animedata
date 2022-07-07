@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T17:38:52.000Z",
+  "checkedAt": "2022-05-14T17:38:52.000Z",
+  "id": 7017,
+  "type": "anime",
+  "title": "K-On!: Ura-On!",
+  "altTitle": [
+    "K-On! Specials",
+    "Uraon!",
+    "Keion Specials",
+    "K-On!: Ura-On!",
+    "うらおん!"
+  ],
+  "url": "https://myanimelist.net/anime/7017/K-On__Ura-On",
+  "image": "https://cdn.myanimelist.net/images/anime/9/23479.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/k-on/k-on_tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6257"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/K-On!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6257,
+  "Pages": {
+    "9anime": {
+      "mjl8": {
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6552,
+        "identifier": "mjl8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K-On!: Ura-On!",
+        "url": "https://9anime.to/watch/k-on-ura-on.mjl8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cbSRjIN2iUw/V7xvIwHCi2I/AAAAAAAA44Q/N483iA_1vxA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7017,
+        "aniId": 7017,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "k-on-special": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18637,
+        "identifier": "k-on-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K-ON! Special",
+        "url": "https://gogoanime.vc/category/k-on-special",
+        "image": "https://cdnimg.xyz/images/anime/K/K-on.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7017,
+        "aniId": 7017,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2664": {
+        "identifier": "2664",
+        "malId": 7017,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "K-On!: Ura-On!",
+        "url": "https://animepahe.com/a/2664"
+      }
+    },
+    "AniMixPlay": {
+      "7017": {
+        "identifier": "7017",
+        "malId": 7017,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "K-On!: Ura-On!",
+        "url": "https://animixplay.to/anime/7017"
+      }
+    },
+    "YugenAnime": {
+      "834": {
+        "identifier": "834",
+        "malId": 7017,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "K-On!: Ura-On!",
+        "url": "https://yugen.to/anime/834/k-on-special/"
+      }
+    }
+  }
+}

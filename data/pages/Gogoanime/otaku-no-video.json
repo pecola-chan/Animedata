@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:01:32.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19946,
+  "identifier": "otaku-no-video",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Otaku no Video",
+  "url": "https://gogoanime.vc/category/otaku-no-video",
+  "image": "https://gogocdn.net/cover/otaku-no-video.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 785,
+  "aniId": 785,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T19:25:29.000Z",
+    "checkedAt": "2022-05-14T19:25:29.000Z",
+    "id": 785,
+    "type": "anime",
+    "title": "Otaku no Video",
+    "altTitle": [
+      "Geeks' Video",
+      "おたくのビデオ"
+    ],
+    "url": "https://myanimelist.net/anime/785/Otaku_no_Video",
+    "image": "https://cdn.myanimelist.net/images/anime/11/3817.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gainax.co.jp/anime/otaku/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=130"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=293"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 130
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T15:59:11.000Z",
+    "checkedAt": "2022-05-15T15:59:11.000Z",
+    "id": 785,
+    "type": "anime",
+    "title": "Otaku no Video",
+    "altTitle": [
+      "Otaku no Video",
+      "おたくのビデオ"
+    ],
+    "url": "https://anilist.co/anime/785",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx785-aaH0guDvFr2o.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/watch/GRVN0MN7Y/Otaku-No-Video"
+      }
+    ],
+    "malId": 785,
+    "deletedAt": null
+  }
+}

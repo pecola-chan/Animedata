@@ -1,0 +1,124 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-14T20:11:41.000Z",
+  "checkedAt": "2022-05-14T20:11:41.000Z",
+  "id": 23269,
+  "type": "anime",
+  "title": "Hello!! Kiniro Mosaic",
+  "altTitle": [
+    "Kiniro Mosaic 2nd Season",
+    "KINMOZA! 2nd Season",
+    "Kinmosa 2nd Season",
+    "Golden Mosaic 2nd Season",
+    "Hello!! KINMOZA!",
+    "ハロー!!きんいろモザイク"
+  ],
+  "url": "https://myanimelist.net/anime/23269/Hello_Kiniro_Mosaic",
+  "image": "https://cdn.myanimelist.net/images/anime/1107/117611.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kinmosa.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10603"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16364"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kin-iro_Mosaic"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255553"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/hello-kinmoza"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10603,
+  "Pages": {
+    "9anime": {
+      "7wzj": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3616,
+        "identifier": "7wzj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hello!! Kiniro Mosaic",
+        "url": "https://9anime.to/watch/hello-kiniro-mosaic.7wzj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8F10P1mzFEU/V6HBgDV-JjI/AAAAAAAA0Bk/YvIWI1dW_lU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23269,
+        "aniId": 20654,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hello-kiniro-mosaic": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18219,
+        "identifier": "hello-kiniro-mosaic",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hello!! Kiniro Mosaic",
+        "url": "https://gogoanime.vc/category/hello-kiniro-mosaic",
+        "image": "https://images.gogoanime.tv/images/upload/68797.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23269,
+        "aniId": 20654,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3291": {
+        "identifier": "3291",
+        "malId": 23269,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hello!! Kiniro Mosaic",
+        "url": "https://animepahe.com/a/3291"
+      }
+    },
+    "AniMixPlay": {
+      "23269": {
+        "identifier": "23269",
+        "malId": 23269,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hello!! Kiniro Mosaic",
+        "url": "https://animixplay.to/anime/23269"
+      }
+    },
+    "YugenAnime": {
+      "6279": {
+        "identifier": "6279",
+        "malId": 23269,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hello!! Kiniro Mosaic",
+        "url": "https://yugen.to/anime/6279/hello-kiniro-mosaic/"
+      }
+    }
+  }
+}

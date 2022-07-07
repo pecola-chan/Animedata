@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T09:54:13.000Z",
+  "checkedAt": "2022-05-14T09:54:13.000Z",
+  "id": 513,
+  "type": "anime",
+  "title": "Tenkuu no Shiro Laputa",
+  "altTitle": [
+    "Tenkuu no Shiro Rapyuta",
+    "Castle in the Sky",
+    "天空の城ラピュタ"
+  ],
+  "url": "https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa",
+  "image": "https://cdn.myanimelist.net/images/anime/5/37799.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghibli.jp/works/laputa/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=331"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=481"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Castle_in_the_Sky"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 331,
+  "Pages": {
+    "9anime": {
+      "l1wq": {
+        "createdAt": "2020-10-12T15:52:55.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5762,
+        "identifier": "l1wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenkuu no Shiro Laputa (Dub)",
+        "url": "https://9anime.to/watch/tenkuu-no-shiro-laputa-dub.l1wq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-e62-O9ufE_I/V9WO1MMibjI/AAAAAAAA9VY/CX4bF6vwxaw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 513,
+        "aniId": 513,
+        "deletedAt": null
+      },
+      "zlnm": {
+        "createdAt": "2020-10-12T15:57:10.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11184,
+        "identifier": "zlnm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenkuu no Shiro Laputa",
+        "url": "https://9anime.to/watch/tenkuu-no-shiro-laputa.zlnm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pGDt0iIDu8k/V5IlKyCSEeI/AAAAAAAAxRE/4sEEvv2-aHA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 513,
+        "aniId": 513,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "laputa-castle-in-the-sky": {
+        "createdAt": "2020-10-12T16:01:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19078,
+        "identifier": "laputa-castle-in-the-sky",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Laputa: Castle in the Sky",
+        "url": "https://gogoanime.vc/category/laputa-castle-in-the-sky",
+        "image": "https://cdnimg.xyz/images/anime/L/Laputa-Castle-in-the-Sky.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 513,
+        "aniId": 513,
+        "deletedAt": null
+      },
+      "laputa-castle-in-the-sky-dub": {
+        "createdAt": "2021-01-05T08:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32982,
+        "identifier": "laputa-castle-in-the-sky-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Laputa: Castle in the Sky (Dub)",
+        "url": "https://gogoanime.vc/category/laputa-castle-in-the-sky-dub",
+        "image": "https://gogocdn.net/cover/laputa-castle-in-the-sky-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 513,
+        "aniId": 513,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "596": {
+        "identifier": "596",
+        "malId": 513,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tenkuu no Shiro Laputa",
+        "url": "https://animepahe.com/a/596"
+      }
+    },
+    "AniMixPlay": {
+      "513": {
+        "identifier": "513",
+        "malId": 513,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenkuu no Shiro Laputa",
+        "url": "https://animixplay.to/anime/513"
+      }
+    }
+  }
+}

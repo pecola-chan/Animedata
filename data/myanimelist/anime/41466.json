@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T18:05:47.000Z",
+  "checkedAt": "2022-05-14T18:05:47.000Z",
+  "id": 41466,
+  "type": "anime",
+  "title": "Kyojinzoku no Hanayome",
+  "altTitle": [
+    "The Titan's Bride",
+    "巨人族の花嫁"
+  ],
+  "url": "https://myanimelist.net/anime/41466/Kyojinzoku_no_Hanayome",
+  "image": "https://cdn.myanimelist.net/images/anime/1481/107629.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kyojinzoku.cf-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15447"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23299"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Titan%27s_Bride#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15447,
+  "Pages": {
+    "9anime": {
+      "43om": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2096,
+        "identifier": "43om",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyojinzoku no Hanayome",
+        "url": "https://9anime.to/watch/kyojinzoku-no-hanayome.43om",
+        "image": "https://static.akacdn.ru/files/images/d/d5/d54e9c25362afe4e3320893014f1d94f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41466,
+        "aniId": 116648,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4039": {
+        "identifier": "4039",
+        "malId": 41466,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyojinzoku no Hanayome",
+        "url": "https://animepahe.com/a/4039"
+      }
+    },
+    "AniMixPlay": {
+      "41466": {
+        "identifier": "41466",
+        "malId": 41466,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyojinzoku no Hanayome",
+        "url": "https://animixplay.to/anime/41466"
+      }
+    }
+  }
+}

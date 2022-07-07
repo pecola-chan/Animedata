@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-12-25T17:26:15.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 31113,
+  "identifier": "dragons-heaven",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Dragon's Heaven",
+  "url": "https://gogoanime.vc/category/dragons-heaven",
+  "image": "https://gogocdn.net/cover/dragons-heaven.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3135,
+  "aniId": 3135,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-14T19:02:29.000Z",
+    "checkedAt": "2022-05-14T19:02:29.000Z",
+    "id": 3135,
+    "type": "anime",
+    "title": "Dragon's Heaven",
+    "altTitle": [
+      "Dragon's Heaven",
+      "ドラゴンズヘブン"
+    ],
+    "url": "https://myanimelist.net/anime/3135/Dragons_Heaven",
+    "image": "https://cdn.myanimelist.net/images/anime/8/33209.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2622"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=816"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ドラゴンズヘブン"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2622
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:36.000Z",
+    "updatedAt": "2022-05-15T12:45:23.000Z",
+    "checkedAt": "2022-05-15T12:45:23.000Z",
+    "id": 3135,
+    "type": "anime",
+    "title": "Dragon's Heaven",
+    "altTitle": [
+      "Dragon's Heaven",
+      "ドラゴンズヘブン"
+    ],
+    "url": "https://anilist.co/anime/3135",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3135.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3135,
+    "deletedAt": null
+  }
+}

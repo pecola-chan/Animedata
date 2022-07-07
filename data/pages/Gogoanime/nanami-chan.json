@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-07-31T08:52:31.000Z",
+  "updatedAt": "2021-07-31T09:21:48.000Z",
+  "checkedAt": null,
+  "id": 38073,
+  "identifier": "nanami-chan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Nanami-chan",
+  "url": "https://gogoanime.pe/category/nanami-chan",
+  "image": "https://gogocdn.net/cover/nanami-chan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 749,
+  "aniId": 749,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-15T06:31:06.000Z",
+    "checkedAt": "2022-05-15T06:31:06.000Z",
+    "id": 749,
+    "type": "anime",
+    "title": "Nanami-chan",
+    "altTitle": [
+      "ななみちゃん"
+    ],
+    "url": "https://myanimelist.net/anime/749/Nanami-chan",
+    "image": "https://cdn.myanimelist.net/images/anime/5/64205.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/nanami/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1950"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4132"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nanami-chan"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1950
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T09:56:35.000Z",
+    "checkedAt": "2022-05-15T09:56:35.000Z",
+    "id": 749,
+    "type": "anime",
+    "title": "Nanami-chan",
+    "altTitle": [
+      "ななみちゃん"
+    ],
+    "url": "https://anilist.co/anime/749",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/749.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 749,
+    "deletedAt": null
+  }
+}

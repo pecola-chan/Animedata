@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-03-02T05:50:37.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35401,
+  "identifier": "amada-anime-series-super-mario-brothers",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Amada Anime Series: Super Mario Brothers",
+  "url": "https://gogoanime.vc/category/amada-anime-series-super-mario-brothers",
+  "image": "https://gogocdn.net/cover/amada-anime-series-super-mario-brothers.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4389,
+  "aniId": 4389,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:43.000Z",
+    "updatedAt": "2022-05-14T22:44:59.000Z",
+    "checkedAt": "2022-05-14T22:44:59.000Z",
+    "id": 4389,
+    "type": "anime",
+    "title": "Amada Anime Series: Super Mario Brothers",
+    "altTitle": [
+      "Mario OVA",
+      "アマダアニメシリーズ スーパーマリオブラザーズ"
+    ],
+    "url": "https://myanimelist.net/anime/4389/Amada_Anime_Series__Super_Mario_Brothers",
+    "image": "https://cdn.myanimelist.net/images/anime/12/8326.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www5d.biglobe.ne.jp/~t-suzuki/vol.12/gma_12.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5551"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9344"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5551
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:34.000Z",
+    "updatedAt": "2022-05-15T22:00:59.000Z",
+    "checkedAt": "2022-05-15T22:00:59.000Z",
+    "id": 4389,
+    "type": "anime",
+    "title": "Amada Anime Series: Super Mario Brothers",
+    "altTitle": [
+      "アマダアニメシリーズ スーパーマリオブラザーズ",
+      "Mario OVA"
+    ],
+    "url": "https://anilist.co/anime/4389",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4389.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4389,
+    "deletedAt": null
+  }
+}

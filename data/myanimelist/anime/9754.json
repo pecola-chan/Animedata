@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T21:38:29.000Z",
+  "checkedAt": "2022-05-14T21:38:29.000Z",
+  "id": 9754,
+  "type": "anime",
+  "title": "Kuragehime: Eiyuu Retsuden☆",
+  "altTitle": [
+    "Kuragehime Heroes☆",
+    "Kuragehime Specials",
+    "Princess Jellyfish Specials",
+    "海月姫 英雄列伝☆"
+  ],
+  "url": "https://myanimelist.net/anime/9754/Kuragehime__Eiyuu_Retsuden☆",
+  "image": "https://cdn.myanimelist.net/images/anime/6/27015.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kuragehime.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7531"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kuragehime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7531,
+  "Pages": {
+    "9anime": {
+      "w8w6": {
+        "createdAt": "2020-10-12T15:56:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9757,
+        "identifier": "w8w6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuragehime: Eiyuu Retsuden☆",
+        "url": "https://9anime.to/watch/kuragehime-eiyuu-retsuden.w8w6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nUaJFDXeacE/V-9u1ahTcyI/AAAAAAABC30/kTEtyn59K4g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9754,
+        "aniId": 9754,
+        "deletedAt": null
+      },
+      "x948": {
+        "createdAt": "2020-10-12T15:56:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10217,
+        "identifier": "x948",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Princess Jellyfish Specials (Dub)",
+        "url": "https://9anime.to/watch/princess-jellyfish-specials-dub.x948",
+        "image": "https://static.akacdn.ru/files/images/2018/02/0d906601ce4015ef316a4d309b714259.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9754,
+        "aniId": 9754,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "806": {
+        "identifier": "806",
+        "malId": 9754,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kuragehime: Eiyuu Retsuden☆",
+        "url": "https://animepahe.com/a/806"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-06-18T07:20:52.000Z",
+  "updatedAt": "2021-06-18T07:50:49.000Z",
+  "checkedAt": null,
+  "id": 37423,
+  "identifier": "ronin-warriors-legend-of-kikoutei-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ronin Warriors Legend of Kikoutei (Dub)",
+  "url": "https://gogoanime.vc/category/ronin-warriors-legend-of-kikoutei-dub",
+  "image": "https://gogocdn.net/cover/ronin-warriors-legend-of-kikoutei-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1266,
+  "aniId": 1266,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:15.000Z",
+    "updatedAt": "2022-05-14T18:57:17.000Z",
+    "checkedAt": "2022-05-14T18:57:17.000Z",
+    "id": 1266,
+    "type": "anime",
+    "title": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+    "altTitle": [
+      "Samurai Troopers OVA 2",
+      "Ronin Warriors Legend of Kikoutei",
+      "鎧伝サムライトルーパー輝煌帝伝説"
+    ],
+    "url": "https://myanimelist.net/anime/1266/Yoroiden_Samurai_Troopers_Kikoutei_Densetsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1504/92211.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/datacard/samurai02.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3379"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1879"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ronin_Warriors"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3379
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:03.000Z",
+    "updatedAt": "2022-05-15T20:44:11.000Z",
+    "checkedAt": "2022-05-15T20:44:11.000Z",
+    "id": 1266,
+    "type": "anime",
+    "title": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+    "altTitle": [
+      "Ronin Warriors: Legend of the Inferno Armor",
+      "鎧伝サムライトルーパー輝煌帝伝説",
+      "Samurai Troopers OVA 2"
+    ],
+    "url": "https://anilist.co/anime/1266",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1266-sXvjA0kEMwql.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1266,
+    "deletedAt": null
+  }
+}

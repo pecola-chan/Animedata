@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T16:44:35.000Z",
+  "checkedAt": "2022-05-14T16:44:35.000Z",
+  "id": 2926,
+  "type": "anime",
+  "title": "Myself; Yourself",
+  "altTitle": [
+    "Myself; Yourself",
+    "マイセルフ; ユアセルフ"
+  ],
+  "url": "https://myanimelist.net/anime/2926/Myself__Yourself",
+  "image": "https://cdn.myanimelist.net/images/anime/13/75247.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.maql.co.jp/special/anime-myyour/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5435"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8507"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Myself_%3B_Yourself"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-55898"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/myself-yourself"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5435,
+  "Pages": {
+    "9anime": {
+      "0227": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 334,
+        "identifier": "0227",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Myself; Yourself",
+        "url": "https://9anime.to/watch/myself-yourself.0227",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6w-a17Cpz_8/V4uPTTYexaI/AAAAAAAAwAc/T4JJFyfnqKI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2926,
+        "aniId": 2926,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "myself-yourself": {
+        "createdAt": "2020-12-01T18:23:30.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29624,
+        "identifier": "myself-yourself",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Myself; Yourself",
+        "url": "https://gogoanime.vc/category/myself-yourself",
+        "image": "https://gogocdn.net/images/anime/M/myself-yourself.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2926,
+        "aniId": 2926,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2926": {
+        "identifier": "2926",
+        "malId": 2926,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Myself; Yourself",
+        "url": "https://animixplay.to/anime/2926"
+      }
+    },
+    "YugenAnime": {
+      "2445": {
+        "identifier": "2445",
+        "malId": 2926,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Myself; Yourself",
+        "url": "https://yugen.to/anime/2445/myself-yourself/"
+      }
+    }
+  }
+}

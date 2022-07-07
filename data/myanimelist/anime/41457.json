@@ -1,0 +1,167 @@
+{
+  "createdAt": "2021-02-20T12:04:31.000Z",
+  "updatedAt": "2022-05-14T10:12:26.000Z",
+  "checkedAt": "2022-05-14T10:12:26.000Z",
+  "id": 41457,
+  "type": "anime",
+  "title": "86",
+  "altTitle": [
+    "Eighty Six",
+    "86 Eighty Six",
+    "86―エイティシックス―"
+  ],
+  "url": "https://myanimelist.net/anime/41457/86",
+  "image": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime-86.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15441"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23089"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/86_(novel_series)#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281196"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "iqiyi",
+      "url": "https://www.iq.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15441,
+  "Pages": {
+    "9anime": {
+      "v68l": {
+        "createdAt": "2021-04-10T16:21:54.000Z",
+        "updatedAt": "2022-03-12T07:30:03.000Z",
+        "checkedAt": null,
+        "id": 36366,
+        "identifier": "v68l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "86: Eighty Six",
+        "url": "https://9anime.to/watch/86-eighty-six.v68l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/ac/ac0de6ca91b36664bbea80a7122ed94f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41457,
+        "aniId": 116589,
+        "deletedAt": null
+      },
+      "m2moz": {
+        "createdAt": "2021-06-20T01:21:24.000Z",
+        "updatedAt": "2022-03-12T07:30:03.000Z",
+        "checkedAt": null,
+        "id": 37463,
+        "identifier": "m2moz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "86: Eighty Six (Dub)",
+        "url": "https://9anime.to/watch/86-eighty-six-dub.m2moz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a9/a9e1092619ad0d5a733fb1bad8224ebe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41457,
+        "aniId": 116589,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "86": {
+        "createdAt": "2021-04-14T16:45:20.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36430,
+        "identifier": "86",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "86",
+        "url": "https://gogoanime.vc/category/86",
+        "image": "https://gogocdn.net/cover/86.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41457,
+        "aniId": 116589,
+        "deletedAt": null
+      },
+      "86-dub": {
+        "createdAt": "2021-06-20T23:50:55.000Z",
+        "updatedAt": "2021-06-21T00:20:49.000Z",
+        "checkedAt": null,
+        "id": 37469,
+        "identifier": "86-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "86 (Dub)",
+        "url": "https://gogoanime.vc/category/86-dub",
+        "image": "https://gogocdn.net/cover/86-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41457,
+        "aniId": 116589,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4309": {
+        "identifier": "4309",
+        "malId": 41457,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "86",
+        "url": "https://animepahe.com/a/4309"
+      }
+    },
+    "AniMixPlay": {
+      "41457": {
+        "identifier": "41457",
+        "malId": 41457,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "86",
+        "url": "https://animixplay.to/anime/41457"
+      }
+    },
+    "YugenAnime": {
+      "7484": {
+        "identifier": "7484",
+        "malId": 41457,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "86",
+        "url": "https://yugen.to/anime/7484/86/"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T00:54:29.000Z",
+  "checkedAt": "2022-05-15T00:54:29.000Z",
+  "id": 3367,
+  "type": "anime",
+  "title": "Furusato Japan",
+  "altTitle": [
+    "Japan, Our Homeland",
+    "ふるさとJAPAN"
+  ],
+  "url": "https://myanimelist.net/anime/3367/Furusato_Japan",
+  "image": "https://cdn.myanimelist.net/images/anime/1998/112984.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.furusatojapan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4588"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7540"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4588,
+  "Pages": {
+    "9anime": {
+      "11mm": {
+        "createdAt": "2020-10-12T15:49:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 793,
+        "identifier": "11mm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Furusato Japan",
+        "url": "https://9anime.to/watch/furusato-japan.11mm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-J9F6uoDLe28/WQhEQ3GHk0I/AAAAAAAAlNw/qwKvSJy5U6ot-3Upd_jt71TRnZaAGja7QCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3367,
+        "aniId": 3367,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "1655": {
+        "identifier": "1655",
+        "malId": 3367,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Furusato Japan",
+        "url": "https://yugen.to/anime/1655/folktales-from-japan/"
+      }
+    }
+  }
+}

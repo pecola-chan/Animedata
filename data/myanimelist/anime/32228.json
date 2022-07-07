@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T19:29:29.000Z",
+  "checkedAt": "2022-05-14T19:29:29.000Z",
+  "id": 32228,
+  "type": "anime",
+  "title": "Teekyuu 7",
+  "altTitle": [
+    "Teekyu 7",
+    "てーきゅう 7期"
+  ],
+  "url": "https://myanimelist.net/anime/32228/Teekyuu_7",
+  "image": "https://cdn.myanimelist.net/images/anime/6/77830.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.te-kyu.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10820"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17896"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Teekyu"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-249472"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10820,
+  "Pages": {
+    "9anime": {
+      "1qkv": {
+        "createdAt": "2020-10-12T15:49:17.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1081,
+        "identifier": "1qkv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Teekyuu 7",
+        "url": "https://9anime.to/watch/teekyuu-7.1qkv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0hWwEM-oTUU/V7KRs2H9oSI/AAAAAAAA3X4/YP3bKtNNYdc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32228,
+        "aniId": 21513,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "teekyuu-7": {
+        "createdAt": "2021-04-14T16:48:00.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36502,
+        "identifier": "teekyuu-7",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Teekyuu 7",
+        "url": "https://gogoanime.vc/category/teekyuu-7",
+        "image": "https://gogocdn.net/images/upload/77381.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32228,
+        "aniId": 21513,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "566": {
+        "identifier": "566",
+        "malId": 32228,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Teekyuu 7",
+        "url": "https://animepahe.com/a/566"
+      }
+    },
+    "AniMixPlay": {
+      "32228": {
+        "identifier": "32228",
+        "malId": 32228,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Teekyuu 7",
+        "url": "https://animixplay.to/anime/32228"
+      }
+    },
+    "YugenAnime": {
+      "1282": {
+        "identifier": "1282",
+        "malId": 32228,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Teekyuu 7",
+        "url": "https://yugen.to/anime/1282/teekyuu-7/"
+      }
+    }
+  }
+}

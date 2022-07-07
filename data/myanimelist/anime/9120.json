@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T21:03:29.000Z",
+  "checkedAt": "2022-05-14T21:03:29.000Z",
+  "id": 9120,
+  "type": "anime",
+  "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+  "altTitle": [
+    "Beelzebub Jump Super Anime Tour Special",
+    "Beelzebub: Jump Festa 2010 Special",
+    "べるぜバブ 拾った赤ちゃんは大魔王!?"
+  ],
+  "url": "https://myanimelist.net/anime/9120/Beelzebub__Hirotta_Akachan_wa_Daimaou",
+  "image": "https://cdn.myanimelist.net/images/anime/7/26349.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jumpfesta.com/anime/r_m02.html?num=1"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7736"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Beelzebub_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7736,
+  "Pages": {
+    "9anime": {
+      "q3k5": {
+        "createdAt": "2020-10-12T15:54:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8286,
+        "identifier": "q3k5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+        "url": "https://9anime.to/watch/beelzebub-hirotta-akachan-wa-daimaou.q3k5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-41JcaEcYV-E/WHhew11WaOI/AAAAAAABY-w/jn-eMlH0zIQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9120,
+        "aniId": 9120,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3956": {
+        "identifier": "3956",
+        "malId": 9120,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+        "url": "https://animepahe.com/a/3956"
+      }
+    },
+    "AniMixPlay": {
+      "9120": {
+        "identifier": "9120",
+        "malId": 9120,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+        "url": "https://animixplay.to/anime/9120"
+      }
+    },
+    "YugenAnime": {
+      "14501": {
+        "identifier": "14501",
+        "malId": 9120,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+        "url": "https://yugen.to/anime/14501/beelzebub-hirotta-akachan-wa-daimaou/"
+      }
+    }
+  }
+}

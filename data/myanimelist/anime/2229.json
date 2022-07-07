@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-14T18:23:41.000Z",
+  "checkedAt": "2022-05-14T18:23:41.000Z",
+  "id": 2229,
+  "type": "anime",
+  "title": "Dragon Quest: Dai no Daibouken (TV)",
+  "altTitle": [
+    "Dragon Quest: Dai's Great Adventure",
+    "Dragon Quest: Adventure of Dai",
+    "ドラゴンクエスト・ダイの大冒険"
+  ],
+  "url": "https://myanimelist.net/anime/2229/Dragon_Quest__Dai_no_Daibouken_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1963/108416.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/dai_daiboken/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1105"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1521"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dragon_Quest:_Dai_no_Daibouken"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1105,
+  "Pages": {
+    "9anime": {
+      "v9wv": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9330,
+        "identifier": "v9wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Quest: Dai no Daibouken",
+        "url": "https://9anime.to/watch/dragon-quest-dai-no-daibouken.v9wv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nXLdHEf_Vt0/V7KLD_CJnLI/AAAAAAAA3XI/KI3Q-13x8hI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2229,
+        "aniId": 2229,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dragon-quest-dai-no-daibouken-tv": {
+        "createdAt": "2020-10-12T16:00:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17490,
+        "identifier": "dragon-quest-dai-no-daibouken-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dragon Quest: Dai no Daibouken (TV)",
+        "url": "https://gogoanime.vc/category/dragon-quest-dai-no-daibouken-tv",
+        "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2229,
+        "aniId": 2229,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2229": {
+        "identifier": "2229",
+        "malId": 2229,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dragon Quest: Dai no Daibouken (TV)",
+        "url": "https://animixplay.to/anime/2229"
+      }
+    },
+    "YugenAnime": {
+      "6310": {
+        "identifier": "6310",
+        "malId": 2229,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dragon Quest: Dai no Daibouken (TV)",
+        "url": "https://yugen.to/anime/6310/dragon-quest-dai-no-daibouken-tv/"
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-14T07:02:54.000Z",
+  "checkedAt": "2022-05-14T07:02:54.000Z",
+  "id": 34382,
+  "type": "anime",
+  "title": "Citrus",
+  "altTitle": [
+    "Citrus",
+    "シトラス"
+  ],
+  "url": "https://myanimelist.net/anime/34382/Citrus",
+  "image": "https://cdn.myanimelist.net/images/anime/11/89985.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://citrus-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12545"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19398"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citrus_(manga)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275189"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/citrus"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12545,
+  "Pages": {
+    "9anime": {
+      "15yv": {
+        "createdAt": "2020-10-12T15:49:08.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 868,
+        "identifier": "15yv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Citrus (Dub)",
+        "url": "https://9anime.to/watch/citrus-dub.15yv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/01/3ab13194189ed21e7960ae0338a16ce4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34382,
+        "aniId": 97832,
+        "deletedAt": null
+      },
+      "k4y6": {
+        "createdAt": "2020-10-12T15:52:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5275,
+        "identifier": "k4y6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Citrus",
+        "url": "https://9anime.to/watch/citrus.k4y6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ohH7c5xOsNg/WFZxfsk_v-I/AAAAAAABTVs/Unu-hSF76Y8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34382,
+        "aniId": 97832,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "citrus": {
+        "createdAt": "2020-10-12T16:00:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17126,
+        "identifier": "citrus",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Citrus",
+        "url": "https://gogoanime.vc/category/citrus",
+        "image": "https://images.gogoanime.tv/cover/citrus.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34382,
+        "aniId": 97832,
+        "deletedAt": null
+      },
+      "citrus-dub": {
+        "createdAt": "2020-10-12T16:00:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17127,
+        "identifier": "citrus-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Citrus (Dub)",
+        "url": "https://gogoanime.vc/category/citrus-dub",
+        "image": "https://gogocdn.net/cover/citrus-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34382,
+        "aniId": 97832,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2427": {
+        "identifier": "2427",
+        "malId": 34382,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Citrus",
+        "url": "https://animepahe.com/a/2427"
+      }
+    },
+    "AniMixPlay": {
+      "34382": {
+        "identifier": "34382",
+        "malId": 34382,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Citrus",
+        "url": "https://animixplay.to/anime/34382"
+      }
+    },
+    "YugenAnime": {
+      "827": {
+        "identifier": "827",
+        "malId": 34382,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Citrus",
+        "url": "https://yugen.to/anime/827/citrus/"
+      }
+    }
+  }
+}

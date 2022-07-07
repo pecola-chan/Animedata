@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T10:31:44.000Z",
+  "checkedAt": "2022-05-14T10:31:44.000Z",
+  "id": 39486,
+  "type": "anime",
+  "title": "Gintama: The Final",
+  "altTitle": [
+    "Gintama: The Very Final",
+    "銀魂 THE FINAL"
+  ],
+  "url": "https://myanimelist.net/anime/39486/Gintama__The_Final",
+  "image": "https://cdn.myanimelist.net/images/anime/1988/113791.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/gintama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14719"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23828"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gin_Tama#Animation"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/movies/Gintama:-The-Final/movie-919805"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14719,
+  "Pages": {
+    "9anime": {
+      "r2jq": {
+        "createdAt": "2020-10-12T15:55:24.000Z",
+        "updatedAt": "2022-06-13T22:30:27.000Z",
+        "checkedAt": "2022-06-13T22:30:27.000Z",
+        "id": 8728,
+        "identifier": "r2jq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama: THE FINAL",
+        "url": "https://9anime.to/watch/gintama-the-very-final.r2jq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c0/c047de1a27db1d35a9c752d284e9deaf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39486,
+        "aniId": 114129,
+        "deletedAt": null
+      },
+      "2o924": {
+        "createdAt": "2022-02-10T07:40:09.000Z",
+        "updatedAt": "2022-02-10T08:09:37.000Z",
+        "checkedAt": null,
+        "id": 40124,
+        "identifier": "2o924",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama: THE FINAL (Dub)",
+        "url": "https://9anime.to/watch/gintama-the-very-final-dub.2o924",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/aa/aa855b75591df15d21be99958ab3d863.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39486,
+        "aniId": 114129,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gintama-the-final": {
+        "createdAt": "2021-07-17T07:32:41.000Z",
+        "updatedAt": "2021-07-17T08:02:20.000Z",
+        "checkedAt": null,
+        "id": 37897,
+        "identifier": "gintama-the-final",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gintama: The Final",
+        "url": "https://gogoanime.pe/category/gintama-the-final",
+        "image": "https://gogocdn.net/cover/gintama-the-final.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39486,
+        "aniId": 114129,
+        "deletedAt": null
+      },
+      "gintama-the-final-dub": {
+        "createdAt": "2022-03-08T12:31:06.000Z",
+        "updatedAt": "2022-03-08T12:59:44.000Z",
+        "checkedAt": null,
+        "id": 40414,
+        "identifier": "gintama-the-final-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gintama: The Final (Dub)",
+        "url": "https://gogoanime.fi/category/gintama-the-final-dub",
+        "image": "https://gogocdn.net/cover/gintama-the-final-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39486,
+        "aniId": 114129,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4464": {
+        "identifier": "4464",
+        "malId": 39486,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama: The Final",
+        "url": "https://animepahe.com/a/4464"
+      }
+    },
+    "AniMixPlay": {
+      "39486": {
+        "identifier": "39486",
+        "malId": 39486,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama: The Final",
+        "url": "https://animixplay.to/anime/39486"
+      }
+    },
+    "YugenAnime": {
+      "9564": {
+        "identifier": "9564",
+        "malId": 39486,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gintama: The Final",
+        "url": "https://yugen.to/anime/9564/gintama-the-final/"
+      }
+    }
+  }
+}

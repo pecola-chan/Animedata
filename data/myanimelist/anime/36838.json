@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-14T10:01:25.000Z",
+  "checkedAt": "2022-05-14T10:01:25.000Z",
+  "id": 36838,
+  "type": "anime",
+  "title": "Gintama.: Shirogane no Tamashii-hen",
+  "altTitle": [
+    "Gintama.: Silver Soul Arc",
+    "銀魂. 銀ノ魂篇"
+  ],
+  "url": "https://myanimelist.net/anime/36838/Gintama__Shirogane_no_Tamashii-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/gintama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13263"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20160"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gin_Tama"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-47620"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13263,
+  "Pages": {
+    "9anime": {
+      "n7zm": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2022-05-23T23:30:24.000Z",
+        "checkedAt": "2022-05-23T23:30:24.000Z",
+        "id": 7015,
+        "identifier": "n7zm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama.: Shirogane no Tamashii-hen",
+        "url": "https://9anime.to/watch/gintama-silver-soul-arc.n7zm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b1fdba86a253e2f6c1e07a68f42c822c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36838,
+        "aniId": 100784,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gintama-shirogane-no-tamashii-hen": {
+        "createdAt": "2020-10-12T16:00:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17910,
+        "identifier": "gintama-shirogane-no-tamashii-hen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gintama.: Shirogane no Tamashii-hen",
+        "url": "https://gogoanime.vc/category/gintama-shirogane-no-tamashii-hen",
+        "image": "https://images.gogoanime.tv/cover/gintama-shirogane-no-tamashii-hen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36838,
+        "aniId": 100784,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2474": {
+        "identifier": "2474",
+        "malId": 36838,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama.: Shirogane no Tamashii-hen",
+        "url": "https://animepahe.com/a/2474"
+      }
+    },
+    "AniMixPlay": {
+      "36838": {
+        "identifier": "36838",
+        "malId": 36838,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama.: Shirogane no Tamashii-hen",
+        "url": "https://animixplay.to/anime/36838"
+      }
+    },
+    "YugenAnime": {
+      "3876": {
+        "identifier": "3876",
+        "malId": 36838,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gintama.: Shirogane no Tamashii-hen",
+        "url": "https://yugen.to/anime/3876/gintama-shirogane-no-tamashii-hen/"
+      }
+    }
+  }
+}

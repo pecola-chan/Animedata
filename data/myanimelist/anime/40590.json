@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T17:34:10.000Z",
+  "checkedAt": "2022-05-14T17:34:10.000Z",
+  "id": 40590,
+  "type": "anime",
+  "title": "Utawarerumono: Futari no Hakuoro",
+  "altTitle": [
+    "Utawarerumono: Mask of Truth",
+    "うたわれるもの 二人の白皇"
+  ],
+  "url": "https://myanimelist.net/anime/40590/Utawarerumono__Futari_no_Hakuoro",
+  "image": "https://cdn.myanimelist.net/images/anime/1516/123280.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://utawarerumono.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15206"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24991"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Utawarerumono#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15206,
+  "Pages": {
+    "9anime": {
+      "9v5x": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4448,
+        "identifier": "9v5x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Utawarerumono: Futari no Hakuoro",
+        "url": "https://9anime.to/watch/utawarerumono-futari-no-hakuoro.9v5x",
+        "image": "https://static.akacdn.ru/files/images/2019/10/11981520fded641b46262d1660add758.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40590,
+        "aniId": 112640,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "utawarerumono-futari-no-hakuoro": {
+        "createdAt": "2022-07-02T18:00:11.723Z",
+        "updatedAt": "2022-07-02T18:20:00.000Z",
+        "checkedAt": "2022-07-02T18:00:11.000Z",
+        "id": 41315,
+        "identifier": "utawarerumono-futari-no-hakuoro",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Utawarerumono: Futari no Hakuoro",
+        "url": "https://gogoanime.lu/category/utawarerumono-futari-no-hakuoro",
+        "image": "https://gogocdn.net/cover/utawarerumono-futari-no-hakuoro.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40590,
+        "aniId": 112640,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4825": {
+        "identifier": "4825",
+        "malId": 40590,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Utawarerumono: Futari no Hakuoro",
+        "url": "https://animepahe.com/a/4825"
+      }
+    },
+    "AniMixPlay": {
+      "40590": {
+        "identifier": "40590",
+        "malId": 40590,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Utawarerumono: Futari no Hakuoro",
+        "url": "https://animixplay.to/anime/40590"
+      }
+    }
+  }
+}

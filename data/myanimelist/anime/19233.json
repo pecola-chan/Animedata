@@ -1,0 +1,47 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-17T19:09:25.000Z",
+  "checkedAt": "2022-05-17T19:09:25.000Z",
+  "id": 19233,
+  "type": "anime",
+  "title": "Around",
+  "altTitle": [
+    "around"
+  ],
+  "url": "https://myanimelist.net/anime/19233/Around",
+  "image": "https://cdn.myanimelist.net/images/anime/7/68975.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ryukato.net/images/works/worksfile/around/around.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "2684": {
+        "createdAt": "2020-10-12T15:48:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 62,
+        "identifier": "2684",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Around",
+        "url": "https://9anime.to/watch/around.2684",
+        "image": "https://static.akacdn.ru/files/images/2018/03/0b077b3470ade4cae8dd769402577e69.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19233,
+        "aniId": 19233,
+        "deletedAt": null
+      }
+    }
+  }
+}

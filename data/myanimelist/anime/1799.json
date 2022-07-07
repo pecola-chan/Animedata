@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T22:22:41.000Z",
+  "checkedAt": "2022-05-14T22:22:41.000Z",
+  "id": 1799,
+  "type": "anime",
+  "title": "Fatal Fury: Legend of the Hungry Wolf",
+  "altTitle": [
+    "Battle Fighters Garou Densetsu",
+    "Fatal Fury: Legend of the Hungry Wolf",
+    "バトルファイターズ餓狼伝説"
+  ],
+  "url": "https://myanimelist.net/anime/1799/Fatal_Fury__Legend_of_the_Hungry_Wolf",
+  "image": "https://cdn.myanimelist.net/images/anime/1687/117356.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=220"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=822"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fatal_Fury_-_Legend_of_the_Hungry_Wolf"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280818"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 220,
+  "Pages": {
+    "9anime": {
+      "kjy4": {
+        "createdAt": "2020-10-12T15:52:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5446,
+        "identifier": "kjy4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fatal Fury: Legend of the Hungry Wolf",
+        "url": "https://9anime.to/watch/fatal-fury-legend-of-the-hungry-wolf.kjy4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5-Te3o4tuvU/WNICNZR_zDI/AAAAAAABgK8/MoJU9FqhAnQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1799,
+        "aniId": 1799,
+        "deletedAt": null
+      },
+      "o5xy": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7401,
+        "identifier": "o5xy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fatal Fury: Legend of the Hungry Wolf (Dub)",
+        "url": "https://9anime.to/watch/fatal-fury-legend-of-the-hungry-wolf-dub.o5xy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yEv9OcfQh2M/WNn1JuUCO-I/AAAAAAAAdqk/5EIgA7NOo0k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1799,
+        "aniId": 1799,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1799": {
+        "identifier": "1799",
+        "malId": 1799,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fatal Fury: Legend of the Hungry Wolf",
+        "url": "https://animixplay.to/anime/1799"
+      }
+    },
+    "YugenAnime": {
+      "2456": {
+        "identifier": "2456",
+        "malId": 1799,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fatal Fury: Legend of the Hungry Wolf",
+        "url": "https://yugen.to/anime/2456/fatal-fury-legend-of-the-hungry-wolf/"
+      }
+    }
+  }
+}

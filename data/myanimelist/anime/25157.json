@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-13T21:33:49.000Z",
+  "checkedAt": "2022-05-13T21:33:49.000Z",
+  "id": 25157,
+  "type": "anime",
+  "title": "Trinity Seven",
+  "altTitle": [
+    "Trinity Seven",
+    "トリニティセブン"
+  ],
+  "url": "https://myanimelist.net/anime/25157/Trinity_Seven",
+  "image": "https://cdn.myanimelist.net/images/anime/12/67795.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.trinity-7.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10441"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16174"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Trinity_Seven"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-263097"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/trinity-seven"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10441,
+  "Pages": {
+    "9anime": {
+      "5289": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2022-03-19T05:22:07.000Z",
+        "checkedAt": null,
+        "id": 158,
+        "identifier": "5289",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Trinity Seven",
+        "url": "https://9anime.to/watch/trinity-seven.5289",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/99/99a4ac22c6ba48c1ead31127e4b6f5ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25157,
+        "aniId": 20631,
+        "deletedAt": null
+      },
+      "7z07": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3663,
+        "identifier": "7z07",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Trinity Seven (Dub)",
+        "url": "https://9anime.to/watch/trinity-seven-dub.7z07",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-682UhxeBOaA/WAEA9xW7aFI/AAAAAAABHu8/hCNH-PTftTc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25157,
+        "aniId": 20631,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "trinity-seven": {
+        "createdAt": "2020-10-12T16:02:09.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21223,
+        "identifier": "trinity-seven",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Trinity Seven",
+        "url": "https://gogoanime.vc/category/trinity-seven",
+        "image": "https://cdnimg.xyz/images/fall/Trinity Seven.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25157,
+        "aniId": 20631,
+        "deletedAt": null
+      },
+      "trinity-seven-dub": {
+        "createdAt": "2020-10-12T16:02:09.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21224,
+        "identifier": "trinity-seven-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Trinity Seven (Dub)",
+        "url": "https://gogoanime.vc/category/trinity-seven-dub",
+        "image": "https://gogocdn.net/cover/trinity-seven-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25157,
+        "aniId": 20631,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "50": {
+        "identifier": "50",
+        "malId": 25157,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Trinity Seven",
+        "url": "https://animepahe.com/a/50"
+      }
+    },
+    "AniMixPlay": {
+      "25157": {
+        "identifier": "25157",
+        "malId": 25157,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Trinity Seven",
+        "url": "https://animixplay.to/anime/25157"
+      }
+    },
+    "YugenAnime": {
+      "1482": {
+        "identifier": "1482",
+        "malId": 25157,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Trinity Seven",
+        "url": "https://yugen.to/anime/1482/trinity-seven/"
+      }
+    }
+  }
+}

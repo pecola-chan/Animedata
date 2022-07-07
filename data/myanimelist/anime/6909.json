@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-15T07:18:16.000Z",
+  "checkedAt": "2022-05-15T07:18:16.000Z",
+  "id": 6909,
+  "type": "anime",
+  "title": "Jungle Taitei: Yuuki ga Mirai wo Kaeru",
+  "altTitle": [
+    "Jungle Emperor Remake",
+    "Kimba the White Lion",
+    "Jungle Emperor Leo",
+    "ジャングル大帝 -勇気が未来をかえる"
+  ],
+  "url": "https://myanimelist.net/anime/6909/Jungle_Taitei__Yuuki_ga_Mirai_wo_Kaeru",
+  "image": "https://cdn.myanimelist.net/images/anime/13/37235.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.fujitv.co.jp/leo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6652"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10923"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6652,
+  "Pages": {
+    "9anime": {
+      "j7mn": {
+        "createdAt": "2020-10-12T15:52:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4772,
+        "identifier": "j7mn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jungle Emperor Leo",
+        "url": "https://9anime.to/watch/jungle-emperor-leo.j7mn",
+        "image": "https://static.akacdn.ru/files/images/2018/04/ad94f75fb1cd12b039f512777be086ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6909,
+        "aniId": 6909,
+        "deletedAt": null
+      },
+      "4q2jo": {
+        "createdAt": "2022-06-12T20:00:30.140Z",
+        "updatedAt": "2022-06-12T20:20:00.000Z",
+        "checkedAt": "2022-06-12T20:00:30.000Z",
+        "id": 41168,
+        "identifier": "4q2jo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jungle Taitei: Yuuki ga Mirai wo Kaeru (Dub)",
+        "url": "https://9anime.to/watch/jungle-emperor-the-brave-can-change-the-future-dub.4q2jo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/51/51e26c9c43fc184bfd4d71d15f6dcf00.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6909,
+        "aniId": 6909,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "1402": {
+        "identifier": "1402",
+        "malId": 6909,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jungle Taitei: Yuuki ga Mirai wo Kaeru",
+        "url": "https://yugen.to/anime/1402/jungle-taitei-yuuki-ga-mirai-wo-kaeru/"
+      }
+    }
+  }
+}

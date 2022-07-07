@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-09-25T21:15:27.000Z",
+  "updatedAt": "2021-09-25T21:45:23.000Z",
+  "checkedAt": null,
+  "id": 38738,
+  "identifier": "mainichi-ga-nichiyoubi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mainichi ga Nichiyoubi\t",
+  "url": "https://gogoanime.pe/category/mainichi-ga-nichiyoubi",
+  "image": "https://gogocdn.net/cover/mainichi-ga-nichiyoubi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2059,
+  "aniId": 2059,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-14T22:32:52.000Z",
+    "checkedAt": "2022-05-14T22:32:52.000Z",
+    "id": 2059,
+    "type": "anime",
+    "title": "Mainichi ga Nichiyoubi",
+    "altTitle": [
+      "Everyday seems Sunday",
+      "Everyday is Sunday",
+      "Every Day is Sunday",
+      "毎日が日曜日"
+    ],
+    "url": "https://myanimelist.net/anime/2059/Mainichi_ga_Nichiyoubi",
+    "image": "https://cdn.myanimelist.net/images/anime/3/62363.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.production-ig.co.jp/contents/works_sp/0090_/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=936"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2137"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 936
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:08.000Z",
+    "updatedAt": "2022-05-15T17:07:47.000Z",
+    "checkedAt": "2022-05-15T17:07:47.000Z",
+    "id": 2059,
+    "type": "anime",
+    "title": "Mainichi ga Nichiyoubi",
+    "altTitle": [
+      "毎日が日曜日",
+      "Everyday is Sunday"
+    ],
+    "url": "https://anilist.co/anime/2059",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2059-3Ss0TXFqXQ56.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2059,
+    "deletedAt": null
+  }
+}

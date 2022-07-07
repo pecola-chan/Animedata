@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T17:59:53.000Z",
+  "checkedAt": "2022-05-14T17:59:53.000Z",
+  "id": 37902,
+  "type": "anime",
+  "title": "One Piece: Episode of Sorajima",
+  "altTitle": [
+    "One Piece: Episode of Skypiea",
+    "ONE PIECE エピソードオブ空島"
+  ],
+  "url": "https://myanimelist.net/anime/37902/One_Piece__Episode_of_Sorajima",
+  "image": "https://cdn.myanimelist.net/images/anime/1533/92968.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://one-piece.com/news/detail/20180519_7229.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257631"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 69,
+  "Pages": {
+    "9anime": {
+      "4o1j": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2311,
+        "identifier": "4o1j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Episode of Sorajima",
+        "url": "https://9anime.to/watch/one-piece-episode-of-sorajima.4o1j",
+        "image": "http://static.akacdn.ru/static/images/2018/05/2a97faea47b3283a6015e88ab9c15855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37902,
+        "aniId": 101918,
+        "deletedAt": null
+      },
+      "rpxo": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8970,
+        "identifier": "rpxo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Episode of Skypiea (Dub)",
+        "url": "https://9anime.to/watch/one-piece-episode-of-skypiea-dub.rpxo",
+        "image": "https://static.akacdn.ru/files/images/2019/11/e90a5b57cd91ee4a03f645c884dadf87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37902,
+        "aniId": 101918,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-piece-episode-of-sorajima": {
+        "createdAt": "2020-10-12T17:19:51.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23580,
+        "identifier": "one-piece-episode-of-sorajima",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece: Episode of Sorajima",
+        "url": "https://gogoanime.vc/category/one-piece-episode-of-sorajima",
+        "image": "https://gogocdn.net/cover/one-piece-episode-of-sorajima.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37902,
+        "aniId": 101918,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3841": {
+        "identifier": "3841",
+        "malId": 37902,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece: Episode of Sorajima",
+        "url": "https://animepahe.com/a/3841"
+      }
+    },
+    "AniMixPlay": {
+      "37902": {
+        "identifier": "37902",
+        "malId": 37902,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece: Episode of Sorajima",
+        "url": "https://animixplay.to/anime/37902"
+      }
+    },
+    "YugenAnime": {
+      "3937": {
+        "identifier": "3937",
+        "malId": 37902,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Piece: Episode of Sorajima",
+        "url": "https://yugen.to/anime/3937/one-piece-episode-of-sorajima/"
+      }
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-14T09:57:02.000Z",
+  "checkedAt": "2022-05-14T09:57:02.000Z",
+  "id": 31049,
+  "type": "anime",
+  "title": "Beyblade Burst",
+  "altTitle": [
+    "ベイブレードバースト"
+  ],
+  "url": "https://myanimelist.net/anime/31049/Beyblade_Burst",
+  "image": "https://cdn.myanimelist.net/images/anime/13/78786.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/beyblade2016/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11291"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17992"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11291,
+  "Pages": {
+    "9anime": {
+      "1ymp": {
+        "createdAt": "2020-10-12T15:49:21.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1186,
+        "identifier": "1ymp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beyblade Burst (Dub)",
+        "url": "https://9anime.to/watch/beyblade-burst-dub.1ymp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-riATPQC9zmk/WFP81ayUZHI/AAAAAAABTDU/Huss7OQBgdw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31049,
+        "aniId": 21236,
+        "deletedAt": null
+      },
+      "yj9x": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10685,
+        "identifier": "yj9x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beyblade Burst",
+        "url": "https://9anime.to/watch/beyblade-burst.yj9x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Wjvbk7ifHCU/V7mclbHpCaI/AAAAAAAA4q8/DR48NacGUr0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31049,
+        "aniId": 21236,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beyblade-burst": {
+        "createdAt": "2020-10-12T15:59:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16789,
+        "identifier": "beyblade-burst",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beyblade Burst",
+        "url": "https://gogoanime.vc/category/beyblade-burst",
+        "image": "https://gogocdn.net/cover/beyblade-burst.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31049,
+        "aniId": 21236,
+        "deletedAt": null
+      },
+      "beyblade-burst-dub": {
+        "createdAt": "2021-05-20T07:31:24.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 37073,
+        "identifier": "beyblade-burst-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beyblade Burst (Dub)",
+        "url": "https://gogoanime.vc/category/beyblade-burst-dub",
+        "image": "https://gogocdn.net/cover/beyblade-burst-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31049,
+        "aniId": 21236,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "31049": {
+        "identifier": "31049",
+        "malId": 31049,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Beyblade Burst",
+        "url": "https://animixplay.to/anime/31049"
+      }
+    },
+    "YugenAnime": {
+      "1528": {
+        "identifier": "1528",
+        "malId": 31049,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Beyblade Burst",
+        "url": "https://yugen.to/anime/1528/beyblade-burst/"
+      }
+    }
+  }
+}

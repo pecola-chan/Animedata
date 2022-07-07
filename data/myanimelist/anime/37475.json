@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T17:50:11.000Z",
+  "checkedAt": "2022-05-14T17:50:11.000Z",
+  "id": 37475,
+  "type": "anime",
+  "title": "Kishuku Gakkou no Juliet",
+  "altTitle": [
+    "Kishukugakkou no Juliet",
+    "Boarding School Juliet",
+    "寄宿学校のジュリエット"
+  ],
+  "url": "https://myanimelist.net/anime/37475/Kishuku_Gakkou_no_Juliet",
+  "image": "https://cdn.myanimelist.net/images/anime/1908/93416.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.juliet-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13911"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21013"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Boarding_School_Juliet"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13911,
+  "Pages": {
+    "9anime": {
+      "36x9": {
+        "createdAt": "2020-10-12T15:49:43.000Z",
+        "updatedAt": "2022-06-14T02:31:46.000Z",
+        "checkedAt": "2022-06-14T02:31:46.000Z",
+        "id": 1732,
+        "identifier": "36x9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kishuku Gakkou no Juliet",
+        "url": "https://9anime.to/watch/boarding-school-juliet.36x9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/10/03529b1e5459c2c9765f70db25dd5ba2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37475,
+        "aniId": 101310,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kishuku-gakkou-no-juliet": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18879,
+        "identifier": "kishuku-gakkou-no-juliet",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kishuku Gakkou no Juliet",
+        "url": "https://gogoanime.vc/category/kishuku-gakkou-no-juliet",
+        "image": "https://cdnimg.xyz/cover/kishuku-gakkou-no-juliet.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37475,
+        "aniId": 101310,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2810": {
+        "identifier": "2810",
+        "malId": 37475,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kishuku Gakkou no Juliet",
+        "url": "https://animepahe.com/a/2810"
+      }
+    },
+    "AniMixPlay": {
+      "37475": {
+        "identifier": "37475",
+        "malId": 37475,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kishuku Gakkou no Juliet",
+        "url": "https://animixplay.to/anime/37475"
+      }
+    },
+    "YugenAnime": {
+      "6385": {
+        "identifier": "6385",
+        "malId": 37475,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kishuku Gakkou no Juliet",
+        "url": "https://yugen.to/anime/6385/kishuku-gakkou-no-juliet/"
+      }
+    }
+  }
+}

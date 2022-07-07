@@ -1,0 +1,174 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-13T21:31:40.000Z",
+  "checkedAt": "2022-05-13T21:31:40.000Z",
+  "id": 30,
+  "type": "anime",
+  "title": "Neon Genesis Evangelion",
+  "altTitle": [
+    "Shinseiki Evangelion",
+    "Neon Genesis Evangelion",
+    "新世紀エヴァンゲリオン"
+  ],
+  "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+  "image": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.evangelion.co.jp/ng.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=22"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=49"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/title/81033445"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 22,
+  "Pages": {
+    "9anime": {
+      "179m": {
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2022-03-12T15:00:20.000Z",
+        "checkedAt": null,
+        "id": 882,
+        "identifier": "179m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Seiki Evangelion",
+        "url": "https://9anime.to/watch/neon-genesis-evangelion.179m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/91be4f460518fd2f3ea72a7a831f2d99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30,
+        "aniId": 30,
+        "deletedAt": null
+      },
+      "qoqj": {
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8486,
+        "identifier": "qoqj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neon Genesis Evangelion (Dub v2) (Dub)",
+        "url": "https://9anime.to/watch/neon-genesis-evangelion-dub-v2-dub.qoqj",
+        "image": "https://static.akacdn.ru/files/images/2019/06/a7c6d36a6dd798a38ae9a2fcad0c852a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30,
+        "aniId": 30,
+        "deletedAt": null
+      },
+      "yk0z": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10700,
+        "identifier": "yk0z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neon Genesis Evangelion (Dub)",
+        "url": "https://9anime.to/watch/neon-genesis-evangelion-dub.yk0z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-E6OPU-6fLHE/V6WrC_vkIeI/AAAAAAAA0v0/OCskLWQcmMM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30,
+        "aniId": 30,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "neon-genesis-evangelion-": {
+        "createdAt": "2020-10-12T16:01:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19704,
+        "identifier": "neon-genesis-evangelion-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Neon Genesis Evangelion ",
+        "url": "https://gogoanime.vc/category/neon-genesis-evangelion-",
+        "image": "https://images.gogoanime.tv/images/anime/N/neon-genesis-evangelion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30,
+        "aniId": 30,
+        "deletedAt": null
+      },
+      "neon-genesis-evangelion-dub": {
+        "createdAt": "2020-10-12T16:01:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19705,
+        "identifier": "neon-genesis-evangelion-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Neon Genesis Evangelion (Dub)",
+        "url": "https://gogoanime.vc/category/neon-genesis-evangelion-dub",
+        "image": "https://cdnimg.xyz/cover/neon-genesis-evangelion-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30,
+        "aniId": 30,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "552": {
+        "identifier": "552",
+        "malId": 30,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Neon Genesis Evangelion",
+        "url": "https://animepahe.com/a/552"
+      }
+    },
+    "AniMixPlay": {
+      "30": {
+        "identifier": "30",
+        "malId": 30,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neon Genesis Evangelion",
+        "url": "https://animixplay.to/anime/30"
+      }
+    },
+    "YugenAnime": {
+      "1407": {
+        "identifier": "1407",
+        "malId": 30,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neon Genesis Evangelion",
+        "url": "https://yugen.to/anime/1407/neon-genesis-evangelion/"
+      }
+    }
+  }
+}

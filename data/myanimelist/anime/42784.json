@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-11-14T23:22:55.000Z",
+  "updatedAt": "2022-05-14T18:40:53.000Z",
+  "checkedAt": "2022-05-14T18:40:53.000Z",
+  "id": 42784,
+  "type": "anime",
+  "title": "Shu Ling Ji",
+  "altTitle": [
+    "书灵记"
+  ],
+  "url": "https://myanimelist.net/anime/42784/Shu_Ling_Ji",
+  "image": "https://cdn.myanimelist.net/images/anime/1291/109048.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E4%B9%A6%E7%81%B5%E8%AE%B0/23634143"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "8oxn": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3953,
+        "identifier": "8oxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shu Ling Ji",
+        "url": "https://9anime.to/watch/shu-ling-ji.8oxn",
+        "image": "//static.bunnycdn.ru/i/cache/images/b/bf/bfc9a3bd446c4e14030629a7927793b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 42784,
+        "aniId": 119945,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shu-ling-ji": {
+        "createdAt": "2020-11-14T23:22:56.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29225,
+        "identifier": "shu-ling-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shu Ling Ji",
+        "url": "https://gogoanime.vc/category/shu-ling-ji",
+        "image": "https://gogocdn.net/cover/shu-ling-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42784,
+        "aniId": 119945,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42784": {
+        "identifier": "42784",
+        "malId": 42784,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shu Ling Ji",
+        "url": "https://animixplay.to/anime/42784"
+      }
+    },
+    "YugenAnime": {
+      "6847": {
+        "identifier": "6847",
+        "malId": 42784,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shu Ling Ji",
+        "url": "https://yugen.to/anime/6847/shu-ling-ji/"
+      }
+    }
+  }
+}

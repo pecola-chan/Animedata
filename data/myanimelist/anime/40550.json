@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T07:03:26.000Z",
+  "checkedAt": "2022-05-14T07:03:26.000Z",
+  "id": 40550,
+  "type": "anime",
+  "title": "Assault Lily: Bouquet",
+  "altTitle": [
+    "アサルトリリィ Bouquet"
+  ],
+  "url": "https://myanimelist.net/anime/40550/Assault_Lily__Bouquet",
+  "image": "https://cdn.myanimelist.net/images/anime/1024/108413.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.assaultlily-pj.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15156"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22905"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Assault_Lily"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/assault-lily-bouquet"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15156,
+  "Pages": {
+    "9anime": {
+      "wxv6": {
+        "createdAt": "2020-10-12T15:56:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9972,
+        "identifier": "wxv6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Assault Lily: Bouquet",
+        "url": "https://9anime.to/watch/assault-lily-bouquet.wxv6",
+        "image": "//static.9anime.to/i/cache/images/2019/10/b68cda53dc68d2c290e2a531f6761eeb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40550,
+        "aniId": 112479,
+        "deletedAt": null
+      },
+      "8o43": {
+        "createdAt": "2020-10-30T14:41:36.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28234,
+        "identifier": "8o43",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Assault Lily: Bouquet (Dub)",
+        "url": "https://9anime.to/watch/assault-lily-bouquet-dub.8o43",
+        "image": "//static.9anime.to/i/cache/images/8/87/872888b1922de8a85e2ec957da33f041.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40550,
+        "aniId": 112479,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "assault-lily-bouquet": {
+        "createdAt": "2020-10-12T17:52:26.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23686,
+        "identifier": "assault-lily-bouquet",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Assault Lily: Bouquet",
+        "url": "https://gogoanime.vc/category/assault-lily-bouquet",
+        "image": "https://gogocdn.net/cover/assault-lily-bouquet.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40550,
+        "aniId": 112479,
+        "deletedAt": null
+      },
+      "assault-lily-bouquet-dub": {
+        "createdAt": "2020-10-31T04:41:01.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28258,
+        "identifier": "assault-lily-bouquet-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Assault Lily: Bouquet (Dub)",
+        "url": "https://gogoanime.vc/category/assault-lily-bouquet-dub",
+        "image": "https://gogocdn.net/cover/assault-lily-bouquet-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40550,
+        "aniId": 112479,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4087": {
+        "identifier": "4087",
+        "malId": 40550,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Assault Lily: Bouquet",
+        "url": "https://animepahe.com/a/4087"
+      }
+    },
+    "AniMixPlay": {
+      "40550": {
+        "identifier": "40550",
+        "malId": 40550,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Assault Lily: Bouquet",
+        "url": "https://animixplay.to/anime/40550"
+      }
+    },
+    "YugenAnime": {
+      "6491": {
+        "identifier": "6491",
+        "malId": 40550,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Assault Lily: Bouquet",
+        "url": "https://yugen.to/anime/6491/assault-lily-bouquet/"
+      }
+    }
+  }
+}

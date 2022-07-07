@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-14T23:48:53.000Z",
+  "checkedAt": "2022-05-14T23:48:53.000Z",
+  "id": 15961,
+  "type": "anime",
+  "title": "Shakotan★Boogie",
+  "altTitle": [
+    "シャコタン★ブギ"
+  ],
+  "url": "https://myanimelist.net/anime/15961/Shakotan★Boogie",
+  "image": "https://cdn.myanimelist.net/images/anime/8/43517.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7693"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7331"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shakotan_Boogie"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7693,
+  "Pages": {
+    "9anime": {
+      "mpq8": {
+        "createdAt": "2020-10-12T15:53:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6697,
+        "identifier": "mpq8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shakotan★Boogie",
+        "url": "https://9anime.to/watch/shakotanboogie.mpq8",
+        "image": "https://static.akacdn.ru/files/images/2018/10/1042643f2cb1d15795eb14fd2cf48c21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15961,
+        "aniId": 15961,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shakotan-boogie": {
+        "createdAt": "2021-07-28T12:51:51.000Z",
+        "updatedAt": "2021-07-28T13:21:36.000Z",
+        "checkedAt": null,
+        "id": 38054,
+        "identifier": "shakotan-boogie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shakotan Boogie",
+        "url": "https://gogoanime.pe/category/shakotan-boogie",
+        "image": "https://gogocdn.net/cover/shakotan-boogie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15961,
+        "aniId": 15961,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "15961": {
+        "identifier": "15961",
+        "malId": 15961,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shakotan★Boogie",
+        "url": "https://animixplay.to/anime/15961"
+      }
+    },
+    "YugenAnime": {
+      "2953": {
+        "identifier": "2953",
+        "malId": 15961,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shakotan★Boogie",
+        "url": "https://yugen.to/anime/2953/shakotan-boogie/"
+      }
+    }
+  }
+}

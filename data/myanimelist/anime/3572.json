@@ -1,0 +1,130 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T17:51:05.000Z",
+  "checkedAt": "2022-05-14T17:51:05.000Z",
+  "id": 3572,
+  "type": "anime",
+  "title": "Macross F",
+  "altTitle": [
+    "Macross Frontier",
+    "マクロスF（フロンティア）"
+  ],
+  "url": "https://myanimelist.net/anime/3572/Macross_F",
+  "image": "https://cdn.myanimelist.net/images/anime/9/15648.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://macross.jp/f/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5415"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8586"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Macross_Frontier"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5415,
+  "Pages": {
+    "9anime": {
+      "xm8": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10297,
+        "identifier": "xm8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross F",
+        "url": "https://9anime.to/watch/macross-f.xm8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lPY56c28Fo0/V4dex332wDI/AAAAAAAAvZI/wnbs0eHeCZg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3572,
+        "aniId": 3572,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "macross-frontier": {
+        "createdAt": "2020-10-12T16:01:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19210,
+        "identifier": "macross-frontier",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Frontier",
+        "url": "https://gogoanime.vc/category/macross-frontier",
+        "image": "https://cdnimg.xyz/images/anime/M/macross-frontier.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3572,
+        "aniId": 3572,
+        "deletedAt": null
+      },
+      "macross-frontier-sayonara-no-tsubasa": {
+        "createdAt": "2020-10-12T16:01:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19211,
+        "identifier": "macross-frontier-sayonara-no-tsubasa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Frontier: Sayonara no Tsubasa",
+        "url": "https://gogoanime.vc/category/macross-frontier-sayonara-no-tsubasa",
+        "image": "https://cdnimg.xyz/images/anime/M/Macross-Frontier-Sayonara-no-Tsubasa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3572,
+        "aniId": 3572,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "970": {
+        "identifier": "970",
+        "malId": 3572,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Macross F",
+        "url": "https://animepahe.com/a/970"
+      }
+    },
+    "AniMixPlay": {
+      "3572": {
+        "identifier": "3572",
+        "malId": 3572,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Macross F",
+        "url": "https://animixplay.to/anime/3572"
+      }
+    },
+    "YugenAnime": {
+      "1665": {
+        "identifier": "1665",
+        "malId": 3572,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Macross F",
+        "url": "https://yugen.to/anime/1665/macross-frontier/"
+      }
+    }
+  }
+}

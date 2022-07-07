@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:00:29.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17824,
+  "identifier": "gegege-no-kitarou-nippon-bakuretsu",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gegege no Kitarou: Nippon Bakuretsu!!",
+  "url": "https://gogoanime.vc/category/gegege-no-kitarou-nippon-bakuretsu",
+  "image": "https://cdnimg.xyz/images/anime/G/Gegege-no-Kitarou-Nippon-Bakuretsu.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8145,
+  "aniId": 8145,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:58.000Z",
+    "updatedAt": "2022-05-14T22:55:05.000Z",
+    "checkedAt": "2022-05-14T22:55:05.000Z",
+    "id": 8145,
+    "type": "anime",
+    "title": "Gegege no Kitarou: Nippon Bakuretsu",
+    "altTitle": [
+      "Spooky Kitaro: Japan Explodes!!",
+      "劇場版 ゲゲゲの鬼太郎 日本爆裂!!"
+    ],
+    "url": "https://myanimelist.net/anime/8145/Gegege_no_Kitarou__Nippon_Bakuretsu",
+    "image": "https://cdn.myanimelist.net/images/anime/8/20485.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kitaro.cx/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7163"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9865"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7163
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:53.000Z",
+    "updatedAt": "2022-05-15T22:04:47.000Z",
+    "checkedAt": "2022-05-15T22:04:47.000Z",
+    "id": 8145,
+    "type": "anime",
+    "title": "Gegege no Kitarou: Nippon Bakuretsu",
+    "altTitle": [
+      "Spooky Kitaro: Japan Explodes!!",
+      "劇場版 ゲゲゲの鬼太郎 日本爆裂!!"
+    ],
+    "url": "https://anilist.co/anime/8145",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8145.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8145,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-14T22:04:46.000Z",
+  "checkedAt": "2022-05-14T22:04:46.000Z",
+  "id": 7261,
+  "type": "anime",
+  "title": "Mameshiba",
+  "altTitle": [
+    "豆しば"
+  ],
+  "url": "https://myanimelist.net/anime/7261/Mameshiba",
+  "image": "https://cdn.myanimelist.net/images/anime/5/63601.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dogatch.jp/mameshibaworld/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9829"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B1%86%E3%81%97%E3%81%B0"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9829,
+  "Pages": {
+    "9anime": {
+      "l9w3": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5980,
+        "identifier": "l9w3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mameshiba",
+        "url": "https://9anime.to/watch/mameshiba.l9w3",
+        "image": "https://static.akacdn.ru/files/images/2018/04/61137bfe9e08d5d0fdb1d97ff3aa62e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7261,
+        "aniId": 7261,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7261": {
+        "identifier": "7261",
+        "malId": 7261,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mameshiba",
+        "url": "https://animixplay.to/anime/7261"
+      }
+    }
+  }
+}

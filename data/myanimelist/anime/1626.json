@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T18:48:05.000Z",
+  "checkedAt": "2022-05-14T18:48:05.000Z",
+  "id": 1626,
+  "type": "anime",
+  "title": "Genma Taisen",
+  "altTitle": [
+    "Ghenma Wars",
+    "Great War with Genma",
+    "Harmagedon",
+    "幻魔大戦"
+  ],
+  "url": "https://myanimelist.net/anime/1626/Genma_Taisen",
+  "image": "https://cdn.myanimelist.net/images/anime/1482/97116.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1986-1983/works_movie_genma.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1472"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=678"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Genma_Taisen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1472,
+  "Pages": {
+    "9anime": {
+      "0ok5": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 601,
+        "identifier": "0ok5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Genma Taisen",
+        "url": "https://9anime.to/watch/genma-taisen.0ok5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zbzicxRDlGE/WAuGCGGaKiI/AAAAAAABKSw/vqXy9Yd9LfA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1626,
+        "aniId": 1626,
+        "deletedAt": null
+      },
+      "zq7m": {
+        "createdAt": "2020-10-12T15:57:15.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11267,
+        "identifier": "zq7m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Genma Taisen (Dub)",
+        "url": "https://9anime.to/watch/genma-taisen-dub.zq7m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zHhqYuGrot0/WAuFxbe-9PI/AAAAAAABKSs/R9pbChWQFOc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1626,
+        "aniId": 1626,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "harmagedon-dub": {
+        "createdAt": "2020-10-29T08:10:41.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28166,
+        "identifier": "harmagedon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Harmagedon (Dub)",
+        "url": "https://gogoanime.vc/category/harmagedon-dub",
+        "image": "https://gogocdn.net/cover/harmagedon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1626,
+        "aniId": 1626,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1626": {
+        "identifier": "1626",
+        "malId": 1626,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Genma Taisen",
+        "url": "https://animixplay.to/anime/1626"
+      }
+    },
+    "YugenAnime": {
+      "3228": {
+        "identifier": "3228",
+        "malId": 1626,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Genma Taisen",
+        "url": "https://yugen.to/anime/3228/genma-taisen/"
+      }
+    }
+  }
+}

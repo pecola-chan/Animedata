@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T16:01:30.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19896,
+  "identifier": "onmyou-taisenki",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Onmyou Taisenki",
+  "url": "https://gogoanime.vc/category/onmyou-taisenki",
+  "image": "https://gogocdn.net/images/anime/O/onmyou-taisenki.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 613,
+  "aniId": 613,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T18:42:47.000Z",
+    "checkedAt": "2022-05-14T18:42:47.000Z",
+    "id": 613,
+    "type": "anime",
+    "title": "Onmyou Taisenki",
+    "altTitle": [
+      "Onmyou Tai Senki",
+      "The Chronicle of the Big Battle between Yin and Yang",
+      "陰陽大戦記"
+    ],
+    "url": "https://myanimelist.net/anime/613/Onmyou_Taisenki",
+    "image": "https://cdn.myanimelist.net/images/anime/1971/100952.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.onmyoutaisenki.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2512"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4498"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Onmy%C5%8D_Taisenki"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2512
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-15T20:24:11.000Z",
+    "checkedAt": "2022-05-15T20:24:11.000Z",
+    "id": 613,
+    "type": "anime",
+    "title": "Onmyou Tai Senki",
+    "altTitle": [
+      "陰陽大戦記",
+      "Onmyou Taisenki",
+      "The Chronicle of the Big Battle between Yin and Yang"
+    ],
+    "url": "https://anilist.co/anime/613",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/613.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 613,
+    "deletedAt": null
+  }
+}

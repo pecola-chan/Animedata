@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T22:07:58.000Z",
+  "checkedAt": "2022-05-14T22:07:58.000Z",
+  "id": 1762,
+  "type": "anime",
+  "title": "Arslan Senki",
+  "altTitle": [
+    "The Heroic Legend of Arslan",
+    "アルスラーン戦記"
+  ],
+  "url": "https://myanimelist.net/anime/1762/Arslan_Senki",
+  "image": "https://cdn.myanimelist.net/images/anime/10/22254.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=519"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=758"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Heroic_Legend_of_Arslan"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/the-heroic-legend-of-arslan"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 519,
+  "Pages": {
+    "9anime": {
+      "88vn": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3841,
+        "identifier": "88vn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Heroic Legend of Arslan",
+        "url": "https://9anime.to/watch/arslan-senki.88vn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lirYWG0Tc3o/WQHmW33lrhI/AAAAAAAAktU/kEOMhtLh4ksOFjd653cmzuYgI4_MAGjugCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1762,
+        "aniId": 1762,
+        "deletedAt": null
+      },
+      "99w0": {
+        "createdAt": "2020-10-12T15:51:46.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4287,
+        "identifier": "99w0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Heroic Legend of Arslan (Dub)",
+        "url": "https://9anime.to/watch/arslan-senki-dub.99w0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-924CrSRopt8/WQHmaUG0wxI/AAAAAAAAktY/YWxF2uTolBs7JZYR-o2RubzbxGm3Q61kQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1762,
+        "aniId": 1762,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3400": {
+        "identifier": "3400",
+        "malId": 1762,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Arslan Senki",
+        "url": "https://animepahe.com/a/3400"
+      }
+    },
+    "YugenAnime": {
+      "11279": {
+        "identifier": "11279",
+        "malId": 1762,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Arslan Senki",
+        "url": "https://yugen.to/anime/11279/mulan-ii/"
+      }
+    }
+  }
+}

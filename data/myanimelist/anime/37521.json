@@ -1,0 +1,167 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-13T20:08:02.000Z",
+  "checkedAt": "2022-05-13T20:08:02.000Z",
+  "id": 37521,
+  "type": "anime",
+  "title": "Vinland Saga",
+  "altTitle": [
+    "ヴィンランド・サガ"
+  ],
+  "url": "https://myanimelist.net/anime/37521/Vinland_Saga",
+  "image": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://vinlandsaga.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13945"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20778"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B5%E3%82%AC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13945,
+  "Pages": {
+    "9anime": {
+      "77zy": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2022-06-13T23:30:17.000Z",
+        "checkedAt": "2022-06-13T23:30:17.000Z",
+        "id": 3390,
+        "identifier": "77zy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vinland Saga",
+        "url": "https://9anime.to/watch/vinland-saga.77zy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/07/cb5e9f82c036777efb6baf736fa61243.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37521,
+        "aniId": 101348,
+        "deletedAt": null
+      },
+      "jvn03": {
+        "createdAt": "2021-07-23T18:23:09.000Z",
+        "updatedAt": "2022-02-12T20:11:39.000Z",
+        "checkedAt": null,
+        "id": 38002,
+        "identifier": "jvn03",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vinland Saga (Dub)",
+        "url": "https://9anime.to/watch/vinland-saga-dub.jvn03",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/ea/ea500890beb653c255c66e494c8383eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37521,
+        "aniId": 101348,
+        "deletedAt": null
+      },
+      "7jmv8": {
+        "createdAt": "2021-09-10T13:35:33.000Z",
+        "updatedAt": "2021-09-10T14:04:33.000Z",
+        "checkedAt": null,
+        "id": 38595,
+        "identifier": "7jmv8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vinland Saga (Sentai) (Dub)",
+        "url": "https://9anime.to/watch/vinland-saga-sentai-dub.7jmv8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b7/b73a561de24cee6c2929e23a6bac7074.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37521,
+        "aniId": 101348,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "vinland-saga": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21368,
+        "identifier": "vinland-saga",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vinland Saga",
+        "url": "https://gogoanime.vc/category/vinland-saga",
+        "image": "https://cdnimg.xyz/cover/vinland-saga.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37521,
+        "aniId": 101348,
+        "deletedAt": null
+      },
+      "vinland-saga-dub": {
+        "createdAt": "2021-07-24T16:22:38.000Z",
+        "updatedAt": "2021-07-24T16:51:33.000Z",
+        "checkedAt": null,
+        "id": 38012,
+        "identifier": "vinland-saga-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vinland Saga (Dub)",
+        "url": "https://gogoanime.pe/category/vinland-saga-dub",
+        "image": "https://gogocdn.net/cover/vinland-saga-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37521,
+        "aniId": 101348,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3334": {
+        "identifier": "3334",
+        "malId": 37521,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Vinland Saga",
+        "url": "https://animepahe.com/a/3334"
+      }
+    },
+    "AniMixPlay": {
+      "37521": {
+        "identifier": "37521",
+        "malId": 37521,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vinland Saga",
+        "url": "https://animixplay.to/anime/37521"
+      }
+    },
+    "YugenAnime": {
+      "2739": {
+        "identifier": "2739",
+        "malId": 37521,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Vinland Saga",
+        "url": "https://yugen.to/anime/2739/vinland-saga/"
+      }
+    }
+  }
+}

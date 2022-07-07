@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T16:20:47.000Z",
+  "checkedAt": "2022-05-14T16:20:47.000Z",
+  "id": 11013,
+  "type": "anime",
+  "title": "Inu x Boku SS",
+  "altTitle": [
+    "Youko x Boku SS",
+    "Inu X Boku Secret Service",
+    "妖狐×僕SS"
+  ],
+  "url": "https://myanimelist.net/anime/11013/Inu_x_Boku_SS",
+  "image": "https://cdn.myanimelist.net/images/anime/1760/98794.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.inuboku.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8564"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13250"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Inu_x_Boku_SS"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8564,
+  "Pages": {
+    "9anime": {
+      "p824": {
+        "createdAt": "2020-10-12T15:54:35.000Z",
+        "updatedAt": "2022-06-14T02:31:04.000Z",
+        "checkedAt": "2022-06-14T02:31:04.000Z",
+        "id": 7917,
+        "identifier": "p824",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inu x Boku SS (Dub)",
+        "url": "https://9anime.to/watch/inu-x-boku-secret-service-dub.p824",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/fb1824d6f4886480a8f3fad7c61318b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11013,
+        "aniId": 11013,
+        "deletedAt": null
+      },
+      "zjw": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11144,
+        "identifier": "zjw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inu x Boku SS",
+        "url": "https://9anime.to/watch/inu-x-boku-ss.zjw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-auYHjEaFCzU/V4PCdMUVbqI/AAAAAAAAu0E/y4yRJP7wak8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11013,
+        "aniId": 11013,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "inu-x-boku-ss": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2022-03-15T22:30:03.000Z",
+        "checkedAt": null,
+        "id": 18495,
+        "identifier": "inu-x-boku-ss",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inu x Boku SS",
+        "url": "https://gogoanime.fi/category/inu-x-boku-ss",
+        "image": "https://gogocdn.net/cover/inu-x-boku-ss.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11013,
+        "aniId": 11013,
+        "deletedAt": null
+      },
+      "inu-x-boku-ss-dub": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18496,
+        "identifier": "inu-x-boku-ss-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inu x Boku SS (Dub)",
+        "url": "https://gogoanime.vc/category/inu-x-boku-ss-dub",
+        "image": "https://cdnimg.xyz/cover/inu-x-boku-ss-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11013,
+        "aniId": 11013,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "143": {
+        "identifier": "143",
+        "malId": 11013,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Inu x Boku SS",
+        "url": "https://animepahe.com/a/143"
+      }
+    },
+    "AniMixPlay": {
+      "11013": {
+        "identifier": "11013",
+        "malId": 11013,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Inu x Boku SS",
+        "url": "https://animixplay.to/anime/11013"
+      }
+    },
+    "YugenAnime": {
+      "2839": {
+        "identifier": "2839",
+        "malId": 11013,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Inu x Boku SS",
+        "url": "https://yugen.to/anime/2839/inu-x-boku-ss/"
+      }
+    }
+  }
+}

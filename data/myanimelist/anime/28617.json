@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2022-05-14T16:17:08.000Z",
+  "checkedAt": "2022-05-14T16:17:08.000Z",
+  "id": 28617,
+  "type": "anime",
+  "title": "Punch Line",
+  "altTitle": [
+    "Punchline",
+    "Punch Line",
+    "パンチライン"
+  ],
+  "url": "https://myanimelist.net/anime/28617/Punch_Line",
+  "image": "https://cdn.myanimelist.net/images/anime/12/73121.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.punchline.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10948"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16579"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Punch_Line_%28anime%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265667"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/punch-line"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10948,
+  "Pages": {
+    "9anime": {
+      "n398": {
+        "createdAt": "2020-10-12T15:53:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6917,
+        "identifier": "n398",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Punch Line",
+        "url": "https://9anime.to/watch/punch-line.n398",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--HVRYLTsSOM/V5A3iTG4w7I/AAAAAAAAwtg/hxymzshjzBQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28617,
+        "aniId": 20964,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "punchline": {
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20189,
+        "identifier": "punchline",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Punchline",
+        "url": "https://gogoanime.vc/category/punchline",
+        "image": "https://cdnimg.xyz/images/upload/164994.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28617,
+        "aniId": 20964,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "778": {
+        "identifier": "778",
+        "malId": 28617,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Punch Line",
+        "url": "https://animepahe.com/a/778"
+      }
+    },
+    "AniMixPlay": {
+      "28617": {
+        "identifier": "28617",
+        "malId": 28617,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Punch Line",
+        "url": "https://animixplay.to/anime/28617"
+      }
+    },
+    "YugenAnime": {
+      "821": {
+        "identifier": "821",
+        "malId": 28617,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Punch Line",
+        "url": "https://yugen.to/anime/821/punchline/"
+      }
+    }
+  }
+}

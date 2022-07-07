@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T22:56:17.000Z",
+  "checkedAt": "2022-05-14T22:56:17.000Z",
+  "id": 4033,
+  "type": "anime",
+  "title": "The iDOLM@STER Live For You!",
+  "altTitle": [
+    "The Idolmaster Live For You!",
+    "THE IDOLM@STER Live For You!",
+    "アイドルマスター ライブフォーユー!"
+  ],
+  "url": "https://myanimelist.net/anime/4033/The_iDOLMSTER_Live_For_You",
+  "image": "https://cdn.myanimelist.net/images/anime/11/39771.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.idolmaster.jp/l4u/top.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5751"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11323"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Idolmaster_Live_For_You!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5751,
+  "Pages": {
+    "9anime": {
+      "14jx": {
+        "createdAt": "2020-10-12T15:49:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 836,
+        "identifier": "14jx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The iDOLM@STER Live For You!",
+        "url": "https://9anime.to/watch/the-idolmatster-live-for-you.14jx",
+        "image": "//static.9anime.to/i/cache/images/2018/04/8f6f3609c16bddc14d5b0f3d11465799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 4033,
+        "aniId": 4033,
+        "deletedAt": null
+      }
+    }
+  }
+}

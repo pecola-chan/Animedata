@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T23:17:17.000Z",
+  "checkedAt": "2022-05-14T23:17:17.000Z",
+  "id": 1597,
+  "type": "anime",
+  "title": "Panyo Panyo Di Gi Charat",
+  "altTitle": [
+    "Di Gi Charat Panyo Panyo",
+    "DiGi Charat Panyo Panyo",
+    "ぱにょぱにょ　デ・ジ・キャラット"
+  ],
+  "url": "https://myanimelist.net/anime/1597/Panyo_Panyo_Di_Gi_Charat",
+  "image": "https://cdn.myanimelist.net/images/anime/1970/97598.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.broccoli.co.jp/dejiko/panyo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=645"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=838"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Panyo_Panyo_Di_Gi_Charat"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 645,
+  "Pages": {
+    "9anime": {
+      "rooy": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8943,
+        "identifier": "rooy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Panyo Panyo Di Gi Charat (Dub)",
+        "url": "https://9anime.to/watch/panyo-panyo-di-gi-charat-dub.rooy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eIkKETPNydk/V7aUZkTuZeI/AAAAAAAA4MQ/9wdGLwM3KaE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1597,
+        "aniId": 1597,
+        "deletedAt": null
+      },
+      "y30p": {
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10523,
+        "identifier": "y30p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Panyo Panyo Di Gi Charat",
+        "url": "https://9anime.to/watch/panyo-panyo-di-gi-charat.y30p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8sshoCwA1KM/WPRx0KJc-rI/AAAAAAAAiOc/XYPfrPgS2ds/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1597,
+        "aniId": 1597,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1597": {
+        "identifier": "1597",
+        "malId": 1597,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Panyo Panyo Di Gi Charat",
+        "url": "https://animixplay.to/anime/1597"
+      }
+    },
+    "YugenAnime": {
+      "5610": {
+        "identifier": "5610",
+        "malId": 1597,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Panyo Panyo Di Gi Charat",
+        "url": "https://yugen.to/anime/5610/panyo-panyo-di-gi-charat/"
+      }
+    }
+  }
+}

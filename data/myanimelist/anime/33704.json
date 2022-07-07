@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-27T06:22:21.000Z",
+  "checkedAt": "2022-05-27T06:22:21.000Z",
+  "id": 33704,
+  "type": "anime",
+  "title": "AOTU Shijie",
+  "altTitle": [
+    "AOTU World",
+    "凹凸世界"
+  ],
+  "url": "https://myanimelist.net/anime/33704/AOTU_Shijie",
+  "image": "https://cdn.myanimelist.net/images/anime/5/81494.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13470"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13470,
+  "Pages": {
+    "Gogoanime": {
+      "yi-shijie-zhongyao-pu": {
+        "createdAt": "2020-10-12T16:02:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21536,
+        "identifier": "yi-shijie-zhongyao-pu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yi Shijie Zhongyao Pu",
+        "url": "https://gogoanime.vc/category/yi-shijie-zhongyao-pu",
+        "image": "https://gogocdn.net/cover/yi-shijie-zhongyao-pu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33704,
+        "aniId": 103161,
+        "deletedAt": null
+      },
+      "aotu-shijie": {
+        "createdAt": "2021-08-24T04:07:27.000Z",
+        "updatedAt": "2021-08-24T04:36:33.000Z",
+        "checkedAt": null,
+        "id": 38417,
+        "identifier": "aotu-shijie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "AOTU Shijie",
+        "url": "https://gogoanime.pe/category/aotu-shijie",
+        "image": "https://gogocdn.net/cover/aotu-shijie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33704,
+        "aniId": 103161,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "yq1xj": {
+        "createdAt": "2021-08-23T18:37:24.000Z",
+        "updatedAt": "2021-08-23T19:06:33.000Z",
+        "checkedAt": null,
+        "id": 38415,
+        "identifier": "yq1xj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AOTU Shijie",
+        "url": "https://9anime.to/watch/aotu-shijie.yq1xj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5b/5ba9f8ffcefeb39008da7656a2a8831a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33704,
+        "aniId": 103161,
+        "deletedAt": null
+      },
+      "prjn9": {
+        "createdAt": "2022-06-26T13:30:15.500Z",
+        "updatedAt": "2022-06-26T14:20:00.000Z",
+        "checkedAt": "2022-06-26T13:30:15.000Z",
+        "id": 41241,
+        "identifier": "prjn9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AOTU Shijie 4",
+        "url": "https://9anime.to/watch/aotu-shijie-4.prjn9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2d/2d595b6bac9510dcb21f219bf55ab433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33704,
+        "aniId": 103161,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33704": {
+        "identifier": "33704",
+        "malId": 33704,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "AOTU Shijie",
+        "url": "https://animixplay.to/anime/33704"
+      }
+    },
+    "YugenAnime": {
+      "9672": {
+        "identifier": "9672",
+        "malId": 33704,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "AOTU Shijie",
+        "url": "https://yugen.to/anime/9672/aotu-shijie/"
+      }
+    }
+  }
+}

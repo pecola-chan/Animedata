@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-15T09:08:27.000Z",
+  "checkedAt": "2022-05-15T09:08:27.000Z",
+  "id": 3006,
+  "type": "anime",
+  "title": "Atashin'chi",
+  "altTitle": [
+    "Atashinchi",
+    "My Family",
+    "あたしンち"
+  ],
+  "url": "https://myanimelist.net/anime/3006/Atashinchi",
+  "image": "https://cdn.myanimelist.net/images/anime/8/50895.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shin-ei-animation.jp/atashinchi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=325"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1185"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Atashin%27chi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 325,
+  "Pages": {
+    "9anime": {
+      "rqzq": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8993,
+        "identifier": "rqzq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Atashin'chi",
+        "url": "https://9anime.to/watch/atashinchi.rqzq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ag_e9Vhzb1k/WMVinKvC5nI/AAAAAAABfbY/ZqAcU8A0cUQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3006,
+        "aniId": 3006,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "9543": {
+        "identifier": "9543",
+        "malId": 3006,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Atashin'chi",
+        "url": "https://yugen.to/anime/9543/tashi/"
+      }
+    }
+  }
+}

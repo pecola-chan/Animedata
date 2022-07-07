@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T16:47:37.000Z",
+  "checkedAt": "2022-05-14T16:47:37.000Z",
+  "id": 5507,
+  "type": "anime",
+  "title": "Senjou no Valkyria",
+  "altTitle": [
+    "Battlefield Valkyria: Gallian Chronicles",
+    "Valkyria Chronicles",
+    "戦場のヴァルキュリア"
+  ],
+  "url": "https://myanimelist.net/anime/5507/Senjou_no_Valkyria",
+  "image": "https://cdn.myanimelist.net/images/anime/6/53901.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.valkyria-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6244"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10416"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Valkyrie_of_the_Battlefield"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6244,
+  "Pages": {
+    "9anime": {
+      "4jqm": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2022-06-14T05:31:01.000Z",
+        "checkedAt": "2022-06-14T05:31:01.000Z",
+        "id": 2233,
+        "identifier": "4jqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senjou no Valkyria: Gallian Chronicles",
+        "url": "https://9anime.to/watch/valkyria-chronicles.4jqm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/fd180606356e6830b13cb71470493466.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5507,
+        "aniId": 5507,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "senjou-no-valkyria-": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20512,
+        "identifier": "senjou-no-valkyria-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senjou no Valkyria ",
+        "url": "https://gogoanime.vc/category/senjou-no-valkyria-",
+        "image": "https://gogocdn.net/images/anime/S/senjou-no-valkyria.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5507,
+        "aniId": 5507,
+        "deletedAt": null
+      },
+      "valkyria-chronicles": {
+        "createdAt": "2020-12-22T14:27:13.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30845,
+        "identifier": "valkyria-chronicles",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Valkyria Chronicles",
+        "url": "https://gogoanime.vc/category/valkyria-chronicles",
+        "image": "https://gogocdn.net/images/anime/V/valkyria-chronicles.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5507,
+        "aniId": 5507,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "114": {
+        "identifier": "114",
+        "malId": 5507,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Senjou no Valkyria",
+        "url": "https://animepahe.com/a/114"
+      }
+    },
+    "AniMixPlay": {
+      "5507": {
+        "identifier": "5507",
+        "malId": 5507,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Senjou no Valkyria",
+        "url": "https://animixplay.to/anime/5507"
+      }
+    },
+    "YugenAnime": {
+      "2470": {
+        "identifier": "2470",
+        "malId": 5507,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Senjou no Valkyria",
+        "url": "https://yugen.to/anime/2470/senjou-no-valkyria/"
+      }
+    }
+  }
+}

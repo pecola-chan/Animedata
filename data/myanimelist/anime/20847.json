@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T16:25:32.000Z",
+  "checkedAt": "2022-05-14T16:25:32.000Z",
+  "id": 20847,
+  "type": "anime",
+  "title": "Seitokai Yakuindomo*",
+  "altTitle": [
+    "Seitokai Yakuindomo 2",
+    "SYD*",
+    "生徒会役員共＊"
+  ],
+  "url": "https://myanimelist.net/anime/20847/Seitokai_Yakuindomo",
+  "image": "https://cdn.myanimelist.net/images/anime/9/56941.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/seitokai/top.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10197"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15694"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Seitokai_Yakuindomo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10197,
+  "Pages": {
+    "9anime": {
+      "nknn": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7093,
+        "identifier": "nknn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seitokai Yakuindomo*",
+        "url": "https://9anime.to/watch/seitokai-yakuindomo.nknn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_Wufb0IDgas/V7SG3mA1KII/AAAAAAAA30o/xokEzk8-t0w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20847,
+        "aniId": 20448,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seitokai-yakuindomo-2": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20480,
+        "identifier": "seitokai-yakuindomo-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seitokai Yakuindomo 2",
+        "url": "https://gogoanime.vc/category/seitokai-yakuindomo-2",
+        "image": "https://cdnimg.xyz/images/Seitokai-Yakuindomo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20847,
+        "aniId": 20448,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1527": {
+        "identifier": "1527",
+        "malId": 20847,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seitokai Yakuindomo*",
+        "url": "https://animepahe.com/a/1527"
+      }
+    },
+    "AniMixPlay": {
+      "20847": {
+        "identifier": "20847",
+        "malId": 20847,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seitokai Yakuindomo*",
+        "url": "https://animixplay.to/anime/20847"
+      }
+    },
+    "YugenAnime": {
+      "6535": {
+        "identifier": "6535",
+        "malId": 20847,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seitokai Yakuindomo*",
+        "url": "https://yugen.to/anime/6535/seitokai-yakuindomo-2/"
+      }
+    }
+  }
+}

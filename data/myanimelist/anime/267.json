@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T16:34:14.000Z",
+  "checkedAt": "2022-05-14T16:34:14.000Z",
+  "id": 267,
+  "type": "anime",
+  "title": "Gungrave",
+  "altTitle": [
+    "Gungrave",
+    "ガングレイヴ"
+  ],
+  "url": "https://myanimelist.net/anime/267/Gungrave",
+  "image": "https://cdn.myanimelist.net/images/anime/11/75724.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jvcmusic.co.jp/m-serve/tv/gungrave/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1003"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2635"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gungrave_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273843"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/gungrave"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1003,
+  "Pages": {
+    "9anime": {
+      "9j18": {
+        "createdAt": "2020-10-12T15:51:46.000Z",
+        "updatedAt": "2022-06-13T21:30:57.000Z",
+        "checkedAt": "2022-06-13T21:30:57.000Z",
+        "id": 4292,
+        "identifier": "9j18",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gungrave",
+        "url": "https://9anime.to/watch/gungrave.9j18",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b0b3e8d0f451a61ab397e6edcd335b47.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 267,
+        "aniId": 267,
+        "deletedAt": null
+      },
+      "p8k9": {
+        "createdAt": "2020-10-12T15:54:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7926,
+        "identifier": "p8k9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gungrave (Dub)",
+        "url": "https://9anime.to/watch/gungrave-dub.p8k9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-r7AtX62A5EU/V-yVIaiMLOI/AAAAAAABCGI/XzoPam0WC6U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 267,
+        "aniId": 267,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gungrave": {
+        "createdAt": "2020-10-12T16:00:36.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18047,
+        "identifier": "gungrave",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "GunGrave",
+        "url": "https://gogoanime.vc/category/gungrave",
+        "image": "https://cdnimg.xyz/images/anime/G/gungrave.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 267,
+        "aniId": 267,
+        "deletedAt": null
+      },
+      "gungrave-dub": {
+        "createdAt": "2021-10-14T06:28:45.000Z",
+        "updatedAt": "2021-10-14T06:58:44.000Z",
+        "checkedAt": null,
+        "id": 39006,
+        "identifier": "gungrave-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gungrave (Dub)",
+        "url": "https://gogoanime.pe/category/gungrave-dub",
+        "image": "https://gogocdn.net/cover/gungrave-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 267,
+        "aniId": 267,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "333": {
+        "identifier": "333",
+        "malId": 267,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gungrave",
+        "url": "https://animepahe.com/a/333"
+      }
+    },
+    "AniMixPlay": {
+      "267": {
+        "identifier": "267",
+        "malId": 267,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gungrave",
+        "url": "https://animixplay.to/anime/267"
+      }
+    },
+    "YugenAnime": {
+      "497": {
+        "identifier": "497",
+        "malId": 267,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gungrave",
+        "url": "https://yugen.to/anime/497/gungrave/"
+      }
+    }
+  }
+}

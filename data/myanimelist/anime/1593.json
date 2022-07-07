@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T09:57:09.000Z",
+  "checkedAt": "2022-05-14T09:57:09.000Z",
+  "id": 1593,
+  "type": "anime",
+  "title": "Azumanga Web Daioh",
+  "altTitle": [
+    "Azumanga Web Diaoh",
+    "Azumanga Daioh - Web Daioh",
+    "Azumanga Diaoh - Web Diaoh",
+    "Azumanga Web Daioh",
+    "あずまんがWEB大王"
+  ],
+  "url": "https://myanimelist.net/anime/1593/Azumanga_Web_Daioh",
+  "image": "https://cdn.myanimelist.net/images/anime/3/59967.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8792"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2255"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Azumanga"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8792,
+  "Pages": {
+    "9anime": {
+      "jr44": {
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5007,
+        "identifier": "jr44",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Azumanga Web Daioh",
+        "url": "https://9anime.to/watch/azumanga-web-daioh.jr44",
+        "image": "https://static.akacdn.ru/files/images/2020/07/51bc7fef29b51796a2764bbb1608d5d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1593,
+        "aniId": 1593,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3139": {
+        "identifier": "3139",
+        "malId": 1593,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Azumanga Web Daioh",
+        "url": "https://animepahe.com/a/3139"
+      }
+    },
+    "AniMixPlay": {
+      "1593": {
+        "identifier": "1593",
+        "malId": 1593,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Azumanga Web Daioh",
+        "url": "https://animixplay.to/anime/1593"
+      }
+    }
+  }
+}

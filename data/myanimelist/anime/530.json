@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-13T20:04:29.000Z",
+  "checkedAt": "2022-05-13T20:04:29.000Z",
+  "id": 530,
+  "type": "anime",
+  "title": "Bishoujo Senshi Sailor Moon",
+  "altTitle": [
+    "Pretty Soldier Sailor Moon",
+    "Sailor Moon",
+    "美少女戦士セーラームーン"
+  ],
+  "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+  "image": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_moon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=235"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=363"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sailor_Moon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 235,
+  "Pages": {
+    "9anime": {
+      "0o85": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 599,
+        "identifier": "0o85",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishoujo Senshi Sailor Moon",
+        "url": "https://9anime.to/watch/bishoujo-senshi-sailor-moon.0o85",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-t_GbrOkQe7g/WAoVYWOCsxI/AAAAAAABJ5M/ZU6chbT9M5o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 530,
+        "aniId": 530,
+        "deletedAt": null
+      },
+      "52v0": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2492,
+        "identifier": "52v0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishoujo Senshi Sailor Moon (Dub)",
+        "url": "https://9anime.to/watch/bishoujo-senshi-sailor-moon-dub.52v0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9BEvaWpTwe0/V5C-NLPmuOI/AAAAAAAAw7M/3XLOAfzUUf0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 530,
+        "aniId": 530,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sailor-moon-": {
+        "createdAt": "2020-10-12T16:01:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20372,
+        "identifier": "sailor-moon-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sailor Moon ",
+        "url": "https://gogoanime.vc/category/sailor-moon-",
+        "image": "https://cdnimg.xyz/images/anime/S/sailor-moon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 530,
+        "aniId": 530,
+        "deletedAt": null
+      },
+      "sailor-moon-dub": {
+        "createdAt": "2020-10-12T16:01:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20374,
+        "identifier": "sailor-moon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sailor Moon (Dub)",
+        "url": "https://gogoanime.vc/category/sailor-moon-dub",
+        "image": "https://cdnimg.xyz/cover/sailor-moon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 530,
+        "aniId": 530,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4470": {
+        "identifier": "4470",
+        "malId": 530,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishoujo Senshi Sailor Moon",
+        "url": "https://animepahe.com/a/4470"
+      }
+    },
+    "AniMixPlay": {
+      "530": {
+        "identifier": "530",
+        "malId": 530,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bishoujo Senshi Sailor Moon",
+        "url": "https://animixplay.to/anime/530"
+      }
+    },
+    "YugenAnime": {
+      "2137": {
+        "identifier": "2137",
+        "malId": 530,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bishoujo Senshi Sailor Moon",
+        "url": "https://yugen.to/anime/2137/sailor-moon/"
+      }
+    }
+  }
+}

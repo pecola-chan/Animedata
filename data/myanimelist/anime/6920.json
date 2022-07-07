@@ -1,0 +1,130 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T18:57:05.000Z",
+  "checkedAt": "2022-05-14T18:57:05.000Z",
+  "id": 6920,
+  "type": "anime",
+  "title": "Blade",
+  "altTitle": [
+    "Blade",
+    "ブレイド"
+  ],
+  "url": "https://myanimelist.net/anime/6920/Blade",
+  "image": "https://cdn.myanimelist.net/images/anime/1945/103220.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.animax.co.jp/marvelanime/blade/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8162"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12367"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Marvel_Anime#Blade"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8162,
+  "Pages": {
+    "9anime": {
+      "v757": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9273,
+        "identifier": "v757",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blade",
+        "url": "https://9anime.to/watch/blade.v757",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7cF9p7g2plo/V8bSQvP6SuI/AAAAAAAA60I/-_RtIuoVPu4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6920,
+        "aniId": 6920,
+        "deletedAt": null
+      },
+      "wwo6": {
+        "createdAt": "2020-10-12T15:56:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9946,
+        "identifier": "wwo6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blade (Dub)",
+        "url": "https://9anime.to/watch/blade-dub.wwo6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GD2JBNsfQ5A/V8bTuE0laFI/AAAAAAAA60U/GtyIDZ7ZtL8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6920,
+        "aniId": 6920,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blade": {
+        "createdAt": "2020-10-12T16:00:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16842,
+        "identifier": "blade",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blade",
+        "url": "https://gogoanime.vc/category/blade",
+        "image": "https://cdnimg.xyz/images/anime/B/blade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6920,
+        "aniId": 6920,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1748": {
+        "identifier": "1748",
+        "malId": 6920,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Blade",
+        "url": "https://animepahe.com/a/1748"
+      }
+    },
+    "AniMixPlay": {
+      "6920": {
+        "identifier": "6920",
+        "malId": 6920,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Blade",
+        "url": "https://animixplay.to/anime/6920"
+      }
+    },
+    "YugenAnime": {
+      "80": {
+        "identifier": "80",
+        "malId": 6920,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Blade",
+        "url": "https://yugen.to/anime/80/blade/"
+      }
+    }
+  }
+}

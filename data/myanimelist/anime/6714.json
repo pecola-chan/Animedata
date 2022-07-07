@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T22:55:29.000Z",
+  "checkedAt": "2022-05-14T22:55:29.000Z",
+  "id": 6714,
+  "type": "anime",
+  "title": "Dragon Ball Z: Atsumare! Gokuu World",
+  "altTitle": [
+    "Dragon Ball Z: Atsumare! Goku's World",
+    "Dragon Ball Z OVA",
+    "ドラゴンボールZ あつまれ! 悟空ワールド"
+  ],
+  "url": "https://myanimelist.net/anime/6714/Dragon_Ball_Z__Atsumare_Gokuu_World",
+  "image": "https://cdn.myanimelist.net/images/anime/2/55203.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6540"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6540,
+  "Pages": {
+    "9anime": {
+      "pl29": {
+        "createdAt": "2020-10-12T15:54:45.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7964,
+        "identifier": "pl29",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Ball Z: Atsumare! Gokuu World",
+        "url": "https://9anime.to/watch/dragon-ball-z-atsumare-gokuu-world.pl29",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/01/b3c9c82d6f13a85f9e48edada24918ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6714,
+        "aniId": 6714,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4016": {
+        "identifier": "4016",
+        "malId": 6714,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dragon Ball Z: Atsumare! Gokuu World",
+        "url": "https://animepahe.com/a/4016"
+      }
+    },
+    "AniMixPlay": {
+      "6714": {
+        "identifier": "6714",
+        "malId": 6714,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dragon Ball Z: Atsumare! Gokuu World",
+        "url": "https://animixplay.to/anime/6714"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T18:04:05.000Z",
+  "checkedAt": "2022-05-14T18:04:05.000Z",
+  "id": 3167,
+  "type": "anime",
+  "title": "Eve no Jikan",
+  "altTitle": [
+    "Eve's Time",
+    "Time of Eve",
+    "イヴの時間"
+  ],
+  "url": "https://myanimelist.net/anime/3167/Eve_no_Jikan",
+  "image": "https://cdn.myanimelist.net/images/anime/13/19480.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.studio-rikka.com/eve/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5132"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7998"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Eve_no_jikan"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-87731"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5132,
+  "Pages": {
+    "9anime": {
+      "wpj4": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9876,
+        "identifier": "wpj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Time of Eve",
+        "url": "https://9anime.to/watch/time-of-eve.wpj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VEMhNYIJ9Jc/WiPSZSlTU_I/AAAAAAAABIo/_W9mJS_tEN4i5wSBX8btkW3mpYH-ijZIQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3167,
+        "aniId": 3167,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "eve-no-jikan": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17586,
+        "identifier": "eve-no-jikan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eve no Jikan",
+        "url": "https://gogoanime.vc/category/eve-no-jikan",
+        "image": "https://images.gogoanime.tv/images/anime/E/eve-no-jikan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3167,
+        "aniId": 3167,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3954": {
+        "identifier": "3954",
+        "malId": 3167,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Eve no Jikan",
+        "url": "https://animepahe.com/a/3954"
+      }
+    },
+    "AniMixPlay": {
+      "3167": {
+        "identifier": "3167",
+        "malId": 3167,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Eve no Jikan",
+        "url": "https://animixplay.to/anime/3167"
+      }
+    },
+    "YugenAnime": {
+      "1479": {
+        "identifier": "1479",
+        "malId": 3167,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Eve no Jikan",
+        "url": "https://yugen.to/anime/1479/eve-no-jikan/"
+      }
+    }
+  }
+}

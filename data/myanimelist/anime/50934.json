@@ -1,0 +1,80 @@
+{
+  "createdAt": "2022-02-10T14:10:19.000Z",
+  "updatedAt": "2022-05-14T19:04:29.000Z",
+  "checkedAt": "2022-05-14T19:04:29.000Z",
+  "id": 50934,
+  "type": "anime",
+  "title": "Stars*Collection!",
+  "altTitle": [
+    "StarColle",
+    "Stars*Collection",
+    "スターズこれくしょん！"
+  ],
+  "url": "https://myanimelist.net/anime/50934/StarsCollection",
+  "image": "https://cdn.myanimelist.net/images/anime/1699/120749.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://holostars.hololivepro.com/news/20220126-01-2/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "prjp4": {
+        "createdAt": "2022-02-10T14:10:18.000Z",
+        "updatedAt": "2022-02-10T14:39:37.000Z",
+        "checkedAt": null,
+        "id": 40125,
+        "identifier": "prjp4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "stars*collection",
+        "url": "https://9anime.to/watch/starscollection.prjp4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/7d/7d6f8087493caac3bf40116711477025.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50934,
+        "aniId": 144451,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "starscollection": {
+        "createdAt": "2022-02-21T14:02:14.000Z",
+        "updatedAt": "2022-02-21T14:17:39.000Z",
+        "checkedAt": null,
+        "id": 40250,
+        "identifier": "starscollection",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "stars*collection!",
+        "url": "https://gogoanime.fi/category/starscollection",
+        "image": "https://gogocdn.net/cover/starscollection.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50934,
+        "aniId": 144451,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11687": {
+        "identifier": "11687",
+        "malId": 50934,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Stars*Collection!",
+        "url": "https://yugen.to/anime/11687/starscollection/"
+      }
+    }
+  }
+}

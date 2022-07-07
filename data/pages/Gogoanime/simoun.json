@@ -1,0 +1,83 @@
+{
+  "createdAt": "2021-01-05T03:26:46.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32970,
+  "identifier": "simoun",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Simoun",
+  "url": "https://gogoanime.vc/category/simoun",
+  "image": "https://gogocdn.net/images/anime/S/simoun.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 879,
+  "aniId": 879,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T17:06:59.000Z",
+    "checkedAt": "2022-05-14T17:06:59.000Z",
+    "id": 879,
+    "type": "anime",
+    "title": "Simoun",
+    "altTitle": [
+      "Shimuun",
+      "Simoon",
+      "シムーン"
+    ],
+    "url": "https://myanimelist.net/anime/879/Simoun",
+    "image": "https://cdn.myanimelist.net/images/anime/9/29109.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.simoun.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4239"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6287"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Simoun_(anime)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4239
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T14:53:35.000Z",
+    "checkedAt": "2022-05-15T14:53:35.000Z",
+    "id": 879,
+    "type": "anime",
+    "title": "Simoun",
+    "altTitle": [
+      "Simoun",
+      "シムーン",
+      "Shimuun",
+      "Simoon"
+    ],
+    "url": "https://anilist.co/anime/879",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx879-Y1AMwyonCMQf.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/simoun"
+      }
+    ],
+    "malId": 879,
+    "deletedAt": null
+  }
+}

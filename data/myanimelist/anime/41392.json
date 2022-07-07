@@ -1,0 +1,182 @@
+{
+  "createdAt": "2020-11-21T13:22:45.000Z",
+  "updatedAt": "2022-05-14T16:43:49.000Z",
+  "checkedAt": "2022-05-14T16:43:49.000Z",
+  "id": 41392,
+  "type": "anime",
+  "title": "Urasekai Picnic",
+  "altTitle": [
+    "Otherside Picnic",
+    "裏世界ピクニック"
+  ],
+  "url": "https://myanimelist.net/anime/41392/Urasekai_Picnic",
+  "image": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.othersidepicnic.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15423"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23073"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A3%8F%E4%B8%96%E7%95%8C%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282420"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/otherside-picnic"
+    },
+    {
+      "site": "ani-oneasia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "aniverse",
+      "url": "https://www.amazon.de/b/?_encoding=UTF8&benefitId=aniversede&node=3010075031"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "pops",
+      "url": "https://pops.tv/"
+    },
+    {
+      "site": "wakanim",
+      "url": "https://www.wakanim.tv/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15423,
+  "Pages": {
+    "9anime": {
+      "oz45": {
+        "createdAt": "2020-10-12T15:54:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7749,
+        "identifier": "oz45",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Urasekai Picnic",
+        "url": "https://9anime.to/watch/otherside-picnic.oz45",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f1/f1e68b3ce1ed89b53bcfff33d575f0e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41392,
+        "aniId": 116287,
+        "deletedAt": null
+      },
+      "w1184": {
+        "createdAt": "2021-11-15T17:59:45.000Z",
+        "updatedAt": "2021-11-15T18:27:01.000Z",
+        "checkedAt": null,
+        "id": 39214,
+        "identifier": "w1184",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ura Sekai Picnic (Dub)",
+        "url": "https://9anime.to/watch/otherside-picnic-dub.w1184",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/12/12fffd5fd729877a628b202bdfa7ae14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41392,
+        "aniId": 116287,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "urasekai-picnic": {
+        "createdAt": "2021-01-04T16:25:55.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32876,
+        "identifier": "urasekai-picnic",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Urasekai Picnic",
+        "url": "https://gogoanime.vc/category/urasekai-picnic",
+        "image": "https://gogocdn.net/cover/urasekai-picnic.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41392,
+        "aniId": 116287,
+        "deletedAt": null
+      },
+      "urasekai-picnic-dub": {
+        "createdAt": "2021-11-22T16:42:58.000Z",
+        "updatedAt": "2021-11-22T17:12:37.000Z",
+        "checkedAt": null,
+        "id": 39278,
+        "identifier": "urasekai-picnic-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Urasekai Picnic (Dub)",
+        "url": "https://gogoanime.cm/category/urasekai-picnic-dub",
+        "image": "https://gogocdn.net/cover/urasekai-picnic-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41392,
+        "aniId": 116287,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4185": {
+        "identifier": "4185",
+        "malId": 41392,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Urasekai Picnic",
+        "url": "https://animepahe.com/a/4185"
+      }
+    },
+    "AniMixPlay": {
+      "41392": {
+        "identifier": "41392",
+        "malId": 41392,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Urasekai Picnic",
+        "url": "https://animixplay.to/anime/41392"
+      }
+    },
+    "YugenAnime": {
+      "7073": {
+        "identifier": "7073",
+        "malId": 41392,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Urasekai Picnic",
+        "url": "https://yugen.to/anime/7073/urasekai-picnic/"
+      }
+    }
+  }
+}

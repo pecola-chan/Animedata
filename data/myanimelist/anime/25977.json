@@ -1,0 +1,49 @@
+{
+  "createdAt": "2021-08-17T20:07:11.000Z",
+  "updatedAt": "2022-06-03T22:21:15.000Z",
+  "checkedAt": "2022-06-03T22:21:15.000Z",
+  "id": 25977,
+  "type": "anime",
+  "title": "Contact 2",
+  "altTitle": [
+    "Backkom",
+    "Bernard",
+    "Contact 2"
+  ],
+  "url": "https://myanimelist.net/anime/25977/Contact_2",
+  "image": "https://cdn.myanimelist.net/images/anime/7/65741.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://cafe.naver.com/rgstudios.cafe?iframe_url=/ArticleRead.nhn%3Fclubid=22637335%26menuid=47%26boardtype=I%26page=2%26specialmenutype=%26articleid=34%26referrerAllArticles=false"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "w194l": {
+        "createdAt": "2021-08-17T20:07:01.000Z",
+        "updatedAt": "2021-08-17T20:07:11.000Z",
+        "checkedAt": null,
+        "id": 38346,
+        "identifier": "w194l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Contact 2",
+        "url": "https://9anime.to/watch/contact-2.w194l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/82/82400ddebb2b7338b1b6cc27811dc953.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25977,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

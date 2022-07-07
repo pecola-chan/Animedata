@@ -1,0 +1,77 @@
+{
+  "createdAt": "2022-01-06T02:19:04.000Z",
+  "updatedAt": "2022-01-06T02:47:51.000Z",
+  "checkedAt": null,
+  "id": 39710,
+  "identifier": "zo-zo-zo-zombie-kun-tv-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Zo Zo Zo Zombie-kun (TV) (Dub)",
+  "url": "https://gogoanime.cm/category/zo-zo-zo-zombie-kun-tv-dub",
+  "image": "https://gogocdn.net/cover/zo-zo-zo-zombie-kun-tv-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 41686,
+  "aniId": 126643,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:15.000Z",
+    "updatedAt": "2022-05-25T08:05:39.000Z",
+    "checkedAt": "2022-05-25T08:05:39.000Z",
+    "id": 41686,
+    "type": "anime",
+    "title": "Zo Zo Zo Zombie-kun (TV)",
+    "altTitle": [
+      "Zo Zo Zombie",
+      "ゾゾゾ ゾンビーくん"
+    ],
+    "url": "https://myanimelist.net/anime/41686/Zo_Zo_Zo_Zombie-kun_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/1054/107129.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23192"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%BE%E3%82%BE%E3%82%BE_%E3%82%BE%E3%83%B3%E3%83%93%E3%80%9C%E3%81%8F%E3%82%93#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-279092"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:05.000Z",
+    "updatedAt": "2022-05-25T08:05:38.000Z",
+    "checkedAt": "2022-05-25T08:05:38.000Z",
+    "id": 126643,
+    "type": "anime",
+    "title": "Zo Zo Zo Zombie-kun (2020)",
+    "altTitle": [
+      "Zo Zo Zombie",
+      "ゾゾゾ ゾンビーくん (2020)"
+    ],
+    "url": "https://anilist.co/anime/126643",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126643-SkX9PTgcMMZZ.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/zo-zo-zombie"
+      }
+    ],
+    "malId": 41686,
+    "deletedAt": null
+  }
+}

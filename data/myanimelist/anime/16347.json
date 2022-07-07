@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-27T02:56:32.000Z",
+  "checkedAt": "2022-05-27T02:56:32.000Z",
+  "id": 16347,
+  "type": "anime",
+  "title": "Usavich V",
+  "altTitle": [
+    "Usavich 5",
+    "Usavich V",
+    "ウサビッチ V"
+  ],
+  "url": "https://myanimelist.net/anime/16347/Usavich_V",
+  "image": "https://cdn.myanimelist.net/images/anime/10/54017.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mtvjapan.com/usavich/top"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5917"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Usavich"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5917,
+  "Pages": {
+    "9anime": {
+      "3z56": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2007,
+        "identifier": "3z56",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usavich V",
+        "url": "https://9anime.to/watch/usavich-v.3z56",
+        "image": "https://static.akacdn.ru/files/images/2018/04/7e3a47cb329c2f7a93363aa11fba2aae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16347,
+        "aniId": 16347,
+        "deletedAt": null
+      }
+    }
+  }
+}

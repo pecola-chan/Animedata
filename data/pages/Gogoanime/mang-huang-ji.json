@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:01:14.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19335,
+  "identifier": "mang-huang-ji",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mang Huang Ji",
+  "url": "https://gogoanime.vc/category/mang-huang-ji",
+  "image": "https://cdnimg.xyz/cover/mang-huang-ji.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 37186,
+  "aniId": 102164,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:00.000Z",
+    "updatedAt": "2022-05-14T18:24:11.000Z",
+    "checkedAt": "2022-05-14T18:24:11.000Z",
+    "id": 37186,
+    "type": "anime",
+    "title": "Mang Huang Ji",
+    "altTitle": [
+      "The Desolate Era",
+      "Age of Desolation",
+      "Records of Barbarian Ji of the Primeval Era",
+      "The Legend of Jade Sword",
+      "莽荒纪"
+    ],
+    "url": "https://myanimelist.net/anime/37186/Mang_Huang_Ji",
+    "image": "https://cdn.myanimelist.net/images/anime/1302/99124.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.youzhai.com/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E8%8E%BD%E8%8D%92%E7%B4%80"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:33.000Z",
+    "updatedAt": "2022-05-15T16:44:11.000Z",
+    "checkedAt": "2022-05-15T16:44:11.000Z",
+    "id": 102164,
+    "type": "anime",
+    "title": "Mang Huang Ji",
+    "altTitle": [
+      "莽荒纪",
+      "The Desolate Era",
+      "Age of Desolation",
+      "Records of Barbarian Ji of the Primeval Era",
+      "The Legend of Jade Sword"
+    ],
+    "url": "https://anilist.co/anime/102164",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102164-teL3jOl5paX0.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 37186,
+    "deletedAt": null
+  }
+}

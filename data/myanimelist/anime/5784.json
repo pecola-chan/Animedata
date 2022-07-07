@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T21:52:23.000Z",
+  "checkedAt": "2022-05-14T21:52:23.000Z",
+  "id": 5784,
+  "type": "anime",
+  "title": "Ai no Kusabi (2012)",
+  "altTitle": [
+    "間の楔"
+  ],
+  "url": "https://myanimelist.net/anime/5784/Ai_no_Kusabi_2012",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75531.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ainokusabi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6303"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10568"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6303,
+  "Pages": {
+    "9anime": {
+      "rw2m": {
+        "createdAt": "2020-10-12T15:55:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9039,
+        "identifier": "rw2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai no Kusabi (2012)",
+        "url": "https://9anime.to/watch/ai-no-kusabi-2012.rw2m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LHGL8bHjmPs/V7LEprS-TfI/AAAAAAAA3e0/2p-uNN4dGEI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5784,
+        "aniId": 5784,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5784": {
+        "identifier": "5784",
+        "malId": 5784,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ai no Kusabi (2012)",
+        "url": "https://animixplay.to/anime/5784"
+      }
+    }
+  }
+}

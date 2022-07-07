@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T19:07:18.000Z",
+  "updatedAt": "2022-05-15T11:43:54.000Z",
+  "checkedAt": "2022-05-15T11:43:54.000Z",
+  "id": 42132,
+  "type": "anime",
+  "title": "Benghuai Xinghe",
+  "altTitle": [
+    "Beng Huai Xinghe",
+    "Galaxy Devastator",
+    "崩坏星河"
+  ],
+  "url": "https://myanimelist.net/anime/42132/Benghuai_Xinghe",
+  "image": "https://cdn.myanimelist.net/images/anime/1465/107843.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E5%B4%A9%E5%9D%8F%E6%98%9F%E6%B2%B3/22672984"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "xkow": {
+        "createdAt": "2020-10-12T15:56:29.000Z",
+        "updatedAt": "2021-09-13T21:04:36.000Z",
+        "checkedAt": null,
+        "id": 10266,
+        "identifier": "xkow",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beng Huai Xinghe",
+        "url": "https://9anime.to/watch/galaxy-devastator.xkow",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bf/bf366f04bf3cea286b2e8d624b1eb499.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 42132,
+        "aniId": 109483,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42132": {
+        "identifier": "42132",
+        "malId": 42132,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Benghuai Xinghe",
+        "url": "https://animixplay.to/anime/42132"
+      }
+    },
+    "YugenAnime": {
+      "3705": {
+        "identifier": "3705",
+        "malId": 42132,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Benghuai Xinghe",
+        "url": "https://yugen.to/anime/3705/beng-huai-xing-he/"
+      }
+    }
+  }
+}

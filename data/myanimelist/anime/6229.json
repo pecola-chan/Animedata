@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T21:21:17.000Z",
+  "checkedAt": "2022-05-14T21:21:17.000Z",
+  "id": 6229,
+  "type": "anime",
+  "title": "Konpeki no Kantai",
+  "altTitle": [
+    "Deep Blue Fleet",
+    "Kompeki no Kantai",
+    "紺碧の艦隊"
+  ],
+  "url": "https://myanimelist.net/anime/6229/Konpeki_no_Kantai",
+  "image": "https://cdn.myanimelist.net/images/anime/1215/93008.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jcstaff.co.jp/sho-sai/kon-shokai/ko-index.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4286"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7410"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Konpeki_no_Kantai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4286,
+  "Pages": {
+    "9anime": {
+      "m9o8": {
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6530,
+        "identifier": "m9o8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Konpeki no Kantai",
+        "url": "https://9anime.to/watch/konpeki-no-kantai.m9o8",
+        "image": "https://static.akacdn.ru/files/images/2020/03/4bb91a005d9abc112ecc3f98d4aff7bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6229,
+        "aniId": 6229,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "konpeki-no-kantai": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18955,
+        "identifier": "konpeki-no-kantai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Konpeki no Kantai",
+        "url": "https://gogoanime.vc/category/konpeki-no-kantai",
+        "image": "https://gogocdn.net/cover/konpeki-no-kantai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6229,
+        "aniId": 6229,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6229": {
+        "identifier": "6229",
+        "malId": 6229,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Konpeki no Kantai",
+        "url": "https://animixplay.to/anime/6229"
+      }
+    },
+    "YugenAnime": {
+      "2796": {
+        "identifier": "2796",
+        "malId": 6229,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Konpeki no Kantai",
+        "url": "https://yugen.to/anime/2796/konpeki-no-kantai/"
+      }
+    }
+  }
+}

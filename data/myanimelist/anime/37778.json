@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-15T01:39:19.000Z",
+  "checkedAt": "2022-05-15T01:39:19.000Z",
+  "id": 37778,
+  "type": "anime",
+  "title": "Pastel Life",
+  "altTitle": [
+    "ぱすてるらいふ"
+  ],
+  "url": "https://myanimelist.net/anime/37778/Pastel_Life",
+  "image": "https://cdn.myanimelist.net/images/anime/1616/98803.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14049"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14049,
+  "Pages": {
+    "9anime": {
+      "lq36": {
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6157,
+        "identifier": "lq36",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pastel Life",
+        "url": "https://9anime.to/watch/pastel-life.lq36",
+        "image": "http://static.akacdn.ru/static/images/2018/05/5774b86c02134c984163f2c88998f245.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37778,
+        "aniId": 101596,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2690": {
+        "identifier": "2690",
+        "malId": 37778,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pastel Life",
+        "url": "https://animepahe.com/a/2690"
+      }
+    },
+    "AniMixPlay": {
+      "37778": {
+        "identifier": "37778",
+        "malId": 37778,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pastel Life",
+        "url": "https://animixplay.to/anime/37778"
+      }
+    },
+    "YugenAnime": {
+      "8911": {
+        "identifier": "8911",
+        "malId": 37778,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pastel Life",
+        "url": "https://yugen.to/anime/8911/pastel-life/"
+      }
+    }
+  }
+}

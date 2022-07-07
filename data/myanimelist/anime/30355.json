@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-14T17:10:59.000Z",
+  "checkedAt": "2022-05-14T17:10:59.000Z",
+  "id": 30355,
+  "type": "anime",
+  "title": "Wakaba*Girl",
+  "altTitle": [
+    "Wakaba Girl",
+    "わかば＊ガール"
+  ],
+  "url": "https://myanimelist.net/anime/30355/WakabaGirl",
+  "image": "https://cdn.myanimelist.net/images/anime/2/74878.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wakabagirl.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11139"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16870"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%8B%E3%81%B0*%E3%82%AC%E3%83%BC%E3%83%AB"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-266775"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/wakaba-girl"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11139,
+  "Pages": {
+    "9anime": {
+      "m68": {
+        "createdAt": "2020-10-12T15:53:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6445,
+        "identifier": "m68",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wakaba*Girl",
+        "url": "https://9anime.to/watch/wakabagirl.m68",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PlBRwi2eXvg/V3nKWlUusVI/AAAAAAAAtHE/sPDNWB9YR7g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30355,
+        "aniId": 21108,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wakaba-girl": {
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21381,
+        "identifier": "wakaba-girl",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wakaba*Girl",
+        "url": "https://gogoanime.vc/category/wakaba-girl",
+        "image": "https://images.gogoanime.tv/images/upload/wakaba_girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30355,
+        "aniId": 21108,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1232": {
+        "identifier": "1232",
+        "malId": 30355,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Wakaba*Girl",
+        "url": "https://animepahe.com/a/1232"
+      }
+    },
+    "AniMixPlay": {
+      "30355": {
+        "identifier": "30355",
+        "malId": 30355,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wakaba*Girl",
+        "url": "https://animixplay.to/anime/30355"
+      }
+    },
+    "YugenAnime": {
+      "15049": {
+        "identifier": "15049",
+        "malId": 30355,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wakaba*Girl",
+        "url": "https://yugen.to/anime/15049/wakabagirl/"
+      }
+    }
+  }
+}

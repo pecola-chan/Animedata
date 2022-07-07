@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-04-27T11:48:30.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36711,
+  "identifier": "plawres-sanshirou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Plawres Sanshirou",
+  "url": "https://gogoanime.vc/category/plawres-sanshirou",
+  "image": "https://gogocdn.net/cover/plawres-sanshirou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1873,
+  "aniId": 1873,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:22.000Z",
+    "updatedAt": "2022-05-15T01:16:33.000Z",
+    "checkedAt": "2022-05-15T01:16:33.000Z",
+    "id": 1873,
+    "type": "anime",
+    "title": "Plawres Sanshirou",
+    "altTitle": [
+      "Jumaru",
+      "Plastic Model Wrestling Sanshiro",
+      "プラレス３四郎"
+    ],
+    "url": "https://myanimelist.net/anime/1873/Plawres_Sanshirou",
+    "image": "https://cdn.myanimelist.net/images/anime/1/1873.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3324"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1886"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Plawres_Sanshiro"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3324
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:04.000Z",
+    "updatedAt": "2022-05-15T16:01:35.000Z",
+    "checkedAt": "2022-05-15T16:01:35.000Z",
+    "id": 1873,
+    "type": "anime",
+    "title": "Plawres Sanshirou",
+    "altTitle": [
+      "Plastic Model Wrestling Sanshiro",
+      "プラレス３四郎",
+      "Jumaru"
+    ],
+    "url": "https://anilist.co/anime/1873",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1873-W5uXjCe7czv9.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1873,
+    "deletedAt": null
+  }
+}

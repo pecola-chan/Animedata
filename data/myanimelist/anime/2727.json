@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-15T01:54:31.000Z",
+  "checkedAt": "2022-05-15T01:54:31.000Z",
+  "id": 2727,
+  "type": "anime",
+  "title": "Sweet Valerian",
+  "altTitle": [
+    "Sweet Valerians",
+    "スウィート・ヴァレリアン"
+  ],
+  "url": "https://myanimelist.net/anime/2727/Sweet_Valerian",
+  "image": "https://cdn.myanimelist.net/images/anime/11/3676.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2339"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4187"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sweet_Valerian"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2339,
+  "Pages": {
+    "9anime": {
+      "p1l6": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7792,
+        "identifier": "p1l6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sweet Valerian",
+        "url": "https://9anime.to/watch/sweet-valerian.p1l6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zRAzVSYGB_A/WIb07nM9z8I/AAAAAAABbAo/CaDiFVeJPUY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2727,
+        "aniId": 2727,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "time-jamvalerian-and-laureline-dub": {
+        "createdAt": "2020-10-12T17:20:21.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23585,
+        "identifier": "time-jamvalerian-and-laureline-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Time Jam：Valerian and Laureline (Dub)",
+        "url": "https://gogoanime.vc/category/time-jamvalerian-and-laureline-dub",
+        "image": "https://gogocdn.net/cover/time-jamvalerian-and-laureline-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2727,
+        "aniId": 2727,
+        "deletedAt": null
+      },
+      "sweet-valerian": {
+        "createdAt": "2021-08-09T02:09:36.000Z",
+        "updatedAt": "2021-08-09T02:39:15.000Z",
+        "checkedAt": null,
+        "id": 38182,
+        "identifier": "sweet-valerian",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sweet Valerian",
+        "url": "https://gogoanime.pe/category/sweet-valerian",
+        "image": "https://gogocdn.net/cover/sweet-valerian.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2727,
+        "aniId": 2727,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2727": {
+        "identifier": "2727",
+        "malId": 2727,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sweet Valerian",
+        "url": "https://animixplay.to/anime/2727"
+      }
+    },
+    "YugenAnime": {
+      "9584": {
+        "identifier": "9584",
+        "malId": 2727,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sweet Valerian",
+        "url": "https://yugen.to/anime/9584/sweet-valerian/"
+      }
+    }
+  }
+}

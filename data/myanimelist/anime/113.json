@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T20:34:18.000Z",
+  "checkedAt": "2022-05-14T20:34:18.000Z",
+  "id": 113,
+  "type": "anime",
+  "title": "Uchuu no Stellvia",
+  "altTitle": [
+    "Stellvia of the Universe",
+    "Stellvia",
+    "宇宙のステルヴィア"
+  ],
+  "url": "https://myanimelist.net/anime/113/Uchuu_no_Stellvia",
+  "image": "https://cdn.myanimelist.net/images/anime/10/15225.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.stellvia.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=630"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=74"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Stellvia_of_the_Universe"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280691"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 630,
+  "Pages": {
+    "9anime": {
+      "lrr3": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6201,
+        "identifier": "lrr3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu no Stellvia",
+        "url": "https://9anime.to/watch/uchuu-no-stellvia.lrr3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TSAunaHUrRc/V6q82cCVBKI/AAAAAAAA15A/KBF8lhyug78/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 113,
+        "aniId": 113,
+        "deletedAt": null
+      },
+      "m32x": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6353,
+        "identifier": "m32x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu no Stellvia (Dub)",
+        "url": "https://9anime.to/watch/uchuu-no-stellvia-dub.m32x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4YC6orZzFtQ/V8aFRbFcWEI/AAAAAAAA6uA/va7fkP_ErkI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 113,
+        "aniId": 113,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uchuu-no-stellvia": {
+        "createdAt": "2021-05-02T20:03:44.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36843,
+        "identifier": "uchuu-no-stellvia",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uchuu no Stellvia",
+        "url": "https://gogoanime.vc/category/uchuu-no-stellvia",
+        "image": "https://gogocdn.net/images/anime/U/uchuu-no-stellvia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 113,
+        "aniId": 113,
+        "deletedAt": null
+      },
+      "uchuu-no-stellvia-dub": {
+        "createdAt": "2022-02-23T10:48:41.000Z",
+        "updatedAt": "2022-02-23T11:17:39.000Z",
+        "checkedAt": null,
+        "id": 40268,
+        "identifier": "uchuu-no-stellvia-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uchuu no Stellvia (Dub)",
+        "url": "https://gogoanime.fi/category/uchuu-no-stellvia-dub",
+        "image": "https://gogocdn.net/cover/uchuu-no-stellvia-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 113,
+        "aniId": 113,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "113": {
+        "identifier": "113",
+        "malId": 113,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuu no Stellvia",
+        "url": "https://animixplay.to/anime/113"
+      }
+    },
+    "YugenAnime": {
+      "2559": {
+        "identifier": "2559",
+        "malId": 113,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uchuu no Stellvia",
+        "url": "https://yugen.to/anime/2559/uchuu-no-stellvia/"
+      }
+    }
+  }
+}

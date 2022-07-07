@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-12-31T11:21:08.000Z",
+  "updatedAt": "2022-05-14T16:07:19.000Z",
+  "checkedAt": "2022-05-14T16:07:19.000Z",
+  "id": 38440,
+  "type": "anime",
+  "title": "Shikizakura",
+  "altTitle": [
+    "Shikizakura",
+    "シキザクラ"
+  ],
+  "url": "https://myanimelist.net/anime/38440/Shikizakura",
+  "image": "https://cdn.myanimelist.net/images/anime/1175/116578.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ctv.co.jp/shikizakura/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14426"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23545"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shikizakura#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/series/Shikizakura/series-910731"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14426,
+  "Pages": {
+    "9anime": {
+      "1mrp": {
+        "createdAt": "2021-10-10T03:32:21.000Z",
+        "updatedAt": "2021-10-10T04:02:20.000Z",
+        "checkedAt": null,
+        "id": 38963,
+        "identifier": "1mrp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shikizakura",
+        "url": "https://9anime.to/watch/shikizakura.1mrp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/3f/3f02c786d8ffe475f210ebbce1cdabb4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38440,
+        "aniId": 105119,
+        "deletedAt": null
+      },
+      "0220k": {
+        "createdAt": "2021-11-06T17:35:27.000Z",
+        "updatedAt": "2021-11-06T18:04:20.000Z",
+        "checkedAt": null,
+        "id": 39188,
+        "identifier": "0220k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shikizakura (Dub)",
+        "url": "https://9anime.to/watch/shikizakura-dub.0220k",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/59/59718011d9e963b9f8e5682f9b1a4e72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38440,
+        "aniId": 105119,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shikizakura": {
+        "createdAt": "2021-10-10T03:32:43.000Z",
+        "updatedAt": "2021-10-10T04:02:20.000Z",
+        "checkedAt": null,
+        "id": 38965,
+        "identifier": "shikizakura",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shikizakura",
+        "url": "https://gogoanime.pe/category/shikizakura",
+        "image": "https://gogocdn.net/cover/shikizakura.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38440,
+        "aniId": 105119,
+        "deletedAt": null
+      },
+      "shikizakura-dub": {
+        "createdAt": "2021-12-05T12:16:18.000Z",
+        "updatedAt": "2021-12-05T12:46:06.000Z",
+        "checkedAt": null,
+        "id": 39383,
+        "identifier": "shikizakura-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shikizakura (Dub)",
+        "url": "https://gogoanime.cm/category/shikizakura-dub",
+        "image": "https://gogocdn.net/cover/shikizakura-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38440,
+        "aniId": 105119,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4539": {
+        "identifier": "4539",
+        "malId": 38440,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shikizakura",
+        "url": "https://animepahe.com/a/4539"
+      }
+    },
+    "AniMixPlay": {
+      "38440": {
+        "identifier": "38440",
+        "malId": 38440,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shikizakura",
+        "url": "https://animixplay.to/anime/38440"
+      }
+    },
+    "YugenAnime": {
+      "9915": {
+        "identifier": "9915",
+        "malId": 38440,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shikizakura",
+        "url": "https://yugen.to/anime/9915/shikizakura/"
+      }
+    }
+  }
+}

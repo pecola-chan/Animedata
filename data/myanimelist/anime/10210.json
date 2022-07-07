@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-06-30T07:24:28.000Z",
+  "checkedAt": "2022-06-30T07:24:28.000Z",
+  "id": 10210,
+  "type": "anime",
+  "title": "Bug tte Honey",
+  "altTitle": [
+    "Bug-tte Honey",
+    "Honey The Bug",
+    "Honeybee in Toycomland",
+    "Bugtte Honey",
+    "Bugってハニー"
+  ],
+  "url": "https://myanimelist.net/anime/10210/Bug_tte_Honey",
+  "image": "https://cdn.myanimelist.net/images/anime/7/28163.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/english/search/index.php?pdt_no=218"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6600"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1373"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adventure_Island_%28video_game%29#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6600,
+  "Pages": {
+    "9anime": {
+      "lzwz": {
+        "createdAt": "2021-01-06T14:57:41.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33092,
+        "identifier": "lzwz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bug tte Honey",
+        "url": "https://9anime.to/watch/bug-tte-honey.lzwz",
+        "image": "//static.bunnycdn.ru/i/cache/images/3/3e/3e87609efc61ab38c04a45ce18d06edd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10210,
+        "aniId": 10210,
+        "deletedAt": null
+      }
+    }
+  }
+}

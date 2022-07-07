@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-14T23:31:17.000Z",
+  "checkedAt": "2022-05-14T23:31:17.000Z",
+  "id": 3060,
+  "type": "anime",
+  "title": "Dallos",
+  "altTitle": [
+    "Darosu",
+    "Battle for Moon Station Dallos",
+    "Dallos",
+    "ダロス"
+  ],
+  "url": "https://myanimelist.net/anime/3060/Dallos",
+  "image": "https://cdn.myanimelist.net/images/anime/1253/116763.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oshiimamoru.com/works/ova_dallos.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1468"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=900"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dallos"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-266085"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1468,
+  "Pages": {
+    "9anime": {
+      "n6j8": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6982,
+        "identifier": "n6j8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dallos",
+        "url": "https://9anime.to/watch/dallos.n6j8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_YJM_nx5obM/WG2uvGSxroI/AAAAAAABW48/g4dOuJDI5u8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3060,
+        "aniId": 3060,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3060": {
+        "identifier": "3060",
+        "malId": 3060,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dallos",
+        "url": "https://animixplay.to/anime/3060"
+      }
+    },
+    "YugenAnime": {
+      "291": {
+        "identifier": "291",
+        "malId": 3060,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dallos",
+        "url": "https://yugen.to/anime/291/dallos/"
+      }
+    }
+  }
+}

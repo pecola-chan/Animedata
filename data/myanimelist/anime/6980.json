@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-15T00:16:29.000Z",
+  "checkedAt": "2022-05-15T00:16:29.000Z",
+  "id": 6980,
+  "type": "anime",
+  "title": "Kaidan Restaurant",
+  "altTitle": [
+    "Thriller Restaurant",
+    "怪談レストラン"
+  ],
+  "url": "https://myanimelist.net/anime/6980/Kaidan_Restaurant",
+  "image": "https://cdn.myanimelist.net/images/anime/11/17905.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/kaidan_restaurant/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6785"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11024"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kaidan_Restaurant"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6785,
+  "Pages": {
+    "9anime": {
+      "7wyj": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3615,
+        "identifier": "7wyj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaidan Restaurant",
+        "url": "https://9anime.to/watch/kaidan-restaurant.7wyj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2F7BaTE3V28/V6IEGePgDiI/AAAAAAAA0H0/Z1V2jmnAzEU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6980,
+        "aniId": 6980,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaidan-restaurant": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18657,
+        "identifier": "kaidan-restaurant",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaidan Restaurant",
+        "url": "https://gogoanime.vc/category/kaidan-restaurant",
+        "image": "https://cdnimg.xyz/images/anime/K/Kaidan-Restaurant.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6980,
+        "aniId": 6980,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6980": {
+        "identifier": "6980",
+        "malId": 6980,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaidan Restaurant",
+        "url": "https://animixplay.to/anime/6980"
+      }
+    },
+    "YugenAnime": {
+      "4575": {
+        "identifier": "4575",
+        "malId": 6980,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kaidan Restaurant",
+        "url": "https://yugen.to/anime/4575/kaidan-restaurant/"
+      }
+    }
+  }
+}

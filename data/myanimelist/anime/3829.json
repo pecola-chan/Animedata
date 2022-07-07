@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-14T20:39:18.000Z",
+  "checkedAt": "2022-05-14T20:39:18.000Z",
+  "id": 3829,
+  "type": "anime",
+  "title": "Anne no Nikki",
+  "altTitle": [
+    "The Diary of Anne Frank",
+    "アンネの日記"
+  ],
+  "url": "https://myanimelist.net/anime/3829/Anne_no_Nikki",
+  "image": "https://cdn.myanimelist.net/images/anime/12/46771.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1997-1994/works_movie_anne.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2652"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9008"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anne_no_nikki"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2652,
+  "Pages": {
+    "9anime": {
+      "vo07": {
+        "createdAt": "2020-10-12T15:55:57.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9398,
+        "identifier": "vo07",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Diary of Anne Frank",
+        "url": "https://9anime.to/watch/the-diary-of-anne-frank.vo07",
+        "image": "http://static.akacdn.ru/static/images/2018/04/b9d3f5ba63cce8a1e0b3e5f78aa656b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3829,
+        "aniId": 3829,
+        "deletedAt": null
+      },
+      "3j1r": {
+        "createdAt": "2020-10-12T19:08:17.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23874,
+        "identifier": "3j1r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anne no Nikki (Dub)",
+        "url": "https://9anime.to/watch/the-diary-of-anne-frank-dub.3j1r",
+        "image": "//static.9anime.to/i/cache/images/b/b8/b8d1713804d7db8ac42790ea0f332575.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3829,
+        "aniId": 3829,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3829": {
+        "identifier": "3829",
+        "malId": 3829,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Anne no Nikki",
+        "url": "https://animixplay.to/anime/3829"
+      }
+    }
+  }
+}

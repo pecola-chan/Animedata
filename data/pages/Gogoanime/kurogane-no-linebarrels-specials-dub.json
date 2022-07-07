@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-12-30T13:53:39.000Z",
+  "updatedAt": "2021-12-30T14:23:27.000Z",
+  "checkedAt": null,
+  "id": 39625,
+  "identifier": "kurogane-no-linebarrels-specials-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kurogane no Linebarrels Specials (Dub)",
+  "url": "https://gogoanime.cm/category/kurogane-no-linebarrels-specials-dub",
+  "image": "https://gogocdn.net/cover/kurogane-no-linebarrels-specials-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 7540,
+  "aniId": 7540,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:56.000Z",
+    "updatedAt": "2022-05-15T00:32:53.000Z",
+    "checkedAt": "2022-05-15T00:32:53.000Z",
+    "id": 7540,
+    "type": "anime",
+    "title": "Kurogane no Linebarrels Specials",
+    "altTitle": [
+      "Kurogane no Linebarrels OVA",
+      "Linebarrels of Iron",
+      "鉄のラインバレル"
+    ],
+    "url": "https://myanimelist.net/anime/7540/Kurogane_no_Linebarrels_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/7/25929.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.linebarrels.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5629"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9089"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Linebarrels_of_Iron#Anime"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5629
+  },
+  "Ani": {
+    "createdAt": "2021-07-26T09:51:34.000Z",
+    "updatedAt": "2022-05-15T23:00:27.000Z",
+    "checkedAt": "2022-05-15T23:00:27.000Z",
+    "id": 7540,
+    "type": "anime",
+    "title": "Kurogane no Linebarrels OVA",
+    "altTitle": [
+      "Linebarrels of Iron OVA",
+      "鉄のラインバレル OVA"
+    ],
+    "url": "https://anilist.co/anime/7540",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7540-2yVERJSYCESK.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 7540,
+    "deletedAt": null
+  }
+}

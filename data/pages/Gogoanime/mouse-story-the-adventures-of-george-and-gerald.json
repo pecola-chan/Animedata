@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-04-14T16:48:11.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36507,
+  "identifier": "mouse-story-the-adventures-of-george-and-gerald",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mouse Story: The Adventures of George and Gerald",
+  "url": "https://gogoanime.vc/category/mouse-story-the-adventures-of-george-and-gerald",
+  "image": "https://gogocdn.net/images/2035.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 9789,
+  "aniId": 9789,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:03.000Z",
+    "updatedAt": "2022-05-14T23:25:05.000Z",
+    "checkedAt": "2022-05-14T23:25:05.000Z",
+    "id": 9789,
+    "type": "anime",
+    "title": "Nezumi Monogatari: George to Gerald no Bouken",
+    "altTitle": [
+      "Mouse Story: The Adventures of George and Gerald",
+      "ねずみ物語 ジョージとジェラルドの冒険"
+    ],
+    "url": "https://myanimelist.net/anime/9789/Nezumi_Monogatari__George_to_Gerald_no_Bouken",
+    "image": "https://cdn.myanimelist.net/images/anime/1947/112809.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sanriomovie.com/nezumi_top.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5397"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7897"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%87%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1_%E3%80%9C%E3%81%AD%E3%81%9A%E3%81%BF%E7%89%A9%E8%AA%9E%E3%80%9C"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5397
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:06.000Z",
+    "updatedAt": "2022-05-15T22:37:35.000Z",
+    "checkedAt": "2022-05-15T22:37:35.000Z",
+    "id": 9789,
+    "type": "anime",
+    "title": "Nezumi Monogatari: George to Gerald no Bouken",
+    "altTitle": [
+      "ねずみ物語 ジョージとジェラルドの冒険",
+      "Mouse Story: The Adventures of George and Gerald"
+    ],
+    "url": "https://anilist.co/anime/9789",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9789.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 9789,
+    "deletedAt": null
+  }
+}

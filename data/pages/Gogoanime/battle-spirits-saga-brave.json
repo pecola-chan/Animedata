@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:59:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16752,
+  "identifier": "battle-spirits-saga-brave",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Battle Spirits: Saga Brave",
+  "url": "https://gogoanime.vc/category/battle-spirits-saga-brave",
+  "image": "https://cdnimg.xyz/cover/battle-spirits-saga-brave.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38916,
+  "aniId": 111121,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:07.000Z",
+    "updatedAt": "2022-05-14T23:43:58.000Z",
+    "checkedAt": "2022-05-14T23:43:58.000Z",
+    "id": 38916,
+    "type": "anime",
+    "title": "Battle Spirits: Saga Brave",
+    "altTitle": [
+      "Battle Spirits (2019)",
+      "バトルスピリッツ サーガブレイヴ"
+    ],
+    "url": "https://myanimelist.net/anime/38916/Battle_Spirits__Saga_Brave",
+    "image": "https://cdn.myanimelist.net/images/anime/1275/102211.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bn-pictures.co.jp/battlespirits/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14566"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22252"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14566
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:53.000Z",
+    "updatedAt": "2022-05-15T23:41:02.000Z",
+    "checkedAt": "2022-05-15T23:41:02.000Z",
+    "id": 111121,
+    "type": "anime",
+    "title": "Battle Spirits: Saga Brave",
+    "altTitle": [
+      "バトルスピリッツ サーガブレイヴ"
+    ],
+    "url": "https://anilist.co/anime/111121",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111121-Euqj0r007tSF.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38916,
+    "deletedAt": null
+  }
+}

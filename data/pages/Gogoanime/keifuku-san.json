@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T16:00:57.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18758,
+  "identifier": "keifuku-san",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Keifuku-san",
+  "url": "https://gogoanime.vc/category/keifuku-san",
+  "image": "https://cdnimg.xyz/cover/keifuku-san.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36156,
+  "aniId": 101034,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:56.000Z",
+    "updatedAt": "2022-05-14T20:47:29.000Z",
+    "checkedAt": "2022-05-14T20:47:29.000Z",
+    "id": 36156,
+    "type": "anime",
+    "title": "Keifuku-san",
+    "altTitle": [
+      "Keifukusan",
+      "傾福さん"
+    ],
+    "url": "https://myanimelist.net/anime/36156/Keifuku-san",
+    "image": "https://cdn.myanimelist.net/images/anime/10/89781.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://twitter.com/irodori7"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13697"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13697
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:25.000Z",
+    "updatedAt": "2022-05-16T21:51:03.000Z",
+    "checkedAt": "2022-05-16T21:51:03.000Z",
+    "id": 101034,
+    "type": "anime",
+    "title": "Keifuku-san",
+    "altTitle": [
+      "傾福さん",
+      "Keifukusan"
+    ],
+    "url": "https://anilist.co/anime/101034",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101034-Nh8KAIzKtlaG.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36156,
+    "deletedAt": null
+  }
+}

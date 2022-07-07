@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-21T15:20:10.000Z",
+  "checkedAt": "2022-05-21T15:20:10.000Z",
+  "id": 8194,
+  "type": "anime",
+  "title": "Akuma-kun",
+  "altTitle": [
+    "Devil Boy",
+    "悪魔くん"
+  ],
+  "url": "https://myanimelist.net/anime/8194/Akuma-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/8/61467.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/akuma_kun/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1854"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1074"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1854,
+  "Pages": {
+    "9anime": {
+      "qm43": {
+        "createdAt": "2020-10-12T15:55:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8435,
+        "identifier": "qm43",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akuma-kun",
+        "url": "https://9anime.to/watch/akuma-kun.qm43",
+        "image": "https://static.akacdn.ru/files/images/2018/03/26abcdb7fa3eb71dd369651d18e269a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8194,
+        "aniId": 8194,
+        "deletedAt": null
+      }
+    }
+  }
+}

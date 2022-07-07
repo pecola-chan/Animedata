@@ -1,0 +1,166 @@
+{
+  "createdAt": "2020-11-17T22:51:35.000Z",
+  "updatedAt": "2022-05-14T09:00:19.000Z",
+  "checkedAt": "2022-05-14T09:00:19.000Z",
+  "id": 41265,
+  "type": "anime",
+  "title": "Mars Red",
+  "altTitle": [
+    "Mars Red",
+    "MARS RED"
+  ],
+  "url": "https://myanimelist.net/anime/41265/Mars_Red",
+  "image": "https://cdn.myanimelist.net/images/anime/1212/113448.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://marsred.tv"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15389"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23889"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mars_Red#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282349"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/mars-red"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "wakanim",
+      "url": "https://www.wakanim.tv/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15389,
+  "Pages": {
+    "9anime": {
+      "zm1p": {
+        "createdAt": "2021-02-05T11:23:03.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34548,
+        "identifier": "zm1p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mars Red",
+        "url": "https://9anime.to/watch/mars-red.zm1p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5e/5ee6e8394832e9f0e471b37a31b622f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41265,
+        "aniId": 115183,
+        "deletedAt": null
+      },
+      "q5m5": {
+        "createdAt": "2021-04-07T15:24:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36301,
+        "identifier": "q5m5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mars Red (Dub)",
+        "url": "https://9anime.to/watch/mars-red-dub.q5m5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/73/7337f47bdf59d22f25520fbad9ede44d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41265,
+        "aniId": 115183,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mars-red": {
+        "createdAt": "2021-03-01T21:51:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35394,
+        "identifier": "mars-red",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mars Red",
+        "url": "https://gogoanime.vc/category/mars-red",
+        "image": "https://gogocdn.net/cover/mars-red.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41265,
+        "aniId": 115183,
+        "deletedAt": null
+      },
+      "mars-red-dub": {
+        "createdAt": "2021-03-30T02:00:53.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36060,
+        "identifier": "mars-red-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mars Red (Dub)",
+        "url": "https://gogoanime.vc/category/mars-red-dub",
+        "image": "https://gogocdn.net/cover/mars-red-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41265,
+        "aniId": 115183,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4314": {
+        "identifier": "4314",
+        "malId": 41265,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mars Red",
+        "url": "https://animepahe.com/a/4314"
+      }
+    },
+    "AniMixPlay": {
+      "41265": {
+        "identifier": "41265",
+        "malId": 41265,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mars Red",
+        "url": "https://animixplay.to/anime/41265"
+      }
+    },
+    "YugenAnime": {
+      "7397": {
+        "identifier": "7397",
+        "malId": 41265,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mars Red",
+        "url": "https://yugen.to/anime/7397/mars-red/"
+      }
+    }
+  }
+}

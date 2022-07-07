@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T22:19:29.000Z",
+  "checkedAt": "2022-05-14T22:19:29.000Z",
+  "id": 19573,
+  "type": "anime",
+  "title": "Short Peace Opening",
+  "altTitle": [
+    "Short Peace Opening Animation",
+    "武器よさらばオープニング"
+  ],
+  "url": "https://myanimelist.net/anime/19573/Short_Peace_Opening",
+  "image": "https://cdn.myanimelist.net/images/anime/10/55731.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://shortpeace-movie.com/jp/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/SHORT_PEACE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "j343": {
+        "createdAt": "2020-10-12T15:52:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4651,
+        "identifier": "j343",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Short Peace Opening (Dub)",
+        "url": "https://9anime.to/watch/short-peace-opening-dub.j343",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--d9h-Oz_NNo/WAylSbnxIYI/AAAAAAABKiE/YhWDQB5f6Jk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19573,
+        "aniId": 19573,
+        "deletedAt": null
+      },
+      "k854": {
+        "createdAt": "2020-10-12T15:52:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5369,
+        "identifier": "k854",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Short Peace Opening",
+        "url": "https://9anime.to/watch/short-peace-opening.k854",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nkfBdbDegMc/WAylWiww8oI/AAAAAAABKiI/IUzFkkoTH0U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19573,
+        "aniId": 19573,
+        "deletedAt": null
+      }
+    }
+  }
+}

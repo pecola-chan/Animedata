@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T22:02:35.000Z",
+  "checkedAt": "2022-05-14T22:02:35.000Z",
+  "id": 25045,
+  "type": "anime",
+  "title": "Mijikamon",
+  "altTitle": [
+    "Barakamon Specials",
+    "みじかもん"
+  ],
+  "url": "https://myanimelist.net/anime/25045/Mijikamon",
+  "image": "https://cdn.myanimelist.net/images/anime/11/75964.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.barakamon.jp/mijikamon/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10111"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10111,
+  "Pages": {
+    "9anime": {
+      "2zyl": {
+        "createdAt": "2020-10-12T15:49:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1623,
+        "identifier": "2zyl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Barakamon: Mijikamon",
+        "url": "https://9anime.to/watch/barakamon-mijikamon.2zyl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-K3EYuxrT14U/WEUkuvzrkhI/AAAAAAABRiU/OZJ-xQVlgJQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25045,
+        "aniId": 20782,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "barakamon-mijikamon": {
+        "createdAt": "2020-10-12T15:59:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16733,
+        "identifier": "barakamon-mijikamon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Barakamon: Mijikamon",
+        "url": "https://gogoanime.vc/category/barakamon-mijikamon",
+        "image": "https://cdnimg.xyz/images/summer/64115.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25045,
+        "aniId": 20782,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "25045": {
+        "identifier": "25045",
+        "malId": 25045,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mijikamon",
+        "url": "https://animixplay.to/anime/25045"
+      }
+    },
+    "YugenAnime": {
+      "2110": {
+        "identifier": "2110",
+        "malId": 25045,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mijikamon",
+        "url": "https://yugen.to/anime/2110/barakamon-mijikamon/"
+      }
+    }
+  }
+}

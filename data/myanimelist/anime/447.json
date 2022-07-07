@@ -1,0 +1,128 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-15T09:33:41.000Z",
+  "checkedAt": "2022-05-15T09:33:41.000Z",
+  "id": 447,
+  "type": "anime",
+  "title": "Weiß Kreuz",
+  "altTitle": [
+    "Weiss Kreuz",
+    "White Cross",
+    "Knight Hunters",
+    "Weiß kreuz　ヴァイス　クロイツ"
+  ],
+  "url": "https://myanimelist.net/anime/447/Weiß_Kreuz",
+  "image": "https://cdn.myanimelist.net/images/anime/13/23697.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=583"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=254"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 583,
+  "Pages": {
+    "9anime": {
+      "6x24": {
+        "createdAt": "2020-10-12T15:50:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3230,
+        "identifier": "6x24",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Weiß Kreuz",
+        "url": "https://9anime.to/watch/weiss-kreuz.6x24",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Li712Q1HFcM/V-u79ORsGaI/AAAAAAABB4U/MGEjFmxoK00/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 447,
+        "aniId": 447,
+        "deletedAt": null
+      },
+      "7x48": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3620,
+        "identifier": "7x48",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Weiß Kreuz (Dub)",
+        "url": "https://9anime.to/watch/weiss-kreuz-dub.7x48",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hQZ_IISBPqk/V-u8CcX_WNI/AAAAAAABB4Y/LUJtAPCwUDI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 447,
+        "aniId": 447,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "weiss-kreuz": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21416,
+        "identifier": "weiss-kreuz",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Weiß Kreuz",
+        "url": "https://gogoanime.vc/category/weiss-kreuz",
+        "image": "https://gogocdn.net/cover/weiss-kreuz.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 447,
+        "aniId": 447,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4392": {
+        "identifier": "4392",
+        "malId": 447,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Weiß Kreuz",
+        "url": "https://animepahe.com/a/4392"
+      }
+    },
+    "AniMixPlay": {
+      "447": {
+        "identifier": "447",
+        "malId": 447,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Weiß Kreuz",
+        "url": "https://animixplay.to/anime/447"
+      }
+    },
+    "YugenAnime": {
+      "1341": {
+        "identifier": "1341",
+        "malId": 447,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Weiß Kreuz",
+        "url": "https://yugen.to/anime/1341/wei-kreuz/"
+      }
+    }
+  }
+}

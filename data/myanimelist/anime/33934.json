@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T21:44:11.000Z",
+  "checkedAt": "2022-05-14T21:44:10.000Z",
+  "id": 33934,
+  "type": "anime",
+  "title": "Trigger-chan",
+  "altTitle": [
+    "トリガーちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/33934/Trigger-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/7/81644.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.st-trigger.co.jp/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trigger_(company)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "nxy8": {
+        "createdAt": "2020-10-12T15:54:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7291,
+        "identifier": "nxy8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Trigger-chan",
+        "url": "https://9anime.to/watch/trigger-chan.nxy8",
+        "image": "https://static.akacdn.ru/static/images/2018/04/c090c6fa6b1060b1a1e46ce4ebf518e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33934,
+        "aniId": 99002,
+        "deletedAt": null
+      }
+    }
+  }
+}

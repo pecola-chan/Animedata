@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T16:47:27.000Z",
+  "checkedAt": "2022-05-14T16:47:27.000Z",
+  "id": 412,
+  "type": "anime",
+  "title": "Kore ga Watashi no Goshujinsama",
+  "altTitle": [
+    "That's My Master",
+    "He is My Master",
+    "これが私の御主人様"
+  ],
+  "url": "https://myanimelist.net/anime/412/Kore_ga_Watashi_no_Goshujinsama",
+  "image": "https://cdn.myanimelist.net/images/anime/11/80500.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gainax.co.jp/anime/master/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2621"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4672"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/He_Is_My_Master"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280330"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/he-is-my-master"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2621,
+  "Pages": {
+    "9anime": {
+      "410j": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2042,
+        "identifier": "410j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kore ga Watashi no Goshujinsama",
+        "url": "https://9anime.to/watch/kore-ga-watashi-no-goshujinsama.410j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-r-ZbCEZqTDM/V71_MFa4inI/AAAAAAAA5H0/0RWccKCMi9A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 412,
+        "aniId": 412,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "he-is-my-master": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18210,
+        "identifier": "he-is-my-master",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "He is My Master",
+        "url": "https://gogoanime.vc/category/he-is-my-master",
+        "image": "https://cdnimg.xyz/images/anime/H/He-is-My-Master.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 412,
+        "aniId": 412,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "412": {
+        "identifier": "412",
+        "malId": 412,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kore ga Watashi no Goshujinsama",
+        "url": "https://animixplay.to/anime/412"
+      }
+    }
+  }
+}

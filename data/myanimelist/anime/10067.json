@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T19:32:59.000Z",
+  "checkedAt": "2022-05-14T19:32:59.000Z",
+  "id": 10067,
+  "type": "anime",
+  "title": "Angel Beats!: Another Epilogue",
+  "altTitle": [
+    "エンジェルビーツ! アナザーエピローグ"
+  ],
+  "url": "https://myanimelist.net/anime/10067/Angel_Beats__Another_Epilogue",
+  "image": "https://cdn.myanimelist.net/images/anime/4/65355.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.angelbeats.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6564"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Angel_Beats!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6564,
+  "Pages": {
+    "9anime": {
+      "5zkm": {
+        "createdAt": "2020-10-12T15:50:39.000Z",
+        "updatedAt": "2022-06-14T03:00:20.000Z",
+        "checkedAt": "2022-06-14T03:00:20.000Z",
+        "id": 2876,
+        "identifier": "5zkm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Angel Beats!: Another Epilogue",
+        "url": "https://9anime.to/watch/angel-beats-another-epilogue.5zkm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/0ab84c432b654940967e9668df6d6387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10067,
+        "aniId": 10067,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2384": {
+        "identifier": "2384",
+        "malId": 10067,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Angel Beats!: Another Epilogue",
+        "url": "https://animepahe.com/a/2384"
+      }
+    },
+    "AniMixPlay": {
+      "10067": {
+        "identifier": "10067",
+        "malId": 10067,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Angel Beats!: Another Epilogue",
+        "url": "https://animixplay.to/anime/10067"
+      }
+    }
+  }
+}

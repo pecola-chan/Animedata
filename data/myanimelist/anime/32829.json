@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-13T19:55:34.000Z",
+  "checkedAt": "2022-05-13T19:55:34.000Z",
+  "id": 32829,
+  "type": "anime",
+  "title": "Nobunaga no Shinobi",
+  "altTitle": [
+    "Ninja Girl & Samurai Master",
+    "信長の忍び"
+  ],
+  "url": "https://myanimelist.net/anime/32829/Nobunaga_no_Shinobi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/78715.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nobunaga-no-shinobi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11951"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18115"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nobunaga_no_Shinobi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271459"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/shinobi"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11951,
+  "Pages": {
+    "9anime": {
+      "x8pv": {
+        "createdAt": "2020-10-12T15:56:27.000Z",
+        "updatedAt": "2022-06-14T04:31:34.000Z",
+        "checkedAt": "2022-06-14T04:31:34.000Z",
+        "id": 10207,
+        "identifier": "x8pv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nobunaga no Shinobi",
+        "url": "https://9anime.to/watch/ninja-girl-samurai-master.x8pv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/f6baf63ffffeb73567bfb68aae51572f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32829,
+        "aniId": 21666,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nobunaga-no-shinobi": {
+        "createdAt": "2022-03-07T04:59:50.000Z",
+        "updatedAt": "2022-03-07T05:29:39.000Z",
+        "checkedAt": null,
+        "id": 40403,
+        "identifier": "nobunaga-no-shinobi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nobunaga no Shinobi",
+        "url": "https://gogoanime.fi/category/nobunaga-no-shinobi",
+        "image": "https://gogocdn.net/cover/nobunaga-no-shinobi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32829,
+        "aniId": 21666,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1423": {
+        "identifier": "1423",
+        "malId": 32829,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nobunaga no Shinobi",
+        "url": "https://animepahe.com/a/1423"
+      }
+    },
+    "AniMixPlay": {
+      "32829": {
+        "identifier": "32829",
+        "malId": 32829,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nobunaga no Shinobi",
+        "url": "https://animixplay.to/anime/32829"
+      }
+    },
+    "YugenAnime": {
+      "4117": {
+        "identifier": "4117",
+        "malId": 32829,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nobunaga no Shinobi",
+        "url": "https://yugen.to/anime/4117/nobunaga-no-shinobi/"
+      }
+    }
+  }
+}

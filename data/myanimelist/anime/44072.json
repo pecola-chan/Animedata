@@ -1,0 +1,91 @@
+{
+  "createdAt": "2021-10-11T21:08:24.000Z",
+  "updatedAt": "2022-05-14T21:34:59.000Z",
+  "checkedAt": "2022-05-14T21:34:59.000Z",
+  "id": 44072,
+  "type": "anime",
+  "title": "Ba Ma Laizi Er Ciyuan",
+  "altTitle": [
+    "My Parents are Otakus",
+    "Otaku's Offspring",
+    "My ACG Parents",
+    "爸妈来自二次元"
+  ],
+  "url": "https://myanimelist.net/anime/44072/Ba_Ma_Laizi_Er_Ciyuan",
+  "image": "https://cdn.myanimelist.net/images/anime/1517/110308.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28230725/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "wr54": {
+        "createdAt": "2021-10-16T11:59:38.000Z",
+        "updatedAt": "2021-12-27T11:27:55.000Z",
+        "checkedAt": null,
+        "id": 39036,
+        "identifier": "wr54",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ba Ma Laizi Erci Yuan",
+        "url": "https://9anime.to/watch/my-acg-parents.wr54",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/3e/3e4209462dd2acadfb8ec8ac53fb311b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 44072,
+        "aniId": 126363,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ba-ma-laizi-er-ciyuan": {
+        "createdAt": "2021-11-22T21:05:49.000Z",
+        "updatedAt": "2021-11-22T21:35:47.000Z",
+        "checkedAt": null,
+        "id": 39282,
+        "identifier": "ba-ma-laizi-er-ciyuan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ba Ma Laizi Er Ciyuan",
+        "url": "https://gogoanime.cm/category/ba-ma-laizi-er-ciyuan",
+        "image": "https://gogocdn.net/cover/ba-ma-laizi-er-ciyuan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44072,
+        "aniId": 126363,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44072": {
+        "identifier": "44072",
+        "malId": 44072,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ba Ma Laizi Er Ciyuan",
+        "url": "https://animixplay.to/anime/44072"
+      }
+    },
+    "YugenAnime": {
+      "11326": {
+        "identifier": "11326",
+        "malId": 44072,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ba Ma Laizi Er Ciyuan",
+        "url": "https://yugen.to/anime/11326/ba-ma-laizi-er-ciyuan/"
+      }
+    }
+  }
+}

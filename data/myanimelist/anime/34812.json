@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T21:40:06.000Z",
+  "checkedAt": "2022-05-14T21:40:06.000Z",
+  "id": 34812,
+  "type": "anime",
+  "title": "ViVid Strike! Specials",
+  "altTitle": [
+    "ViVid Strike! OVA",
+    "ViVid Strike！新作OVA"
+  ],
+  "url": "https://myanimelist.net/anime/34812/ViVid_Strike_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/9/84018.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vivid-strike.com/dvd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12264"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ViVid_Strike!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12264,
+  "Pages": {
+    "9anime": {
+      "n52n": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6956,
+        "identifier": "n52n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ViVid Strike! Specials",
+        "url": "https://9anime.to/watch/vivid-strike-specials.n52n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9WNECAn9_1g/WOgdBZVNYSI/AAAAAAAAgNE/fKd6vRsiPv0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34812,
+        "aniId": 98220,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "vivid-strike-ova": {
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21375,
+        "identifier": "vivid-strike-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "ViVid Strike! OVA",
+        "url": "https://gogoanime.vc/category/vivid-strike-ova",
+        "image": "https://cdnimg.xyz/cover/vivid-strike-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34812,
+        "aniId": 98220,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1849": {
+        "identifier": "1849",
+        "malId": 34812,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ViVid Strike! Specials",
+        "url": "https://animepahe.com/a/1849"
+      }
+    },
+    "AniMixPlay": {
+      "34812": {
+        "identifier": "34812",
+        "malId": 34812,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ViVid Strike! Specials",
+        "url": "https://animixplay.to/anime/34812"
+      }
+    },
+    "YugenAnime": {
+      "5450": {
+        "identifier": "5450",
+        "malId": 34812,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "ViVid Strike! Specials",
+        "url": "https://yugen.to/anime/5450/vivid-strike-specials/"
+      }
+    }
+  }
+}

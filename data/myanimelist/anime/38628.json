@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T17:17:22.000Z",
+  "checkedAt": "2022-05-14T17:17:22.000Z",
+  "id": 38628,
+  "type": "anime",
+  "title": "Hero Mask",
+  "altTitle": [
+    "ヒーローマスク"
+  ],
+  "url": "https://myanimelist.net/anime/38628/Hero_Mask",
+  "image": "https://cdn.myanimelist.net/images/anime/1934/96007.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://heromask.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14472"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21551"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hero_Mask"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14472,
+  "Pages": {
+    "9anime": {
+      "qw2w": {
+        "createdAt": "2020-10-12T15:55:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8587,
+        "identifier": "qw2w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hero Mask",
+        "url": "https://9anime.to/watch/hero-mask.qw2w",
+        "image": "https://static.akacdn.ru/static/images/2018/12/a1493d1e0892741f5e39e4853ac9367a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38628,
+        "aniId": 105096,
+        "deletedAt": null
+      },
+      "rx9p": {
+        "createdAt": "2020-10-12T15:55:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9066,
+        "identifier": "rx9p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hero Mask (Dub)",
+        "url": "https://9anime.to/watch/hero-mask-dub.rx9p",
+        "image": "https://static.akacdn.ru/static/images/2018/12/13b1ec8ac9fe5675845242928612418c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38628,
+        "aniId": 105096,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hero-mask": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18238,
+        "identifier": "hero-mask",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hero Mask",
+        "url": "https://gogoanime.vc/category/hero-mask",
+        "image": "https://cdnimg.xyz/cover/hero-mask.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38628,
+        "aniId": 105096,
+        "deletedAt": null
+      },
+      "hero-mask-dub": {
+        "createdAt": "2021-07-26T02:21:45.000Z",
+        "updatedAt": "2021-07-26T02:51:33.000Z",
+        "checkedAt": null,
+        "id": 38033,
+        "identifier": "hero-mask-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hero Mask (Dub)",
+        "url": "https://gogoanime.pe/category/hero-mask-dub",
+        "image": "https://gogocdn.net/cover/hero-mask-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38628,
+        "aniId": 105096,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3023": {
+        "identifier": "3023",
+        "malId": 38628,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hero Mask",
+        "url": "https://animepahe.com/a/3023"
+      }
+    },
+    "AniMixPlay": {
+      "38628": {
+        "identifier": "38628",
+        "malId": 38628,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hero Mask",
+        "url": "https://animixplay.to/anime/38628"
+      }
+    },
+    "YugenAnime": {
+      "464": {
+        "identifier": "464",
+        "malId": 38628,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hero Mask",
+        "url": "https://yugen.to/anime/464/hero-mask/"
+      }
+    }
+  }
+}

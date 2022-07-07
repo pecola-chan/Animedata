@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-15T01:09:29.000Z",
+  "checkedAt": "2022-05-15T01:09:29.000Z",
+  "id": 32219,
+  "type": "anime",
+  "title": "Raldessia Chronicles",
+  "altTitle": [
+    "Raldessia Chronicles",
+    "ラルディシア クロニクル"
+  ],
+  "url": "https://myanimelist.net/anime/32219/Raldessia_Chronicles",
+  "image": "https://cdn.myanimelist.net/images/anime/4/77367.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mbga.jp/lp/game/rald/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "pzx4": {
+        "createdAt": "2020-10-12T15:54:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8214,
+        "identifier": "pzx4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Raldessia Chronicles",
+        "url": "https://9anime.to/watch/raldessia-chronicles.pzx4",
+        "image": "https://static.akacdn.ru/files/images/2018/04/59b5505f6acad6d3445615681701d081.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32219,
+        "aniId": 102773,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "1983": {
+        "identifier": "1983",
+        "malId": 32219,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Raldessia Chronicles",
+        "url": "https://yugen.to/anime/1983/robotech-the-shadow-chronicles/"
+      }
+    }
+  }
+}

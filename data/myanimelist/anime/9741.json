@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T22:31:52.000Z",
+  "checkedAt": "2022-05-14T22:31:52.000Z",
+  "id": 9741,
+  "type": "anime",
+  "title": "Nana to Kaoru",
+  "altTitle": [
+    "Nana and Kaoru",
+    "ナナとカオル"
+  ],
+  "url": "https://myanimelist.net/anime/9741/Nana_to_Kaoru",
+  "image": "https://cdn.myanimelist.net/images/anime/5/27379.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.younganimal.com/nanatokaoru/anime.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8066"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12113"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ナナとカオル"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8066,
+  "Pages": {
+    "9anime": {
+      "kxj4": {
+        "createdAt": "2020-10-12T15:52:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5671,
+        "identifier": "kxj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nana to Kaoru",
+        "url": "https://9anime.to/watch/nana-to-kaoru.kxj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Vd0xUKOCzO8/V7xXuV0pW2I/AAAAAAAA43c/l9T8gym6mNw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9741,
+        "aniId": 9741,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9741": {
+        "identifier": "9741",
+        "malId": 9741,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nana to Kaoru",
+        "url": "https://animixplay.to/anime/9741"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "createdAt": "2022-02-03T12:35:50.000Z",
+  "updatedAt": "2022-02-03T12:36:27.000Z",
+  "checkedAt": null,
+  "id": 40056,
+  "identifier": "aika-zero-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Aika Zero OVA",
+  "url": "https://gogoanime.pe/category/aika-zero-ova",
+  "image": "https://gogocdn.net/images/anime/A/aika-zero.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6443,
+  "aniId": 6443,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:51.000Z",
+    "updatedAt": "2022-05-14T23:49:11.000Z",
+    "checkedAt": "2022-05-14T23:49:11.000Z",
+    "id": 6443,
+    "type": "anime",
+    "title": "AIKa Zero",
+    "altTitle": [
+      "AIKa: ZERO",
+      "AIKa ZERO"
+    ],
+    "url": "https://myanimelist.net/anime/6443/AIKa_Zero",
+    "image": "https://cdn.myanimelist.net/images/anime/2/14628.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aika-zero.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6526"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10832"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/AIKa_R-16:_Virgin_Mission"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6526
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:56.000Z",
+    "updatedAt": "2022-05-15T12:51:11.000Z",
+    "checkedAt": "2022-05-15T12:51:11.000Z",
+    "id": 6443,
+    "type": "anime",
+    "title": "AIKa: ZERO",
+    "altTitle": [],
+    "url": "https://anilist.co/anime/6443",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx6443-BIUWdiztRIFb.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6443,
+    "deletedAt": null
+  }
+}

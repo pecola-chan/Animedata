@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T09:43:37.000Z",
+  "checkedAt": "2022-05-14T09:43:37.000Z",
+  "id": 116,
+  "type": "anime",
+  "title": "El Hazard: The Wanderers",
+  "altTitle": [
+    "Shinpi no Sekai El-Hazard TV",
+    "Shinpi no Sekai El-Hazard",
+    "El-Hazard: The Magnificent World (TV)",
+    "El-Hazard: The Wanderers",
+    "神秘の世界エルハザード"
+  ],
+  "url": "https://myanimelist.net/anime/116/El_Hazard__The_Wanderers",
+  "image": "https://cdn.myanimelist.net/images/anime/13/24439.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=556"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=263"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/El-Hazard"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273149"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 556,
+  "Pages": {
+    "9anime": {
+      "0mp3": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 582,
+        "identifier": "0mp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "El Hazard: The Wanderers",
+        "url": "https://9anime.to/watch/el-hazard-the-wanderers.0mp3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pEG3AbtFers/V7SR517vEJI/AAAAAAAA32w/TNDtGmfsaMQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 116,
+        "aniId": 116,
+        "deletedAt": null
+      },
+      "v736": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9270,
+        "identifier": "v736",
+        "type": "anime",
+        "page": "9anime",
+        "title": "El Hazard: The Wanderers (Dub)",
+        "url": "https://9anime.to/watch/el-hazard-the-wanderers-dub.v736",
+        "image": "//static.9anime.to/i/cache/images/2018/04/ec8bafbbd71e3ac06ee299103135c110.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 116,
+        "aniId": 116,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1637": {
+        "identifier": "1637",
+        "malId": 116,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "El Hazard: The Wanderers",
+        "url": "https://animepahe.com/a/1637"
+      }
+    },
+    "AniMixPlay": {
+      "116": {
+        "identifier": "116",
+        "malId": 116,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "El Hazard: The Wanderers",
+        "url": "https://animixplay.to/anime/116"
+      }
+    },
+    "YugenAnime": {
+      "5112": {
+        "identifier": "5112",
+        "malId": 116,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "El Hazard: The Wanderers",
+        "url": "https://yugen.to/anime/5112/el-hazard-the-wanderers/"
+      }
+    }
+  }
+}

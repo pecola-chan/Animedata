@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T19:42:18.000Z",
+  "checkedAt": "2022-05-14T19:42:18.000Z",
+  "id": 6987,
+  "type": "anime",
+  "title": "Aki-Sora",
+  "altTitle": [
+    "Akisora",
+    "Autumn Sky",
+    "Aki Sora",
+    "あきそら"
+  ],
+  "url": "https://myanimelist.net/anime/6987/Aki-Sora",
+  "image": "https://cdn.myanimelist.net/images/anime/10/18611.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6782"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11150"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aki_Sora"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6782,
+  "Pages": {
+    "9anime": {
+      "nrvl": {
+        "createdAt": "2020-10-12T15:54:01.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7229,
+        "identifier": "nrvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aki-Sora",
+        "url": "https://9anime.to/watch/aki-sora.nrvl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ta42SNIHKas/V6gCPMRZYOI/AAAAAAAA1ME/g9B8zH0dGlk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6987,
+        "aniId": 6987,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4248": {
+        "identifier": "4248",
+        "malId": 6987,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aki-Sora",
+        "url": "https://animepahe.com/a/4248"
+      }
+    },
+    "AniMixPlay": {
+      "6987": {
+        "identifier": "6987",
+        "malId": 6987,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aki-Sora",
+        "url": "https://animixplay.to/anime/6987"
+      }
+    }
+  }
+}

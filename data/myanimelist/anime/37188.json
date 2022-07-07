@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T18:33:53.000Z",
+  "checkedAt": "2022-05-14T18:33:53.000Z",
+  "id": 37188,
+  "type": "anime",
+  "title": "Fumikiri Jikan",
+  "altTitle": [
+    "Crossing Time",
+    "踏切時間"
+  ],
+  "url": "https://myanimelist.net/anime/37188/Fumikiri_Jikan",
+  "image": "https://cdn.myanimelist.net/images/anime/1598/91857.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://fumikirijikan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13753"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20578"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276109"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13753,
+  "Pages": {
+    "9anime": {
+      "kz8r": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5701,
+        "identifier": "kz8r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fumikiri Jikan",
+        "url": "https://9anime.to/watch/crossing-time.kz8r",
+        "image": "//static.9anime.to/i/cache/images/2018/04/a5edb615af1f9b9f53a368802adc5861.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37188,
+        "aniId": 101002,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fumikiri-jikan": {
+        "createdAt": "2020-10-12T16:00:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17743,
+        "identifier": "fumikiri-jikan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fumikiri Jikan",
+        "url": "https://gogoanime.vc/category/fumikiri-jikan",
+        "image": "https://images.gogoanime.tv/cover/fumikiri-jikan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37188,
+        "aniId": 101002,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2534": {
+        "identifier": "2534",
+        "malId": 37188,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fumikiri Jikan",
+        "url": "https://animepahe.com/a/2534"
+      }
+    },
+    "AniMixPlay": {
+      "37188": {
+        "identifier": "37188",
+        "malId": 37188,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fumikiri Jikan",
+        "url": "https://animixplay.to/anime/37188"
+      }
+    },
+    "YugenAnime": {
+      "1700": {
+        "identifier": "1700",
+        "malId": 37188,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fumikiri Jikan",
+        "url": "https://yugen.to/anime/1700/fumikiri-jikan/"
+      }
+    }
+  }
+}

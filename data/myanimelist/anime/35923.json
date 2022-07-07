@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T23:19:17.000Z",
+  "checkedAt": "2022-05-14T23:19:17.000Z",
+  "id": 35923,
+  "type": "anime",
+  "title": "Ame-iro Cocoa Series: Ame-con!!",
+  "altTitle": [
+    "Ameiro Cocoa Series: Amecon!!",
+    "Rainy Cocoa Ame-con!!",
+    "Ame-iro Cocoa 4",
+    "Ame-Con!!",
+    "雨色ココアシリーズ あめこん!!"
+  ],
+  "url": "https://myanimelist.net/anime/35923/Ame-iro_Cocoa_Series__Ame-con",
+  "image": "https://cdn.myanimelist.net/images/anime/1165/111716.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://rainycocoa.jp/anime/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13282"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20054"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rainy_Cocoa"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274431"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13282,
+  "Pages": {
+    "9anime": {
+      "5nq0": {
+        "createdAt": "2020-10-12T15:50:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2703,
+        "identifier": "5nq0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ame-Con!!",
+        "url": "https://9anime.to/watch/ame-con.5nq0",
+        "image": "https://static.akacdn.ru/static/images/2018/04/6ff300abe737a822404db85ddc11095b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35923,
+        "aniId": 99741,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ame-iro-cocoa-series-ame-con": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16510,
+        "identifier": "ame-iro-cocoa-series-ame-con",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ame-iro Cocoa Series: Ame-con!!",
+        "url": "https://gogoanime.vc/category/ame-iro-cocoa-series-ame-con",
+        "image": "https://images.gogoanime.tv/cover/ame-iro-cocoa-series-ame-con.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35923,
+        "aniId": 99741,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2281": {
+        "identifier": "2281",
+        "malId": 35923,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ame-iro Cocoa Series: Ame-con!!",
+        "url": "https://animepahe.com/a/2281"
+      }
+    },
+    "AniMixPlay": {
+      "35923": {
+        "identifier": "35923",
+        "malId": 35923,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ame-iro Cocoa Series: Ame-con!!",
+        "url": "https://animixplay.to/anime/35923"
+      }
+    },
+    "YugenAnime": {
+      "6836": {
+        "identifier": "6836",
+        "malId": 35923,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ame-iro Cocoa Series: Ame-con!!",
+        "url": "https://yugen.to/anime/6836/ame-iro-cocoa-series-ame-con/"
+      }
+    }
+  }
+}

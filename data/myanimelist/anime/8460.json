@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-14T17:42:47.000Z",
+  "checkedAt": "2022-05-14T17:42:46.000Z",
+  "id": 8460,
+  "type": "anime",
+  "title": "Mirai Nikki",
+  "altTitle": [
+    "The Future Diary OVA",
+    "Mirai Nikki OVA",
+    "未来日記"
+  ],
+  "url": "https://myanimelist.net/anime/8460/Mirai_Nikki",
+  "image": "https://cdn.myanimelist.net/images/anime/10/22971.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kadokawa.co.jp/shop/sp/shop_sp_137.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7432"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11373"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mirai_Nikki"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7432,
+  "Pages": {
+    "Gogoanime": {
+      "mirai-nikki-ova": {
+        "createdAt": "2020-10-12T16:01:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19446,
+        "identifier": "mirai-nikki-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mirai Nikki OVA",
+        "url": "https://gogoanime.vc/category/mirai-nikki-ova",
+        "image": "https://gogocdn.net/cover/mirai-nikki-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8460,
+        "aniId": 8460,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2996": {
+        "identifier": "2996",
+        "malId": 8460,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mirai Nikki",
+        "url": "https://animepahe.com/a/2996"
+      }
+    },
+    "AniMixPlay": {
+      "8460": {
+        "identifier": "8460",
+        "malId": 8460,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mirai Nikki",
+        "url": "https://animixplay.to/anime/8460"
+      }
+    },
+    "YugenAnime": {
+      "4596": {
+        "identifier": "4596",
+        "malId": 8460,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mirai Nikki OVA",
+        "url": "https://yugen.to/anime/4596/mirai-nikki-ova/"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-15T16:08:30.000Z",
+  "checkedAt": "2022-05-15T16:08:30.000Z",
+  "id": 12905,
+  "type": "anime",
+  "title": "Tsuki ga Noboru made ni",
+  "altTitle": [
+    "月がのぼるまでに"
+  ],
+  "url": "https://myanimelist.net/anime/12905/Tsuki_ga_Noboru_made_ni",
+  "image": "https://cdn.myanimelist.net/images/anime/8/36215.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6611"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7334"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6611,
+  "Pages": {
+    "9anime": {
+      "q94j": {
+        "createdAt": "2020-10-12T15:55:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8374,
+        "identifier": "q94j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsuki ga Noboru made ni",
+        "url": "https://9anime.to/watch/tsuki-ga-noboru-made-ni.q94j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SYGkfv_S_bQ/WRhb8Z0UwTI/AAAAAAAAnWw/MRtICJaZhEwQKNP2GoRQvtcbk_gaZIBGgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12905,
+        "aniId": 12905,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tsuki-ga-noboru-made-ni": {
+        "createdAt": "2021-10-20T20:59:28.000Z",
+        "updatedAt": "2021-10-20T21:29:17.000Z",
+        "checkedAt": null,
+        "id": 39075,
+        "identifier": "tsuki-ga-noboru-made-ni",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsuki ga Noboru made ni",
+        "url": "https://gogoanime.pe/category/tsuki-ga-noboru-made-ni",
+        "image": "https://gogocdn.net/cover/tsuki-ga-noboru-made-ni.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12905,
+        "aniId": 12905,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "12905": {
+        "identifier": "12905",
+        "malId": 12905,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsuki ga Noboru made ni",
+        "url": "https://animixplay.to/anime/12905"
+      }
+    },
+    "YugenAnime": {
+      "4886": {
+        "identifier": "4886",
+        "malId": 12905,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsuki ga Noboru made ni",
+        "url": "https://yugen.to/anime/4886/tsuki-ga-noboru-made-ni/"
+      }
+    }
+  }
+}

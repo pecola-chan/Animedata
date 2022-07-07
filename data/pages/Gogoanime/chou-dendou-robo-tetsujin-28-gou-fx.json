@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-07-10T22:13:53.000Z",
+  "updatedAt": "2021-07-10T22:43:17.000Z",
+  "checkedAt": null,
+  "id": 37794,
+  "identifier": "chou-dendou-robo-tetsujin-28-gou-fx",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Chou Dendou Robo Tetsujin 28-gou FX",
+  "url": "https://gogoanime.pe/category/chou-dendou-robo-tetsujin-28-gou-fx",
+  "image": "https://gogocdn.net/cover/chou-dendou-robo-tetsujin-28-gou-fx.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 10319,
+  "aniId": 10319,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:05.000Z",
+    "updatedAt": "2022-06-18T12:07:43.000Z",
+    "checkedAt": "2022-06-18T12:07:43.000Z",
+    "id": 10319,
+    "type": "anime",
+    "title": "Chou Dendou Robo Tetsujin 28-gou FX",
+    "altTitle": [
+      "Tetsujin 28-go FX",
+      "Super Electric Robot Iron Man #28 FX",
+      "超電動ロボ 鉄人28号FX"
+    ],
+    "url": "https://myanimelist.net/anime/10319/Chou_Dendou_Robo_Tetsujin_28-gou_FX",
+    "image": "https://cdn.myanimelist.net/images/anime/7/28734.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://mv.avex.jp/28fx/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1673"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2456"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%B6%85%E9%9B%BB%E5%8B%95%E3%83%AD%E3%83%9C_%E9%89%84%E4%BA%BA28%E5%8F%B7FX"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1673
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:39:15.000Z",
+    "updatedAt": "2022-06-18T12:07:42.000Z",
+    "checkedAt": "2022-06-18T12:07:42.000Z",
+    "id": 10319,
+    "type": "anime",
+    "title": "Tetsujin 28-go FX",
+    "altTitle": [
+      "超電動ロボ 鉄人28号FX",
+      "Chou Dendou Robo Tetsujin 28-gou FX",
+      "Super Electric Robot Iron Man #28 FX"
+    ],
+    "url": "https://anilist.co/anime/10319",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10319.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10319,
+    "deletedAt": null
+  }
+}

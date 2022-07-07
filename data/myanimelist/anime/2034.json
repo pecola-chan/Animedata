@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-13T20:07:49.000Z",
+  "checkedAt": "2022-05-13T20:07:49.000Z",
+  "id": 2034,
+  "type": "anime",
+  "title": "Lovely★Complex",
+  "altTitle": [
+    "Love★Com",
+    "Love Com",
+    "Lovely Complex",
+    "ラブ★コン"
+  ],
+  "url": "https://myanimelist.net/anime/2034/Lovely★Complex",
+  "image": "https://cdn.myanimelist.net/images/anime/11/75563.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/lovecom/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5053"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7468"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lovely_Complex"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278975"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5053,
+  "Pages": {
+    "9anime": {
+      "jj12": {
+        "createdAt": "2020-10-12T15:52:08.000Z",
+        "updatedAt": "2022-06-13T22:30:39.000Z",
+        "checkedAt": "2022-06-13T22:30:39.000Z",
+        "id": 4834,
+        "identifier": "jj12",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lovely★Complex",
+        "url": "https://9anime.to/watch/lovely-complex.jj12",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/95c92464a9ce7e066761e85638ef2b4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2034,
+        "aniId": 2034,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "lovely-complex": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19159,
+        "identifier": "lovely-complex",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lovely Complex",
+        "url": "https://gogoanime.vc/category/lovely-complex",
+        "image": "https://cdnimg.xyz/images/Lovely Complex.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2034,
+        "aniId": 2034,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "735": {
+        "identifier": "735",
+        "malId": 2034,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Lovely★Complex",
+        "url": "https://animepahe.com/a/735"
+      }
+    },
+    "AniMixPlay": {
+      "2034": {
+        "identifier": "2034",
+        "malId": 2034,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lovely★Complex",
+        "url": "https://animixplay.to/anime/2034"
+      }
+    },
+    "YugenAnime": {
+      "1512": {
+        "identifier": "1512",
+        "malId": 2034,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lovely★Complex",
+        "url": "https://yugen.to/anime/1512/lovely-complex/"
+      }
+    }
+  }
+}

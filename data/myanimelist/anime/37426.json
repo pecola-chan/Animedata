@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-13T21:12:57.000Z",
+  "checkedAt": "2022-05-13T21:12:57.000Z",
+  "id": 37426,
+  "type": "anime",
+  "title": "Sarazanmai",
+  "altTitle": [
+    "Sarazanmai",
+    "さらざんまい"
+  ],
+  "url": "https://myanimelist.net/anime/37426/Sarazanmai",
+  "image": "https://cdn.myanimelist.net/images/anime/1159/100455.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sarazanmai.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13869"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21544"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sarazanmai"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277825"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/sarazanmai"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13869,
+  "Pages": {
+    "9anime": {
+      "4njk": {
+        "createdAt": "2020-10-12T15:50:10.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2298,
+        "identifier": "4njk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sarazanmai (Dub)",
+        "url": "https://9anime.to/watch/sarazanmai-dub.4njk",
+        "image": "https://static.akacdn.ru/files/images/2019/05/ebce7b47a107d1fc24e02a8bce24add8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37426,
+        "aniId": 101261,
+        "deletedAt": null
+      },
+      "4o6m": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2022-02-03T14:48:03.000Z",
+        "checkedAt": null,
+        "id": 2315,
+        "identifier": "4o6m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sarazanmai",
+        "url": "https://9anime.to/watch/sarazanmai.4o6m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/04/ee7a74cc7773c95ac3efbcacfe0fe72f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37426,
+        "aniId": 101261,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sarazanmai": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20431,
+        "identifier": "sarazanmai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sarazanmai",
+        "url": "https://gogoanime.vc/category/sarazanmai",
+        "image": "https://cdnimg.xyz/cover/sarazanmai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37426,
+        "aniId": 101261,
+        "deletedAt": null
+      },
+      "sarazanmai-dub": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20432,
+        "identifier": "sarazanmai-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sarazanmai (Dub)",
+        "url": "https://gogoanime.vc/category/sarazanmai-dub",
+        "image": "https://cdnimg.xyz/cover/sarazanmai-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37426,
+        "aniId": 101261,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3219": {
+        "identifier": "3219",
+        "malId": 37426,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sarazanmai",
+        "url": "https://animepahe.com/a/3219"
+      }
+    },
+    "AniMixPlay": {
+      "37426": {
+        "identifier": "37426",
+        "malId": 37426,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sarazanmai",
+        "url": "https://animixplay.to/anime/37426"
+      }
+    },
+    "YugenAnime": {
+      "593": {
+        "identifier": "593",
+        "malId": 37426,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sarazanmai",
+        "url": "https://yugen.to/anime/593/sarazanmai/"
+      }
+    }
+  }
+}

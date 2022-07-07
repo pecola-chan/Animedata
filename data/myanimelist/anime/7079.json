@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T19:43:11.000Z",
+  "checkedAt": "2022-05-14T19:43:11.000Z",
+  "id": 7079,
+  "type": "anime",
+  "title": "Ookamikakushi",
+  "altTitle": [
+    "Wolfed Away",
+    "Okamikakushi: Masque of the Wolf",
+    "おおかみかくし"
+  ],
+  "url": "https://myanimelist.net/anime/7079/Ookamikakushi",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21784.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/okami/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7134"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11045"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/%C5%8Ckami_Kakushi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/okamikakushi-masque-of-the-wolf"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7134,
+  "Pages": {
+    "9anime": {
+      "w1k7": {
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9597,
+        "identifier": "w1k7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ookamikakushi",
+        "url": "https://9anime.to/watch/ookamikakushi.w1k7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MVfjWBTMbPs/V5IWARTnMOI/AAAAAAAAxP0/PqFFLmIm5XU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7079,
+        "aniId": 7079,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ookamikakushi": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19905,
+        "identifier": "ookamikakushi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ookamikakushi",
+        "url": "https://gogoanime.vc/category/ookamikakushi",
+        "image": "https://gogocdn.net/cover/ookamikakushi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7079,
+        "aniId": 7079,
+        "deletedAt": null
+      },
+      "ookami-kakushi": {
+        "createdAt": "2020-12-15T16:19:04.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30260,
+        "identifier": "ookami-kakushi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ookami Kakushi",
+        "url": "https://gogoanime.vc/category/ookami-kakushi",
+        "image": "https://gogocdn.net/images/anime/O/ookami-kakushi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7079,
+        "aniId": 7079,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7079": {
+        "identifier": "7079",
+        "malId": 7079,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ookamikakushi",
+        "url": "https://animixplay.to/anime/7079"
+      }
+    },
+    "YugenAnime": {
+      "2984": {
+        "identifier": "2984",
+        "malId": 7079,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ookamikakushi",
+        "url": "https://yugen.to/anime/2984/ookamikakushi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T22:54:29.000Z",
+  "checkedAt": "2022-05-14T22:54:29.000Z",
+  "id": 10920,
+  "type": "anime",
+  "title": "Seikon no Qwaser II Picture Drama",
+  "altTitle": [
+    "Seikon no Quasar II Picture Drama",
+    "The Qwaser Of Stigmata II Picture Drama",
+    "聖痕のクェイサー II ピクチャードラマ"
+  ],
+  "url": "https://myanimelist.net/anime/10920/Seikon_no_Qwaser_II_Picture_Drama",
+  "image": "https://cdn.myanimelist.net/images/anime/3/30153.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.qwaser.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8154"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Seikon_No_Qwaser"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8154,
+  "Pages": {
+    "9anime": {
+      "49xm": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2218,
+        "identifier": "49xm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikon no Qwaser II Picture Drama",
+        "url": "https://9anime.to/watch/seikon-no-qwaser-ii-picture-drama.49xm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-V1ahNc3iilc/WCCvBH7oE3I/AAAAAAABN1M/cs65YtXbhhI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10920,
+        "aniId": 10920,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3173": {
+        "identifier": "3173",
+        "malId": 10920,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikon no Qwaser II Picture Drama",
+        "url": "https://animepahe.com/a/3173"
+      }
+    },
+    "AniMixPlay": {
+      "10920": {
+        "identifier": "10920",
+        "malId": 10920,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikon no Qwaser II Picture Drama",
+        "url": "https://animixplay.to/anime/10920"
+      }
+    }
+  }
+}

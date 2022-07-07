@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T16:01:12.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19294,
+  "identifier": "maicching-machiko-sensei",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Maicching Machiko Sensei",
+  "url": "https://gogoanime.vc/category/maicching-machiko-sensei",
+  "image": "https://cdnimg.xyz/cover/maicching-machiko-sensei.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3391,
+  "aniId": 3391,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:37.000Z",
+    "updatedAt": "2022-05-14T15:52:02.000Z",
+    "checkedAt": "2022-05-14T15:52:02.000Z",
+    "id": 3391,
+    "type": "anime",
+    "title": "Maicching Machiko-sensei",
+    "altTitle": [
+      "Shame of Teacher Machiko",
+      "Maicchingu Machiko Sensei",
+      "Maitchingu Machiko Sensei",
+      "Miss Machiko",
+      "まいっちんぐマチコ先生"
+    ],
+    "url": "https://myanimelist.net/anime/3391/Maicching_Machiko-sensei",
+    "image": "https://cdn.myanimelist.net/images/anime/7/60423.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/machiko/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4056"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=636"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Miss_Machiko"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-270055"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4056
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:23.000Z",
+    "updatedAt": "2022-05-15T13:07:11.000Z",
+    "checkedAt": "2022-05-15T13:07:11.000Z",
+    "id": 3391,
+    "type": "anime",
+    "title": "Maicching Machiko Sensei",
+    "altTitle": [
+      "Miss Machiko",
+      "まいっちんぐマチコ先生",
+      "Shame of Teacher Machiko",
+      "Maicchingu Machiko Sensei",
+      "Maitchingu Machiko Sensei"
+    ],
+    "url": "https://anilist.co/anime/3391",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3391-8YjmrYXxqymK.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G68VJ2046/Miss-Machiko"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/miss-machiko"
+      }
+    ],
+    "malId": 3391,
+    "deletedAt": null
+  }
+}

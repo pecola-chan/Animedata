@@ -1,0 +1,130 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-15T02:59:56.000Z",
+  "checkedAt": "2022-05-15T02:59:56.000Z",
+  "id": 897,
+  "type": "anime",
+  "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+  "altTitle": [
+    "Dragon Ball Z: Lord Slug",
+    "ドラゴンボールZ 超サイヤ人だ孫悟空"
+  ],
+  "url": "https://myanimelist.net/anime/897/Dragon_Ball_Z_Movie_04__Super_Saiyajin_da_Son_Gokuu",
+  "image": "https://cdn.myanimelist.net/images/anime/1620/93667.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://lineup.toei-anim.co.jp/ja/movie/movie_dragonballz_goku/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=763"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=248"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Lord_Slug"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 763,
+  "Pages": {
+    "9anime": {
+      "4jmj": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2229,
+        "identifier": "4jmj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu (Dub)",
+        "url": "https://9anime.to/watch/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu-dub.4jmj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KM9f2f1OdQ0/V6XhhSiz6mI/AAAAAAAA00g/-yvwZU3YhXU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 897,
+        "aniId": 897,
+        "deletedAt": null
+      },
+      "y8oz": {
+        "createdAt": "2020-10-12T15:56:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10646,
+        "identifier": "y8oz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+        "url": "https://9anime.to/watch/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.y8oz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EHoS15jLTGM/V_pk6JWdXuI/AAAAAAABFvs/_qc_9i31AGs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 897,
+        "aniId": 897,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dragon-ball-z-movie-4-lord-slug": {
+        "createdAt": "2021-10-25T21:02:21.000Z",
+        "updatedAt": "2021-10-26T13:30:54.000Z",
+        "checkedAt": null,
+        "id": 39106,
+        "identifier": "dragon-ball-z-movie-4-lord-slug",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dragon Ball Z Movie 4 – Lord Slug",
+        "url": "https://gogoanime.pe/category/dragon-ball-z-movie-4-lord-slug",
+        "image": "https://gogocdn.net/images/anime/D/145588.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 897,
+        "aniId": 897,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3998": {
+        "identifier": "3998",
+        "malId": 897,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+        "url": "https://animepahe.com/a/3998"
+      }
+    },
+    "AniMixPlay": {
+      "897": {
+        "identifier": "897",
+        "malId": 897,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+        "url": "https://animixplay.to/anime/897"
+      }
+    },
+    "YugenAnime": {
+      "5165": {
+        "identifier": "5165",
+        "malId": 897,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+        "url": "https://yugen.to/anime/5165/dragon-ball-z-movie-04-lord-slug/"
+      }
+    }
+  }
+}

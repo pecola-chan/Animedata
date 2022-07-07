@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T22:56:41.000Z",
+  "checkedAt": "2022-05-14T22:56:41.000Z",
+  "id": 5526,
+  "type": "anime",
+  "title": "Pokemon: Pikachu no Natsuyasumi",
+  "altTitle": [
+    "Pocket Monsters: Pikachu no Natsuyasumi",
+    "Pikachu Short 1",
+    "Pokemon: Pikachu's Summer Vacation",
+    "ピカチュウのなつやすみ"
+  ],
+  "url": "https://myanimelist.net/anime/5526/Pokemon__Pikachu_no_Natsuyasumi",
+  "image": "https://cdn.myanimelist.net/images/anime/1927/97383.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pokemon.co.jp/anime/movie/1998/pika.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6796"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4618"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6796,
+  "Pages": {
+    "9anime": {
+      "7po7": {
+        "createdAt": "2020-10-12T15:51:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3527,
+        "identifier": "7po7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon: Pikachu no Natsuyasumi",
+        "url": "https://9anime.to/watch/pokemon-pikachu-no-natsuyasumi.7po7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UpD39pyT-Mw/WXrnnceFtKI/AAAAAAAAARY/D2lYNs-3MTM8g2yPmzfcB4ILWqVU6S_UwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5526,
+        "aniId": 5526,
+        "deletedAt": null
+      },
+      "8qpv": {
+        "createdAt": "2020-10-12T15:51:31.000Z",
+        "updatedAt": "2021-12-08T09:36:31.000Z",
+        "checkedAt": null,
+        "id": 3990,
+        "identifier": "8qpv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pikachu no Natsuyasumi (Dub)",
+        "url": "https://9anime.to/watch/pokemon-pikachus-vacation-dub.8qpv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ee4f1fff7e61a2e8c69e14dd276aecc8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5526,
+        "aniId": 5526,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5526": {
+        "identifier": "5526",
+        "malId": 5526,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon: Pikachu no Natsuyasumi",
+        "url": "https://animixplay.to/anime/5526"
+      }
+    }
+  }
+}

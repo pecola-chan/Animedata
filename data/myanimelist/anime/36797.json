@@ -1,0 +1,109 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-15T01:30:54.000Z",
+  "checkedAt": "2022-05-15T01:30:54.000Z",
+  "id": 36797,
+  "type": "anime",
+  "title": "gdMen",
+  "altTitle": [
+    "Guda Men",
+    "gdgd men's Party",
+    "gdメン"
+  ],
+  "url": "https://myanimelist.net/anime/36797/gdMen",
+  "image": "https://cdn.myanimelist.net/images/anime/4/88981.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gdmen.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13582"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275307"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13582,
+  "Pages": {
+    "9anime": {
+      "m1o7": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6316,
+        "identifier": "m1o7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "gdgd men's Party",
+        "url": "https://9anime.to/watch/gdgd-mens-party.m1o7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9XaR1tVrqiA/WlgOplb03II/AAAAAAAADWA/AovB763-vbUOGcj-egdTBMwF5a3HIgDMACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36797,
+        "aniId": 100527,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gdmen": {
+        "createdAt": "2020-10-12T16:00:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17822,
+        "identifier": "gdmen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "gdMen",
+        "url": "https://gogoanime.vc/category/gdmen",
+        "image": "https://images.gogoanime.tv/cover/gdmen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36797,
+        "aniId": 100527,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2458": {
+        "identifier": "2458",
+        "malId": 36797,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "gdMen",
+        "url": "https://animepahe.com/a/2458"
+      }
+    },
+    "AniMixPlay": {
+      "36797": {
+        "identifier": "36797",
+        "malId": 36797,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "gdMen",
+        "url": "https://animixplay.to/anime/36797"
+      }
+    },
+    "YugenAnime": {
+      "1103": {
+        "identifier": "1103",
+        "malId": 36797,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "gdMen",
+        "url": "https://yugen.to/anime/1103/gdmen/"
+      }
+    }
+  }
+}

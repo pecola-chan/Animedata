@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-01-19T00:33:43.000Z",
+  "updatedAt": "2022-05-15T00:33:41.000Z",
+  "checkedAt": "2022-05-15T00:33:41.000Z",
+  "id": 23363,
+  "type": "anime",
+  "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.: Ore no Imouto ga Konnani Eroge na Wake Nai",
+  "altTitle": [
+    "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Gal Game Animation",
+    "俺の妹がこんなに可愛いわけがない。 俺の妹がこんなにエロゲーなわけがない〜逆襲の秋美〜"
+  ],
+  "url": "https://myanimelist.net/anime/23363/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai__Ore_no_Imouto_ga_Konnani_Eroge_na_Wake_Nai",
+  "image": "https://cdn.myanimelist.net/images/anime/9/60363.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oreimo-anime.com/pkg/08.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9134"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9134,
+  "Pages": {
+    "9anime": {
+      "52rpm": {
+        "createdAt": "2021-09-02T17:46:09.000Z",
+        "updatedAt": "2021-09-02T18:15:45.000Z",
+        "checkedAt": null,
+        "id": 38526,
+        "identifier": "52rpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.: Ore no Imouto ga Konnani Eroge na Wake Nai",
+        "url": "https://9anime.to/watch/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-ore-no-imouto-ga-konnani-eroge-na-wake-nai.52rpm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/af/afe37c38a97f01411885c34ce9babecf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23363,
+        "aniId": 20892,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2734": {
+        "identifier": "2734",
+        "malId": 23363,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.: Ore no Imouto ga Konnani Eroge na Wake Nai",
+        "url": "https://animepahe.com/a/2734"
+      }
+    }
+  }
+}

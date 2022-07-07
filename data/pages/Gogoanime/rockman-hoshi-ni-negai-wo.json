@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-02-28T09:44:16.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35336,
+  "identifier": "rockman-hoshi-ni-negai-wo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Rockman Hoshi ni Negai wo",
+  "url": "https://gogoanime.vc/category/rockman-hoshi-ni-negai-wo",
+  "image": "https://gogocdn.net/cover/rockman-hoshi-ni-negai-wo.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1854,
+  "aniId": 1854,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:22.000Z",
+    "updatedAt": "2022-05-15T17:34:27.000Z",
+    "checkedAt": "2022-05-15T17:34:27.000Z",
+    "id": 1854,
+    "type": "anime",
+    "title": "Rockman Hoshi ni Negai wo",
+    "altTitle": [
+      "Rockman OVA",
+      "MegaMan: Wishing upon a Star",
+      "ロックマン星に願いを"
+    ],
+    "url": "https://myanimelist.net/anime/1854/Rockman_Hoshi_ni_Negai_wo",
+    "image": "https://cdn.myanimelist.net/images/anime/12/30310.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1144"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4000"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1144
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:02.000Z",
+    "updatedAt": "2022-05-15T20:14:47.000Z",
+    "checkedAt": "2022-05-15T20:14:47.000Z",
+    "id": 1854,
+    "type": "anime",
+    "title": "Rockman Hoshi ni Negai wo",
+    "altTitle": [
+      "Mega Man: Upon a Star",
+      "ロックマン星に願いを",
+      "Rockman OVA",
+      "Rockman Wishing Upon a Star"
+    ],
+    "url": "https://anilist.co/anime/1854",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1854-8qWMEFsdFcWw.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1854,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:02:16.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21473,
+  "identifier": "xing-chen-bian",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Xing Chen Bian",
+  "url": "https://gogoanime.vc/category/xing-chen-bian",
+  "image": "https://cdnimg.xyz/cover/xing-chen-bian.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38491,
+  "aniId": 105626,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:06.000Z",
+    "updatedAt": "2022-05-14T19:57:53.000Z",
+    "checkedAt": "2022-05-14T19:57:53.000Z",
+    "id": 38491,
+    "type": "anime",
+    "title": "Xingchen Bian",
+    "altTitle": [
+      "Xing Chen Bian",
+      "Legend of Immortals",
+      "Stellar Transformation",
+      "星辰变"
+    ],
+    "url": "https://myanimelist.net/anime/38491/Xingchen_Bian",
+    "image": "https://cdn.myanimelist.net/images/anime/1445/95414.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://v.qq.com/detail/0/0s8n49g3g1rv1oz.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14645"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%98%9F%E8%BE%B0%E5%8F%98/22582624#viewPageContent"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14645
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:48.000Z",
+    "updatedAt": "2022-05-15T10:43:23.000Z",
+    "checkedAt": "2022-05-15T10:43:23.000Z",
+    "id": 105626,
+    "type": "anime",
+    "title": "Xingchen Bian",
+    "altTitle": [
+      "Legend of Immortals",
+      "星辰变",
+      "Stellar Transformation",
+      "Xing Chen Bian"
+    ],
+    "url": "https://anilist.co/anime/105626",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105626-8XaQKngxBXa8.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38491,
+    "deletedAt": null
+  }
+}

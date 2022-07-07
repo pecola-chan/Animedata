@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-14T21:45:05.000Z",
+  "checkedAt": "2022-05-14T21:45:05.000Z",
+  "id": 11615,
+  "type": "anime",
+  "title": "Morita-san wa Mukuchi. 2",
+  "altTitle": [
+    "Miss Morita is Taciturn (TV) 2",
+    "森田さんは無口。２"
+  ],
+  "url": "https://myanimelist.net/anime/11615/Morita-san_wa_Mukuchi_2",
+  "image": "https://cdn.myanimelist.net/images/anime/7/32933.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.takeshobo.co.jp/sp/tv_moritasan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8700"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13638"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/森田さんは無口"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8700,
+  "Pages": {
+    "9anime": {
+      "4wlk": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2407,
+        "identifier": "4wlk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Morita-san wa Mukuchi. 2",
+        "url": "https://9anime.to/watch/morita-san-wa-mukuchi-2.4wlk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dlearre0xMY/V8_w8N5ojzI/AAAAAAAA8MA/GKRC6fOnhDk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11615,
+        "aniId": 11615,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "11615": {
+        "identifier": "11615",
+        "malId": 11615,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Morita-san wa Mukuchi. 2",
+        "url": "https://animixplay.to/anime/11615"
+      }
+    }
+  }
+}

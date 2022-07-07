@@ -1,0 +1,200 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T09:44:23.000Z",
+  "checkedAt": "2022-05-14T09:44:23.000Z",
+  "id": 6702,
+  "type": "anime",
+  "title": "Fairy Tail",
+  "altTitle": [
+    "Fairy Tail",
+    "FAIRY TAIL（フェアリーテイル）"
+  ],
+  "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+  "image": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/fairytail2013/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6662"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10942"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fairy_Tail"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260449"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/fairy-tail"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6662,
+  "Pages": {
+    "9anime": {
+      "6xl4": {
+        "createdAt": "2020-10-12T15:50:54.000Z",
+        "updatedAt": "2022-05-16T15:15:08.000Z",
+        "checkedAt": "2022-05-16T15:14:53.000Z",
+        "id": 3239,
+        "identifier": "6xl4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "FAIRY TAIL (Dub)",
+        "url": "https://9anime.to/watch/fairy-tail-dub.6xl4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/10/b97865131f2295256d670373968fad0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6702,
+        "aniId": 6702,
+        "deletedAt": null
+      },
+      "n48": {
+        "createdAt": "2020-10-12T15:53:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6939,
+        "identifier": "n48",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fairy Tail",
+        "url": "https://9anime.to/watch/fairy-tail.n48",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FOKlNg0Ln0w/V3OnOar5HGI/AAAAAAAAsGA/E8JjO0c13e0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6702,
+        "aniId": 6702,
+        "deletedAt": null
+      },
+      "1yyx": {
+        "createdAt": "2020-10-23T11:28:46.000Z",
+        "updatedAt": "2022-05-16T15:15:09.000Z",
+        "checkedAt": "2022-05-16T15:14:54.000Z",
+        "id": 27809,
+        "identifier": "1yyx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fairy Tail Zerø",
+        "url": "https://9anime.to/watch/fairy-tail-zero.1yyx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ff87937a0c0613e3f1937965c11481b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6702,
+        "aniId": 6702,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fairy-tail": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2022-05-16T15:15:23.000Z",
+        "checkedAt": "2022-05-16T15:15:07.000Z",
+        "id": 17600,
+        "identifier": "fairy-tail",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fairy Tail",
+        "url": "https://gogoanime.sk/category/fairy-tail",
+        "image": "https://gogocdn.net/images/anime/F/fairy-tail.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6702,
+        "aniId": 6702,
+        "deletedAt": null
+      },
+      "fairy-tail-dub": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2022-05-16T15:15:38.000Z",
+        "checkedAt": "2022-05-16T15:15:19.000Z",
+        "id": 17604,
+        "identifier": "fairy-tail-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fairy Tail (Dub)",
+        "url": "https://gogoanime.sk/category/fairy-tail-dub",
+        "image": "https://gogocdn.net/cover/fairy-tail-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6702,
+        "aniId": 6702,
+        "deletedAt": null
+      },
+      "fairy-tail-the-phoenix-priestess-dub": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2022-05-16T15:15:22.000Z",
+        "checkedAt": "2022-05-16T15:15:06.000Z",
+        "id": 17611,
+        "identifier": "fairy-tail-the-phoenix-priestess-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fairy Tail: The Phoenix Priestess (Dub)",
+        "url": "https://gogoanime.sk/category/fairy-tail-the-phoenix-priestess-dub",
+        "image": "https://gogocdn.net/cover/fairy-tail-the-phoenix-priestess-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6702,
+        "aniId": 6702,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "832": {
+        "identifier": "832",
+        "malId": 6702,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fairy Tail",
+        "url": "https://animepahe.com/a/832"
+      }
+    },
+    "AniMixPlay": {
+      "6702": {
+        "identifier": "6702",
+        "malId": 6702,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fairy Tail",
+        "url": "https://animixplay.to/anime/6702"
+      }
+    },
+    "YugenAnime": {
+      "1558": {
+        "identifier": "1558",
+        "malId": 6702,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fairy Tail",
+        "url": "https://yugen.to/anime/1558/fairy-tail/"
+      }
+    }
+  }
+}

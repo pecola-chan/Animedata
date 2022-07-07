@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-07-25T14:21:34.000Z",
+  "updatedAt": "2021-07-25T15:21:33.000Z",
+  "checkedAt": null,
+  "id": 38024,
+  "identifier": "to-y",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "TO-Y",
+  "url": "https://gogoanime.pe/category/to-y",
+  "image": "https://gogocdn.net/cover/to-y.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2103,
+  "aniId": 2103,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-15T00:20:23.000Z",
+    "checkedAt": "2022-05-15T00:20:23.000Z",
+    "id": 2103,
+    "type": "anime",
+    "title": "TO-Y",
+    "altTitle": [
+      "トーイ"
+    ],
+    "url": "https://myanimelist.net/anime/2103/TO-Y",
+    "image": "https://cdn.myanimelist.net/images/anime/1462/116597.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cjas.org/~leng/to-y.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2922"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=827"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2922
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:12.000Z",
+    "updatedAt": "2022-05-16T00:58:55.000Z",
+    "checkedAt": "2022-05-16T00:58:55.000Z",
+    "id": 2103,
+    "type": "anime",
+    "title": "TO-Y",
+    "altTitle": [
+      "TO-Y",
+      "トーイ"
+    ],
+    "url": "https://anilist.co/anime/2103",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2103.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2103,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T17:41:59.000Z",
+  "checkedAt": "2022-05-14T17:41:59.000Z",
+  "id": 1629,
+  "type": "anime",
+  "title": "Devilman Lady",
+  "altTitle": [
+    "The Devil Lady",
+    "デビルマンレディー"
+  ],
+  "url": "https://myanimelist.net/anime/1629/Devilman_Lady",
+  "image": "https://cdn.myanimelist.net/images/anime/2/18370.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/search/index.php?pdt_no=39"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=749"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=579"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 749,
+  "Pages": {
+    "9anime": {
+      "k43r": {
+        "createdAt": "2020-10-12T15:52:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5251,
+        "identifier": "k43r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devilman Lady",
+        "url": "https://9anime.to/watch/devilman-lady.k43r",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7OpSOS1Vm1g/WBtPZ9GqzOI/AAAAAAABNCc/4e-oiP2GHbM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1629,
+        "aniId": 1629,
+        "deletedAt": null
+      },
+      "l4rq": {
+        "createdAt": "2020-10-12T15:52:58.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5841,
+        "identifier": "l4rq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devilman Lady (Dub)",
+        "url": "https://9anime.to/watch/devilman-lady-dub.l4rq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-O22rrMcCjss/WBtPer3gOOI/AAAAAAABNCg/nL2gZsNppL8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1629,
+        "aniId": 1629,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "devilman-lady": {
+        "createdAt": "2020-10-12T16:00:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17346,
+        "identifier": "devilman-lady",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devilman Lady",
+        "url": "https://gogoanime.vc/category/devilman-lady",
+        "image": "https://cdnimg.xyz/cover/devilman-lady.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1629,
+        "aniId": 1629,
+        "deletedAt": null
+      },
+      "devilman-lady-dub": {
+        "createdAt": "2020-10-12T16:00:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17347,
+        "identifier": "devilman-lady-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devilman Lady (Dub)",
+        "url": "https://gogoanime.vc/category/devilman-lady-dub",
+        "image": "https://cdnimg.xyz/cover/devilman-lady-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1629,
+        "aniId": 1629,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1629": {
+        "identifier": "1629",
+        "malId": 1629,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Devilman Lady",
+        "url": "https://animixplay.to/anime/1629"
+      }
+    },
+    "YugenAnime": {
+      "1231": {
+        "identifier": "1231",
+        "malId": 1629,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Devilman Lady",
+        "url": "https://yugen.to/anime/1231/devilman-lady/"
+      }
+    }
+  }
+}

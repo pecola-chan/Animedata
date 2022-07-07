@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T09:04:23.000Z",
+  "checkedAt": "2022-05-14T09:04:23.000Z",
+  "id": 32379,
+  "type": "anime",
+  "title": "Berserk",
+  "altTitle": [
+    "Berserk",
+    "ベルセルク"
+  ],
+  "url": "https://myanimelist.net/anime/32379/Berserk",
+  "image": "https://cdn.myanimelist.net/images/anime/10/79352.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.berserk-anime.com/1/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11851"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18160"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Berserk_%282016_TV_series%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270639"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11851,
+  "Pages": {
+    "9anime": {
+      "ojmz": {
+        "createdAt": "2020-10-12T15:54:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7485,
+        "identifier": "ojmz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Berserk (2016)",
+        "url": "https://9anime.to/watch/berserk-2016.ojmz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-m8IyLV6LUy8/V5mO9Xial9I/AAAAAAAAydw/wfdtC3ZBPA0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32379,
+        "aniId": 21560,
+        "deletedAt": null
+      },
+      "z6mm": {
+        "createdAt": "2020-10-12T15:57:06.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11056,
+        "identifier": "z6mm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Berserk (2016) (Dub)",
+        "url": "https://9anime.to/watch/berserk-2016-dub.z6mm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FjvMLzABPHc/WNDLkS8f7_I/AAAAAAABgGQ/VdSq9zMg7IE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32379,
+        "aniId": 21560,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "berserk-2016": {
+        "createdAt": "2020-10-12T15:59:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16781,
+        "identifier": "berserk-2016",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Berserk (2016)",
+        "url": "https://gogoanime.vc/category/berserk-2016",
+        "image": "https://cdnimg.xyz/cover/berserk-2016.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32379,
+        "aniId": 21560,
+        "deletedAt": null
+      },
+      "berserk-dub": {
+        "createdAt": "2020-10-12T15:59:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16783,
+        "identifier": "berserk-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Berserk (Dub)",
+        "url": "https://gogoanime.vc/category/berserk-dub",
+        "image": "https://images.gogoanime.tv/cover/berserk-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32379,
+        "aniId": 21560,
+        "deletedAt": null
+      },
+      "berserk-2016-dub": {
+        "createdAt": "2020-12-23T20:26:05.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31016,
+        "identifier": "berserk-2016-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Berserk (2016) (Dub)",
+        "url": "https://gogoanime.vc/category/berserk-2016-dub",
+        "image": "https://gogocdn.net/cover/berserk-2016-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32379,
+        "aniId": 21560,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1094": {
+        "identifier": "1094",
+        "malId": 32379,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Berserk",
+        "url": "https://animepahe.com/a/1094"
+      }
+    },
+    "AniMixPlay": {
+      "32379": {
+        "identifier": "32379",
+        "malId": 32379,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Berserk",
+        "url": "https://animixplay.to/anime/32379"
+      }
+    },
+    "YugenAnime": {
+      "631": {
+        "identifier": "631",
+        "malId": 32379,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Berserk",
+        "url": "https://yugen.to/anime/631/berserk/"
+      }
+    }
+  }
+}

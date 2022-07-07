@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-15T15:03:02.000Z",
+  "checkedAt": "2022-05-15T15:03:02.000Z",
+  "id": 13029,
+  "type": "anime",
+  "title": "Arashi no Yoru ni: Himitsu no Tomodachi",
+  "altTitle": [
+    "On a Stormy Night: Secret Friends",
+    "One Stormy Night",
+    "あらしのよるに ひみつのともだち"
+  ],
+  "url": "https://myanimelist.net/anime/13029/Arashi_no_Yoru_ni__Himitsu_no_Tomodachi",
+  "image": "https://cdn.myanimelist.net/images/anime/4/36603.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/arashinoyoruni/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8872"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14045"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Arashi_no_Yoru_Ni"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8872,
+  "Pages": {
+    "9anime": {
+      "vzx7": {
+        "createdAt": "2020-10-12T15:56:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9563,
+        "identifier": "vzx7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arashi no Yoru ni: Himitsu no Tomodachi",
+        "url": "https://9anime.to/watch/arashi-no-yoru-ni-himitsu-no-tomodachi.vzx7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NE6tRSafaeA/WX7O2y65LLI/AAAAAAAAAfY/fVaUkTX4Ds4V9g7WxEJDNIgWc7E-wOYFQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13029,
+        "aniId": 13029,
+        "deletedAt": null
+      },
+      "w406": {
+        "createdAt": "2020-10-12T15:56:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9652,
+        "identifier": "w406",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arashi no Yoru ni: Himitsu no Tomodachi (Dub)",
+        "url": "https://9anime.to/watch/arashi-no-yoru-ni-himitsu-no-tomodachi-dub.w406",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eAm-1KQMwok/WX7O7YRhO-I/AAAAAAAAAfc/nktChlMZGuMGoh4XW1wgpaya8CbTWHtkQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13029,
+        "aniId": 13029,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "13029": {
+        "identifier": "13029",
+        "malId": 13029,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Arashi no Yoru ni: Himitsu no Tomodachi",
+        "url": "https://animixplay.to/anime/13029"
+      }
+    },
+    "YugenAnime": {
+      "7005": {
+        "identifier": "7005",
+        "malId": 13029,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Arashi no Yoru ni: Himitsu no Tomodachi",
+        "url": "https://yugen.to/anime/7005/arashi-no-yoru-ni-himitsu-no-tomodachi/"
+      }
+    }
+  }
+}

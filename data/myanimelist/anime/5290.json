@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-15T01:43:30.000Z",
+  "checkedAt": "2022-05-15T01:43:30.000Z",
+  "id": 5290,
+  "type": "anime",
+  "title": "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!",
+  "altTitle": [
+    "Chou Gekijouban Keroro Gunso 3: Keroro Tai Keroro - Tenkuu Daikessen de Arimasu!",
+    "Keroro Gunso the Super Movie 3: Keroro vs. Keroro Great Sky Duel de arimasu!",
+    "Keroro Movie 3",
+    "超劇場版ケロロ軍曹3 ケロロ対ケロロ 天空大決戦であります！"
+  ],
+  "url": "https://myanimelist.net/anime/5290/Keroro_Gunsou_Movie_3__Tenkuu_Daikessen_de_Arimasu",
+  "image": "https://cdn.myanimelist.net/images/anime/1558/98560.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.keroro-movie.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5956"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8867"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sgt._Frog"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5956,
+  "Pages": {
+    "9anime": {
+      "zxqp": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11342,
+        "identifier": "zxqp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!",
+        "url": "https://9anime.to/watch/keroro-gunsou-movie-3-tenkuu-daikessen-de-arimasu.zxqp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-QtQzG8p_dPI/V62vf9qr95I/AAAAAAAA2jA/iYVhyzfb-aQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5290,
+        "aniId": 5290,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5290": {
+        "identifier": "5290",
+        "malId": 5290,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!",
+        "url": "https://animixplay.to/anime/5290"
+      }
+    }
+  }
+}

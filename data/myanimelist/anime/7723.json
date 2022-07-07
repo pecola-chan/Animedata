@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T22:05:05.000Z",
+  "checkedAt": "2022-05-14T22:05:05.000Z",
+  "id": 7723,
+  "type": "anime",
+  "title": "Hipira-kun",
+  "altTitle": [
+    "Hipira: The Little Vampire",
+    "ヒピラくん"
+  ],
+  "url": "https://myanimelist.net/anime/7723/Hipira-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/13/46765.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hipira.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7247"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11205"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hipira_kun"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7247,
+  "Pages": {
+    "9anime": {
+      "28j4": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1316,
+        "identifier": "28j4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hipira-kun",
+        "url": "https://9anime.to/watch/hipira-kun.28j4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4eHhL9nZhfM/WO83BifQGOI/AAAAAAAAhf4/4KJsWzUbo-Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7723,
+        "aniId": 7723,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hipira-kun": {
+        "createdAt": "2020-10-12T16:00:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18332,
+        "identifier": "hipira-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hipira-kun",
+        "url": "https://gogoanime.vc/category/hipira-kun",
+        "image": "https://cdnimg.xyz/cover/hipira-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7723,
+        "aniId": 7723,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2879": {
+        "identifier": "2879",
+        "malId": 7723,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hipira-kun",
+        "url": "https://animepahe.com/a/2879"
+      }
+    },
+    "AniMixPlay": {
+      "7723": {
+        "identifier": "7723",
+        "malId": 7723,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hipira-kun",
+        "url": "https://animixplay.to/anime/7723"
+      }
+    },
+    "YugenAnime": {
+      "1926": {
+        "identifier": "1926",
+        "malId": 7723,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hipira-kun",
+        "url": "https://yugen.to/anime/1926/hipira-kun/"
+      }
+    }
+  }
+}

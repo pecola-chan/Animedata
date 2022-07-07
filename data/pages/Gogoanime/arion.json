@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-08-29T16:36:38.000Z",
+  "updatedAt": "2021-08-29T17:06:34.000Z",
+  "checkedAt": null,
+  "id": 38475,
+  "identifier": "arion",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Arion",
+  "url": "https://gogoanime.pe/category/arion",
+  "image": "https://gogocdn.net/cover/arion.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 791,
+  "aniId": 791,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T18:59:29.000Z",
+    "checkedAt": "2022-05-14T18:59:29.000Z",
+    "id": 791,
+    "type": "anime",
+    "title": "Arion",
+    "altTitle": [
+      "Neo Heroic Fantasia Arion",
+      "Arion",
+      "ネオ・ヒロイック・ファンタジア　アリオン"
+    ],
+    "url": "https://myanimelist.net/anime/791/Arion",
+    "image": "https://cdn.myanimelist.net/images/anime/1661/112654.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=121"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=398"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=807"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Arion_%28manga%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 398
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T16:00:35.000Z",
+    "checkedAt": "2022-05-15T16:00:35.000Z",
+    "id": 791,
+    "type": "anime",
+    "title": "Arion",
+    "altTitle": [
+      "Arion",
+      "アリオン"
+    ],
+    "url": "https://anilist.co/anime/791",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx791-d8PouDm0WvzS.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 791,
+    "deletedAt": null
+  }
+}

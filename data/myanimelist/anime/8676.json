@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T16:21:35.000Z",
+  "checkedAt": "2022-05-14T16:21:35.000Z",
+  "id": 8676,
+  "type": "anime",
+  "title": "Amagami SS",
+  "altTitle": [
+    "Amagami SS",
+    "アマガミSS"
+  ],
+  "url": "https://myanimelist.net/anime/8676/Amagami_SS",
+  "image": "https://cdn.myanimelist.net/images/anime/10/78699.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/amagami/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7506"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11474"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amagami"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/amagami-ss"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7506,
+  "Pages": {
+    "9anime": {
+      "jvy8": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5052,
+        "identifier": "jvy8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amagami SS",
+        "url": "https://9anime.to/watch/amagami-ss.jvy8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/6b6d55d4bb34d22c62ca9d6960b9625f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8676,
+        "aniId": 8676,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amagami-ss": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16500,
+        "identifier": "amagami-ss",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amagami SS",
+        "url": "https://gogoanime.vc/category/amagami-ss",
+        "image": "https://gogocdn.net/images/anime/amagami-ss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 8676,
+        "aniId": 8676,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "67": {
+        "identifier": "67",
+        "malId": 8676,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amagami SS",
+        "url": "https://animepahe.com/a/67"
+      }
+    },
+    "AniMixPlay": {
+      "8676": {
+        "identifier": "8676",
+        "malId": 8676,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amagami SS",
+        "url": "https://animixplay.to/anime/8676"
+      }
+    },
+    "YugenAnime": {
+      "175": {
+        "identifier": "175",
+        "malId": 8676,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amagami SS",
+        "url": "https://yugen.to/anime/175/amagami-ss/"
+      }
+    }
+  }
+}

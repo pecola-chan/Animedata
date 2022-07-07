@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T21:13:53.000Z",
+  "checkedAt": "2022-05-14T21:13:53.000Z",
+  "id": 1640,
+  "type": "anime",
+  "title": "Angel's Feather",
+  "altTitle": [
+    "Angel's Feather",
+    "エンジェルズフェザー Angel's Feather"
+  ],
+  "url": "https://myanimelist.net/anime/1640/Angels_Feather",
+  "image": "https://cdn.myanimelist.net/images/anime/1/1640.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.studio-ego.co.jp/bi/main/g_af/index.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3655"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6289"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Angel's_Feather"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3655,
+  "Pages": {
+    "9anime": {
+      "q2x5": {
+        "createdAt": "2020-10-12T15:54:57.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8272,
+        "identifier": "q2x5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Angel's Feather",
+        "url": "https://9anime.to/watch/angels-feather.q2x5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XUqLfqhA_Jc/WBXHAIHaYJI/AAAAAAABL9U/6FnFVMb27dI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1640,
+        "aniId": 20568,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1640": {
+        "identifier": "1640",
+        "malId": 1640,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Angel's Feather",
+        "url": "https://animixplay.to/anime/1640"
+      }
+    },
+    "YugenAnime": {
+      "1579": {
+        "identifier": "1579",
+        "malId": 1640,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Angel's Feather",
+        "url": "https://yugen.to/anime/1579/angels-feather/"
+      }
+    }
+  }
+}

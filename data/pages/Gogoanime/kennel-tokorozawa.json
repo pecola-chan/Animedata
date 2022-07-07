@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-12-16T08:26:04.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 30277,
+  "identifier": "kennel-tokorozawa",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kennel Tokorozawa",
+  "url": "https://gogoanime.vc/category/kennel-tokorozawa",
+  "image": "https://gogocdn.net/cover/kennel-tokorozawa.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 13715,
+  "aniId": 13715,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:13.000Z",
+    "updatedAt": "2022-05-20T11:43:57.000Z",
+    "checkedAt": "2022-05-20T11:43:57.000Z",
+    "id": 13715,
+    "type": "anime",
+    "title": "Kennel Tokorozawa",
+    "altTitle": [
+      "ケンネル所沢"
+    ],
+    "url": "https://myanimelist.net/anime/13715/Kennel_Tokorozawa",
+    "image": "https://cdn.myanimelist.net/images/anime/8/38063.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7536"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 7536
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:16.000Z",
+    "updatedAt": "2022-05-20T11:43:56.000Z",
+    "checkedAt": "2022-05-20T11:43:56.000Z",
+    "id": 13715,
+    "type": "anime",
+    "title": "Kennel Tokorozawa",
+    "altTitle": [
+      "ケンネル所沢"
+    ],
+    "url": "https://anilist.co/anime/13715",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13715-LVz9EFUl82Ag.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 13715,
+    "deletedAt": null
+  }
+}

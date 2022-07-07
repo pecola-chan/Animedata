@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:59:56.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16738,
+  "identifier": "basquash",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Basquash!",
+  "url": "https://gogoanime.vc/category/basquash",
+  "image": "https://cdnimg.xyz/images/anime/B/basquash.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5675,
+  "aniId": 5675,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-14T16:39:38.000Z",
+    "checkedAt": "2022-05-14T16:39:38.000Z",
+    "id": 5675,
+    "type": "anime",
+    "title": "Basquash!",
+    "altTitle": [
+      "バスカッシュ！"
+    ],
+    "url": "https://myanimelist.net/anime/5675/Basquash",
+    "image": "https://cdn.myanimelist.net/images/anime/9/13680.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://basquash.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6255"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10545"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Basquash!"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/tv/basquash"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 6255
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T13:16:35.000Z",
+    "checkedAt": "2022-05-15T13:16:35.000Z",
+    "id": 5675,
+    "type": "anime",
+    "title": "Basquash!",
+    "altTitle": [
+      "バスカッシュ！",
+      "BASQUASH!",
+      "Basukasshu"
+    ],
+    "url": "https://anilist.co/anime/5675",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5675-esGE23Few7wa.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/basquash"
+      }
+    ],
+    "malId": 5675,
+    "deletedAt": null
+  }
+}

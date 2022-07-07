@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T18:32:29.000Z",
+  "checkedAt": "2022-05-14T18:32:29.000Z",
+  "id": 593,
+  "type": "anime",
+  "title": "Mugen no Ryvius",
+  "altTitle": [
+    "Infinite Ryvius",
+    "無限のリヴァイアス"
+  ],
+  "url": "https://myanimelist.net/anime/593/Mugen_no_Ryvius",
+  "image": "https://cdn.myanimelist.net/images/anime/3/16734.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/datacard/card0174.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=192"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=411"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Infinite_Ryvius"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 192,
+  "Pages": {
+    "9anime": {
+      "j6vy": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4752,
+        "identifier": "j6vy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mugen no Ryvius (Dub)",
+        "url": "https://9anime.to/watch/mugen-no-ryvius-dub.j6vy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5oqVK8ecFHs/WBTEJCydKLI/AAAAAAABL3k/Qf8ChW1yyz0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 593,
+        "aniId": 593,
+        "deletedAt": null
+      },
+      "v524": {
+        "createdAt": "2020-10-12T15:55:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9230,
+        "identifier": "v524",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mugen no Ryvius",
+        "url": "https://9anime.to/watch/mugen-no-ryvius.v524",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-57j9EyE_uu0/V6IMcTaFYcI/AAAAAAAA0JU/n0zV6zCPUVo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 593,
+        "aniId": 593,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mugen-no-ryvius": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19568,
+        "identifier": "mugen-no-ryvius",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mugen no Ryvius",
+        "url": "https://gogoanime.vc/category/mugen-no-ryvius",
+        "image": "https://cdnimg.xyz/cover/mugen-no-ryvius.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 593,
+        "aniId": 593,
+        "deletedAt": null
+      },
+      "mugen-no-ryvius-dub": {
+        "createdAt": "2021-01-08T01:21:54.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33203,
+        "identifier": "mugen-no-ryvius-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mugen no Ryvius (Dub)",
+        "url": "https://gogoanime.vc/category/mugen-no-ryvius-dub",
+        "image": "https://gogocdn.net/cover/mugen-no-ryvius-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 593,
+        "aniId": 593,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "593": {
+        "identifier": "593",
+        "malId": 593,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mugen no Ryvius",
+        "url": "https://animixplay.to/anime/593"
+      }
+    },
+    "YugenAnime": {
+      "2199": {
+        "identifier": "2199",
+        "malId": 593,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mugen no Ryvius",
+        "url": "https://yugen.to/anime/2199/mugen-no-ryvius/"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-14T20:42:42.000Z",
+  "checkedAt": "2022-05-14T20:42:42.000Z",
+  "id": 2832,
+  "type": "anime",
+  "title": "Ani*Kuri15",
+  "altTitle": [
+    "Ani*Cre15",
+    "Ani Kuri 15",
+    "Ani-Kuri 15",
+    "Anikuri 15",
+    "Neko no Shuukai",
+    "アニ＊クリ15"
+  ],
+  "url": "https://myanimelist.net/anime/2832/AniKuri15",
+  "image": "https://cdn.myanimelist.net/images/anime/13/62923.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/ani-kuri/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5211"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10585"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5211,
+  "Pages": {
+    "9anime": {
+      "2j45": {
+        "createdAt": "2020-10-12T15:49:25.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1349,
+        "identifier": "2j45",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ani*Kuri15",
+        "url": "https://9anime.to/watch/anikuri15.2j45",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qC7KHrVnRvg/WILeJbsTygI/AAAAAAABafM/GIvahUrnd6c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2832,
+        "aniId": 2832,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2832": {
+        "identifier": "2832",
+        "malId": 2832,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ani*Kuri15",
+        "url": "https://animixplay.to/anime/2832"
+      }
+    }
+  }
+}

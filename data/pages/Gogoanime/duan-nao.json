@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T16:00:19.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17506,
+  "identifier": "duan-nao",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Duan Nao",
+  "url": "https://gogoanime.vc/category/duan-nao",
+  "image": "https://cdnimg.xyz/cover/duan-nao.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 28673,
+  "aniId": 99708,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:32.000Z",
+    "updatedAt": "2022-05-14T21:08:53.000Z",
+    "checkedAt": "2022-05-14T21:08:53.000Z",
+    "id": 28673,
+    "type": "anime",
+    "title": "Duan Nao",
+    "altTitle": [
+      "Cerebrum",
+      "Die Now",
+      "端脑"
+    ],
+    "url": "https://myanimelist.net/anime/28673/Duan_Nao",
+    "image": "https://cdn.myanimelist.net/images/anime/3/82664.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.u17.com/z/zt/dienow"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:45.000Z",
+    "updatedAt": "2022-05-15T10:21:11.000Z",
+    "checkedAt": "2022-05-15T10:21:11.000Z",
+    "id": 99708,
+    "type": "anime",
+    "title": "Duan Nao",
+    "altTitle": [
+      "Die Now",
+      "端脑",
+      "Cerebrum"
+    ],
+    "url": "https://anilist.co/anime/99708",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99708-lStoIobhytbc.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 28673,
+    "deletedAt": null
+  }
+}

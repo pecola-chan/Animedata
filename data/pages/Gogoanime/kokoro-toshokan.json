@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:02.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18928,
+  "identifier": "kokoro-toshokan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kokoro Toshokan",
+  "url": "https://gogoanime.vc/category/kokoro-toshokan",
+  "image": "https://cdnimg.xyz/cover/kokoro-toshokan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 799,
+  "aniId": 799,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-14T23:59:47.000Z",
+    "checkedAt": "2022-05-14T23:59:47.000Z",
+    "id": 799,
+    "type": "anime",
+    "title": "Kokoro Toshokan",
+    "altTitle": [
+      "Kokoro Library",
+      "ココロ図書館"
+    ],
+    "url": "https://myanimelist.net/anime/799/Kokoro_Toshokan",
+    "image": "https://cdn.myanimelist.net/images/anime/3/21207.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jvcmusic.co.jp/flyingdog/tv/kokosho/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=290"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1119"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%83%AD%E5%9B%B3%E6%9B%B8%E9%A4%A8"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 290
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T17:08:47.000Z",
+    "checkedAt": "2022-05-15T17:08:47.000Z",
+    "id": 799,
+    "type": "anime",
+    "title": "Kokoro Toshokan",
+    "altTitle": [
+      "ココロ図書館",
+      "Kokoro Library"
+    ],
+    "url": "https://anilist.co/anime/799",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/799-Ehd8ihDNBLCm.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 799,
+    "deletedAt": null
+  }
+}

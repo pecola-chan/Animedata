@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-15T08:10:38.000Z",
+  "checkedAt": "2022-05-15T08:10:38.000Z",
+  "id": 3098,
+  "type": "anime",
+  "title": "Shutsugeki! Machine Robo Rescue",
+  "altTitle": [
+    "Machine Robo Rescue",
+    "Sortie!",
+    "出撃！マシンロボレスキュー"
+  ],
+  "url": "https://myanimelist.net/anime/3098/Shutsugeki_Machine_Robo_Rescue",
+  "image": "https://cdn.myanimelist.net/images/anime/8/28127.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/mrr/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=629"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1966"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Machine_Robo_Rescue"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 629,
+  "Pages": {
+    "9anime": {
+      "z9xm": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11126,
+        "identifier": "z9xm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shutsugeki! Machine Robo Rescue (Dub)",
+        "url": "https://9anime.to/watch/shutsugeki-machine-robo-rescue-dub.z9xm",
+        "image": "https://static.akacdn.ru/files/images/2019/05/21cac8bc374f4cf6bbeaadb7107ae2f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3098,
+        "aniId": 3098,
+        "deletedAt": null
+      },
+      "znxw": {
+        "createdAt": "2020-10-12T15:57:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11235,
+        "identifier": "znxw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shutsugeki! Machine Robo Rescue",
+        "url": "https://9anime.to/watch/shutsugeki-machine-robo-rescue.znxw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gwO3k7NQLzw/WFiJ6f0WKEI/AAAAAAABTqc/3tyXqqRRcCI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3098,
+        "aniId": 3098,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3098": {
+        "identifier": "3098",
+        "malId": 3098,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shutsugeki! Machine Robo Rescue",
+        "url": "https://animixplay.to/anime/3098"
+      }
+    },
+    "YugenAnime": {
+      "6293": {
+        "identifier": "6293",
+        "malId": 3098,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shutsugeki! Machine Robo Rescue",
+        "url": "https://yugen.to/anime/6293/shutsugeki-machine-robo-rescue/"
+      }
+    }
+  }
+}

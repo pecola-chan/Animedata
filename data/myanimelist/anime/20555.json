@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T19:28:17.000Z",
+  "checkedAt": "2022-05-14T19:28:17.000Z",
+  "id": 20555,
+  "type": "anime",
+  "title": "SoniAni: Super Sonico The Animation",
+  "altTitle": [
+    "Soni-Ani: Super Sonico The Animation",
+    "そにアニ -SUPER SONICO THE ANIMATION-"
+  ],
+  "url": "https://myanimelist.net/anime/20555/SoniAni__Super_Sonico_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/3/56987.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.soniani.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10134"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15684"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%AB%E3%82%A2%E3%83%8B_-SUPER_SONICO_THE_ANIMATION-"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10134,
+  "Pages": {
+    "9anime": {
+      "17nw": {
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 888,
+        "identifier": "17nw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "SoniAni: Super Sonico The Animation",
+        "url": "https://9anime.to/watch/soniani-super-sonico-the-animation.17nw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dzIVO8I9iNA/V7WxIfjRYHI/AAAAAAAA38E/ECETmjTpUg8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20555,
+        "aniId": 20455,
+        "deletedAt": null
+      },
+      "7xr1": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3634,
+        "identifier": "7xr1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "SoniAni: Super Sonico The Animation (Dub)",
+        "url": "https://9anime.to/watch/soniani-super-sonico-the-animation-dub.7xr1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-HX2nylx1_to/V-ke2evrB0I/AAAAAAABBJ0/oHLIYFWbgvI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20555,
+        "aniId": 20455,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "super-sonico-animation": {
+        "createdAt": "2020-10-12T16:01:59.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20883,
+        "identifier": "super-sonico-animation",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Super Sonico The Animation",
+        "url": "https://gogoanime.vc/category/super-sonico-animation",
+        "image": "https://cdnimg.xyz/images/Super-Sonico-The-Animation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20555,
+        "aniId": 20455,
+        "deletedAt": null
+      },
+      "soniani-super-sonico-the-animation-dub": {
+        "createdAt": "2021-09-01T13:17:11.000Z",
+        "updatedAt": "2021-09-01T13:45:45.000Z",
+        "checkedAt": null,
+        "id": 38517,
+        "identifier": "soniani-super-sonico-the-animation-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "SoniAni: Super Sonico The Animation (Dub)",
+        "url": "https://gogoanime.pe/category/soniani-super-sonico-the-animation-dub",
+        "image": "https://gogocdn.net/cover/soniani-super-sonico-the-animation-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20555,
+        "aniId": 20455,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1225": {
+        "identifier": "1225",
+        "malId": 20555,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "SoniAni: Super Sonico The Animation",
+        "url": "https://animepahe.com/a/1225"
+      }
+    },
+    "AniMixPlay": {
+      "20555": {
+        "identifier": "20555",
+        "malId": 20555,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "SoniAni: Super Sonico The Animation",
+        "url": "https://animixplay.to/anime/20555"
+      }
+    },
+    "YugenAnime": {
+      "5566": {
+        "identifier": "5566",
+        "malId": 20555,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "SoniAni: Super Sonico The Animation",
+        "url": "https://yugen.to/anime/5566/super-sonico-the-animation/"
+      }
+    }
+  }
+}

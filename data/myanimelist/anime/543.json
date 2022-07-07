@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T20:07:23.000Z",
+  "checkedAt": "2022-05-14T20:07:23.000Z",
+  "id": 543,
+  "type": "anime",
+  "title": "Vampire Hunter D (2000)",
+  "altTitle": [
+    "Vampire Hunter D (2001)",
+    "Vampire Hunter D Movie",
+    "Vampire Hunter D: Bloodlust",
+    "バンパイアハンターD"
+  ],
+  "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+  "image": "https://cdn.myanimelist.net/images/anime/9/21432.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://vampire-d.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=66"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=238"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Vampire_Hunter_D:_Bloodlust"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/vampire-hunter-d"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 66,
+  "Pages": {
+    "9anime": {
+      "00w5": {
+        "createdAt": "2020-10-12T15:48:38.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 385,
+        "identifier": "00w5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vampire Hunter D: Bloodlust (Dub)",
+        "url": "https://9anime.to/watch/vampire-hunter-d-bloodlust-dub.00w5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-161tCztQEQ0/V9GbV8UVqEI/AAAAAAAA8n8/exikEhnjTT8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 543,
+        "aniId": 543,
+        "deletedAt": null
+      },
+      "514v": {
+        "createdAt": "2020-10-12T15:50:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2464,
+        "identifier": "514v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vampire Hunter D: Bloodlust",
+        "url": "https://9anime.to/watch/vampire-hunter-d-bloodlust.514v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zlmjyYJFGlQ/V9UmqTCpBvI/AAAAAAAA9Oo/j4CCgJfzeDA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 543,
+        "aniId": 543,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "vampire-hunter-d-bloodlust": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21351,
+        "identifier": "vampire-hunter-d-bloodlust",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vampire Hunter D: Bloodlust",
+        "url": "https://gogoanime.vc/category/vampire-hunter-d-bloodlust",
+        "image": "https://gogocdn.net/images/anime/V/Vampire-Hunter-D-Bloodlust.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 543,
+        "aniId": 543,
+        "deletedAt": null
+      },
+      "vampire-hunter-d-bloodlust-dub": {
+        "createdAt": "2020-10-25T22:40:50.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27955,
+        "identifier": "vampire-hunter-d-bloodlust-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vampire Hunter D: Bloodlust (Dub)",
+        "url": "https://gogoanime.vc/category/vampire-hunter-d-bloodlust-dub",
+        "image": "https://gogocdn.net/cover/vampire-hunter-d-bloodlust-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 543,
+        "aniId": 543,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2078": {
+        "identifier": "2078",
+        "malId": 543,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Vampire Hunter D (2000)",
+        "url": "https://animepahe.com/a/2078"
+      }
+    },
+    "AniMixPlay": {
+      "543": {
+        "identifier": "543",
+        "malId": 543,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Vampire Hunter D (2000)",
+        "url": "https://animixplay.to/anime/543"
+      }
+    },
+    "YugenAnime": {
+      "1098": {
+        "identifier": "1098",
+        "malId": 543,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Vampire Hunter D (2000)",
+        "url": "https://yugen.to/anime/1098/vampire-hunter-d-bloodlust/"
+      }
+    }
+  }
+}

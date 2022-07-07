@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T16:11:34.000Z",
+  "checkedAt": "2022-05-14T16:11:34.000Z",
+  "id": 40485,
+  "type": "anime",
+  "title": "Strike the Blood IV",
+  "altTitle": [
+    "Strike the Blood Fourth",
+    "ストライク・ザ・ブラッド IV"
+  ],
+  "url": "https://myanimelist.net/anime/40485/Strike_the_Blood_IV",
+  "image": "https://cdn.myanimelist.net/images/anime/1692/116875.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.strike-the-blood.com/fourth/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15126"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22932"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Strike_the_Blood"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15126,
+  "Pages": {
+    "9anime": {
+      "6po4": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-07-27T21:52:05.000Z",
+        "checkedAt": null,
+        "id": 3134,
+        "identifier": "6po4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Strike the Blood IV",
+        "url": "https://9anime.to/watch/strike-the-blood-iv.6po4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/10/0c8e6043d38c48ee209da1ac36c2bf35.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40485,
+        "aniId": 112296,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "strike-the-blood-iv": {
+        "createdAt": "2020-10-12T16:01:58.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20855,
+        "identifier": "strike-the-blood-iv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Strike the Blood IV",
+        "url": "https://gogoanime.vc/category/strike-the-blood-iv",
+        "image": "https://gogocdn.net/cover/strike-the-blood-iv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40485,
+        "aniId": 112296,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4230": {
+        "identifier": "4230",
+        "malId": 40485,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Strike the Blood IV",
+        "url": "https://animepahe.com/a/4230"
+      }
+    },
+    "AniMixPlay": {
+      "40485": {
+        "identifier": "40485",
+        "malId": 40485,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Strike the Blood IV",
+        "url": "https://animixplay.to/anime/40485"
+      }
+    },
+    "YugenAnime": {
+      "4404": {
+        "identifier": "4404",
+        "malId": 40485,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Strike the Blood IV",
+        "url": "https://yugen.to/anime/4404/strike-the-blood-iv/"
+      }
+    }
+  }
+}

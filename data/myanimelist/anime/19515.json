@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-12-07T12:10:11.000Z",
+  "updatedAt": "2022-05-14T20:41:06.000Z",
+  "checkedAt": "2022-05-14T20:41:06.000Z",
+  "id": 19515,
+  "type": "anime",
+  "title": "Kentoushi",
+  "altTitle": [
+    "Kentoshi",
+    "拳闘士"
+  ],
+  "url": "https://myanimelist.net/anime/19515/Kentoushi",
+  "image": "https://cdn.myanimelist.net/images/anime/1803/110236.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3429"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7360"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3429,
+  "Pages": {
+    "9anime": {
+      "zopw": {
+        "createdAt": "2020-12-09T14:05:01.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29847,
+        "identifier": "zopw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kentoushi",
+        "url": "https://9anime.to/watch/kentoshi.zopw",
+        "image": "//static.9anime.to/i/cache/images/a/a7/a74b1270f93260330d6a7638862df8e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19515,
+        "aniId": 19515,
+        "deletedAt": null
+      }
+    }
+  }
+}

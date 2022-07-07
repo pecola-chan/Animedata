@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T19:34:35.000Z",
+  "checkedAt": "2022-05-14T19:34:35.000Z",
+  "id": 37172,
+  "type": "anime",
+  "title": "Nanatsu no Bitoku Specials",
+  "altTitle": [
+    "The Seven Heavenly Virtues Specials",
+    "七つの美徳"
+  ],
+  "url": "https://myanimelist.net/anime/37172/Nanatsu_no_Bitoku_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1938/90218.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://7-virtues.net/anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13599"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13599,
+  "Pages": {
+    "9anime": {
+      "6r99": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3169,
+        "identifier": "6r99",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nanatsu no Bitoku Specials (Dub)",
+        "url": "https://9anime.to/watch/nanatsu-no-bitoku-specials-dub.6r99",
+        "image": "http://static.akacdn.ru/static/images/2018/09/2a590138f4b37417ef5fea4e34ba75d7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37172,
+        "aniId": 103717,
+        "deletedAt": null
+      },
+      "oy7j": {
+        "createdAt": "2020-10-12T15:54:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7736,
+        "identifier": "oy7j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nanatsu no Bitoku Specials",
+        "url": "https://9anime.to/watch/nanatsu-no-bitoku-specials.oy7j",
+        "image": "http://static.akacdn.ru/static/images/2018/04/ebb71ac1f2a0ddf6b2d327cc84604ff3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37172,
+        "aniId": 103717,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nanatsu-no-bitoku-special": {
+        "createdAt": "2020-10-12T16:01:22.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19626,
+        "identifier": "nanatsu-no-bitoku-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nanatsu no Bitoku Special",
+        "url": "https://gogoanime.vc/category/nanatsu-no-bitoku-special",
+        "image": "https://cdnimg.xyz/cover/nanatsu-no-bitoku-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37172,
+        "aniId": 103717,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3676": {
+        "identifier": "3676",
+        "malId": 37172,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nanatsu no Bitoku Specials",
+        "url": "https://animepahe.com/a/3676"
+      }
+    },
+    "AniMixPlay": {
+      "37172": {
+        "identifier": "37172",
+        "malId": 37172,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nanatsu no Bitoku Specials",
+        "url": "https://animixplay.to/anime/37172"
+      }
+    },
+    "YugenAnime": {
+      "5230": {
+        "identifier": "5230",
+        "malId": 37172,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nanatsu no Bitoku Specials",
+        "url": "https://yugen.to/anime/5230/nanatsu-no-bitoku-special/"
+      }
+    }
+  }
+}

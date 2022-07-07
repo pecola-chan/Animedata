@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-06-19T09:16:47.000Z",
+  "checkedAt": "2022-06-19T09:16:47.000Z",
+  "id": 5449,
+  "type": "anime",
+  "title": "Chibi Kero: Kerobouru no Himitsu!?",
+  "altTitle": [
+    "Chibi Kero: Secret of the Kero Ball!?",
+    "ちびケロ ケロボールの秘密!?"
+  ],
+  "url": "https://myanimelist.net/anime/5449/Chibi_Kero__Kerobouru_no_Himitsu",
+  "image": "https://cdn.myanimelist.net/images/anime/10/11205.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8037"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9_(%E5%8A%87%E5%A0%B4%E7%89%88)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "jmn2": {
+        "createdAt": "2020-10-12T15:52:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4936,
+        "identifier": "jmn2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chibi Kero: Secret of the Kero Ball!?",
+        "url": "https://9anime.to/watch/chibi-kero-secret-of-the-kero-ball.jmn2",
+        "image": "http://static.akacdn.ru/static/images/2018/09/8534fd2604e1543d4880faa3c1ce417f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5449,
+        "aniId": 5449,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-24T15:28:46.000Z",
+  "updatedAt": "2022-05-15T00:19:53.000Z",
+  "checkedAt": "2022-05-15T00:19:53.000Z",
+  "id": 42295,
+  "type": "anime",
+  "title": "Fushigi Dagashiya: Zenitendou",
+  "altTitle": [
+    "ふしぎ駄菓子屋 銭天堂"
+  ],
+  "url": "https://myanimelist.net/anime/42295/Fushigi_Dagashiya__Zenitendou",
+  "image": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/zenitendo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15608"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23665"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B_%E9%8A%AD%E5%A4%A9%E5%A0%82"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15608,
+  "Pages": {
+    "9anime": {
+      "lz2m": {
+        "createdAt": "2020-10-24T15:29:46.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27880,
+        "identifier": "lz2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fushigi Dagashiya: Zenitendou",
+        "url": "https://9anime.to/watch/fushigi-dagashiya-zenitendou.lz2m",
+        "image": "//static.9anime.to/i/cache/images/c/c8/c86e489b101821d488d60a4556adcf59.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42295,
+        "aniId": 120325,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fushigi-dagashiya-zenitendou": {
+        "createdAt": "2020-11-01T12:43:38.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28315,
+        "identifier": "fushigi-dagashiya-zenitendou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fushigi Dagashiya: Zenitendou",
+        "url": "https://gogoanime.vc/category/fushigi-dagashiya-zenitendou",
+        "image": "https://gogocdn.net/cover/fushigi-dagashiya-zenitendou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42295,
+        "aniId": 120325,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42295": {
+        "identifier": "42295",
+        "malId": 42295,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fushigi Dagashiya: Zenitendou",
+        "url": "https://animixplay.to/anime/42295"
+      }
+    },
+    "YugenAnime": {
+      "6985": {
+        "identifier": "6985",
+        "malId": 42295,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fushigi Dagashiya: Zenitendou",
+        "url": "https://yugen.to/anime/6985/fushigi-dagashiya-zenitendou/"
+      }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T09:21:00.000Z",
+  "checkedAt": "2022-05-14T09:21:00.000Z",
+  "id": 552,
+  "type": "anime",
+  "title": "Digimon Adventure",
+  "altTitle": [
+    "Digimon Adventure 01",
+    "Digimon: Digital Monsters",
+    "デジモンアドベンチャー"
+  ],
+  "url": "https://myanimelist.net/anime/552/Digimon_Adventure",
+  "image": "https://cdn.myanimelist.net/images/anime/10/11070.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/dejimon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=234"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=794"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Digimon"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280454"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 234,
+  "Pages": {
+    "9anime": {
+      "3xk2": {
+        "createdAt": "2020-10-12T15:49:56.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1971,
+        "identifier": "3xk2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Digimon Adventure",
+        "url": "https://9anime.to/watch/digimon-adventure.3xk2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-par2YwkcDVA/V-NtKLt_ZZI/AAAAAAAA_dw/lahT1MaJqEc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 552,
+        "aniId": 552,
+        "deletedAt": null
+      },
+      "6l54": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3053,
+        "identifier": "6l54",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Digimon Adventure (Dub)",
+        "url": "https://9anime.to/watch/digimon-adventure-dub.6l54",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PZQuaT7y_Tk/V5oLifPOKKI/AAAAAAAAylQ/b5ZvwUEoepk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 552,
+        "aniId": 552,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "digimon-adventure": {
+        "createdAt": "2020-10-12T16:00:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17367,
+        "identifier": "digimon-adventure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Digimon Adventure",
+        "url": "https://gogoanime.vc/category/digimon-adventure",
+        "image": "https://cdnimg.xyz/images/anime/D/Digimon-Adventure-1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 552,
+        "aniId": 552,
+        "deletedAt": null
+      },
+      "digimon-adventure-2": {
+        "createdAt": "2020-10-12T16:00:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17369,
+        "identifier": "digimon-adventure-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Digimon Adventure 2",
+        "url": "https://gogoanime.vc/category/digimon-adventure-2",
+        "image": "https://gogocdn.net/images/anime/D/Digimon-Adventure-2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 552,
+        "aniId": 552,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "552": {
+        "identifier": "552",
+        "malId": 552,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Digimon Adventure",
+        "url": "https://animixplay.to/anime/552"
+      }
+    },
+    "YugenAnime": {
+      "1193": {
+        "identifier": "1193",
+        "malId": 552,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Digimon Adventure",
+        "url": "https://yugen.to/anime/1193/digimon-adventure/"
+      }
+    }
+  }
+}

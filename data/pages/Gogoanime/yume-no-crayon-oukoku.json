@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:02:20.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21610,
+  "identifier": "yume-no-crayon-oukoku",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Yume no Crayon Oukoku",
+  "url": "https://gogoanime.vc/category/yume-no-crayon-oukoku",
+  "image": "https://cdnimg.xyz/cover/yume-no-crayon-oukoku.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4651,
+  "aniId": 4651,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-15T01:29:52.000Z",
+    "checkedAt": "2022-05-15T01:29:52.000Z",
+    "id": 4651,
+    "type": "anime",
+    "title": "Yume no Crayon Oukoku",
+    "altTitle": [
+      "Crayon Kingdom of Dreams",
+      "夢のクレヨン王国"
+    ],
+    "url": "https://myanimelist.net/anime/4651/Yume_no_Crayon_Oukoku",
+    "image": "https://cdn.myanimelist.net/images/anime/11/28591.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/crayon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2104"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1773"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yume_no_Crayon_Oukoku"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2104
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:36.000Z",
+    "updatedAt": "2022-05-15T19:35:35.000Z",
+    "checkedAt": "2022-05-15T19:35:35.000Z",
+    "id": 4651,
+    "type": "anime",
+    "title": "Yume no Crayon Oukoku",
+    "altTitle": [
+      "Crayon Kingdom of Dreams",
+      "夢のクレヨン王国"
+    ],
+    "url": "https://anilist.co/anime/4651",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4651.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4651,
+    "deletedAt": null
+  }
+}

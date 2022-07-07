@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T16:19:44.000Z",
+  "checkedAt": "2022-05-14T16:19:44.000Z",
+  "id": 35997,
+  "type": "anime",
+  "title": "Märchen Mädchen",
+  "altTitle": [
+    "Fairy Tale Girls",
+    "Maerchen Maedchen",
+    "メルヘン・メドヘン"
+  ],
+  "url": "https://myanimelist.net/anime/35997/Märchen_Mädchen",
+  "image": "https://cdn.myanimelist.net/images/anime/8/90088.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://maerchen-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13309"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19975"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A4rchen_M%C3%A4dchen"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275265"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13309,
+  "Pages": {
+    "9anime": {
+      "o795": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7435,
+        "identifier": "o795",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Märchen Mädchen",
+        "url": "https://9anime.to/watch/maerchen-maedchen.o795",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9FTKaIj_1rA/WlesXtGR90I/AAAAAAAADVs/Laan1MrSVmUp-89qKjl9gvs_m51_0GzlgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35997,
+        "aniId": 99720,
+        "deletedAt": null
+      },
+      "rplq": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8961,
+        "identifier": "rplq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maerchen Maedchen",
+        "url": "https://9anime.to/watch/maerchen-maedchen.rplq",
+        "image": "https://static.akacdn.ru/files/images/2019/04/f831690e42e17263f5f080a9fb18b609.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35997,
+        "aniId": 99720,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "marchen-madchen": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19348,
+        "identifier": "marchen-madchen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Märchen Mädchen",
+        "url": "https://gogoanime.vc/category/marchen-madchen",
+        "image": "https://images.gogoanime.tv/cover/marchen-madchen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35997,
+        "aniId": 99720,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2446": {
+        "identifier": "2446",
+        "malId": 35997,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Märchen Mädchen",
+        "url": "https://animepahe.com/a/2446"
+      }
+    },
+    "AniMixPlay": {
+      "35997": {
+        "identifier": "35997",
+        "malId": 35997,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Märchen Mädchen",
+        "url": "https://animixplay.to/anime/35997"
+      }
+    },
+    "YugenAnime": {
+      "1004": {
+        "identifier": "1004",
+        "malId": 35997,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Märchen Mädchen",
+        "url": "https://yugen.to/anime/1004/marchen-madchen/"
+      }
+    }
+  }
+}

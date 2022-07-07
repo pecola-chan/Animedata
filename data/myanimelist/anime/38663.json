@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T16:08:32.000Z",
+  "checkedAt": "2022-05-14T16:08:32.000Z",
+  "id": 38663,
+  "type": "anime",
+  "title": "Mushikago no Cagaster",
+  "altTitle": [
+    "Cagaster of an Insect Cage",
+    "虫籠のカガステル"
+  ],
+  "url": "https://myanimelist.net/anime/38663/Mushikago_no_Cagaster",
+  "image": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://cagaster.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14479"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22610"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%99%AB%E7%B1%A0%E3%81%AE%E3%82%AB%E3%82%AC%E3%82%B9%E3%83%86%E3%83%AB"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14479,
+  "Pages": {
+    "9anime": {
+      "760j": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3366,
+        "identifier": "760j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cagaster of an Insect Cage (Dub)",
+        "url": "https://9anime.to/watch/cagaster-of-an-insect-cage-dub.760j",
+        "image": "https://static.akacdn.ru/files/images/2020/02/66833053e0325711a977706e267533d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38663,
+        "aniId": 109586,
+        "deletedAt": null
+      },
+      "pv69": {
+        "createdAt": "2020-10-12T15:54:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8122,
+        "identifier": "pv69",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cagaster of an Insect Cage",
+        "url": "https://9anime.to/watch/cagaster-of-an-insect-cage.pv69",
+        "image": "https://static.akacdn.ru/files/images/2020/02/4d7a11946dffc12ce6b263ecc49c8e72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38663,
+        "aniId": 109586,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mushikago-no-cagaster": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19586,
+        "identifier": "mushikago-no-cagaster",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mushikago no Cagaster",
+        "url": "https://gogoanime.vc/category/mushikago-no-cagaster",
+        "image": "https://cdnimg.xyz/cover/mushikago-no-cagaster.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38663,
+        "aniId": 109586,
+        "deletedAt": null
+      },
+      "mushikago-no-cagaster-dub": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19587,
+        "identifier": "mushikago-no-cagaster-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mushikago no Cagaster (Dub)",
+        "url": "https://gogoanime.vc/category/mushikago-no-cagaster-dub",
+        "image": "https://gogocdn.net/cover/mushikago-no-cagaster-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38663,
+        "aniId": 109586,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3764": {
+        "identifier": "3764",
+        "malId": 38663,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mushikago no Cagaster",
+        "url": "https://animepahe.com/a/3764"
+      }
+    },
+    "AniMixPlay": {
+      "38663": {
+        "identifier": "38663",
+        "malId": 38663,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mushikago no Cagaster",
+        "url": "https://animixplay.to/anime/38663"
+      }
+    },
+    "YugenAnime": {
+      "4446": {
+        "identifier": "4446",
+        "malId": 38663,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mushikago no Cagaster",
+        "url": "https://yugen.to/anime/4446/mushikago-no-cagaster/"
+      }
+    }
+  }
+}

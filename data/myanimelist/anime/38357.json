@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T20:24:53.000Z",
+  "checkedAt": "2022-05-14T20:24:53.000Z",
+  "id": 38357,
+  "type": "anime",
+  "title": "Majimoji Rurumo: Kanketsu-hen",
+  "altTitle": [
+    "Majimoji Rurumo OVA",
+    "Majimoji Rurumo OAD",
+    "Magimoji Rurumo OVA",
+    "Magimoji Rurumo OAD",
+    "まじもじるるも 完結編"
+  ],
+  "url": "https://myanimelist.net/anime/38357/Majimoji_Rurumo__Kanketsu-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1375/109425.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14406"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magimoji_Rurumo"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-261711"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14406,
+  "Pages": {
+    "9anime": {
+      "6rw0": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3178,
+        "identifier": "6rw0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Majimoji Rurumo: Kanketsu-hen",
+        "url": "https://9anime.to/watch/majimoji-rurumo-kanketsu-hen.6rw0",
+        "image": "https://static.akacdn.ru/static/images/2018/10/4bdaa71b840ebad2c41d6e1f764d46c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38357,
+        "aniId": 104291,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "majimoji-rurumo-kanketsu-hen": {
+        "createdAt": "2020-10-12T16:01:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19306,
+        "identifier": "majimoji-rurumo-kanketsu-hen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Majimoji Rurumo: Kanketsu-hen",
+        "url": "https://gogoanime.vc/category/majimoji-rurumo-kanketsu-hen",
+        "image": "https://cdnimg.xyz/cover/majimoji-rurumo-kanketsu-hen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38357,
+        "aniId": 104291,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3368": {
+        "identifier": "3368",
+        "malId": 38357,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Majimoji Rurumo: Kanketsu-hen",
+        "url": "https://animepahe.com/a/3368"
+      }
+    },
+    "AniMixPlay": {
+      "38357": {
+        "identifier": "38357",
+        "malId": 38357,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Majimoji Rurumo: Kanketsu-hen",
+        "url": "https://animixplay.to/anime/38357"
+      }
+    },
+    "YugenAnime": {
+      "6239": {
+        "identifier": "6239",
+        "malId": 38357,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Majimoji Rurumo: Kanketsu-hen",
+        "url": "https://yugen.to/anime/6239/majimoji-rurumo-kanketsu-hen/"
+      }
+    }
+  }
+}

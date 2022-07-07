@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T16:00:04.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17002,
+  "identifier": "canvas-2-niji-iro-no-sketch",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Canvas 2: Niji Iro No Sketch",
+  "url": "https://gogoanime.vc/category/canvas-2-niji-iro-no-sketch",
+  "image": "https://gogocdn.net/images/anime/C/canvas-2-niji-iro-no-sketch.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 694,
+  "aniId": 694,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T20:05:23.000Z",
+    "checkedAt": "2022-05-14T20:05:23.000Z",
+    "id": 694,
+    "type": "anime",
+    "title": "Canvas 2: Niji-iro no Sketch",
+    "altTitle": [
+      "Canvas 2: Rainbow Colored Sketch",
+      "Canvas2 ～虹色のスケッチ～"
+    ],
+    "url": "https://myanimelist.net/anime/694/Canvas_2__Niji-iro_no_Sketch",
+    "image": "https://cdn.myanimelist.net/images/anime/6/74076.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kadokawa.co.jp/canvas2/index.php"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3215"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5976"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Canvas2"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-221953"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 3215
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T11:05:59.000Z",
+    "checkedAt": "2022-05-15T11:05:59.000Z",
+    "id": 694,
+    "type": "anime",
+    "title": "Canvas 2: Niji-iro no Sketch",
+    "altTitle": [
+      "Canvas 2: Rainbow Colored Sketch",
+      "Canvas2 ～虹色のスケッチ～"
+    ],
+    "url": "https://anilist.co/anime/694",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/694.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/canvas-2-niji-iro-no-sketch"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRJQ0N70Y/Canvas-2-Niji-Iro-no-Sketch"
+      }
+    ],
+    "malId": 694,
+    "deletedAt": null
+  }
+}

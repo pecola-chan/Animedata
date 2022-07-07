@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T21:32:35.000Z",
+  "checkedAt": "2022-05-14T21:32:35.000Z",
+  "id": 38467,
+  "type": "anime",
+  "title": "Wu Geng Ji Zhi San Jie",
+  "altTitle": [
+    "Wu Geng Ji 3rd Season",
+    "The Legend and the Hero",
+    "Feng Shen Ji",
+    "Chronicles of the God's Order",
+    "武庚纪之三界"
+  ],
+  "url": "https://myanimelist.net/anime/38467/Wu_Geng_Ji_Zhi_San_Jie",
+  "image": "https://cdn.myanimelist.net/images/anime/1000/116470.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/i/ipmc5u3dwb48mv2.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%AD%A6%E5%BA%9A%E7%BA%AA%E4%B9%8B%E4%B8%89%E7%95%8C%E7%BC%98%E8%B5%B7/24196428"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "nqrm": {
+        "createdAt": "2020-10-12T15:54:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7209,
+        "identifier": "nqrm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wu Geng Ji 3rd Season",
+        "url": "https://9anime.to/watch/wu-geng-ji-3rd-season.nqrm",
+        "image": "https://static.akacdn.ru/files/images/2018/10/a14f975d1b693f3ff64bb18b2829a743.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38467,
+        "aniId": 104868,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wu-geng-ji-3rd-season": {
+        "createdAt": "2020-10-12T16:02:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21455,
+        "identifier": "wu-geng-ji-3rd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wu Geng Ji 3rd Season",
+        "url": "https://gogoanime.vc/category/wu-geng-ji-3rd-season",
+        "image": "https://gogocdn.net/cover/wu-geng-ji-3rd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38467,
+        "aniId": 104868,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38467": {
+        "identifier": "38467",
+        "malId": 38467,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wu Geng Ji Zhi San Jie",
+        "url": "https://animixplay.to/anime/38467"
+      }
+    },
+    "YugenAnime": {
+      "3687": {
+        "identifier": "3687",
+        "malId": 38467,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wu Geng Ji 3rd Season",
+        "url": "https://yugen.to/anime/3687/wu-geng-ji-3rd-season/"
+      }
+    }
+  }
+}

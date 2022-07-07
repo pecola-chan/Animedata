@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T17:38:05.000Z",
+  "checkedAt": "2022-05-14T17:38:05.000Z",
+  "id": 463,
+  "type": "anime",
+  "title": "One Piece Movie 05: Norowareta Seiken",
+  "altTitle": [
+    "One Piece: The Curse of the Sacred Sword",
+    "ワンピース呪われた聖剣"
+  ],
+  "url": "https://myanimelist.net/anime/463/One_Piece_Movie_05__Norowareta_Seiken",
+  "image": "https://cdn.myanimelist.net/images/anime/2/25413.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/2004_onepiece/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2036"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2851"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Curse_of_the_Sacred_Sword"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2036,
+  "Pages": {
+    "9anime": {
+      "qnpj": {
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8465,
+        "identifier": "qnpj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece Movie 5: Norowareta Seiken",
+        "url": "https://9anime.to/watch/one-piece-movie-5-norowareta-seiken.qnpj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JQoAgBbC2oE/V68jZKDhbeI/AAAAAAAA2zs/MDkrXYRoU_M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 463,
+        "aniId": 463,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-piece-movie-5-the-curse-of-the-sacred-sword": {
+        "createdAt": "2020-12-26T16:27:02.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31163,
+        "identifier": "one-piece-movie-5-the-curse-of-the-sacred-sword",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece Movie 5: The Curse of the Sacred Sword",
+        "url": "https://gogoanime.vc/category/one-piece-movie-5-the-curse-of-the-sacred-sword",
+        "image": "https://gogocdn.net/images/anime/O/One-Piece-movie-5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 463,
+        "aniId": 463,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3782": {
+        "identifier": "3782",
+        "malId": 463,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece Movie 05: Norowareta Seiken",
+        "url": "https://animepahe.com/a/3782"
+      }
+    },
+    "AniMixPlay": {
+      "463": {
+        "identifier": "463",
+        "malId": 463,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece Movie 05: Norowareta Seiken",
+        "url": "https://animixplay.to/anime/463"
+      }
+    },
+    "YugenAnime": {
+      "3942": {
+        "identifier": "3942",
+        "malId": 463,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Piece Movie 5: Norowareta Seiken",
+        "url": "https://yugen.to/anime/3942/one-piece-movie-5-norowareta-seiken/"
+      }
+    }
+  }
+}

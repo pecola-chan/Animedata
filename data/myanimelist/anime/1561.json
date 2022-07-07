@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T23:32:53.000Z",
+  "checkedAt": "2022-05-14T23:32:53.000Z",
+  "id": 1561,
+  "type": "anime",
+  "title": "Lovedol: Lovely Idol",
+  "altTitle": [
+    "Lovely Idol",
+    "らぶドル～Lovely Idol～"
+  ],
+  "url": "https://myanimelist.net/anime/1561/Lovedol__Lovely_Idol",
+  "image": "https://cdn.myanimelist.net/images/anime/6/6448.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4584"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6807"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4584,
+  "Pages": {
+    "9anime": {
+      "9jwq": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4310,
+        "identifier": "9jwq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lovedol: Lovely Idol",
+        "url": "https://9anime.to/watch/lovedol-lovely-idol.9jwq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oZBu8x5fzOE/V8ByXzRlAKI/AAAAAAAA5rc/RPYH7USG55w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1561,
+        "aniId": 1561,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "lovedol-lovely-idol": {
+        "createdAt": "2020-11-28T10:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29594,
+        "identifier": "lovedol-lovely-idol",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lovedol: Lovely Idol",
+        "url": "https://gogoanime.vc/category/lovedol-lovely-idol",
+        "image": "https://gogocdn.net/cover/lovedol-lovely-idol.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1561,
+        "aniId": 1561,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1561": {
+        "identifier": "1561",
+        "malId": 1561,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lovedol: Lovely Idol",
+        "url": "https://animixplay.to/anime/1561"
+      }
+    },
+    "YugenAnime": {
+      "6821": {
+        "identifier": "6821",
+        "malId": 1561,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lovedol: Lovely Idol",
+        "url": "https://yugen.to/anime/6821/lovedol-lovely-idol/"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:28.000Z",
+  "updatedAt": "2022-05-24T20:55:28.000Z",
+  "checkedAt": "2022-05-24T20:55:27.000Z",
+  "id": 23975,
+  "type": "anime",
+  "title": "Fukuyama Gekijou: Natsu no Himitsu",
+  "altTitle": [
+    "Fukuyama Treater: Summer Show",
+    "Fukuyama Theater: Summer Secret",
+    "ふくやま劇場 なつのひみつ"
+  ],
+  "url": "https://myanimelist.net/anime/23975/Fukuyama_Gekijou__Natsu_no_Himitsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1969/112457.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5318"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7180"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%8F%E3%82%84%E3%81%BE%E3%81%91%E3%81%84%E3%81%93"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5318,
+  "Pages": {
+    "9anime": {
+      "y440": {
+        "createdAt": "2020-10-12T15:56:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10549,
+        "identifier": "y440",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fukuyama Gekijou: Natsu no Himitsu",
+        "url": "https://9anime.to/watch/fukuyama-gekijou-natsu-no-himitsu.y440",
+        "image": "https://static.akacdn.ru/static/images/2019/02/d7eeed497854ab58ad6dc3ce63eff5ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23975,
+        "aniId": 108054,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "23975": {
+        "identifier": "23975",
+        "malId": 23975,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fukuyama Gekijou: Natsu no Himitsu",
+        "url": "https://animixplay.to/anime/23975"
+      }
+    },
+    "YugenAnime": {
+      "6267": {
+        "identifier": "6267",
+        "malId": 23975,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fukuyama Gekijou: Natsu no Himitsu",
+        "url": "https://yugen.to/anime/6267/fukuyama-gekijou-natsu-no-himitsu/"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-15T01:35:59.000Z",
+  "checkedAt": "2022-05-15T01:35:59.000Z",
+  "id": 4646,
+  "type": "anime",
+  "title": "Cobra The Animation: The Psycho-Gun",
+  "altTitle": [
+    "Cobra the Space Pirate",
+    "Space Adventure Cobra OVA",
+    "Cobra The Animation: The Psychogun",
+    "COBRA THE ANIMATION ザ・サイコガン"
+  ],
+  "url": "https://myanimelist.net/anime/4646/Cobra_The_Animation__The_Psycho-Gun",
+  "image": "https://cdn.myanimelist.net/images/anime/1592/96818.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cobra30th-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5894"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9202"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Adventure_Cobra"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/cobra-the-psychogun"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5894,
+  "Pages": {
+    "9anime": {
+      "71l1": {
+        "createdAt": "2020-10-12T15:50:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3313,
+        "identifier": "71l1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cobra The Animation: The Psycho-Gun",
+        "url": "https://9anime.to/watch/cobra-the-animation-the-psycho-gun.71l1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Z4r7WoQGj7Y/V9FP0fn8CEI/AAAAAAAA8iU/os8skjUJx1o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4646,
+        "aniId": 4646,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4646": {
+        "identifier": "4646",
+        "malId": 4646,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cobra The Animation: The Psycho-Gun",
+        "url": "https://animixplay.to/anime/4646"
+      }
+    }
+  }
+}

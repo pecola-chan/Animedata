@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-27T15:47:25.000Z",
+  "checkedAt": "2022-05-27T15:47:25.000Z",
+  "id": 1883,
+  "type": "anime",
+  "title": "Kappa no Kaikata",
+  "altTitle": [
+    "Kappa no Kai-kata",
+    "How to Raise a Water Imp",
+    "How to Breed Kappas",
+    "カッパの飼い方"
+  ],
+  "url": "https://myanimelist.net/anime/1883/Kappa_no_Kaikata",
+  "image": "https://cdn.myanimelist.net/images/anime/1827/99134.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2340"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4492"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kappa_no_Kaikata"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2340,
+  "Pages": {
+    "9anime": {
+      "7o5j": {
+        "createdAt": "2020-10-12T15:51:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3495,
+        "identifier": "7o5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kappa no Kaikata",
+        "url": "https://9anime.to/watch/kappa-no-kaikata.7o5j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Usqhr4PcJZ8/WIbxM8NtsvI/AAAAAAABa_8/aHpUZ-nqGD0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1883,
+        "aniId": 1883,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kappa-no-kaikata": {
+        "createdAt": "2021-06-16T05:27:45.000Z",
+        "updatedAt": "2021-06-16T05:57:33.000Z",
+        "checkedAt": null,
+        "id": 37405,
+        "identifier": "kappa-no-kaikata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kappa no Kaikata",
+        "url": "https://gogoanime.vc/category/kappa-no-kaikata",
+        "image": "https://gogocdn.net/cover/kappa-no-kaikata.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1883,
+        "aniId": 1883,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1883": {
+        "identifier": "1883",
+        "malId": 1883,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kappa no Kaikata",
+        "url": "https://animixplay.to/anime/1883"
+      }
+    },
+    "YugenAnime": {
+      "3077": {
+        "identifier": "3077",
+        "malId": 1883,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kappa no Kaikata",
+        "url": "https://yugen.to/anime/3077/kappa-no-kaikata/"
+      }
+    }
+  }
+}

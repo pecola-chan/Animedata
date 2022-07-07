@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T20:50:17.000Z",
+  "checkedAt": "2022-05-14T20:50:17.000Z",
+  "id": 4903,
+  "type": "anime",
+  "title": "Kyou no 5 no 2 (TV)",
+  "altTitle": [
+    "Kyou no Go no Ni (TV)",
+    "Today in Class 5-2 (2008)",
+    "Kyo no Gononi",
+    "今日の５の２"
+  ],
+  "url": "https://myanimelist.net/anime/4903/Kyou_no_5_no_2_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/5/21096.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/gononi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6054"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10167"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kyou_no_Go_no_Ni"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6054,
+  "Pages": {
+    "9anime": {
+      "n3kk": {
+        "createdAt": "2020-10-12T15:53:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6920,
+        "identifier": "n3kk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyou no 5 no 2 (TV)",
+        "url": "https://9anime.to/watch/kyou-no-5-no-2-tv.n3kk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Jxkfij5StiI/V45wwUxsgJI/AAAAAAAAwgM/wNKfXCrmQ-Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4903,
+        "aniId": 4903,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4788": {
+        "identifier": "4788",
+        "malId": 4903,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyou no 5 no 2 (TV)",
+        "url": "https://animepahe.com/a/4788"
+      }
+    },
+    "AniMixPlay": {
+      "4903": {
+        "identifier": "4903",
+        "malId": 4903,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyou no 5 no 2 (TV)",
+        "url": "https://animixplay.to/anime/4903"
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-14T16:52:03.000Z",
+  "checkedAt": "2022-05-14T16:52:03.000Z",
+  "id": 11701,
+  "type": "anime",
+  "title": "Another: The Other - Inga",
+  "altTitle": [
+    "Another 00",
+    "Another: The Other -Inga-",
+    "Another OAD",
+    "Another OVA",
+    "Another: The Other",
+    "アナザー The Other -因果-"
+  ],
+  "url": "https://myanimelist.net/anime/11701/Another__The_Other_-_Inga",
+  "image": "https://cdn.myanimelist.net/images/anime/9/42051.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.another-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8625"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8625,
+  "Pages": {
+    "9anime": {
+      "47mk": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2167,
+        "identifier": "47mk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Another: The Other - Inga",
+        "url": "https://9anime.to/watch/another-the-other-inga.47mk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WpoFfuuiQF0/WGyFRkGxo6I/AAAAAAABWpM/h52M4Ne3W1s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11701,
+        "aniId": 11701,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "another-ova": {
+        "createdAt": "2020-10-12T15:59:51.000Z",
+        "updatedAt": "2021-10-08T07:32:19.000Z",
+        "checkedAt": null,
+        "id": 16546,
+        "identifier": "another-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Another OVA",
+        "url": "https://gogoanime.pe/category/another-ova",
+        "image": "https://gogocdn.net/images/anime/Another Anime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 11701,
+        "aniId": 11701,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2828": {
+        "identifier": "2828",
+        "malId": 11701,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Another: The Other - Inga",
+        "url": "https://animepahe.com/a/2828"
+      }
+    },
+    "AniMixPlay": {
+      "11701": {
+        "identifier": "11701",
+        "malId": 11701,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Another: The Other - Inga",
+        "url": "https://animixplay.to/anime/11701"
+      }
+    },
+    "YugenAnime": {
+      "1917": {
+        "identifier": "1917",
+        "malId": 11701,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Another: The Other - Inga",
+        "url": "https://yugen.to/anime/1917/another-the-other-inga/"
+      }
+    }
+  }
+}

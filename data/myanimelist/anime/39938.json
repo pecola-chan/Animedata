@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T16:50:11.000Z",
+  "checkedAt": "2022-05-14T16:50:11.000Z",
+  "id": 39938,
+  "type": "anime",
+  "title": "Inu-Ou",
+  "altTitle": [
+    "Inu-Oh",
+    "犬王"
+  ],
+  "url": "https://myanimelist.net/anime/39938/Inu-Ou",
+  "image": "https://cdn.myanimelist.net/images/anime/1682/121461.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://inuoh-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14949"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23608"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%8E%8B_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14949,
+  "Pages": {
+    "9anime": {
+      "kvnv": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5622,
+        "identifier": "kvnv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inu-Ou",
+        "url": "https://9anime.to/watch/inu-ou.kvnv",
+        "image": "https://static.akacdn.ru/files/images/b/ba/ba2a68aaf2909b0ec9f16c5e31928ba4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39938,
+        "aniId": 109928,
+        "deletedAt": null
+      }
+    }
+  }
+}

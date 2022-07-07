@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-10-12T15:39:19.000Z",
+  "updatedAt": "2022-05-14T19:22:30.000Z",
+  "checkedAt": "2022-05-14T19:22:30.000Z",
+  "id": 17777,
+  "type": "anime",
+  "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+  "altTitle": [
+    "Recently, My Little Sister is Unusual",
+    "ImoCho",
+    "ImoCyo",
+    "Recently, my sister is unusual.",
+    "最近、妹のようすがちょっとおかしいんだが。"
+  ],
+  "url": "https://myanimelist.net/anime/17777/Saikin_Imouto_no_Yousu_ga_Chotto_Okashiinda_ga",
+  "image": "https://cdn.myanimelist.net/images/anime/3/56589.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://imocyo-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9546"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14947"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saikin,_Im%C5%8Dto_no_Y%C5%8Dsu_ga_Chotto_Okaishiin_Da_Ga."
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9546,
+  "Pages": {
+    "9anime": {
+      "42qm": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2079,
+        "identifier": "42qm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+        "url": "https://9anime.to/watch/saikin-imouto-no-yousu-ga-chotto-okashiinda-ga.42qm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-w7VTey5BNm8/V6nr9Jl-6xI/AAAAAAAA1vs/HX7UQ5ukJBo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17777,
+        "aniId": 17777,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "recently-sister-unusual": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20246,
+        "identifier": "recently-sister-unusual",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Recently, My Sister is Unusual",
+        "url": "https://gogoanime.vc/category/recently-sister-unusual",
+        "image": "https://cdnimg.xyz/cover/recently-sister-unusual.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17777,
+        "aniId": 17777,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "17777": {
+        "identifier": "17777",
+        "malId": 17777,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+        "url": "https://animixplay.to/anime/17777"
+      }
+    }
+  }
+}

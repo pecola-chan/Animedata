@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-14T16:16:33.000Z",
+  "checkedAt": "2022-05-14T16:16:33.000Z",
+  "id": 11887,
+  "type": "anime",
+  "title": "Kokoro Connect",
+  "altTitle": [
+    "Kokoroco",
+    "Kokoro Connect",
+    "ココロコネクト"
+  ],
+  "url": "https://myanimelist.net/anime/11887/Kokoro_Connect",
+  "image": "https://cdn.myanimelist.net/images/anime/2/39665.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kokoro-connect.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8742"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14113"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kokoro_Connect"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-246836"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/kokoro-connect"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8742,
+  "Pages": {
+    "9anime": {
+      "6j60": {
+        "createdAt": "2020-10-12T15:50:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3012,
+        "identifier": "6j60",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kokoro Connect (Dub)",
+        "url": "https://9anime.to/watch/kokoro-connect-dub.6j60",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d6c6c0598e02baf302391d88cc892c53.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11887,
+        "aniId": 11887,
+        "deletedAt": null
+      },
+      "nvl": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7241,
+        "identifier": "nvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kokoro Connect",
+        "url": "https://9anime.to/watch/kokoro-connect.nvl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tuVEYd2ZbWA/V4OMH81HcpI/AAAAAAAAuyQ/CADKVqqHs-I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11887,
+        "aniId": 11887,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kokoro-connect": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18925,
+        "identifier": "kokoro-connect",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kokoro Connect",
+        "url": "https://gogoanime.vc/category/kokoro-connect",
+        "image": "https://cdnimg.xyz/images/anime/K/Kokoro-Connect.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11887,
+        "aniId": 11887,
+        "deletedAt": null
+      },
+      "kokoro-connect-dub": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18926,
+        "identifier": "kokoro-connect-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kokoro Connect (Dub)",
+        "url": "https://gogoanime.vc/category/kokoro-connect-dub",
+        "image": "https://cdnimg.xyz/cover/kokoro-connect-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11887,
+        "aniId": 11887,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "436": {
+        "identifier": "436",
+        "malId": 11887,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kokoro Connect",
+        "url": "https://animepahe.com/a/436"
+      }
+    },
+    "AniMixPlay": {
+      "11887": {
+        "identifier": "11887",
+        "malId": 11887,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kokoro Connect",
+        "url": "https://animixplay.to/anime/11887"
+      }
+    },
+    "YugenAnime": {
+      "937": {
+        "identifier": "937",
+        "malId": 11887,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kokoro Connect",
+        "url": "https://yugen.to/anime/937/kokoro-connect/"
+      }
+    }
+  }
+}

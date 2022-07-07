@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T17:54:53.000Z",
+  "checkedAt": "2022-05-14T17:54:53.000Z",
+  "id": 36990,
+  "type": "anime",
+  "title": "Non Non Biyori Movie: Vacation",
+  "altTitle": [
+    "劇場版 のんのんびより ばけーしょん"
+  ],
+  "url": "https://myanimelist.net/anime/36990/Non_Non_Biyori_Movie__Vacation",
+  "image": "https://cdn.myanimelist.net/images/anime/1044/93575.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nonnontv.com/movie/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13187"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20464"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Non_Non_Biyori"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13187,
+  "Pages": {
+    "9anime": {
+      "m1q8": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6318,
+        "identifier": "m1q8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Non Non Biyori Movie: Vacation",
+        "url": "https://9anime.to/watch/non-non-biyori-movie-vacation.m1q8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/df0612b4d3cd05123ba1b619cc0cd8dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36990,
+        "aniId": 98779,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "non-non-biyori-movie-vacation": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19786,
+        "identifier": "non-non-biyori-movie-vacation",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Non Non Biyori Movie: Vacation",
+        "url": "https://gogoanime.vc/category/non-non-biyori-movie-vacation",
+        "image": "https://cdnimg.xyz/cover/non-non-biyori-movie-vacation.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36990,
+        "aniId": 98779,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3075": {
+        "identifier": "3075",
+        "malId": 36990,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Non Non Biyori Movie: Vacation",
+        "url": "https://animepahe.com/a/3075"
+      }
+    },
+    "AniMixPlay": {
+      "36990": {
+        "identifier": "36990",
+        "malId": 36990,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Non Non Biyori Movie: Vacation",
+        "url": "https://animixplay.to/anime/36990"
+      }
+    },
+    "YugenAnime": {
+      "4842": {
+        "identifier": "4842",
+        "malId": 36990,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Non Non Biyori Movie: Vacation",
+        "url": "https://yugen.to/anime/4842/non-non-biyori-movie-vacation/"
+      }
+    }
+  }
+}

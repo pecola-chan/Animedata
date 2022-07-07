@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T16:00:33.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17943,
+  "identifier": "god-mazinger",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "God Mazinger",
+  "url": "https://gogoanime.vc/category/god-mazinger",
+  "image": "https://cdnimg.xyz/cover/god-mazinger.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5250,
+  "aniId": 5250,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:46.000Z",
+    "updatedAt": "2022-05-14T20:18:17.000Z",
+    "checkedAt": "2022-05-14T20:18:17.000Z",
+    "id": 5250,
+    "type": "anime",
+    "title": "God Mazinger",
+    "altTitle": [
+      "ゴッドマジンガー"
+    ],
+    "url": "https://myanimelist.net/anime/5250/God_Mazinger",
+    "image": "https://cdn.myanimelist.net/images/anime/10/10504.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/old/tv/data/t_majin.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=970"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1999"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/god-mazinger-2"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 970
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:44.000Z",
+    "updatedAt": "2022-05-15T09:54:47.000Z",
+    "checkedAt": "2022-05-15T09:54:47.000Z",
+    "id": 5250,
+    "type": "anime",
+    "title": "God Mazinger",
+    "altTitle": [
+      "ゴッドマジンガー"
+    ],
+    "url": "https://anilist.co/anime/5250",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5250-UEb7OcniU0Ke.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/god-mazinger-2/"
+      }
+    ],
+    "malId": 5250,
+    "deletedAt": null
+  }
+}

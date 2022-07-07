@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T23:44:29.000Z",
+  "checkedAt": "2022-05-14T23:44:29.000Z",
+  "id": 16211,
+  "type": "anime",
+  "title": "Bakumatsu Gijinden Roman",
+  "altTitle": [
+    "Bakumatsu Gijin-den Roman",
+    "Bakumatsu Gijinden Roman",
+    "幕末義人伝 浪漫"
+  ],
+  "url": "https://myanimelist.net/anime/16211/Bakumatsu_Gijinden_Roman",
+  "image": "https://cdn.myanimelist.net/images/anime/9/43673.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://roman-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9499"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14868"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bakumatsu_Gijinden_Roman"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-251509"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9499,
+  "Pages": {
+    "9anime": {
+      "1q2w": {
+        "createdAt": "2020-10-12T15:49:16.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1072,
+        "identifier": "1q2w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakumatsu Gijinden Roman",
+        "url": "https://9anime.to/watch/bakumatsu-gijinden-roman.1q2w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-b6BJxURnF4Y/V6myIZFIwYI/AAAAAAAA1r0/p4NWLwYZX3E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16211,
+        "aniId": 16211,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16211": {
+        "identifier": "16211",
+        "malId": 16211,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bakumatsu Gijinden Roman",
+        "url": "https://animixplay.to/anime/16211"
+      }
+    },
+    "YugenAnime": {
+      "2117": {
+        "identifier": "2117",
+        "malId": 16211,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bakumatsu Gijinden Roman",
+        "url": "https://yugen.to/anime/2117/bakumatsu-gijinden-roman/"
+      }
+    }
+  }
+}

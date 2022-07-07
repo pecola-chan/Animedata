@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-29T07:30:25.000Z",
+  "checkedAt": "2022-05-29T07:30:25.000Z",
+  "id": 6491,
+  "type": "anime",
+  "title": "Scandal",
+  "altTitle": [
+    "Scandal anime",
+    "SCANDAL"
+  ],
+  "url": "https://myanimelist.net/anime/6491/Scandal",
+  "image": "https://cdn.myanimelist.net/images/anime/3/15400.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "mw9z": {
+        "createdAt": "2021-02-27T14:17:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35308,
+        "identifier": "mw9z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Scandal",
+        "url": "https://9anime.to/watch/scandal.mw9z",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/0d881678e800aef8bbd5ce865f5b8426.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6491,
+        "aniId": 6491,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "scandal": {
+        "createdAt": "2021-07-28T06:22:48.000Z",
+        "updatedAt": "2021-07-28T06:51:36.000Z",
+        "checkedAt": null,
+        "id": 38051,
+        "identifier": "scandal",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Scandal",
+        "url": "https://gogoanime.pe/category/scandal",
+        "image": "https://gogocdn.net/images/upload/15400.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6491,
+        "aniId": 6491,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6491": {
+        "identifier": "6491",
+        "malId": 6491,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Scandal",
+        "url": "https://animixplay.to/anime/6491"
+      }
+    },
+    "YugenAnime": {
+      "293": {
+        "identifier": "293",
+        "malId": 6491,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Scandal",
+        "url": "https://yugen.to/anime/293/scandal/"
+      }
+    }
+  }
+}

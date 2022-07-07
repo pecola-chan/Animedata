@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-18T15:56:06.000Z",
+  "checkedAt": "2022-05-18T15:56:06.000Z",
+  "id": 4856,
+  "type": "anime",
+  "title": "Fuuma no Kojirou: Fuuma Hanran-hen",
+  "altTitle": [
+    "Fuma no Kojiro: Fuma Hanran hen",
+    "Kojiro of the Fuma: Fuma Rebellion Chapter",
+    "風魔の小次郎～風魔反乱篇～"
+  ],
+  "url": "https://myanimelist.net/anime/4856/Fuuma_no_Kojirou__Fuuma_Hanran-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/13/9385.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3096"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6576"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/F%C5%ABma_no_Kojir%C5%8D"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3096,
+  "Pages": {
+    "9anime": {
+      "j418": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4676,
+        "identifier": "j418",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fuuma no Kojirou: Fuuma Hanran-hen",
+        "url": "https://9anime.to/watch/fuuma-no-kojirou-fuuma-hanran-hen.j418",
+        "image": "https://static.akacdn.ru/files/images/2019/08/ce705b6dda9149ceba04667c45821adb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4856,
+        "aniId": 4856,
+        "deletedAt": null
+      }
+    }
+  }
+}

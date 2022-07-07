@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T16:00:10.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17184,
+  "identifier": "coyote-ragtime-show-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Coyote Ragtime Show (Dub)",
+  "url": "https://gogoanime.vc/category/coyote-ragtime-show-dub",
+  "image": "https://gogocdn.net/cover/coyote-ragtime-show-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1194,
+  "aniId": 1194,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:14.000Z",
+    "updatedAt": "2022-05-14T20:25:35.000Z",
+    "checkedAt": "2022-05-14T20:25:35.000Z",
+    "id": 1194,
+    "type": "anime",
+    "title": "Coyote Ragtime Show",
+    "altTitle": [
+      "コヨーテ ラグタイムショー"
+    ],
+    "url": "https://myanimelist.net/anime/1194/Coyote_Ragtime_Show",
+    "image": "https://cdn.myanimelist.net/images/anime/5/21158.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ufotable.com/coyote/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4327"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6451"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Coyote_Ragtime_Show"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-274589"
+      },
+      {
+        "site": "funimation",
+        "url": "https://www.funimation.com/shows/coyote-ragtime-show"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4327
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:01.000Z",
+    "updatedAt": "2022-05-15T16:51:59.000Z",
+    "checkedAt": "2022-05-15T16:51:59.000Z",
+    "id": 1194,
+    "type": "anime",
+    "title": "Coyote Ragtime Show",
+    "altTitle": [
+      "Coyote Ragtime Show",
+      "コヨーテ ラグタイムショー"
+    ],
+    "url": "https://anilist.co/anime/1194",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1194-n7KvZpGs7fU0.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "http://www.funimation.com/shows/coyote-ragtime-show/"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/coyote-ragtime-show"
+      }
+    ],
+    "malId": 1194,
+    "deletedAt": null
+  }
+}

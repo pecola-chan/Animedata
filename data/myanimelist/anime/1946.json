@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T18:16:05.000Z",
+  "checkedAt": "2022-05-14T18:16:05.000Z",
+  "id": 1946,
+  "type": "anime",
+  "title": "Ashita no Nadja",
+  "altTitle": [
+    "Tomorrow's Nadja",
+    "明日のナージャ"
+  ],
+  "url": "https://myanimelist.net/anime/1946/Ashita_no_Nadja",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75381.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/nadja/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=520"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2084"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ashita_no_Nadja"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 520,
+  "Pages": {
+    "9anime": {
+      "41wo": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2060,
+        "identifier": "41wo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ashita no Nadja",
+        "url": "https://9anime.to/watch/ashita-no-nadja.41wo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-k_od8Qd1syE/V7e6CSKuL6I/AAAAAAAA4Xk/4zKHRw_8Rno/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1946,
+        "aniId": 1946,
+        "deletedAt": null
+      },
+      "xmzw": {
+        "createdAt": "2020-10-27T22:10:10.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28081,
+        "identifier": "xmzw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Adventures of Nadja (Dub)",
+        "url": "https://9anime.to/watch/the-adventures-of-nadja-dub.xmzw",
+        "image": "//static.9anime.to/i/cache/images/4/4c/4c9538234e9b19e22d288c2c4252e37d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 1946,
+        "aniId": 1946,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ashita-no-nadja": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16619,
+        "identifier": "ashita-no-nadja",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ashita no Nadja",
+        "url": "https://gogoanime.vc/category/ashita-no-nadja",
+        "image": "https://gogocdn.net/cover/ashita-no-nadja.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1946,
+        "aniId": 1946,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1946": {
+        "identifier": "1946",
+        "malId": 1946,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ashita no Nadja",
+        "url": "https://animixplay.to/anime/1946"
+      }
+    },
+    "YugenAnime": {
+      "1090": {
+        "identifier": "1090",
+        "malId": 1946,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ashita no Nadja",
+        "url": "https://yugen.to/anime/1090/ashita-no-nadja/"
+      }
+    }
+  }
+}

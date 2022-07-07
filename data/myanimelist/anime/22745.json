@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-05-14T21:32:41.000Z",
+  "checkedAt": "2022-05-14T21:32:41.000Z",
+  "id": 22745,
+  "type": "anime",
+  "title": "Brothers Conflict: Setsubou",
+  "altTitle": [
+    "Brothers Conflict Special",
+    "BroCon Special",
+    "BroCon Episode 12.5",
+    "Brothers Conflict Episode 12.5",
+    "BROTHERS CONFLICT  第十二・五衝突「切望」"
+  ],
+  "url": "https://myanimelist.net/anime/22745/Brothers_Conflict__Setsubou",
+  "image": "https://cdn.myanimelist.net/images/anime/3/59141.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bc-anime.com/contents/hp0006/index00440000.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "7jmn7": {
+        "createdAt": "2021-09-21T21:12:11.000Z",
+        "updatedAt": "2021-09-21T21:40:44.000Z",
+        "checkedAt": null,
+        "id": 38693,
+        "identifier": "7jmn7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Brothers Conflict: Setsubou (Dub)",
+        "url": "https://9anime.to/watch/brothers-conflict-setsubou-dub.7jmn7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2a/2a2b4ca1364af760dc83859df396dbb4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22745,
+        "aniId": 20915,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "brothers-conflict-setsubou": {
+        "createdAt": "2021-10-01T20:30:52.000Z",
+        "updatedAt": "2021-10-01T21:00:52.000Z",
+        "checkedAt": null,
+        "id": 38807,
+        "identifier": "brothers-conflict-setsubou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Brothers Conflict: Setsubou",
+        "url": "https://gogoanime.pe/category/brothers-conflict-setsubou",
+        "image": "https://gogocdn.net/cover/brothers-conflict-setsubou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22745,
+        "aniId": 20915,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2104": {
+        "identifier": "2104",
+        "malId": 22745,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Brothers Conflict: Setsubou",
+        "url": "https://animepahe.com/a/2104"
+      }
+    },
+    "AniMixPlay": {
+      "22745": {
+        "identifier": "22745",
+        "malId": 22745,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Brothers Conflict: Setsubou",
+        "url": "https://animixplay.to/anime/22745"
+      }
+    },
+    "YugenAnime": {
+      "9844": {
+        "identifier": "9844",
+        "malId": 22745,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Brothers Conflict: Setsubou",
+        "url": "https://yugen.to/anime/9844/brothers-conflict-setsubou/"
+      }
+    }
+  }
+}

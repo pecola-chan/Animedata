@@ -1,0 +1,40 @@
+{
+  "createdAt": "2021-04-28T02:19:42.000Z",
+  "updatedAt": "2021-06-19T12:09:50.000Z",
+  "checkedAt": null,
+  "id": 36715,
+  "identifier": "valkyria-chronicles-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Valkyria Chronicles OVA",
+  "url": "https://gogoanime.vc/category/valkyria-chronicles-ova",
+  "image": "https://gogocdn.net/cover/valkyria-chronicles-ova.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": null,
+  "aniId": 5507,
+  "deletedAt": null,
+  "Mal": null,
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:46.000Z",
+    "updatedAt": "2022-05-15T10:00:47.000Z",
+    "checkedAt": "2022-05-15T10:00:47.000Z",
+    "id": 5507,
+    "type": "anime",
+    "title": "Senjou no Valkyria: Gallian Chronicles",
+    "altTitle": [
+      "Valkyria Chronicles",
+      "戦場のヴァルキュリア -Gallian Chronicles-",
+      "Battlefield Valkyria: Gallian Chronicles"
+    ],
+    "url": "https://anilist.co/anime/5507",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5507-t2Y938ikcLBa.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5507,
+    "deletedAt": null
+  }
+}

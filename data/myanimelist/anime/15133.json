@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T16:52:15.000Z",
+  "checkedAt": "2022-05-14T16:52:15.000Z",
+  "id": 15133,
+  "type": "anime",
+  "title": "Aoi Sekai no Chuushin de",
+  "altTitle": [
+    "Aoi Sekai no Chushin de",
+    "World War Blue",
+    "蒼い世界の中心で"
+  ],
+  "url": "https://myanimelist.net/anime/15133/Aoi_Sekai_no_Chuushin_de",
+  "image": "https://cdn.myanimelist.net/images/anime/4/43233.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://aoisekai.net/anime.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9091"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14778"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E8%92%BC%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E4%B8%AD%E5%BF%83%E3%81%A7"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9091,
+  "Pages": {
+    "9anime": {
+      "09p9": {
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 500,
+        "identifier": "09p9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aoi Sekai no Chuushin de",
+        "url": "https://9anime.to/watch/aoi-sekai-no-chuushin-de.09p9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-axEArsHUug8/V9eb6DgwZQI/AAAAAAAA9wA/4lpT6qlV0Gg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15133,
+        "aniId": 15133,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aoi-sekai-no-chuushin-de": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16569,
+        "identifier": "aoi-sekai-no-chuushin-de",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aoi Sekai no Chuushin de",
+        "url": "https://gogoanime.vc/category/aoi-sekai-no-chuushin-de",
+        "image": "https://cdnimg.xyz/images/anime/Aoi Sekai no Chuushin de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15133,
+        "aniId": 15133,
+        "deletedAt": null
+      },
+      "aoi-sekai-no-chuushin-de-dub": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16570,
+        "identifier": "aoi-sekai-no-chuushin-de-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aoi Sekai no Chuushin de (Dub)",
+        "url": "https://gogoanime.vc/category/aoi-sekai-no-chuushin-de-dub",
+        "image": "https://gogocdn.net/cover/aoi-sekai-no-chuushin-de-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15133,
+        "aniId": 15133,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "15133": {
+        "identifier": "15133",
+        "malId": 15133,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aoi Sekai no Chuushin de",
+        "url": "https://animixplay.to/anime/15133"
+      }
+    },
+    "YugenAnime": {
+      "6059": {
+        "identifier": "6059",
+        "malId": 15133,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aoi Sekai no Chuushin de",
+        "url": "https://yugen.to/anime/6059/aoi-sekai-no-chuushin-de/"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T17:00:52.000Z",
+  "checkedAt": "2022-05-14T17:00:52.000Z",
+  "id": 37804,
+  "type": "anime",
+  "title": "Shirobako Movie",
+  "altTitle": [
+    "White Box Movie",
+    "劇場版 SHIROBAKO"
+  ],
+  "url": "https://myanimelist.net/anime/37804/Shirobako_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1328/111351.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://shirobako-movie.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14061"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22595"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shirobako"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14061,
+  "Pages": {
+    "9anime": {
+      "463k": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2145,
+        "identifier": "463k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shirobako Movie",
+        "url": "https://9anime.to/watch/shirobako-movie.463k",
+        "image": "https://static.akacdn.ru/static/images/2018/04/2365257ac5619ac56afbe78ddf500e6d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37804,
+        "aniId": 101574,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shirobako-movie": {
+        "createdAt": "2021-03-23T06:05:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35876,
+        "identifier": "shirobako-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shirobako Movie",
+        "url": "https://gogoanime.vc/category/shirobako-movie",
+        "image": "https://gogocdn.net/cover/shirobako-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37804,
+        "aniId": 101574,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4388": {
+        "identifier": "4388",
+        "malId": 37804,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shirobako Movie",
+        "url": "https://animepahe.com/a/4388"
+      }
+    },
+    "AniMixPlay": {
+      "37804": {
+        "identifier": "37804",
+        "malId": 37804,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shirobako Movie",
+        "url": "https://animixplay.to/anime/37804"
+      }
+    },
+    "YugenAnime": {
+      "7359": {
+        "identifier": "7359",
+        "malId": 37804,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shirobako Movie",
+        "url": "https://yugen.to/anime/7359/shirobako-movie/"
+      }
+    }
+  }
+}

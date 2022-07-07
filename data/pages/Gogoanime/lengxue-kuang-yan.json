@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-10-27T11:15:58.000Z",
+  "updatedAt": "2021-11-30T09:35:34.000Z",
+  "checkedAt": null,
+  "id": 39118,
+  "identifier": "lengxue-kuang-yan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Lengxue Kuang Yan",
+  "url": "https://gogoanime.pe/category/lengxue-kuang-yan",
+  "image": "https://gogocdn.net/cover/lengxue-kuang-yan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 45042,
+  "aniId": 127180,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-10-27T11:16:08.000Z",
+    "updatedAt": "2022-06-07T15:29:55.000Z",
+    "checkedAt": "2022-06-07T15:29:55.000Z",
+    "id": 45042,
+    "type": "anime",
+    "title": "Lengxue Kuang Yan",
+    "altTitle": [
+      "L.O.R.D: Legend of Ravaging Dynasties 2 - Coldblood Feast",
+      "Jue Ji 2: Lengxue Kuang Yan",
+      "冷血狂宴"
+    ],
+    "url": "https://myanimelist.net/anime/45042/Lengxue_Kuang_Yan",
+    "image": "https://cdn.myanimelist.net/images/anime/1639/113687.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/a/al3f2hrttje4835.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/L.O.R.D:_Legend_of_Ravaging_Dynasties_2"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-11-30T09:05:34.000Z",
+    "updatedAt": "2022-06-07T15:29:54.000Z",
+    "checkedAt": "2022-06-07T15:29:54.000Z",
+    "id": 127180,
+    "type": "anime",
+    "title": "Lengxue Kuang Yan",
+    "altTitle": [
+      "冷血狂宴",
+      "爵迹2",
+      "Jue Jie 2",
+      "爵迹2：冷血狂宴",
+      "Jue Ji 2: Lengxue Kuan Yan",
+      "L.O.R.D: Legend of Ravaging Dynasties 2",
+      "L.O.R.D: Legend of Ravaging Dynasties 2 - Coldblood Feast"
+    ],
+    "url": "https://anilist.co/anime/127180",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127180-n6Ujc7Q1mcRA.png",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 45042,
+    "deletedAt": null
+  }
+}

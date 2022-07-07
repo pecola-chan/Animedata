@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-06-30T07:46:34.000Z",
+  "checkedAt": "2022-06-30T07:46:34.000Z",
+  "id": 9856,
+  "type": "anime",
+  "title": "Manga Nihon Emaki",
+  "altTitle": [
+    "まんが日本絵巻"
+  ],
+  "url": "https://myanimelist.net/anime/9856/Manga_Nihon_Emaki",
+  "image": "https://cdn.myanimelist.net/images/anime/13/27280.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5519"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1001"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5519,
+  "Pages": {
+    "9anime": {
+      "8v4q": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4022,
+        "identifier": "8v4q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Manga Nihon Emaki",
+        "url": "https://9anime.to/watch/manga-nihon-emaki.8v4q",
+        "image": "https://static.akacdn.ru/files/images/2018/07/137aa3fdef40458c3c26797faa5dc051.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9856,
+        "aniId": 9856,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "manga-nihon-emaki": {
+        "createdAt": "2021-06-07T09:20:45.000Z",
+        "updatedAt": "2021-06-07T09:48:59.000Z",
+        "checkedAt": null,
+        "id": 37229,
+        "identifier": "manga-nihon-emaki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Manga Nihon Emaki",
+        "url": "https://gogoanime.vc/category/manga-nihon-emaki",
+        "image": "https://gogocdn.net/cover/manga-nihon-emaki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9856,
+        "aniId": 9856,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9856": {
+        "identifier": "9856",
+        "malId": 9856,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Manga Nihon Emaki",
+        "url": "https://animixplay.to/anime/9856"
+      }
+    },
+    "YugenAnime": {
+      "7742": {
+        "identifier": "7742",
+        "malId": 9856,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Manga Nihon Emaki",
+        "url": "https://yugen.to/anime/7742/manga-nihon-emaki/"
+      }
+    }
+  }
+}

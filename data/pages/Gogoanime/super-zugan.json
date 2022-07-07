@@ -1,0 +1,69 @@
+{
+  "createdAt": "2021-12-20T11:48:52.000Z",
+  "updatedAt": "2021-12-20T12:18:40.000Z",
+  "checkedAt": null,
+  "id": 39507,
+  "identifier": "super-zugan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Super Zugan",
+  "url": "https://gogoanime.cm/category/super-zugan",
+  "image": "https://gogocdn.net/cover/super-zugan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6981,
+  "aniId": 6981,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-12-20T11:49:11.000Z",
+    "updatedAt": "2022-05-15T07:20:07.000Z",
+    "checkedAt": "2022-05-15T07:20:07.000Z",
+    "id": 6981,
+    "type": "anime",
+    "title": "Super Zugan",
+    "altTitle": [
+      "スーパーヅガン"
+    ],
+    "url": "https://myanimelist.net/anime/6981/Super_Zugan",
+    "image": "https://cdn.myanimelist.net/images/anime/4/20073.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3547"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5341"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%85%E3%82%AC%E3%83%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3547
+  },
+  "Ani": {
+    "createdAt": "2021-10-10T10:32:22.000Z",
+    "updatedAt": "2022-05-17T20:35:20.000Z",
+    "checkedAt": "2022-05-17T20:35:20.000Z",
+    "id": 6981,
+    "type": "anime",
+    "title": "Super Zugan",
+    "altTitle": [
+      "スーパーヅガン"
+    ],
+    "url": "https://anilist.co/anime/6981",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6981.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6981,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-14T16:14:10.000Z",
+  "checkedAt": "2022-05-14T16:14:10.000Z",
+  "id": 820,
+  "type": "anime",
+  "title": "Ginga Eiyuu Densetsu",
+  "altTitle": [
+    "LoGH",
+    "LotGH",
+    "Gin'eiden",
+    "GinEiDen",
+    "Heldensagen Vom Kosmosinsel",
+    "Legend of the Galactic Heroes",
+    "銀河英雄伝説"
+  ],
+  "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
+  "image": "https://cdn.myanimelist.net/images/anime/13/13225.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ginei.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=584"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1786"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/銀河英雄伝説"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 584,
+  "Pages": {
+    "9anime": {
+      "qn0w": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8451,
+        "identifier": "qn0w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ginga Eiyuu Densetsu",
+        "url": "https://9anime.to/watch/ginga-eiyuu-densetsu.qn0w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qXB4BXSsWcg/V7FJNtV4KvI/AAAAAAAA3KI/8DnAzDFScZg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 820,
+        "aniId": 820,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "legend-of-the-galactic-heroes": {
+        "createdAt": "2020-10-12T16:01:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19089,
+        "identifier": "legend-of-the-galactic-heroes",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Legend of the Galactic Heroes",
+        "url": "https://gogoanime.vc/category/legend-of-the-galactic-heroes",
+        "image": "https://images.gogoanime.tv/images/anime/L/legend-of-the-galactic-heroes.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 820,
+        "aniId": 820,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1140": {
+        "identifier": "1140",
+        "malId": 820,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ginga Eiyuu Densetsu",
+        "url": "https://animepahe.com/a/1140"
+      }
+    },
+    "AniMixPlay": {
+      "820": {
+        "identifier": "820",
+        "malId": 820,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ginga Eiyuu Densetsu",
+        "url": "https://animixplay.to/anime/820"
+      }
+    },
+    "YugenAnime": {
+      "5203": {
+        "identifier": "5203",
+        "malId": 820,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ginga Eiyuu Densetsu",
+        "url": "https://yugen.to/anime/5203/ginga-eiyuu-densetsu/"
+      }
+    }
+  }
+}

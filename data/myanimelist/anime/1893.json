@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T22:46:05.000Z",
+  "checkedAt": "2022-05-14T22:46:05.000Z",
+  "id": 1893,
+  "type": "anime",
+  "title": "Azuki-chan",
+  "altTitle": [
+    "あずきちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/1893/Azuki-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/7/10653.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1997-1994/works_tv_azukichan.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3078"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1189"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Azuki-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3078,
+  "Pages": {
+    "9anime": {
+      "prpw4": {
+        "createdAt": "2022-06-18T07:30:02.229Z",
+        "updatedAt": "2022-06-18T08:20:00.000Z",
+        "checkedAt": "2022-06-18T07:30:02.000Z",
+        "id": 41196,
+        "identifier": "prpw4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Azuki-chan",
+        "url": "https://9anime.to/watch/azuki-chan.prpw4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/76/769b1545a88ddb610d9a7a3f0a16467b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1893,
+        "aniId": 1893,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1893": {
+        "identifier": "1893",
+        "malId": 1893,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Azuki-chan",
+        "url": "https://animixplay.to/anime/1893"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-03-31T17:02:23.000Z",
+  "checkedAt": null,
+  "id": 4470,
+  "type": "anime",
+  "title": "Gene Diver",
+  "altTitle": [
+    "Virtual Trilogy part 2",
+    "ジーンダイバー"
+  ],
+  "url": "https://myanimelist.net/anime/4470/Gene_Diver",
+  "image": "https://cdn.myanimelist.net/images/anime/13/8536.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://park6.wakwak.com/~alpe/ac/shokai/gd1.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4671"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2218"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%B3%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4671,
+  "Pages": {
+    "9anime": {
+      "y4op": {
+        "createdAt": "2020-10-12T15:56:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10559,
+        "identifier": "y4op",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gene Diver",
+        "url": "https://9anime.to/watch/gene-diver.y4op",
+        "image": "https://static.akacdn.ru/files/images/2019/01/b6501e72f214274c92edeab2656673ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4470,
+        "aniId": 4470,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4470": {
+        "identifier": "4470",
+        "malId": 4470,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gene Diver",
+        "url": "https://animixplay.to/anime/4470"
+      }
+    },
+    "YugenAnime": {
+      "1074": {
+        "identifier": "1074",
+        "malId": 4470,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gene Diver",
+        "url": "https://yugen.to/anime/1074/gene-diver/"
+      }
+    }
+  }
+}

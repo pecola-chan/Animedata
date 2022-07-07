@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-14T21:47:53.000Z",
+  "checkedAt": "2022-05-14T21:47:53.000Z",
+  "id": 1823,
+  "type": "anime",
+  "title": "Shin Hakkenden",
+  "altTitle": [
+    "神八剣伝"
+  ],
+  "url": "https://myanimelist.net/anime/1823/Shin_Hakkenden",
+  "image": "https://cdn.myanimelist.net/images/anime/10/49801.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www4.plala.or.jp/nscd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1258"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1988"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shin_Hakkenden"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1258,
+  "Pages": {
+    "9anime": {
+      "412m": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2044,
+        "identifier": "412m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Hakkenden",
+        "url": "https://9anime.to/watch/shin-hakkenden.412m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-euZq0NqTO78/V7YkAMAmvnI/AAAAAAAA4Dw/EDPig8hwW1w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1823,
+        "aniId": 1823,
+        "deletedAt": null
+      }
+    }
+  }
+}

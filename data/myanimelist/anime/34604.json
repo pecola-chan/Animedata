@@ -1,0 +1,142 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T16:42:39.000Z",
+  "checkedAt": "2022-05-14T16:42:39.000Z",
+  "id": 34604,
+  "type": "anime",
+  "title": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)",
+  "altTitle": [
+    "Yuukyuu Holder",
+    "Eternal Holder",
+    "UQ HOLDER! ~魔法先生ネギま! 2~ (2017)"
+  ],
+  "url": "https://myanimelist.net/anime/34604/UQ_Holder__Mahou_Sensei_Negima_2_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/6/89673.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12683"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/UQ_Holder!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12683,
+  "Pages": {
+    "9anime": {
+      "lo6m": {
+        "createdAt": "2020-10-12T15:53:10.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6132,
+        "identifier": "lo6m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "UQ Holder! OVA (Dub)",
+        "url": "https://9anime.to/watch/uq-holder-ova-dub.lo6m",
+        "image": "https://static.akacdn.ru/static/images/2018/12/cc182c600a17bc4e25860726c172838e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34604,
+        "aniId": 98999,
+        "deletedAt": null
+      },
+      "q24w": {
+        "createdAt": "2020-10-12T15:54:56.000Z",
+        "updatedAt": "2021-09-11T05:05:07.000Z",
+        "checkedAt": null,
+        "id": 8256,
+        "identifier": "q24w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)",
+        "url": "https://9anime.to/watch/uq-holder-ova.q24w",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/e5d5a24be4f417d6ec535f094eae31db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34604,
+        "aniId": 98999,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uq-holder-ova": {
+        "createdAt": "2020-10-12T16:02:12.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21318,
+        "identifier": "uq-holder-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "UQ Holder! OVA",
+        "url": "https://gogoanime.vc/category/uq-holder-ova",
+        "image": "https://images.gogoanime.tv/cover/uq-holder-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34604,
+        "aniId": 98999,
+        "deletedAt": null
+      },
+      "uq-holder-mahou-sensei-negima-2-ova-dub": {
+        "createdAt": "2021-03-19T17:34:34.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35788,
+        "identifier": "uq-holder-mahou-sensei-negima-2-ova-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)\t (Dub)",
+        "url": "https://gogoanime.vc/category/uq-holder-mahou-sensei-negima-2-ova-dub",
+        "image": "https://gogocdn.net/cover/uq-holder-mahou-sensei-negima-2-ova-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34604,
+        "aniId": 98999,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3329": {
+        "identifier": "3329",
+        "malId": 34604,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)",
+        "url": "https://animepahe.com/a/3329"
+      }
+    },
+    "AniMixPlay": {
+      "34604": {
+        "identifier": "34604",
+        "malId": 34604,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)",
+        "url": "https://animixplay.to/anime/34604"
+      }
+    },
+    "YugenAnime": {
+      "3554": {
+        "identifier": "3554",
+        "malId": 34604,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "UQ Holder!: Mahou Sensei Negima! 2 (OVA)",
+        "url": "https://yugen.to/anime/3554/uq-holder-mahou-sensei-negima-2-ova/"
+      }
+    }
+  }
+}

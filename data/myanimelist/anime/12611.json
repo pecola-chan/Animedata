@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T20:43:47.000Z",
+  "checkedAt": "2022-05-14T20:43:47.000Z",
+  "id": 12611,
+  "type": "anime",
+  "title": "Sengoku Collection",
+  "altTitle": [
+    "Parallel World Samurai",
+    "Sengoku Collection",
+    "戦国コレクション"
+  ],
+  "url": "https://myanimelist.net/anime/12611/Sengoku_Collection",
+  "image": "https://cdn.myanimelist.net/images/anime/12/35329.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/sencolle/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8848"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13895"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sengoku_Collection"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-243970"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/sengoku-collection"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8848,
+  "Pages": {
+    "9anime": {
+      "9wn": {
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4477,
+        "identifier": "9wn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Collection",
+        "url": "https://9anime.to/watch/sengoku-collection.9wn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-s4w4rzrt45s/V4OIjd5MruI/AAAAAAAAuxc/X4u71bNc1gM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12611,
+        "aniId": 12611,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sengoku-collection-": {
+        "createdAt": "2021-01-21T16:02:54.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34035,
+        "identifier": "sengoku-collection-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Collection ",
+        "url": "https://gogoanime.vc/category/sengoku-collection-",
+        "image": "https://gogocdn.net/images/anime/S/sengoku-collection.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12611,
+        "aniId": 12611,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3984": {
+        "identifier": "3984",
+        "malId": 12611,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sengoku Collection",
+        "url": "https://animepahe.com/a/3984"
+      }
+    },
+    "AniMixPlay": {
+      "12611": {
+        "identifier": "12611",
+        "malId": 12611,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sengoku Collection",
+        "url": "https://animixplay.to/anime/12611"
+      }
+    },
+    "YugenAnime": {
+      "6883": {
+        "identifier": "6883",
+        "malId": 12611,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sengoku Collection",
+        "url": "https://yugen.to/anime/6883/sengoku-collection/"
+      }
+    }
+  }
+}

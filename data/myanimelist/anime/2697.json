@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-15T07:17:02.000Z",
+  "checkedAt": "2022-05-15T07:17:02.000Z",
+  "id": 2697,
+  "type": "anime",
+  "title": "Hi-Speed Jecy",
+  "altTitle": [
+    "High Speed Jessie",
+    "ハイスピード・ジェシー"
+  ],
+  "url": "https://myanimelist.net/anime/2697/Hi-Speed_Jecy",
+  "image": "https://cdn.myanimelist.net/images/anime/1143/105903.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4031"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7045"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4031,
+  "Pages": {
+    "9anime": {
+      "qjmv": {
+        "createdAt": "2020-10-12T15:55:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8401,
+        "identifier": "qjmv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High Speed Jessie",
+        "url": "https://9anime.to/watch/high-speed-jessie.qjmv",
+        "image": "https://static.akacdn.ru/files/images/2018/04/895c2295e048cd10655479b5446e8c70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2697,
+        "aniId": 2697,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hi-speed-jecy": {
+        "createdAt": "2021-09-27T18:03:16.000Z",
+        "updatedAt": "2021-09-27T18:33:02.000Z",
+        "checkedAt": null,
+        "id": 38761,
+        "identifier": "hi-speed-jecy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hi-Speed Jecy ",
+        "url": "https://gogoanime.pe/category/hi-speed-jecy",
+        "image": "https://gogocdn.net/cover/hi-speed-jecy.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2697,
+        "aniId": 2697,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2697": {
+        "identifier": "2697",
+        "malId": 2697,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hi-Speed Jecy",
+        "url": "https://animixplay.to/anime/2697"
+      }
+    },
+    "YugenAnime": {
+      "9818": {
+        "identifier": "9818",
+        "malId": 2697,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hi-Speed Jecy",
+        "url": "https://yugen.to/anime/9818/hi-speed-jecy/"
+      }
+    }
+  }
+}

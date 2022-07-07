@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-14T22:51:23.000Z",
+  "checkedAt": "2022-05-14T22:51:22.000Z",
+  "id": 30292,
+  "type": "anime",
+  "title": "Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi",
+  "altTitle": [
+    "咲-Saki-阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」"
+  ],
+  "url": "https://myanimelist.net/anime/30292/Saki_Achiga-hen__Episode_of_Side-A_-_Kuro_no_Tanjoubi",
+  "image": "https://cdn.myanimelist.net/images/anime/9/72495.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saki-anime.com/achiga/goods/achigabox.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8701"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8701,
+  "Pages": {
+    "9anime": {
+      "mp7x": {
+        "createdAt": "2020-10-12T15:53:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6686,
+        "identifier": "mp7x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi",
+        "url": "https://9anime.to/watch/saki-achiga-hen-episode-of-side-a-kuro-no-tanjoubi.mp7x",
+        "image": "https://static.akacdn.ru/static/images/2019/01/79c5bfe14011302e2171b3d577c08da2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30292,
+        "aniId": 97610,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "30292": {
+        "identifier": "30292",
+        "malId": 30292,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi",
+        "url": "https://animixplay.to/anime/30292"
+      }
+    }
+  }
+}

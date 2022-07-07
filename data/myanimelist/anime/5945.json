@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-14T19:55:53.000Z",
+  "checkedAt": "2022-05-14T19:55:53.000Z",
+  "id": 5945,
+  "type": "anime",
+  "title": "Element Hunters",
+  "altTitle": [
+    "Elementhunters",
+    "Element Hunter",
+    "エレメントハンター"
+  ],
+  "url": "https://myanimelist.net/anime/5945/Element_Hunters",
+  "image": "https://cdn.myanimelist.net/images/anime/9/21172.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://elementhunters.com/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6335"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10590"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Element_Hunters"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6335,
+  "Pages": {
+    "9anime": {
+      "qzmw": {
+        "createdAt": "2020-10-12T15:55:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8667,
+        "identifier": "qzmw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Element Hunters",
+        "url": "https://9anime.to/watch/element-hunters.qzmw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ljf_w2Ijvt0/V78KmcOx75I/AAAAAAAA5c8/eMHoBNZsSs4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5945,
+        "aniId": 5945,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "element-hunters": {
+        "createdAt": "2021-06-01T07:53:17.000Z",
+        "updatedAt": "2021-06-01T08:22:54.000Z",
+        "checkedAt": null,
+        "id": 37156,
+        "identifier": "element-hunters",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Element hunters",
+        "url": "https://gogoanime.vc/category/element-hunters",
+        "image": "https://gogocdn.net/images/anime/E/element-hunters.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5945,
+        "aniId": 5945,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5945": {
+        "identifier": "5945",
+        "malId": 5945,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Element Hunters",
+        "url": "https://animixplay.to/anime/5945"
+      }
+    },
+    "YugenAnime": {
+      "5064": {
+        "identifier": "5064",
+        "malId": 5945,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Element Hunters",
+        "url": "https://yugen.to/anime/5064/element-hunters/"
+      }
+    }
+  }
+}

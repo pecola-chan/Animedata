@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-18T20:03:40.000Z",
+  "checkedAt": "2022-05-18T20:03:40.000Z",
+  "id": 30214,
+  "type": "anime",
+  "title": "A Smart Experiment",
+  "altTitle": [
+    "A Small Experiment",
+    "A smart experiment"
+  ],
+  "url": "https://myanimelist.net/anime/30214/A_Smart_Experiment",
+  "image": "https://cdn.myanimelist.net/images/anime/10/72286.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://calf-en.ocnk.net/product/3"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13364"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13364,
+  "Pages": {
+    "9anime": {
+      "67o7": {
+        "createdAt": "2020-10-12T15:50:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2981,
+        "identifier": "67o7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Smart Experiment",
+        "url": "https://9anime.to/watch/a-smart-experiment.67o7",
+        "image": "http://static.akacdn.ru/static/images/2018/02/6115ef97be65f96c574c0779f9582f23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30214,
+        "aniId": 102158,
+        "deletedAt": null
+      }
+    }
+  }
+}

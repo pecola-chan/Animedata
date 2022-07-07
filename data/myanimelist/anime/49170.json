@@ -1,0 +1,93 @@
+{
+  "createdAt": "2021-06-13T10:08:33.000Z",
+  "updatedAt": "2022-05-14T17:28:10.000Z",
+  "checkedAt": "2022-05-14T17:28:10.000Z",
+  "id": 49170,
+  "type": "anime",
+  "title": "Xinghe Zhizun",
+  "altTitle": [
+    "Supreme Galaxy",
+    "星河至尊"
+  ],
+  "url": "https://myanimelist.net/anime/49170/Xinghe_Zhizun",
+  "image": "https://cdn.myanimelist.net/images/anime/1266/115772.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://list.youku.com/show/id_zebcbaf7c12e242128b52.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%98%9F%E6%B2%B3%E8%87%B3%E5%B0%8A/54129979"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "xinghe-zhizun": {
+        "createdAt": "2021-06-11T03:38:39.000Z",
+        "updatedAt": "2021-06-13T13:05:49.000Z",
+        "checkedAt": null,
+        "id": 37319,
+        "identifier": "xinghe-zhizun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Xinghe Zhizun",
+        "url": "https://gogoanime.vc/category/xinghe-zhizun",
+        "image": "https://gogocdn.net/cover/xinghe-zhizun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 49170,
+        "aniId": 129239,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "llp1n": {
+        "createdAt": "2021-06-16T04:29:04.000Z",
+        "updatedAt": "2021-12-07T04:17:02.000Z",
+        "checkedAt": null,
+        "id": 37402,
+        "identifier": "llp1n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Xinghe Zhizun",
+        "url": "https://9anime.to/watch/xinghe-zhizun.llp1n",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/cb/cb970e7fa0964d129c92366a0cd7dc68.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49170,
+        "aniId": 129239,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "49170": {
+        "identifier": "49170",
+        "malId": 49170,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Xinghe Zhizun",
+        "url": "https://animixplay.to/anime/49170"
+      }
+    },
+    "YugenAnime": {
+      "7768": {
+        "identifier": "7768",
+        "malId": 49170,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Xinghe Zhizun",
+        "url": "https://yugen.to/anime/7768/xinghe-zhizun/"
+      }
+    }
+  }
+}

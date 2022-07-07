@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T09:35:22.000Z",
+  "checkedAt": "2022-05-14T09:35:22.000Z",
+  "id": 33818,
+  "type": "anime",
+  "title": "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto",
+  "altTitle": [
+    "Amanchu! OVA",
+    "Amanchu Episode 13",
+    "あまんちゅ！約束の夏と新しい思い出のコト"
+  ],
+  "url": "https://myanimelist.net/anime/33818/Amanchu__Yakusoku_no_Natsu_to_Atarashii_Omoide_no_Koto",
+  "image": "https://cdn.myanimelist.net/images/anime/10/87338.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://amanchu-anime.com/?p=275"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11683"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17700"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amanchu!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11683,
+  "Pages": {
+    "9anime": {
+      "49kx": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2209,
+        "identifier": "49kx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amanchu! Special",
+        "url": "https://9anime.to/watch/amanchu-special.49kx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vMznxuVn-sY/WFZwSvo6i_I/AAAAAAABTVI/o7zZOF8ED0Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33818,
+        "aniId": 98536,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2321": {
+        "identifier": "2321",
+        "malId": 33818,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto",
+        "url": "https://animepahe.com/a/2321"
+      }
+    },
+    "AniMixPlay": {
+      "33818": {
+        "identifier": "33818",
+        "malId": 33818,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto",
+        "url": "https://animixplay.to/anime/33818"
+      }
+    }
+  }
+}

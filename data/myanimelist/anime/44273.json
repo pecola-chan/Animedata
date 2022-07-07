@@ -1,0 +1,110 @@
+{
+  "createdAt": "2021-06-14T20:57:53.000Z",
+  "updatedAt": "2022-05-14T18:34:23.000Z",
+  "checkedAt": "2022-05-14T18:34:23.000Z",
+  "id": 44273,
+  "type": "anime",
+  "title": "Mewkledreamy Mix!",
+  "altTitle": [
+    "ミュークルドリーミー みっくす！"
+  ],
+  "url": "https://myanimelist.net/anime/44273/Mewkledreamy_Mix",
+  "image": "https://cdn.myanimelist.net/images/anime/1313/112427.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mewkledreamy.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15901"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24065"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mewkledreamy#Anime_2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15901,
+  "Pages": {
+    "Gogoanime": {
+      "mewkledreamy-mix": {
+        "createdAt": "2021-06-14T20:57:45.000Z",
+        "updatedAt": "2021-06-14T21:27:33.000Z",
+        "checkedAt": null,
+        "id": 37388,
+        "identifier": "mewkledreamy-mix",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mewkledreamy Mix!",
+        "url": "https://gogoanime.vc/category/mewkledreamy-mix",
+        "image": "https://gogocdn.net/cover/mewkledreamy-mix.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44273,
+        "aniId": 130777,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "989q": {
+        "createdAt": "2021-06-15T02:29:04.000Z",
+        "updatedAt": "2021-06-15T02:57:33.000Z",
+        "checkedAt": null,
+        "id": 37391,
+        "identifier": "989q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mewkledreamy Mix!",
+        "url": "https://9anime.to/watch/mewkledreamy-mix.989q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/31/3117101d2e73f46659adc344d4c57c78.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44273,
+        "aniId": 130777,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4411": {
+        "identifier": "4411",
+        "malId": 44273,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mewkledreamy Mix!",
+        "url": "https://animepahe.com/a/4411"
+      }
+    },
+    "AniMixPlay": {
+      "44273": {
+        "identifier": "44273",
+        "malId": 44273,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mewkledreamy Mix!",
+        "url": "https://animixplay.to/anime/44273"
+      }
+    },
+    "YugenAnime": {
+      "7782": {
+        "identifier": "7782",
+        "malId": 44273,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mewkledreamy Mix!",
+        "url": "https://yugen.to/anime/7782/mewkledreamy-mix/"
+      }
+    }
+  }
+}

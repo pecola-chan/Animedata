@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-14T09:52:22.000Z",
+  "checkedAt": "2022-05-14T09:52:22.000Z",
+  "id": 2012,
+  "type": "anime",
+  "title": "Jigoku Sensei Nube",
+  "altTitle": [
+    "Hell Teacher Nube",
+    "地獄先生ぬ～べ～"
+  ],
+  "url": "https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube",
+  "image": "https://cdn.myanimelist.net/images/anime/1068/99222.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2100"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1087"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jigoku_Sensei_Nube"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2100,
+  "Pages": {
+    "9anime": {
+      "6vwp": {
+        "createdAt": "2020-10-12T15:50:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3202,
+        "identifier": "6vwp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jigoku Sensei Nube",
+        "url": "https://9anime.to/watch/jigoku-sensei-nube.6vwp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rJHYHfB0I18/V5-NlV3I7YI/AAAAAAAAzmY/Y-1Vk8c74ws/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2012,
+        "aniId": 2012,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2407": {
+        "identifier": "2407",
+        "malId": 2012,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Jigoku Sensei Nube",
+        "url": "https://animepahe.com/a/2407"
+      }
+    },
+    "AniMixPlay": {
+      "2012": {
+        "identifier": "2012",
+        "malId": 2012,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jigoku Sensei Nube",
+        "url": "https://animixplay.to/anime/2012"
+      }
+    },
+    "YugenAnime": {
+      "2845": {
+        "identifier": "2845",
+        "malId": 2012,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jigoku Sensei Nube",
+        "url": "https://yugen.to/anime/2845/jigoku-sensei-nube/"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T15:50:10.000Z",
+  "checkedAt": "2022-05-14T15:50:10.000Z",
+  "id": 9969,
+  "type": "anime",
+  "title": "Gintama'",
+  "altTitle": [
+    "Gintama (2011)",
+    "Gintama Season 2",
+    "銀魂'"
+  ],
+  "url": "https://myanimelist.net/anime/9969/Gintama",
+  "image": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.j-gintama.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8126"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12835"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gin_Tama"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-47620"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8126,
+  "Pages": {
+    "9anime": {
+      "7wkj": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3607,
+        "identifier": "7wkj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama Season 2",
+        "url": "https://9anime.to/watch/gintama-season-2.7wkj",
+        "image": "http://static.akacdn.ru/static/images/2018/04/0e804424f2ddf60b275af4d738717342.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9969,
+        "aniId": 9969,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1739": {
+        "identifier": "1739",
+        "malId": 9969,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama'",
+        "url": "https://animepahe.com/a/1739"
+      }
+    },
+    "AniMixPlay": {
+      "9969": {
+        "identifier": "9969",
+        "malId": 9969,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama'",
+        "url": "https://animixplay.to/anime/9969"
+      }
+    }
+  }
+}

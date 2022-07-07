@@ -1,0 +1,81 @@
+{
+  "createdAt": "2022-03-18T19:19:44.000Z",
+  "updatedAt": "2022-03-18T19:49:11.000Z",
+  "checkedAt": null,
+  "id": 40488,
+  "identifier": "tondera-house-no-daibouken-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tondera House no Daibouken (Dub)",
+  "url": "https://gogoanime.fi/category/tondera-house-no-daibouken-dub",
+  "image": "https://gogocdn.net/cover/tondera-house-no-daibouken-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3075,
+  "aniId": 3075,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-15T00:54:53.000Z",
+    "checkedAt": "2022-05-15T00:54:53.000Z",
+    "id": 3075,
+    "type": "anime",
+    "title": "Tondera House no Daibouken",
+    "altTitle": [
+      "Time Kyoshitsu: Tondera House no Daiboken",
+      "Time Classroom",
+      "Adventures of Tondera [Flying] House",
+      "The Flying House",
+      "トンデラハウスの大冒険"
+    ],
+    "url": "https://myanimelist.net/anime/3075/Tondera_House_no_Daibouken",
+    "image": "https://cdn.myanimelist.net/images/anime/12/22970.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tatsunoko.co.jp/works/archive/tondera_house.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3498"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3650"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Flying_House"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3498
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:34.000Z",
+    "updatedAt": "2022-05-16T01:20:26.000Z",
+    "checkedAt": "2022-05-16T01:20:26.000Z",
+    "id": 3075,
+    "type": "anime",
+    "title": "Time Kyoshitsu: Tondera House no Daiboken",
+    "altTitle": [
+      "The Flying House",
+      "トンデラハウスの大冒険",
+      "Time Classroom",
+      "Adventures of Tondera [Flying] House",
+      "Fliegendes Haus"
+    ],
+    "url": "https://anilist.co/anime/3075",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3075.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3075,
+    "deletedAt": null
+  }
+}

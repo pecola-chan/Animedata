@@ -1,0 +1,140 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-13T15:50:46.000Z",
+  "checkedAt": "2022-05-13T15:50:46.000Z",
+  "id": 874,
+  "type": "anime",
+  "title": "Digimon Tamers",
+  "altTitle": [
+    "Digimon: Digital Monsters 03",
+    "Digimon Tamers",
+    "デジモンテイマーズ"
+  ],
+  "url": "https://myanimelist.net/anime/874/Digimon_Tamers",
+  "image": "https://cdn.myanimelist.net/images/anime/7/73696.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/digimon_t/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=562"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2171"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Digimon_Tamer"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 562,
+  "Pages": {
+    "9anime": {
+      "1v3x": {
+        "createdAt": "2020-10-12T15:49:18.000Z",
+        "updatedAt": "2022-04-22T23:01:37.000Z",
+        "checkedAt": null,
+        "id": 1117,
+        "identifier": "1v3x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Digimon Tamers",
+        "url": "https://9anime.to/watch/digimon-tamers.1v3x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/104e8a0994b2ea634aa255dfa6da2ef4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 874,
+        "aniId": 874,
+        "deletedAt": null
+      },
+      "kkl6": {
+        "createdAt": "2020-10-12T15:52:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5461,
+        "identifier": "kkl6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Digimon Tamers (Dub)",
+        "url": "https://9anime.to/watch/digimon-tamers-dub.kkl6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2r6x4YiGSGc/V6XslVrK2SI/AAAAAAAA01s/rbmEqnevevg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 874,
+        "aniId": 874,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "digimon-tamers": {
+        "createdAt": "2020-10-12T16:00:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17384,
+        "identifier": "digimon-tamers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Digimon Tamers",
+        "url": "https://gogoanime.vc/category/digimon-tamers",
+        "image": "https://gogocdn.net/images/anime/D/Digimon-Adventure-3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 874,
+        "aniId": 874,
+        "deletedAt": null
+      },
+      "digimon-tamers-dub": {
+        "createdAt": "2020-10-12T16:00:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17385,
+        "identifier": "digimon-tamers-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Digimon Tamers (Dub)",
+        "url": "https://gogoanime.vc/category/digimon-tamers-dub",
+        "image": "https://gogocdn.net/cover/digimon-tamers-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 874,
+        "aniId": 874,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "874": {
+        "identifier": "874",
+        "malId": 874,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Digimon Tamers",
+        "url": "https://animixplay.to/anime/874"
+      }
+    },
+    "YugenAnime": {
+      "5324": {
+        "identifier": "5324",
+        "malId": 874,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Digimon Tamers",
+        "url": "https://yugen.to/anime/5324/digimon-tamers/"
+      }
+    }
+  }
+}

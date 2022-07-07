@@ -1,0 +1,99 @@
+{
+  "createdAt": "2021-05-01T09:01:52.000Z",
+  "updatedAt": "2022-05-14T19:23:06.000Z",
+  "checkedAt": "2022-05-14T19:23:06.000Z",
+  "id": 39728,
+  "type": "anime",
+  "title": "Eden (ONA)",
+  "altTitle": [
+    "エデン"
+  ],
+  "url": "https://myanimelist.net/anime/39728/Eden_ONA",
+  "image": "https://cdn.myanimelist.net/images/anime/1621/114901.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14825"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22602"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eden_(2021_TV_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14825,
+  "Pages": {
+    "9anime": {
+      "nzp8": {
+        "createdAt": "2021-05-27T09:29:15.000Z",
+        "updatedAt": "2021-05-27T09:58:42.000Z",
+        "checkedAt": null,
+        "id": 37119,
+        "identifier": "nzp8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eden (ONA)",
+        "url": "https://9anime.to/watch/eden-ona.nzp8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/44/44b26da2668e1a90a3ae7d938ab522b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39728,
+        "aniId": 109217,
+        "deletedAt": null
+      },
+      "prkj4": {
+        "createdAt": "2021-06-10T19:38:59.000Z",
+        "updatedAt": "2021-06-10T20:08:18.000Z",
+        "checkedAt": null,
+        "id": 37309,
+        "identifier": "prkj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eden (ONA) (Dub)",
+        "url": "https://9anime.to/watch/eden-ona-dub.prkj4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/07/07ffef7e0b68b5b8364f5685482cc78a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 39728,
+        "aniId": 109217,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4348": {
+        "identifier": "4348",
+        "malId": 39728,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Eden (ONA)",
+        "url": "https://animepahe.com/a/4348"
+      }
+    },
+    "AniMixPlay": {
+      "39728": {
+        "identifier": "39728",
+        "malId": 39728,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Eden (ONA)",
+        "url": "https://animixplay.to/anime/39728"
+      }
+    }
+  }
+}

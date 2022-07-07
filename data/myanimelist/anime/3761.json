@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-15T00:48:05.000Z",
+  "checkedAt": "2022-05-15T00:48:05.000Z",
+  "id": 3761,
+  "type": "anime",
+  "title": "Wanwan Sanjuushi",
+  "altTitle": [
+    "Wanwan Sanjuushi",
+    "Dogtanian and the Three Muskehounds",
+    "ワンワン三銃士"
+  ],
+  "url": "https://myanimelist.net/anime/3761/Wanwan_Sanjuushi",
+  "image": "https://cdn.myanimelist.net/images/anime/5/22968.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/036/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2707"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1307"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dogtanian_and_the_Three_Muskehounds"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2707,
+  "Pages": {
+    "9anime": {
+      "v7q7": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9282,
+        "identifier": "v7q7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wanwan Sanjuushi (Dub)",
+        "url": "https://9anime.to/watch/wanwan-sanjuushi-dub.v7q7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Jo0pwP4EC3k/V8zLIRpO_eI/AAAAAAAA7Zg/MYpHrET-hVA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3761,
+        "aniId": 3761,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3761": {
+        "identifier": "3761",
+        "malId": 3761,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wanwan Sanjuushi",
+        "url": "https://animixplay.to/anime/3761"
+      }
+    },
+    "YugenAnime": {
+      "7638": {
+        "identifier": "7638",
+        "malId": 3761,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wanwan Sanjuushi",
+        "url": "https://yugen.to/anime/7638/wanwan-sanjuushi/"
+      }
+    }
+  }
+}

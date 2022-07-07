@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-05-14T23:32:05.000Z",
+  "checkedAt": "2022-05-14T23:32:05.000Z",
+  "id": 30695,
+  "type": "anime",
+  "title": "Pop in Q",
+  "altTitle": [
+    "Poppin Q",
+    "file(N):project PQ",
+    "ポッピンQ"
+  ],
+  "url": "https://myanimelist.net/anime/30695/Pop_in_Q",
+  "image": "https://cdn.myanimelist.net/images/anime/1720/107397.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.popin-q.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11211"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18140"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3Q"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11211,
+  "Pages": {
+    "9anime": {
+      "87k3": {
+        "createdAt": "2020-10-12T15:51:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3812,
+        "identifier": "87k3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pop in Q",
+        "url": "https://9anime.to/watch/pop-in-q.87k3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i45xW_x39Wc/WBLydSEmg8I/AAAAAAABLlE/fdwyiftvht4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30695,
+        "aniId": 21412,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pop-in-q": {
+        "createdAt": "2021-02-24T18:25:58.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35200,
+        "identifier": "pop-in-q",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pop in Q",
+        "url": "https://gogoanime.vc/category/pop-in-q",
+        "image": "https://gogocdn.net/cover/pop-in-q.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30695,
+        "aniId": 21412,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "30695": {
+        "identifier": "30695",
+        "malId": 30695,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pop in Q",
+        "url": "https://animixplay.to/anime/30695"
+      }
+    },
+    "YugenAnime": {
+      "7277": {
+        "identifier": "7277",
+        "malId": 30695,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pop in Q",
+        "url": "https://yugen.to/anime/7277/pop-in-q/"
+      }
+    }
+  }
+}

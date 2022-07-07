@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-15T17:07:21.000Z",
+  "checkedAt": "2022-05-15T17:07:21.000Z",
+  "id": 6713,
+  "type": "anime",
+  "title": "Ranma ½: Nettou Uta Gassen",
+  "altTitle": [
+    "Ranma 1/2: Hot Song Contest",
+    "らんま１／２　熱闘歌合戦"
+  ],
+  "url": "https://myanimelist.net/anime/6713/Ranma_½__Nettou_Uta_Gassen",
+  "image": "https://cdn.myanimelist.net/images/anime/2/15423.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6393"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6393,
+  "Pages": {
+    "9anime": {
+      "xqlv": {
+        "createdAt": "2020-10-12T15:56:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10357,
+        "identifier": "xqlv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ranma 1/2: Hot Song Contest",
+        "url": "https://9anime.to/watch/ranma-12-hot-song-contest.xqlv",
+        "image": "https://static.akacdn.ru/files/images/2018/04/aa3fe2a57be728121f6e6359d9e72783.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6713,
+        "aniId": 6713,
+        "deletedAt": null
+      }
+    }
+  }
+}

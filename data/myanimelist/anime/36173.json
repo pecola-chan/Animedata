@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-15T20:37:13.000Z",
+  "checkedAt": "2022-05-15T20:37:13.000Z",
+  "id": 36173,
+  "type": "anime",
+  "title": "Suna no Wakusei feat. Hatsune Miku",
+  "altTitle": [
+    "Sand Planet feat. Hatsune Miku",
+    "Hatsune Miku Magical Mirai 2017",
+    "DUNE feat. Hatsune Miku",
+    "砂の惑星 feat.初音ミク"
+  ],
+  "url": "https://myanimelist.net/anime/36173/Suna_no_Wakusei_feat_Hatsune_Miku",
+  "image": "https://cdn.myanimelist.net/images/anime/8/87399.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13906"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13906,
+  "Pages": {
+    "9anime": {
+      "3556": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 109,
+        "identifier": "3556",
+        "type": "anime",
+        "page": "9anime",
+        "title": "DUNE feat. Hatsune Miku",
+        "url": "https://9anime.to/watch/dune-feat-hatsune-miku.3556",
+        "image": "https://static.akacdn.ru/files/images/2018/02/6fa7e303353facd431adeb755de55907.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36173,
+        "aniId": 102452,
+        "deletedAt": null
+      }
+    }
+  }
+}

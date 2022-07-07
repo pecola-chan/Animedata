@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T20:30:35.000Z",
+  "checkedAt": "2022-05-14T20:30:35.000Z",
+  "id": 33157,
+  "type": "anime",
+  "title": "Tanaka-kun wa Itsumo Kedaruge Specials",
+  "altTitle": [
+    "Tanaka-kun is Always Listless",
+    "田中くんはいつもけだるげ特典"
+  ],
+  "url": "https://myanimelist.net/anime/33157/Tanaka-kun_wa_Itsumo_Kedaruge_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1511/111995.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tanakakun.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11783"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E3%81%8F%E3%82%93%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E3%81%91%E3%81%A0%E3%82%8B%E3%81%92"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11783,
+  "Pages": {
+    "9anime": {
+      "95yq": {
+        "createdAt": "2020-10-12T15:51:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4233,
+        "identifier": "95yq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tanaka-kun wa Itsumo Kedaruge Specials (Dub)",
+        "url": "https://9anime.to/watch/tanaka-kun-wa-itsumo-kedaruge-specials-dub.95yq",
+        "image": "http://static.akacdn.ru/static/images/2018/04/dd5d4fb36a28bc2b89b6b193d0ebfdb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33157,
+        "aniId": 21786,
+        "deletedAt": null
+      },
+      "xqjw": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10355,
+        "identifier": "xqjw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tanaka-kun wa Itsumo Kedaruge Specials",
+        "url": "https://9anime.to/watch/tanaka-kun-wa-itsumo-kedaruge-specials.xqjw",
+        "image": "http://static.akacdn.ru/static/images/2018/04/bb3d424f8720a4266a7df89de08e2de4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33157,
+        "aniId": 21786,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1294": {
+        "identifier": "1294",
+        "malId": 33157,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tanaka-kun wa Itsumo Kedaruge Specials",
+        "url": "https://animepahe.com/a/1294"
+      }
+    }
+  }
+}

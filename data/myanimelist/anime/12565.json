@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T17:24:29.000Z",
+  "checkedAt": "2022-05-14T17:24:29.000Z",
+  "id": 12565,
+  "type": "anime",
+  "title": "Fate/Prototype",
+  "altTitle": [
+    "Fate/Prototype"
+  ],
+  "url": "https://myanimelist.net/anime/12565/Fate_Prototype",
+  "image": "https://cdn.myanimelist.net/images/anime/3/51045.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8102"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14836"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Fate/Prototype"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8102,
+  "Pages": {
+    "9anime": {
+      "m68v": {
+        "createdAt": "2020-10-12T15:53:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6446,
+        "identifier": "m68v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fate/Prototype",
+        "url": "https://9anime.to/watch/fateprototype.m68v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0NCrDng_9X8/WGPqAnANxDI/AAAAAAABVWA/mfasUTxNjQg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12565,
+        "aniId": 12565,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fateprototype": {
+        "createdAt": "2021-02-18T16:15:42.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34928,
+        "identifier": "fateprototype",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fate/Prototype",
+        "url": "https://gogoanime.vc/category/fateprototype",
+        "image": "https://gogocdn.net/cover/fateprototype.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12565,
+        "aniId": 12565,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1086": {
+        "identifier": "1086",
+        "malId": 12565,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fate/Prototype",
+        "url": "https://animepahe.com/a/1086"
+      }
+    },
+    "AniMixPlay": {
+      "12565": {
+        "identifier": "12565",
+        "malId": 12565,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fate/Prototype",
+        "url": "https://animixplay.to/anime/12565"
+      }
+    },
+    "YugenAnime": {
+      "7247": {
+        "identifier": "7247",
+        "malId": 12565,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fate/Prototype",
+        "url": "https://yugen.to/anime/7247/fateprototype/"
+      }
+    }
+  }
+}

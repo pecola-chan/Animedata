@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-14T22:46:17.000Z",
+  "checkedAt": "2022-05-14T22:46:17.000Z",
+  "id": 13267,
+  "type": "anime",
+  "title": "Shinryaku!! Ika Musume",
+  "altTitle": [
+    "Shinryaku! Ika Musume OAD",
+    "The Invader Comes From the Bottom of the Sea! OVA",
+    "Shinryaku! Ika Musume OVA",
+    "Squid Girl OVA",
+    "侵略!!イカ娘"
+  ],
+  "url": "https://myanimelist.net/anime/13267/Shinryaku_Ika_Musume",
+  "image": "https://cdn.myanimelist.net/images/anime/4/39055.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ika-musume.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9046"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15860"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shinryaku!_Ika_Musume"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-219881"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/squid-girl-ova-1"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9046,
+  "Pages": {
+    "9anime": {
+      "23pq": {
+        "createdAt": "2020-10-12T15:49:23.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1259,
+        "identifier": "23pq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shinryaku!! Ika Musume",
+        "url": "https://9anime.to/watch/shinryaku-ika-musume.23pq",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/e1879f93f80768c2cc5cc85bcab2f0a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 13267,
+        "aniId": 13267,
+        "deletedAt": null
+      },
+      "27ol": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1313,
+        "identifier": "27ol",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shinryaku!! Ika Musume (Dub)",
+        "url": "https://9anime.to/watch/shinryaku-ika-musume-dub.27ol",
+        "image": "https://static.akacdn.ru/files/images/2020/08/a169c86e3dad61f5657beeb9d5039569.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13267,
+        "aniId": 13267,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3277": {
+        "identifier": "3277",
+        "malId": 13267,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shinryaku!! Ika Musume",
+        "url": "https://animepahe.com/a/3277"
+      }
+    },
+    "AniMixPlay": {
+      "13267": {
+        "identifier": "13267",
+        "malId": 13267,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shinryaku!! Ika Musume",
+        "url": "https://animixplay.to/anime/13267"
+      }
+    },
+    "YugenAnime": {
+      "2825": {
+        "identifier": "2825",
+        "malId": 13267,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shinryaku!! Ika Musume",
+        "url": "https://yugen.to/anime/2825/shinryaku-ika-musume-5tpr/"
+      }
+    }
+  }
+}

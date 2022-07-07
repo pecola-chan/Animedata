@@ -1,0 +1,98 @@
+{
+  "createdAt": "2021-01-14T01:40:03.000Z",
+  "updatedAt": "2021-05-20T15:21:58.000Z",
+  "checkedAt": null,
+  "id": 33634,
+  "identifier": "uta-kata",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Uta Kata",
+  "url": "https://gogoanime.vc/category/uta-kata",
+  "image": "https://gogocdn.net/images/anime/U/uta-kata.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 688,
+  "aniId": 688,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T22:47:05.000Z",
+    "checkedAt": "2022-05-14T22:47:05.000Z",
+    "id": 688,
+    "type": "anime",
+    "title": "Uta∽Kata",
+    "altTitle": [
+      "Uta-Kata",
+      "Uta~Kata",
+      "One~Song",
+      "Poem~Piece",
+      "Poem Fragment",
+      "Utakata",
+      "うた∽かた"
+    ],
+    "url": "https://myanimelist.net/anime/688/Uta∽Kata",
+    "image": "https://cdn.myanimelist.net/images/anime/3/25392.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.uta-kata.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2481"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4444"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Uta_Kata"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/tv/utakata"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 2481
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T13:44:11.000Z",
+    "checkedAt": "2022-05-15T13:44:11.000Z",
+    "id": 688,
+    "type": "anime",
+    "title": "Uta∽Kata",
+    "altTitle": [
+      "Utakata",
+      "うた∽かた",
+      "Uta-Kata",
+      "Uta~Kata",
+      "One~Song",
+      "Uta Kata"
+    ],
+    "url": "https://anilist.co/anime/688",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx688-RztDGIBBugvj.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/utakata"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRDKNE99Y/Utakata"
+      }
+    ],
+    "malId": 688,
+    "deletedAt": null
+  }
+}

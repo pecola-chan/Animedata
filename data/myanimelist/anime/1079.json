@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2022-05-14T19:04:11.000Z",
+  "checkedAt": "2022-05-14T19:04:11.000Z",
+  "id": 1079,
+  "type": "anime",
+  "title": "Armitage III",
+  "altTitle": [
+    "Armitage III",
+    "アミテージ・ザ・サード"
+  ],
+  "url": "https://myanimelist.net/anime/1079/Armitage_III",
+  "image": "https://cdn.myanimelist.net/images/anime/1398/94072.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=420"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=378"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Armitage_III"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/armitage-iii"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 420,
+  "Pages": {
+    "9anime": {
+      "n88k": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7024,
+        "identifier": "n88k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Armitage III",
+        "url": "https://9anime.to/watch/armitage-iii.n88k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dj4GcaYKows/WAN-W5_MYrI/AAAAAAABIcU/JQyWurI2YsU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1079,
+        "aniId": 1079,
+        "deletedAt": null
+      },
+      "o334": {
+        "createdAt": "2020-10-12T15:54:06.000Z",
+        "updatedAt": "2022-06-14T03:04:05.000Z",
+        "checkedAt": "2022-06-14T03:04:05.000Z",
+        "id": 7343,
+        "identifier": "o334",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Armitage III (Dub)",
+        "url": "https://9anime.to/watch/armitage-iii-dub.o334",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/f483fbed5c740797f6257ec61b7a49de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1079,
+        "aniId": 1079,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "armitage-iii": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16600,
+        "identifier": "armitage-iii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Armitage III",
+        "url": "https://gogoanime.vc/category/armitage-iii",
+        "image": "https://gogocdn.net/cover/armitage-iii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1079,
+        "aniId": 1079,
+        "deletedAt": null
+      },
+      "armitage-iii-dub": {
+        "createdAt": "2021-03-21T05:34:48.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35808,
+        "identifier": "armitage-iii-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Armitage III (Dub)",
+        "url": "https://gogoanime.vc/category/armitage-iii-dub",
+        "image": "https://gogocdn.net/cover/armitage-iii-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1079,
+        "aniId": 1079,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4101": {
+        "identifier": "4101",
+        "malId": 1079,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Armitage III",
+        "url": "https://animepahe.com/a/4101"
+      }
+    },
+    "AniMixPlay": {
+      "1079": {
+        "identifier": "1079",
+        "malId": 1079,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Armitage III",
+        "url": "https://animixplay.to/anime/1079"
+      }
+    },
+    "YugenAnime": {
+      "2083": {
+        "identifier": "2083",
+        "malId": 1079,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Armitage III",
+        "url": "https://yugen.to/anime/2083/armitage-iii/"
+      }
+    }
+  }
+}

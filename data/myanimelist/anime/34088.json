@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-15T00:06:53.000Z",
+  "checkedAt": "2022-05-15T00:06:53.000Z",
+  "id": 34088,
+  "type": "anime",
+  "title": "Chiruran: Nibun no Ichi",
+  "altTitle": [
+    "Chiruran 1/2",
+    "ちるらん にぶんの壱"
+  ],
+  "url": "https://myanimelist.net/anime/34088/Chiruran__Nibun_no_Ichi",
+  "image": "https://cdn.myanimelist.net/images/anime/6/82948.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.chiruran.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12418"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18805"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%A1%E3%82%8B%E3%82%89%E3%82%93_%E6%96%B0%E6%92%B0%E7%B5%84%E9%8E%AE%E9%AD%82%E6%AD%8C"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272191"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12418,
+  "Pages": {
+    "9anime": {
+      "53rv": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2509,
+        "identifier": "53rv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chiruran: Nibun no Ichi",
+        "url": "https://9anime.to/watch/chiruran-nibun-no-ichi.53rv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gUTNoWyZoi8/WFZ7k68r3zI/AAAAAAABTYk/HG06T7bUFPM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34088,
+        "aniId": 97745,
+        "deletedAt": null
+      },
+      "9wqn": {
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4480,
+        "identifier": "9wqn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chiruri",
+        "url": "https://9anime.to/watch/chiruri.9wqn",
+        "image": "http://static.akacdn.ru/static/images/2018/07/de887c121976d3755c4c11171170e1bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34088,
+        "aniId": 97745,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chiruran-nibun-no-ichi": {
+        "createdAt": "2022-01-21T22:31:23.000Z",
+        "updatedAt": "2022-01-21T23:00:11.000Z",
+        "checkedAt": null,
+        "id": 39927,
+        "identifier": "chiruran-nibun-no-ichi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chiruran: Nibun no Ichi",
+        "url": "https://gogoanime.cm/category/chiruran-nibun-no-ichi",
+        "image": "https://gogocdn.net/cover/chiruran-nibun-no-ichi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34088,
+        "aniId": 97745,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1624": {
+        "identifier": "1624",
+        "malId": 34088,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Chiruran: Nibun no Ichi",
+        "url": "https://animepahe.com/a/1624"
+      }
+    },
+    "AniMixPlay": {
+      "34088": {
+        "identifier": "34088",
+        "malId": 34088,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chiruran: Nibun no Ichi",
+        "url": "https://animixplay.to/anime/34088"
+      }
+    },
+    "YugenAnime": {
+      "4333": {
+        "identifier": "4333",
+        "malId": 34088,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chiruran: Nibun no Ichi",
+        "url": "https://yugen.to/anime/4333/chiruran-nibun-no-ichi/"
+      }
+    }
+  }
+}

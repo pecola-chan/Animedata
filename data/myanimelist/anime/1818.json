@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-14T16:10:57.000Z",
+  "checkedAt": "2022-05-14T16:10:57.000Z",
+  "id": 1818,
+  "type": "anime",
+  "title": "Claymore",
+  "altTitle": [
+    "Claymore",
+    "クレイモア"
+  ],
+  "url": "https://myanimelist.net/anime/1818/Claymore",
+  "image": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.j-claymore.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4892"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7028"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Claymore_%28Manga%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274727"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/claymore"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4892,
+  "Pages": {
+    "9anime": {
+      "093k": {
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 491,
+        "identifier": "093k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Claymore (Dub)",
+        "url": "https://9anime.to/watch/claymore-dub.093k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KL30g1EuLFw/V-IoHc0xmeI/AAAAAAAA_Pc/_axYM5xsNwY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1818,
+        "aniId": 1818,
+        "deletedAt": null
+      },
+      "zlqp": {
+        "createdAt": "2020-10-12T15:57:10.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11187,
+        "identifier": "zlqp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Claymore",
+        "url": "https://9anime.to/watch/claymore.zlqp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sRgVxvftvRM/V5EZzaVE5oI/AAAAAAAAxBo/NyT3N_EiY70/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1818,
+        "aniId": 1818,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "claymore": {
+        "createdAt": "2020-10-12T16:00:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17141,
+        "identifier": "claymore",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Claymore",
+        "url": "https://gogoanime.vc/category/claymore",
+        "image": "https://cdnimg.xyz/images/anime/C/claymore.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1818,
+        "aniId": 1818,
+        "deletedAt": null
+      },
+      "claymore-dub": {
+        "createdAt": "2020-10-12T16:00:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17142,
+        "identifier": "claymore-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Claymore (Dub)",
+        "url": "https://gogoanime.vc/category/claymore-dub",
+        "image": "https://gogocdn.net/cover/claymore-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1818,
+        "aniId": 1818,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1440": {
+        "identifier": "1440",
+        "malId": 1818,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Claymore",
+        "url": "https://animepahe.com/a/1440"
+      }
+    },
+    "AniMixPlay": {
+      "1818": {
+        "identifier": "1818",
+        "malId": 1818,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Claymore",
+        "url": "https://animixplay.to/anime/1818"
+      }
+    },
+    "YugenAnime": {
+      "571": {
+        "identifier": "571",
+        "malId": 1818,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Claymore",
+        "url": "https://yugen.to/anime/571/claymore/"
+      }
+    }
+  }
+}

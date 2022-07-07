@@ -1,0 +1,75 @@
+{
+  "createdAt": "2022-02-21T14:00:16.000Z",
+  "updatedAt": "2022-02-21T14:17:39.000Z",
+  "checkedAt": null,
+  "id": 40232,
+  "identifier": "machine-hayabusa",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Machine Hayabusa",
+  "url": "https://gogoanime.fi/category/machine-hayabusa",
+  "image": "https://gogocdn.net/cover/machine-hayabusa.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 10562,
+  "aniId": 10562,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:06.000Z",
+    "updatedAt": "2022-05-15T01:54:12.000Z",
+    "checkedAt": "2022-05-15T01:54:12.000Z",
+    "id": 10562,
+    "type": "anime",
+    "title": "Machine Hayabusa",
+    "altTitle": [
+      "Dash Machine Hayabusa",
+      "マシンハヤブサ"
+    ],
+    "url": "https://myanimelist.net/anime/10562/Machine_Hayabusa",
+    "image": "https://cdn.myanimelist.net/images/anime/10/29015.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/oldies/tv/039_hayabusa/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1912"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1453"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/マシンハヤブサ"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1912
+  },
+  "Ani": {
+    "createdAt": "2021-08-04T09:47:29.000Z",
+    "updatedAt": "2022-05-16T03:45:57.000Z",
+    "checkedAt": "2022-05-16T03:45:57.000Z",
+    "id": 10562,
+    "type": "anime",
+    "title": "Machine Hayabusa",
+    "altTitle": [
+      "マシンハヤブサ",
+      "Dash Machine Hayabusa"
+    ],
+    "url": "https://anilist.co/anime/10562",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10562.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 10562,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T19:17:17.000Z",
+  "checkedAt": "2022-05-14T19:17:17.000Z",
+  "id": 1185,
+  "type": "anime",
+  "title": "Battle Athletess Daiundoukai",
+  "altTitle": [
+    "Battle Athletes OVA",
+    "Battle Athletes",
+    "バトルアスリーテス大運動会"
+  ],
+  "url": "https://myanimelist.net/anime/1185/Battle_Athletess_Daiundoukai",
+  "image": "https://cdn.myanimelist.net/images/anime/5/83761.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nbcuni.co.jp/rondorobe/anime/daiunova/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=848"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=459"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Battle_Athletes#Battle_Athletes"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 848,
+  "Pages": {
+    "9anime": {
+      "142q": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 828,
+        "identifier": "142q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Athletess Daiundoukai (Dub)",
+        "url": "https://9anime.to/watch/battle-athletes-dub.142q",
+        "image": "//static.9anime.to/i/cache/images/2020/03/3267383c9bd8c6f820102ceded46b28b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 1185,
+        "aniId": 1185,
+        "deletedAt": null
+      },
+      "8p9n": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3962,
+        "identifier": "8p9n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Athletess Daiundoukai",
+        "url": "https://9anime.to/watch/battle-athletes.8p9n",
+        "image": "//static.9anime.to/i/cache/images/2018/04/4e5977d9ec46b1362803a71648a58d18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 1185,
+        "aniId": 1185,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "battle-athletes-dub": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16745,
+        "identifier": "battle-athletes-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Battle Athletes (Dub)",
+        "url": "https://gogoanime.vc/category/battle-athletes-dub",
+        "image": "https://cdnimg.xyz/cover/battle-athletes-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1185,
+        "aniId": 1185,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "1934": {
+        "identifier": "1934",
+        "malId": 1185,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Battle Athletess Daiundoukai",
+        "url": "https://yugen.to/anime/1934/battle-athletess-daiundoukai/"
+      }
+    }
+  }
+}

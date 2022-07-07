@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-15T07:17:46.000Z",
+  "checkedAt": "2022-05-15T07:17:46.000Z",
+  "id": 2244,
+  "type": "anime",
+  "title": "Rakugo Tennyo Oyui",
+  "altTitle": [
+    "Magical Travelers",
+    "落語天女おゆい"
+  ],
+  "url": "https://myanimelist.net/anime/2244/Rakugo_Tennyo_Oyui",
+  "image": "https://cdn.myanimelist.net/images/anime/13/21222.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rakugo-tennyo.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3684"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6356"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3684,
+  "Pages": {
+    "9anime": {
+      "84lq": {
+        "createdAt": "2020-10-12T15:51:20.000Z",
+        "updatedAt": "2022-01-23T10:30:41.000Z",
+        "checkedAt": null,
+        "id": 3771,
+        "identifier": "84lq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rakugo Tennyo Oyui",
+        "url": "https://9anime.to/watch/rakugo-tennyo-oyui.84lq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/4d937ff3a3e8c4557b7c8b747d35b3df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2244,
+        "aniId": 2244,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rakugo-tennyo-oyui": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20229,
+        "identifier": "rakugo-tennyo-oyui",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rakugo Tennyo Oyui",
+        "url": "https://gogoanime.vc/category/rakugo-tennyo-oyui",
+        "image": "https://cdnimg.xyz/cover/rakugo-tennyo-oyui.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2244,
+        "aniId": 2244,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2244": {
+        "identifier": "2244",
+        "malId": 2244,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rakugo Tennyo Oyui",
+        "url": "https://animixplay.to/anime/2244"
+      }
+    },
+    "YugenAnime": {
+      "2791": {
+        "identifier": "2791",
+        "malId": 2244,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rakugo Tennyo Oyui",
+        "url": "https://yugen.to/anime/2791/rakugo-tennyo-oyui/"
+      }
+    }
+  }
+}

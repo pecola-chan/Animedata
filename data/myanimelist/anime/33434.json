@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:46.000Z",
+  "updatedAt": "2022-05-14T17:45:29.000Z",
+  "checkedAt": "2022-05-14T17:45:29.000Z",
+  "id": 33434,
+  "type": "anime",
+  "title": "Heybot!",
+  "altTitle": [
+    "HEYBOT!",
+    "ヘボット!"
+  ],
+  "url": "https://myanimelist.net/anime/33434/Heybot",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82258.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.heybot.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12199"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18695"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%9C%E3%83%83%E3%83%88!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271337"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12199,
+  "Pages": {
+    "9anime": {
+      "w66k": {
+        "createdAt": "2020-10-12T15:56:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9701,
+        "identifier": "w66k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "HEYBOT!",
+        "url": "https://9anime.to/watch/heybot.w66k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9cmLzUHuG-k/V93gqRzsalI/AAAAAAAA-rw/aiP2wnBwuDc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33434,
+        "aniId": 21848,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "heybot": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18254,
+        "identifier": "heybot",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Heybot!",
+        "url": "https://gogoanime.vc/category/heybot",
+        "image": "https://cdnimg.xyz/cover/heybot.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33434,
+        "aniId": 21848,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1715": {
+        "identifier": "1715",
+        "malId": 33434,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Heybot!",
+        "url": "https://animepahe.com/a/1715"
+      }
+    },
+    "AniMixPlay": {
+      "33434": {
+        "identifier": "33434",
+        "malId": 33434,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Heybot!",
+        "url": "https://animixplay.to/anime/33434"
+      }
+    },
+    "YugenAnime": {
+      "688": {
+        "identifier": "688",
+        "malId": 33434,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Heybot!",
+        "url": "https://yugen.to/anime/688/heybot/"
+      }
+    }
+  }
+}

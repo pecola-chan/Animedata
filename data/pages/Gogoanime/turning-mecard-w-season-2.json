@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-08-23T18:06:34.000Z",
+  "updatedAt": "2021-08-23T18:36:33.000Z",
+  "checkedAt": null,
+  "id": 38411,
+  "identifier": "turning-mecard-w-season-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Turning Mecard W Season 2",
+  "url": "https://gogoanime.pe/category/turning-mecard-w-season-2",
+  "image": "https://gogocdn.net/cover/turning-mecard-w-season-2.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 35543,
+  "aniId": 128977,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-05-03T18:33:09.000Z",
+    "updatedAt": "2022-06-26T15:37:18.000Z",
+    "checkedAt": "2022-06-26T15:37:18.000Z",
+    "id": 35543,
+    "type": "anime",
+    "title": "Turning Mecard W Season 2",
+    "altTitle": [
+      "Turning Mecard Wing Season 2",
+      "터닝메카드 Wing 시즌2",
+      "Turning Mecard W Season 2",
+      "터닝메카드 W 시즌2"
+    ],
+    "url": "https://myanimelist.net/anime/35543/Turning_Mecard_W_Season_2",
+    "image": "https://cdn.myanimelist.net/images/anime/3/85661.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kbs.co.kr/2tv/enter/mecardw2"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13822"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_W"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13822
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:28.000Z",
+    "updatedAt": "2022-06-26T15:37:16.000Z",
+    "checkedAt": "2022-06-26T15:37:16.000Z",
+    "id": 128977,
+    "type": "anime",
+    "title": "Turning Mecard W Season 2",
+    "altTitle": [
+      "터닝메카드 W 시즌2 ",
+      "Turning Mecard Wing Season 2, 터닝메카드 Wing 시즌2 "
+    ],
+    "url": "https://anilist.co/anime/128977",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128977-co8vXv7XNtyp.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 35543,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T17:47:05.000Z",
+  "checkedAt": "2022-05-14T17:47:05.000Z",
+  "id": 39063,
+  "type": "anime",
+  "title": "Fairy Gone",
+  "altTitle": [
+    "Fairy Gone",
+    "Fairy gone フェアリーゴーン"
+  ],
+  "url": "https://myanimelist.net/anime/39063/Fairy_Gone",
+  "image": "https://cdn.myanimelist.net/images/anime/1562/100460.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.fairygone.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14627"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21766"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairy_Gone"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/fairy-gone"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14627,
+  "Pages": {
+    "9anime": {
+      "rx1o": {
+        "createdAt": "2020-10-12T15:55:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9061,
+        "identifier": "rx1o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fairy Gone",
+        "url": "https://9anime.to/watch/fairy-gone.rx1o",
+        "image": "https://static.akacdn.ru/static/images/2019/01/626cdd86f9e93c5f322a98248139e85f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39063,
+        "aniId": 107418,
+        "deletedAt": null
+      },
+      "xyrq": {
+        "createdAt": "2020-10-12T15:56:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10449,
+        "identifier": "xyrq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fairy Gone (Dub)",
+        "url": "https://9anime.to/watch/fairy-gone-dub.xyrq",
+        "image": "https://static.akacdn.ru/files/images/2019/04/1b2f55f33125464442726916b50f5d52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39063,
+        "aniId": 107418,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fairy-gone": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17596,
+        "identifier": "fairy-gone",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fairy Gone",
+        "url": "https://gogoanime.vc/category/fairy-gone",
+        "image": "https://cdnimg.xyz/cover/fairy-gone.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39063,
+        "aniId": 107418,
+        "deletedAt": null
+      },
+      "fairy-gone-dub": {
+        "createdAt": "2020-10-12T16:00:22.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17599,
+        "identifier": "fairy-gone-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fairy Gone (Dub)",
+        "url": "https://gogoanime.vc/category/fairy-gone-dub",
+        "image": "https://cdnimg.xyz/cover/fairy-gone-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39063,
+        "aniId": 107418,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3209": {
+        "identifier": "3209",
+        "malId": 39063,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fairy Gone",
+        "url": "https://animepahe.com/a/3209"
+      }
+    },
+    "AniMixPlay": {
+      "39063": {
+        "identifier": "39063",
+        "malId": 39063,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fairy Gone",
+        "url": "https://animixplay.to/anime/39063"
+      }
+    },
+    "YugenAnime": {
+      "1559": {
+        "identifier": "1559",
+        "malId": 39063,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fairy Gone",
+        "url": "https://yugen.to/anime/1559/fairy-gone/"
+      }
+    }
+  }
+}

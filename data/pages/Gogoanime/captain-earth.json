@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T16:00:05.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17004,
+  "identifier": "captain-earth",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Captain Earth",
+  "url": "https://gogoanime.vc/category/captain-earth",
+  "image": "https://cdnimg.xyz/images/spring/Captain Earth.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 21677,
+  "aniId": 20446,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:24.000Z",
+    "updatedAt": "2022-05-14T19:32:54.000Z",
+    "checkedAt": "2022-05-14T19:32:54.000Z",
+    "id": 21677,
+    "type": "anime",
+    "title": "Captain Earth",
+    "altTitle": [
+      "Captain Earth",
+      "キャプテン・アース"
+    ],
+    "url": "https://myanimelist.net/anime/21677/Captain_Earth",
+    "image": "https://cdn.myanimelist.net/images/anime/7/61051.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://captain-earth.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10067"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15773"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Captain_Earth"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10067
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:28.000Z",
+    "updatedAt": "2022-05-15T09:54:59.000Z",
+    "checkedAt": "2022-05-15T09:54:59.000Z",
+    "id": 20446,
+    "type": "anime",
+    "title": "Captain Earth",
+    "altTitle": [
+      "Captain Earth",
+      "キャプテン・アース",
+      "Cpt. Earth"
+    ],
+    "url": "https://anilist.co/anime/20446",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20446-raX25lZndRm7.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/captain-earth"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GR9V39JJ6/Captain-Earth"
+      }
+    ],
+    "malId": 21677,
+    "deletedAt": null
+  }
+}

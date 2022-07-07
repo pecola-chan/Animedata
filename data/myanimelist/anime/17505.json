@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:19.000Z",
+  "updatedAt": "2022-05-14T16:00:32.000Z",
+  "checkedAt": "2022-05-14T16:00:32.000Z",
+  "id": 17505,
+  "type": "anime",
+  "title": "Mushibugyou",
+  "altTitle": [
+    "Mushibugyo",
+    "ムシブギョー 蟲奉行"
+  ],
+  "url": "https://myanimelist.net/anime/17505/Mushibugyou",
+  "image": "https://cdn.myanimelist.net/images/anime/12/48827.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mushibugyo.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9666"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15109"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mushibugyo"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-253495"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9666,
+  "Pages": {
+    "9anime": {
+      "w3l": {
+        "createdAt": "2020-10-12T15:56:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9640,
+        "identifier": "w3l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mushibugyou",
+        "url": "https://9anime.to/watch/mushibugyou.w3l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ajFa2dykOTw/V3-ORSj58FI/AAAAAAAAt-M/ptvKMFAPS34/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17505,
+        "aniId": 17505,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mushibugyou": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19584,
+        "identifier": "mushibugyou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mushibugyou",
+        "url": "https://gogoanime.vc/category/mushibugyou",
+        "image": "https://cdnimg.xyz/images/anime/M/Mushibugyou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17505,
+        "aniId": 17505,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "592": {
+        "identifier": "592",
+        "malId": 17505,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mushibugyou",
+        "url": "https://animepahe.com/a/592"
+      }
+    },
+    "AniMixPlay": {
+      "17505": {
+        "identifier": "17505",
+        "malId": 17505,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mushibugyou",
+        "url": "https://animixplay.to/anime/17505"
+      }
+    },
+    "YugenAnime": {
+      "735": {
+        "identifier": "735",
+        "malId": 17505,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mushibugyou",
+        "url": "https://yugen.to/anime/735/mushibugyou/"
+      }
+    }
+  }
+}

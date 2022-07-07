@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-15T00:34:47.000Z",
+  "checkedAt": "2022-05-15T00:34:47.000Z",
+  "id": 446,
+  "type": "anime",
+  "title": "Weiß Kreuz Glühen",
+  "altTitle": [
+    "Weiss Kreuz Gluehen",
+    "White Cross Glowing",
+    "Knight Hunters Eternity",
+    "ヴァイスクロイツ・グリーエン"
+  ],
+  "url": "https://myanimelist.net/anime/446/Weiß_Kreuz_Glühen",
+  "image": "https://cdn.myanimelist.net/images/anime/9/23693.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kids-station.com/2002/weibkreuz/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=226"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1822"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 226,
+  "Pages": {
+    "9anime": {
+      "8y6q": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4089,
+        "identifier": "8y6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Weiß Kreuz Glühen",
+        "url": "https://9anime.to/watch/weiss-kreuz-gluehen.8y6q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4YJQS-DmeMs/V-u8HRaqjHI/AAAAAAABB4c/KfOYwp8Qfmk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 446,
+        "aniId": 446,
+        "deletedAt": null
+      },
+      "9y8n": {
+        "createdAt": "2020-10-12T15:51:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4513,
+        "identifier": "9y8n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Weiß Kreuz Glühen (Dub)",
+        "url": "https://9anime.to/watch/weiss-kreuz-gluehen-dub.9y8n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0kkR8j6lQ2U/V-u8MPIY9XI/AAAAAAABB4g/qRUD6Xuuw6g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 446,
+        "aniId": 446,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4394": {
+        "identifier": "4394",
+        "malId": 446,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Weiß Kreuz Glühen",
+        "url": "https://animepahe.com/a/4394"
+      }
+    },
+    "AniMixPlay": {
+      "446": {
+        "identifier": "446",
+        "malId": 446,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Weiß Kreuz Glühen",
+        "url": "https://animixplay.to/anime/446"
+      }
+    }
+  }
+}

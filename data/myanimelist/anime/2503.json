@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-15T06:33:47.000Z",
+  "checkedAt": "2022-05-15T06:33:47.000Z",
+  "id": 2503,
+  "type": "anime",
+  "title": "Nangoku Shounen Papuwa-kun",
+  "altTitle": [
+    "Papuwa (1992)",
+    "Papuwa of the South Seas",
+    "Southern Country Boy Papuwa-kun",
+    "南国少年パプワくん"
+  ],
+  "url": "https://myanimelist.net/anime/2503/Nangoku_Shounen_Papuwa-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/8/3062.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/078/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1126"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1869"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Papuwa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1126,
+  "Pages": {
+    "9anime": {
+      "mk67": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6572,
+        "identifier": "mk67",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nangoku Shounen Papuwa-kun",
+        "url": "https://9anime.to/watch/nangoku-shounen-papuwa-kun.mk67",
+        "image": "https://static.akacdn.ru/files/images/2019/08/eeec80f69bf05d06d366d0e173444cd2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2503,
+        "aniId": 2503,
+        "deletedAt": null
+      }
+    }
+  }
+}

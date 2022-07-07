@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-14T19:59:05.000Z",
+  "checkedAt": "2022-05-14T19:59:05.000Z",
+  "id": 2390,
+  "type": "anime",
+  "title": "Hoshi no Kirby",
+  "altTitle": [
+    "Hoshi no Kirby",
+    "Kirby of the Stars",
+    "Kirby: Right Back at Ya!",
+    "星のカービィ"
+  ],
+  "url": "https://myanimelist.net/anime/2390/Hoshi_no_Kirby",
+  "image": "https://cdn.myanimelist.net/images/anime/9/22184.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hicbc.com/tv/kirby/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2448"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1394"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kirby:_Right_Back_at_Ya!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2448,
+  "Pages": {
+    "9anime": {
+      "wp8o": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9874,
+        "identifier": "wp8o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kirby: Right Back at Ya! (Dub)",
+        "url": "https://9anime.to/watch/kirby-right-back-at-ya-dub.wp8o",
+        "image": "https://static.akacdn.ru/static/images/2018/04/fdf5cc4b197dda3d248b2e7df24b9a02.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2390,
+        "aniId": 2390,
+        "deletedAt": null
+      },
+      "ympp": {
+        "createdAt": "2020-10-12T15:56:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10754,
+        "identifier": "ympp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hoshi no Kirby",
+        "url": "https://9anime.to/watch/hoshi-no-kirby.ympp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ut3z19Hf-z4/WGEsmpHAtUI/AAAAAAABU3Q/t-Dx4xRzi-s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2390,
+        "aniId": 2390,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4586": {
+        "identifier": "4586",
+        "malId": 2390,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hoshi no Kirby",
+        "url": "https://animepahe.com/a/4586"
+      }
+    },
+    "AniMixPlay": {
+      "2390": {
+        "identifier": "2390",
+        "malId": 2390,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hoshi no Kirby",
+        "url": "https://animixplay.to/anime/2390"
+      }
+    }
+  }
+}

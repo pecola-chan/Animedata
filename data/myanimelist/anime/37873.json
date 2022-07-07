@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T19:30:53.000Z",
+  "checkedAt": "2022-05-14T19:30:53.000Z",
+  "id": 37873,
+  "type": "anime",
+  "title": "BanG Dream! Garupa☆Pico",
+  "altTitle": [
+    "BanG Dream! Garupa Pico",
+    "BanG Dream! Girls Band Party!☆PICO",
+    "BanG Dream! ガルパ☆ピコ"
+  ],
+  "url": "https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico",
+  "image": "https://cdn.myanimelist.net/images/anime/1341/92872.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.bang-dream.com/pico/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14077"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21290"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14077,
+  "Pages": {
+    "9anime": {
+      "j923": {
+        "createdAt": "2020-10-12T15:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4811,
+        "identifier": "j923",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BanG Dream! Garupa☆Pico",
+        "url": "https://9anime.to/watch/bang-dream-garupapico.j923",
+        "image": "http://static.akacdn.ru/static/images/2018/05/7824e592e18160af00c00bc47b7c07cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37873,
+        "aniId": 101632,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bang-dream-garupapico": {
+        "createdAt": "2020-10-12T15:59:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16724,
+        "identifier": "bang-dream-garupapico",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "BanG Dream! Garupa☆Pico",
+        "url": "https://gogoanime.vc/category/bang-dream-garupapico",
+        "image": "https://cdnimg.xyz/cover/bang-dream-garupapico.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37873,
+        "aniId": 101632,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2955": {
+        "identifier": "2955",
+        "malId": 37873,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "BanG Dream! Garupa☆Pico",
+        "url": "https://animepahe.com/a/2955"
+      }
+    },
+    "AniMixPlay": {
+      "37873": {
+        "identifier": "37873",
+        "malId": 37873,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "BanG Dream! Garupa☆Pico",
+        "url": "https://animixplay.to/anime/37873"
+      }
+    },
+    "YugenAnime": {
+      "6560": {
+        "identifier": "6560",
+        "malId": 37873,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "BanG Dream! Garupa☆Pico",
+        "url": "https://yugen.to/anime/6560/bang-dream-garupapico/"
+      }
+    }
+  }
+}

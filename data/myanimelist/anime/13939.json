@@ -1,0 +1,152 @@
+{
+  "createdAt": "2020-10-12T15:39:13.000Z",
+  "updatedAt": "2022-05-14T10:13:14.000Z",
+  "checkedAt": "2022-05-14T10:13:14.000Z",
+  "id": 13939,
+  "type": "anime",
+  "title": "Accel World EX",
+  "altTitle": [
+    "Accel World OVA",
+    "Accel World: Reverberation",
+    "Accel World: Ginyoku no Kakusei",
+    "Accel World: Kasoku no Chouten",
+    "アクセル・ワールド EX"
+  ],
+  "url": "https://myanimelist.net/anime/13939/Accel_World_EX",
+  "image": "https://cdn.myanimelist.net/images/anime/10/41815.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://accel-world-game.channel.or.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9187"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15214"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Accel_World"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9187,
+  "Pages": {
+    "9anime": {
+      "65v9": {
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2956,
+        "identifier": "65v9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Accel World EX (Dub)",
+        "url": "https://9anime.to/watch/accel-world-ex-dub.65v9",
+        "image": "https://static.akacdn.ru/files/images/2020/02/40539790e39517952610815e30ac59d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13939,
+        "aniId": 13939,
+        "deletedAt": null
+      },
+      "qqp3": {
+        "createdAt": "2020-10-12T15:55:14.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8532,
+        "identifier": "qqp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Accel World EX",
+        "url": "https://9anime.to/watch/accel-world-ex.qqp3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AolvOp9Q1Is/V-ObdFLVrEI/AAAAAAAA_jU/q-KZ2DJRl1c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13939,
+        "aniId": 13939,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "accel-world-ex-dub": {
+        "createdAt": "2021-06-10T07:04:14.000Z",
+        "updatedAt": "2021-06-10T07:34:14.000Z",
+        "checkedAt": null,
+        "id": 37295,
+        "identifier": "accel-world-ex-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Accel World EX (Dub)",
+        "url": "https://gogoanime.vc/category/accel-world-ex-dub",
+        "image": "https://gogocdn.net/cover/accel-world-ex-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13939,
+        "aniId": 13939,
+        "deletedAt": null
+      },
+      "accel-world-ex": {
+        "createdAt": "2021-07-25T19:22:35.000Z",
+        "updatedAt": "2021-07-25T19:51:33.000Z",
+        "checkedAt": null,
+        "id": 38027,
+        "identifier": "accel-world-ex",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Accel World EX",
+        "url": "https://gogoanime.pe/category/accel-world-ex",
+        "image": "https://gogocdn.net/cover/accel-world-ex.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13939,
+        "aniId": 13939,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1455": {
+        "identifier": "1455",
+        "malId": 13939,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Accel World EX",
+        "url": "https://animepahe.com/a/1455"
+      }
+    },
+    "AniMixPlay": {
+      "13939": {
+        "identifier": "13939",
+        "malId": 13939,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Accel World EX",
+        "url": "https://animixplay.to/anime/13939"
+      }
+    },
+    "YugenAnime": {
+      "783": {
+        "identifier": "783",
+        "malId": 13939,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Accel World EX",
+        "url": "https://yugen.to/anime/783/accel-world-ex/"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T20:12:17.000Z",
+  "checkedAt": "2022-05-14T20:12:17.000Z",
+  "id": 39622,
+  "type": "anime",
+  "title": "Bakugan: Battle Planet",
+  "altTitle": [
+    "Bakugan: Battle Planet",
+    "爆丸バトルプラネット"
+  ],
+  "url": "https://myanimelist.net/anime/39622/Bakugan__Battle_Planet",
+  "image": "https://cdn.myanimelist.net/images/anime/1477/100243.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/bakugan-bp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14709"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21868"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bakugan:_Battle_Planet"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14709,
+  "Pages": {
+    "9anime": {
+      "4pno": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2343,
+        "identifier": "4pno",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakugan: Battle Planet (Dub)",
+        "url": "https://9anime.to/watch/bakugan-battle-planet-dub.4pno",
+        "image": "//static.9anime.to/i/cache/images/2019/12/b23f4b6b5c20aa45ca2ba5bc3fabf18e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 39622,
+        "aniId": 108852,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bakugan-battle-planet-dub": {
+        "createdAt": "2020-10-12T15:59:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16692,
+        "identifier": "bakugan-battle-planet-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bakugan: Battle Planet (Dub)",
+        "url": "https://gogoanime.vc/category/bakugan-battle-planet-dub",
+        "image": "https://gogocdn.net/cover/bakugan-battle-planet-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 39622,
+        "aniId": 108852,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39622": {
+        "identifier": "39622",
+        "malId": 39622,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bakugan: Battle Planet",
+        "url": "https://animixplay.to/anime/39622"
+      }
+    },
+    "YugenAnime": {
+      "4185": {
+        "identifier": "4185",
+        "malId": 39622,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bakugan: Battle Planet",
+        "url": "https://yugen.to/anime/4185/bakugan-battle-planet/"
+      }
+    }
+  }
+}

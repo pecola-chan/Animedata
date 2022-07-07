@@ -1,0 +1,112 @@
+{
+  "createdAt": "2021-01-04T19:27:10.000Z",
+  "updatedAt": "2022-05-14T09:41:56.000Z",
+  "checkedAt": "2022-05-14T09:41:56.000Z",
+  "id": 44248,
+  "type": "anime",
+  "title": "Fate/Grand Carnival",
+  "altTitle": [
+    "Fate/Grand Carnival: Dai-1 Tokuien Eirei Genkai Taisai Olympia",
+    "Fate/Grand Carnival",
+    "Fate/Grand Carnival 第一特異宴 英霊限界大祭オリンピア"
+  ],
+  "url": "https://myanimelist.net/anime/44248/Fate_Grand_Carnival",
+  "image": "https://cdn.myanimelist.net/images/anime/1239/117596.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.fate-go.jp/fgc/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15899"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24414"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carnival_Phantasm#OVA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15899,
+  "Pages": {
+    "9anime": {
+      "lzz3": {
+        "createdAt": "2021-01-01T12:56:11.000Z",
+        "updatedAt": "2021-10-15T10:59:15.000Z",
+        "checkedAt": null,
+        "id": 32435,
+        "identifier": "lzz3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fate/Grand Carnival",
+        "url": "https://9anime.to/watch/fategrand-carnival.lzz3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/ff/ffd893ca948b05442a36eb52d9de0d33.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44248,
+        "aniId": 127149,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fategrand-carnival": {
+        "createdAt": "2021-06-04T19:20:29.000Z",
+        "updatedAt": "2021-06-04T19:48:57.000Z",
+        "checkedAt": null,
+        "id": 37197,
+        "identifier": "fategrand-carnival",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fate/Grand Carnival",
+        "url": "https://gogoanime.vc/category/fategrand-carnival",
+        "image": "https://gogocdn.net/cover/fategrand-carnival.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44248,
+        "aniId": 127149,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4407": {
+        "identifier": "4407",
+        "malId": 44248,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fate/Grand Carnival",
+        "url": "https://animepahe.com/a/4407"
+      }
+    },
+    "AniMixPlay": {
+      "44248": {
+        "identifier": "44248",
+        "malId": 44248,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fate/Grand Carnival",
+        "url": "https://animixplay.to/anime/44248"
+      }
+    },
+    "YugenAnime": {
+      "7736": {
+        "identifier": "7736",
+        "malId": 44248,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fate/Grand Carnival",
+        "url": "https://yugen.to/anime/7736/fategrand-carnival/"
+      }
+    }
+  }
+}

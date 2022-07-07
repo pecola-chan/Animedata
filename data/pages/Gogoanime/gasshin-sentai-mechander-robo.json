@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:29.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17813,
+  "identifier": "gasshin-sentai-mechander-robo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gasshin Sentai Mechander Robo",
+  "url": "https://gogoanime.vc/category/gasshin-sentai-mechander-robo",
+  "image": "https://cdnimg.xyz/cover/gasshin-sentai-mechander-robo.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3294,
+  "aniId": 3294,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:36.000Z",
+    "updatedAt": "2022-05-15T01:53:47.000Z",
+    "checkedAt": "2022-05-15T01:53:47.000Z",
+    "id": 3294,
+    "type": "anime",
+    "title": "Gasshin Sentai Mechander Robo",
+    "altTitle": [
+      "Mekanda Robo",
+      "Combining Squadron Mechander Robo",
+      "合身戦隊メカンダーロボ"
+    ],
+    "url": "https://myanimelist.net/anime/3294/Gasshin_Sentai_Mechander_Robo",
+    "image": "https://cdn.myanimelist.net/images/anime/9/29474.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4927"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2210"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mechander_Robo"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4927
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:37.000Z",
+    "updatedAt": "2022-05-16T03:45:45.000Z",
+    "checkedAt": "2022-05-16T03:45:45.000Z",
+    "id": 3294,
+    "type": "anime",
+    "title": "Gasshin Sentai Mechander Robo",
+    "altTitle": [
+      "Combining Squadron Mechander Robo",
+      "合身戦隊メカンダーロボ",
+      "Mekanda Robo"
+    ],
+    "url": "https://anilist.co/anime/3294",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3294.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3294,
+    "deletedAt": null
+  }
+}

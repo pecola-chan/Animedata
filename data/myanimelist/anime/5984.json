@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-14T18:16:05.000Z",
+  "checkedAt": "2022-05-14T18:16:05.000Z",
+  "id": 5984,
+  "type": "anime",
+  "title": "Ristorante Paradiso",
+  "altTitle": [
+    "Ristorante Paradiso",
+    "リストランテパラディーゾ"
+  ],
+  "url": "https://myanimelist.net/anime/5984/Ristorante_Paradiso",
+  "image": "https://cdn.myanimelist.net/images/anime/13/17488.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rispara.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6384"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10449"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ristorante_Paradiso"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-169895"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6384,
+  "Pages": {
+    "9anime": {
+      "rokn": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8939,
+        "identifier": "rokn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ristorante Paradiso",
+        "url": "https://9anime.to/watch/ristorante-paradiso.rokn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UJ4xbbzdcU4/V75zUfQ73dI/AAAAAAAA5MQ/pvSp2CuLEEo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5984,
+        "aniId": 5984,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ristorante-paradiso": {
+        "createdAt": "2021-04-25T22:57:44.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36696,
+        "identifier": "ristorante-paradiso",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ristorante Paradiso",
+        "url": "https://gogoanime.vc/category/ristorante-paradiso",
+        "image": "https://gogocdn.net/images/anime/R/ristorante-paradiso.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5984,
+        "aniId": 5984,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5984": {
+        "identifier": "5984",
+        "malId": 5984,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ristorante Paradiso",
+        "url": "https://animixplay.to/anime/5984"
+      }
+    },
+    "YugenAnime": {
+      "5894": {
+        "identifier": "5894",
+        "malId": 5984,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ristorante Paradiso",
+        "url": "https://yugen.to/anime/5894/ristorante-paradiso/"
+      }
+    }
+  }
+}

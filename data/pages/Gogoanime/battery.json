@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T15:59:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16743,
+  "identifier": "battery",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Battery",
+  "url": "https://gogoanime.vc/category/battery",
+  "image": "https://cdnimg.xyz/cover/battery.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 32947,
+  "aniId": 21702,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:44.000Z",
+    "updatedAt": "2022-05-14T18:01:41.000Z",
+    "checkedAt": "2022-05-14T18:01:41.000Z",
+    "id": 32947,
+    "type": "anime",
+    "title": "Battery",
+    "altTitle": [
+      "バッテリー"
+    ],
+    "url": "https://myanimelist.net/anime/32947/Battery",
+    "image": "https://cdn.myanimelist.net/images/anime/6/79158.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.battery-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11996"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18153"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Battery_(novel_series)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11996
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:04.000Z",
+    "updatedAt": "2022-05-15T15:08:23.000Z",
+    "checkedAt": "2022-05-15T15:08:23.000Z",
+    "id": 21702,
+    "type": "anime",
+    "title": "Battery",
+    "altTitle": [
+      "BATTERY the animation",
+      "バッテリー"
+    ],
+    "url": "https://anilist.co/anime/21702",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21702-CKiyEpxtRWBp.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 32947,
+    "deletedAt": null
+  }
+}

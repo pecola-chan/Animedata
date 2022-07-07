@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T16:40:59.000Z",
+  "checkedAt": "2022-05-14T16:40:59.000Z",
+  "id": 189,
+  "type": "anime",
+  "title": "Love Hina",
+  "altTitle": [
+    "Love Hina",
+    "ラブひな"
+  ],
+  "url": "https://myanimelist.net/anime/189/Love_Hina",
+  "image": "https://cdn.myanimelist.net/images/anime/1153/99366.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/lovehina/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=35"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=168"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Love_Hina"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 35,
+  "Pages": {
+    "9anime": {
+      "ll1n": {
+        "createdAt": "2020-10-12T15:53:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6046,
+        "identifier": "ll1n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Hina",
+        "url": "https://9anime.to/watch/love-hina.ll1n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--jnbetMcC4Y/V4-BqlHLYcI/AAAAAAAAwpI/iV79JDLdaGg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 189,
+        "aniId": 189,
+        "deletedAt": null
+      },
+      "p87q": {
+        "createdAt": "2020-10-12T15:54:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7923,
+        "identifier": "p87q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Hina (Dub)",
+        "url": "https://9anime.to/watch/love-hina-dub.p87q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bkQ8yLdqvJY/V_nCH6WyOcI/AAAAAAABFeA/JdQsjvX16E0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 189,
+        "aniId": 189,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "love-hina": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19140,
+        "identifier": "love-hina",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Hina",
+        "url": "https://gogoanime.vc/category/love-hina",
+        "image": "https://cdnimg.xyz/images/anime/M/240xNxlove-hina.jpg.pagespeed.ic.9Q0lkZuLpa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 189,
+        "aniId": 189,
+        "deletedAt": null
+      },
+      "love-hina-dub": {
+        "createdAt": "2021-03-02T13:50:40.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35405,
+        "identifier": "love-hina-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Hina (Dub)",
+        "url": "https://gogoanime.vc/category/love-hina-dub",
+        "image": "https://gogocdn.net/cover/love-hina-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 189,
+        "aniId": 189,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "189": {
+        "identifier": "189",
+        "malId": 189,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love Hina",
+        "url": "https://animixplay.to/anime/189"
+      }
+    },
+    "YugenAnime": {
+      "1925": {
+        "identifier": "1925",
+        "malId": 189,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love Hina",
+        "url": "https://yugen.to/anime/1925/love-hina/"
+      }
+    }
+  }
+}

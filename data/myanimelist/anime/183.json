@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T20:45:05.000Z",
+  "checkedAt": "2022-05-14T20:45:05.000Z",
+  "id": 183,
+  "type": "anime",
+  "title": "Whistle!",
+  "altTitle": [
+    "ホイッスル！"
+  ],
+  "url": "https://myanimelist.net/anime/183/Whistle",
+  "image": "https://cdn.myanimelist.net/images/anime/8/17885.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/whistle/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=126"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=858"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Whistle%21"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 126,
+  "Pages": {
+    "9anime": {
+      "mv9p": {
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6765,
+        "identifier": "mv9p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Whistle!",
+        "url": "https://9anime.to/watch/whistle.mv9p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cMA4DsKrRuQ/V7NL8LOl_0I/AAAAAAAA3mE/-HE-IaK9tVA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 183,
+        "aniId": 183,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "whistle": {
+        "createdAt": "2021-03-18T01:02:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35764,
+        "identifier": "whistle",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Whistle",
+        "url": "https://gogoanime.vc/category/whistle",
+        "image": "https://gogocdn.net/images/anime/W/whistle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 183,
+        "aniId": 183,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "183": {
+        "identifier": "183",
+        "malId": 183,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Whistle!",
+        "url": "https://animixplay.to/anime/183"
+      }
+    },
+    "YugenAnime": {
+      "1919": {
+        "identifier": "1919",
+        "malId": 183,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Whistle!",
+        "url": "https://yugen.to/anime/1919/whistle/"
+      }
+    }
+  }
+}

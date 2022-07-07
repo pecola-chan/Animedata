@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:02:14.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21378,
+  "identifier": "w-wish",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "W Wish",
+  "url": "https://gogoanime.vc/category/w-wish",
+  "image": "https://images.gogoanime.tv/images/anime/wwish.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 346,
+  "aniId": 346,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:02.000Z",
+    "updatedAt": "2022-05-14T20:56:11.000Z",
+    "checkedAt": "2022-05-14T20:56:10.000Z",
+    "id": 346,
+    "type": "anime",
+    "title": "W: Wish",
+    "altTitle": [
+      "Double Wish",
+      "W 〜ウィッシュ〜"
+    ],
+    "url": "https://myanimelist.net/anime/346/W__Wish",
+    "image": "https://cdn.myanimelist.net/images/anime/1/346.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://trinet.cata.jp/princess_hour/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2188"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4465"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/W_Wish"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2188
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:39.000Z",
+    "updatedAt": "2022-05-15T19:19:59.000Z",
+    "checkedAt": "2022-05-15T19:19:59.000Z",
+    "id": 346,
+    "type": "anime",
+    "title": "W: Wish",
+    "altTitle": [
+      "Double Wish",
+      "W 〜ウィッシュ〜"
+    ],
+    "url": "https://anilist.co/anime/346",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/346.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 346,
+    "deletedAt": null
+  }
+}

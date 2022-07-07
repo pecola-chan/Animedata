@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-14T19:04:06.000Z",
+  "checkedAt": "2022-05-14T19:04:06.000Z",
+  "id": 1350,
+  "type": "anime",
+  "title": "Parasite Dolls",
+  "altTitle": [
+    "パラサイトドールズ"
+  ],
+  "url": "https://myanimelist.net/anime/1350/Parasite_Dolls",
+  "image": "https://cdn.myanimelist.net/images/anime/1396/103207.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aicanime.com/products/parasitedolls/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=779"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2345"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/parasite-dolls-theatrical"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 779,
+  "Pages": {
+    "9anime": {
+      "7kz6": {
+        "createdAt": "2020-10-12T15:51:10.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3465,
+        "identifier": "7kz6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Parasite Dolls (Dub)",
+        "url": "https://9anime.to/watch/parasite-dolls-dub.7kz6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PKAYR2YGUAw/V_Pctoy469I/AAAAAAABD9A/GZiglEKy7lU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1350,
+        "aniId": 1350,
+        "deletedAt": null
+      },
+      "8lzo": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3904,
+        "identifier": "8lzo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Parasite Dolls",
+        "url": "https://9anime.to/watch/parasite-dolls.8lzo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BIIklqi-TUs/V_PcnvuFyCI/AAAAAAABD88/s4hRffrc9k8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1350,
+        "aniId": 1350,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "parasite-dolls": {
+        "createdAt": "2021-05-03T16:33:10.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36855,
+        "identifier": "parasite-dolls",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Parasite Dolls",
+        "url": "https://gogoanime.vc/category/parasite-dolls",
+        "image": "https://gogocdn.net/images/anime/P/Parasite-Dolls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1350,
+        "aniId": 1350,
+        "deletedAt": null
+      },
+      "parasite-dolls-dub": {
+        "createdAt": "2021-05-03T16:33:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36856,
+        "identifier": "parasite-dolls-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Parasite Dolls (Dub)",
+        "url": "https://gogoanime.vc/category/parasite-dolls-dub",
+        "image": "https://gogocdn.net/cover/parasite-dolls-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1350,
+        "aniId": 1350,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1350": {
+        "identifier": "1350",
+        "malId": 1350,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Parasite Dolls",
+        "url": "https://animixplay.to/anime/1350"
+      }
+    },
+    "YugenAnime": {
+      "2492": {
+        "identifier": "2492",
+        "malId": 1350,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Parasite Dolls",
+        "url": "https://yugen.to/anime/2492/parasite-dolls/"
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-06-18T13:53:02.000Z",
+  "checkedAt": "2022-06-18T13:53:02.000Z",
+  "id": 1909,
+  "type": "anime",
+  "title": "Kusatta Kyoushi no Houteishiki",
+  "altTitle": [
+    "Rotten Teachers Equation",
+    "Bad Teacher Equation",
+    "腐った教師の方程式"
+  ],
+  "url": "https://myanimelist.net/anime/1909/Kusatta_Kyoushi_no_Houteishiki",
+  "image": "https://cdn.myanimelist.net/images/anime/10/49929.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2375"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5396"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%85%90%E3%81%A3%E3%81%9F%E6%95%99%E5%B8%AB%E3%81%AE%E6%96%B9%E7%A8%8B%E5%BC%8F"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2375,
+  "Pages": {
+    "9anime": {
+      "wm0o": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9802,
+        "identifier": "wm0o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bad Teacher Equation",
+        "url": "https://9anime.to/watch/bad-teacher-equation.wm0o",
+        "image": "https://static.akacdn.ru/files/images/2018/03/46ddf6f62fa8b5ef1c02dbfe04ed2d65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1909,
+        "aniId": 1909,
+        "deletedAt": null
+      }
+    }
+  }
+}

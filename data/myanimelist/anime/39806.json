@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T16:34:03.000Z",
+  "checkedAt": "2022-05-14T16:34:03.000Z",
+  "id": 39806,
+  "type": "anime",
+  "title": "Mugen no Juunin: Immortal",
+  "altTitle": [
+    "Blade of the Immortal",
+    "無限の住人-IMMORTAL-"
+  ],
+  "url": "https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal",
+  "image": "https://cdn.myanimelist.net/images/anime/1054/110054.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mugen-immortal.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14912"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22465"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blade_of_the_Immortal#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14912,
+  "Pages": {
+    "9anime": {
+      "2lw2": {
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2022-03-19T19:21:44.000Z",
+        "checkedAt": null,
+        "id": 1401,
+        "identifier": "2lw2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mugen no Juunin: IMMORTAL",
+        "url": "https://9anime.to/watch/blade-of-the-immortal-ona.2lw2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/10/c8736059ce6be32cb650e3f7ad3139ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39806,
+        "aniId": 109616,
+        "deletedAt": null
+      },
+      "02p27": {
+        "createdAt": "2021-06-11T01:40:11.000Z",
+        "updatedAt": "2021-06-11T02:08:18.000Z",
+        "checkedAt": null,
+        "id": 37315,
+        "identifier": "02p27",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mugen no Juunin: Immortal (Dub)",
+        "url": "https://9anime.to/watch/blade-of-the-immortal-dub.02p27",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/29/295421ecab9c5d5c72942ac4f3740f9e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39806,
+        "aniId": 109616,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mugen-no-juunin-immortal": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19567,
+        "identifier": "mugen-no-juunin-immortal",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mugen no Juunin: Immortal",
+        "url": "https://gogoanime.vc/category/mugen-no-juunin-immortal",
+        "image": "https://cdnimg.xyz/cover/mugen-no-juunin-immortal.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39806,
+        "aniId": 109616,
+        "deletedAt": null
+      },
+      "mugen-no-juunin-immortal-dub": {
+        "createdAt": "2021-05-25T15:08:31.000Z",
+        "updatedAt": "2021-05-25T15:38:17.000Z",
+        "checkedAt": null,
+        "id": 37108,
+        "identifier": "mugen-no-juunin-immortal-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mugen no Juunin: Immortal (Dub)",
+        "url": "https://gogoanime.vc/category/mugen-no-juunin-immortal-dub",
+        "image": "https://gogocdn.net/cover/mugen-no-juunin-immortal-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39806,
+        "aniId": 109616,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3518": {
+        "identifier": "3518",
+        "malId": 39806,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mugen no Juunin: Immortal",
+        "url": "https://animepahe.com/a/3518"
+      }
+    },
+    "AniMixPlay": {
+      "39806": {
+        "identifier": "39806",
+        "malId": 39806,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mugen no Juunin: Immortal",
+        "url": "https://animixplay.to/anime/39806"
+      }
+    },
+    "YugenAnime": {
+      "2614": {
+        "identifier": "2614",
+        "malId": 39806,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mugen no Juunin: Immortal",
+        "url": "https://yugen.to/anime/2614/mugen-no-juunin-immortal/"
+      }
+    }
+  }
+}

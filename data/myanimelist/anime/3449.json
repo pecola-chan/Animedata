@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T09:21:58.000Z",
+  "checkedAt": "2022-05-14T09:21:58.000Z",
+  "id": 3449,
+  "type": "anime",
+  "title": "Kamichu! Specials",
+  "altTitle": [
+    "Kami-chu!: Kami-sama wa Chuugakusei",
+    "The Goddess is a Middle School Student",
+    "かみちゅ!"
+  ],
+  "url": "https://myanimelist.net/anime/3449/Kamichu_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/12/24645.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Animation/kamichu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3195"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5356"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kamichu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3195,
+  "Pages": {
+    "9anime": {
+      "9mm8": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4347,
+        "identifier": "9mm8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Goddess is a Middle School Student (Dub)",
+        "url": "https://9anime.to/watch/the-goddess-is-a-middle-school-student-dub.9mm8",
+        "image": "https://static.akacdn.ru/static/images/2018/04/4ffe63df72df5df8ead082a0e05adbf4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3449,
+        "aniId": 3449,
+        "deletedAt": null
+      },
+      "rwoy": {
+        "createdAt": "2020-10-12T15:55:39.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9052,
+        "identifier": "rwoy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kamichu! Specials",
+        "url": "https://9anime.to/watch/kamichu-specials.rwoy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CBDHGB-WwVY/V6tn_FibaTI/AAAAAAAA2FE/3svtq5V55hA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3449,
+        "aniId": 3449,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3550": {
+        "identifier": "3550",
+        "malId": 3449,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kamichu! Specials",
+        "url": "https://animepahe.com/a/3550"
+      }
+    },
+    "AniMixPlay": {
+      "3449": {
+        "identifier": "3449",
+        "malId": 3449,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kamichu! Specials",
+        "url": "https://animixplay.to/anime/3449"
+      }
+    }
+  }
+}

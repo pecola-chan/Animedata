@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T16:15:44.000Z",
+  "checkedAt": "2022-05-14T16:15:44.000Z",
+  "id": 329,
+  "type": "anime",
+  "title": "Planetes",
+  "altTitle": [
+    "ΠΛΑΝΗΤΕΣ",
+    "Planetes",
+    "プラネテス"
+  ],
+  "url": "https://myanimelist.net/anime/329/Planetes",
+  "image": "https://cdn.myanimelist.net/images/anime/8/50463.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.planet-es.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=895"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2654"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Planetes"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 895,
+  "Pages": {
+    "9anime": {
+      "0rxk": {
+        "createdAt": "2020-10-12T15:48:52.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 657,
+        "identifier": "0rxk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Planetes",
+        "url": "https://9anime.to/watch/planetes.0rxk",
+        "image": "//static.9anime.to/i/cache/images/2018/04/9f1d423c676b7af3457d9a7fc97cb23b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 329,
+        "aniId": 329,
+        "deletedAt": null
+      },
+      "7zk7": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3673,
+        "identifier": "7zk7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Planetes (Dub)",
+        "url": "https://9anime.to/watch/planetes-dub.7zk7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5ObMJ2tH4Rg/WAK5GnYXwVI/AAAAAAABIPY/L54lUmUAITs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 329,
+        "aniId": 329,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "planetes": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20063,
+        "identifier": "planetes",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Planetes",
+        "url": "https://gogoanime.vc/category/planetes",
+        "image": "https://gogocdn.net/cover/planetes.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 329,
+        "aniId": 329,
+        "deletedAt": null
+      },
+      "planetes-dub": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20064,
+        "identifier": "planetes-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Planetes (Dub)",
+        "url": "https://gogoanime.vc/category/planetes-dub",
+        "image": "https://cdnimg.xyz/cover/planetes-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 329,
+        "aniId": 329,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "777": {
+        "identifier": "777",
+        "malId": 329,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Planetes",
+        "url": "https://animepahe.com/a/777"
+      }
+    },
+    "AniMixPlay": {
+      "329": {
+        "identifier": "329",
+        "malId": 329,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Planetes",
+        "url": "https://animixplay.to/anime/329"
+      }
+    },
+    "YugenAnime": {
+      "1433": {
+        "identifier": "1433",
+        "malId": 329,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Planetes",
+        "url": "https://yugen.to/anime/1433/planetes/"
+      }
+    }
+  }
+}

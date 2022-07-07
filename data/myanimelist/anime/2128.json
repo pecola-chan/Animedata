@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-15T08:23:14.000Z",
+  "checkedAt": "2022-05-15T08:23:14.000Z",
+  "id": 2128,
+  "type": "anime",
+  "title": "Yuusha Raideen",
+  "altTitle": [
+    "Yusha Reideen",
+    "Brave Raideen",
+    "Reideen the Brave",
+    "勇者ライディーン"
+  ],
+  "url": "https://myanimelist.net/anime/2128/Yuusha_Raideen",
+  "image": "https://cdn.myanimelist.net/images/anime/1962/119355.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1819"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1990"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Brave_Reideen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1819,
+  "Pages": {
+    "9anime": {
+      "6km9": {
+        "createdAt": "2020-10-12T15:50:46.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3041,
+        "identifier": "6km9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuusha Raideen",
+        "url": "https://9anime.to/watch/yuusha-raideen.6km9",
+        "image": "https://static.akacdn.ru/files/images/2018/04/23f0591999b3d111c6bb17d921d646bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2128,
+        "aniId": 2128,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yuusha-raideen": {
+        "createdAt": "2020-10-12T16:02:21.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21640,
+        "identifier": "yuusha-raideen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuusha Raideen",
+        "url": "https://gogoanime.vc/category/yuusha-raideen",
+        "image": "https://cdnimg.xyz/cover/yuusha-raideen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2128,
+        "aniId": 2128,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2128": {
+        "identifier": "2128",
+        "malId": 2128,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuusha Raideen",
+        "url": "https://animixplay.to/anime/2128"
+      }
+    },
+    "YugenAnime": {
+      "5494": {
+        "identifier": "5494",
+        "malId": 2128,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yuusha Raideen",
+        "url": "https://yugen.to/anime/5494/yuusha-raideen/"
+      }
+    }
+  }
+}

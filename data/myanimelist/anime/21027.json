@@ -1,0 +1,43 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-15T00:30:17.000Z",
+  "checkedAt": "2022-05-15T00:30:17.000Z",
+  "id": 21027,
+  "type": "anime",
+  "title": "Saibi",
+  "altTitle": [
+    "The Fake",
+    "사이비"
+  ],
+  "url": "https://myanimelist.net/anime/21027/Saibi",
+  "image": "https://cdn.myanimelist.net/images/anime/1056/112684.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "qm65": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8438,
+        "identifier": "qm65",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saibi",
+        "url": "https://9anime.to/watch/saibi.qm65",
+        "image": "https://static.akacdn.ru/files/images/2018/01/70a354d5b03d405b96814ee16c48d13f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21027,
+        "aniId": 100931,
+        "deletedAt": null
+      }
+    }
+  }
+}

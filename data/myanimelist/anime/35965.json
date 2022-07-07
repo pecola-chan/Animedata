@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T21:51:54.000Z",
+  "checkedAt": "2022-05-14T21:51:54.000Z",
+  "id": 35965,
+  "type": "anime",
+  "title": "Baja no Studio",
+  "altTitle": [
+    "Baja's Studio",
+    "バジャのスタジオ"
+  ],
+  "url": "https://myanimelist.net/anime/35965/Baja_no_Studio",
+  "image": "https://cdn.myanimelist.net/images/anime/11/87069.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kyotoanimation.co.jp/baja/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13292"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13292,
+  "Pages": {
+    "9anime": {
+      "noy8": {
+        "createdAt": "2020-10-12T15:53:56.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7170,
+        "identifier": "noy8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baja no Studio",
+        "url": "https://9anime.to/watch/baja-no-studio.noy8",
+        "image": "http://static.akacdn.ru/static/images/2018/04/4ec562acd9681d3cddefe5f707626af3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35965,
+        "aniId": 99937,
+        "deletedAt": null
+      }
+    }
+  }
+}

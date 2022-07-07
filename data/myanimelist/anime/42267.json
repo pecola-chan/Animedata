@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2022-05-14T17:35:41.000Z",
+  "checkedAt": "2022-05-14T17:35:41.000Z",
+  "id": 42267,
+  "type": "anime",
+  "title": "Dubu Xiaoyao",
+  "altTitle": [
+    "One Step Toward Freedom",
+    "独步逍遥"
+  ],
+  "url": "https://myanimelist.net/anime/42267/Dubu_Xiaoyao",
+  "image": "https://cdn.myanimelist.net/images/anime/1429/108132.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/m/mzc00200qqsk3cv.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%8B%AC%E6%AD%A5%E9%80%8D%E9%81%A5/23634901"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "r2zo": {
+        "createdAt": "2020-10-12T15:55:26.000Z",
+        "updatedAt": "2022-03-19T09:49:21.000Z",
+        "checkedAt": null,
+        "id": 8739,
+        "identifier": "r2zo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Step Toward Freedom",
+        "url": "https://9anime.to/watch/dubu-xiaoyao.r2zo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a3/a3156326d4fbc98b234955d532018545.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42267,
+        "aniId": 119927,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dubu-xiaoyao": {
+        "createdAt": "2020-10-12T16:00:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17507,
+        "identifier": "dubu-xiaoyao",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dubu Xiaoyao",
+        "url": "https://gogoanime.vc/category/dubu-xiaoyao",
+        "image": "https://gogocdn.net/cover/dubu-xiaoyao.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42267,
+        "aniId": 119927,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42267": {
+        "identifier": "42267",
+        "malId": 42267,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dubu Xiaoyao",
+        "url": "https://animixplay.to/anime/42267"
+      }
+    },
+    "YugenAnime": {
+      "374": {
+        "identifier": "374",
+        "malId": 42267,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dubu Xiaoyao",
+        "url": "https://yugen.to/anime/374/dubu-xiaoyao/"
+      }
+    }
+  }
+}

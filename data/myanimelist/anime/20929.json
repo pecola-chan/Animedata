@@ -1,0 +1,47 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-15T05:45:17.000Z",
+  "checkedAt": "2022-05-15T05:45:17.000Z",
+  "id": 20929,
+  "type": "anime",
+  "title": "Galo Sengen",
+  "altTitle": [
+    "GAL男宣言"
+  ],
+  "url": "https://myanimelist.net/anime/20929/Galo_Sengen",
+  "image": "https://cdn.myanimelist.net/images/anime/4/55423.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.policeman.jp/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "zyqw": {
+        "createdAt": "2020-10-12T15:57:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11361,
+        "identifier": "zyqw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Galo Sengen",
+        "url": "https://9anime.to/watch/galo-sengen.zyqw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/01/1b06d92042aba97da840fa8375010ea6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20929,
+        "aniId": 102756,
+        "deletedAt": null
+      }
+    }
+  }
+}

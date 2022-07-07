@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:15.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19376,
+  "identifier": "masuda-kousuke-gekijou-gag-manga-biyori-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Masuda Kousuke Gekijou Gag Manga Biyori 2",
+  "url": "https://gogoanime.vc/category/masuda-kousuke-gekijou-gag-manga-biyori-2",
+  "image": "https://cdnimg.xyz/cover/masuda-kousuke-gekijou-gag-manga-biyori-2.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2518,
+  "aniId": 2518,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:30.000Z",
+    "updatedAt": "2022-05-19T03:51:03.000Z",
+    "checkedAt": "2022-05-19T03:51:03.000Z",
+    "id": 2518,
+    "type": "anime",
+    "title": "Masuda Kousuke Gekijou Gag Manga Biyori 2",
+    "altTitle": [
+      "Gyagu Manga Biyori 2",
+      "増田こうすけ劇場 ギャグマンガ日和2"
+    ],
+    "url": "https://myanimelist.net/anime/2518/Masuda_Kousuke_Gekijou_Gag_Manga_Biyori_2",
+    "image": "https://cdn.myanimelist.net/images/anime/4/3538.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kids-station.com/minisite/gyagumanga/top.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4558"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6549"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gyagu_Manga_Biyori"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4558
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:21.000Z",
+    "updatedAt": "2022-05-19T03:51:02.000Z",
+    "checkedAt": "2022-05-19T03:51:02.000Z",
+    "id": 2518,
+    "type": "anime",
+    "title": "Gyagu Manga Biyori 2",
+    "altTitle": [
+      "ギャグマンガ日和２",
+      "Gag Manga Biyori 2"
+    ],
+    "url": "https://anilist.co/anime/2518",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2518.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2518,
+    "deletedAt": null
+  }
+}

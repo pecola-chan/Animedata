@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T18:18:59.000Z",
+  "checkedAt": "2022-05-14T18:18:59.000Z",
+  "id": 33746,
+  "type": "anime",
+  "title": "Anitore! XX: Hitotsu Yane no Shita de",
+  "altTitle": [
+    "Ani Tore! XX",
+    "Anime de Training! Xx",
+    "あにトレ! XX~ひとつ屋根の下で~"
+  ],
+  "url": "https://myanimelist.net/anime/33746/Anitore_XX__Hitotsu_Yane_no_Shita_de",
+  "image": "https://cdn.myanimelist.net/images/anime/10/82252.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime-training.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12301"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18673"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ani_Tore!_EX"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268091"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12301,
+  "Pages": {
+    "9anime": {
+      "lnzm": {
+        "createdAt": "2020-10-12T15:53:09.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6126,
+        "identifier": "lnzm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anitore! XX",
+        "url": "https://9anime.to/watch/anitore-xx.lnzm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Cud7aD6iwBI/V-tw9mC1QrI/AAAAAAABByw/dpzHo6tMkYs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33746,
+        "aniId": 21886,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1428": {
+        "identifier": "1428",
+        "malId": 33746,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Anitore! XX: Hitotsu Yane no Shita de",
+        "url": "https://animepahe.com/a/1428"
+      }
+    },
+    "AniMixPlay": {
+      "33746": {
+        "identifier": "33746",
+        "malId": 33746,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Anitore! XX: Hitotsu Yane no Shita de",
+        "url": "https://animixplay.to/anime/33746"
+      }
+    },
+    "YugenAnime": {
+      "2194": {
+        "identifier": "2194",
+        "malId": 33746,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Anitore! XX: Hitotsu Yane no Shita de",
+        "url": "https://yugen.to/anime/2194/anitore-xx-hitotsu-yane-no-shita-de/"
+      }
+    }
+  }
+}

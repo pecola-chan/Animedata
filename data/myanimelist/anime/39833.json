@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T23:32:10.000Z",
+  "checkedAt": "2022-05-14T23:32:10.000Z",
+  "id": 39833,
+  "type": "anime",
+  "title": "Junk Head",
+  "altTitle": [
+    "JUNK HEAD"
+  ],
+  "url": "https://myanimelist.net/anime/39833/Junk_Head",
+  "image": "https://cdn.myanimelist.net/images/anime/1780/116665.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.yamiken.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11907"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11907,
+  "Pages": {
+    "9anime": {
+      "x7v3": {
+        "createdAt": "2020-10-12T15:56:26.000Z",
+        "updatedAt": "2021-10-24T13:30:53.000Z",
+        "checkedAt": null,
+        "id": 10189,
+        "identifier": "x7v3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junk Head",
+        "url": "https://9anime.to/watch/junk-head.x7v3",
+        "image": "https://static.akacdn.ru/files/images/2018/05/205d32b90e42effa218d0731e94f6f52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39833,
+        "aniId": 140113,
+        "deletedAt": null
+      },
+      "kwonv": {
+        "createdAt": "2021-09-11T18:06:33.000Z",
+        "updatedAt": "2021-10-24T13:30:53.000Z",
+        "checkedAt": null,
+        "id": 38611,
+        "identifier": "kwonv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junk Head",
+        "url": "https://9anime.to/watch/junk-head.kwonv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/83/836c489c916003a5023ec4ddef41426f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39833,
+        "aniId": 140113,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "junk-head": {
+        "createdAt": "2021-09-11T17:36:40.000Z",
+        "updatedAt": "2021-10-24T13:30:53.000Z",
+        "checkedAt": null,
+        "id": 38610,
+        "identifier": "junk-head",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Junk Head",
+        "url": "https://gogoanime.pe/category/junk-head",
+        "image": "https://gogocdn.net/cover/junk-head.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39833,
+        "aniId": 140113,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39833": {
+        "identifier": "39833",
+        "malId": 39833,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Junk Head",
+        "url": "https://animixplay.to/anime/39833"
+      }
+    },
+    "YugenAnime": {
+      "9768": {
+        "identifier": "9768",
+        "malId": 39833,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Junk Head",
+        "url": "https://yugen.to/anime/9768/junk-head/"
+      }
+    }
+  }
+}

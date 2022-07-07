@@ -1,0 +1,83 @@
+{
+  "createdAt": "2021-08-07T20:37:23.000Z",
+  "updatedAt": "2022-05-15T22:19:24.000Z",
+  "checkedAt": "2022-05-15T22:19:24.000Z",
+  "id": 49549,
+  "type": "anime",
+  "title": "Bai Gui Youeryuan 4th Season",
+  "altTitle": [
+    "Bai Gui Youeryuan Di Si Ji",
+    "百鬼幼儿园 第四季"
+  ],
+  "url": "https://myanimelist.net/anime/49549/Bai_Gui_Youeryuan_4th_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1203/116938.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16830"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%99%BE%E9%AC%BC%E5%B9%BC%E5%84%BF%E5%9B%AD/22734633"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16830,
+  "Pages": {
+    "Gogoanime": {
+      "bai-gui-youeryuan-4rd-season": {
+        "createdAt": "2021-08-03T07:19:39.000Z",
+        "updatedAt": "2021-08-07T21:35:21.000Z",
+        "checkedAt": null,
+        "id": 38111,
+        "identifier": "bai-gui-youeryuan-4rd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bai Gui Youeryuan 4rd Season",
+        "url": "https://gogoanime.pe/category/bai-gui-youeryuan-4rd-season",
+        "image": "https://gogocdn.net/cover/bai-gui-youeryuan-4rd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 49549,
+        "aniId": 133413,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "52r7v": {
+        "createdAt": "2021-08-03T09:50:11.000Z",
+        "updatedAt": "2022-05-16T14:20:00.000Z",
+        "checkedAt": null,
+        "id": 38114,
+        "identifier": "52r7v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bai Gui Youeryuan 4rd Season",
+        "url": "https://9anime.to/watch/onmyoji-hundred-spirits-kindergarten-season-4.52r7v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/9d/9dc8f4d45bb63cae3b6d55328a3914e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 49549,
+        "aniId": 133413,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "14705": {
+        "identifier": "14705",
+        "malId": 49549,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bai Gui Youeryuan 4th Season",
+        "url": "https://yugen.to/anime/14705/bai-gui-youeryuan-4th-season/"
+      }
+    }
+  }
+}

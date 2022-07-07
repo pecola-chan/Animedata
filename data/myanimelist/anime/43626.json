@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-28T05:40:50.000Z",
+  "updatedAt": "2022-05-14T16:23:32.000Z",
+  "checkedAt": "2022-05-14T16:23:32.000Z",
+  "id": 43626,
+  "type": "anime",
+  "title": "Jue Shi Wu Hun",
+  "altTitle": [
+    "Peerless Martial Spirit",
+    "A Paragon of Wu hun",
+    "Jueshi Wuhun",
+    "Jue Shi Wu Shen",
+    "绝世武魂"
+  ],
+  "url": "https://myanimelist.net/anime/43626/Jue_Shi_Wu_Hun",
+  "image": "https://cdn.myanimelist.net/images/anime/1183/110438.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/m/mzc00200no18bci.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%BB%9D%E4%B8%96%E6%AD%A6%E9%AD%82/53131289"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "peerless-martial-spirit": {
+        "createdAt": "2020-10-27T19:42:52.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28072,
+        "identifier": "peerless-martial-spirit",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Peerless Martial Spirit",
+        "url": "https://gogoanime.vc/category/peerless-martial-spirit",
+        "image": "https://gogocdn.net/cover/peerless-martial-spirit.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 43626,
+        "aniId": 122521,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "p91x": {
+        "createdAt": "2020-10-28T05:41:51.000Z",
+        "updatedAt": "2022-03-19T09:51:47.000Z",
+        "checkedAt": null,
+        "id": 28102,
+        "identifier": "p91x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jueshi Wu Hun",
+        "url": "https://9anime.to/watch/jueshi-wu-hun.p91x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a5/a53639577fcd049af352c4d3bc3d949e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43626,
+        "aniId": 122521,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "43626": {
+        "identifier": "43626",
+        "malId": 43626,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jue Shi Wu Hun",
+        "url": "https://animixplay.to/anime/43626"
+      }
+    }
+  }
+}

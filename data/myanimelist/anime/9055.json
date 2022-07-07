@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T17:37:40.000Z",
+  "checkedAt": "2022-05-14T17:37:40.000Z",
+  "id": 9055,
+  "type": "anime",
+  "title": "Tamayura",
+  "altTitle": [
+    "たまゆら"
+  ],
+  "url": "https://myanimelist.net/anime/9055/Tamayura",
+  "image": "https://cdn.myanimelist.net/images/anime/4/28362.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tamayura.info/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7438"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11375"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tamayura"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/tamayura"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7438,
+  "Pages": {
+    "9anime": {
+      "ro0q": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8928,
+        "identifier": "ro0q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tamayura",
+        "url": "https://9anime.to/watch/tamayura.ro0q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0UR0rJ7jyqs/V7p6Mn_VRZI/AAAAAAAA4xI/9A2FAfObqHo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9055,
+        "aniId": 9055,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tamayura": {
+        "createdAt": "2020-10-12T16:02:01.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20946,
+        "identifier": "tamayura",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tamayura",
+        "url": "https://gogoanime.vc/category/tamayura",
+        "image": "https://gogocdn.net/cover/tamayura.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9055,
+        "aniId": 9055,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "480": {
+        "identifier": "480",
+        "malId": 9055,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tamayura",
+        "url": "https://animepahe.com/a/480"
+      }
+    },
+    "AniMixPlay": {
+      "9055": {
+        "identifier": "9055",
+        "malId": 9055,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tamayura",
+        "url": "https://animixplay.to/anime/9055"
+      }
+    },
+    "YugenAnime": {
+      "337": {
+        "identifier": "337",
+        "malId": 9055,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tamayura",
+        "url": "https://yugen.to/anime/337/tamayura/"
+      }
+    }
+  }
+}

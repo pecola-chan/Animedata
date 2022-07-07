@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T01:44:12.000Z",
+  "checkedAt": "2022-05-15T01:44:12.000Z",
+  "id": 5640,
+  "type": "anime",
+  "title": "Tabidachi: Ami Shuushou",
+  "altTitle": [
+    "Departure: Ami, the Final Chapter",
+    "Departure: Ami, Final Chapter",
+    "Departure: Ami, Last Chapter",
+    "Departure: Ami's Final Chapter",
+    "Departure: Ami's Last Chapter",
+    "Cream Lemon: Ami's Journey",
+    "Ami's Journey",
+    "Departure: Ami, the Last Chapter",
+    "旅立ち　-亜美・終章-"
+  ],
+  "url": "https://myanimelist.net/anime/5640/Tabidachi__Ami_Shuushou",
+  "image": "https://cdn.myanimelist.net/images/anime/5/11662.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://creamlemon.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7817"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7080"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cream_Lemon:_Ami%27s_Journey"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7817,
+  "Pages": {
+    "9anime": {
+      "7vn6": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3589,
+        "identifier": "7vn6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cream Lemon: Ami's Journey",
+        "url": "https://9anime.to/watch/cream-lemon-amis-journey.7vn6",
+        "image": "https://static.akacdn.ru/files/images/2019/03/2106507f66e0436b25a8b643b3f1bb8c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5640,
+        "aniId": 5640,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tabidachi-ami-shuushou": {
+        "createdAt": "2020-10-12T16:02:00.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20911,
+        "identifier": "tabidachi-ami-shuushou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tabidachi: Ami Shuushou",
+        "url": "https://gogoanime.vc/category/tabidachi-ami-shuushou",
+        "image": "https://gogocdn.net/cover/tabidachi-ami-shuushou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5640,
+        "aniId": 5640,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5640": {
+        "identifier": "5640",
+        "malId": 5640,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tabidachi: Ami Shuushou",
+        "url": "https://animixplay.to/anime/5640"
+      }
+    },
+    "YugenAnime": {
+      "5784": {
+        "identifier": "5784",
+        "malId": 5640,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tabidachi: Ami Shuushou",
+        "url": "https://yugen.to/anime/5784/tabidachi-ami-shuushou/"
+      }
+    }
+  }
+}

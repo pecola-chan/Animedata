@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-04-22T11:00:40.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36663,
+  "identifier": "bus-gamer",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Bus Gamer",
+  "url": "https://gogoanime.vc/category/bus-gamer",
+  "image": "https://gogocdn.net/images/anime/B/bus-gamer.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3389,
+  "aniId": 3389,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:37.000Z",
+    "updatedAt": "2022-05-14T23:12:41.000Z",
+    "checkedAt": "2022-05-14T23:12:41.000Z",
+    "id": 3389,
+    "type": "anime",
+    "title": "Bus Gamer",
+    "altTitle": [
+      "BusGamer",
+      "BUS GAMER"
+    ],
+    "url": "https://myanimelist.net/anime/3389/Bus_Gamer",
+    "image": "https://cdn.myanimelist.net/images/anime/10/75210.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fwinc.co.jp/busgamer/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5547"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8956"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bus_Gamer"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5547
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:23.000Z",
+    "updatedAt": "2022-05-15T17:08:47.000Z",
+    "checkedAt": "2022-05-15T17:08:47.000Z",
+    "id": 3389,
+    "type": "anime",
+    "title": "BUS GAMER",
+    "altTitle": [
+      "BUS GAMER",
+      "BusGamer"
+    ],
+    "url": "https://anilist.co/anime/3389",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3389.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3389,
+    "deletedAt": null
+  }
+}

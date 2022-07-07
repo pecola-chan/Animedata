@@ -1,0 +1,109 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T23:35:23.000Z",
+  "checkedAt": "2022-05-14T23:35:23.000Z",
+  "id": 25341,
+  "type": "anime",
+  "title": "Diamond no Ace OVA",
+  "altTitle": [
+    "Daiya no Ace OVA",
+    "Ace of Diamond OVA",
+    "Ace of the Diamond OVA",
+    "ダイヤのA[エース] OAD"
+  ],
+  "url": "https://myanimelist.net/anime/25341/Diamond_no_Ace_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/5/71263.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://diaace.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10739"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ace_of_Diamond"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10739,
+  "Pages": {
+    "9anime": {
+      "q63v": {
+        "createdAt": "2020-10-12T15:55:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8306,
+        "identifier": "q63v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Diamond no Ace OVA",
+        "url": "https://9anime.to/watch/diamond-no-ace-ova.q63v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3Y8pUbqq9n0/WGP6FqUp9FI/AAAAAAABVXQ/bC0qg92yH64/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25341,
+        "aniId": 20861,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "diamond-no-ace-ova": {
+        "createdAt": "2020-10-12T16:00:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17362,
+        "identifier": "diamond-no-ace-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Diamond no Ace OVA",
+        "url": "https://gogoanime.vc/category/diamond-no-ace-ova",
+        "image": "https://cdnimg.xyz/images/upload/69619.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25341,
+        "aniId": 20861,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3284": {
+        "identifier": "3284",
+        "malId": 25341,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Diamond no Ace OVA",
+        "url": "https://animepahe.com/a/3284"
+      }
+    },
+    "AniMixPlay": {
+      "25341": {
+        "identifier": "25341",
+        "malId": 25341,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Diamond no Ace OVA",
+        "url": "https://animixplay.to/anime/25341"
+      }
+    },
+    "YugenAnime": {
+      "5793": {
+        "identifier": "5793",
+        "malId": 25341,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Diamond no Ace OVA",
+        "url": "https://yugen.to/anime/5793/diamond-no-ace-ova/"
+      }
+    }
+  }
+}

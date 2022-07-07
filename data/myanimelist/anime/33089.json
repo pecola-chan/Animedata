@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T16:37:59.000Z",
+  "checkedAt": "2022-05-14T16:37:59.000Z",
+  "id": 33089,
+  "type": "anime",
+  "title": "Kemono Friends",
+  "altTitle": [
+    "けものフレンズ"
+  ],
+  "url": "https://myanimelist.net/anime/33089/Kemono_Friends",
+  "image": "https://cdn.myanimelist.net/images/anime/2/83518.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kemono-friends-20170110.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12057"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18799"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kemono_Friends"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272197"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12057,
+  "Pages": {
+    "9anime": {
+      "493j": {
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2201,
+        "identifier": "493j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kemono Friends",
+        "url": "https://9anime.to/watch/kemono-friends.493j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0-Vg_qBGhqk/WNHyeSNhqBI/AAAAAAABgJk/_Al5zok8Oks/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33089,
+        "aniId": 87496,
+        "deletedAt": null
+      },
+      "vw37": {
+        "createdAt": "2020-10-12T15:56:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9479,
+        "identifier": "vw37",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kemono Friends (Dub)",
+        "url": "https://9anime.to/watch/kemono-friends-dub.vw37",
+        "image": "https://static.akacdn.ru/files/images/2019/11/a49701a35e75b20b7e8868bf2596ce70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33089,
+        "aniId": 87496,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kemono-friends": {
+        "createdAt": "2020-10-12T16:00:57.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18772,
+        "identifier": "kemono-friends",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kemono Friends",
+        "url": "https://gogoanime.vc/category/kemono-friends",
+        "image": "https://cdnimg.xyz/cover/kemono-friends.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33089,
+        "aniId": 87496,
+        "deletedAt": null
+      },
+      "kemono-friends-dub": {
+        "createdAt": "2020-10-12T16:00:58.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18775,
+        "identifier": "kemono-friends-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kemono Friends (Dub)",
+        "url": "https://gogoanime.vc/category/kemono-friends-dub",
+        "image": "https://cdnimg.xyz/cover/kemono-friends-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33089,
+        "aniId": 87496,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1625": {
+        "identifier": "1625",
+        "malId": 33089,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kemono Friends",
+        "url": "https://animepahe.com/a/1625"
+      }
+    },
+    "AniMixPlay": {
+      "33089": {
+        "identifier": "33089",
+        "malId": 33089,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kemono Friends",
+        "url": "https://animixplay.to/anime/33089"
+      }
+    },
+    "YugenAnime": {
+      "1161": {
+        "identifier": "1161",
+        "malId": 33089,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kemono Friends",
+        "url": "https://yugen.to/anime/1161/kemono-friends/"
+      }
+    }
+  }
+}

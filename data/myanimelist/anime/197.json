@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T20:44:35.000Z",
+  "checkedAt": "2022-05-14T20:44:35.000Z",
+  "id": 197,
+  "type": "anime",
+  "title": "Rizelmine",
+  "altTitle": [
+    "りぜるまいん"
+  ],
+  "url": "https://myanimelist.net/anime/197/Rizelmine",
+  "image": "https://cdn.myanimelist.net/images/anime/7/22990.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ponycanyon.co.jp/pc-moe/rizeru/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=19"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=841"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rizelmine"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 19,
+  "Pages": {
+    "9anime": {
+      "0mm7": {
+        "createdAt": "2020-10-12T15:48:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 580,
+        "identifier": "0mm7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rizelmine",
+        "url": "https://9anime.to/watch/rizelmine.0mm7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vmDb1x07x0s/V7aXa0h-WhI/AAAAAAAA4M8/CePk6nGPQIQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 197,
+        "aniId": 197,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rizelmine": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20303,
+        "identifier": "rizelmine",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rizelmine",
+        "url": "https://gogoanime.vc/category/rizelmine",
+        "image": "https://gogocdn.net/cover/rizelmine.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 197,
+        "aniId": 197,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1679": {
+        "identifier": "1679",
+        "malId": 197,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rizelmine",
+        "url": "https://animepahe.com/a/1679"
+      }
+    },
+    "AniMixPlay": {
+      "197": {
+        "identifier": "197",
+        "malId": 197,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rizelmine",
+        "url": "https://animixplay.to/anime/197"
+      }
+    },
+    "YugenAnime": {
+      "1361": {
+        "identifier": "1361",
+        "malId": 197,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rizelmine",
+        "url": "https://yugen.to/anime/1361/rizelmine/"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "createdAt": "2020-10-20T09:07:03.000Z",
+  "updatedAt": "2022-05-14T18:37:54.000Z",
+  "checkedAt": "2022-05-14T18:37:54.000Z",
+  "id": 36789,
+  "type": "anime",
+  "title": "Golden Time (Movie)",
+  "altTitle": [
+    "Golden Time",
+    "ゴールデンタイム"
+  ],
+  "url": "https://myanimelist.net/anime/36789/Golden_Time_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/3/89350.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.robot.co.jp/special/goldentime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13758"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13758,
+  "Pages": {
+    "AniMixPlay": {
+      "36789": {
+        "identifier": "36789",
+        "malId": 36789,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Golden Time (Movie)",
+        "url": "https://animixplay.to/anime/36789"
+      }
+    }
+  }
+}

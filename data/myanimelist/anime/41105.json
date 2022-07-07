@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T10:02:39.000Z",
+  "checkedAt": "2022-05-14T10:02:39.000Z",
+  "id": 41105,
+  "type": "anime",
+  "title": "Chihayafuru 3: Ima Hitotabi no",
+  "altTitle": [
+    "Chihayafuru 3 Episode 15.5",
+    "Chihayafuru 3: Recap",
+    "ちはやふる 3 十五.五首（総集編）"
+  ],
+  "url": "https://myanimelist.net/anime/41105/Chihayafuru_3__Ima_Hitotabi_no",
+  "image": "https://cdn.myanimelist.net/images/anime/1014/105666.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ntv.co.jp/chihayafuru/story/15-5/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13841"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13841,
+  "Pages": {
+    "9anime": {
+      "0z2k": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-09-21T11:40:58.000Z",
+        "checkedAt": null,
+        "id": 749,
+        "identifier": "0z2k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chihayafuru 3: Ima Hitotabi no",
+        "url": "https://9anime.to/watch/chihayafuru-3-ima-hitotabi-no.0z2k",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/01/504039779819b37a1ecf915507035597.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41105,
+        "aniId": null,
+        "deletedAt": null
+      },
+      "yq1np": {
+        "createdAt": "2021-09-21T11:11:17.000Z",
+        "updatedAt": "2021-09-21T11:11:19.000Z",
+        "checkedAt": null,
+        "id": 38686,
+        "identifier": "yq1np",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chihayafuru 3: Ima Hitotabi no (Dub)",
+        "url": "https://9anime.to/watch/chihayafuru-3-ima-hitotabi-no-dub.yq1np",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c3/c3c2fda775f20e90ec7531701b86f3e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41105,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41105": {
+        "identifier": "41105",
+        "malId": 41105,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chihayafuru 3: Ima Hitotabi no",
+        "url": "https://animixplay.to/anime/41105"
+      }
+    }
+  }
+}

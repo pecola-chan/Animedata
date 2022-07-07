@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T10:06:26.000Z",
+  "checkedAt": "2022-05-14T10:06:26.000Z",
+  "id": 2933,
+  "type": "anime",
+  "title": "Mirai Keisatsu Urashiman",
+  "altTitle": [
+    "Future Police Urashiman",
+    "未来警察ウラシマン"
+  ],
+  "url": "https://myanimelist.net/anime/2933/Mirai_Keisatsu_Urashiman",
+  "image": "https://cdn.myanimelist.net/images/anime/1605/91989.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=591"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2620"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mirai_Keisatsu_Urashiman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 591,
+  "Pages": {
+    "9anime": {
+      "lkrq": {
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6038,
+        "identifier": "lkrq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mirai Keisatsu Urashiman",
+        "url": "https://9anime.to/watch/mirai-keisatsu-urashiman.lkrq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LwwCb-3Aut8/WKamubXKuGI/AAAAAAABdGE/GEfTI9buHcI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2933,
+        "aniId": 2933,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2933": {
+        "identifier": "2933",
+        "malId": 2933,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mirai Keisatsu Urashiman",
+        "url": "https://animixplay.to/anime/2933"
+      }
+    },
+    "YugenAnime": {
+      "4598": {
+        "identifier": "4598",
+        "malId": 2933,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mirai Keisatsu Urashiman",
+        "url": "https://yugen.to/anime/4598/mirai-keisatsu-urashiman/"
+      }
+    }
+  }
+}

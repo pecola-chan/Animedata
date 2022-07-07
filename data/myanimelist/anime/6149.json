@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T18:55:35.000Z",
+  "checkedAt": "2022-05-14T18:55:35.000Z",
+  "id": 6149,
+  "type": "anime",
+  "title": "Chibi Maruko-chan (1995)",
+  "altTitle": [
+    "Maruko-chan",
+    "Little Miss Maruko",
+    "ちびまる子ちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995",
+  "image": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/na/maruko/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1842"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=909"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chibi_Maruko-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1842,
+  "Pages": {
+    "9anime": {
+      "7jj5y": {
+        "createdAt": "2021-12-26T20:28:26.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
+        "checkedAt": null,
+        "id": 39578,
+        "identifier": "7jj5y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chibi Maruko-chan (1995) (Dub)",
+        "url": "https://9anime.to/watch/little-miss-maruko-dub.7jj5y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/40/4057f12bfa7f529f26e5c3616efd2295.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6149,
+        "aniId": 6149,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chibi-maruko-chan-1995-dub": {
+        "createdAt": "2021-12-31T18:56:02.000Z",
+        "updatedAt": "2021-12-31T19:23:29.000Z",
+        "checkedAt": null,
+        "id": 39644,
+        "identifier": "chibi-maruko-chan-1995-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chibi Maruko-chan (1995) (Dub)",
+        "url": "https://gogoanime.cm/category/chibi-maruko-chan-1995-dub",
+        "image": "https://gogocdn.net/cover/chibi-maruko-chan-1995-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6149,
+        "aniId": 6149,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6149": {
+        "identifier": "6149",
+        "malId": 6149,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chibi Maruko-chan (1995)",
+        "url": "https://animixplay.to/anime/6149"
+      }
+    },
+    "YugenAnime": {
+      "11504": {
+        "identifier": "11504",
+        "malId": 6149,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chibi Maruko-chan (1995)",
+        "url": "https://yugen.to/anime/11504/chibi-maruko-chan-1995/"
+      }
+    }
+  }
+}

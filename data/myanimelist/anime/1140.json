@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T18:18:35.000Z",
+  "checkedAt": "2022-05-14T18:18:35.000Z",
+  "id": 1140,
+  "type": "anime",
+  "title": "Giniro no Kami no Agito",
+  "altTitle": [
+    "Gin-iro no Kami no Agito",
+    "Silver-Haired Agito",
+    "Origin: Spirits of the Past",
+    "銀色の髪のアギト"
+  ],
+  "url": "https://myanimelist.net/anime/1140/Giniro_no_Kami_no_Agito",
+  "image": "https://cdn.myanimelist.net/images/anime/9/83824.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gin-iro.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3385"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5488"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Origin:_Spirits_of_the_Past"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275241"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/origin-spirits-of-the-past"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3385,
+  "Pages": {
+    "9anime": {
+      "7xny": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3630,
+        "identifier": "7xny",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Giniro no Kami no Agito (Dub)",
+        "url": "https://9anime.to/watch/giniro-no-kami-no-agito-dub.7xny",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AVpWwpeDhLA/V-tqFcL04gI/AAAAAAABBxs/WjSY2norkd8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1140,
+        "aniId": 1140,
+        "deletedAt": null
+      },
+      "8yo3": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4099,
+        "identifier": "8yo3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Giniro no Kami no Agito",
+        "url": "https://9anime.to/watch/giniro-no-kami-no-agito.8yo3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dm2iRA6zfA0/V-tqMtuZgxI/AAAAAAABBxw/tXGXa22Cdao/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1140,
+        "aniId": 1140,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "origin-spirits-of-the-past": {
+        "createdAt": "2020-10-12T16:01:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19932,
+        "identifier": "origin-spirits-of-the-past",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Origin: Spirits of the Past",
+        "url": "https://gogoanime.vc/category/origin-spirits-of-the-past",
+        "image": "https://cdnimg.xyz/images/anime/O/Origin-Spirits-of-the-Past.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1140,
+        "aniId": 1140,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1140": {
+        "identifier": "1140",
+        "malId": 1140,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Giniro no Kami no Agito",
+        "url": "https://animixplay.to/anime/1140"
+      }
+    },
+    "YugenAnime": {
+      "14189": {
+        "identifier": "14189",
+        "malId": 1140,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Giniro no Kami no Agito",
+        "url": "https://yugen.to/anime/14189/giniro-no-kami-no-agito/"
+      }
+    }
+  }
+}

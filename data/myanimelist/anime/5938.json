@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-15T07:20:15.000Z",
+  "checkedAt": "2022-05-15T07:20:15.000Z",
+  "id": 5938,
+  "type": "anime",
+  "title": "Onegai♪My Melody Kirara★",
+  "altTitle": [
+    "おねがい♪マイメロディ きららっ★"
+  ],
+  "url": "https://myanimelist.net/anime/5938/Onegai♪My_Melody_Kirara★",
+  "image": "https://cdn.myanimelist.net/images/anime/7/68501.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-osaka.co.jp/ip4/mymelo_kirara/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5852"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9600"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Onegai_My_Melody"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5852,
+  "Pages": {
+    "9anime": {
+      "po1j": {
+        "createdAt": "2020-10-12T15:54:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8032,
+        "identifier": "po1j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Onegai♪My Melody Kirara★",
+        "url": "https://9anime.to/watch/onegaimy-melody-kirara.po1j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ofic0E4kpAA/WLLp0RDumlI/AAAAAAABeIs/J-jc-T0XDdg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5938,
+        "aniId": 5938,
+        "deletedAt": null
+      }
+    }
+  }
+}

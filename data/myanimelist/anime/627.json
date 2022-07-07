@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T10:08:14.000Z",
+  "checkedAt": "2022-05-14T10:08:14.000Z",
+  "id": 627,
+  "type": "anime",
+  "title": "Major S1",
+  "altTitle": [
+    "メジャー （第1シリーズ）"
+  ],
+  "url": "https://myanimelist.net/anime/627/Major_S1",
+  "image": "https://cdn.myanimelist.net/images/anime/13/73973.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/major/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2168"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Major_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2168,
+  "Pages": {
+    "9anime": {
+      "nr5m": {
+        "createdAt": "2020-10-12T15:54:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7219,
+        "identifier": "nr5m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Major S1",
+        "url": "https://9anime.to/watch/major-s1.nr5m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ejZCEty2qtI/WDq5RuAtDsI/AAAAAAABQjw/UuP05oo0yng/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 627,
+        "aniId": 627,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "major": {
+        "createdAt": "2020-10-12T16:01:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19311,
+        "identifier": "major",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Major",
+        "url": "https://gogoanime.vc/category/major",
+        "image": "https://images.gogoanime.tv/images/anime/M/major.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 627,
+        "aniId": 627,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1933": {
+        "identifier": "1933",
+        "malId": 627,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Major S1",
+        "url": "https://animepahe.com/a/1933"
+      }
+    },
+    "AniMixPlay": {
+      "627": {
+        "identifier": "627",
+        "malId": 627,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Major S1",
+        "url": "https://animixplay.to/anime/627"
+      }
+    }
+  }
+}

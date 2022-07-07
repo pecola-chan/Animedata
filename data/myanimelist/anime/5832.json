@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T07:19:27.000Z",
+  "checkedAt": "2022-05-15T07:19:27.000Z",
+  "id": 5832,
+  "type": "anime",
+  "title": "Tiger Mask Nisei",
+  "altTitle": [
+    "Tiger Mask II",
+    "タイガーマスク二世"
+  ],
+  "url": "https://myanimelist.net/anime/5832/Tiger_Mask_Nisei",
+  "image": "https://cdn.myanimelist.net/images/anime/9/71349.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/tigermask_2/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=863"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1523"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tiger_Mask_II"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 863,
+  "Pages": {
+    "9anime": {
+      "x5nq": {
+        "createdAt": "2020-10-12T15:56:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10143,
+        "identifier": "x5nq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tiger Mask Nisei",
+        "url": "https://9anime.to/watch/tiger-mask-nisei.x5nq",
+        "image": "https://static.akacdn.ru/files/images/2018/04/883644d679a593999c58a65843f6a4a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5832,
+        "aniId": 5832,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tiger-mask-nisei": {
+        "createdAt": "2020-10-12T16:02:05.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21104,
+        "identifier": "tiger-mask-nisei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tiger Mask Nisei",
+        "url": "https://gogoanime.vc/category/tiger-mask-nisei",
+        "image": "https://cdnimg.xyz/cover/tiger-mask-nisei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5832,
+        "aniId": 5832,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5832": {
+        "identifier": "5832",
+        "malId": 5832,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tiger Mask Nisei",
+        "url": "https://animixplay.to/anime/5832"
+      }
+    },
+    "YugenAnime": {
+      "3330": {
+        "identifier": "3330",
+        "malId": 5832,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tiger Mask Nisei",
+        "url": "https://yugen.to/anime/3330/tiger-mask-nisei/"
+      }
+    }
+  }
+}

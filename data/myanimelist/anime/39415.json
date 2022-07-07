@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-15T01:04:17.000Z",
+  "checkedAt": "2022-05-15T01:04:17.000Z",
+  "id": 39415,
+  "type": "anime",
+  "title": "Donbei x Kemurikusa",
+  "altTitle": [
+    "Nissin",
+    "どん兵衛 × ケムリクサ"
+  ],
+  "url": "https://myanimelist.net/anime/39415/Donbei_x_Kemurikusa",
+  "image": "https://cdn.myanimelist.net/images/anime/1964/99499.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.donbei.jp/kemurikusa/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13795"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21280"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%A0%E3%83%AA%E3%82%AF%E3%82%B5"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13795,
+  "Pages": {
+    "9anime": {
+      "2nrl": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 1441,
+        "identifier": "2nrl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Donbei x Kemurikusa",
+        "url": "https://9anime.to/watch/donbei-x-kemurikusa.2nrl",
+        "image": "https://static.akacdn.ru/files/images/2019/04/99b320b350f9434a2a5b310efd3a803c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39415,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

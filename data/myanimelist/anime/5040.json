@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T19:31:05.000Z",
+  "checkedAt": "2022-05-14T19:31:05.000Z",
+  "id": 5040,
+  "type": "anime",
+  "title": "One Outs",
+  "altTitle": [
+    "ONE OUTS Nobody wins, but I!",
+    "One Outs",
+    "ワンナウツ"
+  ],
+  "url": "https://myanimelist.net/anime/5040/One_Outs",
+  "image": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/oneouts/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6139"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10199"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/One_Outs"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6139,
+  "Pages": {
+    "9anime": {
+      "59pv": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2022-06-13T23:01:33.000Z",
+        "checkedAt": "2022-06-13T23:01:33.000Z",
+        "id": 2613,
+        "identifier": "59pv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Outs",
+        "url": "https://9anime.to/watch/one-outs.59pv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/0b71ce551e312b524228e0608bea4a9e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5040,
+        "aniId": 5040,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-outs": {
+        "createdAt": "2020-10-12T16:01:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19846,
+        "identifier": "one-outs",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Outs",
+        "url": "https://gogoanime.vc/category/one-outs",
+        "image": "https://images.gogoanime.tv/images/anime/O/one-outs.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5040,
+        "aniId": 5040,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3939": {
+        "identifier": "3939",
+        "malId": 5040,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Outs",
+        "url": "https://animepahe.com/a/3939"
+      }
+    },
+    "AniMixPlay": {
+      "5040": {
+        "identifier": "5040",
+        "malId": 5040,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Outs",
+        "url": "https://animixplay.to/anime/5040"
+      }
+    },
+    "YugenAnime": {
+      "2709": {
+        "identifier": "2709",
+        "malId": 5040,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Outs",
+        "url": "https://yugen.to/anime/2709/one-outs/"
+      }
+    }
+  }
+}

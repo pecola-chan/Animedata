@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T07:03:02.000Z",
+  "checkedAt": "2022-05-14T07:03:02.000Z",
+  "id": 38731,
+  "type": "anime",
+  "title": "Diamond no Ace: Act II",
+  "altTitle": [
+    "Daiya no Ace: Act II",
+    "Ace of Diamond Act II",
+    "ダイヤのA[エース] actII"
+  ],
+  "url": "https://myanimelist.net/anime/38731/Diamond_no_Ace__Act_II",
+  "image": "https://cdn.myanimelist.net/images/anime/1153/100511.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.diaace.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14504"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21598"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ace_of_Diamond"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257143"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14504,
+  "Pages": {
+    "9anime": {
+      "4p5m": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2336,
+        "identifier": "4p5m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Diamond no Ace: Act II",
+        "url": "https://9anime.to/watch/diamond-no-ace-act-ii.4p5m",
+        "image": "https://static.akacdn.ru/static/images/2019/04/bac299220f49b19f3aa6d64bd1fefb06.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38731,
+        "aniId": 105749,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "diamond-no-ace-act-ii": {
+        "createdAt": "2020-10-12T16:00:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17361,
+        "identifier": "diamond-no-ace-act-ii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Diamond no Ace: Act II",
+        "url": "https://gogoanime.vc/category/diamond-no-ace-act-ii",
+        "image": "https://cdnimg.xyz/cover/diamond-no-ace-act-ii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38731,
+        "aniId": 105749,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3203": {
+        "identifier": "3203",
+        "malId": 38731,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Diamond no Ace: Act II",
+        "url": "https://animepahe.com/a/3203"
+      }
+    },
+    "AniMixPlay": {
+      "38731": {
+        "identifier": "38731",
+        "malId": 38731,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Diamond no Ace: Act II",
+        "url": "https://animixplay.to/anime/38731"
+      }
+    },
+    "YugenAnime": {
+      "5795": {
+        "identifier": "5795",
+        "malId": 38731,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Diamond no Ace: Act II",
+        "url": "https://yugen.to/anime/5795/diamond-no-ace-act-ii/"
+      }
+    }
+  }
+}

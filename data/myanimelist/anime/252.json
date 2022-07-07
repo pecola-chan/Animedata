@@ -1,0 +1,138 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T18:18:41.000Z",
+  "checkedAt": "2022-05-14T18:18:41.000Z",
+  "id": 252,
+  "type": "anime",
+  "title": "Madlax",
+  "altTitle": [
+    "マドラックス"
+  ],
+  "url": "https://myanimelist.net/anime/252/Madlax",
+  "image": "https://cdn.myanimelist.net/images/anime/12/57237.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/madlax/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1654"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3714"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Madlax"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1654,
+  "Pages": {
+    "9anime": {
+      "lx83": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6245,
+        "identifier": "lx83",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Madlax",
+        "url": "https://9anime.to/watch/madlax.lx83",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DraR3byZOlA/V7hBhdgjtGI/AAAAAAAA4go/nZ8G-aGghAY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 252,
+        "aniId": 252,
+        "deletedAt": null
+      },
+      "xxzq": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10432,
+        "identifier": "xxzq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Madlax (Dub)",
+        "url": "https://9anime.to/watch/madlax-dub.xxzq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7G-Ta3voh1U/V-O23SWnfVI/AAAAAAAA_lk/W3LfWeAzW7E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 252,
+        "aniId": 252,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "madlax": {
+        "createdAt": "2020-12-21T22:28:21.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30809,
+        "identifier": "madlax",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Madlax",
+        "url": "https://gogoanime.vc/category/madlax",
+        "image": "https://gogocdn.net/images/anime/M/madlax.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 252,
+        "aniId": 252,
+        "deletedAt": null
+      },
+      "madlax-dub": {
+        "createdAt": "2021-01-12T15:51:45.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33537,
+        "identifier": "madlax-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Madlax (Dub)",
+        "url": "https://gogoanime.vc/category/madlax-dub",
+        "image": "https://gogocdn.net/cover/madlax-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 252,
+        "aniId": 252,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "252": {
+        "identifier": "252",
+        "malId": 252,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Madlax",
+        "url": "https://animixplay.to/anime/252"
+      }
+    },
+    "YugenAnime": {
+      "82": {
+        "identifier": "82",
+        "malId": 252,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Madlax",
+        "url": "https://yugen.to/anime/82/madlax/"
+      }
+    }
+  }
+}

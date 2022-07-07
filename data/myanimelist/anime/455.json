@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T19:25:47.000Z",
+  "checkedAt": "2022-05-14T19:25:47.000Z",
+  "id": 455,
+  "type": "anime",
+  "title": "Fantastic Children",
+  "altTitle": [
+    "Fantastic Children",
+    "ファンタジックチルドレン"
+  ],
+  "url": "https://myanimelist.net/anime/455/Fantastic_Children",
+  "image": "https://cdn.myanimelist.net/images/anime/9/77062.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/f-children/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2387"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4241"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fantastic_Children"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2387,
+  "Pages": {
+    "9anime": {
+      "5x4v": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2827,
+        "identifier": "5x4v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fantastic Children (Dub)",
+        "url": "https://9anime.to/watch/fantastic-children-dub.5x4v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dWl3IipwlE8/V-pgZQXvwWI/AAAAAAABBik/H5UNg5gy1-0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 455,
+        "aniId": 455,
+        "deletedAt": null
+      },
+      "mjzv": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6566,
+        "identifier": "mjzv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fantastic Children",
+        "url": "https://9anime.to/watch/fantastic-children.mjzv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-J8IpJuSEQIM/V7hGvSny0EI/AAAAAAAA4g8/-9ySwduk_c8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 455,
+        "aniId": 455,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fantastic-children-dub": {
+        "createdAt": "2021-04-14T16:45:20.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36429,
+        "identifier": "fantastic-children-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fantastic Children (Dub)",
+        "url": "https://gogoanime.vc/category/fantastic-children-dub",
+        "image": "https://gogocdn.net/cover/fantastic-children-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 455,
+        "aniId": 455,
+        "deletedAt": null
+      },
+      "fantastic-children": {
+        "createdAt": "2021-04-14T16:46:30.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36459,
+        "identifier": "fantastic-children",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fantastic Children",
+        "url": "https://gogoanime.vc/category/fantastic-children",
+        "image": "https://gogocdn.net/cover/fantastic-children.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 455,
+        "aniId": 455,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "455": {
+        "identifier": "455",
+        "malId": 455,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fantastic Children",
+        "url": "https://animixplay.to/anime/455"
+      }
+    },
+    "YugenAnime": {
+      "7516": {
+        "identifier": "7516",
+        "malId": 455,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fantastic Children",
+        "url": "https://yugen.to/anime/7516/fantastic-children/"
+      }
+    }
+  }
+}

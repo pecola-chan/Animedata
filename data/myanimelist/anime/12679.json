@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-14T15:51:26.000Z",
+  "checkedAt": "2022-05-14T15:51:26.000Z",
+  "id": 12679,
+  "type": "anime",
+  "title": "Joshiraku",
+  "altTitle": [
+    "Rakugo Girls",
+    "Joshiraku",
+    "じょしらく"
+  ],
+  "url": "https://myanimelist.net/anime/12679/Joshiraku",
+  "image": "https://cdn.myanimelist.net/images/anime/8/48925.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/joshiraku/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8899"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14207"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Joshiraku"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/joshiraku"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8899,
+  "Pages": {
+    "9anime": {
+      "3w8": {
+        "createdAt": "2020-10-12T15:49:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1959,
+        "identifier": "3w8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Joshiraku",
+        "url": "https://9anime.to/watch/joshiraku.3w8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1CWl_U2xWG4/V4jFdFjaS1I/AAAAAAAAvok/c3WPjApuI_U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12679,
+        "aniId": 12679,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "joshiraku": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2022-06-14T01:01:17.000Z",
+        "checkedAt": "2022-06-14T01:01:17.000Z",
+        "id": 18602,
+        "identifier": "joshiraku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Joshiraku",
+        "url": "https://gogoanime.sk/category/joshiraku",
+        "image": "https://gogocdn.net/cover/joshiraku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12679,
+        "aniId": 12679,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "354": {
+        "identifier": "354",
+        "malId": 12679,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Joshiraku",
+        "url": "https://animepahe.com/a/354"
+      }
+    },
+    "AniMixPlay": {
+      "12679": {
+        "identifier": "12679",
+        "malId": 12679,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Joshiraku",
+        "url": "https://animixplay.to/anime/12679"
+      }
+    },
+    "YugenAnime": {
+      "280": {
+        "identifier": "280",
+        "malId": 12679,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Joshiraku",
+        "url": "https://yugen.to/anime/280/joshiraku/"
+      }
+    }
+  }
+}

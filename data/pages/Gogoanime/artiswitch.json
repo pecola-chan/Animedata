@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-05-28T14:23:50.000Z",
+  "updatedAt": "2021-06-19T12:20:49.000Z",
+  "checkedAt": null,
+  "id": 37131,
+  "identifier": "artiswitch",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Artiswitch",
+  "url": "https://gogoanime.vc/category/artiswitch",
+  "image": "https://gogocdn.net/cover/artiswitch.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": 49066,
+  "aniId": 134120,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-05-29T07:15:07.000Z",
+    "updatedAt": "2022-05-14T18:50:29.000Z",
+    "checkedAt": "2022-05-14T18:50:29.000Z",
+    "id": 49066,
+    "type": "anime",
+    "title": "Artiswitch",
+    "altTitle": [
+      "Artiswitch（アーティスウィッチ）"
+    ],
+    "url": "https://myanimelist.net/anime/49066/Artiswitch",
+    "image": "https://cdn.myanimelist.net/images/anime/1805/115216.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://artiswitch.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16318"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24373"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16318
+  },
+  "Ani": {
+    "createdAt": "2021-05-28T11:23:46.000Z",
+    "updatedAt": "2022-05-15T15:07:59.000Z",
+    "checkedAt": "2022-05-15T15:07:59.000Z",
+    "id": 134120,
+    "type": "anime",
+    "title": "Artiswitch",
+    "altTitle": [
+      "Artiswitch",
+      "Artiswitch",
+      "アーティスウィッチ"
+    ],
+    "url": "https://anilist.co/anime/134120",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134120-KvcC6jMnAWSb.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49066,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2022-05-13T23:34:31.000Z",
+  "checkedAt": "2022-05-13T23:34:31.000Z",
+  "id": 42423,
+  "type": "anime",
+  "title": "Date A Bullet: Nightmare or Queen",
+  "altTitle": [
+    "デート・ア・バレット ナイトメア・オア・クイーン"
+  ],
+  "url": "https://myanimelist.net/anime/42423/Date_A_Bullet__Nightmare_or_Queen",
+  "image": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://date-a-bullet.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15100"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23706"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Date_A_Live_Fragment:_Date_A_Bullet#Anime_film"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15100,
+  "Pages": {
+    "9anime": {
+      "r2xo": {
+        "createdAt": "2020-10-12T15:55:25.000Z",
+        "updatedAt": "2022-06-13T21:30:21.000Z",
+        "checkedAt": "2022-06-13T21:30:21.000Z",
+        "id": 8737,
+        "identifier": "r2xo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Date A Bullet: Nightmare or Queen",
+        "url": "https://9anime.to/watch/date-a-bullet-nightmare-or-queen.r2xo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/ce/cebead6be94efdae466c7ea87a9d4d1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42423,
+        "aniId": 121034,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "date-a-bullet-nightmare-or-queen": {
+        "createdAt": "2020-12-24T05:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31046,
+        "identifier": "date-a-bullet-nightmare-or-queen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Date A Bullet: Nightmare or Queen",
+        "url": "https://gogoanime.vc/category/date-a-bullet-nightmare-or-queen",
+        "image": "https://gogocdn.net/cover/date-a-bullet-nightmare-or-queen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42423,
+        "aniId": 121034,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4260": {
+        "identifier": "4260",
+        "malId": 42423,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Date A Bullet: Nightmare or Queen",
+        "url": "https://animepahe.com/a/4260"
+      }
+    },
+    "AniMixPlay": {
+      "42423": {
+        "identifier": "42423",
+        "malId": 42423,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Date A Bullet: Nightmare or Queen",
+        "url": "https://animixplay.to/anime/42423"
+      }
+    },
+    "YugenAnime": {
+      "6813": {
+        "identifier": "6813",
+        "malId": 42423,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Date A Bullet: Nightmare or Queen",
+        "url": "https://yugen.to/anime/6813/date-a-bullet-nightmare-or-queen/"
+      }
+    }
+  }
+}

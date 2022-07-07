@@ -1,0 +1,198 @@
+{
+  "createdAt": "2021-11-03T21:05:49.000Z",
+  "updatedAt": "2022-05-13T23:34:56.000Z",
+  "checkedAt": "2022-05-13T23:34:56.000Z",
+  "id": 45560,
+  "type": "anime",
+  "title": "Orient",
+  "altTitle": [
+    "Orient",
+    "オリエント"
+  ],
+  "url": "https://myanimelist.net/anime/45560/Orient",
+  "image": "https://cdn.myanimelist.net/images/anime/1576/119361.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://orient-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15969"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24572"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Orient_(manga)#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282171"
+    },
+    {
+      "site": "ani-oneasia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "animaxasia",
+      "url": "https://www.animax-asia.com/"
+    },
+    {
+      "site": "animaxkorea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "catchplay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "flixer",
+      "url": "https://www.flixerapp.com/"
+    },
+    {
+      "site": "laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "mewatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "sushiroll",
+      "url": "https://sushiroll.co.id/"
+    },
+    {
+      "site": "iqiyi",
+      "url": "https://www.iq.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15969,
+  "Pages": {
+    "Gogoanime": {
+      "orient": {
+        "createdAt": "2022-01-05T15:48:02.000Z",
+        "updatedAt": "2022-01-05T16:17:51.000Z",
+        "checkedAt": null,
+        "id": 39701,
+        "identifier": "orient",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Orient",
+        "url": "https://gogoanime.cm/category/orient",
+        "image": "https://gogocdn.net/cover/orient.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45560,
+        "aniId": 128034,
+        "deletedAt": null
+      },
+      "orient-dub": {
+        "createdAt": "2022-02-24T11:49:31.000Z",
+        "updatedAt": "2022-02-24T12:17:39.000Z",
+        "checkedAt": null,
+        "id": 40283,
+        "identifier": "orient-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Orient (Dub)",
+        "url": "https://gogoanime.fi/category/orient-dub",
+        "image": "https://gogocdn.net/cover/orient-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45560,
+        "aniId": 128034,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "wllk": {
+        "createdAt": "2022-01-05T16:17:52.000Z",
+        "updatedAt": "2022-01-05T16:47:51.000Z",
+        "checkedAt": null,
+        "id": 39703,
+        "identifier": "wllk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ORIENT",
+        "url": "https://9anime.to/watch/orient.wllk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/96/96d0b40bf6794a807f10420ee1b43e24.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45560,
+        "aniId": 128034,
+        "deletedAt": null
+      },
+      "4qjxk": {
+        "createdAt": "2022-02-24T01:48:42.000Z",
+        "updatedAt": "2022-02-24T02:17:39.000Z",
+        "checkedAt": null,
+        "id": 40278,
+        "identifier": "4qjxk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ORIENT (Dub)",
+        "url": "https://9anime.to/watch/orient-dub.4qjxk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/7b/7bea66ac7bcf94dd7b13b5988b032c1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45560,
+        "aniId": 128034,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4669": {
+        "identifier": "4669",
+        "malId": 45560,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Orient",
+        "url": "https://animepahe.com/a/4669"
+      }
+    },
+    "AniMixPlay": {
+      "45560": {
+        "identifier": "45560",
+        "malId": 45560,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Orient",
+        "url": "https://animixplay.to/anime/45560"
+      }
+    },
+    "YugenAnime": {
+      "11527": {
+        "identifier": "11527",
+        "malId": 45560,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Orient",
+        "url": "https://yugen.to/anime/11527/orient/"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T22:54:29.000Z",
+  "checkedAt": "2022-05-14T22:54:29.000Z",
+  "id": 9244,
+  "type": "anime",
+  "title": "Nine: Kanketsu-hen",
+  "altTitle": [
+    "Nine 3: Final",
+    "ナイン 完結編"
+  ],
+  "url": "https://myanimelist.net/anime/9244/Nine__Kanketsu-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/5/25617.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3149"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9121"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nine_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3149,
+  "Pages": {
+    "9anime": {
+      "loj3": {
+        "createdAt": "2020-10-12T15:53:10.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6136,
+        "identifier": "loj3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nine: Kanketsu-hen",
+        "url": "https://9anime.to/watch/nine-kanketsu-hen.loj3",
+        "image": "https://static.akacdn.ru/files/images/2019/02/f582e1c21f9e08ae900108f91dc05f39.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9244,
+        "aniId": 9244,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nine-kanketsu-hen": {
+        "createdAt": "2021-02-18T16:13:13.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34897,
+        "identifier": "nine-kanketsu-hen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nine: Kanketsu-hen",
+        "url": "https://gogoanime.vc/category/nine-kanketsu-hen",
+        "image": "https://gogocdn.net/cover/nine-kanketsu-hen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9244,
+        "aniId": 9244,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9244": {
+        "identifier": "9244",
+        "malId": 9244,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nine: Kanketsu-hen",
+        "url": "https://animixplay.to/anime/9244"
+      }
+    },
+    "YugenAnime": {
+      "7224": {
+        "identifier": "7224",
+        "malId": 9244,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nine: Kanketsu-hen",
+        "url": "https://yugen.to/anime/7224/nine-kanketsu-hen/"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-16T14:24:40.000Z",
+  "checkedAt": "2022-05-16T14:24:40.000Z",
+  "id": 1501,
+  "type": "anime",
+  "title": "Kaleido Star: Good da yo! Goood!!",
+  "altTitle": [
+    "Kaleido Star: It's Good! Goood!!",
+    "ぐっどだよ！ぐぅ～っど！！"
+  ],
+  "url": "https://myanimelist.net/anime/1501/Kaleido_Star__Good_da_yo_Goood",
+  "image": "https://cdn.myanimelist.net/images/anime/8/23765.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kaleidostar.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3120"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5659"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3120,
+  "Pages": {
+    "9anime": {
+      "599q": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2607,
+        "identifier": "599q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaleido Star: Good da yo! Goood!!",
+        "url": "https://9anime.to/watch/kaleido-star-good-da-yo-goood.599q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lGc-y41wv7c/V6s-9fzVcPI/AAAAAAAA1_k/abKDiNjUCy4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1501,
+        "aniId": 1501,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4614": {
+        "identifier": "4614",
+        "malId": 1501,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kaleido Star: Good da yo! Goood!!",
+        "url": "https://animepahe.com/a/4614"
+      }
+    },
+    "AniMixPlay": {
+      "1501": {
+        "identifier": "1501",
+        "malId": 1501,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaleido Star: Good da yo! Goood!!",
+        "url": "https://animixplay.to/anime/1501"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-14T10:14:52.000Z",
+  "checkedAt": "2022-05-14T10:14:52.000Z",
+  "id": 10379,
+  "type": "anime",
+  "title": "Natsume Yuujinchou San",
+  "altTitle": [
+    "Natsume Yuujinchou Three",
+    "Natsume Yuujinchou 3",
+    "Natsume Yujincho 3",
+    "Natsume's Book of Friends Season 3",
+    "夏目友人帳 参"
+  ],
+  "url": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San",
+  "image": "https://cdn.myanimelist.net/images/anime/8/82394.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.natsume-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8286"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12542"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Natsume's_Book_of_Friends"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8286,
+  "Pages": {
+    "9anime": {
+      "4km": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2242,
+        "identifier": "4km",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Natsume Yuujinchou San",
+        "url": "https://9anime.to/watch/natsume-yuujinchou-san.4km",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-d_Ut_I1hRZE/V4eDqbIQSRI/AAAAAAAAvc4/O7zMszWdGnM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10379,
+        "aniId": 10379,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "natsume-yuujinchou-san": {
+        "createdAt": "2020-10-12T16:01:23.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19680,
+        "identifier": "natsume-yuujinchou-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Natsume Yuujinchou San",
+        "url": "https://gogoanime.vc/category/natsume-yuujinchou-san",
+        "image": "https://cdnimg.xyz/images/anime/N/natsume-yuujinchou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10379,
+        "aniId": 10379,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "656": {
+        "identifier": "656",
+        "malId": 10379,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Natsume Yuujinchou San",
+        "url": "https://animepahe.com/a/656"
+      }
+    },
+    "AniMixPlay": {
+      "10379": {
+        "identifier": "10379",
+        "malId": 10379,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Natsume Yuujinchou San",
+        "url": "https://animixplay.to/anime/10379"
+      }
+    },
+    "YugenAnime": {
+      "5345": {
+        "identifier": "5345",
+        "malId": 10379,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Natsume Yuujinchou San",
+        "url": "https://yugen.to/anime/5345/natsume-yuujinchou-san/"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-31T21:12:24.000Z",
+  "checkedAt": "2022-05-31T21:12:24.000Z",
+  "id": 5246,
+  "type": "anime",
+  "title": "Adesugata Mahou no Sannin Musume",
+  "altTitle": [
+    "Mami, Emi, Pelsia: Adesugata Mahou no Sannin Musume",
+    "Charming Figures of the Magical Girl Trio",
+    "Adesugata Mahou no Mami Persia Emi",
+    "艶姿魔法の三人娘 [マミ·ペルシャ·エミ]"
+  ],
+  "url": "https://myanimelist.net/anime/5246/Adesugata_Mahou_no_Sannin_Musume",
+  "image": "https://cdn.myanimelist.net/images/anime/1477/104687.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.geocities.jp/ppppfun/pielot/pielot01.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3633"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4742"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3633,
+  "Pages": {
+    "9anime": {
+      "89ny": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3854,
+        "identifier": "89ny",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Adesugata Mahou no Sannin Musume",
+        "url": "https://9anime.to/watch/adesugata-mahou-no-sannin-musume.89ny",
+        "image": "https://static.akacdn.ru/files/images/2018/03/270431aa42cf122644920b1df03df92a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5246,
+        "aniId": 5246,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5246": {
+        "identifier": "5246",
+        "malId": 5246,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Adesugata Mahou no Sannin Musume",
+        "url": "https://animixplay.to/anime/5246"
+      }
+    }
+  }
+}

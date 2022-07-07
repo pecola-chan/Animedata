@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:59:55.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16688,
+  "identifier": "bakuen-campus-guardress",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Bakuen Campus Guardress",
+  "url": "https://gogoanime.vc/category/bakuen-campus-guardress",
+  "image": "https://cdnimg.xyz/cover/bakuen-campus-guardress.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2023,
+  "aniId": 2023,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:24.000Z",
+    "updatedAt": "2022-05-15T14:11:19.000Z",
+    "checkedAt": "2022-05-15T14:11:19.000Z",
+    "id": 2023,
+    "type": "anime",
+    "title": "Bakuen Campus Guardress",
+    "altTitle": [
+      "Combustible Campus Guardress",
+      "Bursting Campus Guardless",
+      "爆炎CAMPUSガードレス"
+    ],
+    "url": "https://myanimelist.net/anime/2023/Bakuen_Campus_Guardress",
+    "image": "https://cdn.myanimelist.net/images/anime/1087/93010.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.productionig.com/contents/works/04_/000095.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1690"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=926"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Combustible_Campus_Guardress"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1690
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-15T18:06:11.000Z",
+    "checkedAt": "2022-05-15T18:06:11.000Z",
+    "id": 2023,
+    "type": "anime",
+    "title": "Bakuen Campus Guardress",
+    "altTitle": [
+      "爆炎CAMPUSガードレス",
+      "Combustible Campus Guardress"
+    ],
+    "url": "https://anilist.co/anime/2023",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2023-65Rttd77MF0k.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2023,
+    "deletedAt": null
+  }
+}

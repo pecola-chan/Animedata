@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-06-29T13:51:31.000Z",
+  "checkedAt": "2022-06-29T13:51:31.000Z",
+  "id": 29701,
+  "type": "anime",
+  "title": "Ni-hiki no Sanma (1968)",
+  "altTitle": [
+    "Two Pikes (1968)",
+    "Two Fishes (1968)",
+    "Deux poissons grillés",
+    "Two Grilled Fish",
+    "二匹のサンマ"
+  ],
+  "url": "https://myanimelist.net/anime/29701/Ni-hiki_no_Sanma_1968",
+  "image": "https://cdn.myanimelist.net/images/anime/3/71445.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11088"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11088,
+  "Pages": {
+    "9anime": {
+      "x0z8": {
+        "createdAt": "2020-10-12T15:56:22.000Z",
+        "updatedAt": "2022-01-03T06:53:32.000Z",
+        "checkedAt": null,
+        "id": 10044,
+        "identifier": "x0z8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ni-hiki no Sanma",
+        "url": "https://9anime.to/watch/ni-hiki-no-sanma.x0z8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-L_kE5h2VHsI/WLQHoTD4c6I/AAAAAAABePA/LtP8lAANL0M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29701,
+        "aniId": 143304,
+        "deletedAt": null
+      }
+    }
+  }
+}

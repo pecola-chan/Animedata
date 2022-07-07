@@ -1,0 +1,75 @@
+{
+  "createdAt": "2022-01-18T01:04:26.000Z",
+  "updatedAt": "2022-01-18T01:34:03.000Z",
+  "checkedAt": null,
+  "id": 39868,
+  "identifier": "fategrand-order-himuro-no-tenchi-7-nin-no-saikyou-ijin-hen",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
+  "url": "https://gogoanime.cm/category/fategrand-order-himuro-no-tenchi-7-nin-no-saikyou-ijin-hen",
+  "image": "https://gogocdn.net/cover/fategrand-order-himuro-no-tenchi-7-nin-no-saikyou-ijin-hen.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36914,
+  "aniId": 100729,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:58.000Z",
+    "updatedAt": "2022-05-14T16:29:35.000Z",
+    "checkedAt": "2022-05-14T16:29:35.000Z",
+    "id": 36914,
+    "type": "anime",
+    "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
+    "altTitle": [
+      "Fate/Grand Order x Himuro's World: Seven Most Powerful Great Figures Chapter",
+      "Fate/Grand Order氷室の天地～7人の最強の偉人編～"
+    ],
+    "url": "https://myanimelist.net/anime/36914/Fate_Grand_Order__Himuro_no_Tenchi_-_7-nin_no_Saikyou_Ijin-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1421/105975.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.fate-go.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13644"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20497"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Fate/Grand_Order"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13644
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:32.000Z",
+    "updatedAt": "2022-05-15T17:18:59.000Z",
+    "checkedAt": "2022-05-15T17:18:59.000Z",
+    "id": 100729,
+    "type": "anime",
+    "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Gijin-hen",
+    "altTitle": [
+      "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Gijin-hen",
+      "Fate/Grand Order氷室の天地～7人の最強偉人篇～"
+    ],
+    "url": "https://anilist.co/anime/100729",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100729-1TmNAHJ9468j.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36914,
+    "deletedAt": null
+  }
+}

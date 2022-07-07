@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T20:28:18.000Z",
+  "checkedAt": "2022-05-14T20:28:18.000Z",
+  "id": 39605,
+  "type": "anime",
+  "title": "Hataraku Saibou Specials",
+  "altTitle": [
+    "Hataraku Petit Quiz",
+    "Macrophage no Oheya",
+    "Killer T Saibou no Kunren",
+    "Shireikan no Yuuutsu",
+    "Hataraku Oshigoto",
+    "Cells at Work! Specials",
+    "はたらく細胞"
+  ],
+  "url": "https://myanimelist.net/anime/39605/Hataraku_Saibou_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1481/100090.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://hataraku-saibou.com/bddvd/?no=3"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13743"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20564"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cells_at_Work!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13743,
+  "Pages": {
+    "9anime": {
+      "omm4": {
+        "createdAt": "2020-10-12T15:54:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7544,
+        "identifier": "omm4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hataraku Saibou Specials",
+        "url": "https://9anime.to/watch/hataraku-saibou-specials.omm4",
+        "image": "https://static.akacdn.ru/files/images/2019/12/facb6fa2b044c34b8417056a7e8cbd90.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39605,
+        "aniId": 109085,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hataraku-saibou-specials": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18196,
+        "identifier": "hataraku-saibou-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Saibou Specials",
+        "url": "https://gogoanime.vc/category/hataraku-saibou-specials",
+        "image": "https://cdnimg.xyz/cover/hataraku-saibou-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39605,
+        "aniId": 109085,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39605": {
+        "identifier": "39605",
+        "malId": 39605,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hataraku Saibou Specials",
+        "url": "https://animixplay.to/anime/39605"
+      }
+    },
+    "YugenAnime": {
+      "6365": {
+        "identifier": "6365",
+        "malId": 39605,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hataraku Saibou Specials",
+        "url": "https://yugen.to/anime/6365/hataraku-saibou-specials/"
+      }
+    }
+  }
+}

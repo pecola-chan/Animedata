@@ -1,0 +1,63 @@
+{
+  "createdAt": "2021-05-22T15:13:21.000Z",
+  "updatedAt": "2021-05-22T15:42:57.000Z",
+  "checkedAt": null,
+  "id": 37086,
+  "identifier": "amnesia-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Amnesia OVA",
+  "url": "https://gogoanime.vc/category/amnesia-ova",
+  "image": "https://gogocdn.net/images/anime/amnesia.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 20655,
+  "aniId": 20734,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:22.000Z",
+    "updatedAt": "2022-05-14T21:33:18.000Z",
+    "checkedAt": "2022-05-14T21:33:18.000Z",
+    "id": 20655,
+    "type": "anime",
+    "title": "Amnesia OVA",
+    "altTitle": [
+      "AMNESIA"
+    ],
+    "url": "https://myanimelist.net/anime/20655/Amnesia_OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/9/54853.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-amnesia.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9358"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9358
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:37.000Z",
+    "updatedAt": "2022-05-15T21:59:23.000Z",
+    "checkedAt": "2022-05-15T21:59:23.000Z",
+    "id": 20734,
+    "type": "anime",
+    "title": "AMNESIA OVA",
+    "altTitle": [],
+    "url": "https://anilist.co/anime/20734",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20734-iwEdamPsODfG.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 20655,
+    "deletedAt": null
+  }
+}

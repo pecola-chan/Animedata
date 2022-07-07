@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-15T04:17:28.000Z",
+  "checkedAt": "2022-05-15T04:17:28.000Z",
+  "id": 37369,
+  "type": "anime",
+  "title": "Neko Neko Nihonshi 3rd Season",
+  "altTitle": [
+    "Meow Meow Japanese History",
+    "ねこねこ日本史 第3期"
+  ],
+  "url": "https://myanimelist.net/anime/37369/Neko_Neko_Nihonshi_3rd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1689/90730.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://neco-neco.jp/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13837"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E6%97%A5%E6%9C%AC%E5%8F%B2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13837,
+  "Pages": {
+    "Gogoanime": {
+      "neko-neko-nihonshi-3rd-season": {
+        "createdAt": "2020-10-12T16:01:24.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19697,
+        "identifier": "neko-neko-nihonshi-3rd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Neko Neko Nihonshi 3rd Season",
+        "url": "https://gogoanime.vc/category/neko-neko-nihonshi-3rd-season",
+        "image": "https://cdnimg.xyz/cover/neko-neko-nihonshi-3rd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37369,
+        "aniId": 101523,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37369": {
+        "identifier": "37369",
+        "malId": 37369,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neko Neko Nihonshi 3rd Season",
+        "url": "https://animixplay.to/anime/37369"
+      }
+    },
+    "YugenAnime": {
+      "4642": {
+        "identifier": "4642",
+        "malId": 37369,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Neko Neko Nihonshi 3rd Season",
+        "url": "https://yugen.to/anime/4642/neko-neko-nihonshi-3rd-season/"
+      }
+    }
+  }
+}

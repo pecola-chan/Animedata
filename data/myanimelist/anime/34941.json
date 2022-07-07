@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T17:01:59.000Z",
+  "checkedAt": "2022-05-14T17:01:59.000Z",
+  "id": 34941,
+  "type": "anime",
+  "title": "Queen's Blade: Unlimited",
+  "altTitle": [
+    "クイーンズブレイドUNLIMITED"
+  ],
+  "url": "https://myanimelist.net/anime/34941/Queens_Blade__Unlimited",
+  "image": "https://cdn.myanimelist.net/images/anime/1470/90266.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://queensblade.net/unlimited/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12836"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12836,
+  "Pages": {
+    "9anime": {
+      "x96v": {
+        "createdAt": "2020-10-12T15:56:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10219,
+        "identifier": "x96v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Queen's Blade: Unlimited",
+        "url": "https://9anime.to/watch/queens-blade-unlimited.x96v",
+        "image": "https://static.akacdn.ru/static/images/2018/01/6317200ce775334f139fb34673ec24ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34941,
+        "aniId": 98319,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "queens-blade-unlimited": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20215,
+        "identifier": "queens-blade-unlimited",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Queen's Blade: Unlimited",
+        "url": "https://gogoanime.vc/category/queens-blade-unlimited",
+        "image": "https://cdnimg.xyz/cover/queens-blade-unlimited.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34941,
+        "aniId": 98319,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3426": {
+        "identifier": "3426",
+        "malId": 34941,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Queen's Blade: Unlimited",
+        "url": "https://animepahe.com/a/3426"
+      }
+    },
+    "AniMixPlay": {
+      "34941": {
+        "identifier": "34941",
+        "malId": 34941,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Queen's Blade: Unlimited",
+        "url": "https://animixplay.to/anime/34941"
+      }
+    },
+    "YugenAnime": {
+      "2745": {
+        "identifier": "2745",
+        "malId": 34941,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Queen's Blade: Unlimited",
+        "url": "https://yugen.to/anime/2745/queens-blade-unlimited/"
+      }
+    }
+  }
+}

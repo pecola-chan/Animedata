@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:59.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18834,
+  "identifier": "kimi-no-matsu-basho-e",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kimi no Matsu Basho e",
+  "url": "https://gogoanime.vc/category/kimi-no-matsu-basho-e",
+  "image": "https://cdnimg.xyz/cover/kimi-no-matsu-basho-e.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38678,
+  "aniId": 106570,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:06.000Z",
+    "updatedAt": "2022-05-22T16:06:44.000Z",
+    "checkedAt": "2022-05-22T16:06:44.000Z",
+    "id": 38678,
+    "type": "anime",
+    "title": "Kimi no Matsu Mirai (Basho) e",
+    "altTitle": [
+      "Kimi no Matsu Mirai e",
+      "Kimi no Matsu Basho e",
+      "きみの待つ未来（ばしょ）へ"
+    ],
+    "url": "https://myanimelist.net/anime/38678/Kimi_no_Matsu_Mirai_Basho_e",
+    "image": "https://cdn.myanimelist.net/images/anime/1376/101010.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.youtube.com/watch?v=7-dSS4Cq_yA"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14456"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14456
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:52.000Z",
+    "updatedAt": "2022-05-22T16:06:42.000Z",
+    "checkedAt": "2022-05-22T16:06:42.000Z",
+    "id": 106570,
+    "type": "anime",
+    "title": "Kimi no Matsu Basho e",
+    "altTitle": [
+      "きみの待つ未来 (ばしょ) へ",
+      "To the Place Where You Wait",
+      "Kimi no Matsu Mirai (Basho) e",
+      "Kimi no Matsu Mirai e"
+    ],
+    "url": "https://anilist.co/anime/106570",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b106570-ynxEgGNwDEa0.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38678,
+    "deletedAt": null
+  }
+}

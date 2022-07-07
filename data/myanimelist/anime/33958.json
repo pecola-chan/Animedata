@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T22:49:41.000Z",
+  "checkedAt": "2022-05-14T22:49:41.000Z",
+  "id": 33958,
+  "type": "anime",
+  "title": "Robber's Company",
+  "altTitle": [
+    "Robber's Company",
+    "ROBBER'S COMPANY"
+  ],
+  "url": "https://myanimelist.net/anime/33958/Robbers_Company",
+  "image": "https://cdn.myanimelist.net/images/anime/6/81689.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ugoki.jp/robbers/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12352"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12352,
+  "Pages": {
+    "9anime": {
+      "x49z": {
+        "createdAt": "2020-10-12T15:56:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10117,
+        "identifier": "x49z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Robber's Company",
+        "url": "https://9anime.to/watch/robbers-company.x49z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GTVJZ2DK8vA/WZXSN-rpEwI/AAAAAAAACKM/-9nOqYerIi0cBpAbTKnoqf4KjKqPju_jACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33958,
+        "aniId": 102380,
+        "deletedAt": null
+      }
+    }
+  }
+}

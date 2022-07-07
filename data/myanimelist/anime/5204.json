@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-13T23:20:08.000Z",
+  "checkedAt": "2022-05-13T23:20:08.000Z",
+  "id": 5204,
+  "type": "anime",
+  "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon",
+  "altTitle": [
+    "Kara no Kyoukai: The Garden of Sinners Movie 6",
+    "Borderline of Emptiness: Oblivion Recording",
+    "The Garden of Sinners: Fairy Tale",
+    "the Garden of sinners Chapter 6: Oblivion Recording",
+    "劇場版 空の境界 the Garden of sinners 第六章『忘却録音』"
+  ],
+  "url": "https://myanimelist.net/anime/5204/Kara_no_Kyoukai_Movie_6__Boukyaku_Rokuon",
+  "image": "https://cdn.myanimelist.net/images/anime/2/21739.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.karanokyoukai.com/archive/chapter6.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4932"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7472"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kara_no_Ky%C5%8Dkai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4932,
+  "Pages": {
+    "9anime": {
+      "xj9w": {
+        "createdAt": "2020-10-12T15:56:28.000Z",
+        "updatedAt": "2022-06-13T21:30:36.000Z",
+        "checkedAt": "2022-06-13T21:30:36.000Z",
+        "id": 10241,
+        "identifier": "xj9w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kara no Kyoukai: Boukyaku Rokuon",
+        "url": "https://9anime.to/watch/the-garden-of-sinners-chapter-6-fairy-tale-oblivion-recording.xj9w",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/f27e19e2947a77b6b509d260c5815781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5204,
+        "aniId": 5204,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "761": {
+        "identifier": "761",
+        "malId": 5204,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon",
+        "url": "https://animepahe.com/a/761"
+      }
+    },
+    "AniMixPlay": {
+      "5204": {
+        "identifier": "5204",
+        "malId": 5204,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon",
+        "url": "https://animixplay.to/anime/5204"
+      }
+    }
+  }
+}

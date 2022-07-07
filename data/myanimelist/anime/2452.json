@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T07:04:34.000Z",
+  "checkedAt": "2022-05-14T07:04:34.000Z",
+  "id": 2452,
+  "type": "anime",
+  "title": "Space Adventure Cobra",
+  "altTitle": [
+    "Cobra Gekijouban",
+    "Cobra Space Adventure",
+    "Space Adventure Cobra: The Movie",
+    "SPACE ADVENTURE コブラ"
+  ],
+  "url": "https://myanimelist.net/anime/2452/Space_Adventure_Cobra",
+  "image": "https://cdn.myanimelist.net/images/anime/13/42525.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/movie/data/m_cobra.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1384"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2272"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Adventure_Cobra"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1384,
+  "Pages": {
+    "9anime": {
+      "2n8q": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1431,
+        "identifier": "2n8q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gee Dor Dor's Space Adventure (Dub)",
+        "url": "https://9anime.to/watch/gee-dor-dors-space-adventure-dub.2n8q",
+        "image": "https://static.akacdn.ru/files/images/2018/12/b26e1a49d19f29ff196150b2500dbe9d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2452,
+        "aniId": 2452,
+        "deletedAt": null
+      },
+      "zw83": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11311,
+        "identifier": "zw83",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Space Adventure Cobra (Dub)",
+        "url": "https://9anime.to/watch/space-adventure-cobra-dub.zw83",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Lh6BssAX1D0/V84XPIny81I/AAAAAAAA7tc/9zwZ8TkpI-0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2452,
+        "aniId": 2452,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2452": {
+        "identifier": "2452",
+        "malId": 2452,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Space Adventure Cobra",
+        "url": "https://animixplay.to/anime/2452"
+      }
+    },
+    "YugenAnime": {
+      "1217": {
+        "identifier": "1217",
+        "malId": 2452,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Space Adventure Cobra",
+        "url": "https://yugen.to/anime/1217/space-adventure-cobra/"
+      }
+    }
+  }
+}

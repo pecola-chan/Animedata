@@ -1,0 +1,58 @@
+{
+  "createdAt": "2021-03-02T21:20:55.000Z",
+  "updatedAt": "2022-05-14T21:15:17.000Z",
+  "checkedAt": "2022-05-14T21:15:17.000Z",
+  "id": 39223,
+  "type": "anime",
+  "title": "Fei Ren Xueyuan",
+  "altTitle": [
+    "Non-Human Academy",
+    "非人学院"
+  ],
+  "url": "https://myanimelist.net/anime/39223/Fei_Ren_Xueyuan",
+  "image": "https://cdn.myanimelist.net/images/anime/1083/98946.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://qwq.163.com/fab/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "vvn2l": {
+        "createdAt": "2021-07-11T17:45:34.000Z",
+        "updatedAt": "2021-07-11T17:45:53.000Z",
+        "checkedAt": null,
+        "id": 37801,
+        "identifier": "vvn2l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fei Ren Xueyuan",
+        "url": "https://9anime.to/watch/non-human-academy.vvn2l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/69/69ffac2c8c8dec7500ced4ddb6dd7c0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39223,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "7372": {
+        "identifier": "7372",
+        "malId": 39223,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fei Ren Xueyuan",
+        "url": "https://yugen.to/anime/7372/chao-shen-xueyuan/"
+      }
+    }
+  }
+}

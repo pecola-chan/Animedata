@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T10:01:57.000Z",
+  "checkedAt": "2022-05-14T10:01:57.000Z",
+  "id": 590,
+  "type": "anime",
+  "title": "Kage kara Mamoru!",
+  "altTitle": [
+    "Protect from the Shadows!",
+    "Guardian Ninja Mamoru",
+    "陰からマモル！"
+  ],
+  "url": "https://myanimelist.net/anime/590/Kage_kara_Mamoru",
+  "image": "https://cdn.myanimelist.net/images/anime/8/20040.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aniplex.co.jp/kagemamo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4112"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6114"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kage_Kara_Mamoru%21"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4112,
+  "Pages": {
+    "9anime": {
+      "p654": {
+        "createdAt": "2020-10-12T15:54:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7878,
+        "identifier": "p654",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kage kara Mamoru!",
+        "url": "https://9anime.to/watch/guardian-ninja-mamoru.p654",
+        "image": "//static.9anime.to/i/cache/images/2018/04/4dd26f85686de24f88e254ed80b62581.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 590,
+        "aniId": 590,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kage-kara-mamoru": {
+        "createdAt": "2020-10-22T09:09:24.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27728,
+        "identifier": "kage-kara-mamoru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kage kara Mamoru!",
+        "url": "https://gogoanime.vc/category/kage-kara-mamoru",
+        "image": "https://gogocdn.net/cover/kage-kara-mamoru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 590,
+        "aniId": 590,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "590": {
+        "identifier": "590",
+        "malId": 590,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kage kara Mamoru!",
+        "url": "https://animixplay.to/anime/590"
+      }
+    },
+    "YugenAnime": {
+      "6774": {
+        "identifier": "6774",
+        "malId": 590,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kage kara Mamoru!",
+        "url": "https://yugen.to/anime/6774/kage-kara-mamoru/"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-14T10:11:04.000Z",
+  "checkedAt": "2022-05-14T10:11:04.000Z",
+  "id": 2905,
+  "type": "anime",
+  "title": "Ikkitousen: Dragon Destiny Specials",
+  "altTitle": [
+    "Ikkitousen Dragon Destiny OVA",
+    "一騎当千 Dragon Destiny"
+  ],
+  "url": "https://myanimelist.net/anime/2905/Ikkitousen__Dragon_Destiny_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/13/89207.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://en.wikipedia.org/wiki/Ikkitousen"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4870"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4870,
+  "Pages": {
+    "9anime": {
+      "0y37": {
+        "createdAt": "2020-10-12T15:48:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 729,
+        "identifier": "0y37",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "url": "https://9anime.to/watch/ikkitousen-dragon-destiny-specials.0y37",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NMrfObsKToU/WC8fS6dyEGI/AAAAAAABPg4/KNKNb58OaKs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2905,
+        "aniId": 2905,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ikkitousen-dragon-destiny-special": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18443,
+        "identifier": "ikkitousen-dragon-destiny-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "IkkiTousen: Dragon Destiny Special",
+        "url": "https://gogoanime.vc/category/ikkitousen-dragon-destiny-special",
+        "image": "https://images.gogoanime.tv/images/64099354515664.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2905,
+        "aniId": 2905,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3314": {
+        "identifier": "3314",
+        "malId": 2905,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "url": "https://animepahe.com/a/3314"
+      }
+    },
+    "AniMixPlay": {
+      "2905": {
+        "identifier": "2905",
+        "malId": 2905,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "url": "https://animixplay.to/anime/2905"
+      }
+    },
+    "YugenAnime": {
+      "6309": {
+        "identifier": "6309",
+        "malId": 2905,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "url": "https://yugen.to/anime/6309/ikkitousen-dragon-destiny-special/"
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T18:03:17.000Z",
+  "checkedAt": "2022-05-14T18:03:17.000Z",
+  "id": 10079,
+  "type": "anime",
+  "title": "Hoshizora e Kakaru Hashi",
+  "altTitle": [
+    "Hoshizora e Kakaru Hashi",
+    "A Bridge to the Starry Skies",
+    "星空へ架かる橋"
+  ],
+  "url": "https://myanimelist.net/anime/10079/Hoshizora_e_Kakaru_Hashi",
+  "image": "https://cdn.myanimelist.net/images/anime/3/73521.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/hoshikaka/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8166"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12339"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/星空へ架かる橋"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8166,
+  "Pages": {
+    "9anime": {
+      "ojv8": {
+        "createdAt": "2020-10-12T15:54:11.000Z",
+        "updatedAt": "2022-03-03T21:40:59.000Z",
+        "checkedAt": null,
+        "id": 7491,
+        "identifier": "ojv8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hoshizora e Kakaru Hashi",
+        "url": "https://9anime.to/watch/a-bridge-to-the-starry-skies.ojv8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/cdeb74980715b5baa76c86f8b31eb7f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10079,
+        "aniId": 10079,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hoshizora-e-kakaru-hashi": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18371,
+        "identifier": "hoshizora-e-kakaru-hashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hoshizora e Kakaru Hashi",
+        "url": "https://gogoanime.vc/category/hoshizora-e-kakaru-hashi",
+        "image": "https://images.gogoanime.tv/images/anime/H/hoshizora-e-kakaru-hashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10079,
+        "aniId": 10079,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "509": {
+        "identifier": "509",
+        "malId": 10079,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hoshizora e Kakaru Hashi",
+        "url": "https://animepahe.com/a/509"
+      }
+    },
+    "AniMixPlay": {
+      "10079": {
+        "identifier": "10079",
+        "malId": 10079,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hoshizora e Kakaru Hashi",
+        "url": "https://animixplay.to/anime/10079"
+      }
+    },
+    "YugenAnime": {
+      "4381": {
+        "identifier": "4381",
+        "malId": 10079,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hoshizora e Kakaru Hashi",
+        "url": "https://yugen.to/anime/4381/hoshizora-e-kakaru-hashi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2021-01-25T09:43:00.000Z",
+  "updatedAt": "2022-05-14T21:36:05.000Z",
+  "checkedAt": "2022-05-14T21:36:05.000Z",
+  "id": 40117,
+  "type": "anime",
+  "title": "Yichang Shengwu Jianwenlu Specials",
+  "altTitle": [
+    "異常生物見聞録"
+  ],
+  "url": "https://myanimelist.net/anime/40117/Yichang_Shengwu_Jianwenlu_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1148/102063.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md4313642/?from=search&seid=18091416871883186640"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "rpyp": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-01-25T10:11:20.000Z",
+        "checkedAt": null,
+        "id": 8971,
+        "identifier": "rpyp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yichang Shengwu Jianwenlu Specials",
+        "url": "https://9anime.to/watch/yichang-shengwu-jianwenlu-specials.rpyp",
+        "image": "//static.bunnycdn.ru/i/cache/images/2019/07/aeebc6b2a68292fbda86e9d9180d4234.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 40117,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40117": {
+        "identifier": "40117",
+        "malId": 40117,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yichang Shengwu Jianwenlu Specials",
+        "url": "https://animixplay.to/anime/40117"
+      }
+    },
+    "YugenAnime": {
+      "9638": {
+        "identifier": "9638",
+        "malId": 40117,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yichang Shengwu Jianwenlu Specials",
+        "url": "https://yugen.to/anime/9638/yichang-shengwu-jianwenlu-specials/"
+      }
+    }
+  }
+}

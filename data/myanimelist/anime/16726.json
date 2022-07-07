@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-14T09:36:41.000Z",
+  "checkedAt": "2022-05-14T09:36:41.000Z",
+  "id": 16726,
+  "type": "anime",
+  "title": "gdgd Fairies 2",
+  "altTitle": [
+    "Gudaguda Fairies 2",
+    "Rambling Fairies 2",
+    "gdgd妖精s 2期"
+  ],
+  "url": "https://myanimelist.net/anime/16726/gdgd_Fairies_2",
+  "image": "https://cdn.myanimelist.net/images/anime/10/45350.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gdgdfairy.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9473"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14973"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Gdgd%E5%A6%96%E7%B2%BEs"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-239574"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9473,
+  "Pages": {
+    "9anime": {
+      "kxr6": {
+        "createdAt": "2020-10-12T15:52:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5680,
+        "identifier": "kxr6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "gdgd Fairies 2",
+        "url": "https://9anime.to/watch/gdgd-fairies-2.kxr6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GI5V3ne9rqY/V7_Q0suL5fI/AAAAAAAA5jc/g2V32UD3GjM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16726,
+        "aniId": 16726,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gdgd-fairies-2": {
+        "createdAt": "2021-08-07T02:20:53.000Z",
+        "updatedAt": "2021-08-07T02:47:35.000Z",
+        "checkedAt": null,
+        "id": 38162,
+        "identifier": "gdgd-fairies-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "gdgd Fairies 2",
+        "url": "https://gogoanime.pe/category/gdgd-fairies-2",
+        "image": "https://gogocdn.net/images/anime/G/gdgd_fairies_2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16726,
+        "aniId": 16726,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16726": {
+        "identifier": "16726",
+        "malId": 16726,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "gdgd Fairies 2",
+        "url": "https://animixplay.to/anime/16726"
+      }
+    },
+    "YugenAnime": {
+      "1059": {
+        "identifier": "1059",
+        "malId": 16726,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "gdgd Fairies 2",
+        "url": "https://yugen.to/anime/1059/gdgd-fairies-2/"
+      }
+    }
+  }
+}

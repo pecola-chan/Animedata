@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-12-12T23:48:03.000Z",
+  "updatedAt": "2022-05-14T09:03:33.000Z",
+  "checkedAt": "2022-05-14T09:03:33.000Z",
+  "id": 44586,
+  "type": "anime",
+  "title": "Kakushigoto Movie",
+  "altTitle": [
+    "Hidden Things Movie",
+    "劇場編集版 かくしごと"
+  ],
+  "url": "https://myanimelist.net/anime/44586/Kakushigoto_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1115/114953.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kakushigoto-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15922"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24236"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kakushigoto:_My_Dad%27s_Secret_Ambition#Film"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15922,
+  "Pages": {
+    "Gogoanime": {
+      "kakushigoto-movie": {
+        "createdAt": "2021-08-06T18:51:49.000Z",
+        "updatedAt": "2021-08-06T19:17:35.000Z",
+        "checkedAt": null,
+        "id": 38149,
+        "identifier": "kakushigoto-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakushigoto Movie",
+        "url": "https://gogoanime.pe/category/kakushigoto-movie",
+        "image": "https://gogocdn.net/cover/kakushigoto-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44586,
+        "aniId": 127227,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "m0wx": {
+        "createdAt": "2021-08-06T18:51:55.000Z",
+        "updatedAt": "2021-08-06T19:17:35.000Z",
+        "checkedAt": null,
+        "id": 38150,
+        "identifier": "m0wx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kakushigoto Movie",
+        "url": "https://9anime.to/watch/kakushigoto-movie.m0wx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/07/0726adfb0197b5c0f731268e242ebd4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44586,
+        "aniId": 127227,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4485": {
+        "identifier": "4485",
+        "malId": 44586,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kakushigoto Movie",
+        "url": "https://animepahe.com/a/4485"
+      }
+    },
+    "AniMixPlay": {
+      "44586": {
+        "identifier": "44586",
+        "malId": 44586,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kakushigoto Movie",
+        "url": "https://animixplay.to/anime/44586"
+      }
+    },
+    "YugenAnime": {
+      "9582": {
+        "identifier": "9582",
+        "malId": 44586,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kakushigoto Movie",
+        "url": "https://yugen.to/anime/9582/kakushigoto-movie/"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-14T17:53:35.000Z",
+  "checkedAt": "2022-05-14T17:53:35.000Z",
+  "id": 912,
+  "type": "anime",
+  "title": "Ninkuu",
+  "altTitle": [
+    "Ninku",
+    "忍空"
+  ],
+  "url": "https://myanimelist.net/anime/912/Ninkuu",
+  "image": "https://cdn.myanimelist.net/images/anime/1983/92770.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/ninku/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=712"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2603"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 712,
+  "Pages": {
+    "9anime": {
+      "1o2v": {
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1049,
+        "identifier": "1o2v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninku",
+        "url": "https://9anime.to/watch/ninku.1o2v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Zx4IWT9YTEk/V9fUsc0LnlI/AAAAAAAA90k/AzHj5Z7tI7c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 912,
+        "aniId": 912,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ninku": {
+        "createdAt": "2020-10-12T16:01:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19748,
+        "identifier": "ninku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ninku",
+        "url": "https://gogoanime.vc/category/ninku",
+        "image": "https://cdnimg.xyz/images/anime/N/ninku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 912,
+        "aniId": 912,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "912": {
+        "identifier": "912",
+        "malId": 912,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ninkuu",
+        "url": "https://animixplay.to/anime/912"
+      }
+    },
+    "YugenAnime": {
+      "2152": {
+        "identifier": "2152",
+        "malId": 912,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ninkuu",
+        "url": "https://yugen.to/anime/2152/ninku/"
+      }
+    }
+  }
+}

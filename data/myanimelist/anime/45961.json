@@ -1,0 +1,101 @@
+{
+  "createdAt": "2021-07-04T21:31:24.000Z",
+  "updatedAt": "2022-05-14T20:44:53.000Z",
+  "checkedAt": "2022-05-14T20:44:53.000Z",
+  "id": 45961,
+  "type": "anime",
+  "title": "Assault Lily: Fruits",
+  "altTitle": [
+    "Assault Lily Mini Anime",
+    "アサルトリリィ ふるーつ"
+  ],
+  "url": "https://myanimelist.net/anime/45961/Assault_Lily__Fruits",
+  "image": "https://cdn.myanimelist.net/images/anime/1444/116888.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.assaultlily-pj.com/fruits/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15982"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24165"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Assault_Lily"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15982,
+  "Pages": {
+    "9anime": {
+      "n3n0j": {
+        "createdAt": "2021-07-27T17:51:52.000Z",
+        "updatedAt": "2021-09-06T10:16:18.000Z",
+        "checkedAt": null,
+        "id": 38045,
+        "identifier": "n3n0j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Assault Lily: Fruits",
+        "url": "https://9anime.to/watch/assault-lily-fruits.n3n0j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5a/5a2cc0afb3cb771b55dbcd2427837713.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45961,
+        "aniId": 128703,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "assault-lily-fruits": {
+        "createdAt": "2021-09-25T17:45:39.000Z",
+        "updatedAt": "2021-09-25T18:15:23.000Z",
+        "checkedAt": null,
+        "id": 38735,
+        "identifier": "assault-lily-fruits",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Assault Lily: Fruits",
+        "url": "https://gogoanime.pe/category/assault-lily-fruits",
+        "image": "https://gogocdn.net/cover/assault-lily-fruits.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45961,
+        "aniId": 128703,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "45961": {
+        "identifier": "45961",
+        "malId": 45961,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Assault Lily: Fruits",
+        "url": "https://animixplay.to/anime/45961"
+      }
+    },
+    "YugenAnime": {
+      "9804": {
+        "identifier": "9804",
+        "malId": 45961,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Assault Lily: Fruits",
+        "url": "https://yugen.to/anime/9804/assault-lily-fruits/"
+      }
+    }
+  }
+}

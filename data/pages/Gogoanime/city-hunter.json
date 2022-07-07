@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T16:00:08.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17128,
+  "identifier": "city-hunter",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "City Hunter",
+  "url": "https://gogoanime.vc/category/city-hunter",
+  "image": "https://cdnimg.xyz/images/anime/C/city-hunter.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1470,
+  "aniId": 1470,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:17.000Z",
+    "updatedAt": "2022-05-14T16:35:10.000Z",
+    "checkedAt": "2022-05-14T16:35:10.000Z",
+    "id": 1470,
+    "type": "anime",
+    "title": "City Hunter",
+    "altTitle": [
+      "シティーハンター"
+    ],
+    "url": "https://myanimelist.net/anime/1470/City_Hunter",
+    "image": "https://cdn.myanimelist.net/images/anime/8/20587.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/datacard/card0049.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=942"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=384"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/City_Hunter"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-278982"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 942
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:07.000Z",
+    "updatedAt": "2022-05-15T11:21:11.000Z",
+    "checkedAt": "2022-05-15T11:21:11.000Z",
+    "id": 1470,
+    "type": "anime",
+    "title": "City Hunter",
+    "altTitle": [
+      "シティーハンター",
+      "Nicky Larson",
+      "City Hunter-Ein Fall für Ryo Saeba"
+    ],
+    "url": "https://anilist.co/anime/1470",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1470-YiMz9AsTW7Bj.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G6P5M4156/City-Hunter"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/city-hunter"
+      }
+    ],
+    "malId": 1470,
+    "deletedAt": null
+  }
+}

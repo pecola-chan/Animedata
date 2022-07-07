@@ -1,0 +1,141 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-15T00:22:11.000Z",
+  "checkedAt": "2022-05-15T00:22:11.000Z",
+  "id": 2789,
+  "type": "anime",
+  "title": "B-Legend! Battle B-Daman",
+  "altTitle": [
+    "Bedaman",
+    "Battle B'Daman",
+    "Battle B-Daman",
+    "B-伝説(ビーレジェンド)! バトルビーダマン"
+  ],
+  "url": "https://myanimelist.net/anime/2789/B-Legend_Battle_B-Daman",
+  "image": "https://cdn.myanimelist.net/images/anime/13/21634.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/bedaman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1372"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3464"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bedaman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1372,
+  "Pages": {
+    "9anime": {
+      "rw0n": {
+        "createdAt": "2020-10-12T15:55:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9037,
+        "identifier": "rw0n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B-Densetsu! Battle Bedaman",
+        "url": "https://9anime.to/watch/b-densetsu-battle-bedaman.rw0n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UFJf1Jx7wQk/V673KBRt6GI/AAAAAAAA2wg/f9F1D_4VO84/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2789,
+        "aniId": 2789,
+        "deletedAt": null
+      },
+      "71n8": {
+        "createdAt": "2020-12-09T14:02:51.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29838,
+        "identifier": "71n8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B-Legend! Battle B-Daman (Dub)",
+        "url": "https://9anime.to/watch/battle-b-daman-dub.71n8",
+        "image": "//static.9anime.to/i/cache/images/2018/04/030850175580026f3e7fcf3799d74c36.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2789,
+        "aniId": 2789,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "b-legend-battle-badaman": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16655,
+        "identifier": "b-legend-battle-badaman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "B-Legend! Battle Badaman",
+        "url": "https://gogoanime.vc/category/b-legend-battle-badaman",
+        "image": "https://gogocdn.net/images/anime/B/b-legend-battle-bedaman1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2789,
+        "aniId": 2789,
+        "deletedAt": null
+      },
+      "battle-b-daman-dub": {
+        "createdAt": "2022-02-21T13:53:34.000Z",
+        "updatedAt": "2022-02-21T14:17:39.000Z",
+        "checkedAt": null,
+        "id": 40181,
+        "identifier": "battle-b-daman-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Battle B-Daman (Dub)",
+        "url": "https://gogoanime.fi/category/battle-b-daman-dub",
+        "image": "https://gogocdn.net/cover/battle-b-daman-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2789,
+        "aniId": 2789,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2789": {
+        "identifier": "2789",
+        "malId": 2789,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "B-Legend! Battle B-Daman",
+        "url": "https://animixplay.to/anime/2789"
+      }
+    },
+    "YugenAnime": {
+      "4129": {
+        "identifier": "4129",
+        "malId": 2789,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "B-Legend! Battle B-Daman",
+        "url": "https://yugen.to/anime/4129/b-legend-battle-badaman/"
+      }
+    }
+  }
+}

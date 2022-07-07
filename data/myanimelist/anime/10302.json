@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T22:43:47.000Z",
+  "checkedAt": "2022-05-14T22:43:47.000Z",
+  "id": 10302,
+  "type": "anime",
+  "title": "Pocket Monsters: Diamond & Pearl Specials",
+  "altTitle": [
+    "Pocket Monsters: Diamond & Pearl Tokubetsu-hen",
+    "Pokemon Diamond & Pearl Specials",
+    "Pokemon: Battle Dimension",
+    "Pokémon Diamond & Pearl: Battle Dimension",
+    "Pokémon Diamond, Pearl & Platinum",
+    "Pokémon: Diamond and Pearl Platinum",
+    "ポケットモンスター ダイヤモンド・パール 特別編"
+  ],
+  "url": "https://myanimelist.net/anime/10302/Pocket_Monsters__Diamond___Pearl_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/11/28340.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/pokemon_dp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4728"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pokémon:_Diamond_and_Pearl_(anime)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4728,
+  "Pages": {
+    "9anime": {
+      "w3vk": {
+        "createdAt": "2020-10-12T15:56:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9647,
+        "identifier": "w3vk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon Diamond & Pearl Specials",
+        "url": "https://9anime.to/watch/pokemon-diamond-pearl-specials.w3vk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PDq4bbaRneQ/WP6lC_c-RcI/AAAAAAAAkAc/23GD-AlF2Cw6XlXP-pkCYj4QCoZ0uTBVwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10302,
+        "aniId": 10302,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10302": {
+        "identifier": "10302",
+        "malId": 10302,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pocket Monsters: Diamond &amp; Pearl Specials",
+        "url": "https://animixplay.to/anime/10302"
+      }
+    }
+  }
+}

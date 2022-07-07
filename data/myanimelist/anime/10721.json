@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-14T16:21:33.000Z",
+  "checkedAt": "2022-05-14T16:21:33.000Z",
+  "id": 10721,
+  "type": "anime",
+  "title": "Mawaru Penguindrum",
+  "altTitle": [
+    "Penguindrum",
+    "輪るピングドラム"
+  ],
+  "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum",
+  "image": "https://cdn.myanimelist.net/images/anime/5/30238.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://penguindrum.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8421"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12998"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penguindrum"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/penguindrum"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8421,
+  "Pages": {
+    "9anime": {
+      "2xy2": {
+        "createdAt": "2020-10-12T15:49:39.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1579,
+        "identifier": "2xy2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mawaru Penguindrum (Dub)",
+        "url": "https://9anime.to/watch/mawaru-penguindrum-dub.2xy2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KQB0MKcNQNA/V-bPPfcLYYI/AAAAAAABAog/G5hbgjdTkBA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10721,
+        "aniId": 10721,
+        "deletedAt": null
+      },
+      "5kx0": {
+        "createdAt": "2020-10-12T15:50:27.000Z",
+        "updatedAt": "2022-06-14T05:31:21.000Z",
+        "checkedAt": "2022-06-14T05:31:21.000Z",
+        "id": 2657,
+        "identifier": "5kx0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mawaru Penguindrum",
+        "url": "https://9anime.to/watch/penguindrum.5kx0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/029b68439cb29e2b3401b44cb3cca77c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10721,
+        "aniId": 10721,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mawaru-penguindrum": {
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19378,
+        "identifier": "mawaru-penguindrum",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mawaru Penguindrum",
+        "url": "https://gogoanime.vc/category/mawaru-penguindrum",
+        "image": "https://cdnimg.xyz/images/anime/M/mawaru-penguindrum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10721,
+        "aniId": 10721,
+        "deletedAt": null
+      },
+      "mawaru-penguindrum-dub": {
+        "createdAt": "2020-10-30T11:43:59.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28229,
+        "identifier": "mawaru-penguindrum-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mawaru Penguindrum (Dub)",
+        "url": "https://gogoanime.vc/category/mawaru-penguindrum-dub",
+        "image": "https://gogocdn.net/cover/mawaru-penguindrum-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10721,
+        "aniId": 10721,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "468": {
+        "identifier": "468",
+        "malId": 10721,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mawaru Penguindrum",
+        "url": "https://animepahe.com/a/468"
+      }
+    },
+    "AniMixPlay": {
+      "10721": {
+        "identifier": "10721",
+        "malId": 10721,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mawaru Penguindrum",
+        "url": "https://animixplay.to/anime/10721"
+      }
+    },
+    "YugenAnime": {
+      "528": {
+        "identifier": "528",
+        "malId": 10721,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mawaru Penguindrum",
+        "url": "https://yugen.to/anime/528/mawaru-penguindrum/"
+      }
+    }
+  }
+}

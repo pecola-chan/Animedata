@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-15T00:14:29.000Z",
+  "checkedAt": "2022-05-15T00:14:29.000Z",
+  "id": 2330,
+  "type": "anime",
+  "title": "Jibaku-kun",
+  "altTitle": [
+    "Jibaku-kun: Twelve World Story",
+    "Bucky: Searching for world 0",
+    "Bucky",
+    "Bucky: The Incredible Kid",
+    "ジバクくん"
+  ],
+  "url": "https://myanimelist.net/anime/2330/Jibaku-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/6/15166.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.enokifilmsusa.com/library/bucky.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2993"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=115"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jibaku-kun"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2993,
+  "Pages": {
+    "9anime": {
+      "o5vz": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7399,
+        "identifier": "o5vz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bucky: The Incredible Kid",
+        "url": "https://9anime.to/watch/bucky-the-incredible-kid.o5vz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7q1CLjlnXDw/WOI4sZaeJoI/AAAAAAAAfP0/Bvs5334kmGc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2330,
+        "aniId": 2330,
+        "deletedAt": null
+      }
+    }
+  }
+}

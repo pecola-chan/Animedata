@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T09:58:07.000Z",
+  "checkedAt": "2022-05-14T09:58:07.000Z",
+  "id": 35843,
+  "type": "anime",
+  "title": "Gintama.: Porori-hen",
+  "altTitle": [
+    "Gintama.: Slip Arc",
+    "銀魂。ポロリ編"
+  ],
+  "url": "https://myanimelist.net/anime/35843/Gintama__Porori-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/11/88325.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/gintama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13263"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20160"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gin_Tama"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-47620"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13263,
+  "Pages": {
+    "9anime": {
+      "op74": {
+        "createdAt": "2020-10-12T15:54:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7605,
+        "identifier": "op74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama.: Porori-hen",
+        "url": "https://9anime.to/watch/gintama-porori-hen.op74",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-f7x9dS-1q4Q/WZGz0Mlol8I/AAAAAAAAB3M/qM-AJszjvQ46nou6vl3KwZEWl2kHXJNcQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35843,
+        "aniId": 99714,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gintama-ova": {
+        "createdAt": "2020-10-12T16:00:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17908,
+        "identifier": "gintama-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gintama OVA",
+        "url": "https://gogoanime.vc/category/gintama-ova",
+        "image": "https://cdnimg.xyz/images/upload/Gintama OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35843,
+        "aniId": 99714,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2260": {
+        "identifier": "2260",
+        "malId": 35843,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama.: Porori-hen",
+        "url": "https://animepahe.com/a/2260"
+      }
+    },
+    "AniMixPlay": {
+      "35843": {
+        "identifier": "35843",
+        "malId": 35843,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama.: Porori-hen",
+        "url": "https://animixplay.to/anime/35843"
+      }
+    }
+  }
+}

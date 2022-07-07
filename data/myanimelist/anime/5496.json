@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-16T08:51:13.000Z",
+  "checkedAt": "2022-05-16T08:51:13.000Z",
+  "id": 5496,
+  "type": "anime",
+  "title": "Feng Yun Jue",
+  "altTitle": [
+    "Wind and Cloud Duel",
+    "Storm Rider: Clash of the Evils",
+    "風雲決"
+  ],
+  "url": "https://myanimelist.net/anime/5496/Feng_Yun_Jue",
+  "image": "https://cdn.myanimelist.net/images/anime/4/11472.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.stormrider-clash.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6278"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Storm_Rider_Clash_of_the_Evils"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6278,
+  "Pages": {
+    "9anime": {
+      "57jq": {
+        "createdAt": "2020-10-12T15:50:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2567,
+        "identifier": "57jq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Feng Yun Jue",
+        "url": "https://9anime.to/watch/feng-yun-jue.57jq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i-3uF6UwdMY/WL1lRgGDEMI/AAAAAAABeys/RkJ5IGsdlg8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5496,
+        "aniId": 5496,
+        "deletedAt": null
+      },
+      "2o9r4": {
+        "createdAt": "2022-06-01T20:30:07.605Z",
+        "updatedAt": "2022-06-01T21:20:00.000Z",
+        "checkedAt": "2022-06-01T20:30:07.000Z",
+        "id": 41118,
+        "identifier": "2o9r4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Storm Rider: Clash of the Evils (Dub)",
+        "url": "https://9anime.to/watch/storm-rider-clash-of-the-evils-dub.2o9r4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/43/4360ec728242e9061035a0dcfd8bd1af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5496,
+        "aniId": 5496,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "storm-rider-clash-of-evil": {
+        "createdAt": "2021-06-05T21:19:57.000Z",
+        "updatedAt": "2021-06-05T21:48:57.000Z",
+        "checkedAt": null,
+        "id": 37207,
+        "identifier": "storm-rider-clash-of-evil",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Storm Rider Clash of Evil",
+        "url": "https://gogoanime.vc/category/storm-rider-clash-of-evil",
+        "image": "https://gogocdn.net/images/anime/S/Storm-Rider-Clash-of-Evil.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5496,
+        "aniId": 5496,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5496": {
+        "identifier": "5496",
+        "malId": 5496,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Feng Yun Jue",
+        "url": "https://animixplay.to/anime/5496"
+      }
+    }
+  }
+}

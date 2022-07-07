@@ -1,0 +1,151 @@
+{
+  "createdAt": "2021-10-11T08:07:55.000Z",
+  "updatedAt": "2022-05-14T10:01:01.000Z",
+  "checkedAt": "2022-05-14T10:01:01.000Z",
+  "id": 50021,
+  "type": "anime",
+  "title": "Dou Shen Ji",
+  "altTitle": [
+    "Toushinki G's Frame",
+    "闘神機ジーズフレーム",
+    "Ancient Girls Frame",
+    "斗神姬"
+  ],
+  "url": "https://myanimelist.net/anime/50021/Dou_Shen_Ji",
+  "image": "https://cdn.myanimelist.net/images/anime/1186/118588.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://ag-f.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16848"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24828"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/T%C5%8Dshinki_G's_Flame"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16848,
+  "Pages": {
+    "Gogoanime": {
+      "dou-shen-ji": {
+        "createdAt": "2021-10-11T08:07:53.000Z",
+        "updatedAt": "2021-10-11T08:37:52.000Z",
+        "checkedAt": null,
+        "id": 38975,
+        "identifier": "dou-shen-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dou Shen Ji",
+        "url": "https://gogoanime.pe/category/dou-shen-ji",
+        "image": "https://gogocdn.net/cover/dou-shen-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50021,
+        "aniId": 126393,
+        "deletedAt": null
+      },
+      "toushinki-gs-frame": {
+        "createdAt": "2021-10-20T16:59:29.000Z",
+        "updatedAt": "2021-10-20T17:29:15.000Z",
+        "checkedAt": null,
+        "id": 39072,
+        "identifier": "toushinki-gs-frame",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toushinki G's Frame",
+        "url": "https://gogoanime.pe/category/toushinki-gs-frame",
+        "image": "https://gogocdn.net/cover/toushinki-gs-frame.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50021,
+        "aniId": 126393,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9ooo8": {
+        "createdAt": "2021-10-12T11:44:57.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "checkedAt": null,
+        "id": 38980,
+        "identifier": "9ooo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toushinki G's Frame",
+        "url": "https://9anime.to/watch/ancient-girls-frame.9ooo8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c3/c33d86bb6b03c81e97573aa191f984d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50021,
+        "aniId": 126393,
+        "deletedAt": null
+      },
+      "n33pk": {
+        "createdAt": "2021-10-20T10:59:47.000Z",
+        "updatedAt": "2021-10-20T11:29:05.000Z",
+        "checkedAt": null,
+        "id": 39068,
+        "identifier": "n33pk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toushinki G's Frame",
+        "url": "https://9anime.to/watch/ancient-girls-frame.n33pk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/61/61f0a2cb5d1a062954b027600c118fcf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50021,
+        "aniId": 126393,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4603": {
+        "identifier": "4603",
+        "malId": 50021,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dou Shen Ji",
+        "url": "https://animepahe.com/a/4603"
+      }
+    },
+    "AniMixPlay": {
+      "50021": {
+        "identifier": "50021",
+        "malId": 50021,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dou Shen Ji",
+        "url": "https://animixplay.to/anime/50021"
+      }
+    },
+    "YugenAnime": {
+      "9928": {
+        "identifier": "9928",
+        "malId": 50021,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dou Shen Ji",
+        "url": "https://yugen.to/anime/9928/dou-shen-ji/"
+      }
+    }
+  }
+}

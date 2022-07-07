@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-18T13:01:02.000Z",
+  "checkedAt": "2022-05-18T13:01:02.000Z",
+  "id": 16692,
+  "type": "anime",
+  "title": "Jigoku Youchien",
+  "altTitle": [
+    "Hell Kindergarten",
+    "地獄ようちえん"
+  ],
+  "url": "https://myanimelist.net/anime/16692/Jigoku_Youchien",
+  "image": "https://cdn.myanimelist.net/images/anime/10/49439.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jigokuyouchien.com/"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14924"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E3%82%88%E3%81%86%E3%81%A1%E3%81%88%E3%82%93"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "06w3": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 463,
+        "identifier": "06w3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jigoku Youchien",
+        "url": "https://9anime.to/watch/jigoku-youchien.06w3",
+        "image": "https://static.akacdn.ru/files/images/2018/04/7f205f0dd4c9e1342a40871727443663.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16692,
+        "aniId": 16692,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jigoku-youchien": {
+        "createdAt": "2021-04-23T09:28:01.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36674,
+        "identifier": "jigoku-youchien",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jigoku Youchien",
+        "url": "https://gogoanime.vc/category/jigoku-youchien",
+        "image": "https://gogocdn.net/cover/jigoku-youchien.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16692,
+        "aniId": 16692,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16692": {
+        "identifier": "16692",
+        "malId": 16692,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jigoku Youchien",
+        "url": "https://animixplay.to/anime/16692"
+      }
+    },
+    "YugenAnime": {
+      "7588": {
+        "identifier": "7588",
+        "malId": 16692,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jigoku Youchien",
+        "url": "https://yugen.to/anime/7588/jigoku-youchien/"
+      }
+    }
+  }
+}

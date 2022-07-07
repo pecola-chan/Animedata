@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:17.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17444,
+  "identifier": "doupo-cangqiong-specials",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Doupo Cangqiong Specials",
+  "url": "https://gogoanime.vc/category/doupo-cangqiong-specials",
+  "image": "https://cdnimg.xyz/cover/doupo-cangqiong-specials.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36561,
+  "aniId": 102462,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:57.000Z",
+    "updatedAt": "2022-05-15T04:52:25.000Z",
+    "checkedAt": "2022-05-15T04:52:25.000Z",
+    "id": 36561,
+    "type": "anime",
+    "title": "Doupo Cangqiong Specials",
+    "altTitle": [
+      "Battle Through The Heavens Special",
+      "Fights Break Sphere Special",
+      "斗破苍穹 特别篇"
+    ],
+    "url": "https://myanimelist.net/anime/36561/Doupo_Cangqiong_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/2/88360.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://v.qq.com/detail/c/ctfk6qw188z0kcw.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:28.000Z",
+    "updatedAt": "2022-05-16T01:09:49.000Z",
+    "checkedAt": "2022-05-16T01:09:49.000Z",
+    "id": 102462,
+    "type": "anime",
+    "title": "Dou Po Cangqiong Specials",
+    "altTitle": [
+      "斗破苍穹 特别篇",
+      "Battle Through The Heavens Special",
+      "Fights Break Sphere Special",
+      "Dou Po Cangqiong Specials"
+    ],
+    "url": "https://anilist.co/anime/102462",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102462-1JMREXYBlT0O.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36561,
+    "deletedAt": null
+  }
+}

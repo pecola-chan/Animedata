@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-16T12:39:41.000Z",
+  "checkedAt": "2022-05-16T12:39:41.000Z",
+  "id": 35405,
+  "type": "anime",
+  "title": "?/Sankaku no Rhythm/Trump no Arasoi",
+  "altTitle": [
+    "Question Mark",
+    "?/Rhythmic Triangles/Fighting Cards",
+    "? 三角のリズム トランプの爭"
+  ],
+  "url": "https://myanimelist.net/anime/35405/_Sankaku_no_Rhythm_Trump_no_Arasoi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/85267.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://animation.filmarchives.jp/works/view/71593"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12876"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12876,
+  "Pages": {
+    "9anime": {
+      "r18o": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8707,
+        "identifier": "r18o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "?/Rhythmic Triangles/Fighting Cards",
+        "url": "https://9anime.to/watch/rhythmic-trianglesfighting-cards.r18o",
+        "image": "https://static.akacdn.ru/files/images/2018/03/4b8e6425202fb8937bd6ed3dcdfc26da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35405,
+        "aniId": 104568,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "35405": {
+        "identifier": "35405",
+        "malId": 35405,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "?/Sankaku no Rhythm/Trump no Arasoi",
+        "url": "https://animixplay.to/anime/35405"
+      }
+    }
+  }
+}

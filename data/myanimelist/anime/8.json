@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-15T08:23:13.000Z",
+  "checkedAt": "2022-05-15T08:23:13.000Z",
+  "id": 8,
+  "type": "anime",
+  "title": "Bouken Ou Beet",
+  "altTitle": [
+    "Adventure King Beet",
+    "Beet the Vandel Buster",
+    "冒険王ビィト"
+  ],
+  "url": "https://myanimelist.net/anime/8/Bouken_Ou_Beet",
+  "image": "https://cdn.myanimelist.net/images/anime/7/21569.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/beet/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2391"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4347"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Beet_the_Vandel_Buster"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2391,
+  "Pages": {
+    "9anime": {
+      "2982": {
+        "createdAt": "2020-10-12T15:48:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 76,
+        "identifier": "2982",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beet the Vandel Buster",
+        "url": "https://9anime.to/watch/beet-the-vandel-buster.2982",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1PObV0luOzY/V6Wsv2G-eNI/AAAAAAAA0wM/agtbGkc7EeY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8,
+        "aniId": 8,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beet-the-vandel-buster": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16771,
+        "identifier": "beet-the-vandel-buster",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beet The Vandel Buster",
+        "url": "https://gogoanime.vc/category/beet-the-vandel-buster",
+        "image": "https://cdnimg.xyz/images/anime/B/beet-the-vandel-buster.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8,
+        "aniId": 8,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8": {
+        "identifier": "8",
+        "malId": 8,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bouken Ou Beet",
+        "url": "https://animixplay.to/anime/8"
+      }
+    },
+    "YugenAnime": {
+      "14186": {
+        "identifier": "14186",
+        "malId": 8,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bouken Ou Beet",
+        "url": "https://yugen.to/anime/14186/bouken-ou-beet/"
+      }
+    }
+  }
+}

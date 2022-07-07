@@ -1,0 +1,47 @@
+{
+  "createdAt": "2021-04-25T01:27:22.000Z",
+  "updatedAt": "2022-05-21T11:40:13.000Z",
+  "checkedAt": "2022-05-21T11:40:13.000Z",
+  "id": 39290,
+  "type": "anime",
+  "title": "Children",
+  "altTitle": [
+    "CHILDREN"
+  ],
+  "url": "https://myanimelist.net/anime/39290/Children",
+  "image": "https://cdn.myanimelist.net/images/anime/1772/99106.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=BE4oz2u6OHY"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "lvnn": {
+        "createdAt": "2021-02-07T16:52:10.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34614,
+        "identifier": "lvnn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Children",
+        "url": "https://9anime.to/watch/children.lvnn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/42/42c7052588fb2bdbca96329bf77214ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 39290,
+        "aniId": 108170,
+        "deletedAt": null
+      }
+    }
+  }
+}

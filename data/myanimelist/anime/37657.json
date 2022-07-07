@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T09:27:29.000Z",
+  "checkedAt": "2022-05-14T09:27:29.000Z",
+  "id": 37657,
+  "type": "anime",
+  "title": "Gakuen Basara",
+  "altTitle": [
+    "Gakuen Basara: Samurai High School",
+    "学園BASARA"
+  ],
+  "url": "https://myanimelist.net/anime/37657/Gakuen_Basara",
+  "image": "https://cdn.myanimelist.net/images/anime/1278/93829.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/gakuen_basara/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14001"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20961"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BDBASARA#%E5%AD%A6%E5%9C%92BASARA"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277216"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/gakuen-basara-samurai-high-school"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14001,
+  "Pages": {
+    "9anime": {
+      "0kr5": {
+        "createdAt": "2020-10-12T15:48:48.000Z",
+        "updatedAt": "2022-06-14T01:04:03.000Z",
+        "checkedAt": "2022-06-14T01:04:03.000Z",
+        "id": 542,
+        "identifier": "0kr5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakuen BASARA",
+        "url": "https://9anime.to/watch/gakuen-basara-samurai-high-school.0kr5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/10/e59a412516bcbb6e3d610062a6661db8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37657,
+        "aniId": 101470,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gakuen-basara": {
+        "createdAt": "2020-10-12T16:00:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17770,
+        "identifier": "gakuen-basara",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gakuen Basara",
+        "url": "https://gogoanime.vc/category/gakuen-basara",
+        "image": "https://cdnimg.xyz/cover/gakuen-basara.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37657,
+        "aniId": 101470,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2846": {
+        "identifier": "2846",
+        "malId": 37657,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gakuen Basara",
+        "url": "https://animepahe.com/a/2846"
+      }
+    },
+    "AniMixPlay": {
+      "37657": {
+        "identifier": "37657",
+        "malId": 37657,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gakuen Basara",
+        "url": "https://animixplay.to/anime/37657"
+      }
+    },
+    "YugenAnime": {
+      "3472": {
+        "identifier": "3472",
+        "malId": 37657,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gakuen Basara",
+        "url": "https://yugen.to/anime/3472/gakuen-basara/"
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T19:49:11.000Z",
+  "checkedAt": "2022-05-14T19:49:11.000Z",
+  "id": 37561,
+  "type": "anime",
+  "title": "Akanesasu Shoujo",
+  "altTitle": [
+    "The Girl in Twilight",
+    "あかねさす少女"
+  ],
+  "url": "https://myanimelist.net/anime/37561/Akanesasu_Shoujo",
+  "image": "https://cdn.myanimelist.net/images/anime/1210/95781.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://akanesasushojo.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13956"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20780"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Girl_in_Twilight"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/the-girl-in-twilight"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13956,
+  "Pages": {
+    "9anime": {
+      "mwxz": {
+        "createdAt": "2020-10-12T15:53:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6798,
+        "identifier": "mwxz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akanesasu Shoujo",
+        "url": "https://9anime.to/watch/akanesasu-shoujo.mwxz",
+        "image": "http://static.akacdn.ru/static/images/2018/05/7ba6a41c426077eefc8dcb7b6fe5617e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37561,
+        "aniId": 101360,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akanesasu-shoujo": {
+        "createdAt": "2020-10-12T15:59:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16460,
+        "identifier": "akanesasu-shoujo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akanesasu Shoujo",
+        "url": "https://gogoanime.vc/category/akanesasu-shoujo",
+        "image": "https://cdnimg.xyz/cover/akanesasu-shoujo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37561,
+        "aniId": 101360,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2840": {
+        "identifier": "2840",
+        "malId": 37561,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Akanesasu Shoujo",
+        "url": "https://animepahe.com/a/2840"
+      }
+    },
+    "AniMixPlay": {
+      "37561": {
+        "identifier": "37561",
+        "malId": 37561,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akanesasu Shoujo",
+        "url": "https://animixplay.to/anime/37561"
+      }
+    },
+    "YugenAnime": {
+      "3524": {
+        "identifier": "3524",
+        "malId": 37561,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akanesasu Shoujo",
+        "url": "https://yugen.to/anime/3524/akanesasu-shoujo/"
+      }
+    }
+  }
+}

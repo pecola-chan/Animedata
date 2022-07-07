@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-14T07:05:35.000Z",
+  "checkedAt": "2022-05-14T07:05:35.000Z",
+  "id": 31490,
+  "type": "anime",
+  "title": "One Piece Film: Gold",
+  "altTitle": [
+    "One Piece Movie 13",
+    "ONE PIECE FILM GOLD"
+  ],
+  "url": "https://myanimelist.net/anime/31490/One_Piece_Film__Gold",
+  "image": "https://cdn.myanimelist.net/images/anime/12/81081.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://one-piece.com/movie/film/13"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11529"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18113"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11529,
+  "Pages": {
+    "9anime": {
+      "71vy": {
+        "createdAt": "2020-10-12T15:50:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3318,
+        "identifier": "71vy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece Film: Gold",
+        "url": "https://9anime.to/watch/one-piece-film-gold.71vy",
+        "image": "//static.9anime.to/i/cache/images/2018/04/fe409942e9a06903ee9b0879068ec482.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31490,
+        "aniId": 21335,
+        "deletedAt": null
+      },
+      "p2l6": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7815,
+        "identifier": "p2l6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece Film: Gold (Dub)",
+        "url": "https://9anime.to/watch/one-piece-film-gold-dub.p2l6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zUMVNQAZnpA/WEeKefmJDWI/AAAAAAABRvY/qH9tnwWiimk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31490,
+        "aniId": 21335,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-piece-film-gold": {
+        "createdAt": "2020-10-12T16:01:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19854,
+        "identifier": "one-piece-film-gold",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece Film: Gold",
+        "url": "https://gogoanime.vc/category/one-piece-film-gold",
+        "image": "https://cdnimg.xyz/cover/one-piece-film-gold.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31490,
+        "aniId": 21335,
+        "deletedAt": null
+      },
+      "one-piece-film-gold-dub": {
+        "createdAt": "2021-06-21T07:27:51.000Z",
+        "updatedAt": "2021-06-21T07:50:51.000Z",
+        "checkedAt": null,
+        "id": 37477,
+        "identifier": "one-piece-film-gold-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece Film: Gold (Dub)",
+        "url": "https://gogoanime.vc/category/one-piece-film-gold-dub",
+        "image": "https://gogocdn.net/cover/one-piece-film-gold-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31490,
+        "aniId": 21335,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3790": {
+        "identifier": "3790",
+        "malId": 31490,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece Film: Gold",
+        "url": "https://animepahe.com/a/3790"
+      }
+    },
+    "AniMixPlay": {
+      "31490": {
+        "identifier": "31490",
+        "malId": 31490,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece Film: Gold",
+        "url": "https://animixplay.to/anime/31490"
+      }
+    },
+    "YugenAnime": {
+      "1624": {
+        "identifier": "1624",
+        "malId": 31490,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Piece Film: Gold",
+        "url": "https://yugen.to/anime/1624/one-piece-film-gold/"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T10:40:14.000Z",
+  "checkedAt": "2022-05-14T10:40:14.000Z",
+  "id": 36683,
+  "type": "anime",
+  "title": "Overlord Movie: Manner Movie",
+  "altTitle": [
+    "Gekijouban Soushuuhen Overlord Manner Movie",
+    "Overlord Theater Manners",
+    "劇場版総集編オーバーロードマナームービー"
+  ],
+  "url": "https://myanimelist.net/anime/36683/Overlord_Movie__Manner_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1711/122075.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12439"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12439,
+  "Pages": {
+    "9anime": {
+      "3rq1r": {
+        "createdAt": "2021-06-30T17:21:37.000Z",
+        "updatedAt": "2022-06-13T21:30:24.000Z",
+        "checkedAt": "2022-06-13T21:30:24.000Z",
+        "id": 37582,
+        "identifier": "3rq1r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Overlord Movie: Manner Movie",
+        "url": "https://9anime.to/watch/overlord-movie-manner-movie.3rq1r",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/50/50d47a19d6f137aac1e84bccd57f06a2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36683,
+        "aniId": 107350,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-21T17:32:31.000Z",
+  "checkedAt": "2022-05-21T17:32:31.000Z",
+  "id": 28093,
+  "type": "anime",
+  "title": "Hana wa Saku: Touhoku ni Saku",
+  "altTitle": [
+    "Hana wa Saku: Tohoku ni Saku",
+    "Hana ha Saku: Touhoku ni Saku",
+    "Flowers Will Bloom In Tohoku",
+    "花は咲く 東北に咲く"
+  ],
+  "url": "https://myanimelist.net/anime/28093/Hana_wa_Saku__Touhoku_ni_Saku",
+  "image": "https://cdn.myanimelist.net/images/anime/13/67985.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/ashita/touhokutabi/5min/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "3nx9": {
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1865,
+        "identifier": "3nx9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Flowers Will Bloom In Tohoku",
+        "url": "https://9anime.to/watch/flowers-will-bloom-in-tohoku.3nx9",
+        "image": "http://static.akacdn.ru/static/images/2018/05/8575db100b3736a2196dad2802c078ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28093,
+        "aniId": 126202,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "28093": {
+        "identifier": "28093",
+        "malId": 28093,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hana wa Saku: Touhoku ni Saku",
+        "url": "https://animixplay.to/anime/28093"
+      }
+    }
+  }
+}

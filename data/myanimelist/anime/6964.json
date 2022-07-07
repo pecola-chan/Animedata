@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T21:55:11.000Z",
+  "checkedAt": "2022-05-14T21:55:11.000Z",
+  "id": 6964,
+  "type": "anime",
+  "title": "Yuu☆Yuu☆Hakusho Picture Drama",
+  "altTitle": [
+    "Yu Yu Hakusho Picture Drama",
+    "YuYu Hakusho",
+    "幽☆遊☆白書"
+  ],
+  "url": "https://myanimelist.net/anime/6964/Yuu☆Yuu☆Hakusho_Picture_Drama",
+  "image": "https://cdn.myanimelist.net/images/anime/5/19920.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/YuYu_Hakusho"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "r25y": {
+        "createdAt": "2020-10-12T15:55:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8724,
+        "identifier": "r25y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuu☆Yuu☆Hakusho Picture Drama",
+        "url": "https://9anime.to/watch/yuuyuuhakusho-picture-drama.r25y",
+        "image": "https://static.akacdn.ru/files/images/2020/07/a8c9bfa89e67af79f578ff2dd9ffc407.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6964,
+        "aniId": 6964,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3258": {
+        "identifier": "3258",
+        "malId": 6964,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yuu☆Yuu☆Hakusho Picture Drama",
+        "url": "https://animepahe.com/a/3258"
+      }
+    },
+    "AniMixPlay": {
+      "6964": {
+        "identifier": "6964",
+        "malId": 6964,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuu☆Yuu☆Hakusho Picture Drama",
+        "url": "https://animixplay.to/anime/6964"
+      }
+    },
+    "YugenAnime": {
+      "5587": {
+        "identifier": "5587",
+        "malId": 6964,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yuu☆Yuu☆Hakusho Picture Drama",
+        "url": "https://yugen.to/anime/5587/yu-yu-hakusho-poltergeist-report/"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:39:28.000Z",
+  "updatedAt": "2022-05-14T19:22:41.000Z",
+  "checkedAt": "2022-05-14T19:22:41.000Z",
+  "id": 24175,
+  "type": "anime",
+  "title": "Nozo x Kimi",
+  "altTitle": [
+    "Nozomi x Kimio",
+    "Nozomi to Kimio",
+    "Nozomi and Kimio",
+    "NozoKimi",
+    "Nozo x Kimi",
+    "ノゾ×キミ"
+  ],
+  "url": "https://myanimelist.net/anime/24175/Nozo_x_Kimi",
+  "image": "https://cdn.myanimelist.net/images/anime/1259/116600.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shogakukan.co.jp/pr/anisun/nozokimi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10672"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16241"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%BE%C3%97%E3%82%AD%E3%83%9F"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10672,
+  "Pages": {
+    "9anime": {
+      "mv17": {
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6755,
+        "identifier": "mv17",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nozo x Kimi",
+        "url": "https://9anime.to/watch/nozo-x-kimi.mv17",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wBC1SvI6xfI/V7Cl1eExOyI/AAAAAAAA3EY/ewCnirBx0yE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24175,
+        "aniId": 20804,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nozo-x-kimi": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19800,
+        "identifier": "nozo-x-kimi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nozo x Kimi",
+        "url": "https://gogoanime.vc/category/nozo-x-kimi",
+        "image": "https://cdnimg.xyz/images/anime/Nozo x Kimi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24175,
+        "aniId": 20804,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "24175": {
+        "identifier": "24175",
+        "malId": 24175,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nozo x Kimi",
+        "url": "https://animixplay.to/anime/24175"
+      }
+    },
+    "YugenAnime": {
+      "2144": {
+        "identifier": "2144",
+        "malId": 24175,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nozo x Kimi",
+        "url": "https://yugen.to/anime/2144/nozo-x-kimi/"
+      }
+    }
+  }
+}

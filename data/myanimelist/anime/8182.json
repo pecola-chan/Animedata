@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-06-29T13:46:21.000Z",
+  "checkedAt": "2022-06-29T13:46:21.000Z",
+  "id": 8182,
+  "type": "anime",
+  "title": "Bouken Shounen Shadar",
+  "altTitle": [
+    "Boken Shonen Shadar",
+    "Adventure Boy Shadar",
+    "冒険少年シャダー"
+  ],
+  "url": "https://myanimelist.net/anime/8182/Bouken_Shounen_Shadar",
+  "image": "https://cdn.myanimelist.net/images/anime/3/20774.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3604"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1227"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%86%92%E9%99%BA%E5%B0%91%E5%B9%B4%E3%82%B7%E3%83%A3%E3%83%80%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3604,
+  "Pages": {
+    "9anime": {
+      "9v3q": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4446,
+        "identifier": "9v3q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Adventure Boy Shadar",
+        "url": "https://9anime.to/watch/adventure-boy-shadar.9v3q",
+        "image": "https://static.akacdn.ru/files/images/2019/08/6d8612df87b3d83e921cafdbfdd81948.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8182,
+        "aniId": 8182,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8182": {
+        "identifier": "8182",
+        "malId": 8182,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bouken Shounen Shadar",
+        "url": "https://animixplay.to/anime/8182"
+      }
+    }
+  }
+}

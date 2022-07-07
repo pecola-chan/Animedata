@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-15T09:51:54.000Z",
+  "checkedAt": "2022-05-15T09:51:54.000Z",
+  "id": 8949,
+  "type": "anime",
+  "title": "Tottoko Hamtarou OVA 2: Hamuchanzu no Takara Sagashi Daisaku - Hamuha! Suteki na Umi no Natsuyasumi",
+  "altTitle": [
+    "Hamtaro OVA 2",
+    "Tottoko Hamutarou: Hamuchanzu no Takara Sagashi Daisaku Hamuha! Sutekina Umi Nonatsuyasumi",
+    "Hamtaro: Ham-Hams Ahoy!",
+    "ハムちゃんずの宝さがし大作戦〜はむはー!すてきな海のなつやすみ〜"
+  ],
+  "url": "https://myanimelist.net/anime/8949/Tottoko_Hamtarou_OVA_2__Hamuchanzu_no_Takara_Sagashi_Daisaku_-_Hamuha_Suteki_na_Umi_no_Natsuyasumi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/24826.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3328"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5154"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hamtaro"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3328,
+  "Pages": {
+    "9anime": {
+      "7597": {
+        "createdAt": "2020-10-12T19:23:38.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23916,
+        "identifier": "7597",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tottoko Hamtarou OVA 2: Hamuchanzu no Takara Sagashi Daisaku - Hamuha! Suteki na Umi no Natsuyasumi",
+        "url": "https://9anime.to/watch/hamtaro-ham-hams-ahoy.7597",
+        "image": "//static.9anime.to/i/cache/images/2018/02/a44c7f649ba8f27b60546e724642242f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8949,
+        "aniId": 8949,
+        "deletedAt": null
+      },
+      "m2m7p": {
+        "createdAt": "2022-02-01T01:21:23.000Z",
+        "updatedAt": "2022-02-01T01:50:41.000Z",
+        "checkedAt": null,
+        "id": 40002,
+        "identifier": "m2m7p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tottoko Hamtaro OVA 2: Hamuchanzu no Takara Sagashi Daisaku - Hamuha! Suteki na Umi no Natsuyasumi (Dub)",
+        "url": "https://9anime.to/watch/hamtaro-ham-hams-ahoy-dub.m2m7p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/06/06e724c7c3b8db8c61b3c4aa964c069a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8949,
+        "aniId": 8949,
+        "deletedAt": null
+      }
+    }
+  }
+}

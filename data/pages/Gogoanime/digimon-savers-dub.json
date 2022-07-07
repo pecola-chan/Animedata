@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-10-03T09:01:23.000Z",
+  "updatedAt": "2021-10-03T09:30:52.000Z",
+  "checkedAt": null,
+  "id": 38830,
+  "identifier": "digimon-savers-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Digimon Savers (Dub)",
+  "url": "https://gogoanime.pe/category/digimon-savers-dub",
+  "image": "https://gogocdn.net/cover/digimon-savers-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 859,
+  "aniId": 859,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T18:01:29.000Z",
+    "checkedAt": "2022-05-14T18:01:29.000Z",
+    "id": 859,
+    "type": "anime",
+    "title": "Digimon Savers",
+    "altTitle": [
+      "Digimon Data Squad",
+      "デジモンセイバーズ"
+    ],
+    "url": "https://myanimelist.net/anime/859/Digimon_Savers",
+    "image": "https://cdn.myanimelist.net/images/anime/1415/100541.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/digimon_s/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4283"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6230"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Digimon_Data_Squad"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4283
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:47.000Z",
+    "updatedAt": "2022-05-15T17:54:11.000Z",
+    "checkedAt": "2022-05-15T17:54:11.000Z",
+    "id": 859,
+    "type": "anime",
+    "title": "Digimon Savers",
+    "altTitle": [
+      "Digimon Data Squad",
+      "デジモンセイバーズ"
+    ],
+    "url": "https://anilist.co/anime/859",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/859-bjjZXdawvrJW.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 859,
+    "deletedAt": null
+  }
+}

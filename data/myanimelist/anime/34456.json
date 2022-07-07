@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-29T12:19:16.000Z",
+  "checkedAt": "2022-05-29T12:19:16.000Z",
+  "id": 34456,
+  "type": "anime",
+  "title": "Sentai Hero Sukiyaki Force: Gunma no Heiwa wo Negau Season",
+  "altTitle": [
+    "戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン-"
+  ],
+  "url": "https://myanimelist.net/anime/34456/Sentai_Hero_Sukiyaki_Force__Gunma_no_Heiwa_wo_Negau_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/10/83035.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gtv.co.jp/program/animation/sukiyaki_f/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12572"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12572,
+  "Pages": {
+    "9anime": {
+      "m6m7": {
+        "createdAt": "2020-10-12T15:53:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6451,
+        "identifier": "m6m7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sentai Hero Sukiyaki Force",
+        "url": "https://9anime.to/watch/sentai-hero-sukiyaki-force.m6m7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vDicNwZMgVo/WFZ-s4XXHUI/AAAAAAABTZM/rB9skEnaKy8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34456,
+        "aniId": 97887,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T23:11:05.000Z",
+  "checkedAt": "2022-05-14T23:11:05.000Z",
+  "id": 2931,
+  "type": "anime",
+  "title": "Mokke",
+  "altTitle": [
+    "もっけ"
+  ],
+  "url": "https://myanimelist.net/anime/2931/Mokke",
+  "image": "https://cdn.myanimelist.net/images/anime/13/19674.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.avexmovie.jp/lineup/mokke/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5052"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7611"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mokke"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5052,
+  "Pages": {
+    "9anime": {
+      "0vv7": {
+        "createdAt": "2020-10-12T15:48:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 677,
+        "identifier": "0vv7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mokke",
+        "url": "https://9anime.to/watch/mokke.0vv7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JK5X9CIWY1Q/WIGg3JqcrOI/AAAAAAABaU4/VGbW0h0TsVU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2931,
+        "aniId": 2931,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mokke": {
+        "createdAt": "2020-11-26T09:31:51.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29579,
+        "identifier": "mokke",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mokke",
+        "url": "https://gogoanime.vc/category/mokke",
+        "image": "https://gogocdn.net/images/anime/M/mokke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2931,
+        "aniId": 2931,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2931": {
+        "identifier": "2931",
+        "malId": 2931,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mokke",
+        "url": "https://animixplay.to/anime/2931"
+      }
+    },
+    "YugenAnime": {
+      "2351": {
+        "identifier": "2351",
+        "malId": 2931,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mokke",
+        "url": "https://yugen.to/anime/2351/mokke/"
+      }
+    }
+  }
+}

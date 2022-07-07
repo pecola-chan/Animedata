@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T22:22:29.000Z",
+  "checkedAt": "2022-05-14T22:22:29.000Z",
+  "id": 16319,
+  "type": "anime",
+  "title": "Asako Get You!!",
+  "altTitle": [
+    "Chitose Get You!! OVA (2013)",
+    "あさこげっちゅ!!"
+  ],
+  "url": "https://myanimelist.net/anime/16319/Asako_Get_You",
+  "image": "https://cdn.myanimelist.net/images/anime/5/53435.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9503"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ちとせげっちゅ!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9503,
+  "Pages": {
+    "9anime": {
+      "m17x": {
+        "createdAt": "2020-10-12T15:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6309,
+        "identifier": "m17x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asako Get You!!",
+        "url": "https://9anime.to/watch/asako-get-you.m17x",
+        "image": "https://static.akacdn.ru/files/images/2018/02/91822b28ca527cd52912b8c850816242.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16319,
+        "aniId": 16319,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16319": {
+        "identifier": "16319",
+        "malId": 16319,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Asako Get You!!",
+        "url": "https://animixplay.to/anime/16319"
+      }
+    },
+    "YugenAnime": {
+      "5956": {
+        "identifier": "5956",
+        "malId": 16319,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Asako Get You!!",
+        "url": "https://yugen.to/anime/5956/chitose-get-you-ova/"
+      }
+    }
+  }
+}

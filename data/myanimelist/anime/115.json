@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T09:35:00.000Z",
+  "checkedAt": "2022-05-14T09:35:00.000Z",
+  "id": 115,
+  "type": "anime",
+  "title": "El Hazard: The Alternative World",
+  "altTitle": [
+    "Ijigen no Sekai El Hazard",
+    "Ijigen no Sekai El-Hazard",
+    "異次元の世界エルハザード"
+  ],
+  "url": "https://myanimelist.net/anime/115/El_Hazard__The_Alternative_World",
+  "image": "https://cdn.myanimelist.net/images/anime/3/61047.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://db2.geneonuniversal.jp/contents/hp0003/list.php?CNo=3&AgentProCon=18139"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=207"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=598"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/El_Hazard"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 207,
+  "Pages": {
+    "9anime": {
+      "q82v": {
+        "createdAt": "2020-10-12T15:55:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8349,
+        "identifier": "q82v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "El Hazard: The Alternative World (Dub)",
+        "url": "https://9anime.to/watch/el-hazard-the-alternative-world-dub.q82v",
+        "image": "//static.9anime.to/i/cache/images/2018/04/2a66e109038f72d923af8a22c016f718.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 115,
+        "aniId": 115,
+        "deletedAt": null
+      },
+      "ry9y": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9087,
+        "identifier": "ry9y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "El Hazard: The Alternative World",
+        "url": "https://9anime.to/watch/el-hazard-the-alternative-world.ry9y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vXR3MFkhcAw/WAO4jbTBSkI/AAAAAAABIlY/Qs1L6oQd6Yk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 115,
+        "aniId": 115,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "el-hazard-the-alternative-world": {
+        "createdAt": "2020-10-12T16:00:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17543,
+        "identifier": "el-hazard-the-alternative-world",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "El Hazard: The Alternative World",
+        "url": "https://gogoanime.vc/category/el-hazard-the-alternative-world",
+        "image": "https://cdnimg.xyz/cover/el-hazard-the-alternative-world.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 115,
+        "aniId": 115,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1636": {
+        "identifier": "1636",
+        "malId": 115,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "El Hazard: The Alternative World",
+        "url": "https://animepahe.com/a/1636"
+      }
+    },
+    "AniMixPlay": {
+      "115": {
+        "identifier": "115",
+        "malId": 115,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "El Hazard: The Alternative World",
+        "url": "https://animixplay.to/anime/115"
+      }
+    },
+    "YugenAnime": {
+      "5116": {
+        "identifier": "5116",
+        "malId": 115,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "El Hazard: The Alternative World",
+        "url": "https://yugen.to/anime/5116/el-hazard-the-alternative-world/"
+      }
+    }
+  }
+}

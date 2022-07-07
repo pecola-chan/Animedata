@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T23:46:23.000Z",
+  "checkedAt": "2022-05-14T23:46:22.000Z",
+  "id": 37294,
+  "type": "anime",
+  "title": "Wangu Xian Qiong II",
+  "altTitle": [
+    "Everlasting Immortal Firmament 2nd Season",
+    "Ancient Celestial Firmament 2nd Season",
+    "Ancient Divine Pinnacle 2nd Season",
+    "Wangu Xian Qiong 2nd Season",
+    "万古仙穹 第二季",
+    "万古仙穹 Ⅱ"
+  ],
+  "url": "https://myanimelist.net/anime/37294/Wangu_Xian_Qiong_II",
+  "image": "https://cdn.myanimelist.net/images/anime/1102/93891.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.iqiyi.com/a_19rrh1y2e5.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13922"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E4%B8%87%E5%8F%A4%E4%BB%99%E7%A9%B9/20466519"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13922,
+  "Pages": {
+    "9anime": {
+      "qmrn": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8446,
+        "identifier": "qmrn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wangu Xian Qiong 2nd Season",
+        "url": "https://9anime.to/watch/wangu-xian-qiong-2nd-season.qmrn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/27a889ceda7f56ed5f8e26a9c4b6cd40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37294,
+        "aniId": 102576,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37294": {
+        "identifier": "37294",
+        "malId": 37294,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wangu Xian Qiong II",
+        "url": "https://animixplay.to/anime/37294"
+      }
+    }
+  }
+}

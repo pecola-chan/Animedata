@@ -1,0 +1,56 @@
+{
+  "createdAt": "2021-03-05T12:20:25.000Z",
+  "updatedAt": "2022-05-14T23:47:29.000Z",
+  "checkedAt": "2022-05-14T23:47:29.000Z",
+  "id": 6902,
+  "type": "anime",
+  "title": "Saikyou Bushouden: Sangoku Engi",
+  "altTitle": [
+    "Romance of the Three Kingdoms",
+    "最強武将伝・三国演義"
+  ],
+  "url": "https://myanimelist.net/anime/6902/Saikyou_Bushouden__Sangoku_Engi",
+  "image": "https://cdn.myanimelist.net/images/anime/5/32589.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-osaka.co.jp/sangokuengi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7434"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10698"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7434,
+  "Pages": {
+    "9anime": {
+      "r7qp": {
+        "createdAt": "2021-03-10T10:11:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35559,
+        "identifier": "r7qp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saikyou Bushouden: Sangoku Engi",
+        "url": "https://9anime.to/watch/saikyou-bushouden-sangoku-engi.r7qp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c1/c1bd7f32c200bcf3f0c2cb33f563d79e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6902,
+        "aniId": 6902,
+        "deletedAt": null
+      }
+    }
+  }
+}

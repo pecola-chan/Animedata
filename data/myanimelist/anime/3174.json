@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-15T00:42:17.000Z",
+  "checkedAt": "2022-05-15T00:42:17.000Z",
+  "id": 3174,
+  "type": "anime",
+  "title": "Sola Specials",
+  "altTitle": [
+    "Sola OVA",
+    "sola"
+  ],
+  "url": "https://myanimelist.net/anime/3174/Sola_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21665.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sola-project.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5019"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sola_%28manga%29#Adaptations"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5019,
+  "Pages": {
+    "9anime": {
+      "08y9": {
+        "createdAt": "2020-12-09T14:14:41.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29894,
+        "identifier": "08y9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sola Specials",
+        "url": "https://9anime.to/watch/sola-ova.08y9",
+        "image": "//static.9anime.to/i/cache/images/2018/01/1d36631b9172b5b05c0793cf3ca5c037.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3174,
+        "aniId": 3174,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2129": {
+        "identifier": "2129",
+        "malId": 3174,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sola Specials",
+        "url": "https://animepahe.com/a/2129"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-15T01:44:55.000Z",
+  "checkedAt": "2022-05-15T01:44:55.000Z",
+  "id": 12857,
+  "type": "anime",
+  "title": "Star Driver the Movie",
+  "altTitle": [
+    "スタードライバー THE MOVIE"
+  ],
+  "url": "https://myanimelist.net/anime/12857/Star_Driver_the_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/12/57249.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.stardriver-movie.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9410"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14756"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Star_Driver:_Kagayaki_no_Takuto"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9410,
+  "Pages": {
+    "9anime": {
+      "l876": {
+        "createdAt": "2020-10-12T15:53:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5941,
+        "identifier": "l876",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Star Driver the Movie",
+        "url": "https://9anime.to/watch/star-driver-the-movie.l876",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wNQPaEMZPo4/V_mxjCqwd9I/AAAAAAABFbU/Oio35f4dO_A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12857,
+        "aniId": 12857,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "star-driver-the-movie": {
+        "createdAt": "2020-10-12T16:01:58.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20826,
+        "identifier": "star-driver-the-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Star Driver The Movie",
+        "url": "https://gogoanime.vc/category/star-driver-the-movie",
+        "image": "https://gogocdn.net/images/anime/S/Star-Driver-The-Movie.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12857,
+        "aniId": 12857,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3411": {
+        "identifier": "3411",
+        "malId": 12857,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Star Driver the Movie",
+        "url": "https://animepahe.com/a/3411"
+      }
+    },
+    "AniMixPlay": {
+      "12857": {
+        "identifier": "12857",
+        "malId": 12857,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Star Driver the Movie",
+        "url": "https://animixplay.to/anime/12857"
+      }
+    },
+    "YugenAnime": {
+      "5530": {
+        "identifier": "5530",
+        "malId": 12857,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Star Driver the Movie",
+        "url": "https://yugen.to/anime/5530/star-driver-the-movie/"
+      }
+    }
+  }
+}

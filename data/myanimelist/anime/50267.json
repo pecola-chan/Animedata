@@ -1,0 +1,100 @@
+{
+  "createdAt": "2022-01-11T17:11:39.000Z",
+  "updatedAt": "2022-05-14T18:21:29.000Z",
+  "checkedAt": "2022-05-14T18:21:29.000Z",
+  "id": 50267,
+  "type": "anime",
+  "title": "Irodorimidori",
+  "altTitle": [
+    "イロドリミドリ"
+  ],
+  "url": "https://myanimelist.net/anime/50267/Irodorimidori",
+  "image": "https://cdn.myanimelist.net/images/anime/1635/120395.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://chunithm.sega.jp/irodorimidori/anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16950"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24920"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/イロドリミドリ"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16950,
+  "Pages": {
+    "9anime": {
+      "kwwpr": {
+        "createdAt": "2022-01-11T17:11:39.000Z",
+        "updatedAt": "2022-01-11T17:41:38.000Z",
+        "checkedAt": null,
+        "id": 39786,
+        "identifier": "kwwpr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Irodorimidori",
+        "url": "https://9anime.to/watch/irodorimidori.kwwpr",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/07/07f389d1734a0d331472c87ac5ac2df4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50267,
+        "aniId": 140950,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "irodorimidori": {
+        "createdAt": "2022-01-15T02:12:09.000Z",
+        "updatedAt": "2022-01-15T02:41:45.000Z",
+        "checkedAt": null,
+        "id": 39821,
+        "identifier": "irodorimidori",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Irodorimidori",
+        "url": "https://gogoanime.cm/category/irodorimidori",
+        "image": "https://gogocdn.net/cover/irodorimidori.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50267,
+        "aniId": 140950,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "50267": {
+        "identifier": "50267",
+        "malId": 50267,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Irodorimidori",
+        "url": "https://animixplay.to/anime/50267"
+      }
+    },
+    "YugenAnime": {
+      "11574": {
+        "identifier": "11574",
+        "malId": 50267,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Irodorimidori",
+        "url": "https://yugen.to/anime/11574/irodorimidori/"
+      }
+    }
+  }
+}

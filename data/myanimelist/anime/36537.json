@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T21:09:06.000Z",
+  "checkedAt": "2022-05-14T21:09:06.000Z",
+  "id": 36537,
+  "type": "anime",
+  "title": "Starmyu in Halloween",
+  "altTitle": [
+    "Koukou Hoshi Kageki",
+    "High School Star Musical",
+    "Starmu",
+    "Starmyu OVA (2018)",
+    "スタミュ in ハロウィン"
+  ],
+  "url": "https://myanimelist.net/anime/36537/Starmyu_in_Halloween",
+  "image": "https://cdn.myanimelist.net/images/anime/1621/93659.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hstar-mu.com/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13511"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%9F%E3%83%A5"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13511,
+  "Pages": {
+    "9anime": {
+      "4prk": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2346,
+        "identifier": "4prk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Starmyu in Halloween",
+        "url": "https://9anime.to/watch/starmyu-in-halloween.4prk",
+        "image": "https://static.akacdn.ru/static/images/2018/09/361e789b70cb57ad0e86f9179352491e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36537,
+        "aniId": 103847,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36537": {
+        "identifier": "36537",
+        "malId": 36537,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Starmyu in Halloween",
+        "url": "https://animixplay.to/anime/36537"
+      }
+    }
+  }
+}

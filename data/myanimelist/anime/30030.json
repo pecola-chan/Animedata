@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-05-15T00:52:05.000Z",
+  "checkedAt": "2022-05-15T00:52:05.000Z",
+  "id": 30030,
+  "type": "anime",
+  "title": "Jewelpet Magical Change",
+  "altTitle": [
+    "ジュエルペット マジカルチェンジ"
+  ],
+  "url": "https://myanimelist.net/anime/30030/Jewelpet_Magical_Change",
+  "image": "https://cdn.myanimelist.net/images/anime/5/73970.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/jewelpet7/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11076"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16865"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jewelpet:_Magical_Change"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11076,
+  "Pages": {
+    "9anime": {
+      "7w7y": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3604,
+        "identifier": "7w7y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jewelpet Magical Change",
+        "url": "https://9anime.to/watch/jewelpet-magical-change.7w7y",
+        "image": "http://static.akacdn.ru/static/images/2018/04/8a794d3533c501bfd8814cc752dbbd86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30030,
+        "aniId": 21134,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "30030": {
+        "identifier": "30030",
+        "malId": 30030,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jewelpet Magical Change",
+        "url": "https://animixplay.to/anime/30030"
+      }
+    },
+    "YugenAnime": {
+      "1506": {
+        "identifier": "1506",
+        "malId": 30030,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jewelpet Magical Change",
+        "url": "https://yugen.to/anime/1506/jewelpet-magical-change/"
+      }
+    }
+  }
+}

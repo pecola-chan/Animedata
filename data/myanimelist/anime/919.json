@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-14T21:50:17.000Z",
+  "checkedAt": "2022-05-14T21:50:17.000Z",
+  "id": 919,
+  "type": "anime",
+  "title": "Ray The Animation",
+  "altTitle": [
+    "Ray Project",
+    "Ray: The Animation",
+    "Ray The Animation",
+    "RAY THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/919/Ray_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/11/33315.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hicbc.com/tv/ray/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4049"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6163"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ray_the_Animation"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4049,
+  "Pages": {
+    "9anime": {
+      "510m": {
+        "createdAt": "2020-10-12T15:50:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2462,
+        "identifier": "510m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RAY THE ANIMATION",
+        "url": "https://9anime.to/watch/ray-the-animation.510m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Uq8YGVtxjCo/V9ZhAjINXrI/AAAAAAAA9kw/By46JhFr7AM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 919,
+        "aniId": 919,
+        "deletedAt": null
+      }
+    }
+  }
+}

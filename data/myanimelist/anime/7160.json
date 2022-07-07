@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-14T23:43:29.000Z",
+  "checkedAt": "2022-05-14T23:43:29.000Z",
+  "id": 7160,
+  "type": "anime",
+  "title": "Yoroshiku Mechadock",
+  "altTitle": [
+    "Yoroshiku Mecha Doc",
+    "What's Up Mechadoc",
+    "よろしくメカドック"
+  ],
+  "url": "https://myanimelist.net/anime/7160/Yoroshiku_Mechadock",
+  "image": "https://cdn.myanimelist.net/images/anime/7/16963.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works/archive/mecha_doc.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3051"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3213"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/よろしくメカドック"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3051,
+  "Pages": {
+    "9anime": {
+      "55wv": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2546,
+        "identifier": "55wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "What's Up Mechadoc",
+        "url": "https://9anime.to/watch/whats-up-mechadoc.55wv",
+        "image": "https://static.akacdn.ru/static/images/2018/04/d883ceca0cab791e014445aeccf0a865.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7160,
+        "aniId": 7160,
+        "deletedAt": null
+      },
+      "qoyn": {
+        "createdAt": "2020-10-12T15:55:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8491,
+        "identifier": "qoyn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "What's Up Mechadoc",
+        "url": "https://9anime.to/watch/whats-up-mechadoc.qoyn",
+        "image": "https://static.akacdn.ru/files/images/2019/11/714b92002d81b8f2df47dc3853d7c087.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7160,
+        "aniId": 7160,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yoroshiku-mechadock": {
+        "createdAt": "2020-10-12T16:02:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21547,
+        "identifier": "yoroshiku-mechadock",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yoroshiku Mechadock",
+        "url": "https://gogoanime.vc/category/yoroshiku-mechadock",
+        "image": "https://cdnimg.xyz/cover/yoroshiku-mechadock.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7160,
+        "aniId": 7160,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7160": {
+        "identifier": "7160",
+        "malId": 7160,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yoroshiku Mechadock",
+        "url": "https://animixplay.to/anime/7160"
+      }
+    },
+    "YugenAnime": {
+      "6659": {
+        "identifier": "6659",
+        "malId": 7160,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yoroshiku Mechadock",
+        "url": "https://yugen.to/anime/6659/yoroshiku-mechadock/"
+      }
+    }
+  }
+}

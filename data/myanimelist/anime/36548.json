@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T16:13:45.000Z",
+  "checkedAt": "2022-05-14T16:13:45.000Z",
+  "id": 36548,
+  "type": "anime",
+  "title": "Kokkoku",
+  "altTitle": [
+    "Kokkoku",
+    "刻刻"
+  ],
+  "url": "https://myanimelist.net/anime/36548/Kokkoku",
+  "image": "https://cdn.myanimelist.net/images/anime/8/89987.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kokkoku-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13513"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20205"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kokkoku:_Moment_by_Moment"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13513,
+  "Pages": {
+    "9anime": {
+      "2l64": {
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1390,
+        "identifier": "2l64",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kokkoku (Dub)",
+        "url": "https://9anime.to/watch/kokkoku-dub.2l64",
+        "image": "https://static.akacdn.ru/files/images/2019/11/ad6b76ab05bb885f04132aadbc37ca59.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36548,
+        "aniId": 100332,
+        "deletedAt": null
+      },
+      "5jmj": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2628,
+        "identifier": "5jmj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kokkoku",
+        "url": "https://9anime.to/watch/kokkoku.5jmj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BY-C5_cbnDM/WfAKdxWVMcI/AAAAAAAADXM/YgkGUECRMBcZ9hiEFtrokD-iN0V9s4-GwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36548,
+        "aniId": 100332,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kokkoku": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2022-06-14T03:03:32.000Z",
+        "checkedAt": "2022-06-14T03:03:32.000Z",
+        "id": 18922,
+        "identifier": "kokkoku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kokkoku",
+        "url": "https://gogoanime.sk/category/kokkoku",
+        "image": "https://gogocdn.net/cover/kokkoku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36548,
+        "aniId": 100332,
+        "deletedAt": null
+      },
+      "kokkoku-dub": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18923,
+        "identifier": "kokkoku-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kokkoku (Dub)",
+        "url": "https://gogoanime.vc/category/kokkoku-dub",
+        "image": "https://gogocdn.net/cover/kokkoku-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36548,
+        "aniId": 100332,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2433": {
+        "identifier": "2433",
+        "malId": 36548,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kokkoku",
+        "url": "https://animepahe.com/a/2433"
+      }
+    },
+    "AniMixPlay": {
+      "36548": {
+        "identifier": "36548",
+        "malId": 36548,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kokkoku",
+        "url": "https://animixplay.to/anime/36548"
+      }
+    },
+    "YugenAnime": {
+      "2367": {
+        "identifier": "2367",
+        "malId": 36548,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kokkoku",
+        "url": "https://yugen.to/anime/2367/kokkoku/"
+      }
+    }
+  }
+}

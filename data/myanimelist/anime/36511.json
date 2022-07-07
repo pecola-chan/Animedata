@@ -1,0 +1,164 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T16:22:23.000Z",
+  "checkedAt": "2022-05-14T16:22:23.000Z",
+  "id": 36511,
+  "type": "anime",
+  "title": "Tokyo Ghoul:re",
+  "altTitle": [
+    "Tokyo Kushu:re",
+    "Toukyou Kuushu:re",
+    "Tokyo Ghoul:re",
+    "東京喰種トーキョーグール：re"
+  ],
+  "url": "https://myanimelist.net/anime/36511/Tokyo_Ghoul_re",
+  "image": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.marv.jp/special/tokyoghoul/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13499"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20173"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokyo_Ghoul"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276013"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/series/Tokyo-Ghoul/series-884468"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13499,
+  "Pages": {
+    "9anime": {
+      "2yx0": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1600,
+        "identifier": "2yx0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Ghoul:re",
+        "url": "https://9anime.to/watch/tokyo-ghoulre.2yx0",
+        "image": "//static.9anime.to/i/cache/images/2018/04/84754de0d377add50b1e073bf8dc1273.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36511,
+        "aniId": 100240,
+        "deletedAt": null
+      },
+      "l97z": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5967,
+        "identifier": "l97z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Ghoul:re (Dub)",
+        "url": "https://9anime.to/watch/tokyo-ghoulre-dub.l97z",
+        "image": "//static.9anime.to/i/cache/images/2018/04/5b89f2cfba3e839cab135c71434ef556.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36511,
+        "aniId": 100240,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokyo-ghoulre": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21153,
+        "identifier": "tokyo-ghoulre",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Ghoul:re",
+        "url": "https://gogoanime.vc/category/tokyo-ghoulre",
+        "image": "https://images.gogoanime.tv/cover/tokyo-ghoulre.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36511,
+        "aniId": 100240,
+        "deletedAt": null
+      },
+      "tokyo-ghoulre-dub": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21156,
+        "identifier": "tokyo-ghoulre-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Ghoul:re (Dub)",
+        "url": "https://gogoanime.vc/category/tokyo-ghoulre-dub",
+        "image": "https://cdnimg.xyz/cover/tokyo-ghoulre-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36511,
+        "aniId": 100240,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2480": {
+        "identifier": "2480",
+        "malId": 36511,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tokyo Ghoul:re",
+        "url": "https://animepahe.com/a/2480"
+      }
+    },
+    "AniMixPlay": {
+      "36511": {
+        "identifier": "36511",
+        "malId": 36511,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo Ghoul:re",
+        "url": "https://animixplay.to/anime/36511"
+      }
+    },
+    "YugenAnime": {
+      "1759": {
+        "identifier": "1759",
+        "malId": 36511,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokyo Ghoul:re",
+        "url": "https://yugen.to/anime/1759/tokyo-ghoulre/"
+      }
+    }
+  }
+}

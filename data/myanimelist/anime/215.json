@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T20:40:11.000Z",
+  "checkedAt": "2022-05-14T20:40:11.000Z",
+  "id": 215,
+  "type": "anime",
+  "title": "Pia Carrot e Youkoso!! 2 DX",
+  "altTitle": [
+    "Pia Carrot 2 DX",
+    "Pia キャロット へ ようこそ!! 2 DX"
+  ],
+  "url": "https://myanimelist.net/anime/215/Pia_Carrot_e_Youkoso_2_DX",
+  "image": "https://cdn.myanimelist.net/images/anime/11/50781.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=566"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1096"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Welcome_to_Pia_Carrot#Welcome_to_Pia_Carrot_2"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/welcome-to-pia-carrot-2dx"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 566,
+  "Pages": {
+    "9anime": {
+      "r0mp": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8689,
+        "identifier": "r0mp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pia Carrot e Youkoso!! 2 DX",
+        "url": "https://9anime.to/watch/pia-carrot-e-youkoso-2-dx.r0mp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6RbXJiIY-vE/WHXAPFSfQUI/AAAAAAABYn0/4rCUOf8u7xo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 215,
+        "aniId": 215,
+        "deletedAt": null
+      }
+    }
+  }
+}

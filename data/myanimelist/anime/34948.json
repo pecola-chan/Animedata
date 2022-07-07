@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-01-20T15:08:26.000Z",
+  "updatedAt": "2022-05-15T01:11:41.000Z",
+  "checkedAt": "2022-05-15T01:11:41.000Z",
+  "id": 34948,
+  "type": "anime",
+  "title": "Hakuouki: Otogisoushi Special",
+  "altTitle": [
+    "Hakuouki: Otogisoushi Episode 11.5",
+    "薄桜鬼～御伽草子～ 特別篇"
+  ],
+  "url": "https://myanimelist.net/anime/34948/Hakuouki__Otogisoushi_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/2/84387.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hakuoki-otogi.com/episode/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11754"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17909"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%96%84%E6%A1%9C%E9%AC%BC_%E3%80%9C%E6%96%B0%E9%81%B8%E7%B5%84%E5%A5%87%E8%AD%9A%E3%80%9C#.E3.83.86.E3.83.AC.E3.83.93.E3.82.A2.E3.83.8B.E3.83.A1.EF.BC.88.E5.BE.A1.E4.BC.BD.E8.8D.89.E5.AD.90.EF.BC.89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11754,
+  "Pages": {
+    "9anime": {
+      "n3nnk": {
+        "createdAt": "2021-07-31T13:22:39.000Z",
+        "updatedAt": "2021-07-31T13:22:42.000Z",
+        "checkedAt": null,
+        "id": 38076,
+        "identifier": "n3nnk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hakuouki: Otogisoushi Special",
+        "url": "https://9anime.to/watch/hakuouki-otogisoushi-special.n3nnk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a6/a67541ce05e09af662880202a1f9b289.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34948,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3707": {
+        "identifier": "3707",
+        "malId": 34948,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hakuouki: Otogisoushi Special",
+        "url": "https://animepahe.com/a/3707"
+      }
+    }
+  }
+}

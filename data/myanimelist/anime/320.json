@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T19:42:47.000Z",
+  "checkedAt": "2022-05-14T19:42:47.000Z",
+  "id": 320,
+  "type": "anime",
+  "title": "A Kite",
+  "altTitle": [
+    "Kite",
+    "A KITE（カイト）"
+  ],
+  "url": "https://myanimelist.net/anime/320/A_Kite",
+  "image": "https://cdn.myanimelist.net/images/anime/1224/113092.jpg",
+  "category": "OVA",
+  "hentai": true,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=314"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=163"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kite_(1999_film)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 314,
+  "Pages": {
+    "9anime": {
+      "jyl8": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5098,
+        "identifier": "jyl8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kite",
+        "url": "https://9anime.to/watch/kite.jyl8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Y2OFgNLVb-Q/WldhhV48CpI/AAAAAAAADGk/B08TzApQZG05WW2jpaBXL0LMRCSxiLCmgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 320,
+        "aniId": 320,
+        "deletedAt": null
+      },
+      "orqy": {
+        "createdAt": "2020-10-12T15:54:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7660,
+        "identifier": "orqy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kite (Dub)",
+        "url": "https://9anime.to/watch/kite-dub.orqy",
+        "image": "https://static.akacdn.ru/static/images/2018/11/f7f56b72d33d761b7ea5c012e41c663c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 320,
+        "aniId": 320,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "320": {
+        "identifier": "320",
+        "malId": 320,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "A Kite",
+        "url": "https://animixplay.to/anime/320"
+      }
+    }
+  }
+}

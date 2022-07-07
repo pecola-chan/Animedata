@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-13T23:21:13.000Z",
+  "checkedAt": "2022-05-13T23:21:13.000Z",
+  "id": 31519,
+  "type": "anime",
+  "title": "Anitore! EX",
+  "altTitle": [
+    "Ani Tore! EX",
+    "Anime de Training! Ex",
+    "あにトレ！ＥＸ"
+  ],
+  "url": "https://myanimelist.net/anime/31519/Anitore_EX",
+  "image": "https://cdn.myanimelist.net/images/anime/3/77048.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-training.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11540"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17599"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ani_Tore!_EX"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268091"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11540,
+  "Pages": {
+    "9anime": {
+      "lx3": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6239,
+        "identifier": "lx3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anitore! EX",
+        "url": "https://9anime.to/watch/anitore-ex.lx3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-StY1qLqxF9c/V2vThoWsNhI/AAAAAAAAqU0/FMwpRs1UicI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31519,
+        "aniId": 21320,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "anitore-xx": {
+        "createdAt": "2020-10-23T00:29:08.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27777,
+        "identifier": "anitore-xx",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Anitore! XX",
+        "url": "https://gogoanime.vc/category/anitore-xx",
+        "image": "https://gogocdn.net/cover/anitore-xx.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31519,
+        "aniId": 21320,
+        "deletedAt": null
+      },
+      "ani-tore-ex": {
+        "createdAt": "2021-05-20T16:13:30.000Z",
+        "updatedAt": "2021-05-20T16:42:56.000Z",
+        "checkedAt": null,
+        "id": 37075,
+        "identifier": "ani-tore-ex",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ani Tore! EX",
+        "url": "https://gogoanime.vc/category/ani-tore-ex",
+        "image": "https://gogocdn.net/images/upload/75973.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31519,
+        "aniId": 21320,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1040": {
+        "identifier": "1040",
+        "malId": 31519,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Anitore! EX",
+        "url": "https://animepahe.com/a/1040"
+      }
+    },
+    "AniMixPlay": {
+      "31519": {
+        "identifier": "31519",
+        "malId": 31519,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Anitore! EX",
+        "url": "https://animixplay.to/anime/31519"
+      }
+    },
+    "YugenAnime": {
+      "1511": {
+        "identifier": "1511",
+        "malId": 31519,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Anitore! EX",
+        "url": "https://yugen.to/anime/1511/anitore-ex/"
+      }
+    }
+  }
+}

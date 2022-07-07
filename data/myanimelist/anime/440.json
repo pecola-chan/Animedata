@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T15:48:22.000Z",
+  "checkedAt": "2022-05-14T15:48:22.000Z",
+  "id": 440,
+  "type": "anime",
+  "title": "Shoujo Kakumei Utena",
+  "altTitle": [
+    "Shoujo Kakumei Utena",
+    "Revolutionary Girl Utena",
+    "少女革命ウテナ"
+  ],
+  "url": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
+  "image": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=287"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=207"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Revolutionary_Girl_Utena"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281990"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/revolutionary-girl-utena"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 287,
+  "Pages": {
+    "9anime": {
+      "0r8r": {
+        "createdAt": "2020-10-12T15:48:52.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 644,
+        "identifier": "0r8r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shoujo Kakumei Utena (Dub)",
+        "url": "https://9anime.to/watch/shoujo-kakumei-utena-dub.0r8r",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-thblCcUokfU/V6cB2ezXY7I/AAAAAAAA1AA/V4geoIB7kVE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 440,
+        "aniId": 440,
+        "deletedAt": null
+      },
+      "4z9o": {
+        "createdAt": "2020-10-12T15:50:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2449,
+        "identifier": "4z9o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://9anime.to/watch/shoujo-kakumei-utena.4z9o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-P6oZFEwzv38/WAO9mAhaVKI/AAAAAAABInE/FrImjb0Tmh8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 440,
+        "aniId": 440,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "revolutionary-girl-utena": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20278,
+        "identifier": "revolutionary-girl-utena",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Revolutionary Girl Utena",
+        "url": "https://gogoanime.vc/category/revolutionary-girl-utena",
+        "image": "https://images.gogoanime.tv/images/anime/R/revolutionary-girl-utena.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 440,
+        "aniId": 440,
+        "deletedAt": null
+      },
+      "shoujo-kakumei-utena-dub": {
+        "createdAt": "2020-10-12T16:01:53.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20670,
+        "identifier": "shoujo-kakumei-utena-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shoujo Kakumei Utena (Dub)",
+        "url": "https://gogoanime.vc/category/shoujo-kakumei-utena-dub",
+        "image": "https://images.gogoanime.tv/cover/shoujo-kakumei-utena-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 440,
+        "aniId": 440,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1889": {
+        "identifier": "1889",
+        "malId": 440,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://animepahe.com/a/1889"
+      }
+    },
+    "AniMixPlay": {
+      "440": {
+        "identifier": "440",
+        "malId": 440,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://animixplay.to/anime/440"
+      }
+    },
+    "YugenAnime": {
+      "6579": {
+        "identifier": "6579",
+        "malId": 440,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://yugen.to/anime/6579/shoujo-kakumei-utena/"
+      }
+    }
+  }
+}

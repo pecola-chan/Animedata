@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T21:14:05.000Z",
+  "checkedAt": "2022-05-14T21:14:05.000Z",
+  "id": 38400,
+  "type": "anime",
+  "title": "Free! Movie 4: The Final Stroke - Zenpen",
+  "altTitle": [
+    "Gekijouban Free! The Final Stroke Zenpen",
+    "劇場版 Free!-the Final Stroke-"
+  ],
+  "url": "https://myanimelist.net/anime/38400/Free_Movie_4__The_Final_Stroke_-_Zenpen",
+  "image": "https://cdn.myanimelist.net/images/anime/1450/117893.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://fs.iwatobi-sc.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14415"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24331"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Free!_(TV_series)#Films"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14415,
+  "Pages": {
+    "9anime": {
+      "2njq": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1432,
+        "identifier": "2njq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free! (2020)",
+        "url": "https://9anime.to/watch/free-2020.2njq",
+        "image": "https://static.akacdn.ru/files/images/2018/12/7030335259f003696aa972b916518cd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38400,
+        "aniId": 107203,
+        "deletedAt": null
+      },
+      "9k88": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4318,
+        "identifier": "9k88",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free! (Movie)",
+        "url": "https://9anime.to/watch/free-movie.9k88",
+        "image": "https://static.akacdn.ru/files/images/2020/08/2fad7e55f08c1bcb5f3846d76496c7f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38400,
+        "aniId": 107203,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4706": {
+        "identifier": "4706",
+        "malId": 38400,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Free! Movie 4: The Final Stroke - Zenpen",
+        "url": "https://animepahe.com/a/4706"
+      }
+    },
+    "AniMixPlay": {
+      "38400": {
+        "identifier": "38400",
+        "malId": 38400,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Free! Movie 4: The Final Stroke - Zenpen",
+        "url": "https://animixplay.to/anime/38400"
+      }
+    }
+  }
+}

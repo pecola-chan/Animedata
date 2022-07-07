@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T20:09:11.000Z",
+  "checkedAt": "2022-05-14T20:09:11.000Z",
+  "id": 33566,
+  "type": "anime",
+  "title": "Baki: Most Evil Death Row Convicts Special Anime",
+  "altTitle": [
+    "Baki OVA",
+    "バキ 最凶死刑囚編SP(スペシャル)アニメ"
+  ],
+  "url": "https://myanimelist.net/anime/33566/Baki__Most_Evil_Death_Row_Convicts_Special_Anime",
+  "image": "https://cdn.myanimelist.net/images/anime/7/82055.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://baki.akitashoten.co.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12258"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18746"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12258,
+  "Pages": {
+    "9anime": {
+      "l83z": {
+        "createdAt": "2020-10-12T15:53:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5937,
+        "identifier": "l83z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baki",
+        "url": "https://9anime.to/watch/baki.l83z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cfkiRmgOoYQ/V-4sygOaB0I/AAAAAAABCfc/Te8CtYablOY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33566,
+        "aniId": 87501,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2959": {
+        "identifier": "2959",
+        "malId": 33566,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Baki: Most Evil Death Row Convicts Special Anime",
+        "url": "https://animepahe.com/a/2959"
+      }
+    },
+    "AniMixPlay": {
+      "33566": {
+        "identifier": "33566",
+        "malId": 33566,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Baki: Most Evil Death Row Convicts Special Anime",
+        "url": "https://animixplay.to/anime/33566"
+      }
+    }
+  }
+}

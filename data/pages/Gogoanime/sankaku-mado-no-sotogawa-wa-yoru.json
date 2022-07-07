@@ -1,0 +1,90 @@
+{
+  "createdAt": "2021-10-03T14:32:22.000Z",
+  "updatedAt": "2021-10-03T15:00:52.000Z",
+  "checkedAt": null,
+  "id": 38837,
+  "identifier": "sankaku-mado-no-sotogawa-wa-yoru",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sankaku Mado no Sotogawa wa Yoru",
+  "url": "https://gogoanime.pe/category/sankaku-mado-no-sotogawa-wa-yoru",
+  "image": "https://gogocdn.net/cover/sankaku-mado-no-sotogawa-wa-yoru.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 44387,
+  "aniId": 126897,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-07-17T18:34:46.000Z",
+    "updatedAt": "2022-05-14T17:15:28.000Z",
+    "checkedAt": "2022-05-14T17:15:28.000Z",
+    "id": 44387,
+    "type": "anime",
+    "title": "Sankaku Mado no Sotogawa wa Yoru",
+    "altTitle": [
+      "The Night Beyond the Tricornered Window",
+      "さんかく窓の外側は夜"
+    ],
+    "url": "https://myanimelist.net/anime/44387/Sankaku_Mado_no_Sotogawa_wa_Yoru",
+    "image": "https://cdn.myanimelist.net/images/anime/1869/118766.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sankakumado-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15912"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23838"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Night_Beyond_the_Tricornered_Window#Anime"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-281912"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 15912
+  },
+  "Ani": {
+    "createdAt": "2021-06-30T20:20:02.000Z",
+    "updatedAt": "2022-05-15T13:23:59.000Z",
+    "checkedAt": "2022-05-15T13:23:59.000Z",
+    "id": 126897,
+    "type": "anime",
+    "title": "Sankaku Mado no Sotogawa wa Yoru",
+    "altTitle": [
+      "The Night Beyond the Tricornered Window",
+      "さんかく窓の外側は夜",
+      "คู่หูสามเหลี่ยมล่าปีศาจ"
+    ],
+    "url": "https://anilist.co/anime/126897",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126897-at1dtnI047XP.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GW4HM7PP7"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GW4HM7PP7"
+      }
+    ],
+    "malId": 44387,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T17:27:05.000Z",
+  "checkedAt": "2022-05-14T17:27:05.000Z",
+  "id": 34964,
+  "type": "anime",
+  "title": "Killing Bites",
+  "altTitle": [
+    "Killing Bites",
+    "キリングバイツ"
+  ],
+  "url": "https://myanimelist.net/anime/34964/Killing_Bites",
+  "image": "https://cdn.myanimelist.net/images/anime/13/90087.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://killingbites-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12888"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20213"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Killing_Bites"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12888,
+  "Pages": {
+    "9anime": {
+      "m527": {
+        "createdAt": "2020-10-12T15:53:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6408,
+        "identifier": "m527",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Killing Bites",
+        "url": "https://9anime.to/watch/killing-bites.m527",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1PVFNdYSU-g/WiqjwX7ZITI/AAAAAAAAByc/GudtZj5eNUItOj0x8JDmquqN2oylODCMQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34964,
+        "aniId": 98389,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "killing-bites": {
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18819,
+        "identifier": "killing-bites",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Killing Bites",
+        "url": "https://gogoanime.vc/category/killing-bites",
+        "image": "https://images.gogoanime.tv/cover/killing-bites.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34964,
+        "aniId": 98389,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2450": {
+        "identifier": "2450",
+        "malId": 34964,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Killing Bites",
+        "url": "https://animepahe.com/a/2450"
+      }
+    },
+    "AniMixPlay": {
+      "34964": {
+        "identifier": "34964",
+        "malId": 34964,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Killing Bites",
+        "url": "https://animixplay.to/anime/34964"
+      }
+    },
+    "YugenAnime": {
+      "659": {
+        "identifier": "659",
+        "malId": 34964,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Killing Bites",
+        "url": "https://yugen.to/anime/659/killing-bites/"
+      }
+    }
+  }
+}

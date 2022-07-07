@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T17:58:29.000Z",
+  "checkedAt": "2022-05-14T17:58:29.000Z",
+  "id": 5485,
+  "type": "anime",
+  "title": "Shin Mazinger Shougeki! Z-hen",
+  "altTitle": [
+    "Shin Mazinger Shogeki! Z-hen",
+    "True Mazinger",
+    "Z Mazinger",
+    "Mazinger Edition Z: The Impact!",
+    "Ｚマジンガー; 真マジンガー 衝撃！Z編"
+  ],
+  "url": "https://myanimelist.net/anime/5485/Shin_Mazinger_Shougeki_Z-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shin-mazinger.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6397"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10653"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mazinger_Edition_Z:_The_Impact!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270039"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6397,
+  "Pages": {
+    "9anime": {
+      "vqol": {
+        "createdAt": "2020-10-12T15:55:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9431,
+        "identifier": "vqol",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Mazinger Shougeki! Z-hen",
+        "url": "https://9anime.to/watch/shin-mazinger-shougeki-z-hen.vqol",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WRY15o93AiU/V76Cn76XO3I/AAAAAAAA5No/vJGywDH2Zps/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5485,
+        "aniId": 5485,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5485": {
+        "identifier": "5485",
+        "malId": 5485,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shin Mazinger Shougeki! Z-hen",
+        "url": "https://animixplay.to/anime/5485"
+      }
+    },
+    "YugenAnime": {
+      "3807": {
+        "identifier": "3807",
+        "malId": 5485,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shin Mazinger Shougeki! Z-hen",
+        "url": "https://yugen.to/anime/3807/shin-mazinger-shougeki-z-hen/"
+      }
+    }
+  }
+}

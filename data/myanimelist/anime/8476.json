@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-14T19:40:53.000Z",
+  "checkedAt": "2022-05-14T19:40:53.000Z",
+  "id": 8476,
+  "type": "anime",
+  "title": "Otome Youkai Zakuro",
+  "altTitle": [
+    "Girl Demon Zakuro",
+    "Zakuro",
+    "おとめ妖怪 ざくろ"
+  ],
+  "url": "https://myanimelist.net/anime/8476/Otome_Youkai_Zakuro",
+  "image": "https://cdn.myanimelist.net/images/anime/5/85430.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.otome-zakuro.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7512"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11509"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Otome_Yōkai_Zakuro"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-220642"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/zakuro"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7512,
+  "Pages": {
+    "9anime": {
+      "lxlz": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6250,
+        "identifier": "lxlz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otome Youkai Zakuro",
+        "url": "https://9anime.to/watch/otome-youkai-zakuro.lxlz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FuNgb5vxM2o/V7XhG6ZnftI/AAAAAAAA3-M/Lc8gGPN8yTE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8476,
+        "aniId": 8476,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "otome-youkai-zakuro": {
+        "createdAt": "2020-12-19T17:55:03.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30646,
+        "identifier": "otome-youkai-zakuro",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Otome Youkai Zakuro",
+        "url": "https://gogoanime.vc/category/otome-youkai-zakuro",
+        "image": "https://gogocdn.net/images/anime/O/otome-yokai-zakuro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8476,
+        "aniId": 8476,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8476": {
+        "identifier": "8476",
+        "malId": 8476,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Otome Youkai Zakuro",
+        "url": "https://animixplay.to/anime/8476"
+      }
+    },
+    "YugenAnime": {
+      "3793": {
+        "identifier": "3793",
+        "malId": 8476,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Otome Youkai Zakuro",
+        "url": "https://yugen.to/anime/3793/otome-youkai-zakuro/"
+      }
+    }
+  }
+}

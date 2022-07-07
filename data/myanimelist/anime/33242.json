@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T21:29:29.000Z",
+  "checkedAt": "2022-05-14T21:29:29.000Z",
+  "id": 33242,
+  "type": "anime",
+  "title": "IS: Infinite Stratos 2 - Infinite Wedding",
+  "altTitle": [
+    "IS〈インフィニット・ストラトス〉2 インフィニット・ウエディング"
+  ],
+  "url": "https://myanimelist.net/anime/33242/IS__Infinite_Stratos_2_-_Infinite_Wedding",
+  "image": "https://cdn.myanimelist.net/images/anime/1323/108709.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/is2/disc/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9849"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Infinite_Stratos"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9849,
+  "Pages": {
+    "9anime": {
+      "o6p8": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7419,
+        "identifier": "o6p8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "IS: Infinite Stratos 2 - Infinite Wedding",
+        "url": "https://9anime.to/watch/is-infinite-stratos-2-infinite-wedding.o6p8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6EYMySUHDa4/WGvdGc-i9CI/AAAAAAABWhc/baP1w_W-PJA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33242,
+        "aniId": 98860,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2655": {
+        "identifier": "2655",
+        "malId": 33242,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "IS: Infinite Stratos 2 - Infinite Wedding",
+        "url": "https://animepahe.com/a/2655"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T17:39:17.000Z",
+  "checkedAt": "2022-05-14T17:39:17.000Z",
+  "id": 119,
+  "type": "anime",
+  "title": "Final Approach",
+  "altTitle": [
+    "φなる・あぷろーち"
+  ],
+  "url": "https://myanimelist.net/anime/119/Final_Approach",
+  "image": "https://cdn.myanimelist.net/images/anime/11/14607.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.trinet-ent.com/princess_hour/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2372"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4542"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Final_Approach_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2372,
+  "Pages": {
+    "9anime": {
+      "1q0v": {
+        "createdAt": "2020-10-12T15:49:16.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1070,
+        "identifier": "1q0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Final Approach",
+        "url": "https://9anime.to/watch/final-approach.1q0v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vS0f_ax75wU/V7Ma1xNFYAI/AAAAAAAA3jo/5f8qmoVLblA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 119,
+        "aniId": 119,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "final-approach": {
+        "createdAt": "2021-10-21T19:18:04.000Z",
+        "updatedAt": "2021-10-21T19:47:20.000Z",
+        "checkedAt": null,
+        "id": 39080,
+        "identifier": "final-approach",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Final Approach",
+        "url": "https://gogoanime.pe/category/final-approach",
+        "image": "https://gogocdn.net/images/anime/F/final-approach.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 119,
+        "aniId": 119,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "119": {
+        "identifier": "119",
+        "malId": 119,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Final Approach",
+        "url": "https://animixplay.to/anime/119"
+      }
+    },
+    "YugenAnime": {
+      "416": {
+        "identifier": "416",
+        "malId": 119,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Final Approach",
+        "url": "https://yugen.to/anime/416/final-approach/"
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-15T15:24:44.000Z",
+  "checkedAt": "2022-05-15T15:24:44.000Z",
+  "id": 507,
+  "type": "anime",
+  "title": "Gravitation: Lyrics of Love",
+  "altTitle": [
+    "グラビテーション"
+  ],
+  "url": "https://myanimelist.net/anime/507/Gravitation__Lyrics_of_Love",
+  "image": "https://cdn.myanimelist.net/images/anime/1656/94257.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=371"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=625"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/gravitation-lyrics-of-love"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 371,
+  "Pages": {
+    "9anime": {
+      "0787": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 359,
+        "identifier": "0787",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gravitation: Lyrics of Love",
+        "url": "https://9anime.to/watch/gravitation-lyrics-of-love.0787",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MmxWnyU-cn0/WZeMTjIiBjI/AAAAAAAACS8/JIdadgb7l_MzwH__7uWN5vQx-ReGhnJoACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 507,
+        "aniId": 507,
+        "deletedAt": null
+      },
+      "1j5x": {
+        "createdAt": "2020-10-12T15:49:12.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 946,
+        "identifier": "1j5x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gravitation: Lyrics of Love (Dub)",
+        "url": "https://9anime.to/watch/gravitation-lyrics-of-love-dub.1j5x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0yk8A9k44h4/WZeOotA-UFI/AAAAAAAACTI/C2w3FUUAOVsYZRmLML7Oa4FZRj3pooeIACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 507,
+        "aniId": 507,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gravitation-ova": {
+        "createdAt": "2021-12-27T11:41:38.000Z",
+        "updatedAt": "2021-12-27T18:53:27.000Z",
+        "checkedAt": null,
+        "id": 39590,
+        "identifier": "gravitation-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gravitation OVA",
+        "url": "https://gogoanime.cm/category/gravitation-ova",
+        "image": "https://gogocdn.net/images/anime/G/gravitation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 507,
+        "aniId": 507,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "507": {
+        "identifier": "507",
+        "malId": 507,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gravitation: Lyrics of Love",
+        "url": "https://animixplay.to/anime/507"
+      }
+    },
+    "YugenAnime": {
+      "931": {
+        "identifier": "931",
+        "malId": 507,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gravitation: Lyrics of Love",
+        "url": "https://yugen.to/anime/931/gravitation-lyrics-of-love/"
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T21:18:59.000Z",
+  "checkedAt": "2022-05-14T21:18:59.000Z",
+  "id": 38422,
+  "type": "anime",
+  "title": "High Score Girl: Extra Stage",
+  "altTitle": [
+    "High Score Girl OVA",
+    "ハイスコアガール EXTRA STAGE"
+  ],
+  "url": "https://myanimelist.net/anime/38422/High_Score_Girl__Extra_Stage",
+  "image": "https://cdn.myanimelist.net/images/anime/1057/111384.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hi-score-girl.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14418"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High_Score_Girl"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14418,
+  "Pages": {
+    "9anime": {
+      "loz3": {
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6153,
+        "identifier": "loz3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High Score Girl: Extra Stage",
+        "url": "https://9anime.to/watch/high-score-girl-extra-stage.loz3",
+        "image": "https://static.akacdn.ru/static/images/2019/03/cc0b8f259493cff94bb2c22a0733ae99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38422,
+        "aniId": 104307,
+        "deletedAt": null
+      },
+      "nq1k": {
+        "createdAt": "2020-10-12T15:53:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7195,
+        "identifier": "nq1k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High Score Girl: Extra Stage (Dub)",
+        "url": "https://9anime.to/watch/high-score-girl-extra-stage-dub.nq1k",
+        "image": "https://static.akacdn.ru/static/images/2019/03/e73026ab7f8259a9b1dd46e3f0ecf2ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38422,
+        "aniId": 104307,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "high-score-girl-extra-stage": {
+        "createdAt": "2020-10-12T16:00:43.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18294,
+        "identifier": "high-score-girl-extra-stage",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "High Score Girl: Extra Stage",
+        "url": "https://gogoanime.vc/category/high-score-girl-extra-stage",
+        "image": "https://cdnimg.xyz/cover/high-score-girl-extra-stage.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38422,
+        "aniId": 104307,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3229": {
+        "identifier": "3229",
+        "malId": 38422,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "High Score Girl: Extra Stage",
+        "url": "https://animepahe.com/a/3229"
+      }
+    },
+    "AniMixPlay": {
+      "38422": {
+        "identifier": "38422",
+        "malId": 38422,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "High Score Girl: Extra Stage",
+        "url": "https://animixplay.to/anime/38422"
+      }
+    },
+    "YugenAnime": {
+      "3715": {
+        "identifier": "3715",
+        "malId": 38422,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "High Score Girl: Extra Stage",
+        "url": "https://yugen.to/anime/3715/high-score-girl-extra-stage/"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T04:55:47.000Z",
+  "checkedAt": "2022-05-15T04:55:47.000Z",
+  "id": 3375,
+  "type": "anime",
+  "title": "Kirepapa.",
+  "altTitle": [
+    "Kire Papa",
+    "キレパパ。"
+  ],
+  "url": "https://myanimelist.net/anime/3375/Kirepapa",
+  "image": "https://cdn.myanimelist.net/images/anime/8/31421.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.primetime.gs/product/papa.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5676"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9190"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AC%E3%83%91%E3%83%91%E3%80%82"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5676,
+  "Pages": {
+    "9anime": {
+      "wk9l": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9784,
+        "identifier": "wk9l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kirepapa.",
+        "url": "https://9anime.to/watch/kirepapa.wk9l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7NRbrzvzWYU/WFaASKVlRLI/AAAAAAABTZs/aMJp3iF0Cmc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3375,
+        "aniId": 3375,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kirepapa": {
+        "createdAt": "2020-10-12T16:01:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18874,
+        "identifier": "kirepapa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kirepapa",
+        "url": "https://gogoanime.vc/category/kirepapa",
+        "image": "https://gogocdn.net/images/anime/K/Kirepapa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3375,
+        "aniId": 3375,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3375": {
+        "identifier": "3375",
+        "malId": 3375,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kirepapa.",
+        "url": "https://animixplay.to/anime/3375"
+      }
+    },
+    "YugenAnime": {
+      "398": {
+        "identifier": "398",
+        "malId": 3375,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kirepapa.",
+        "url": "https://yugen.to/anime/398/kirepapa/"
+      }
+    }
+  }
+}

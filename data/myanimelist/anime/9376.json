@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T11:00:57.000Z",
+  "checkedAt": "2022-05-15T11:00:57.000Z",
+  "id": 9376,
+  "type": "anime",
+  "title": "Yamato Takeru: After War",
+  "altTitle": [
+    "Maxbot: After War",
+    "ヤマトタケル ～After War～"
+  ],
+  "url": "https://myanimelist.net/anime/9376/Yamato_Takeru__After_War",
+  "image": "https://cdn.myanimelist.net/images/anime/1240/96605.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/yamatotakeru_afterwar_ova.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2312"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3171"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yamato_Takeru_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2312,
+  "Pages": {
+    "9anime": {
+      "j3x8": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4670,
+        "identifier": "j3x8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yamato Takeru: After War",
+        "url": "https://9anime.to/watch/yamato-takeru-after-war.j3x8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-f0I5jpTAjx0/WA9PoiFum0I/AAAAAAABLHA/XMAS6zMxeSU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9376,
+        "aniId": 9376,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4399": {
+        "identifier": "4399",
+        "malId": 9376,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yamato Takeru: After War",
+        "url": "https://animepahe.com/a/4399"
+      }
+    }
+  }
+}

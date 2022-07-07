@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-15T00:21:11.000Z",
+  "checkedAt": "2022-05-15T00:21:11.000Z",
+  "id": 10690,
+  "type": "anime",
+  "title": "Magic Tree House",
+  "altTitle": [
+    "マジック・ツリーハウス"
+  ],
+  "url": "https://myanimelist.net/anime/10690/Magic_Tree_House",
+  "image": "https://cdn.myanimelist.net/images/anime/5/34487.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://magictreehouse.jp/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8318"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12584"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/マジック・ツリーハウス#.E6.98.A0.E7.94.BB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8318,
+  "Pages": {
+    "9anime": {
+      "l96q": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5966,
+        "identifier": "l96q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Magic Tree House",
+        "url": "https://9anime.to/watch/magic-tree-house.l96q",
+        "image": "https://static.akacdn.ru/static/images/2018/03/1776aee95855f91516d1eeedfffc8b77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10690,
+        "aniId": 10690,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "magic-tree-house": {
+        "createdAt": "2020-11-17T08:15:26.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29306,
+        "identifier": "magic-tree-house",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Magic Tree House",
+        "url": "https://gogoanime.vc/category/magic-tree-house",
+        "image": "https://gogocdn.net/images/anime/M/Magic-Tree-House.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10690,
+        "aniId": 10690,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10690": {
+        "identifier": "10690",
+        "malId": 10690,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Magic Tree House",
+        "url": "https://animixplay.to/anime/10690"
+      }
+    },
+    "YugenAnime": {
+      "5300": {
+        "identifier": "5300",
+        "malId": 10690,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Magic Tree House",
+        "url": "https://yugen.to/anime/5300/magic-tree-house/"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-15T00:56:05.000Z",
+  "checkedAt": "2022-05-15T00:56:05.000Z",
+  "id": 7549,
+  "type": "anime",
+  "title": "Quiz Magic Academy: The Original Animation 2",
+  "altTitle": [
+    "QMA",
+    "クイズマジックアカデミー ～オリジナルアニメーション2～"
+  ],
+  "url": "https://myanimelist.net/anime/7549/Quiz_Magic_Academy__The_Original_Animation_2",
+  "image": "https://cdn.myanimelist.net/images/anime/11/27241.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.konami.jp/products/qma_ova/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7255"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11494"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7255,
+  "Pages": {
+    "9anime": {
+      "780y": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3391,
+        "identifier": "780y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Quiz Magic Academy: The Original Animation 2",
+        "url": "https://9anime.to/watch/quiz-magic-academy-the-original-animation-2.780y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-y2oljBI9IKw/WNuQF4TNiJI/AAAAAAAAd-8/WY6pu5GPN6Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7549,
+        "aniId": 7549,
+        "deletedAt": null
+      }
+    }
+  }
+}

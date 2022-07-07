@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T09:37:59.000Z",
+  "checkedAt": "2022-05-14T09:37:59.000Z",
+  "id": 41619,
+  "type": "anime",
+  "title": "Munou na Nana",
+  "altTitle": [
+    "Talentless Nana",
+    "無能なナナ"
+  ],
+  "url": "https://myanimelist.net/anime/41619/Munou_na_Nana",
+  "image": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://munounanana.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15492"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23497"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Talentless_Nana#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/talentless-nana"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15492,
+  "Pages": {
+    "9anime": {
+      "ny6j": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7296,
+        "identifier": "ny6j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Munou na Nana",
+        "url": "https://9anime.to/watch/munou-na-nana.ny6j",
+        "image": "//static.9anime.to/i/cache/images/5/5b/5b6ace8a814e4f064f8a6a805fd2684e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41619,
+        "aniId": 117343,
+        "deletedAt": null
+      },
+      "kww89": {
+        "createdAt": "2021-11-21T16:13:19.000Z",
+        "updatedAt": "2021-11-21T16:42:37.000Z",
+        "checkedAt": null,
+        "id": 39265,
+        "identifier": "kww89",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Munou na Nana (Dub)",
+        "url": "https://9anime.to/watch/talentless-nana-dub.kww89",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0d/0d3f125fb17b3380bd3b993b82212262.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41619,
+        "aniId": 117343,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "munou-na-nana": {
+        "createdAt": "2020-10-12T17:54:38.000Z",
+        "updatedAt": "2022-06-14T02:32:34.000Z",
+        "checkedAt": "2022-06-14T02:32:34.000Z",
+        "id": 23722,
+        "identifier": "munou-na-nana",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Munou na Nana",
+        "url": "https://gogoanime.sk/category/munou-na-nana",
+        "image": "https://gogocdn.net/cover/munou-na-nana.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41619,
+        "aniId": 117343,
+        "deletedAt": null
+      },
+      "munou-na-nana-dub": {
+        "createdAt": "2021-11-22T15:44:30.000Z",
+        "updatedAt": "2021-11-22T16:12:37.000Z",
+        "checkedAt": null,
+        "id": 39276,
+        "identifier": "munou-na-nana-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Munou na Nana (Dub)",
+        "url": "https://gogoanime.cm/category/munou-na-nana-dub",
+        "image": "https://gogocdn.net/cover/munou-na-nana-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41619,
+        "aniId": 117343,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4093": {
+        "identifier": "4093",
+        "malId": 41619,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Munou na Nana",
+        "url": "https://animepahe.com/a/4093"
+      }
+    },
+    "AniMixPlay": {
+      "41619": {
+        "identifier": "41619",
+        "malId": 41619,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Munou na Nana",
+        "url": "https://animixplay.to/anime/41619"
+      }
+    },
+    "YugenAnime": {
+      "6455": {
+        "identifier": "6455",
+        "malId": 41619,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Munou na Nana",
+        "url": "https://yugen.to/anime/6455/munou-na-nana/"
+      }
+    }
+  }
+}

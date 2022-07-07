@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T22:46:58.000Z",
+  "checkedAt": "2022-05-14T22:46:58.000Z",
+  "id": 4205,
+  "type": "anime",
+  "title": "KimiKiss Pure Rouge: Love Fighter",
+  "altTitle": [
+    "Kimi-kiss pure rouge",
+    "KimiKiss Pure Rouge Special",
+    "キミキス pure rouge"
+  ],
+  "url": "https://myanimelist.net/anime/4205/KimiKiss_Pure_Rouge__Love_Fighter",
+  "image": "https://cdn.myanimelist.net/images/anime/13/27833.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kimikiss-pure-rouge.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5276"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/KimiKiss"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5276,
+  "Pages": {
+    "9anime": {
+      "yqv0": {
+        "createdAt": "2020-10-12T15:56:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10826,
+        "identifier": "yqv0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimikiss Pure Rouge Special",
+        "url": "https://9anime.to/watch/kimikiss-pure-rouge-special.yqv0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pXiXO9WsLdM/V45gE0VP_8I/AAAAAAAAwdo/Fjnzyg2vuFs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4205,
+        "aniId": 4205,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4143": {
+        "identifier": "4143",
+        "malId": 4205,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "KimiKiss Pure Rouge: Love Fighter",
+        "url": "https://animepahe.com/a/4143"
+      }
+    }
+  }
+}

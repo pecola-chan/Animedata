@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-14T22:56:34.000Z",
+  "checkedAt": "2022-05-14T22:56:34.000Z",
+  "id": 6438,
+  "type": "anime",
+  "title": "Detective Conan OVA 09: The Stranger in 10 Years...",
+  "altTitle": [
+    "Meitantei Conan: 10 Nengo no Stranger",
+    "名探偵コナン～10年後の異邦人[ストレンジャー]～"
+  ],
+  "url": "https://myanimelist.net/anime/6438/Detective_Conan_OVA_09__The_Stranger_in_10_Years",
+  "image": "https://cdn.myanimelist.net/images/anime/5/14746.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6650"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Case_Closed"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6650,
+  "Pages": {
+    "9anime": {
+      "l64z": {
+        "createdAt": "2020-10-12T15:53:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5882,
+        "identifier": "l64z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Detective Conan OVA 09: The Stranger in 10 Years...",
+        "url": "https://9anime.to/watch/detective-conan-ova-09-the-stranger-in-10-years.l64z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ltbKpReZIYo/WGIXhK1ogfI/AAAAAAABVCA/NabqSb8lo2k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6438,
+        "aniId": 6438,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6438": {
+        "identifier": "6438",
+        "malId": 6438,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Detective Conan OVA 09: The Stranger in 10 Years...",
+        "url": "https://animixplay.to/anime/6438"
+      }
+    }
+  }
+}

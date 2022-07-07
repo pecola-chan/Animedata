@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T09:36:22.000Z",
+  "checkedAt": "2022-05-14T09:36:22.000Z",
+  "id": 20689,
+  "type": "anime",
+  "title": "Hamatora The Animation",
+  "altTitle": [
+    "Hamatora The Animation",
+    "ハマトラ THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/20689/Hamatora_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/13/75653.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hamatorapj.com/animation.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10169"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15752"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hamatora"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-258775"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/hamatora-the-animation"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10169,
+  "Pages": {
+    "9anime": {
+      "k3mw": {
+        "createdAt": "2020-10-12T15:52:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5237,
+        "identifier": "k3mw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hamatora The Animation",
+        "url": "https://9anime.to/watch/hamatora-the-animation.k3mw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-938WqLKcleo/V6wZV8t96xI/AAAAAAAA2P8/ik0RY9PDDd8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20689,
+        "aniId": 20521,
+        "deletedAt": null
+      },
+      "k5jr": {
+        "createdAt": "2020-10-12T15:52:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5290,
+        "identifier": "k5jr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zenonzard The Animation",
+        "url": "https://9anime.to/watch/zenonzard-the-animation.k5jr",
+        "image": "https://static.akacdn.ru/files/images/2019/09/9bb586dc67610ec6daae13e046efbb90.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20689,
+        "aniId": 20521,
+        "deletedAt": null
+      },
+      "ooq8": {
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7592,
+        "identifier": "ooq8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hamatora The Animation (Dub)",
+        "url": "https://9anime.to/watch/hamatora-the-animation-dub.ooq8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qlEkZCGaTs4/V6CmkeCsL2I/AAAAAAAAz3A/rUqc-4rYFDY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20689,
+        "aniId": 20521,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hamatora": {
+        "createdAt": "2020-10-12T16:00:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18143,
+        "identifier": "hamatora",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hamatora",
+        "url": "https://gogoanime.vc/category/hamatora",
+        "image": "https://cdnimg.xyz/images/Hamatora.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20689,
+        "aniId": 20521,
+        "deletedAt": null
+      },
+      "hamatora-the-animation-dub": {
+        "createdAt": "2020-10-12T16:00:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18144,
+        "identifier": "hamatora-the-animation-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hamatora The Animation (Dub)",
+        "url": "https://gogoanime.vc/category/hamatora-the-animation-dub",
+        "image": "https://cdnimg.xyz/cover/hamatora-the-animation-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20689,
+        "aniId": 20521,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1087": {
+        "identifier": "1087",
+        "malId": 20689,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hamatora The Animation",
+        "url": "https://animepahe.com/a/1087"
+      }
+    },
+    "AniMixPlay": {
+      "20689": {
+        "identifier": "20689",
+        "malId": 20689,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hamatora The Animation",
+        "url": "https://animixplay.to/anime/20689"
+      }
+    },
+    "YugenAnime": {
+      "6157": {
+        "identifier": "6157",
+        "malId": 20689,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hamatora The Animation",
+        "url": "https://yugen.to/anime/6157/hamatora-the-animation/"
+      }
+    }
+  }
+}

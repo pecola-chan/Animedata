@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-14T16:26:35.000Z",
+  "checkedAt": "2022-05-14T16:26:35.000Z",
+  "id": 2608,
+  "type": "anime",
+  "title": "Wangan Midnight",
+  "altTitle": [
+    "湾岸ミッドナイト"
+  ],
+  "url": "https://myanimelist.net/anime/2608/Wangan_Midnight",
+  "image": "https://cdn.myanimelist.net/images/anime/11/12936.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ppvj.co.jp/anime/0706wanganmidnight"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5088"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7646"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5088,
+  "Pages": {
+    "9anime": {
+      "nk5m": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2022-06-14T01:01:16.000Z",
+        "checkedAt": "2022-06-14T01:01:16.000Z",
+        "id": 7083,
+        "identifier": "nk5m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wangan Midnight",
+        "url": "https://9anime.to/watch/wangan-midnight.nk5m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/48f1b9b28cdf13a08c093b5d1eae68ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2608,
+        "aniId": 2608,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wangan-midnight": {
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21402,
+        "identifier": "wangan-midnight",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wangan Midnight",
+        "url": "https://gogoanime.vc/category/wangan-midnight",
+        "image": "https://cdnimg.xyz/images/anime/W/wangan-midnight.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2608,
+        "aniId": 2608,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2187": {
+        "identifier": "2187",
+        "malId": 2608,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Wangan Midnight",
+        "url": "https://animepahe.com/a/2187"
+      }
+    },
+    "AniMixPlay": {
+      "2608": {
+        "identifier": "2608",
+        "malId": 2608,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wangan Midnight",
+        "url": "https://animixplay.to/anime/2608"
+      }
+    },
+    "YugenAnime": {
+      "1112": {
+        "identifier": "1112",
+        "malId": 2608,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wangan Midnight",
+        "url": "https://yugen.to/anime/1112/wangan-midnight/"
+      }
+    }
+  }
+}

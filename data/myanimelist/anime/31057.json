@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-15T15:41:51.000Z",
+  "checkedAt": "2022-05-15T15:41:51.000Z",
+  "id": 31057,
+  "type": "anime",
+  "title": "Onaka Hime",
+  "altTitle": [
+    "Stomach Princess",
+    "Princess Onaka",
+    "おなか姫"
+  ],
+  "url": "https://myanimelist.net/anime/31057/Onaka_Hime",
+  "image": "https://cdn.myanimelist.net/images/anime/9/74638.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bifix.jp/project/onakahime/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "pxv4": {
+        "createdAt": "2020-10-12T15:54:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8177,
+        "identifier": "pxv4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Princess Onaka",
+        "url": "https://9anime.to/watch/princess-onaka.pxv4",
+        "image": "http://static.akacdn.ru/static/images/2018/08/e82a6f4c9e32ff283bdd6e7b4e4eb95e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31057,
+        "aniId": 103714,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "onaka-hime": {
+        "createdAt": "2021-08-07T09:21:00.000Z",
+        "updatedAt": "2021-08-07T09:47:39.000Z",
+        "checkedAt": null,
+        "id": 38169,
+        "identifier": "onaka-hime",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Onaka Hime",
+        "url": "https://gogoanime.pe/category/onaka-hime",
+        "image": "https://gogocdn.net/cover/onaka-hime.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31057,
+        "aniId": 103714,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "31057": {
+        "identifier": "31057",
+        "malId": 31057,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Onaka Hime",
+        "url": "https://animixplay.to/anime/31057"
+      }
+    },
+    "YugenAnime": {
+      "9586": {
+        "identifier": "9586",
+        "malId": 31057,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Onaka Hime",
+        "url": "https://yugen.to/anime/9586/onaka-hime/"
+      }
+    }
+  }
+}

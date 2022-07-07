@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:01:41.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20253,
+  "identifier": "red-baron",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Red Baron",
+  "url": "https://gogoanime.vc/category/red-baron",
+  "image": "https://cdnimg.xyz/cover/red-baron.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2283,
+  "aniId": 2283,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-15T07:17:40.000Z",
+    "checkedAt": "2022-05-15T07:17:40.000Z",
+    "id": 2283,
+    "type": "anime",
+    "title": "Red Baron",
+    "altTitle": [
+      "レッドバロン"
+    ],
+    "url": "https://myanimelist.net/anime/2283/Red_Baron",
+    "image": "https://cdn.myanimelist.net/images/anime/1596/103314.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/old/tv/data/t_redbaron.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1818"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2614"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Red_Baron_%28anime%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1818
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2022-05-15T19:34:35.000Z",
+    "checkedAt": "2022-05-15T19:34:35.000Z",
+    "id": 2283,
+    "type": "anime",
+    "title": "Red Baron",
+    "altTitle": [
+      "レッドバロン",
+      "Metal Fighter Red Baron",
+      "El Barón Rojo",
+      "Barão Vermelho"
+    ],
+    "url": "https://anilist.co/anime/2283",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2283-bAqkdMy9J9fc.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2283,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T10:07:16.000Z",
+  "checkedAt": "2022-05-14T10:07:16.000Z",
+  "id": 41389,
+  "type": "anime",
+  "title": "Tonikaku Kawaii",
+  "altTitle": [
+    "Generally Cute",
+    "Fly Me to the Moon",
+    "TONIKAWA: Over the Moon For You",
+    "トニカクカワイイ"
+  ],
+  "url": "https://myanimelist.net/anime/41389/Tonikaku_Kawaii",
+  "image": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tonikawa.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15421"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23503"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga)#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279974"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15421,
+  "Pages": {
+    "9anime": {
+      "lw16": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6210,
+        "identifier": "lw16",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tonikaku Kawaii",
+        "url": "https://9anime.to/watch/tonikawa-over-the-moon-for-you.lw16",
+        "image": "//static.9anime.to/i/cache/images/e/e5/e5a9b92f7a68ad169b932306a7014c76.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41389,
+        "aniId": 116267,
+        "deletedAt": null
+      },
+      "wlpo": {
+        "createdAt": "2020-12-09T13:48:18.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29802,
+        "identifier": "wlpo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tonikaku Kawaii (Dub)",
+        "url": "https://9anime.to/watch/tonikawa-over-the-moon-for-you-dub.wlpo",
+        "image": "//static.9anime.to/i/cache/images/a/af/af67bf547a977a1ec6267dead7d8b246.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41389,
+        "aniId": 116267,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tonikaku-kawaii": {
+        "createdAt": "2020-10-12T17:53:18.000Z",
+        "updatedAt": "2021-10-16T14:28:45.000Z",
+        "checkedAt": null,
+        "id": 23701,
+        "identifier": "tonikaku-kawaii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tonikaku Kawaii",
+        "url": "https://gogoanime.pe/category/tonikaku-kawaii",
+        "image": "https://gogocdn.net/cover/tonikaku-kawaii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41389,
+        "aniId": 116267,
+        "deletedAt": null
+      },
+      "tonikaku-kawaii-dub": {
+        "createdAt": "2020-11-21T04:49:44.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29474,
+        "identifier": "tonikaku-kawaii-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tonikaku Kawaii (Dub)",
+        "url": "https://gogoanime.vc/category/tonikaku-kawaii-dub",
+        "image": "https://gogocdn.net/cover/tonikaku-kawaii-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41389,
+        "aniId": 116267,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4074": {
+        "identifier": "4074",
+        "malId": 41389,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tonikaku Kawaii",
+        "url": "https://animepahe.com/a/4074"
+      }
+    },
+    "AniMixPlay": {
+      "41389": {
+        "identifier": "41389",
+        "malId": 41389,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tonikaku Kawaii",
+        "url": "https://animixplay.to/anime/41389"
+      }
+    },
+    "YugenAnime": {
+      "6839": {
+        "identifier": "6839",
+        "malId": 41389,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tonikaku Kawaii",
+        "url": "https://yugen.to/anime/6839/tonikaku-kawaii/"
+      }
+    }
+  }
+}

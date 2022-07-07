@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-14T17:11:14.000Z",
+  "checkedAt": "2022-05-14T17:11:14.000Z",
+  "id": 10808,
+  "type": "anime",
+  "title": "Mobile Suit Gundam AGE",
+  "altTitle": [
+    "Kidou Senshi Gundam AGE",
+    "機動戦士ガンダムAGE"
+  ],
+  "url": "https://myanimelist.net/anime/10808/Mobile_Suit_Gundam_AGE",
+  "image": "https://cdn.myanimelist.net/images/anime/12/42535.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gundam-age.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8494"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13012"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_AGE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8494,
+  "Pages": {
+    "9anime": {
+      "6lp4": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3063,
+        "identifier": "6lp4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam AGE",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-age.6lp4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NRAy7oBtLj0/V5h7T7T6TvI/AAAAAAAAyVs/NnnISuG_A4U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10808,
+        "aniId": 10808,
+        "deletedAt": null
+      },
+      "j9n2": {
+        "createdAt": "2020-10-12T15:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4822,
+        "identifier": "j9n2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam AGE (Dub)",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-age-dub.j9n2",
+        "image": "http://static.akacdn.ru/static/images/2018/05/9e0773622bc6047a569808028b5e7f4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10808,
+        "aniId": 10808,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gundam-age": {
+        "createdAt": "2020-10-12T16:00:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18024,
+        "identifier": "gundam-age",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gundam AGE",
+        "url": "https://gogoanime.vc/category/gundam-age",
+        "image": "https://cdnimg.xyz/images/anime/G/Gundam-age1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10808,
+        "aniId": 10808,
+        "deletedAt": null
+      },
+      "mobile-suit-gundam-age-dub": {
+        "createdAt": "2020-10-12T17:47:38.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23647,
+        "identifier": "mobile-suit-gundam-age-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mobile Suit Gundam AGE (Dub)",
+        "url": "https://gogoanime.vc/category/mobile-suit-gundam-age-dub",
+        "image": "https://gogocdn.net/cover/mobile-suit-gundam-age-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10808,
+        "aniId": 10808,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2713": {
+        "identifier": "2713",
+        "malId": 10808,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mobile Suit Gundam AGE",
+        "url": "https://animepahe.com/a/2713"
+      }
+    },
+    "AniMixPlay": {
+      "10808": {
+        "identifier": "10808",
+        "malId": 10808,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam AGE",
+        "url": "https://animixplay.to/anime/10808"
+      }
+    },
+    "YugenAnime": {
+      "6409": {
+        "identifier": "6409",
+        "malId": 10808,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit Gundam AGE",
+        "url": "https://yugen.to/anime/6409/mobile-suit-gundam-age/"
+      }
+    }
+  }
+}

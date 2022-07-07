@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-15T03:29:50.000Z",
+  "checkedAt": "2022-05-15T03:29:50.000Z",
+  "id": 36827,
+  "type": "anime",
+  "title": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
+  "altTitle": [
+    "探偵オペラミルキィホームズ アルセーヌ 華麗なる欲望"
+  ],
+  "url": "https://myanimelist.net/anime/36827/Tantei_Opera_Milky_Holmes__Arsene_Karei_naru_Yokubou",
+  "image": "https://cdn.myanimelist.net/images/anime/11/89382.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13591"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tantei_Opera_Milky_Holmes"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13591,
+  "Pages": {
+    "9anime": {
+      "406o": {
+        "createdAt": "2021-07-23T10:53:17.000Z",
+        "updatedAt": "2021-07-23T11:21:33.000Z",
+        "checkedAt": null,
+        "id": 37990,
+        "identifier": "406o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
+        "url": "https://9anime.to/watch/tantei-opera-milky-holmes-arsene-karei-naru-yokubou.406o",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/068be9d9887146746cad030aefd29657.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36827,
+        "aniId": 100570,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3755": {
+        "identifier": "3755",
+        "malId": 36827,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
+        "url": "https://animepahe.com/a/3755"
+      }
+    }
+  }
+}

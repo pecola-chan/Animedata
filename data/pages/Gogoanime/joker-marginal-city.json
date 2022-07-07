@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-24T15:58:48.000Z",
+  "updatedAt": "2021-05-20T15:21:56.000Z",
+  "checkedAt": null,
+  "id": 27884,
+  "identifier": "joker-marginal-city",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Joker: Marginal City",
+  "url": "https://gogoanime.vc/category/joker-marginal-city",
+  "image": "https://gogocdn.net/images/upload/6338.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3661,
+  "aniId": 3661,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:39.000Z",
+    "updatedAt": "2022-05-14T20:41:41.000Z",
+    "checkedAt": "2022-05-14T20:41:41.000Z",
+    "id": 3661,
+    "type": "anime",
+    "title": "Joker: Marginal City",
+    "altTitle": [
+      "J0ker",
+      "JOKER マージナル・シティ"
+    ],
+    "url": "https://myanimelist.net/anime/3661/Joker__Marginal_City",
+    "image": "https://cdn.myanimelist.net/images/anime/1399/99242.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4206"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7164"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4206
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:26.000Z",
+    "updatedAt": "2022-05-15T21:32:35.000Z",
+    "checkedAt": "2022-05-15T21:32:35.000Z",
+    "id": 3661,
+    "type": "anime",
+    "title": "Joker: Marginal City",
+    "altTitle": [
+      "Joker: Marginal City",
+      "ＪＯＫＥＲ　マージナル・シティ",
+      "J0KER - Marginal City",
+      "J0ker",
+      "Joker"
+    ],
+    "url": "https://anilist.co/anime/3661",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3661.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3661,
+    "deletedAt": null
+  }
+}

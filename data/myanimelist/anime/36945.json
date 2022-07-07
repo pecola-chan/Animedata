@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T18:50:41.000Z",
+  "checkedAt": "2022-05-14T18:50:41.000Z",
+  "id": 36945,
+  "type": "anime",
+  "title": "Himote House",
+  "altTitle": [
+    "HIMOTE HOUSE: A share house of super psychic girls",
+    "ひもてはうす"
+  ],
+  "url": "https://myanimelist.net/anime/36945/Himote_House",
+  "image": "https://cdn.myanimelist.net/images/anime/1790/94342.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://himotehouse.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13629"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21409"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%82%E3%81%A6%E3%81%AF%E3%81%86%E3%81%99"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277080"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13629,
+  "Pages": {
+    "9anime": {
+      "plrq": {
+        "createdAt": "2020-10-12T15:54:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7980,
+        "identifier": "plrq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Himote House",
+        "url": "https://9anime.to/watch/himote-house.plrq",
+        "image": "http://static.akacdn.ru/static/images/2018/04/ba239d1a6ac5f4819e8b5c0ca146ba9a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36945,
+        "aniId": 102875,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "himote-house": {
+        "createdAt": "2020-11-05T04:58:15.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28901,
+        "identifier": "himote-house",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Himote House",
+        "url": "https://gogoanime.vc/category/himote-house",
+        "image": "https://gogocdn.net/cover/himote-house.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36945,
+        "aniId": 102875,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2867": {
+        "identifier": "2867",
+        "malId": 36945,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Himote House",
+        "url": "https://animepahe.com/a/2867"
+      }
+    },
+    "AniMixPlay": {
+      "36945": {
+        "identifier": "36945",
+        "malId": 36945,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Himote House",
+        "url": "https://animixplay.to/anime/36945"
+      }
+    },
+    "YugenAnime": {
+      "1961": {
+        "identifier": "1961",
+        "malId": 36945,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Himote House",
+        "url": "https://yugen.to/anime/1961/himote-house/"
+      }
+    }
+  }
+}

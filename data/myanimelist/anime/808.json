@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-14T10:16:50.000Z",
+  "checkedAt": "2022-05-14T10:16:50.000Z",
+  "id": 808,
+  "type": "anime",
+  "title": "Bakuretsu Hunters OVA",
+  "altTitle": [
+    "Ganso Bakuretsu Hunters",
+    "Sorcerer Hunters",
+    "元祖　爆れつハンター"
+  ],
+  "url": "https://myanimelist.net/anime/808/Bakuretsu_Hunters_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1267/97321.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=939"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2350"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sorcerer_Hunters"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 939,
+  "Pages": {
+    "9anime": {
+      "rjkp": {
+        "createdAt": "2020-10-12T15:55:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8862,
+        "identifier": "rjkp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakuretsu Hunters OVA",
+        "url": "https://9anime.to/watch/bakuretsu-hunters-ova.rjkp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UnwrP6XIDgY/V6bqaGPNMII/AAAAAAAA094/ZwhVJzcq9nI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 808,
+        "aniId": 808,
+        "deletedAt": null
+      },
+      "wyzk": {
+        "createdAt": "2020-10-12T15:56:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9998,
+        "identifier": "wyzk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakuretsu Hunters OVA (Dub)",
+        "url": "https://9anime.to/watch/bakuretsu-hunters-ova-dub.wyzk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JQ-5gALRHgY/WDGBIHm3PXI/AAAAAAABPqo/Tdj6JDXwkxI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 808,
+        "aniId": 808,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bakuretsu-hunters-ova": {
+        "createdAt": "2020-10-12T15:59:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16710,
+        "identifier": "bakuretsu-hunters-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bakuretsu Hunters OVA",
+        "url": "https://gogoanime.vc/category/bakuretsu-hunters-ova",
+        "image": "https://cdnimg.xyz/cover/bakuretsu-hunters-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 808,
+        "aniId": 808,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "808": {
+        "identifier": "808",
+        "malId": 808,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bakuretsu Hunters OVA",
+        "url": "https://animixplay.to/anime/808"
+      }
+    },
+    "YugenAnime": {
+      "5069": {
+        "identifier": "5069",
+        "malId": 808,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bakuretsu Hunters OVA",
+        "url": "https://yugen.to/anime/5069/bakuretsu-hunters-ova/"
+      }
+    }
+  }
+}

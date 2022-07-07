@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T20:31:54.000Z",
+  "checkedAt": "2022-05-14T20:31:54.000Z",
+  "id": 3003,
+  "type": "anime",
+  "title": "Yumedamaya Kidan",
+  "altTitle": [
+    "Yume da Maya Kidan",
+    "Yumedamaya: The Strange Tale of the Dreamball Dealer",
+    "The Strange Story of a Dream Sphere Dealer",
+    "The Strange Tale of a Dream Sphere Dealer",
+    "ゆめだまや奇談"
+  ],
+  "url": "https://myanimelist.net/anime/3003/Yumedamaya_Kidan",
+  "image": "https://cdn.myanimelist.net/images/anime/7/89601.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.production-ig.co.jp/contents/news/2006/11/5.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4838"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4838,
+  "Pages": {
+    "9anime": {
+      "4l7m": {
+        "createdAt": "2020-10-12T15:50:05.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2252,
+        "identifier": "4l7m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yumedamaya Kidan",
+        "url": "https://9anime.to/watch/yumedamaya-kidan.4l7m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9ZTGNaTz_io/WIBdBFxdguI/AAAAAAABaGU/D_73U114k1U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3003,
+        "aniId": 3003,
+        "deletedAt": null
+      }
+    }
+  }
+}

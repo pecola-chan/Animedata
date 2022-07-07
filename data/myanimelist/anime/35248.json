@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-14T18:05:41.000Z",
+  "checkedAt": "2022-05-14T18:05:41.000Z",
+  "id": 35248,
+  "type": "anime",
+  "title": "18if",
+  "altTitle": [
+    "18 If",
+    "18if",
+    "18if"
+  ],
+  "url": "https://myanimelist.net/anime/35248/18if",
+  "image": "https://cdn.myanimelist.net/images/anime/7/86743.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://18if.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12576"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19410"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/18if"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/18if"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12576,
+  "Pages": {
+    "9anime": {
+      "mnyp": {
+        "createdAt": "2020-10-12T15:53:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6649,
+        "identifier": "mnyp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "18if",
+        "url": "https://9anime.to/watch/18if.mnyp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nhiDBDKs3Y4/WV-lBS2umrI/AAAAAAAABso/aH5IGAKHnkcEwuFXc199dG8TXq0uTh6HQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35248,
+        "aniId": 98512,
+        "deletedAt": null
+      },
+      "op3z": {
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7601,
+        "identifier": "op3z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "18if (Dub)",
+        "url": "https://9anime.to/watch/18if-dub.op3z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jC4O3880f0c/WV_pjDzEibI/AAAAAAAABuc/O-kZSwARWlAyg3blLqCPm_bEATwBOhOQwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35248,
+        "aniId": 98512,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "18if": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16318,
+        "identifier": "18if",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "18if",
+        "url": "https://gogoanime.vc/category/18if",
+        "image": "https://images.gogoanime.tv/cover/18if.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35248,
+        "aniId": 98512,
+        "deletedAt": null
+      },
+      "18if-dub": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16319,
+        "identifier": "18if-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "18if (Dub)",
+        "url": "https://gogoanime.vc/category/18if-dub",
+        "image": "https://cdnimg.xyz/cover/18if-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35248,
+        "aniId": 98512,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2235": {
+        "identifier": "2235",
+        "malId": 35248,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "18if",
+        "url": "https://animepahe.com/a/2235"
+      }
+    },
+    "AniMixPlay": {
+      "35248": {
+        "identifier": "35248",
+        "malId": 35248,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "18if",
+        "url": "https://animixplay.to/anime/35248"
+      }
+    },
+    "YugenAnime": {
+      "1182": {
+        "identifier": "1182",
+        "malId": 35248,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "18if",
+        "url": "https://yugen.to/anime/1182/18if/"
+      }
+    }
+  }
+}

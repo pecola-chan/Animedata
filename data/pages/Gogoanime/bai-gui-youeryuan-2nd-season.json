@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-08-04T07:19:43.000Z",
+  "updatedAt": "2021-08-04T07:47:29.000Z",
+  "checkedAt": null,
+  "id": 38121,
+  "identifier": "bai-gui-youeryuan-2nd-season",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Bai Gui Youeryuan 2nd Season",
+  "url": "https://gogoanime.pe/category/bai-gui-youeryuan-2nd-season",
+  "image": "https://gogocdn.net/cover/bai-gui-youeryuan-2nd-season.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 42444,
+  "aniId": 115825,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2022-05-15T14:02:08.000Z",
+    "checkedAt": "2022-05-15T14:02:08.000Z",
+    "id": 42444,
+    "type": "anime",
+    "title": "Bai Gui Youeryuan 2nd Season",
+    "altTitle": [
+      "Bai Gui Youeryuan Di 2 Ji",
+      "百鬼幼儿园 第二季"
+    ],
+    "url": "https://myanimelist.net/anime/42444/Bai_Gui_Youeryuan_2nd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1378/108462.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md5622911"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E7%99%BE%E9%AC%BC%E5%B9%BC%E5%84%BF%E5%9B%AD/22734633"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:08.000Z",
+    "updatedAt": "2022-05-15T18:02:35.000Z",
+    "checkedAt": "2022-05-15T18:02:35.000Z",
+    "id": 115825,
+    "type": "anime",
+    "title": "Bai Gui Youeryuan 2",
+    "altTitle": [
+      "百鬼幼儿园 第二季",
+      "Hyakki Kindergarten 2",
+      " Yinyang shi: Bai Gui Youeryuan 2",
+      "Onmyoji - Hundred spirits kindergarten 2",
+      "阴阳师·百鬼幼儿园 第二季"
+    ],
+    "url": "https://anilist.co/anime/115825",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115825-KtU38GHu1cYA.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 42444,
+    "deletedAt": null
+  }
+}

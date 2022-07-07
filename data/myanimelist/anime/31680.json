@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:40.000Z",
+  "updatedAt": "2022-05-14T16:15:33.000Z",
+  "checkedAt": "2022-05-14T16:15:33.000Z",
+  "id": 31680,
+  "type": "anime",
+  "title": "Super Lovers",
+  "altTitle": [
+    "Super Lovers",
+    "SUPER LOVERS（スーパーラヴァーズ）"
+  ],
+  "url": "https://myanimelist.net/anime/31680/Super_Lovers",
+  "image": "https://cdn.myanimelist.net/images/anime/4/78450.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://superlovers-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11209"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17681"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Super_Lovers"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269797"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11209,
+  "Pages": {
+    "9anime": {
+      "0253": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 337,
+        "identifier": "0253",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super Lovers",
+        "url": "https://9anime.to/watch/super-lovers.0253",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GZpTjR-EEj4/WGpNDq-jeAI/AAAAAAABWFs/YK90XOURRhM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31680,
+        "aniId": 21177,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "super-lovers": {
+        "createdAt": "2020-10-12T16:01:59.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20879,
+        "identifier": "super-lovers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Super Lovers",
+        "url": "https://gogoanime.vc/category/super-lovers",
+        "image": "https://cdnimg.xyz/cover/super-lovers.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31680,
+        "aniId": 21177,
+        "deletedAt": null
+      },
+      "super-lovers-2": {
+        "createdAt": "2020-10-12T17:56:37.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23744,
+        "identifier": "super-lovers-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Super Lovers 2",
+        "url": "https://gogoanime.vc/category/super-lovers-2",
+        "image": "https://gogocdn.net/cover/super-lovers-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31680,
+        "aniId": 21177,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "895": {
+        "identifier": "895",
+        "malId": 31680,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Super Lovers",
+        "url": "https://animepahe.com/a/895"
+      }
+    },
+    "AniMixPlay": {
+      "31680": {
+        "identifier": "31680",
+        "malId": 31680,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Super Lovers",
+        "url": "https://animixplay.to/anime/31680"
+      }
+    },
+    "YugenAnime": {
+      "3052": {
+        "identifier": "3052",
+        "malId": 31680,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Super Lovers",
+        "url": "https://yugen.to/anime/3052/super-lovers/"
+      }
+    }
+  }
+}

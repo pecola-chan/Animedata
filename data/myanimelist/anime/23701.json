@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-14T23:45:29.000Z",
+  "checkedAt": "2022-05-14T23:45:29.000Z",
+  "id": 23701,
+  "type": "anime",
+  "title": "Toradora! Recap",
+  "altTitle": [
+    "Toradora! Portable",
+    "Toradora! OVA",
+    "とらドラ・ポータブル!"
+  ],
+  "url": "https://myanimelist.net/anime/23701/Toradora_Recap",
+  "image": "https://cdn.myanimelist.net/images/anime/2/77024.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5909"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%89%E3%83%89%E3%83%A9%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5909,
+  "Pages": {
+    "9anime": {
+      "x5m3": {
+        "createdAt": "2020-10-12T15:56:25.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 10142,
+        "identifier": "x5m3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toradora! OVA",
+        "url": "https://9anime.to/watch/toradora-ova.x5m3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8hpA5V0Ka8A/WRkE_AZhfOI/AAAAAAAAncM/qV4OmRSWi5ssYO1pVsfJ6DIkR3eMGpGUACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23701,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

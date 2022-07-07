@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T16:00:34.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17991,
+  "identifier": "great-mazinger",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Great Mazinger",
+  "url": "https://gogoanime.vc/category/great-mazinger",
+  "image": "https://gogocdn.net/cover/great-mazinger.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5658,
+  "aniId": 5658,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-14T20:20:29.000Z",
+    "checkedAt": "2022-05-14T20:20:29.000Z",
+    "id": 5658,
+    "type": "anime",
+    "title": "Great Mazinger",
+    "altTitle": [
+      "グレートマジンガー"
+    ],
+    "url": "https://myanimelist.net/anime/5658/Great_Mazinger",
+    "image": "https://cdn.myanimelist.net/images/anime/3/51991.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/great_mazin/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=956"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1997"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Great_Mazinger"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 956
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T21:16:35.000Z",
+    "checkedAt": "2022-05-15T21:16:35.000Z",
+    "id": 5658,
+    "type": "anime",
+    "title": "Great Mazinger",
+    "altTitle": [
+      "Great Mazinger",
+      "グレートマジンガー"
+    ],
+    "url": "https://anilist.co/anime/5658",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5658-Bm8Dw0Mcd5Aj.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5658,
+    "deletedAt": null
+  }
+}

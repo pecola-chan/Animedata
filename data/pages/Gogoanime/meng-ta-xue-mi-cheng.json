@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-12-05T20:11:08.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29662,
+  "identifier": "meng-ta-xue-mi-cheng",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Meng Ta: Xue Mi Cheng",
+  "url": "https://gogoanime.vc/category/meng-ta-xue-mi-cheng",
+  "image": "https://gogocdn.net/cover/meng-ta-xue-mi-cheng.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38688,
+  "aniId": 106496,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-12-05T20:11:07.000Z",
+    "updatedAt": "2022-05-14T23:56:23.000Z",
+    "checkedAt": "2022-05-14T23:56:23.000Z",
+    "id": 38688,
+    "type": "anime",
+    "title": "Meng Ta: Xue Mi Cheng",
+    "altTitle": [
+      "Meng Taxue Mi Cheng",
+      "Dream Tower: The Puzzle of Snow City",
+      "Dream Tower: Snow Mystery City",
+      "Dream Tower",
+      "梦塔 - 雪谜城"
+    ],
+    "url": "https://myanimelist.net/anime/38688/Meng_Ta__Xue_Mi_Cheng",
+    "image": "https://cdn.myanimelist.net/images/anime/1920/96262.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.weibo.com/u/6447356890"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14287"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%A2%A6%E5%A1%94%C2%B7%E9%9B%AA%E8%B0%9C%E5%9F%8E/22343890"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14287
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:52.000Z",
+    "updatedAt": "2022-05-15T16:50:59.000Z",
+    "checkedAt": "2022-05-15T16:50:59.000Z",
+    "id": 106496,
+    "type": "anime",
+    "title": "Meng Ta: Xue Mi Cheng",
+    "altTitle": [
+      "Dream Tower",
+      "梦塔·雪谜城",
+      "Dream Tower: The Puzzle of Snow City",
+      "Dream Tower: Snow Mystery City"
+    ],
+    "url": "https://anilist.co/anime/106496",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106496-57KsNpSagkeo.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38688,
+    "deletedAt": null
+  }
+}

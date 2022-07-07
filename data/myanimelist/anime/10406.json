@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-15T20:00:19.000Z",
+  "checkedAt": "2022-05-15T20:00:19.000Z",
+  "id": 10406,
+  "type": "anime",
+  "title": "Spelunker Sensei",
+  "altTitle": [
+    "Spelunker Is a Teacher",
+    "スペランカー先生"
+  ],
+  "url": "https://myanimelist.net/anime/10406/Spelunker_Sensei",
+  "image": "https://cdn.myanimelist.net/images/anime/9/28590.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.enterbrain.co.jp/cp/spelunker/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8290"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12363"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%A9%E3%83%B3%E3%82%AB%E3%83%BC#.E3.82.B9.E3.83.9A.E3.83.A9.E3.83.B3.E3.82.AB.E3.83.BC.E5.85.88.E7.94.9F_.E3.83.95.E3.83.A9.E3.83.83.E3.82.B7.E3.83.A5.E3.82.A2.E3.83.8B.E3.83.A1DVD"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8290,
+  "Pages": {
+    "9anime": {
+      "jq6y": {
+        "createdAt": "2020-10-12T15:52:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4983,
+        "identifier": "jq6y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spelunker Is a Teacher",
+        "url": "https://9anime.to/watch/spelunker-is-a-teacher.jq6y",
+        "image": "https://static.akacdn.ru/files/images/2018/03/7db3046e9cbf186cbf3dfa687e5ba976.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10406,
+        "aniId": 10406,
+        "deletedAt": null
+      }
+    }
+  }
+}

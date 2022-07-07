@@ -1,0 +1,100 @@
+{
+  "createdAt": "2021-04-08T06:51:10.000Z",
+  "updatedAt": "2022-05-14T16:16:11.000Z",
+  "checkedAt": "2022-05-14T16:16:11.000Z",
+  "id": 48391,
+  "type": "anime",
+  "title": "Mazica Party",
+  "altTitle": [
+    "マジカパーティ"
+  ],
+  "url": "https://myanimelist.net/anime/48391/Mazica_Party",
+  "image": "https://cdn.myanimelist.net/images/anime/1740/113501.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://mazicaparty.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16084"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24099"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16084,
+  "Pages": {
+    "9anime": {
+      "506m": {
+        "createdAt": "2021-04-10T02:21:28.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36357,
+        "identifier": "506m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mazica Party",
+        "url": "https://9anime.to/watch/mazica-party.506m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/de/de6b39f07227532958c900f1546255fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48391,
+        "aniId": 130512,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mazica-party": {
+        "createdAt": "2021-04-14T16:46:19.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36454,
+        "identifier": "mazica-party",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mazica Party",
+        "url": "https://gogoanime.vc/category/mazica-party",
+        "image": "https://gogocdn.net/cover/mazica-party.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48391,
+        "aniId": 130512,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "48391": {
+        "identifier": "48391",
+        "malId": 48391,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mazica Party",
+        "url": "https://animixplay.to/anime/48391"
+      }
+    },
+    "YugenAnime": {
+      "7478": {
+        "identifier": "7478",
+        "malId": 48391,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mazica Party",
+        "url": "https://yugen.to/anime/7478/mazica-party/"
+      }
+    }
+  }
+}

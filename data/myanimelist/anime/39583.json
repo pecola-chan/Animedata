@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T16:09:09.000Z",
+  "checkedAt": "2022-05-14T16:09:09.000Z",
+  "id": 39583,
+  "type": "anime",
+  "title": "number24",
+  "altTitle": [
+    "number24",
+    "number24 ナンバー・トゥーフォー"
+  ],
+  "url": "https://myanimelist.net/anime/39583/number24",
+  "image": "https://cdn.myanimelist.net/images/anime/1885/102374.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://number24-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14788"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22011"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Number24"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/number24"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14788,
+  "Pages": {
+    "9anime": {
+      "nlpm": {
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7117,
+        "identifier": "nlpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "number24",
+        "url": "https://9anime.to/watch/number24.nlpm",
+        "image": "https://static.akacdn.ru/files/images/2019/05/f1f7d7313e66e058395e6732d8222c2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39583,
+        "aniId": 108628,
+        "deletedAt": null
+      },
+      "504j": {
+        "createdAt": "2021-04-28T04:21:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36716,
+        "identifier": "504j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "number24 (Dub)",
+        "url": "https://9anime.to/watch/number24-dub.504j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/e3/e3ef7e270a130df16827b63feea75648.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39583,
+        "aniId": 108628,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "number24": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19805,
+        "identifier": "number24",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "number24",
+        "url": "https://gogoanime.vc/category/number24",
+        "image": "https://cdnimg.xyz/cover/number24.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39583,
+        "aniId": 108628,
+        "deletedAt": null
+      },
+      "number24-dub": {
+        "createdAt": "2021-05-02T11:33:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36833,
+        "identifier": "number24-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "number24 (Dub)",
+        "url": "https://gogoanime.vc/category/number24-dub",
+        "image": "https://gogocdn.net/cover/number24-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39583,
+        "aniId": 108628,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3668": {
+        "identifier": "3668",
+        "malId": 39583,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "number24",
+        "url": "https://animepahe.com/a/3668"
+      }
+    },
+    "AniMixPlay": {
+      "39583": {
+        "identifier": "39583",
+        "malId": 39583,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "number24",
+        "url": "https://animixplay.to/anime/39583"
+      }
+    },
+    "YugenAnime": {
+      "632": {
+        "identifier": "632",
+        "malId": 39583,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "number24",
+        "url": "https://yugen.to/anime/632/number24/"
+      }
+    }
+  }
+}

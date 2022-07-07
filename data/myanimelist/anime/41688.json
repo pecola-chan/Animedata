@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-12-07T05:39:51.000Z",
+  "updatedAt": "2022-05-13T23:17:56.000Z",
+  "checkedAt": "2022-05-13T23:17:56.000Z",
+  "id": 41688,
+  "type": "anime",
+  "title": "Toutotsu ni Egypt Shin",
+  "altTitle": [
+    "Suddenly, Egyptian Gods",
+    "Oh, Suddenly Egyptian God",
+    "とーとつにエジプト神"
+  ],
+  "url": "https://myanimelist.net/anime/41688/Toutotsu_ni_Egypt_Shin",
+  "image": "https://cdn.myanimelist.net/images/anime/1955/107042.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://to-to2ni-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15501"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23595"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280313"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15501,
+  "Pages": {
+    "Gogoanime": {
+      "toutotsu-ni-egypt-kami": {
+        "createdAt": "2020-12-07T05:39:53.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29731,
+        "identifier": "toutotsu-ni-egypt-kami",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toutotsu ni Egypt Kami",
+        "url": "https://gogoanime.vc/category/toutotsu-ni-egypt-kami",
+        "image": "https://gogocdn.net/cover/toutotsu-ni-egypt-kami.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41688,
+        "aniId": 123474,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "0569": {
+        "createdAt": "2020-12-09T13:48:08.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29801,
+        "identifier": "0569",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toutotsu ni Egypt Kami",
+        "url": "https://9anime.to/watch/suddenly.0569",
+        "image": "//static.9anime.to/i/cache/images/8/84/84e71b681895625acb6a4c34700c5eff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41688,
+        "aniId": 123474,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4152": {
+        "identifier": "4152",
+        "malId": 41688,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toutotsu ni Egypt Shin",
+        "url": "https://animepahe.com/a/4152"
+      }
+    },
+    "AniMixPlay": {
+      "41688": {
+        "identifier": "41688",
+        "malId": 41688,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toutotsu ni Egypt Shin",
+        "url": "https://animixplay.to/anime/41688"
+      }
+    },
+    "YugenAnime": {
+      "6704": {
+        "identifier": "6704",
+        "malId": 41688,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Toutotsu ni Egypt Shin",
+        "url": "https://yugen.to/anime/6704/toutotsu-ni-egypt-kami/"
+      }
+    }
+  }
+}

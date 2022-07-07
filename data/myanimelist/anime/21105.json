@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-13T20:06:58.000Z",
+  "checkedAt": "2022-05-13T20:06:58.000Z",
+  "id": 21105,
+  "type": "anime",
+  "title": "Love Stage!!",
+  "altTitle": [
+    "Love Stage!!",
+    "LOVE STAGE!!"
+  ],
+  "url": "https://myanimelist.net/anime/21105/Love_Stage",
+  "image": "https://cdn.myanimelist.net/images/anime/11/76599.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://lovestage-tv.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9906"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15846"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Love_Stage!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-261671"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/love-stage"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9906,
+  "Pages": {
+    "9anime": {
+      "8x1o": {
+        "createdAt": "2020-10-12T15:51:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4062,
+        "identifier": "8x1o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "LOVE STAGE!!",
+        "url": "https://9anime.to/watch/love-stage.8x1o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WJnMWWFtjTk/V6wUlTtCDXI/AAAAAAAA2Pc/0_5V-g4z2mM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21105,
+        "aniId": 20520,
+        "deletedAt": null
+      },
+      "ljpn": {
+        "createdAt": "2020-10-12T15:53:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6004,
+        "identifier": "ljpn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Stage!! (Dub)",
+        "url": "https://9anime.to/watch/love-stage-dub.ljpn",
+        "image": "https://static.akacdn.ru/static/images/2019/04/d9321e9b2dbca8c67954078dbd269b0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21105,
+        "aniId": 20520,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "love-stage": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19154,
+        "identifier": "love-stage",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Stage!!",
+        "url": "https://gogoanime.vc/category/love-stage",
+        "image": "https://gogocdn.net/images/summer/love_Stage.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21105,
+        "aniId": 20520,
+        "deletedAt": null
+      },
+      "love-stage-dub": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19155,
+        "identifier": "love-stage-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Stage!! (Dub)",
+        "url": "https://gogoanime.vc/category/love-stage-dub",
+        "image": "https://gogocdn.net/cover/love-stage-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21105,
+        "aniId": 20520,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1756": {
+        "identifier": "1756",
+        "malId": 21105,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Love Stage!!",
+        "url": "https://animepahe.com/a/1756"
+      }
+    },
+    "AniMixPlay": {
+      "21105": {
+        "identifier": "21105",
+        "malId": 21105,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love Stage!!",
+        "url": "https://animixplay.to/anime/21105"
+      }
+    },
+    "YugenAnime": {
+      "2516": {
+        "identifier": "2516",
+        "malId": 21105,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love Stage!!",
+        "url": "https://yugen.to/anime/2516/love-stage/"
+      }
+    }
+  }
+}

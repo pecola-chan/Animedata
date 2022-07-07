@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T18:11:59.000Z",
+  "checkedAt": "2022-05-14T18:11:59.000Z",
+  "id": 37185,
+  "type": "anime",
+  "title": "Ze Tian Ji 3rd Season",
+  "altTitle": [
+    "Way of Choices 3rd Season",
+    "Fighter of the Destiny 3rd Season",
+    "择天记 第三季"
+  ],
+  "url": "https://myanimelist.net/anime/37185/Ze_Tian_Ji_3rd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1724/90239.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://v.qq.com/detail/e/eyuyhrrvbhvhs7d.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13468"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E6%8B%A9%E5%A4%A9%E8%AE%B0"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13468,
+  "Pages": {
+    "9anime": {
+      "965x": {
+        "createdAt": "2020-10-12T15:51:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4237,
+        "identifier": "965x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ze Tian Ji 3rd Season",
+        "url": "https://9anime.to/watch/ze-tian-ji-3rd-season.965x",
+        "image": "http://static.akacdn.ru/static/images/2018/04/2eed0cdfb592e0bb56c70c2e68277597.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37185,
+        "aniId": 102166,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37185": {
+        "identifier": "37185",
+        "malId": 37185,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ze Tian Ji 3rd Season",
+        "url": "https://animixplay.to/anime/37185"
+      }
+    },
+    "YugenAnime": {
+      "14500": {
+        "identifier": "14500",
+        "malId": 37185,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ze Tian Ji 3rd Season",
+        "url": "https://yugen.to/anime/14500/ze-tian-ji-3rd-season/"
+      }
+    }
+  }
+}

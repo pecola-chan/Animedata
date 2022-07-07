@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T18:35:23.000Z",
+  "checkedAt": "2022-05-14T18:35:23.000Z",
+  "id": 38198,
+  "type": "anime",
+  "title": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+  "altTitle": [
+    "Nanatsu no Taizai: Imashime no Fukkatsu OVA 2",
+    "The Seven Deadly Sins: Heroes Fun Time -Extra Stories Compilation OVA 2",
+    "The Seven Deadly Sins: Heroes' Frolic",
+    "七つの大罪 英雄たちは燥(はしゃ)ぐ"
+  ],
+  "url": "https://myanimelist.net/anime/38198/Nanatsu_no_Taizai__Eiyuu-tachi_wa_Hashagu",
+  "image": "https://cdn.myanimelist.net/images/anime/1369/96304.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "v1m6": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9155,
+        "identifier": "v1m6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+        "url": "https://9anime.to/watch/the-seven-deadly-sins-heroes-frolic.v1m6",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/11/bb78a1417db00b6cce7ba885d2d92d8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38198,
+        "aniId": 104175,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38198": {
+        "identifier": "38198",
+        "malId": 38198,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+        "url": "https://animixplay.to/anime/38198"
+      }
+    }
+  }
+}

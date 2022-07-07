@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T18:27:53.000Z",
+  "checkedAt": "2022-05-14T18:27:53.000Z",
+  "id": 89,
+  "type": "anime",
+  "title": "Mobile Suit Victory Gundam",
+  "altTitle": [
+    "Kidou Senshi Victory Gundam",
+    "Mobile Suit V Gundam",
+    "機動戦士Vガンダム"
+  ],
+  "url": "https://myanimelist.net/anime/89/Mobile_Suit_Victory_Gundam",
+  "image": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gundam.channel.or.jp/program/_vg_tv.shtml"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=721"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1403"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Victory_Gundam"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 721,
+  "Pages": {
+    "9anime": {
+      "w1r6": {
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9603,
+        "identifier": "w1r6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Victory Gundam",
+        "url": "https://9anime.to/watch/mobile-suit-victory-gundam.w1r6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5mTJfUPHdro/V5tvkUAnCuI/AAAAAAAAy1U/h9dujE6swTA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 89,
+        "aniId": 89,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mobile-suit-victory-gundam": {
+        "createdAt": "2020-12-10T11:50:36.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29983,
+        "identifier": "mobile-suit-victory-gundam",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mobile Suit Victory Gundam",
+        "url": "https://gogoanime.vc/category/mobile-suit-victory-gundam",
+        "image": "https://gogocdn.net/cover/mobile-suit-victory-gundam.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 89,
+        "aniId": 89,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "929": {
+        "identifier": "929",
+        "malId": 89,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mobile Suit Victory Gundam",
+        "url": "https://animepahe.com/a/929"
+      }
+    },
+    "AniMixPlay": {
+      "89": {
+        "identifier": "89",
+        "malId": 89,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Victory Gundam",
+        "url": "https://animixplay.to/anime/89"
+      }
+    },
+    "YugenAnime": {
+      "4960": {
+        "identifier": "4960",
+        "malId": 89,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit Victory Gundam",
+        "url": "https://yugen.to/anime/4960/mobile-suit-victory-gundam/"
+      }
+    }
+  }
+}

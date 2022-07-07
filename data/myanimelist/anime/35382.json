@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-14T21:36:35.000Z",
+  "checkedAt": "2022-05-14T21:36:35.000Z",
+  "id": 35382,
+  "type": "anime",
+  "title": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness",
+  "altTitle": [
+    "Yuri!!! on ICE Special",
+    "Yuri!!! On ICE: Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\"",
+    "ユーリ!!! on ICE Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\""
+  ],
+  "url": "https://myanimelist.net/anime/35382/Yuri_on_Ice__Yuri_Plisetsky_GPF_in_Barcelona_EX_-_Welcome_to_The_Madness",
+  "image": "https://cdn.myanimelist.net/images/anime/6/85548.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yurionice.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12012"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18191"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yuri_on_Ice"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12012,
+  "Pages": {
+    "9anime": {
+      "kz7v": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5700,
+        "identifier": "kz7v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuri!!! On ICE: Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\"",
+        "url": "https://9anime.to/watch/yuri-on-ice-yuri-plisetsky-gpf-in-barcelona-ex-welcome-to-the-madness.kz7v",
+        "image": "https://static.akacdn.ru/files/images/2018/02/fc03a46c4d8955983709c06867772a87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35382,
+        "aniId": 102167,
+        "deletedAt": null
+      }
+    }
+  }
+}

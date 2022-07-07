@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-19T01:07:57.000Z",
+  "checkedAt": "2022-05-19T01:07:57.000Z",
+  "id": 12695,
+  "type": "anime",
+  "title": "Tight-rope",
+  "altTitle": [
+    "Tight Rope",
+    "Tightrope",
+    "Tight-rope",
+    "タイトロープ"
+  ],
+  "url": "https://myanimelist.net/anime/12695/Tight-rope",
+  "image": "https://cdn.myanimelist.net/images/anime/2/38305.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.primetime.gs/tightrope/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8919"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13976"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/タイトロープ_(漫画)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8919,
+  "Pages": {
+    "9anime": {
+      "zkl2": {
+        "createdAt": "2020-10-12T15:57:10.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11160,
+        "identifier": "zkl2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tight-rope",
+        "url": "https://9anime.to/watch/tight-rope.zkl2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PSkV93uDWsk/V7VK77wd62I/AAAAAAAA37M/N6ooL_SY8jY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12695,
+        "aniId": 12695,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "12695": {
+        "identifier": "12695",
+        "malId": 12695,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tight-rope",
+        "url": "https://animixplay.to/anime/12695"
+      }
+    }
+  }
+}

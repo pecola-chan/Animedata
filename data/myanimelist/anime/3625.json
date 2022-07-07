@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T20:39:17.000Z",
+  "checkedAt": "2022-05-14T20:39:17.000Z",
+  "id": 3625,
+  "type": "anime",
+  "title": "Battle Royal High School",
+  "altTitle": [
+    "Shin Majinden",
+    "Battle Royal High School",
+    "真魔神伝　バトルロイヤルハイスクール"
+  ],
+  "url": "https://myanimelist.net/anime/3625/Battle_Royal_High_School",
+  "image": "https://cdn.myanimelist.net/images/anime/1174/116428.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1462"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=521"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_Royal_High_School"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1462,
+  "Pages": {
+    "9anime": {
+      "k6k6": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5317,
+        "identifier": "k6k6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Royal High School",
+        "url": "https://9anime.to/watch/battle-royal-high-school.k6k6",
+        "image": "https://static.akacdn.ru/static/images/2018/04/f8c8ae21b29368bac9c5fc0d33ac273f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3625,
+        "aniId": 3625,
+        "deletedAt": null
+      },
+      "l53m": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5852,
+        "identifier": "l53m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Royal High School (Dub)",
+        "url": "https://9anime.to/watch/battle-royal-high-school-dub.l53m",
+        "image": "https://static.akacdn.ru/files/images/2018/04/ffd9d315a2906b633ca68426ec6ff679.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3625,
+        "aniId": 3625,
+        "deletedAt": null
+      },
+      "v6p2": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9262,
+        "identifier": "v6p2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Royal High School",
+        "url": "https://9anime.to/watch/battle-royal-high-school.v6p2",
+        "image": "https://static.akacdn.ru/files/images/2020/08/1a4c6b8be4599291a630f7772284ec99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3625,
+        "aniId": 3625,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3625": {
+        "identifier": "3625",
+        "malId": 3625,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Battle Royal High School",
+        "url": "https://animixplay.to/anime/3625"
+      }
+    }
+  }
+}

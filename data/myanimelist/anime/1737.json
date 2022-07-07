@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T20:18:42.000Z",
+  "checkedAt": "2022-05-14T20:18:42.000Z",
+  "id": 1737,
+  "type": "anime",
+  "title": "Uchuu Senshi Baldios",
+  "altTitle": [
+    "Space Warrior Baldios",
+    "宇宙戦士 バルディオス"
+  ],
+  "url": "https://myanimelist.net/anime/1737/Uchuu_Senshi_Baldios",
+  "image": "https://cdn.myanimelist.net/images/anime/1603/98295.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3123"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=747"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Warrior_Baldios"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277963"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3123,
+  "Pages": {
+    "9anime": {
+      "y7mj": {
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10624,
+        "identifier": "y7mj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Space Warrior Bladios",
+        "url": "https://9anime.to/watch/space-warrior-bladios.y7mj",
+        "image": "https://static.akacdn.ru/files/images/2018/06/edba2008810a07a11025bf8b6e17c998.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1737,
+        "aniId": 1737,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uchuu-senshi-baldios": {
+        "createdAt": "2020-10-12T16:02:11.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21293,
+        "identifier": "uchuu-senshi-baldios",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uchuu Senshi Baldios",
+        "url": "https://gogoanime.vc/category/uchuu-senshi-baldios",
+        "image": "https://gogocdn.net/cover/uchuu-senshi-baldios.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1737,
+        "aniId": 1737,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1737": {
+        "identifier": "1737",
+        "malId": 1737,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuu Senshi Baldios",
+        "url": "https://animixplay.to/anime/1737"
+      }
+    },
+    "YugenAnime": {
+      "3456": {
+        "identifier": "3456",
+        "malId": 1737,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uchuu Senshi Baldios",
+        "url": "https://yugen.to/anime/3456/uchuu-senshi-baldios/"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-22T10:30:02.000Z",
+  "checkedAt": "2022-05-22T10:30:01.000Z",
+  "id": 41568,
+  "type": "anime",
+  "title": "ARP Backstage Pass Special",
+  "altTitle": [
+    "ARP Backstage Pass Episode 11",
+    "ARP Backstage Pass"
+  ],
+  "url": "https://myanimelist.net/anime/41568/ARP_Backstage_Pass_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/1108/107861.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://arp-anime.com/bddvd"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14292"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14292,
+  "Pages": {
+    "9anime": {
+      "54qj": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2526,
+        "identifier": "54qj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ARP Backstage Pass Special",
+        "url": "https://9anime.to/watch/arp-backstage-pass-special.54qj",
+        "image": "https://static.akacdn.ru/files/images/0/07/07ef317eaeb9c3948e7f82fdec4a47d7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41568,
+        "aniId": 117034,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41568": {
+        "identifier": "41568",
+        "malId": 41568,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ARP Backstage Pass Special",
+        "url": "https://animixplay.to/anime/41568"
+      }
+    }
+  }
+}

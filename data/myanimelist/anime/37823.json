@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T17:38:41.000Z",
+  "checkedAt": "2022-05-14T17:38:41.000Z",
+  "id": 37823,
+  "type": "anime",
+  "title": "Conception",
+  "altTitle": [
+    "CONCEPTION（コンセプション）"
+  ],
+  "url": "https://myanimelist.net/anime/37823/Conception",
+  "image": "https://cdn.myanimelist.net/images/anime/1849/95019.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.conception-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14068"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21301"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/CONCEPTION_%E4%BF%BA%E3%81%AE%E5%AD%90%E4%BE%9B%E3%82%92%E7%94%A3%E3%82%93%E3%81%A7%E3%81%8F%E3%82%8C!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277097"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/conception"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14068,
+  "Pages": {
+    "9anime": {
+      "896n": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3850,
+        "identifier": "896n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Conception: Ore no Kodomo wo Undekure!",
+        "url": "https://9anime.to/watch/conception-ore-no-kodomo-wo-undekure.896n",
+        "image": "http://static.akacdn.ru/static/images/2018/05/eee0579a81e1ac80007d03740bedff55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37823,
+        "aniId": 101609,
+        "deletedAt": null
+      },
+      "8w1y": {
+        "createdAt": "2020-10-12T15:51:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4040,
+        "identifier": "8w1y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Conception (Dub)",
+        "url": "https://9anime.to/watch/conception-dub.8w1y",
+        "image": "http://static.akacdn.ru/static/images/2018/10/83a7bb0f82ee5579b4052aaeeea50da2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37823,
+        "aniId": 101609,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "conception": {
+        "createdAt": "2020-10-12T16:00:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17168,
+        "identifier": "conception",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Conception",
+        "url": "https://gogoanime.vc/category/conception",
+        "image": "https://cdnimg.xyz/cover/conception.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37823,
+        "aniId": 101609,
+        "deletedAt": null
+      },
+      "conception-dub": {
+        "createdAt": "2020-10-12T16:00:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17169,
+        "identifier": "conception-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Conception (Dub)",
+        "url": "https://gogoanime.vc/category/conception-dub",
+        "image": "https://gogocdn.net/cover/conception-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37823,
+        "aniId": 101609,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2822": {
+        "identifier": "2822",
+        "malId": 37823,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Conception",
+        "url": "https://animepahe.com/a/2822"
+      }
+    },
+    "AniMixPlay": {
+      "37823": {
+        "identifier": "37823",
+        "malId": 37823,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Conception",
+        "url": "https://animixplay.to/anime/37823"
+      }
+    },
+    "YugenAnime": {
+      "800": {
+        "identifier": "800",
+        "malId": 37823,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Conception",
+        "url": "https://yugen.to/anime/800/conception/"
+      }
+    }
+  }
+}

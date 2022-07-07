@@ -1,0 +1,151 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-15T03:20:59.000Z",
+  "checkedAt": "2022-05-15T03:20:59.000Z",
+  "id": 1961,
+  "type": "anime",
+  "title": "Arashi no Yoru ni",
+  "altTitle": [
+    "In the Night of the Storm",
+    "On A Stormy Night",
+    "Stormy Night",
+    "あらしのよるに"
+  ],
+  "url": "https://myanimelist.net/anime/1961/Arashi_no_Yoru_ni",
+  "image": "https://cdn.myanimelist.net/images/anime/9/5064.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://arayoru.com/pc/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3436"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5905"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Arashi_no_Yoru_Ni"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3436,
+  "Pages": {
+    "9anime": {
+      "m20x": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6326,
+        "identifier": "m20x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arashi no Yoru ni",
+        "url": "https://9anime.to/watch/arashi-no-yoru-ni.m20x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dEo6DfXSmW0/V5tpqT5DMKI/AAAAAAAAy0Q/ckxebGI7wUQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1961,
+        "aniId": 1961,
+        "deletedAt": null
+      },
+      "mrmz": {
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6743,
+        "identifier": "mrmz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arashi no Yoru ni (Dub)",
+        "url": "https://9anime.to/watch/arashi-no-yoru-ni-dub.mrmz",
+        "image": "https://static.akacdn.ru/files/images/2018/05/233016e0845cbdff63ffc4533ddf869b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1961,
+        "aniId": 1961,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "arashi-no-yoru-ni": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16583,
+        "identifier": "arashi-no-yoru-ni",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Arashi no Yoru ni",
+        "url": "https://gogoanime.vc/category/arashi-no-yoru-ni",
+        "image": "https://gogocdn.net/cover/arashi-no-yoru-ni.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1961,
+        "aniId": 1961,
+        "deletedAt": null
+      },
+      "arashi-no-yoru-ni-dub": {
+        "createdAt": "2020-10-12T15:59:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16584,
+        "identifier": "arashi-no-yoru-ni-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Arashi no Yoru ni (Dub)",
+        "url": "https://gogoanime.vc/category/arashi-no-yoru-ni-dub",
+        "image": "https://gogocdn.net/cover/arashi-no-yoru-ni-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1961,
+        "aniId": 1961,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2583": {
+        "identifier": "2583",
+        "malId": 1961,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Arashi no Yoru ni",
+        "url": "https://animepahe.com/a/2583"
+      }
+    },
+    "AniMixPlay": {
+      "1961": {
+        "identifier": "1961",
+        "malId": 1961,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Arashi no Yoru ni",
+        "url": "https://animixplay.to/anime/1961"
+      }
+    },
+    "YugenAnime": {
+      "5208": {
+        "identifier": "5208",
+        "malId": 1961,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Arashi no Yoru ni",
+        "url": "https://yugen.to/anime/5208/arashi-no-yoru-ni/"
+      }
+    }
+  }
+}

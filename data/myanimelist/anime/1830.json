@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-14T22:21:30.000Z",
+  "checkedAt": "2022-05-14T22:21:30.000Z",
+  "id": 1830,
+  "type": "anime",
+  "title": "Utawarerumono Specials",
+  "altTitle": [
+    "The One Being Sung Specials",
+    "Utawarerumono Q&A",
+    "Utawarerumono Questions Answered",
+    "Utawarerumono: Naze Nani Utawarerumono",
+    "うたわれるもの"
+  ],
+  "url": "https://myanimelist.net/anime/1830/Utawarerumono_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1319/99303.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.utaware.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5746"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Utawarerumono"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3427,
+  "Pages": {
+    "9anime": {
+      "4j0x": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2220,
+        "identifier": "4j0x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Utawarerumono Specials",
+        "url": "https://9anime.to/watch/utawarerumono-specials.4j0x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7nqCJOxxpxU/V6aNMOZSM4I/AAAAAAAA05M/5Lf9N8zxAPI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1830,
+        "aniId": 1830,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1213": {
+        "identifier": "1213",
+        "malId": 1830,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Utawarerumono Specials",
+        "url": "https://animepahe.com/a/1213"
+      }
+    },
+    "AniMixPlay": {
+      "1830": {
+        "identifier": "1830",
+        "malId": 1830,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Utawarerumono Specials",
+        "url": "https://animixplay.to/anime/1830"
+      }
+    }
+  }
+}

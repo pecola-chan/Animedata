@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T22:42:10.000Z",
+  "checkedAt": "2022-05-14T22:42:10.000Z",
+  "id": 6984,
+  "type": "anime",
+  "title": "Hidamari Sketch x 365 Specials",
+  "altTitle": [
+    "Hidamari Sketch x 365 EX",
+    "ひだまりスケッチ×365"
+  ],
+  "url": "https://myanimelist.net/anime/6984/Hidamari_Sketch_x_365_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/13/17727.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/hidamari/2nd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5571"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10758"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hidamari_Sketch"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5571,
+  "Pages": {
+    "9anime": {
+      "6yyp": {
+        "createdAt": "2020-10-12T15:50:56.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3270,
+        "identifier": "6yyp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hidamari Sketch x 365 Specials",
+        "url": "https://9anime.to/watch/hidamari-sketch-x-365-specials.6yyp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-N4DWWuxnskc/WCw_ehfNSqI/AAAAAAABPFM/sE6FjwjIUw8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6984,
+        "aniId": 6984,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1210": {
+        "identifier": "1210",
+        "malId": 6984,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hidamari Sketch x 365 Specials",
+        "url": "https://animepahe.com/a/1210"
+      }
+    },
+    "AniMixPlay": {
+      "6984": {
+        "identifier": "6984",
+        "malId": 6984,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hidamari Sketch x 365 Specials",
+        "url": "https://animixplay.to/anime/6984"
+      }
+    },
+    "YugenAnime": {
+      "11771": {
+        "identifier": "11771",
+        "malId": 6984,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hidamari Sketch x 365 Specials",
+        "url": "https://yugen.to/anime/11771/hidamari-sketch-x-365-specials/"
+      }
+    }
+  }
+}

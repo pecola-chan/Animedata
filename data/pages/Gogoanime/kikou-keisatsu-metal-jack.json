@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-03-22T15:04:56.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35837,
+  "identifier": "kikou-keisatsu-metal-jack",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kikou Keisatsu Metal Jack",
+  "url": "https://gogoanime.vc/category/kikou-keisatsu-metal-jack",
+  "image": "https://gogocdn.net/cover/kikou-keisatsu-metal-jack.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3315,
+  "aniId": 3315,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:37.000Z",
+    "updatedAt": "2022-05-15T02:03:55.000Z",
+    "checkedAt": "2022-05-15T02:03:55.000Z",
+    "id": 3315,
+    "type": "anime",
+    "title": "Kikou Keisatsu Metal Jack",
+    "altTitle": [
+      "Armored Police Metal Jack",
+      "機甲警察 メタルジャック"
+    ],
+    "url": "https://myanimelist.net/anime/3315/Kikou_Keisatsu_Metal_Jack",
+    "image": "https://cdn.myanimelist.net/images/anime/2/77278.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=49"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3049"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=209"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Armored_Police_Metal_Jack"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3049
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:37.000Z",
+    "updatedAt": "2022-05-15T21:41:23.000Z",
+    "checkedAt": "2022-05-15T21:41:23.000Z",
+    "id": 3315,
+    "type": "anime",
+    "title": "Kikou Keisatsu Metal Jack",
+    "altTitle": [
+      "Armored Police Metal Jack",
+      "機甲警察 メタルジャック",
+      "Spezialeinheit Metal Jack"
+    ],
+    "url": "https://anilist.co/anime/3315",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3315-EFEBXDWJLW2h.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3315,
+    "deletedAt": null
+  }
+}

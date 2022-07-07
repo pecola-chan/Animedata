@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-15T07:26:50.000Z",
+  "checkedAt": "2022-05-15T07:26:49.000Z",
+  "id": 35880,
+  "type": "anime",
+  "title": "Yowamushi Pedal: Re:Generation",
+  "altTitle": [
+    "Yowamushi Pedal Summary",
+    "弱虫ペダル Re:GENERATION"
+  ],
+  "url": "https://myanimelist.net/anime/35880/Yowamushi_Pedal__Re_Generation",
+  "image": "https://cdn.myanimelist.net/images/anime/1926/90708.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yowapeda.com/regeneration/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13275"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20189"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%BC%B1%E8%99%AB%E3%83%9A%E3%83%80%E3%83%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13275,
+  "Pages": {
+    "9anime": {
+      "w4j4": {
+        "createdAt": "2020-10-12T15:56:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9661,
+        "identifier": "w4j4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yowamushi Pedal: Re:GENERATION",
+        "url": "https://9anime.to/watch/yowamushi-pedal-regeneration.w4j4",
+        "image": "https://static.akacdn.ru/static/images/2018/04/2602019b882c3becf2e4c8d4d4e5981d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35880,
+        "aniId": 107875,
+        "deletedAt": null
+      }
+    }
+  }
+}

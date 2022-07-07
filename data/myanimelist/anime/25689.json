@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T17:05:52.000Z",
+  "checkedAt": "2022-05-14T17:05:52.000Z",
+  "id": 25689,
+  "type": "anime",
+  "title": "Hyakka Ryouran: Samurai After",
+  "altTitle": [
+    "Hyakka Ryouran OVA",
+    "百花繚乱 サムライアフター"
+  ],
+  "url": "https://myanimelist.net/anime/25689/Hyakka_Ryouran__Samurai_After",
+  "image": "https://cdn.myanimelist.net/images/anime/6/73391.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hyakka-ryoran.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10765"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16510"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hyakka_Ryōran"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10765,
+  "Pages": {
+    "9anime": {
+      "58o0": {
+        "createdAt": "2020-10-12T15:50:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2591,
+        "identifier": "58o0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hyakka Ryouran: Samurai After",
+        "url": "https://9anime.to/watch/hyakka-ryouran-samurai-after.58o0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZpZQP5dblYE/WQxYXrHuLUI/AAAAAAAAlzk/G_hKAwrwHME_ydJb5MMTfMaYwzH1jbuRQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25689,
+        "aniId": 20823,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hyakka-ryouran-samurai-after": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18412,
+        "identifier": "hyakka-ryouran-samurai-after",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hyakka Ryouran: Samurai After",
+        "url": "https://gogoanime.vc/category/hyakka-ryouran-samurai-after",
+        "image": "https://images.gogoanime.tv/images/upload/Hyakka Ryouran Samurai After.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25689,
+        "aniId": 20823,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3278": {
+        "identifier": "3278",
+        "malId": 25689,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hyakka Ryouran: Samurai After",
+        "url": "https://animepahe.com/a/3278"
+      }
+    },
+    "AniMixPlay": {
+      "25689": {
+        "identifier": "25689",
+        "malId": 25689,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hyakka Ryouran: Samurai After",
+        "url": "https://animixplay.to/anime/25689"
+      }
+    },
+    "YugenAnime": {
+      "1687": {
+        "identifier": "1687",
+        "malId": 25689,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hyakka Ryouran: Samurai After",
+        "url": "https://yugen.to/anime/1687/hyakka-ryouran-samurai-after/"
+      }
+    }
+  }
+}

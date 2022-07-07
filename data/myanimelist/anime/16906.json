@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-26T01:45:33.000Z",
+  "checkedAt": "2022-05-26T01:45:33.000Z",
+  "id": 16906,
+  "type": "anime",
+  "title": "Line Offline: Salaryman",
+  "altTitle": [
+    "ＬＩＮＥ ＯＦＦＬＩＮＥ サラリーマン"
+  ],
+  "url": "https://myanimelist.net/anime/16906/Line_Offline__Salaryman",
+  "image": "https://cdn.myanimelist.net/images/anime/11/45518.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/line-anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9566"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14982"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/LINE_OFFLINE_ボクら図��"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9566,
+  "Pages": {
+    "9anime": {
+      "lx9m": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6246,
+        "identifier": "lx9m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Line Offline: Salaryman",
+        "url": "https://9anime.to/watch/line-offline-salaryman.lx9m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-X9ROTUYBY_g/V7_xe1Ne7xI/AAAAAAAA5kQ/WP8x9y8tpPk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16906,
+        "aniId": 16906,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16906": {
+        "identifier": "16906",
+        "malId": 16906,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Line Offline: Salaryman",
+        "url": "https://animixplay.to/anime/16906"
+      }
+    },
+    "YugenAnime": {
+      "1595": {
+        "identifier": "1595",
+        "malId": 16906,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Line Offline: Salaryman",
+        "url": "https://yugen.to/anime/1595/line-offline-salaryman/"
+      }
+    }
+  }
+}

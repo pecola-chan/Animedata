@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-14T09:33:40.000Z",
+  "checkedAt": "2022-05-14T09:33:40.000Z",
+  "id": 17082,
+  "type": "anime",
+  "title": "Aiura",
+  "altTitle": [
+    "Aiura",
+    "あいうら"
+  ],
+  "url": "https://myanimelist.net/anime/17082/Aiura",
+  "image": "https://cdn.myanimelist.net/images/anime/4/60699.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/aiura/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9418"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15125"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aiura"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-253493"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9418,
+  "Pages": {
+    "9anime": {
+      "30zr": {
+        "createdAt": "2020-10-12T15:49:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1639,
+        "identifier": "30zr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aiura",
+        "url": "https://9anime.to/watch/aiura.30zr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WYZCgZSgSy0/V717xcrVUII/AAAAAAAA5Ho/p5rXI2JnbvA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17082,
+        "aniId": 17082,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aiura": {
+        "createdAt": "2020-10-12T15:59:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16438,
+        "identifier": "aiura",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aiura",
+        "url": "https://gogoanime.vc/category/aiura",
+        "image": "https://gogocdn.net/images/anime/A/Aiura.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17082,
+        "aniId": 17082,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "469": {
+        "identifier": "469",
+        "malId": 17082,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aiura",
+        "url": "https://animepahe.com/a/469"
+      }
+    },
+    "AniMixPlay": {
+      "17082": {
+        "identifier": "17082",
+        "malId": 17082,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aiura",
+        "url": "https://animixplay.to/anime/17082"
+      }
+    },
+    "YugenAnime": {
+      "209": {
+        "identifier": "209",
+        "malId": 17082,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aiura",
+        "url": "https://yugen.to/anime/209/aiura/"
+      }
+    }
+  }
+}

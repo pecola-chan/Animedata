@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T23:14:05.000Z",
+  "checkedAt": "2022-05-14T23:14:05.000Z",
+  "id": 7654,
+  "type": "anime",
+  "title": "Tokyo Magnitude 8.0 Recap",
+  "altTitle": [
+    "Tokyo Magnitude 8.0 Special",
+    "東京マグニチュード8.0"
+  ],
+  "url": "https://myanimelist.net/anime/7654/Tokyo_Magnitude_80_Recap",
+  "image": "https://cdn.myanimelist.net/images/anime/6/18435.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tokyo-m8.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6441"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokyo_Magnitude_8.0"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6441,
+  "Pages": {
+    "9anime": {
+      "8lr3": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2022-06-13T22:03:05.000Z",
+        "checkedAt": "2022-06-13T22:03:05.000Z",
+        "id": 3899,
+        "identifier": "8lr3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Magnitude 8.0 Recap",
+        "url": "https://9anime.to/watch/tokyo-magnitude-80-digest-version.8lr3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/9797cd4eda78b6dfef953b1e496c89a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7654,
+        "aniId": 7654,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7654": {
+        "identifier": "7654",
+        "malId": 7654,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo Magnitude 8.0 Recap",
+        "url": "https://animixplay.to/anime/7654"
+      }
+    }
+  }
+}

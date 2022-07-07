@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T21:16:05.000Z",
+  "checkedAt": "2022-05-14T21:16:05.000Z",
+  "id": 33248,
+  "type": "anime",
+  "title": "K: Seven Stories Movie 1 - R:B - Blaze",
+  "altTitle": [
+    "K-Project 7 Stories",
+    "K: SEVEN STORIES \"R:B - BLAZE -\"",
+    "K Seven Stories R:B ~BLAZE~"
+  ],
+  "url": "https://myanimelist.net/anime/33248/K__Seven_Stories_Movie_1_-_R_B_-_Blaze",
+  "image": "https://cdn.myanimelist.net/images/anime/1446/90544.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://k-project.jpn.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20818"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/K_%28anime%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278850"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12107,
+  "Pages": {
+    "9anime": {
+      "lypq": {
+        "createdAt": "2020-10-12T15:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6283,
+        "identifier": "lypq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Seven Stories Movie 1 - R:B - Blaze",
+        "url": "https://9anime.to/watch/k-seven-stories-movie-1-rb-blaze.lypq",
+        "image": "http://static.akacdn.ru/static/images/2018/04/41841720b52907279c3ed5503f7ef554.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33248,
+        "aniId": 21798,
+        "deletedAt": null
+      },
+      "xm0w": {
+        "createdAt": "2020-11-03T10:54:21.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28808,
+        "identifier": "xm0w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Seven Stories Movie 1 - R:B - Blaze (Dub)",
+        "url": "https://9anime.to/watch/k-seven-stories-rb-blaze-dub.xm0w",
+        "image": "//static.9anime.to/i/cache/images/e/e6/e6355e6fb1cd0678bcde614528ff8417.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33248,
+        "aniId": 21798,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "k-seven-stories": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18639,
+        "identifier": "k-seven-stories",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K: Seven Stories",
+        "url": "https://gogoanime.vc/category/k-seven-stories",
+        "image": "https://cdnimg.xyz/cover/k-seven-stories.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33248,
+        "aniId": 21798,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3862": {
+        "identifier": "3862",
+        "malId": 33248,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "K: Seven Stories Movie 1 - R:B - Blaze",
+        "url": "https://animepahe.com/a/3862"
+      }
+    },
+    "AniMixPlay": {
+      "33248": {
+        "identifier": "33248",
+        "malId": 33248,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "K: Seven Stories Movie 1 - R:B - Blaze",
+        "url": "https://animixplay.to/anime/33248"
+      }
+    }
+  }
+}

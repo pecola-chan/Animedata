@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T16:00:59.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18809,
+  "identifier": "kiki-to-lala-no-papa-to-mama-ni-aitai",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kiki to Lala no Papa to Mama ni Aitai",
+  "url": "https://gogoanime.vc/category/kiki-to-lala-no-papa-to-mama-ni-aitai",
+  "image": "https://gogocdn.net/cover/kiki-to-lala-no-papa-to-mama-ni-aitai.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 17979,
+  "aniId": 17979,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:19.000Z",
+    "updatedAt": "2022-04-02T18:32:11.000Z",
+    "checkedAt": null,
+    "id": 17979,
+    "type": "anime",
+    "title": "Kiki to Lala no Papa to Mama ni Aitai",
+    "altTitle": [
+      "キキとララのパパとママにあいたい"
+    ],
+    "url": "https://myanimelist.net/anime/17979/Kiki_to_Lala_no_Papa_to_Mama_ni_Aitai",
+    "image": "https://cdn.myanimelist.net/images/anime/5/47849.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sanrio.co.jp/characters/kikilala/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9195"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9195
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:32.000Z",
+    "updatedAt": "2021-12-17T14:00:47.000Z",
+    "checkedAt": null,
+    "id": 17979,
+    "type": "anime",
+    "title": "Kiki to Lala no Papa to Mama ni Aitai",
+    "altTitle": [
+      "キキとララのパパとママにあいたい"
+    ],
+    "url": "https://anilist.co/anime/17979",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17979.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 17979,
+    "deletedAt": null
+  }
+}

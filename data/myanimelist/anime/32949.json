@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T16:44:11.000Z",
+  "checkedAt": "2022-05-14T16:44:11.000Z",
+  "id": 32949,
+  "type": "anime",
+  "title": "Kuzu no Honkai",
+  "altTitle": [
+    "Scum's Wish",
+    "クズの本懐"
+  ],
+  "url": "https://myanimelist.net/anime/32949/Kuzu_no_Honkai",
+  "image": "https://cdn.myanimelist.net/images/anime/5/83937.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kuzunohonkai.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11998"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18806"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scum's_Wish"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/scums-wish"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11998,
+  "Pages": {
+    "9anime": {
+      "0kz7": {
+        "createdAt": "2020-10-12T15:48:49.000Z",
+        "updatedAt": "2022-06-14T01:04:15.000Z",
+        "checkedAt": "2022-06-14T01:04:15.000Z",
+        "id": 545,
+        "identifier": "0kz7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuzu no Honkai (Dub)",
+        "url": "https://9anime.to/watch/scums-wish-dub.0kz7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/08/bec3ca904aee45b16d4d2028c8ed3833.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32949,
+        "aniId": 21701,
+        "deletedAt": null
+      },
+      "n83l": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2022-06-14T01:31:30.000Z",
+        "checkedAt": "2022-06-14T01:31:30.000Z",
+        "id": 7019,
+        "identifier": "n83l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuzu no Honkai",
+        "url": "https://9anime.to/watch/scums-wish.n83l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/6452adb76c00856fb01305371b01a2ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32949,
+        "aniId": 21701,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kuzu-no-honkai": {
+        "createdAt": "2020-10-12T16:01:05.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19028,
+        "identifier": "kuzu-no-honkai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kuzu no Honkai",
+        "url": "https://gogoanime.vc/category/kuzu-no-honkai",
+        "image": "https://images.gogoanime.tv/cover/kuzu-no-honkai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32949,
+        "aniId": 21701,
+        "deletedAt": null
+      },
+      "kuzu-no-honkai-dub": {
+        "createdAt": "2020-11-11T22:44:39.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29129,
+        "identifier": "kuzu-no-honkai-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kuzu no Honkai (Dub)",
+        "url": "https://gogoanime.vc/category/kuzu-no-honkai-dub",
+        "image": "https://gogocdn.net/cover/kuzu-no-honkai-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32949,
+        "aniId": 21701,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1553": {
+        "identifier": "1553",
+        "malId": 32949,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kuzu no Honkai",
+        "url": "https://animepahe.com/a/1553"
+      }
+    },
+    "AniMixPlay": {
+      "32949": {
+        "identifier": "32949",
+        "malId": 32949,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kuzu no Honkai",
+        "url": "https://animixplay.to/anime/32949"
+      }
+    },
+    "YugenAnime": {
+      "2737": {
+        "identifier": "2737",
+        "malId": 32949,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kuzu no Honkai",
+        "url": "https://yugen.to/anime/2737/kuzu-no-honkai/"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-14T18:12:17.000Z",
+  "checkedAt": "2022-05-14T18:12:17.000Z",
+  "id": 36290,
+  "type": "anime",
+  "title": "Xiang Ling Ji",
+  "altTitle": [
+    "Tales of Exorcism",
+    "降灵记"
+  ],
+  "url": "https://myanimelist.net/anime/36290/Xiang_Ling_Ji",
+  "image": "https://cdn.myanimelist.net/images/anime/1602/93041.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13442"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13442,
+  "Pages": {
+    "9anime": {
+      "9rx0": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4441,
+        "identifier": "9rx0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Xiang Ling Ji",
+        "url": "https://9anime.to/watch/xiang-ling-ji.9rx0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/710c768f1200483532a1735cfc26ca1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 36290,
+        "aniId": 99847,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "xiang-ling-ji": {
+        "createdAt": "2020-10-12T16:02:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21470,
+        "identifier": "xiang-ling-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Xiang Ling Ji",
+        "url": "https://gogoanime.vc/category/xiang-ling-ji",
+        "image": "https://cdnimg.xyz/cover/xiang-ling-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36290,
+        "aniId": 99847,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36290": {
+        "identifier": "36290",
+        "malId": 36290,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Xiang Ling Ji",
+        "url": "https://animixplay.to/anime/36290"
+      }
+    },
+    "YugenAnime": {
+      "2319": {
+        "identifier": "2319",
+        "malId": 36290,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Xiang Ling Ji",
+        "url": "https://yugen.to/anime/2319/xiang-ling-ji/"
+      }
+    }
+  }
+}

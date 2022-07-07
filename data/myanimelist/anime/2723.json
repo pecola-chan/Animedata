@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T22:16:47.000Z",
+  "checkedAt": "2022-05-14T22:16:47.000Z",
+  "id": 2723,
+  "type": "anime",
+  "title": "D4 Princess",
+  "altTitle": [
+    "Drill for Princess",
+    "D4 プリンセス"
+  ],
+  "url": "https://myanimelist.net/anime/2723/D4_Princess",
+  "image": "https://cdn.myanimelist.net/images/anime/6/36383.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=672"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=414"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/D4_Princess"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 672,
+  "Pages": {
+    "9anime": {
+      "81kq": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3709,
+        "identifier": "81kq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D4 Princess",
+        "url": "https://9anime.to/watch/d4-princess.81kq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-j1WbLn__-So/V8VmlNDzb4I/AAAAAAAA6gg/48RHk2H3oaM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2723,
+        "aniId": 2723,
+        "deletedAt": null
+      }
+    }
+  }
+}

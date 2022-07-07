@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-15T09:52:11.000Z",
+  "checkedAt": "2022-05-15T09:52:11.000Z",
+  "id": 27907,
+  "type": "anime",
+  "title": "Gundam Build Fighters Specials",
+  "altTitle": [
+    "Gundam Build Fighters: SD Kishi Fighters",
+    "Gundam Build Fighters: 6 Years Later",
+    "ガンダムビルドファイターズ"
+  ],
+  "url": "https://myanimelist.net/anime/27907/Gundam_Build_Fighters_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/8/67643.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gundam-bf.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9960"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9960,
+  "Pages": {
+    "Gogoanime": {
+      "gundam-build-fighters-sd-kishi-fighters": {
+        "createdAt": "2020-10-12T16:00:36.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18032,
+        "identifier": "gundam-build-fighters-sd-kishi-fighters",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gundam Build Fighters: SD Kishi Fighters",
+        "url": "https://gogoanime.vc/category/gundam-build-fighters-sd-kishi-fighters",
+        "image": "https://cdnimg.xyz/images/fall/Gundam Build Fighters SD Kishi Fighters.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27907,
+        "aniId": 20925,
+        "deletedAt": null
+      },
+      "gundam-build-fighters-tv-special": {
+        "createdAt": "2020-10-12T16:00:36.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18035,
+        "identifier": "gundam-build-fighters-tv-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gundam Build Fighters TV Special",
+        "url": "https://gogoanime.vc/category/gundam-build-fighters-tv-special",
+        "image": "https://gogocdn.net/images/anime/G/Gundam-Build-Fighters.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27907,
+        "aniId": 20925,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3532": {
+        "identifier": "3532",
+        "malId": 27907,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gundam Build Fighters Specials",
+        "url": "https://animepahe.com/a/3532"
+      }
+    },
+    "AniMixPlay": {
+      "27907": {
+        "identifier": "27907",
+        "malId": 27907,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gundam Build Fighters Specials",
+        "url": "https://animixplay.to/anime/27907"
+      }
+    },
+    "YugenAnime": {
+      "5869": {
+        "identifier": "5869",
+        "malId": 27907,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gundam Build Fighters Specials",
+        "url": "https://yugen.to/anime/5869/gundam-build-fighters-tv-special/"
+      }
+    }
+  }
+}

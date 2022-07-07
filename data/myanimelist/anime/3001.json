@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T17:52:53.000Z",
+  "checkedAt": "2022-05-14T17:52:53.000Z",
+  "id": 3001,
+  "type": "anime",
+  "title": "Moyashimon",
+  "altTitle": [
+    "Moyasimon",
+    "Tales of Agriculture",
+    "もやしもん"
+  ],
+  "url": "https://myanimelist.net/anime/3001/Moyashimon",
+  "image": "https://cdn.myanimelist.net/images/anime/5/37533.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kamosuzo.tv/top.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5305"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8064"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Moyashimon"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-247118"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5305,
+  "Pages": {
+    "9anime": {
+      "pjn9": {
+        "createdAt": "2020-10-12T15:54:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7954,
+        "identifier": "pjn9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Moyashimon",
+        "url": "https://9anime.to/watch/moyashimon.pjn9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Of4uLCn9aNA/V6iZrLNePJI/AAAAAAAA1XA/HTEaSBYvT2o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3001,
+        "aniId": 3001,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "moyashimon": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19563,
+        "identifier": "moyashimon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Moyashimon",
+        "url": "https://gogoanime.vc/category/moyashimon",
+        "image": "https://cdnimg.xyz/images/anime/M/moyashimon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3001,
+        "aniId": 3001,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "385": {
+        "identifier": "385",
+        "malId": 3001,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Moyashimon",
+        "url": "https://animepahe.com/a/385"
+      }
+    },
+    "AniMixPlay": {
+      "3001": {
+        "identifier": "3001",
+        "malId": 3001,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Moyashimon",
+        "url": "https://animixplay.to/anime/3001"
+      }
+    },
+    "YugenAnime": {
+      "471": {
+        "identifier": "471",
+        "malId": 3001,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Moyashimon",
+        "url": "https://yugen.to/anime/471/moyashimon/"
+      }
+    }
+  }
+}

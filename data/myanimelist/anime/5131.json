@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-06-30T07:41:59.000Z",
+  "checkedAt": "2022-06-30T07:41:59.000Z",
+  "id": 5131,
+  "type": "anime",
+  "title": "Groizer X",
+  "altTitle": [
+    "Groyzer-X",
+    "Gloizer X",
+    "グロイザーＸ"
+  ],
+  "url": "https://myanimelist.net/anime/5131/Groizer_X",
+  "image": "https://cdn.myanimelist.net/images/anime/10/10054.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2237"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2243"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gloizer_X"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2237,
+  "Pages": {
+    "9anime": {
+      "pv59": {
+        "createdAt": "2020-10-12T15:54:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8121,
+        "identifier": "pv59",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gloizer X",
+        "url": "https://9anime.to/watch/gloizer-x.pv59",
+        "image": "https://static.akacdn.ru/static/images/2018/12/bf4d62bd5da8adc7cbca6e69120772f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5131,
+        "aniId": 5131,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "groizer-x": {
+        "createdAt": "2021-07-14T04:50:49.000Z",
+        "updatedAt": "2021-07-14T05:20:49.000Z",
+        "checkedAt": null,
+        "id": 37860,
+        "identifier": "groizer-x",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Groizer X",
+        "url": "https://gogoanime.pe/category/groizer-x",
+        "image": "https://gogocdn.net/cover/groizer-x.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5131,
+        "aniId": 5131,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5131": {
+        "identifier": "5131",
+        "malId": 5131,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Groizer X",
+        "url": "https://animixplay.to/anime/5131"
+      }
+    },
+    "YugenAnime": {
+      "7904": {
+        "identifier": "7904",
+        "malId": 5131,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Groizer X",
+        "url": "https://yugen.to/anime/7904/groizer-x/"
+      }
+    }
+  }
+}

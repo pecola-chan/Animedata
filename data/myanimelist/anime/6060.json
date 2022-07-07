@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-18T15:55:28.000Z",
+  "checkedAt": "2022-05-18T15:55:28.000Z",
+  "id": 6060,
+  "type": "anime",
+  "title": "1-gatsu ni wa Christmas",
+  "altTitle": [
+    "Ichigatsu ni wa Christmas",
+    "Christmas in January",
+    "1月にはChristmas"
+  ],
+  "url": "https://myanimelist.net/anime/6060/1-gatsu_ni_wa_Christmas",
+  "image": "https://cdn.myanimelist.net/images/anime/11/46845.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2769"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2703"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/1%E6%9C%88%E3%81%AB%E3%81%AFChristmas"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2769,
+  "Pages": {
+    "9anime": {
+      "2ny4": {
+        "createdAt": "2021-01-29T21:30:44.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34335,
+        "identifier": "2ny4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "1-gatsu ni wa Christmas",
+        "url": "https://9anime.to/watch/christmas-in-january.2ny4",
+        "image": "//static.bunnycdn.ru/i/cache/images/2019/01/81844f4de8fa13866123f254c6e5e526.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6060,
+        "aniId": 6060,
+        "deletedAt": null
+      }
+    }
+  }
+}

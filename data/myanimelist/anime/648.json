@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T23:03:47.000Z",
+  "checkedAt": "2022-05-14T23:03:47.000Z",
+  "id": 648,
+  "type": "anime",
+  "title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+  "altTitle": [
+    "Hani Hani: Operation Sanctuary",
+    "The Moon is East, The Sun is West: Operation Sanctuary",
+    "月は東に日は西に〜Operation Sanctuary〜"
+  ],
+  "url": "https://myanimelist.net/anime/648/Tsuki_wa_Higashi_ni_Hi_wa_Nishi_ni__Operation_Sanctuary",
+  "image": "https://cdn.myanimelist.net/images/anime/1/648.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hanihani.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2064"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2914"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tsuki_wa_Higashi_ni_Hi_wa_Nishi_ni:_Operation_Sanctuary"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2064,
+  "Pages": {
+    "9anime": {
+      "6124": {
+        "createdAt": "2020-10-12T15:48:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 187,
+        "identifier": "6124",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+        "url": "https://9anime.to/watch/tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary.6124",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-C58B6p-gq84/V9Zks-Ka3_I/AAAAAAAA9lE/m3S-g5cx4lg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 648,
+        "aniId": 648,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "648": {
+        "identifier": "648",
+        "malId": 648,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+        "url": "https://animixplay.to/anime/648"
+      }
+    },
+    "YugenAnime": {
+      "6673": {
+        "identifier": "6673",
+        "malId": 648,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+        "url": "https://yugen.to/anime/6673/hani-hani-operation-sanctuary/"
+      }
+    }
+  }
+}

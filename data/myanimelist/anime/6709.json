@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T22:36:53.000Z",
+  "checkedAt": "2022-05-14T22:36:53.000Z",
+  "id": 6709,
+  "type": "anime",
+  "title": "Ai Yori Aoshi: Yumegatari",
+  "altTitle": [
+    "Ai Yori Aoshi: Dream Story",
+    "Ai Yori Aoshi: Speaking of Dreams",
+    "藍より青し 夢語り"
+  ],
+  "url": "https://myanimelist.net/anime/6709/Ai_Yori_Aoshi__Yumegatari",
+  "image": "https://cdn.myanimelist.net/images/anime/2/15405.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aiyoriaoshi.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=74"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ai_Yori_Aoshi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 74,
+  "Pages": {
+    "9anime": {
+      "vrr2": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9448,
+        "identifier": "vrr2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai Yori Aoshi: Speaking of Dreams",
+        "url": "https://9anime.to/watch/ai-yori-aoshi-speaking-of-dreams.vrr2",
+        "image": "https://static.akacdn.ru/files/images/2018/02/cf9b9e888e664334d43f8885bab13dbc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6709,
+        "aniId": 6709,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6709": {
+        "identifier": "6709",
+        "malId": 6709,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ai Yori Aoshi: Yumegatari",
+        "url": "https://animixplay.to/anime/6709"
+      }
+    }
+  }
+}

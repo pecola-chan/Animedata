@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-15T03:44:29.000Z",
+  "checkedAt": "2022-05-15T03:44:29.000Z",
+  "id": 34799,
+  "type": "anime",
+  "title": "PriPri Chii-chan!!",
+  "altTitle": [
+    "Puripuri Chii-chan!!",
+    "Puri Puri",
+    "PriPri Chi-chan!!",
+    "プリプリちぃちゃん!!"
+  ],
+  "url": "https://myanimelist.net/anime/34799/PriPri_Chii-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/10/83963.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pasu-chi.com/chi-chan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12745"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19325"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%97%E3%83%AA%E3%81%A1%E3%81%83%E3%81%A1%E3%82%83%E3%82%93!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272979"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12745,
+  "Pages": {
+    "9anime": {
+      "l5pm": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5867,
+        "identifier": "l5pm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "PriPri Chii-chan!!",
+        "url": "https://9anime.to/watch/pripri-chii-chan.l5pm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i5HIMeFaLtE/WNXqA0x8nUI/AAAAAAABgfg/CKW6t29UKpU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34799,
+        "aniId": 98228,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "puripuri-chii-chan": {
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20191,
+        "identifier": "puripuri-chii-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Puripuri Chii-chan!!",
+        "url": "https://gogoanime.vc/category/puripuri-chii-chan",
+        "image": "https://images.gogoanime.tv/cover/puripuri-chii-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34799,
+        "aniId": 98228,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2098": {
+        "identifier": "2098",
+        "malId": 34799,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "PriPri Chii-chan!!",
+        "url": "https://animepahe.com/a/2098"
+      }
+    },
+    "AniMixPlay": {
+      "34799": {
+        "identifier": "34799",
+        "malId": 34799,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "PriPri Chii-chan!!",
+        "url": "https://animixplay.to/anime/34799"
+      }
+    },
+    "YugenAnime": {
+      "2173": {
+        "identifier": "2173",
+        "malId": 34799,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "PriPri Chii-chan!!",
+        "url": "https://yugen.to/anime/2173/puripuri-chii-chan/"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:01:46.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20435,
+  "identifier": "sasurai-no-shoujo-nell",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sasurai no Shoujo Nell",
+  "url": "https://gogoanime.vc/category/sasurai-no-shoujo-nell",
+  "image": "https://cdnimg.xyz/cover/sasurai-no-shoujo-nell.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3877,
+  "aniId": 3877,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:40.000Z",
+    "updatedAt": "2022-05-14T22:57:52.000Z",
+    "checkedAt": "2022-05-14T22:57:52.000Z",
+    "id": 3877,
+    "type": "anime",
+    "title": "Sasurai no Shoujo Nell",
+    "altTitle": [
+      "Little Nell",
+      "Nell the Wandering Girl",
+      "さすらいの少女ネル"
+    ],
+    "url": "https://myanimelist.net/anime/3877/Sasurai_no_Shoujo_Nell",
+    "image": "https://cdn.myanimelist.net/images/anime/1496/101490.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2823"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1726"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%E3%83%8D%E3%83%AB"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2823
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:29.000Z",
+    "updatedAt": "2022-05-15T19:47:23.000Z",
+    "checkedAt": "2022-05-15T19:47:23.000Z",
+    "id": 3877,
+    "type": "anime",
+    "title": "Sasurai no Shoujo Nell",
+    "altTitle": [
+      "Nell the Wandering Girl",
+      "さすらいの少女ネル",
+      "Little Nell"
+    ],
+    "url": "https://anilist.co/anime/3877",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3877.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3877,
+    "deletedAt": null
+  }
+}

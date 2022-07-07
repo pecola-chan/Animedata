@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-16T14:26:03.000Z",
+  "checkedAt": "2022-05-16T14:26:03.000Z",
+  "id": 3887,
+  "type": "anime",
+  "title": "Ookiku Furikabutte: Kihon no Kihon",
+  "altTitle": [
+    "Ookiku Furikabutte - The Basics of Basics",
+    "Oofuri",
+    "Ohkiku Furikabutte",
+    "Swing Big!",
+    "Big Windup!",
+    "おおきく振りかぶって 基本のキホン"
+  ],
+  "url": "https://myanimelist.net/anime/3887/Ookiku_Furikabutte__Kihon_no_Kihon",
+  "image": "https://cdn.myanimelist.net/images/anime/1588/108620.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oofuri.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4923"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ookiku_Furikabutte"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4923,
+  "Pages": {
+    "9anime": {
+      "26q": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1305,
+        "identifier": "26q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ookiku Furikabutte Special",
+        "url": "https://9anime.to/watch/ookiku-furikabutte-special.26q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Key37U1pax4/V4JVS-O31TI/AAAAAAAAud8/rn6GcxMuyIw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3887,
+        "aniId": 3887,
+        "deletedAt": null
+      },
+      "8q8v": {
+        "createdAt": "2020-10-12T15:51:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3983,
+        "identifier": "8q8v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ookiku Furikabutte Special (Dub)",
+        "url": "https://9anime.to/watch/ookiku-furikabutte-special-dub.8q8v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OAcHXNN8cqk/WYfIwBRUlRI/AAAAAAAABKg/RsJCIq9rTNwxIv-oUE4b6_vB72A8QmUowCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3887,
+        "aniId": 3887,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "5775": {
+        "identifier": "5775",
+        "malId": 3887,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ookiku Furikabutte: Kihon no Kihon",
+        "url": "https://yugen.to/anime/5775/ookiku-furikabutte-big-windup/"
+      }
+    }
+  }
+}

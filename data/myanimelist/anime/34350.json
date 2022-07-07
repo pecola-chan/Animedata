@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-14T18:18:29.000Z",
+  "checkedAt": "2022-05-14T18:18:29.000Z",
+  "id": 34350,
+  "type": "anime",
+  "title": "Alice to Zouroku",
+  "altTitle": [
+    "Alice & Zoroku",
+    "アリスと蔵六"
+  ],
+  "url": "https://myanimelist.net/anime/34350/Alice_to_Zouroku",
+  "image": "https://cdn.myanimelist.net/images/anime/2/84598.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.alicetozouroku.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12526"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19024"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alice_to_Zouroku"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272893"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/alice-zoroku"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12526,
+  "Pages": {
+    "9anime": {
+      "532v": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2498,
+        "identifier": "532v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Alice to Zouroku",
+        "url": "https://9anime.to/watch/alice-to-zouroku.532v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7CEF-DX2OQg/WOGe0OflyII/AAAAAAAAe9I/RuaknI4lTAk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34350,
+        "aniId": 97821,
+        "deletedAt": null
+      },
+      "z39p": {
+        "createdAt": "2020-10-12T15:57:03.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10987,
+        "identifier": "z39p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Alice to Zouroku (Dub)",
+        "url": "https://9anime.to/watch/alice-to-zouroku-dub.z39p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OZEHYlhb56o/WQuCRn4pBJI/AAAAAAAAlo8/L7A-L-Ho3aQzKWIOp3rkGuxvU8spkDpigCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34350,
+        "aniId": 97821,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "alice-to-zouroku": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16488,
+        "identifier": "alice-to-zouroku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Alice to Zouroku",
+        "url": "https://gogoanime.vc/category/alice-to-zouroku",
+        "image": "https://cdnimg.xyz/cover/alice-to-zouroku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34350,
+        "aniId": 97821,
+        "deletedAt": null
+      },
+      "alice-to-zouroku-special": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16489,
+        "identifier": "alice-to-zouroku-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Alice to Zouroku Special",
+        "url": "https://gogoanime.vc/category/alice-to-zouroku-special",
+        "image": "https://cdnimg.xyz/cover/alice-to-zouroku-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34350,
+        "aniId": 97821,
+        "deletedAt": null
+      },
+      "alice-to-zouroku-dub": {
+        "createdAt": "2021-03-20T21:05:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35803,
+        "identifier": "alice-to-zouroku-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Alice to Zouroku (Dub)",
+        "url": "https://gogoanime.vc/category/alice-to-zouroku-dub",
+        "image": "https://gogocdn.net/cover/alice-to-zouroku-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34350,
+        "aniId": 97821,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2016": {
+        "identifier": "2016",
+        "malId": 34350,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Alice to Zouroku",
+        "url": "https://animepahe.com/a/2016"
+      }
+    },
+    "AniMixPlay": {
+      "34350": {
+        "identifier": "34350",
+        "malId": 34350,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Alice to Zouroku",
+        "url": "https://animixplay.to/anime/34350"
+      }
+    },
+    "YugenAnime": {
+      "3810": {
+        "identifier": "3810",
+        "malId": 34350,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Alice to Zouroku",
+        "url": "https://yugen.to/anime/3810/alice-to-zouroku/"
+      }
+    }
+  }
+}

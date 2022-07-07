@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T16:01:55.000Z",
+  "updatedAt": "2021-09-08T02:34:42.000Z",
+  "checkedAt": null,
+  "id": 20729,
+  "identifier": "sister-princess-re-pure",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sister Princess: Re Pure",
+  "url": "https://gogoanime.pe/category/sister-princess-re-pure",
+  "image": "https://gogocdn.net/images/Sister Princess - Re Pure.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 835,
+  "aniId": 835,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:09.000Z",
+    "updatedAt": "2022-05-14T23:03:11.000Z",
+    "checkedAt": "2022-05-14T23:03:11.000Z",
+    "id": 835,
+    "type": "anime",
+    "title": "Sister Princess: Re Pure",
+    "altTitle": [
+      "Sister Princess Repure",
+      "シスター・プリンセス ～リピュア～"
+    ],
+    "url": "https://myanimelist.net/anime/835/Sister_Princess__Re_Pure",
+    "image": "https://cdn.myanimelist.net/images/anime/2/25293.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.starchild.co.jp/special/repure/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=474"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1824"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sister_Princess_(anime)"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-280703"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 474
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:46.000Z",
+    "updatedAt": "2022-05-15T15:08:23.000Z",
+    "checkedAt": "2022-05-15T15:08:23.000Z",
+    "id": 835,
+    "type": "anime",
+    "title": "Sister Princess RePure",
+    "altTitle": [
+      "シスター・プリンセス ～リピュア～"
+    ],
+    "url": "https://anilist.co/anime/835",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx835-zwS3iHfCpo95.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 835,
+    "deletedAt": null
+  }
+}

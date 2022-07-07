@@ -1,0 +1,78 @@
+{
+  "createdAt": "2022-03-23T02:28:30.000Z",
+  "updatedAt": "2022-03-23T02:57:13.000Z",
+  "checkedAt": null,
+  "id": 40512,
+  "identifier": "non-non-biyori-nonstop-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Non Non Biyori Nonstop OVA",
+  "url": "https://gogoanime.fi/category/non-non-biyori-nonstop-ova",
+  "image": "https://gogocdn.net/cover/non-non-biyori-nonstop-ova.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 49521,
+  "aniId": 137337,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-08-29T09:07:30.000Z",
+    "updatedAt": "2022-05-14T18:24:41.000Z",
+    "checkedAt": "2022-05-14T18:24:41.000Z",
+    "id": 49521,
+    "type": "anime",
+    "title": "Non Non Biyori Nonstop: Bukatsu wo Ganbatta",
+    "altTitle": [
+      "Non Non Biyori Nonstop Episode 13",
+      "Non Non Biyori Nonstop OVA",
+      "のんのんびより のんすとっぷ 部活をがんばった"
+    ],
+    "url": "https://myanimelist.net/anime/49521/Non_Non_Biyori_Nonstop__Bukatsu_wo_Ganbatta",
+    "image": "https://cdn.myanimelist.net/images/anime/1984/120788.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://nonnontv.com/tvanime/news/8239"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16507"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24592"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Non_Non_Biyori#Anime"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16507
+  },
+  "Ani": {
+    "createdAt": "2021-08-02T03:47:28.000Z",
+    "updatedAt": "2022-05-15T12:47:47.000Z",
+    "checkedAt": "2022-05-15T12:47:47.000Z",
+    "id": 137337,
+    "type": "anime",
+    "title": "Non Non Biyori: Nonstop - Bukatsu wo Ganbatta",
+    "altTitle": [
+      "Non Non Biyori Nonstop: Our Club Worked Hard",
+      "のんのんびより のんすとっぷ 部活をがんばった",
+      "Non Non Biyori: Nonstop OVA",
+      "のんのんびより のんすとっぷ OAD"
+    ],
+    "url": "https://anilist.co/anime/137337",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137337-5iTk3YEYoZyS.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 49521,
+    "deletedAt": null
+  }
+}

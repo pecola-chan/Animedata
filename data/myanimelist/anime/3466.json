@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T17:05:26.000Z",
+  "checkedAt": "2022-05-14T17:05:26.000Z",
+  "id": 3466,
+  "type": "anime",
+  "title": "Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance",
+  "altTitle": [
+    "Kino no Tabi: Tower Country/Free Lance",
+    "Kino's Travels",
+    "Kino no Tabi Episode 00",
+    "Kino's Journey: Tower Country",
+    "キノの旅 -the Beautiful World- 塔の国 -Free Lance-"
+  ],
+  "url": "https://myanimelist.net/anime/3466/Kino_no_Tabi__The_Beautiful_World_-_Tou_no_Kuni_-_Free_Lance",
+  "image": "https://cdn.myanimelist.net/images/anime/11/62873.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kinonotabi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=575"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 575,
+  "Pages": {
+    "9anime": {
+      "41zk": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2022-05-01T00:32:53.000Z",
+        "checkedAt": null,
+        "id": 2063,
+        "identifier": "41zk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kino no Tabi: The Beautiful World - Tou no Kuni: Free Lance",
+        "url": "https://9anime.to/watch/kinos-journey-tower-country.41zk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b51f74f99d6d8daac6c252cd27e6deaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3466,
+        "aniId": 3466,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1273": {
+        "identifier": "1273",
+        "malId": 3466,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance",
+        "url": "https://animepahe.com/a/1273"
+      }
+    },
+    "AniMixPlay": {
+      "3466": {
+        "identifier": "3466",
+        "malId": 3466,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance",
+        "url": "https://animixplay.to/anime/3466"
+      }
+    }
+  }
+}

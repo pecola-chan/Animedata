@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T16:00:00.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 16844,
+  "identifier": "blade-and-soul-specials",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Blade and Soul Specials",
+  "url": "https://gogoanime.vc/category/blade-and-soul-specials",
+  "image": "https://gogocdn.net/images/spring/Blade and Soul.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 23781,
+  "aniId": 20836,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:27.000Z",
+    "updatedAt": "2022-05-15T00:30:59.000Z",
+    "checkedAt": "2022-05-15T00:30:59.000Z",
+    "id": 23781,
+    "type": "anime",
+    "title": "Blade & Soul Specials",
+    "altTitle": [
+      "Blade and Soul Specials",
+      "ブレイドアンドソウル"
+    ],
+    "url": "https://myanimelist.net/anime/23781/Blade___Soul_Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/11/70471.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/blade/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10432"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15893"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Blade_&_Soul"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10432
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:34.000Z",
+    "updatedAt": "2022-05-15T11:03:47.000Z",
+    "checkedAt": "2022-05-15T11:03:47.000Z",
+    "id": 20836,
+    "type": "anime",
+    "title": "Blade & Soul Specials",
+    "altTitle": [
+      "ブレイドアンドソウル"
+    ],
+    "url": "https://anilist.co/anime/20836",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20836.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 23781,
+    "deletedAt": null
+  }
+}

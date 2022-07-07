@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T22:22:17.000Z",
+  "checkedAt": "2022-05-14T22:22:17.000Z",
+  "id": 38669,
+  "type": "anime",
+  "title": "Tsukiuta. The Animation 2",
+  "altTitle": [
+    "Tsukiuta. The Animation Second Season",
+    "Tsukiani. 2",
+    "ツキウタ. THE ANIMATION 2"
+  ],
+  "url": "https://myanimelist.net/anime/38669/Tsukiuta_The_Animation_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1390/112207.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tsukiani.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14485"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21735"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsukiuta"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280009"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14485,
+  "Pages": {
+    "9anime": {
+      "7ny1": {
+        "createdAt": "2020-10-12T19:31:58.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23927,
+        "identifier": "7ny1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsukiuta. The Animation 2",
+        "url": "https://9anime.to/watch/tsukiuta-the-animation-2.7ny1",
+        "image": "//static.9anime.to/i/cache/images/2/2e/2e3580788d604702dfec798d3977d4a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38669,
+        "aniId": 105244,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4112": {
+        "identifier": "4112",
+        "malId": 38669,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tsukiuta. The Animation 2",
+        "url": "https://animepahe.com/a/4112"
+      }
+    },
+    "AniMixPlay": {
+      "38669": {
+        "identifier": "38669",
+        "malId": 38669,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsukiuta. The Animation 2",
+        "url": "https://animixplay.to/anime/38669"
+      }
+    },
+    "YugenAnime": {
+      "6797": {
+        "identifier": "6797",
+        "malId": 38669,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsukiuta. The Animation 2",
+        "url": "https://yugen.to/anime/6797/tsukiuta-the-animation-2/"
+      }
+    }
+  }
+}

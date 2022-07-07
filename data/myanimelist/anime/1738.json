@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-14T17:48:23.000Z",
+  "checkedAt": "2022-05-14T17:48:23.000Z",
+  "id": 1738,
+  "type": "anime",
+  "title": "Muteki Kanban Musume",
+  "altTitle": [
+    "Noodle Fighter Miki",
+    "Ramen Fighter Miki",
+    "無敵看板娘"
+  ],
+  "url": "https://myanimelist.net/anime/1738/Muteki_Kanban_Musume",
+  "image": "https://cdn.myanimelist.net/images/anime/7/26444.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.onimaru.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4381"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6606"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Muteki_Kanban_Musume"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-88344"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4381,
+  "Pages": {
+    "9anime": {
+      "vqj4": {
+        "createdAt": "2020-10-12T15:55:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9427,
+        "identifier": "vqj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Muteki Kanban Musume",
+        "url": "https://9anime.to/watch/muteki-kanban-musume.vqj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-X4y6ox-6Q3w/V7muE8RVjVI/AAAAAAAA4tc/10Zb5HXDu40/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1738,
+        "aniId": 1738,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ramen-fighter-miki": {
+        "createdAt": "2020-12-13T04:19:51.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30116,
+        "identifier": "ramen-fighter-miki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ramen Fighter Miki",
+        "url": "https://gogoanime.vc/category/ramen-fighter-miki",
+        "image": "https://gogocdn.net/images/anime/R/240xNxramen-fighter-miki.jpg.pagespeed.ic.0CiMYFnenN.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1738,
+        "aniId": 1738,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1738": {
+        "identifier": "1738",
+        "malId": 1738,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Muteki Kanban Musume",
+        "url": "https://animixplay.to/anime/1738"
+      }
+    }
+  }
+}

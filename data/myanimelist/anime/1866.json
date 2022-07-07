@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-15T13:57:10.000Z",
+  "checkedAt": "2022-05-15T13:57:10.000Z",
+  "id": 1866,
+  "type": "anime",
+  "title": "Seirei Tsukai",
+  "altTitle": [
+    "Elementalors",
+    "精霊使い"
+  ],
+  "url": "https://myanimelist.net/anime/1866/Seirei_Tsukai",
+  "image": "https://cdn.myanimelist.net/images/anime/1/1866.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2792"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2121"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Elementalors"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2792,
+  "Pages": {
+    "9anime": {
+      "l553": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2022-06-14T03:12:32.000Z",
+        "checkedAt": "2022-06-14T03:12:32.000Z",
+        "id": 5854,
+        "identifier": "l553",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seirei Tsukai",
+        "url": "https://9anime.to/watch/elementalors.l553",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/830cdf05fb8e64f715818817c13ac26d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1866,
+        "aniId": 1866,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seirei-tsukai": {
+        "createdAt": "2022-04-08T17:00:36.000Z",
+        "updatedAt": "2022-04-08T17:30:22.000Z",
+        "checkedAt": null,
+        "id": 40671,
+        "identifier": "seirei-tsukai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seirei Tsukai",
+        "url": "https://gogoanime.fi/category/seirei-tsukai",
+        "image": "https://gogocdn.net/cover/seirei-tsukai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1866,
+        "aniId": 1866,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1866": {
+        "identifier": "1866",
+        "malId": 1866,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seirei Tsukai",
+        "url": "https://animixplay.to/anime/1866"
+      }
+    },
+    "YugenAnime": {
+      "11894": {
+        "identifier": "11894",
+        "malId": 1866,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seirei Tsukai",
+        "url": "https://yugen.to/anime/11894/seirei-tsukai/"
+      }
+    }
+  }
+}

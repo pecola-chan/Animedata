@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T22:37:47.000Z",
+  "checkedAt": "2022-05-14T22:37:47.000Z",
+  "id": 7770,
+  "type": "anime",
+  "title": "Yutori-chan",
+  "altTitle": [
+    "ゆとりちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/7770/Yutori-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/2/38359.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yutori-chan.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7276"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11219"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ゆとりちゃん"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7276,
+  "Pages": {
+    "9anime": {
+      "x4vw": {
+        "createdAt": "2020-10-12T15:56:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10126,
+        "identifier": "x4vw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yutori-chan",
+        "url": "https://9anime.to/watch/yutori-chan.x4vw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1tG_ESn_fPo/WTCwy6l0BAI/AAAAAAAArjY/sXSTRUyIvgQ4z171cuFKbXCgmn60r2FVACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7770,
+        "aniId": 7770,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yutori-chan": {
+        "createdAt": "2020-10-26T03:42:31.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27965,
+        "identifier": "yutori-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yutori-chan",
+        "url": "https://gogoanime.vc/category/yutori-chan",
+        "image": "https://gogocdn.net/cover/yutori-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7770,
+        "aniId": 7770,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7770": {
+        "identifier": "7770",
+        "malId": 7770,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yutori-chan",
+        "url": "https://animixplay.to/anime/7770"
+      }
+    },
+    "YugenAnime": {
+      "6671": {
+        "identifier": "6671",
+        "malId": 7770,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yutori-chan",
+        "url": "https://yugen.to/anime/6671/yutori-chan/"
+      }
+    }
+  }
+}

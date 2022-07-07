@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T23:31:17.000Z",
+  "checkedAt": "2022-05-14T23:31:17.000Z",
+  "id": 33840,
+  "type": "anime",
+  "title": "Kabuki-bu!",
+  "altTitle": [
+    "Kabukibu!",
+    "カブキブ！"
+  ],
+  "url": "https://myanimelist.net/anime/33840/Kabuki-bu",
+  "image": "https://cdn.myanimelist.net/images/anime/4/85291.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/kabukibu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12329"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18691"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kabukibu!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/kabukibu"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12329,
+  "Pages": {
+    "9anime": {
+      "r97p": {
+        "createdAt": "2020-10-12T15:55:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8837,
+        "identifier": "r97p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kabuki-bu!",
+        "url": "https://9anime.to/watch/kabuki-bu.r97p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-B8rsvpwMd2w/WFZ3Iy5Cl4I/AAAAAAABTXs/vL6dmjh_olE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33840,
+        "aniId": 87500,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kabukibu": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18640,
+        "identifier": "kabukibu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kabukibu!",
+        "url": "https://gogoanime.vc/category/kabukibu",
+        "image": "https://gogocdn.net/cover/kabukibu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33840,
+        "aniId": 87500,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2029": {
+        "identifier": "2029",
+        "malId": 33840,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kabuki-bu!",
+        "url": "https://animepahe.com/a/2029"
+      }
+    },
+    "AniMixPlay": {
+      "33840": {
+        "identifier": "33840",
+        "malId": 33840,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kabuki-bu!",
+        "url": "https://animixplay.to/anime/33840"
+      }
+    },
+    "YugenAnime": {
+      "15039": {
+        "identifier": "15039",
+        "malId": 33840,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kabuki-bu!",
+        "url": "https://yugen.to/anime/15039/kabukibu/"
+      }
+    }
+  }
+}

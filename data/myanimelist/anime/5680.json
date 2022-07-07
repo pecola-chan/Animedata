@@ -1,0 +1,141 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T09:45:31.000Z",
+  "checkedAt": "2022-05-14T09:45:31.000Z",
+  "id": 5680,
+  "type": "anime",
+  "title": "K-On!",
+  "altTitle": [
+    "Keion",
+    "K-ON! Season 1",
+    "K-ON!",
+    "けいおん!"
+  ],
+  "url": "https://myanimelist.net/anime/5680/K-On",
+  "image": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/k-on/k-on_tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6257"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/K-On!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280851"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/k-on-season-1"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6257,
+  "Pages": {
+    "9anime": {
+      "m33v": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6354,
+        "identifier": "m33v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K-On! (Dub)",
+        "url": "https://9anime.to/watch/k-on-dub.m33v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sBcfzQ3B98M/V8zjVAH-WgI/AAAAAAAA7ek/mfNIOU4H9p4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5680,
+        "aniId": 5680,
+        "deletedAt": null
+      },
+      "v84": {
+        "createdAt": "2020-10-12T15:55:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9293,
+        "identifier": "v84",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K-On!",
+        "url": "https://9anime.to/watch/k-on.v84",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dChCIGuMxE8/V3PA6NxtsJI/AAAAAAAAsHI/oAYdV3wXdu0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5680,
+        "aniId": 5680,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "k-on": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18632,
+        "identifier": "k-on",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K-ON!",
+        "url": "https://gogoanime.vc/category/k-on",
+        "image": "https://images.gogoanime.tv/images/anime/K/K-on.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5680,
+        "aniId": 5680,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "64": {
+        "identifier": "64",
+        "malId": 5680,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "K-On!",
+        "url": "https://animepahe.com/a/64"
+      }
+    },
+    "AniMixPlay": {
+      "5680": {
+        "identifier": "5680",
+        "malId": 5680,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "K-On!",
+        "url": "https://animixplay.to/anime/5680"
+      }
+    },
+    "YugenAnime": {
+      "1186": {
+        "identifier": "1186",
+        "malId": 5680,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "K-On!",
+        "url": "https://yugen.to/anime/1186/k-on/"
+      }
+    }
+  }
+}

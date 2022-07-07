@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T18:14:11.000Z",
+  "checkedAt": "2022-05-14T18:14:11.000Z",
+  "id": 3965,
+  "type": "anime",
+  "title": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+  "altTitle": [
+    "Nodame and Chiaki Summer Tales",
+    "Nodame Cantabile Special",
+    "のだめカンタービレ「のだめと千秋の海物語」"
+  ],
+  "url": "https://myanimelist.net/anime/3965/Nodame_Cantabile__Nodame_to_Chiaki_no_Umi_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/3/11970.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nodame-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4691"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nodame_Cantabile"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4691,
+  "Pages": {
+    "9anime": {
+      "on4z": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7557,
+        "identifier": "on4z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nodame Cantabile Special",
+        "url": "https://9anime.to/watch/nodame-cantabile-special.on4z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WqJUPDOZrM8/WKmozfiCAWI/AAAAAAABdXg/hjkuO-nB_Ro/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3965,
+        "aniId": 3965,
+        "deletedAt": null
+      },
+      "zllr3": {
+        "createdAt": "2021-10-01T18:02:36.000Z",
+        "updatedAt": "2021-10-01T18:30:52.000Z",
+        "checkedAt": null,
+        "id": 38803,
+        "identifier": "zllr3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari (Dub)",
+        "url": "https://9anime.to/watch/nodame-cantabile-nodame-to-chiaki-no-umi-monogatari-dub.zllr3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/9a/9aec9a69a711b77dca16a61eded53e16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3965,
+        "aniId": 3965,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1246": {
+        "identifier": "1246",
+        "malId": 3965,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+        "url": "https://animepahe.com/a/1246"
+      }
+    }
+  }
+}

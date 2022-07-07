@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T09:52:32.000Z",
+  "checkedAt": "2022-05-14T09:52:32.000Z",
+  "id": 407,
+  "type": "anime",
+  "title": "Tantei Gakuen Q",
+  "altTitle": [
+    "Detective Academy Q",
+    "Detective School Q",
+    "探偵学園Q"
+  ],
+  "url": "https://myanimelist.net/anime/407/Tantei_Gakuen_Q",
+  "image": "https://cdn.myanimelist.net/images/anime/1/407.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/dsq/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=642"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2609"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Detective_Academy_Q"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 642,
+  "Pages": {
+    "9anime": {
+      "rwpm": {
+        "createdAt": "2020-10-12T15:55:39.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9053,
+        "identifier": "rwpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tantei Gakuen Q",
+        "url": "https://9anime.to/watch/tantei-gakuen-q.rwpm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fSd2H2CQZ1o/V7KKmX58sSI/AAAAAAAA3XE/1igQ84Th_IU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 407,
+        "aniId": 407,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tantei-gakuen-q-": {
+        "createdAt": "2020-10-12T16:02:01.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20955,
+        "identifier": "tantei-gakuen-q-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tantei Gakuen Q ",
+        "url": "https://gogoanime.vc/category/tantei-gakuen-q-",
+        "image": "https://gogocdn.net/images/anime/TH/tantei-gakuen-q.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 407,
+        "aniId": 407,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "407": {
+        "identifier": "407",
+        "malId": 407,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tantei Gakuen Q",
+        "url": "https://animixplay.to/anime/407"
+      }
+    },
+    "YugenAnime": {
+      "5292": {
+        "identifier": "5292",
+        "malId": 407,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tantei Gakuen Q",
+        "url": "https://yugen.to/anime/5292/tantei-gakuen-q/"
+      }
+    }
+  }
+}

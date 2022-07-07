@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:27.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17742,
+  "identifier": "fuma-no-kojiro-yasha-hen-ova",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fuma no Kojiro - Yasha-hen OVA",
+  "url": "https://gogoanime.vc/category/fuma-no-kojiro-yasha-hen-ova",
+  "image": "https://cdnimg.xyz/cover/fuma-no-kojiro-yasha-hen-ova.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4854,
+  "aniId": 4854,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-16T02:46:20.000Z",
+    "checkedAt": "2022-05-16T02:46:20.000Z",
+    "id": 4854,
+    "type": "anime",
+    "title": "Fuuma no Kojirou: Yasha-hen",
+    "altTitle": [
+      "Fuma no Kojiro: Yasha hen",
+      "Kojiro of the Fuma: Yasha Chapter",
+      "風魔の小次郎 夜叉篇"
+    ],
+    "url": "https://myanimelist.net/anime/4854/Fuuma_no_Kojirou__Yasha-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/10/30871.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3097"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6574"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/F%C5%ABma_no_Kojir%C5%8D"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3097
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:41.000Z",
+    "updatedAt": "2022-05-16T02:46:19.000Z",
+    "checkedAt": "2022-05-16T02:46:19.000Z",
+    "id": 4854,
+    "type": "anime",
+    "title": "Fuuma no Kojirou: Yasha-hen",
+    "altTitle": [
+      "風魔の小次郎 夜叉篇",
+      "Fuma no Kojiro: Yasha hen",
+      "Kojiro of the Fuma: Yasha Chapter"
+    ],
+    "url": "https://anilist.co/anime/4854",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4854.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4854,
+    "deletedAt": null
+  }
+}

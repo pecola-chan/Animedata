@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T17:50:47.000Z",
+  "checkedAt": "2022-05-14T17:50:47.000Z",
+  "id": 21195,
+  "type": "anime",
+  "title": "Soul Eater: Late Night Show",
+  "altTitle": [
+    "ソウルイーターレイトショー"
+  ],
+  "url": "https://myanimelist.net/anime/21195/Soul_Eater__Late_Night_Show",
+  "image": "https://cdn.myanimelist.net/images/anime/4/60791.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5610"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5610,
+  "Pages": {
+    "9anime": {
+      "xxxz": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10430,
+        "identifier": "xxxz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soul Eater: Late Night Show",
+        "url": "https://9anime.to/watch/soul-eater-late-night-show.xxxz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-v3UvgbZUaB4/V94CFhPZZcI/AAAAAAAA-sA/6OnKZgG4qL0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21195,
+        "aniId": 21687,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3024": {
+        "identifier": "3024",
+        "malId": 21195,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Soul Eater: Late Night Show",
+        "url": "https://animepahe.com/a/3024"
+      }
+    }
+  }
+}

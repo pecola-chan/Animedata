@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-06-11T04:10:39.000Z",
+  "checkedAt": "2022-06-11T04:10:39.000Z",
+  "id": 22983,
+  "type": "anime",
+  "title": "Hipira-kun ONA",
+  "altTitle": [
+    "Hipira-kun Episode 11",
+    "Hipira-kun Episode 12",
+    "ヒピラくん"
+  ],
+  "url": "https://myanimelist.net/anime/22983/Hipira-kun_ONA",
+  "image": "https://cdn.myanimelist.net/images/anime/11/59993.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "kpvw": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5578,
+        "identifier": "kpvw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hipira-kun ONA",
+        "url": "https://9anime.to/watch/hipira-kun-ona.kpvw",
+        "image": "https://static.akacdn.ru/files/images/2018/08/454e9256b4d182dc10da5ffd8524e71e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22983,
+        "aniId": 104388,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2880": {
+        "identifier": "2880",
+        "malId": 22983,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hipira-kun ONA",
+        "url": "https://animepahe.com/a/2880"
+      }
+    }
+  }
+}

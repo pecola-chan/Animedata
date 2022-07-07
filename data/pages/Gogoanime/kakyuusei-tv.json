@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-11-10T17:13:30.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29090,
+  "identifier": "kakyuusei-tv",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kakyuusei (TV)",
+  "url": "https://gogoanime.vc/category/kakyuusei-tv",
+  "image": "https://gogocdn.net/cover/kakyuusei-tv.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2609,
+  "aniId": 2609,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:31.000Z",
+    "updatedAt": "2022-05-14T19:26:41.000Z",
+    "checkedAt": "2022-05-14T19:26:41.000Z",
+    "id": 2609,
+    "type": "anime",
+    "title": "Kakyuusei (TV)",
+    "altTitle": [
+      "A Girl in a Lower Grade",
+      "下級生"
+    ],
+    "url": "https://myanimelist.net/anime/2609/Kakyuusei_TV",
+    "image": "https://cdn.myanimelist.net/images/anime/8/84837.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.pinkpineapple.co.jp/kakyu/tv/tv1/kakyutv1.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1090"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=179"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kakyuusei"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1090
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:23.000Z",
+    "updatedAt": "2022-05-15T14:07:59.000Z",
+    "checkedAt": "2022-05-15T14:07:59.000Z",
+    "id": 2609,
+    "type": "anime",
+    "title": "Kakyuusei (TV)",
+    "altTitle": [
+      "下級生 (TV)",
+      "A Girl in a Lower Grade"
+    ],
+    "url": "https://anilist.co/anime/2609",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2609-EppvBPqSfTMc.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2609,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T21:26:05.000Z",
+  "checkedAt": "2022-05-14T21:26:05.000Z",
+  "id": 996,
+  "type": "anime",
+  "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+  "altTitle": [
+    "Pretty Soldier Sailor Moon: Sailor Stars",
+    "Sailor Moon Sailor Stars",
+    "美少女戦士セーラームーン セーラースターズ"
+  ],
+  "url": "https://myanimelist.net/anime/996/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars",
+  "image": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_stars/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2542"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=795"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sailor_Moon_Sailor_Stars"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2542,
+  "Pages": {
+    "9anime": {
+      "92nq": {
+        "createdAt": "2020-10-12T15:51:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4171,
+        "identifier": "92nq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "url": "https://9anime.to/watch/bishoujo-senshi-sailor-moon-sailor-stars.92nq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oLyPN3I_in8/V6aoimWyc4I/AAAAAAAA06Q/yZLDVSXJdVU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 996,
+        "aniId": 996,
+        "deletedAt": null
+      },
+      "mko8": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6582,
+        "identifier": "mko8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sailor Moon Sailor Stars (Dub)",
+        "url": "https://9anime.to/watch/sailor-moon-sailor-stars-dub.mko8",
+        "image": "https://static.akacdn.ru/files/images/2019/06/3f02f15afa79885357ea77842dfca4af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 996,
+        "aniId": 996,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bishoujo-senshi-sailor-moon-sailor-stars": {
+        "createdAt": "2020-10-12T15:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16817,
+        "identifier": "bishoujo-senshi-sailor-moon-sailor-stars",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "url": "https://gogoanime.vc/category/bishoujo-senshi-sailor-moon-sailor-stars",
+        "image": "https://cdnimg.xyz/cover/bishoujo-senshi-sailor-moon-sailor-stars.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 996,
+        "aniId": 996,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4483": {
+        "identifier": "4483",
+        "malId": 996,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "url": "https://animepahe.com/a/4483"
+      }
+    },
+    "AniMixPlay": {
+      "996": {
+        "identifier": "996",
+        "malId": 996,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "url": "https://animixplay.to/anime/996"
+      }
+    },
+    "YugenAnime": {
+      "5053": {
+        "identifier": "5053",
+        "malId": 996,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "url": "https://yugen.to/anime/5053/bishoujo-senshi-sailor-moon-sailor-stars/"
+      }
+    }
+  }
+}

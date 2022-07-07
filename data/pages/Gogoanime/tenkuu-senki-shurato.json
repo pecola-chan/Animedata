@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T16:02:03.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21003,
+  "identifier": "tenkuu-senki-shurato",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tenkuu Senki Shurato",
+  "url": "https://gogoanime.vc/category/tenkuu-senki-shurato",
+  "image": "https://cdnimg.xyz/cover/tenkuu-senki-shurato.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2113,
+  "aniId": 2113,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:26.000Z",
+    "updatedAt": "2022-05-15T00:48:17.000Z",
+    "checkedAt": "2022-05-15T00:48:17.000Z",
+    "id": 2113,
+    "type": "anime",
+    "title": "Tenkuu Senki Shurato",
+    "altTitle": [
+      "Heaven Wars Shurato",
+      "天空戦記シュラト"
+    ],
+    "url": "https://myanimelist.net/anime/2113/Tenkuu_Senki_Shurato",
+    "image": "https://cdn.myanimelist.net/images/anime/1989/92418.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tatsunoko.co.jp/works/archive/syurato.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1777"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2038"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1777
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:12.000Z",
+    "updatedAt": "2022-05-15T17:29:23.000Z",
+    "checkedAt": "2022-05-15T17:29:23.000Z",
+    "id": 2113,
+    "type": "anime",
+    "title": "Tenkuu Senki Shurato",
+    "altTitle": [
+      "天空戦記シュラト",
+      "Heaven Wars Shurato"
+    ],
+    "url": "https://anilist.co/anime/2113",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2113-wj4f5lRC9lrB.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2113,
+    "deletedAt": null
+  }
+}

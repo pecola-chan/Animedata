@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T17:17:28.000Z",
+  "checkedAt": "2022-05-14T17:17:28.000Z",
+  "id": 38897,
+  "type": "anime",
+  "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+  "altTitle": [
+    "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm OVA",
+    "Fate/Kaleid Liner Prisma Illya: Prisma★Phantasm",
+    "プリズマ☆ファンタズム"
+  ],
+  "url": "https://myanimelist.net/anime/38897/Fate_kaleid_liner_Prisma☆Illya__Prisma☆Phantasm",
+  "image": "https://cdn.myanimelist.net/images/anime/1304/99488.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.prisma-illya.jp/movie/sekka/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13508"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21867"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Fate/kaleid_liner_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%9E%E2%98%86%E3%82%A4%E3%83%AA%E3%83%A4#%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%EF%BC%88OVA%EF%BC%89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13508,
+  "Pages": {
+    "9anime": {
+      "kvx9": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5631,
+        "identifier": "kvx9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+        "url": "https://9anime.to/watch/fatekaleid-liner-prismaillya-prismaphantasm.kvx9",
+        "image": "https://static.akacdn.ru/files/images/2020/02/e6d7cdbec44e2f1d52612d9cd2f086fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38897,
+        "aniId": 100269,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4638": {
+        "identifier": "4638",
+        "malId": 38897,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+        "url": "https://animepahe.com/a/4638"
+      }
+    },
+    "AniMixPlay": {
+      "38897": {
+        "identifier": "38897",
+        "malId": 38897,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+        "url": "https://animixplay.to/anime/38897"
+      }
+    }
+  }
+}

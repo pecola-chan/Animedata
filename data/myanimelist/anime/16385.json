@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T18:01:53.000Z",
+  "checkedAt": "2022-05-14T18:01:53.000Z",
+  "id": 16385,
+  "type": "anime",
+  "title": "Dog Days''",
+  "altTitle": [
+    "Dog Days 3",
+    "ドッグデイズ''"
+  ],
+  "url": "https://myanimelist.net/anime/16385/Dog_Days",
+  "image": "https://cdn.myanimelist.net/images/anime/8/70709.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dogdays.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9517"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16193"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dog_Days_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-247112"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9517,
+  "Pages": {
+    "9anime": {
+      "wo5k": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9850,
+        "identifier": "wo5k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dog Days''",
+        "url": "https://9anime.to/watch/dog-days.wo5k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6D5b-yPKSws/V5-GKpAOkTI/AAAAAAAAzko/nKDMnVRwGa0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16385,
+        "aniId": 16385,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "786": {
+        "identifier": "786",
+        "malId": 16385,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dog Days''",
+        "url": "https://animepahe.com/a/786"
+      }
+    },
+    "AniMixPlay": {
+      "16385": {
+        "identifier": "16385",
+        "malId": 16385,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dog Days''",
+        "url": "https://animixplay.to/anime/16385"
+      }
+    },
+    "YugenAnime": {
+      "8914": {
+        "identifier": "8914",
+        "malId": 16385,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dog Days''",
+        "url": "https://yugen.to/anime/8914/dog-days-dtt0/"
+      }
+    }
+  }
+}

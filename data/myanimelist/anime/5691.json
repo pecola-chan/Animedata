@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T03:05:44.000Z",
+  "checkedAt": "2022-05-15T03:05:44.000Z",
+  "id": 5691,
+  "type": "anime",
+  "title": "Rekka no Honoo: Final Burning",
+  "altTitle": [
+    "Recca no Honoo",
+    "Flame of Recca: Final Burning",
+    "烈火の炎 FINAL BURNING"
+  ],
+  "url": "https://myanimelist.net/anime/5691/Rekka_no_Honoo__Final_Burning",
+  "image": "https://cdn.myanimelist.net/images/anime/13/11830.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/rekka/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=571"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Flame_of_Recca"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 571,
+  "Pages": {
+    "9anime": {
+      "z3y3": {
+        "createdAt": "2020-10-12T15:57:04.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10999,
+        "identifier": "z3y3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rekka no Honoo: Final Burning",
+        "url": "https://9anime.to/watch/rekka-no-honoo-final-burning.z3y3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-30RrRnJUGzs/WP7pgbF-kGI/AAAAAAAAkGs/-T-_xO3OSjYXSM2wmvSmfnPqVLhxDN0pgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5691,
+        "aniId": 5691,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2088": {
+        "identifier": "2088",
+        "malId": 5691,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rekka no Honoo: Final Burning",
+        "url": "https://animepahe.com/a/2088"
+      }
+    },
+    "AniMixPlay": {
+      "5691": {
+        "identifier": "5691",
+        "malId": 5691,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rekka no Honoo: Final Burning",
+        "url": "https://animixplay.to/anime/5691"
+      }
+    }
+  }
+}

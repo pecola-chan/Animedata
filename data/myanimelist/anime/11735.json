@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-21T20:01:23.000Z",
+  "checkedAt": "2022-05-21T20:01:23.000Z",
+  "id": 11735,
+  "type": "anime",
+  "title": "Coluboccoro",
+  "altTitle": [
+    "コルボッコロ"
+  ],
+  "url": "https://myanimelist.net/anime/11735/Coluboccoro",
+  "image": "https://cdn.myanimelist.net/images/anime/1341/112356.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.itoso.net/project.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8003"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15376"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%83%9C%E3%83%83%E3%82%B3%E3%83%AD"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8003,
+  "Pages": {
+    "9anime": {
+      "91wq": {
+        "createdAt": "2020-10-12T15:51:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4158,
+        "identifier": "91wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Coluboccoro",
+        "url": "https://9anime.to/watch/coluboccoro.91wq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sVV3YqhvOXo/V9LEsJkCeVI/AAAAAAAA81c/mJieOGLlnmU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11735,
+        "aniId": 11735,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "925": {
+        "identifier": "925",
+        "malId": 11735,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Coluboccoro",
+        "url": "https://animepahe.com/a/925"
+      }
+    },
+    "AniMixPlay": {
+      "11735": {
+        "identifier": "11735",
+        "malId": 11735,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Coluboccoro",
+        "url": "https://animixplay.to/anime/11735"
+      }
+    },
+    "YugenAnime": {
+      "698": {
+        "identifier": "698",
+        "malId": 11735,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Coluboccoro",
+        "url": "https://yugen.to/anime/698/coluboccoro/"
+      }
+    }
+  }
+}

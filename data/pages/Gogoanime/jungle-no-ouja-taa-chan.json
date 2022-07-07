@@ -1,0 +1,73 @@
+{
+  "createdAt": "2021-04-14T16:46:12.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36452,
+  "identifier": "jungle-no-ouja-taa-chan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Jungle no Ouja Taa-chan",
+  "url": "https://gogoanime.vc/category/jungle-no-ouja-taa-chan",
+  "image": "https://gogocdn.net/cover/jungle-no-ouja-taa-chan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3418,
+  "aniId": 3418,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:37.000Z",
+    "updatedAt": "2022-05-15T07:27:51.000Z",
+    "checkedAt": "2022-05-15T07:27:51.000Z",
+    "id": 3418,
+    "type": "anime",
+    "title": "Jungle no Ouja Taa-chan",
+    "altTitle": [
+      "Jungle King Taa-chan",
+      "Jungle no Ohja Ta-chan",
+      "ジャングルの王者ターちゃん"
+    ],
+    "url": "https://myanimelist.net/anime/3418/Jungle_no_Ouja_Taa-chan",
+    "image": "https://cdn.myanimelist.net/images/anime/1948/106089.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4040"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=119"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Jungle_King_Tar-chan"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4040
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:23.000Z",
+    "updatedAt": "2022-05-15T16:43:35.000Z",
+    "checkedAt": "2022-05-15T16:43:35.000Z",
+    "id": 3418,
+    "type": "anime",
+    "title": "Jungle no Ouja Taa-chan",
+    "altTitle": [
+      "ジャングルの王者ターちゃん",
+      "Jungle King Taa-chan",
+      "Jungle no Ohja Ta-chan"
+    ],
+    "url": "https://anilist.co/anime/3418",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3418-T1FxEHtjNNe6.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3418,
+    "deletedAt": null
+  }
+}

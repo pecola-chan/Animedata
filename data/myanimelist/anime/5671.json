@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T17:53:17.000Z",
+  "checkedAt": "2022-05-14T17:53:17.000Z",
+  "id": 5671,
+  "type": "anime",
+  "title": "Saki",
+  "altTitle": [
+    "Saki",
+    "咲-Saki-"
+  ],
+  "url": "https://myanimelist.net/anime/5671/Saki",
+  "image": "https://cdn.myanimelist.net/images/anime/12/73933.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saki-anime.com/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6246"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10527"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saki_(manga)#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-130082"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6246,
+  "Pages": {
+    "9anime": {
+      "lrn3": {
+        "createdAt": "2020-10-12T15:53:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6196,
+        "identifier": "lrn3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saki",
+        "url": "https://9anime.to/watch/saki.lrn3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-roAA7jPF7GY/V6wcsFxu39I/AAAAAAAA2QI/F_beki3YC9g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5671,
+        "aniId": 5671,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saki": {
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20400,
+        "identifier": "saki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saki",
+        "url": "https://gogoanime.vc/category/saki",
+        "image": "https://gogocdn.net/images/anime/S/saki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5671,
+        "aniId": 5671,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3608": {
+        "identifier": "3608",
+        "malId": 5671,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Saki",
+        "url": "https://animepahe.com/a/3608"
+      }
+    },
+    "AniMixPlay": {
+      "5671": {
+        "identifier": "5671",
+        "malId": 5671,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saki",
+        "url": "https://animixplay.to/anime/5671"
+      }
+    },
+    "YugenAnime": {
+      "265": {
+        "identifier": "265",
+        "malId": 5671,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Saki",
+        "url": "https://yugen.to/anime/265/saki/"
+      }
+    }
+  }
+}

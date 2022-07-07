@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T20:59:53.000Z",
+  "checkedAt": "2022-05-14T20:59:53.000Z",
+  "id": 41558,
+  "type": "anime",
+  "title": "Asatir: Mirai no Mukashi Banashi",
+  "altTitle": [
+    "Future Folktales",
+    "アサティール 未来の昔ばなし"
+  ],
+  "url": "https://myanimelist.net/anime/41558/Asatir__Mirai_no_Mukashi_Banashi",
+  "image": "https://cdn.myanimelist.net/images/anime/1365/106794.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://c.myjcom.jp/jtele/p/J00000005030/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15489"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23156"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281672"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15489,
+  "Pages": {
+    "9anime": {
+      "437x": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2090,
+        "identifier": "437x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asatir: Mirai no Mukashi Banashi",
+        "url": "https://9anime.to/watch/future-folktales.437x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/04/ad56121592f19247dc30984a404a437b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 41558,
+        "aniId": 117096,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3924": {
+        "identifier": "3924",
+        "malId": 41558,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Asatir: Mirai no Mukashi Banashi",
+        "url": "https://animepahe.com/a/3924"
+      }
+    },
+    "AniMixPlay": {
+      "41558": {
+        "identifier": "41558",
+        "malId": 41558,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Asatir: Mirai no Mukashi Banashi",
+        "url": "https://animixplay.to/anime/41558"
+      }
+    },
+    "YugenAnime": {
+      "4603": {
+        "identifier": "4603",
+        "malId": 41558,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Asatir: Mirai no Mukashi Banashi",
+        "url": "https://yugen.to/anime/4603/asatir-mirai-no-mukashibanashi/"
+      }
+    }
+  }
+}

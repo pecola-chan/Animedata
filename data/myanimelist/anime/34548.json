@@ -1,0 +1,51 @@
+{
+  "createdAt": "2022-04-02T01:30:50.000Z",
+  "updatedAt": "2022-05-15T01:07:53.000Z",
+  "checkedAt": "2022-05-15T01:07:53.000Z",
+  "id": 34548,
+  "type": "anime",
+  "title": "Cheer Danshi!! Specials",
+  "altTitle": [
+    "チア男子!!"
+  ],
+  "url": "https://myanimelist.net/anime/34548/Cheer_Danshi_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1938/112068.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cheer-boys.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12019"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12019,
+  "Pages": {
+    "9anime": {
+      "1nrqx": {
+        "createdAt": "2022-04-02T01:30:30.000Z",
+        "updatedAt": "2022-04-04T08:00:21.000Z",
+        "checkedAt": null,
+        "id": 40591,
+        "identifier": "1nrqx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cheer Danshi!! OVA",
+        "url": "https://9anime.to/watch/cheer-danshi-ova.1nrqx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5e/5ebec49b110e8a814d7844fd59edfb82.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 34548,
+        "aniId": 107175,
+        "deletedAt": null
+      }
+    }
+  }
+}

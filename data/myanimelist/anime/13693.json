@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:13.000Z",
+  "updatedAt": "2022-05-22T02:33:09.000Z",
+  "checkedAt": "2022-05-22T02:33:09.000Z",
+  "id": 13693,
+  "type": "anime",
+  "title": "Ippatsu Hicchuu!! Devander",
+  "altTitle": [
+    "一発必中!! デバンダー"
+  ],
+  "url": "https://myanimelist.net/anime/13693/Ippatsu_Hicchuu_Devander",
+  "image": "https://cdn.myanimelist.net/images/anime/4/89823.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/devander/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9082"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14171"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/一発必中!!_デバンダー"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9082,
+  "Pages": {
+    "9anime": {
+      "pz5j": {
+        "createdAt": "2020-10-12T15:54:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8205,
+        "identifier": "pz5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ippatsu Hicchuu!! Devander",
+        "url": "https://9anime.to/watch/ippatsu-hicchuu-devander.pz5j",
+        "image": "https://static.akacdn.ru/files/images/2018/03/f652942c0200ddfac84f3f94a61bfa75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13693,
+        "aniId": 13693,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "13693": {
+        "identifier": "13693",
+        "malId": 13693,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ippatsu Hicchuu!! Devander",
+        "url": "https://animixplay.to/anime/13693"
+      }
+    },
+    "YugenAnime": {
+      "791": {
+        "identifier": "791",
+        "malId": 13693,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ippatsu Hicchuu!! Devander",
+        "url": "https://yugen.to/anime/791/ippatsu-hicchuu-devander/"
+      }
+    }
+  }
+}

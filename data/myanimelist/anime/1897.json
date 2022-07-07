@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-15T14:12:26.000Z",
+  "checkedAt": "2022-05-15T14:12:26.000Z",
+  "id": 1897,
+  "type": "anime",
+  "title": "Zettai Muteki Raijin-Oh",
+  "altTitle": [
+    "Eldran series #1",
+    "Matchless Raijin-Oh",
+    "絶対無敵ライジンオー"
+  ],
+  "url": "https://myanimelist.net/anime/1897/Zettai_Muteki_Raijin-Oh",
+  "image": "https://cdn.myanimelist.net/images/anime/1152/91073.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.eldran.net/raijin-oh/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4486"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2459"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matchless_Raijin-Oh"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4486,
+  "Pages": {
+    "9anime": {
+      "04kk": {
+        "createdAt": "2020-10-12T15:48:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 439,
+        "identifier": "04kk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zettai Muteki Raijin-Oh",
+        "url": "https://9anime.to/watch/zettai-muteki-raijin-oh.04kk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eyy6hzdjDq0/WMYL8tM1MSI/AAAAAAABfdo/7QR02S09oe0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1897,
+        "aniId": 1897,
+        "deletedAt": null
+      },
+      "14lm": {
+        "createdAt": "2020-10-12T15:49:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 838,
+        "identifier": "14lm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zettai Muteki Raijin-Oh (Dub)",
+        "url": "https://9anime.to/watch/zettai-muteki-raijin-oh-dub.14lm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xK9CrjC8pKw/WMYM6c6OnGI/AAAAAAABfdw/5AHcNocVDzE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1897,
+        "aniId": 1897,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1897": {
+        "identifier": "1897",
+        "malId": 1897,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Zettai Muteki Raijin-Oh",
+        "url": "https://animixplay.to/anime/1897"
+      }
+    },
+    "YugenAnime": {
+      "2113": {
+        "identifier": "2113",
+        "malId": 1897,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Zettai Muteki Raijin-Oh",
+        "url": "https://yugen.to/anime/2113/zettai-muteki-raijin-oh/"
+      }
+    }
+  }
+}

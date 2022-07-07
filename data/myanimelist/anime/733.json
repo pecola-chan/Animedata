@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-15T14:50:26.000Z",
+  "checkedAt": "2022-05-15T14:50:26.000Z",
+  "id": 733,
+  "type": "anime",
+  "title": "Kizuna",
+  "altTitle": [
+    "KIZUNA～絆～"
+  ],
+  "url": "https://myanimelist.net/anime/733/Kizuna",
+  "image": "https://cdn.myanimelist.net/images/anime/10/8172.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=794"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1061"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/KIZUNA#.E7.99.BB.E5.A0.B4.E3.82.AD.E3.83.A3.E3.83.A9.E3.82.AF.E3.82.BF.E3.83.BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 794,
+  "Pages": {
+    "9anime": {
+      "m6qp": {
+        "createdAt": "2020-10-12T15:53:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6456,
+        "identifier": "m6qp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kizuna",
+        "url": "https://9anime.to/watch/kizuna.m6qp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ugrUG3Bg7G8/WFfqCKCj5EI/AAAAAAABTnk/sAaR-y7jrjw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 733,
+        "aniId": 733,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kizuna": {
+        "createdAt": "2021-03-29T17:31:21.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36055,
+        "identifier": "kizuna",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kizuna",
+        "url": "https://gogoanime.vc/category/kizuna",
+        "image": "https://gogocdn.net/images/anime/K/Kizuna.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 733,
+        "aniId": 733,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "733": {
+        "identifier": "733",
+        "malId": 733,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kizuna",
+        "url": "https://animixplay.to/anime/733"
+      }
+    },
+    "YugenAnime": {
+      "2274": {
+        "identifier": "2274",
+        "malId": 733,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kizuna",
+        "url": "https://yugen.to/anime/2274/kizuna/"
+      }
+    }
+  }
+}

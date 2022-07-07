@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T14:52:21.000Z",
+  "checkedAt": "2022-05-15T14:52:21.000Z",
+  "id": 9455,
+  "type": "anime",
+  "title": "Ninpen Manmaru",
+  "altTitle": [
+    "Manmaru the Ninja Penguin",
+    "忍ペンまん丸"
+  ],
+  "url": "https://myanimelist.net/anime/9455/Ninpen_Manmaru",
+  "image": "https://cdn.myanimelist.net/images/anime/4/66675.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4701"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1448"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ninpen_Manmaru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4701,
+  "Pages": {
+    "9anime": {
+      "6pl9": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3131,
+        "identifier": "6pl9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninpen Manmaru",
+        "url": "https://9anime.to/watch/ninpen-manmaru.6pl9",
+        "image": "https://static.akacdn.ru/files/images/2019/04/59fe8eb856dbaeb1ed2f2b8a2b82714a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9455,
+        "aniId": 9455,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9455": {
+        "identifier": "9455",
+        "malId": 9455,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ninpen Manmaru",
+        "url": "https://animixplay.to/anime/9455"
+      }
+    },
+    "YugenAnime": {
+      "2763": {
+        "identifier": "2763",
+        "malId": 9455,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ninpen Manmaru",
+        "url": "https://yugen.to/anime/2763/ninpen-manmaru/"
+      }
+    }
+  }
+}

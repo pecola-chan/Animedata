@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-28T21:27:15.000Z",
+  "checkedAt": "2022-05-28T21:27:15.000Z",
+  "id": 33885,
+  "type": "anime",
+  "title": "Hane (2015)",
+  "altTitle": [
+    "Wing",
+    "羽"
+  ],
+  "url": "https://myanimelist.net/anime/33885/Hane_2015",
+  "image": "https://cdn.myanimelist.net/images/anime/9/81556.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.pics.tokyo/works/mv_koshi-inaba_hane"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13375"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Koshi_Inaba"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13375,
+  "Pages": {
+    "9anime": {
+      "n5q8": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6968,
+        "identifier": "n5q8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hane (2016)",
+        "url": "https://9anime.to/watch/hane-2016.n5q8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Pjwo27f51mU/WQROjgBUwLI/AAAAAAAAlAA/pGYeYzVe78gxn_DTShfSB7IZxto31AxBgCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33885,
+        "aniId": 98968,
+        "deletedAt": null
+      }
+    }
+  }
+}

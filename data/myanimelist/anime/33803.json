@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-15T04:17:40.000Z",
+  "checkedAt": "2022-05-15T04:17:40.000Z",
+  "id": 33803,
+  "type": "anime",
+  "title": "Sengoku Choujuu Giga: Kou",
+  "altTitle": [
+    "Sengoku Wildlife Caricatures",
+    "SENGOKUCHOJYUGIGA",
+    "戦国鳥獣戯画~甲~"
+  ],
+  "url": "https://myanimelist.net/anime/33803/Sengoku_Choujuu_Giga__Kou",
+  "image": "https://cdn.myanimelist.net/images/anime/6/82326.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbc.co.jp/scg/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12319"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18684"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/戦国鳥獣戯画"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271565"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12319,
+  "Pages": {
+    "9anime": {
+      "z8rw": {
+        "createdAt": "2020-10-12T15:57:08.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11103,
+        "identifier": "z8rw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Choujuu Giga",
+        "url": "https://9anime.to/watch/sengoku-choujuu-giga.z8rw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xJUatT7o0gA/V-vXNzn7ANI/AAAAAAABB8g/OpxxdqxblZQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33803,
+        "aniId": 21895,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sengoku-choujuu-giga": {
+        "createdAt": "2021-02-18T16:14:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34917,
+        "identifier": "sengoku-choujuu-giga",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Choujuu Giga",
+        "url": "https://gogoanime.vc/category/sengoku-choujuu-giga",
+        "image": "https://gogocdn.net/cover/sengoku-choujuu-giga.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33803,
+        "aniId": 21895,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1713": {
+        "identifier": "1713",
+        "malId": 33803,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sengoku Choujuu Giga: Kou",
+        "url": "https://animepahe.com/a/1713"
+      }
+    },
+    "AniMixPlay": {
+      "33803": {
+        "identifier": "33803",
+        "malId": 33803,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sengoku Choujuu Giga: Kou",
+        "url": "https://animixplay.to/anime/33803"
+      }
+    },
+    "YugenAnime": {
+      "6518": {
+        "identifier": "6518",
+        "malId": 33803,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sengoku Choujuu Giga: Kou",
+        "url": "https://yugen.to/anime/6518/sengoku-choujuu-giga/"
+      }
+    }
+  }
+}

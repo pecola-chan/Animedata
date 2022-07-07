@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-06-09T20:31:53.000Z",
+  "checkedAt": "2022-06-09T20:31:53.000Z",
+  "id": 11695,
+  "type": "anime",
+  "title": "Ultraman Graffiti",
+  "altTitle": [
+    "ウルトラマングラフィティ"
+  ],
+  "url": "https://myanimelist.net/anime/11695/Ultraman_Graffiti",
+  "image": "https://cdn.myanimelist.net/images/anime/12/32641.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4102"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9181"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4102,
+  "Pages": {
+    "9anime": {
+      "kzv9": {
+        "createdAt": "2020-10-12T15:52:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5711,
+        "identifier": "kzv9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ultraman Graffiti",
+        "url": "https://9anime.to/watch/ultraman-graffiti.kzv9",
+        "image": "https://static.akacdn.ru/static/images/2018/03/3002cf413db24c3bfae24e5175066e86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11695,
+        "aniId": 11695,
+        "deletedAt": null
+      }
+    }
+  }
+}

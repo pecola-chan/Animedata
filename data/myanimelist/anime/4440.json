@@ -1,0 +1,53 @@
+{
+  "createdAt": "2021-02-06T23:19:51.000Z",
+  "updatedAt": "2022-05-15T07:21:14.000Z",
+  "checkedAt": "2022-05-15T07:21:14.000Z",
+  "id": 4440,
+  "type": "anime",
+  "title": "Sugata Sanshirou",
+  "altTitle": [
+    "Sanshiro the Judoist",
+    "Judo Story",
+    "姿三四郎"
+  ],
+  "url": "https://myanimelist.net/anime/4440/Sugata_Sanshirou",
+  "image": "https://cdn.myanimelist.net/images/anime/11/8447.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3140"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9072"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3140,
+  "Pages": {
+    "9anime": {
+      "3226": {
+        "createdAt": "2021-02-06T23:23:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34586,
+        "identifier": "3226",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sugata Sanshirou",
+        "url": "https://9anime.to/watch/judo-story.3226",
+        "image": "//static.bunnycdn.ru/i/cache/images/2020/07/9b67c6fae2069e8040e73db91bbc1bd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4440,
+        "aniId": 4440,
+        "deletedAt": null
+      }
+    }
+  }
+}

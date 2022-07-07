@@ -1,0 +1,115 @@
+{
+  "createdAt": "2021-07-07T14:30:41.000Z",
+  "updatedAt": "2022-05-14T19:06:11.000Z",
+  "checkedAt": "2022-05-14T19:06:11.000Z",
+  "id": 37008,
+  "type": "anime",
+  "title": "Tsukipro The Animation 2",
+  "altTitle": [
+    "TSUKIPRO THE ANIMATION 2"
+  ],
+  "url": "https://myanimelist.net/anime/37008/Tsukipro_The_Animation_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1651/116291.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tsukipro-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13696"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23476"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%AD%E3%83%8E%E8%8A%B8%E8%83%BD%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13696,
+  "Pages": {
+    "Gogoanime": {
+      "tsukipro-the-animation-2": {
+        "createdAt": "2021-07-07T14:31:10.000Z",
+        "updatedAt": "2021-07-07T14:59:53.000Z",
+        "checkedAt": null,
+        "id": 37719,
+        "identifier": "tsukipro-the-animation-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsukipro The Animation 2",
+        "url": "https://gogoanime.pe/category/tsukipro-the-animation-2",
+        "image": "https://gogocdn.net/cover/tsukipro-the-animation-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37008,
+        "aniId": 125909,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "67xz": {
+        "createdAt": "2021-07-07T15:00:27.000Z",
+        "updatedAt": "2021-07-07T15:29:52.000Z",
+        "checkedAt": null,
+        "id": 37720,
+        "identifier": "67xz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsukipro The Animation 2",
+        "url": "https://9anime.to/watch/tsukipro-the-animation-2.67xz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5c/5c5cc7b795049550c1d9fd12d56be918.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37008,
+        "aniId": 125909,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4455": {
+        "identifier": "4455",
+        "malId": 37008,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tsukipro The Animation 2",
+        "url": "https://animepahe.com/a/4455"
+      }
+    },
+    "AniMixPlay": {
+      "37008": {
+        "identifier": "37008",
+        "malId": 37008,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsukipro The Animation 2",
+        "url": "https://animixplay.to/anime/37008"
+      }
+    },
+    "YugenAnime": {
+      "7870": {
+        "identifier": "7870",
+        "malId": 37008,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsukipro The Animation 2",
+        "url": "https://yugen.to/anime/7870/tsukipro-the-animation-2/"
+      }
+    }
+  }
+}

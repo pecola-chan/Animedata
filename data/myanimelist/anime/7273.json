@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-15T01:05:05.000Z",
+  "checkedAt": "2022-05-15T01:05:05.000Z",
+  "id": 7273,
+  "type": "anime",
+  "title": "Nido to Mezamenu Komori Uta",
+  "altTitle": [
+    "Nidoto Mezamenu Komori Uta",
+    "Lullaby to the Big Sleep",
+    "Lullaby Not Awake Two Times",
+    "The Death Lullaby",
+    "二度と目覚めぬ子守唄"
+  ],
+  "url": "https://myanimelist.net/anime/7273/Nido_to_Mezamenu_Komori_Uta",
+  "image": "https://cdn.myanimelist.net/images/anime/1541/115373.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kiryukan.at.infoseek.co.jp/deathlullaby.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8301"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4783"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8301,
+  "Pages": {
+    "9anime": {
+      "0733": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 355,
+        "identifier": "0733",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nido to Mezamenu Komori Uta",
+        "url": "https://9anime.to/watch/nido-to-mezamenu-komori-uta.0733",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5DOvBV8wH-k/WW2jt8wOCqI/AAAAAAAACmg/5080Kb8UgH8Wvhzbi28P0BSsvRNjejO6wCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7273,
+        "aniId": 7273,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-16T00:39:00.000Z",
+  "checkedAt": "2022-05-16T00:39:00.000Z",
+  "id": 2117,
+  "type": "anime",
+  "title": "Shin Captain Tsubasa",
+  "altTitle": [
+    "New Captain Tsubasa",
+    "新・キャプテン翼"
+  ],
+  "url": "https://myanimelist.net/anime/2117/Shin_Captain_Tsubasa",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2245.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=506"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6198"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 506,
+  "Pages": {
+    "9anime": {
+      "m6zx": {
+        "createdAt": "2020-10-12T15:53:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6463,
+        "identifier": "m6zx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Captain Tsubasa",
+        "url": "https://9anime.to/watch/shin-captain-tsubasa.m6zx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Pujyimn9V-E/WGEfa8qe1sI/AAAAAAABU1A/krIrvcoIz7w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2117,
+        "aniId": 2117,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shin-captain-tsubasa": {
+        "createdAt": "2021-02-22T09:03:49.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35145,
+        "identifier": "shin-captain-tsubasa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shin Captain Tsubasa",
+        "url": "https://gogoanime.vc/category/shin-captain-tsubasa",
+        "image": "https://gogocdn.net/cover/shin-captain-tsubasa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2117,
+        "aniId": 2117,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2117": {
+        "identifier": "2117",
+        "malId": 2117,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shin Captain Tsubasa",
+        "url": "https://animixplay.to/anime/2117"
+      }
+    },
+    "YugenAnime": {
+      "7265": {
+        "identifier": "7265",
+        "malId": 2117,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shin Captain Tsubasa",
+        "url": "https://yugen.to/anime/7265/shin-captain-tsubasa/"
+      }
+    }
+  }
+}

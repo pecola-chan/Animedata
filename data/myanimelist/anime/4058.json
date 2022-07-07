@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T20:17:17.000Z",
+  "checkedAt": "2022-05-14T20:17:17.000Z",
+  "id": 4058,
+  "type": "anime",
+  "title": "Makyou Gaiden Le Deus",
+  "altTitle": [
+    "Makyo Gaiden Le Deus",
+    "Demon Frontier Legend Le Deus",
+    "Demon Legend Le Deus",
+    "Radius",
+    "Makyou Gaiden LeDeus",
+    "Ladius",
+    "魔境外伝レ・ディウス"
+  ],
+  "url": "https://myanimelist.net/anime/4058/Makyou_Gaiden_Le_Deus",
+  "image": "https://cdn.myanimelist.net/images/anime/1449/96410.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pro-reed.com/works/english.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1713"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4341"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E5%A2%83%E5%A4%96%E4%BC%9D%E3%83%AC%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1713,
+  "Pages": {
+    "9anime": {
+      "oyvy": {
+        "createdAt": "2020-10-12T15:54:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7743,
+        "identifier": "oyvy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ladius",
+        "url": "https://9anime.to/watch/ladius.oyvy",
+        "image": "https://static.akacdn.ru/files/images/2018/03/095844f5c2875a5fb5630f4fdd5ecdbe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4058,
+        "aniId": 4058,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4058": {
+        "identifier": "4058",
+        "malId": 4058,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Makyou Gaiden Le Deus",
+        "url": "https://animixplay.to/anime/4058"
+      }
+    }
+  }
+}

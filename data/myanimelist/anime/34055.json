@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T18:00:59.000Z",
+  "checkedAt": "2022-05-14T18:00:59.000Z",
+  "id": 34055,
+  "type": "anime",
+  "title": "Berserk 2nd Season",
+  "altTitle": [
+    "Berserk: Season II",
+    "ベルセルク"
+  ],
+  "url": "https://myanimelist.net/anime/34055/Berserk_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/12/85296.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.berserk-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12414"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19015"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Berserk_%282016_TV_series%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270639"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12414,
+  "Pages": {
+    "9anime": {
+      "lylq": {
+        "createdAt": "2020-10-12T15:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6279,
+        "identifier": "lylq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Berserk (2017)",
+        "url": "https://9anime.to/watch/berserk-2017.lylq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PaVLiyRreIk/WOerLlegd1I/AAAAAAAAgK8/aevoCml7kCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34055,
+        "aniId": 97643,
+        "deletedAt": null
+      },
+      "px69": {
+        "createdAt": "2020-10-12T15:54:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8164,
+        "identifier": "px69",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Berserk 2nd Season (Dub)",
+        "url": "https://9anime.to/watch/berserk-dub.px69",
+        "image": "//static.9anime.to/i/cache/images/2018/06/8db1e930e7a09807d54b98639ea5eda3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 34055,
+        "aniId": 97643,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "berserk-2017": {
+        "createdAt": "2020-10-12T15:59:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16782,
+        "identifier": "berserk-2017",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Berserk (2017)",
+        "url": "https://gogoanime.vc/category/berserk-2017",
+        "image": "https://gogocdn.net/cover/berserk-2017.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34055,
+        "aniId": 97643,
+        "deletedAt": null
+      },
+      "berserk-2017-dub": {
+        "createdAt": "2020-10-27T17:40:51.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28066,
+        "identifier": "berserk-2017-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Berserk (2017) (Dub)",
+        "url": "https://gogoanime.vc/category/berserk-2017-dub",
+        "image": "https://gogocdn.net/cover/berserk-2017-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 34055,
+        "aniId": 97643,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2003": {
+        "identifier": "2003",
+        "malId": 34055,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Berserk 2nd Season",
+        "url": "https://animepahe.com/a/2003"
+      }
+    },
+    "AniMixPlay": {
+      "34055": {
+        "identifier": "34055",
+        "malId": 34055,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Berserk 2nd Season",
+        "url": "https://animixplay.to/anime/34055"
+      }
+    },
+    "YugenAnime": {
+      "3213": {
+        "identifier": "3213",
+        "malId": 34055,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Berserk 2nd Season",
+        "url": "https://yugen.to/anime/3213/berserk-2nd-season/"
+      }
+    }
+  }
+}

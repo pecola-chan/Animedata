@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-14T22:38:17.000Z",
+  "checkedAt": "2022-05-14T22:38:17.000Z",
+  "id": 10622,
+  "type": "anime",
+  "title": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+  "altTitle": [
+    "Tengen Toppa Gurren Lagann Episode 5.5",
+    "Tengen Toppa Gurren Lagann OVA",
+    "TTGL DS OVA",
+    "Tengen Toppa Gurren Lagann My Gurren is Sparkling!!",
+    "天元突破 グレンラガン  俺のグレンはピッカピカ!!"
+  ],
+  "url": "https://myanimelist.net/anime/10622/Tengen_Toppa_Gurren_Lagann__Ore_no_Gurren_wa_Pikka-Pika",
+  "image": "https://cdn.myanimelist.net/images/anime/10/29189.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gurren-lagann.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8918"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gurren_Lagann"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8918,
+  "Pages": {
+    "9anime": {
+      "p64j": {
+        "createdAt": "2020-10-12T15:54:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7877,
+        "identifier": "p64j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+        "url": "https://9anime.to/watch/tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika.p64j",
+        "image": "//static.9anime.to/i/cache/images/2018/04/656a1fa8d253e1a50fe243fb629f29ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10622,
+        "aniId": 10622,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3002": {
+        "identifier": "3002",
+        "malId": 10622,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+        "url": "https://animepahe.com/a/3002"
+      }
+    },
+    "AniMixPlay": {
+      "10622": {
+        "identifier": "10622",
+        "malId": 10622,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+        "url": "https://animixplay.to/anime/10622"
+      }
+    }
+  }
+}

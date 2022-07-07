@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-15T15:05:55.000Z",
+  "checkedAt": "2022-05-15T15:05:55.000Z",
+  "id": 2714,
+  "type": "anime",
+  "title": "Sotsugyou: Graduation",
+  "altTitle": [
+    "Graduation: Graduation",
+    "Graduation",
+    "卒業~Graduation~"
+  ],
+  "url": "https://myanimelist.net/anime/2714/Sotsugyou__Graduation",
+  "image": "https://cdn.myanimelist.net/images/anime/1855/96094.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1241"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7002"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1241,
+  "Pages": {
+    "9anime": {
+      "5m3j": {
+        "createdAt": "2020-10-12T15:50:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2667,
+        "identifier": "5m3j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sotsugyou: Graduation",
+        "url": "https://9anime.to/watch/sotsugyou-graduation.5m3j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kIACfLaTCl4/WIBdkjV3xHI/AAAAAAABaGc/ipuJreN1w4I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2714,
+        "aniId": 2714,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sotsugyou-graduation": {
+        "createdAt": "2022-06-07T04:00:02.636Z",
+        "updatedAt": "2022-06-07T04:20:00.000Z",
+        "checkedAt": "2022-06-07T04:00:02.000Z",
+        "id": 41133,
+        "identifier": "sotsugyou-graduation",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sotsugyou: Graduation",
+        "url": "https://gogoanime.sk/category/sotsugyou-graduation",
+        "image": "https://gogocdn.net/cover/sotsugyou-graduation.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2714,
+        "aniId": 2714,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2714": {
+        "identifier": "2714",
+        "malId": 2714,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sotsugyou: Graduation",
+        "url": "https://animixplay.to/anime/2714"
+      }
+    },
+    "YugenAnime": {
+      "15408": {
+        "identifier": "15408",
+        "malId": 2714,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sotsugyou: Graduation",
+        "url": "https://yugen.to/anime/15408/sotsugyou-graduation/"
+      }
+    }
+  }
+}

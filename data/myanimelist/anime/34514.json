@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-14T18:00:47.000Z",
+  "checkedAt": "2022-05-14T18:00:47.000Z",
+  "id": 34514,
+  "type": "anime",
+  "title": "Pokemon Generations",
+  "altTitle": [
+    "Pocket Monsters Generations",
+    "Pokémon Generations",
+    "ポケモンジェネレーションズ"
+  ],
+  "url": "https://myanimelist.net/anime/34514/Pokemon_Generations",
+  "image": "https://cdn.myanimelist.net/images/anime/11/83210.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12409"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18902"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12409,
+  "Pages": {
+    "9anime": {
+      "0393": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 341,
+        "identifier": "0393",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon Generations (Dub)",
+        "url": "https://9anime.to/watch/pokemon-generations-dub.0393",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--yYQe9rqonY/WF5WCl6T55I/AAAAAAABUdA/CI-E3LB2ldM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34514,
+        "aniId": 97635,
+        "deletedAt": null
+      },
+      "jr23": {
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5004,
+        "identifier": "jr23",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokémon Generations",
+        "url": "https://9anime.to/watch/pokemon-generations.jr23",
+        "image": "https://static.akacdn.ru/files/images/2020/02/f829dff648cf79169356ba98486af63c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34514,
+        "aniId": 97635,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pokemon-generations": {
+        "createdAt": "2020-10-12T16:01:36.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20077,
+        "identifier": "pokemon-generations",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon Generations",
+        "url": "https://gogoanime.vc/category/pokemon-generations",
+        "image": "https://gogocdn.net/cover/pokemon-generations-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34514,
+        "aniId": 97635,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34514": {
+        "identifier": "34514",
+        "malId": 34514,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon Generations",
+        "url": "https://animixplay.to/anime/34514"
+      }
+    },
+    "YugenAnime": {
+      "4820": {
+        "identifier": "4820",
+        "malId": 34514,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pokemon Generations",
+        "url": "https://yugen.to/anime/4820/pokemon-generations/"
+      }
+    }
+  }
+}

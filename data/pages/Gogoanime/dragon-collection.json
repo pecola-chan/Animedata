@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T16:00:18.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17486,
+  "identifier": "dragon-collection",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Dragon Collection",
+  "url": "https://gogoanime.vc/category/dragon-collection",
+  "image": "https://gogocdn.net/images/spring/Dragon Collection.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 22733,
+  "aniId": 20700,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:26.000Z",
+    "updatedAt": "2022-05-14T21:26:59.000Z",
+    "checkedAt": "2022-05-14T21:26:59.000Z",
+    "id": 22733,
+    "type": "anime",
+    "title": "Dragon Collection",
+    "altTitle": [
+      "ドラゴンコレクション"
+    ],
+    "url": "https://myanimelist.net/anime/22733/Dragon_Collection",
+    "image": "https://cdn.myanimelist.net/images/anime/1579/101841.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dracolle-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10443"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15914"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dragon_Collection"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-260491"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 10443
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:31.000Z",
+    "updatedAt": "2022-05-15T22:10:47.000Z",
+    "checkedAt": "2022-05-15T22:10:47.000Z",
+    "id": 20700,
+    "type": "anime",
+    "title": "Dragon Collection",
+    "altTitle": [
+      "DRAGON COLLECTION",
+      "ドラゴンコレクション"
+    ],
+    "url": "https://anilist.co/anime/20700",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20700-Qih8DyAraert.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/dragon-collection"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GYMGD32GY/DRAGON-COLLECTION"
+      }
+    ],
+    "malId": 22733,
+    "deletedAt": null
+  }
+}

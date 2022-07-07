@@ -1,0 +1,81 @@
+{
+  "createdAt": "2021-02-02T18:02:04.000Z",
+  "updatedAt": "2022-05-14T22:41:59.000Z",
+  "checkedAt": "2022-05-14T22:41:59.000Z",
+  "id": 6251,
+  "type": "anime",
+  "title": "Sketchbook: Full Color's Picture Drama",
+  "altTitle": [
+    "スケッチブック ～full color's～ピクチャードラマ"
+  ],
+  "url": "https://myanimelist.net/anime/6251/Sketchbook__Full_Colors_Picture_Drama",
+  "image": "https://cdn.myanimelist.net/images/anime/2/63003.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5186"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sketchbook_(manga)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5186,
+  "Pages": {
+    "Gogoanime": {
+      "sketchbook-full-colors-picture-drama": {
+        "createdAt": "2021-08-28T12:06:34.000Z",
+        "updatedAt": "2021-08-28T12:36:33.000Z",
+        "checkedAt": null,
+        "id": 38461,
+        "identifier": "sketchbook-full-colors-picture-drama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sketchbook: Full Color's Picture Drama",
+        "url": "https://gogoanime.pe/category/sketchbook-full-colors-picture-drama",
+        "image": "https://gogocdn.net/cover/sketchbook-full-colors-picture-drama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6251,
+        "aniId": 20528,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2344": {
+        "identifier": "2344",
+        "malId": 6251,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sketchbook: Full Color's Picture Drama",
+        "url": "https://animepahe.com/a/2344"
+      }
+    },
+    "AniMixPlay": {
+      "6251": {
+        "identifier": "6251",
+        "malId": 6251,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sketchbook: Full Color's Picture Drama",
+        "url": "https://animixplay.to/anime/6251"
+      }
+    },
+    "YugenAnime": {
+      "9697": {
+        "identifier": "9697",
+        "malId": 6251,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sketchbook: Full Color's Picture Drama",
+        "url": "https://yugen.to/anime/9697/sketchbook-full-colors-picture-drama/"
+      }
+    }
+  }
+}

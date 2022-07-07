@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-14T09:54:37.000Z",
+  "checkedAt": "2022-05-14T09:54:37.000Z",
+  "id": 21855,
+  "type": "anime",
+  "title": "Hanamonogatari",
+  "altTitle": [
+    "Monogatari Series: Second Season +α",
+    "Hanamonogatari",
+    "花物語"
+  ],
+  "url": "https://myanimelist.net/anime/21855/Hanamonogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/13/65755.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.monogatari-series.com/2ndseason/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10046"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15973"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monogatari_%28series%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255593"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10046,
+  "Pages": {
+    "9anime": {
+      "791": {
+        "createdAt": "2020-10-12T15:48:26.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 27,
+        "identifier": "791",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hanamonogatari",
+        "url": "https://9anime.to/watch/hanamonogatari.791",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xJseTY5tmSU/V3u6gskDaUI/AAAAAAAAtis/nDgtqBMZYoE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21855,
+        "aniId": 20593,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hanamonogatari": {
+        "createdAt": "2020-10-12T16:00:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18155,
+        "identifier": "hanamonogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hanamonogatari",
+        "url": "https://gogoanime.vc/category/hanamonogatari",
+        "image": "https://images.gogoanime.tv/images/summer/Hanamonogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21855,
+        "aniId": 20593,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2887": {
+        "identifier": "2887",
+        "malId": 21855,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hanamonogatari",
+        "url": "https://animepahe.com/a/2887"
+      }
+    },
+    "AniMixPlay": {
+      "21855": {
+        "identifier": "21855",
+        "malId": 21855,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hanamonogatari",
+        "url": "https://animixplay.to/anime/21855"
+      }
+    },
+    "YugenAnime": {
+      "2950": {
+        "identifier": "2950",
+        "malId": 21855,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hanamonogatari",
+        "url": "https://yugen.to/anime/2950/hanamonogatari/"
+      }
+    }
+  }
+}

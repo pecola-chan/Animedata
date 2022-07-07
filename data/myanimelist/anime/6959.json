@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T22:40:47.000Z",
+  "checkedAt": "2022-05-14T22:40:46.000Z",
+  "id": 6959,
+  "type": "anime",
+  "title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+  "altTitle": [
+    "GA: Geijutsuka Art Design Class OVA",
+    "GA: ADC OVA",
+    "GA 芸術科アートデザインクラス 青空が描きたい"
+  ],
+  "url": "https://myanimelist.net/anime/6959/GA__Geijutsuka_Art_Design_Class__Aozora_ga_Kakitai",
+  "image": "https://cdn.myanimelist.net/images/anime/6/16229.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mv.avex.jp/ga/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6574"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-228632"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6574,
+  "Pages": {
+    "9anime": {
+      "17lq": {
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 885,
+        "identifier": "17lq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GA: Geijutsuka Art Design Class OVA",
+        "url": "https://9anime.to/watch/ga-geijutsuka-art-design-class-ova.17lq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8RZer2bHw40/V8BQMu-cKoI/AAAAAAAA5pA/qhqbhIZQOe0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6959,
+        "aniId": 6959,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1746": {
+        "identifier": "1746",
+        "malId": 6959,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "url": "https://animepahe.com/a/1746"
+      }
+    },
+    "AniMixPlay": {
+      "6959": {
+        "identifier": "6959",
+        "malId": 6959,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "url": "https://animixplay.to/anime/6959"
+      }
+    },
+    "YugenAnime": {
+      "1817": {
+        "identifier": "1817",
+        "malId": 6959,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "url": "https://yugen.to/anime/1817/ga-geijutsuka-art-design-class-ova/"
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T17:56:47.000Z",
+  "checkedAt": "2022-05-14T17:56:47.000Z",
+  "id": 1033,
+  "type": "anime",
+  "title": "Sennen Joyuu",
+  "altTitle": [
+    "Chiyoko Millennial Actress",
+    "Millennium Actress",
+    "千年女優"
+  ],
+  "url": "https://myanimelist.net/anime/1033/Sennen_Joyuu",
+  "image": "https://cdn.myanimelist.net/images/anime/1648/93626.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/2003-2002/works_movie_sennen.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=570"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=374"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Millenium_Actress"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 570,
+  "Pages": {
+    "9anime": {
+      "m67z": {
+        "createdAt": "2020-10-12T15:53:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6444,
+        "identifier": "m67z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sennen Joyuu",
+        "url": "https://9anime.to/watch/sennen-joyuu.m67z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AzPXnp_m0Fw/WGzNYnnYzqI/AAAAAAABWvY/ZUsmqkz4Q0I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1033,
+        "aniId": 1033,
+        "deletedAt": null
+      },
+      "n678": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6979,
+        "identifier": "n678",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sennen Joyuu (Dub)",
+        "url": "https://9anime.to/watch/sennen-joyuu-dub.n678",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-V0VhGcmfj9c/WGzNckYmTtI/AAAAAAABWvc/xXfzBfZtoDI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1033,
+        "aniId": 1033,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "millennium-actress": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19431,
+        "identifier": "millennium-actress",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Millennium Actress",
+        "url": "https://gogoanime.vc/category/millennium-actress#",
+        "image": "https://cdnimg.xyz/images/anime/M/Millennium-Actress.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1033,
+        "aniId": 1033,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "715": {
+        "identifier": "715",
+        "malId": 1033,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sennen Joyuu",
+        "url": "https://animepahe.com/a/715"
+      }
+    },
+    "AniMixPlay": {
+      "1033": {
+        "identifier": "1033",
+        "malId": 1033,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sennen Joyuu",
+        "url": "https://animixplay.to/anime/1033"
+      }
+    }
+  }
+}

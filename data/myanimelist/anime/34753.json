@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-15T00:22:17.000Z",
+  "checkedAt": "2022-05-15T00:22:17.000Z",
+  "id": 34753,
+  "type": "anime",
+  "title": "ChäoS;Child Episode 0",
+  "altTitle": [
+    "Chaos",
+    "Child Episode 0",
+    "ChäoS;Child Episode 0",
+    "CHAOS;CHILD 第0話"
+  ],
+  "url": "https://myanimelist.net/anime/34753/ChäoS_Child_Episode_0",
+  "image": "https://cdn.myanimelist.net/images/anime/9/83904.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "x5xv": {
+        "createdAt": "2020-10-12T15:56:25.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 10150,
+        "identifier": "x5xv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ChäoS;Child Episode 0",
+        "url": "https://9anime.to/watch/chaeoschild-episode-0.x5xv",
+        "image": "http://static.akacdn.ru/static/images/2018/04/002a44cf1f7a5deeb70444f32aa9b484.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34753,
+        "aniId": null,
+        "deletedAt": null
+      },
+      "3jj6": {
+        "createdAt": "2021-01-07T06:06:43.000Z",
+        "updatedAt": "2021-01-07T06:06:43.000Z",
+        "checkedAt": null,
+        "id": 33149,
+        "identifier": "3jj6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ChäoS;Child Episode 0 (Dub)",
+        "url": "https://9anime.to/watch/chaeoschild-episode-0-dub.3jj6",
+        "image": "//static.bunnycdn.ru/i/cache/images/e/eb/eb8b32b1f38f1ae74595a1dbede801a9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34753,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3136": {
+        "identifier": "3136",
+        "malId": 34753,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ChäoS;Child Episode 0",
+        "url": "https://animepahe.com/a/3136"
+      }
+    },
+    "AniMixPlay": {
+      "34753": {
+        "identifier": "34753",
+        "malId": 34753,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ChäoS;Child Episode 0",
+        "url": "https://animixplay.to/anime/34753"
+      }
+    },
+    "YugenAnime": {
+      "15345": {
+        "identifier": "15345",
+        "malId": 34753,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "ChäoS;Child Episode 0",
+        "url": "https://yugen.to/anime/15345/rich-player-1-episode-1-26/"
+      },
+      "15403": {
+        "identifier": "15403",
+        "malId": 34753,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "ChäoS;Child Episode 0",
+        "url": "https://yugen.to/anime/15403/rich-player-3-episode-27-28/"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T19:37:53.000Z",
+  "checkedAt": "2022-05-14T19:37:53.000Z",
+  "id": 4059,
+  "type": "anime",
+  "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+  "altTitle": [
+    "Clannad OVA",
+    "Clannad: Another World, Tomoyo Chapter",
+    "-クラナド-　もうひとつの世界　智代編"
+  ],
+  "url": "https://myanimelist.net/anime/4059/Clannad__Mou_Hitotsu_no_Sekai_Tomoyo-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/12/19620.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/clannad/clannad1/index-j.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5101"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7809"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Clannad_%28visual_novel%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5101,
+  "Pages": {
+    "9anime": {
+      "j6l4": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4742,
+        "identifier": "j6l4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+        "url": "https://9anime.to/watch/clannad-mou-hitotsu-no-sekai-tomoyo-hen.j6l4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_BeDF1rUNgc/WCC_lDVhiVI/AAAAAAABN2M/pDY1ads4lWM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4059,
+        "aniId": 4059,
+        "deletedAt": null
+      },
+      "k4mv": {
+        "createdAt": "2020-10-12T15:52:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5263,
+        "identifier": "k4mv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen (Dub)",
+        "url": "https://9anime.to/watch/clannad-mou-hitotsu-no-sekai-tomoyo-hen-dub.k4mv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SI2gddtUcic/WCC_sL97eHI/AAAAAAABN2Q/BJPzcz7OqC8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4059,
+        "aniId": 4059,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2855": {
+        "identifier": "2855",
+        "malId": 4059,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+        "url": "https://animepahe.com/a/2855"
+      }
+    },
+    "AniMixPlay": {
+      "4059": {
+        "identifier": "4059",
+        "malId": 4059,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+        "url": "https://animixplay.to/anime/4059"
+      }
+    }
+  }
+}

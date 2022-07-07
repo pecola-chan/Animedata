@@ -1,0 +1,64 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-15T01:45:11.000Z",
+  "checkedAt": "2022-05-15T01:45:11.000Z",
+  "id": 4997,
+  "type": "anime",
+  "title": "Mahoromatic 2 End Year Special",
+  "altTitle": [
+    "Mahoromatic: Motto Utsukushii Mono - Year End",
+    "Year End Special - 12.5",
+    "Mahoromatic: Motto Utsukushii Mono - Saimatsu Special",
+    "歳末スペシャル"
+  ],
+  "url": "https://myanimelist.net/anime/4997/Mahoromatic_2_End_Year_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/2/9745.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=201"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mahoromatic#Mahoromatic:_End_of_Year_Special"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 201,
+  "Pages": {
+    "9anime": {
+      "pox6": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8052,
+        "identifier": "pox6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoromatic 2 End Year Special",
+        "url": "https://9anime.to/watch/mahoromatic-2-end-year-special.pox6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XcLxqHuYO2k/WMVe5aOW0kI/AAAAAAABfaw/b271m5xLc1M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4997,
+        "aniId": 4997,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4997": {
+        "identifier": "4997",
+        "malId": 4997,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahoromatic 2 End Year Special",
+        "url": "https://animixplay.to/anime/4997"
+      }
+    }
+  }
+}

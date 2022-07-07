@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-14T09:33:03.000Z",
+  "checkedAt": "2022-05-14T09:33:03.000Z",
+  "id": 35928,
+  "type": "anime",
+  "title": "Devils Line",
+  "altTitle": [
+    "Devils' Line",
+    "デビルズライン"
+  ],
+  "url": "https://myanimelist.net/anime/35928/Devils_Line",
+  "image": "https://cdn.myanimelist.net/images/anime/1053/98838.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://devilsline.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13283"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20284"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Devils'_Line"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/devils-line"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13283,
+  "Pages": {
+    "9anime": {
+      "pz06": {
+        "createdAt": "2020-10-12T15:54:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8202,
+        "identifier": "pz06",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devils Line (Dub)",
+        "url": "https://9anime.to/watch/devils-line-dub.pz06",
+        "image": "http://static.akacdn.ru/static/images/2018/04/0d5ffa290fdf39d8f507d36f465b3646.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35928,
+        "aniId": 99531,
+        "deletedAt": null
+      },
+      "rkmn": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2022-03-19T07:49:52.000Z",
+        "checkedAt": null,
+        "id": 8880,
+        "identifier": "rkmn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devils' Line",
+        "url": "https://9anime.to/watch/devils-line.rkmn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/02/29ea125bb8f7d20b8d6dca48ca446840.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35928,
+        "aniId": 99531,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "devils-line": {
+        "createdAt": "2020-10-12T16:00:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17349,
+        "identifier": "devils-line",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": " Devils Line",
+        "url": "https://gogoanime.vc/category/devils-line",
+        "image": "https://images.gogoanime.tv/cover/devils-line.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35928,
+        "aniId": 99531,
+        "deletedAt": null
+      },
+      "devils-line-dub": {
+        "createdAt": "2020-10-12T16:00:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17351,
+        "identifier": "devils-line-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devils Line (Dub)",
+        "url": "https://gogoanime.vc/category/devils-line-dub",
+        "image": "https://cdnimg.xyz/cover/devils-line-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35928,
+        "aniId": 99531,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2518": {
+        "identifier": "2518",
+        "malId": 35928,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Devils Line",
+        "url": "https://animepahe.com/a/2518"
+      }
+    },
+    "AniMixPlay": {
+      "35928": {
+        "identifier": "35928",
+        "malId": 35928,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Devils Line",
+        "url": "https://animixplay.to/anime/35928"
+      }
+    },
+    "YugenAnime": {
+      "1481": {
+        "identifier": "1481",
+        "malId": 35928,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Devils Line",
+        "url": "https://yugen.to/anime/1481/devils-line/"
+      }
+    }
+  }
+}

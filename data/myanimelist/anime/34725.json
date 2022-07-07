@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-15T01:11:05.000Z",
+  "checkedAt": "2022-05-15T01:11:05.000Z",
+  "id": 34725,
+  "type": "anime",
+  "title": "Kaito x Ansa",
+  "altTitle": [
+    "Nazotokine 2",
+    "Kaito x Ansa",
+    "カイトアンサ"
+  ],
+  "url": "https://myanimelist.net/anime/34725/Kaito_x_Ansa",
+  "image": "https://cdn.myanimelist.net/images/anime/5/85063.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kaitoansa.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12716"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19621"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%88%E3%82%A2%E3%83%B3%E3%82%B5"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12716,
+  "Pages": {
+    "9anime": {
+      "l5rm": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5869,
+        "identifier": "l5rm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaito x Ansa",
+        "url": "https://9anime.to/watch/kaito-x-ansa.l5rm",
+        "image": "http://static.akacdn.ru/static/images/2018/04/08cd81e64c40953730a50493eb37cf59.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34725,
+        "aniId": 98517,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34725": {
+        "identifier": "34725",
+        "malId": 34725,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaito x Ansa",
+        "url": "https://animixplay.to/anime/34725"
+      }
+    }
+  }
+}

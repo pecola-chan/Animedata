@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-13T23:20:25.000Z",
+  "checkedAt": "2022-05-13T23:20:25.000Z",
+  "id": 18153,
+  "type": "anime",
+  "title": "Kyoukai no Kanata",
+  "altTitle": [
+    "Beyond the Horizon",
+    "Beyond the Boundary",
+    "境界の彼方"
+  ],
+  "url": "https://myanimelist.net/anime/18153/Kyoukai_no_Kanata",
+  "image": "https://cdn.myanimelist.net/images/anime/3/85468.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tv.anime-kyokai.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9518"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15546"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beyond_the_Boundary"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/beyond-the-boundary"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9518,
+  "Pages": {
+    "9anime": {
+      "4wvo": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2022-05-08T23:02:00.000Z",
+        "checkedAt": null,
+        "id": 2413,
+        "identifier": "4wvo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyoukai no Kanata (Dub)",
+        "url": "https://9anime.to/watch/beyond-the-boundary-dub.4wvo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/eef7ecced05d4198b3163a6e4f5915cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18153,
+        "aniId": 18153,
+        "deletedAt": null
+      },
+      "rvp": {
+        "createdAt": "2020-10-12T15:55:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9029,
+        "identifier": "rvp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyoukai no Kanata",
+        "url": "https://9anime.to/watch/kyoukai-no-kanata.rvp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rj7jiDBir40/V4Cl8cZblBI/AAAAAAAAuG4/FJRh54MpeKI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18153,
+        "aniId": 18153,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kyoukai-no-kanata": {
+        "createdAt": "2020-10-12T16:01:05.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19045,
+        "identifier": "kyoukai-no-kanata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyoukai no Kanata",
+        "url": "https://gogoanime.vc/category/kyoukai-no-kanata",
+        "image": "https://cdnimg.xyz/images/anime/Kyoukai-no-Kanata.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18153,
+        "aniId": 18153,
+        "deletedAt": null
+      },
+      "kyoukai-no-kanata-dub": {
+        "createdAt": "2020-10-12T16:01:05.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19046,
+        "identifier": "kyoukai-no-kanata-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyoukai no Kanata (Dub)",
+        "url": "https://gogoanime.vc/category/kyoukai-no-kanata-dub",
+        "image": "https://cdnimg.xyz/cover/kyoukai-no-kanata-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18153,
+        "aniId": 18153,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "45": {
+        "identifier": "45",
+        "malId": 18153,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyoukai no Kanata",
+        "url": "https://animepahe.com/a/45"
+      }
+    },
+    "AniMixPlay": {
+      "18153": {
+        "identifier": "18153",
+        "malId": 18153,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyoukai no Kanata",
+        "url": "https://animixplay.to/anime/18153"
+      }
+    },
+    "YugenAnime": {
+      "4006": {
+        "identifier": "4006",
+        "malId": 18153,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyoukai no Kanata",
+        "url": "https://yugen.to/anime/4006/kyoukai-no-kanata/"
+      }
+    }
+  }
+}

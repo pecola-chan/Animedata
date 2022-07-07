@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T16:15:10.000Z",
+  "checkedAt": "2022-05-14T16:15:10.000Z",
+  "id": 31149,
+  "type": "anime",
+  "title": "Persona 3 the Movie 4: Winter of Rebirth",
+  "altTitle": [
+    "Persona 3 the Movie: #4 Winter of Rebirth",
+    "PERSONA3 THE MOVIE —#4 Winter of Rebirth—"
+  ],
+  "url": "https://myanimelist.net/anime/31149/Persona_3_the_Movie_4__Winter_of_Rebirth",
+  "image": "https://cdn.myanimelist.net/images/anime/9/77828.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.p3m.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9299"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17257"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9299,
+  "Pages": {
+    "9anime": {
+      "lxy3": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6261,
+        "identifier": "lxy3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Persona 3 the Movie 4: Winter of Rebirth",
+        "url": "https://9anime.to/watch/persona-3-the-movie-4-winter-of-rebirth.lxy3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ggWy7ynGy04/V7kbODk17YI/AAAAAAAA4ks/5wnhgUcyFBo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31149,
+        "aniId": 21248,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "persona-3-the-movie-4-winter-of-rebirth": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20020,
+        "identifier": "persona-3-the-movie-4-winter-of-rebirth",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Persona 3 the Movie 4: Winter of Rebirth",
+        "url": "https://gogoanime.vc/category/persona-3-the-movie-4-winter-of-rebirth",
+        "image": "https://gogocdn.net/cover/persona-3-the-movie-4-winter-of-rebirth.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31149,
+        "aniId": 21248,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1300": {
+        "identifier": "1300",
+        "malId": 31149,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Persona 3 the Movie 4: Winter of Rebirth",
+        "url": "https://animepahe.com/a/1300"
+      }
+    },
+    "AniMixPlay": {
+      "31149": {
+        "identifier": "31149",
+        "malId": 31149,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Persona 3 the Movie 4: Winter of Rebirth",
+        "url": "https://animixplay.to/anime/31149"
+      }
+    },
+    "YugenAnime": {
+      "5256": {
+        "identifier": "5256",
+        "malId": 31149,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Persona 3 the Movie 4: Winter of Rebirth",
+        "url": "https://yugen.to/anime/5256/persona-3-the-movie-4-winter-of-rebirth/"
+      }
+    }
+  }
+}

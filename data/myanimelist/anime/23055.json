@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-06-21T04:32:25.000Z",
+  "checkedAt": "2022-06-21T04:32:25.000Z",
+  "id": 23055,
+  "type": "anime",
+  "title": "Kangaeru Renshuu",
+  "altTitle": [
+    "Thinking and Drawing: Nihon no Shinseiki Art Animation",
+    "Thinking and Drawing: Japanese Art Animation of the New Millennium",
+    "Imagination Practice",
+    "考える練習"
+  ],
+  "url": "https://myanimelist.net/anime/23055/Kangaeru_Renshuu",
+  "image": "https://cdn.myanimelist.net/images/anime/7/59757.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.imageforum.co.jp/new-anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7972"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7972,
+  "Pages": {
+    "9anime": {
+      "z70p": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11067,
+        "identifier": "z70p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Imagination Practice",
+        "url": "https://9anime.to/watch/imagination-practice.z70p",
+        "image": "https://static.akacdn.ru/files/images/2018/09/3a2e89f900756ebe59150a2d5a6530e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23055,
+        "aniId": 104343,
+        "deletedAt": null
+      }
+    }
+  }
+}

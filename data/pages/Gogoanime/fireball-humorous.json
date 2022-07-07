@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:24.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17671,
+  "identifier": "fireball-humorous",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fireball Humorous",
+  "url": "https://gogoanime.vc/category/fireball-humorous",
+  "image": "https://images.gogoanime.tv/cover/fireball-humorous.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36166,
+  "aniId": 100282,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:56.000Z",
+    "updatedAt": "2022-05-14T22:49:17.000Z",
+    "checkedAt": "2022-05-14T22:49:17.000Z",
+    "id": 36166,
+    "type": "anime",
+    "title": "Fireball Humorous",
+    "altTitle": [
+      "ファイアボール ユーモラス"
+    ],
+    "url": "https://myanimelist.net/anime/36166/Fireball_Humorous",
+    "image": "https://cdn.myanimelist.net/images/anime/11/87385.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dlife.disney.co.jp/special/5th_fireball.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13398"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fireball_(anime)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13398
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:25.000Z",
+    "updatedAt": "2022-05-15T17:31:47.000Z",
+    "checkedAt": "2022-05-15T17:31:47.000Z",
+    "id": 100282,
+    "type": "anime",
+    "title": "Fireball Humorous",
+    "altTitle": [
+      "Fireball Humorous",
+      "ファイアボール ユーモラス"
+    ],
+    "url": "https://anilist.co/anime/100282",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100282-vLo96yvYezTW.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36166,
+    "deletedAt": null
+  }
+}

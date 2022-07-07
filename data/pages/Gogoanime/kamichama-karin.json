@@ -1,0 +1,78 @@
+{
+  "createdAt": "2021-08-09T04:40:27.000Z",
+  "updatedAt": "2021-08-09T05:09:15.000Z",
+  "checkedAt": null,
+  "id": 38184,
+  "identifier": "kamichama-karin",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kamichama Karin",
+  "url": "https://gogoanime.pe/category/kamichama-karin",
+  "image": "https://gogocdn.net/images/anime/K/Kamichama-Karin.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1808,
+  "aniId": 1808,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:22.000Z",
+    "updatedAt": "2022-05-14T23:00:41.000Z",
+    "checkedAt": "2022-05-14T23:00:41.000Z",
+    "id": 1808,
+    "type": "anime",
+    "title": "Kamichama Karin",
+    "altTitle": [
+      "Kami-chama Karin",
+      "Little Goddess Karin",
+      "かみちゃまかりん"
+    ],
+    "url": "https://myanimelist.net/anime/1808/Kamichama_Karin",
+    "image": "https://cdn.myanimelist.net/images/anime/12/76297.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/kamichamakarin/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4893"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7461"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kamichama_Karin"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4893
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:02.000Z",
+    "updatedAt": "2022-05-15T15:33:35.000Z",
+    "checkedAt": "2022-05-15T15:33:35.000Z",
+    "id": 1808,
+    "type": "anime",
+    "title": "Kamichama Karin",
+    "altTitle": [
+      "God Karin",
+      "かみちゃまかりん",
+      "Kami-chama Karin",
+      "Little Goddess Karin"
+    ],
+    "url": "https://anilist.co/anime/1808",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1808-5BMJ60nECCfX.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1808,
+    "deletedAt": null
+  }
+}

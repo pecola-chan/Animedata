@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:01:11.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19249,
+  "identifier": "mahou-no-star-magical-emi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mahou no Star Magical Emi",
+  "url": "https://gogoanime.vc/category/mahou-no-star-magical-emi",
+  "image": "https://cdnimg.xyz/cover/mahou-no-star-magical-emi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2038,
+  "aniId": 2038,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-15T01:42:31.000Z",
+    "checkedAt": "2022-05-15T01:42:31.000Z",
+    "id": 2038,
+    "type": "anime",
+    "title": "Mahou no Star Magical Emi",
+    "altTitle": [
+      "Star Magician Magical Emi",
+      "Magic Star Magical Emi",
+      "魔法のスター マジカルエミ"
+    ],
+    "url": "https://myanimelist.net/anime/2038/Mahou_no_Star_Magical_Emi",
+    "image": "https://cdn.myanimelist.net/images/anime/1228/106161.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/magicgirl/cate03.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1444"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1690"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Magical_Emi,_the_Magic_Star"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1444
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-16T04:03:34.000Z",
+    "checkedAt": "2022-05-16T04:03:34.000Z",
+    "id": 2038,
+    "type": "anime",
+    "title": "Mahou no Star Magical Emi",
+    "altTitle": [
+      "魔法のスター マジカルエミ",
+      "Magica Emi"
+    ],
+    "url": "https://anilist.co/anime/2038",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2038-8pQpYgitKQyB.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2038,
+    "deletedAt": null
+  }
+}

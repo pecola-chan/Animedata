@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T23:17:53.000Z",
+  "checkedAt": "2022-05-14T23:17:53.000Z",
+  "id": 32697,
+  "type": "anime",
+  "title": "Ozmafia!!",
+  "altTitle": [
+    "オズマフィア"
+  ],
+  "url": "https://myanimelist.net/anime/32697/Ozmafia",
+  "image": "https://cdn.myanimelist.net/images/anime/9/80549.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.ozmafia.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11925"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18331"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/OZMAFIA!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270675"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11925,
+  "Pages": {
+    "9anime": {
+      "9oxn": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4395,
+        "identifier": "9oxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ozmafia!!",
+        "url": "https://9anime.to/watch/ozmafia.9oxn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9AOrcd6mCfA/V5g0-nhmQjI/AAAAAAAAyRk/37DlvjcFsyo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32697,
+        "aniId": 21641,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ozmafia": {
+        "createdAt": "2020-10-12T17:51:37.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23679,
+        "identifier": "ozmafia",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ozmafia!!",
+        "url": "https://gogoanime.vc/category/ozmafia",
+        "image": "https://gogocdn.net/cover/ozmafia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32697,
+        "aniId": 21641,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1164": {
+        "identifier": "1164",
+        "malId": 32697,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ozmafia!!",
+        "url": "https://animepahe.com/a/1164"
+      }
+    },
+    "AniMixPlay": {
+      "32697": {
+        "identifier": "32697",
+        "malId": 32697,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ozmafia!!",
+        "url": "https://animixplay.to/anime/32697"
+      }
+    },
+    "YugenAnime": {
+      "137": {
+        "identifier": "137",
+        "malId": 32697,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ozmafia!!",
+        "url": "https://yugen.to/anime/137/ozmafia/"
+      }
+    }
+  }
+}

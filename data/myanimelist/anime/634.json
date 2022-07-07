@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T18:06:11.000Z",
+  "checkedAt": "2022-05-14T18:06:11.000Z",
+  "id": 634,
+  "type": "anime",
+  "title": "Koi Kaze",
+  "altTitle": [
+    "Koikaze",
+    "Love Wind",
+    "恋風"
+  ],
+  "url": "https://myanimelist.net/anime/634/Koi_Kaze",
+  "image": "https://cdn.myanimelist.net/images/anime/9/61441.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nbcuni.co.jp/rondorobe/anime/koikaze/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1675"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3595"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Koi_Kaze"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1675,
+  "Pages": {
+    "9anime": {
+      "20l0": {
+        "createdAt": "2020-10-12T15:49:22.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1225,
+        "identifier": "20l0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koi Kaze",
+        "url": "https://9anime.to/watch/koi-kaze.20l0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cXdjhXc20a0/V8G4UJTaZ8I/AAAAAAAA57M/vE_W5uidTzw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 634,
+        "aniId": 634,
+        "deletedAt": null
+      },
+      "4zlo": {
+        "createdAt": "2020-10-12T15:50:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2452,
+        "identifier": "4zlo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koi Kaze (Dub)",
+        "url": "https://9anime.to/watch/koi-kaze-dub.4zlo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7H0EJBBKE28/WAZB6aqlHTI/AAAAAAABJGo/v1SC-HDCYWs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 634,
+        "aniId": 634,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koi-kaze": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18909,
+        "identifier": "koi-kaze",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koi Kaze",
+        "url": "https://gogoanime.vc/category/koi-kaze",
+        "image": "https://cdnimg.xyz/images/anime/K/Koi-Kaze.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 634,
+        "aniId": 634,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1506": {
+        "identifier": "1506",
+        "malId": 634,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koi Kaze",
+        "url": "https://animepahe.com/a/1506"
+      }
+    },
+    "AniMixPlay": {
+      "634": {
+        "identifier": "634",
+        "malId": 634,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koi Kaze",
+        "url": "https://animixplay.to/anime/634"
+      }
+    },
+    "YugenAnime": {
+      "589": {
+        "identifier": "589",
+        "malId": 634,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koi Kaze",
+        "url": "https://yugen.to/anime/589/koi-kaze/"
+      }
+    }
+  }
+}

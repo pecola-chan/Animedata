@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-05-14T17:12:50.000Z",
+  "checkedAt": "2022-05-14T17:12:50.000Z",
+  "id": 4550,
+  "type": "anime",
+  "title": "Hyakko",
+  "altTitle": [
+    "ヒャッコ"
+  ],
+  "url": "https://myanimelist.net/anime/4550/Hyakko",
+  "image": "https://cdn.myanimelist.net/images/anime/3/21685.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hyakko.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5910"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10051"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hyakko"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-102919"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5910,
+  "Pages": {
+    "9anime": {
+      "m44v": {
+        "createdAt": "2020-10-12T15:53:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6382,
+        "identifier": "m44v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hyakko",
+        "url": "https://9anime.to/watch/hyakko.m44v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hOzniLgxiCs/WCsKICnIiFI/AAAAAAABO5E/oK22nj0C11k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4550,
+        "aniId": 4550,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hyakko": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18417,
+        "identifier": "hyakko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hyakko",
+        "url": "https://gogoanime.vc/category/hyakko",
+        "image": "https://gogocdn.net/images/anime/H/hyakko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4550,
+        "aniId": 4550,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "719": {
+        "identifier": "719",
+        "malId": 4550,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hyakko",
+        "url": "https://animepahe.com/a/719"
+      }
+    },
+    "AniMixPlay": {
+      "4550": {
+        "identifier": "4550",
+        "malId": 4550,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hyakko",
+        "url": "https://animixplay.to/anime/4550"
+      }
+    },
+    "YugenAnime": {
+      "268": {
+        "identifier": "268",
+        "malId": 4550,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hyakko",
+        "url": "https://yugen.to/anime/268/hyakko/"
+      }
+    }
+  }
+}

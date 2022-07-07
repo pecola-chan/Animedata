@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-23T03:28:48.000Z",
+  "updatedAt": "2022-03-31T17:30:42.000Z",
+  "checkedAt": null,
+  "id": 4584,
+  "type": "anime",
+  "title": "Topo Gigio",
+  "altTitle": [
+    "Toppo Jijo",
+    "Return of Topo Gigio",
+    "帰って来た　トッポ・ジージョ"
+  ],
+  "url": "https://myanimelist.net/anime/4584/Topo_Gigio",
+  "image": "https://cdn.myanimelist.net/images/anime/13/44137.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/060/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5054"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1663"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5054,
+  "Pages": {
+    "9anime": {
+      "kp6r": {
+        "createdAt": "2020-10-23T03:28:48.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27784,
+        "identifier": "kp6r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Topo Gigio no Botan Sensou",
+        "url": "https://9anime.to/watch/topo-gigio-no-botan-sensou.kp6r",
+        "image": "//static.9anime.to/i/cache/images/2018/07/cca904caba48b06d30dc97d891665f5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 4584,
+        "aniId": 4584,
+        "deletedAt": null
+      },
+      "lq5q": {
+        "createdAt": "2021-03-10T10:14:46.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35572,
+        "identifier": "lq5q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Topo Gigio no Botan Sensou (Dub)",
+        "url": "https://9anime.to/watch/topo-gigio-no-botan-sensou-dub.lq5q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/07/5f1ebcbd6c1b98e602ccc4f04982182a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 4584,
+        "aniId": 4584,
+        "deletedAt": null
+      }
+    }
+  }
+}

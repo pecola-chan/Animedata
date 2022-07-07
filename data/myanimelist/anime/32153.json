@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-14T21:52:53.000Z",
+  "checkedAt": "2022-05-14T21:52:53.000Z",
+  "id": 32153,
+  "type": "anime",
+  "title": "Mahou Shoujo Madoka★Magica: Concept Movie",
+  "altTitle": [
+    "Puella Magi Madoka Magica Concept Movie",
+    "魔法少女まどか★マギカ コンセプトムービー"
+  ],
+  "url": "https://myanimelist.net/anime/32153/Mahou_Shoujo_Madoka★Magica__Concept_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/12/77732.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11793"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11793,
+  "Pages": {
+    "9anime": {
+      "mow8": {
+        "createdAt": "2020-10-12T15:53:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6675,
+        "identifier": "mow8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo Madoka★Magica: Concept Movie",
+        "url": "https://9anime.to/watch/puella-magi-madoka-magica-concept-movie.mow8",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/4badafe4dd8afe8fa5747554308a0594.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32153,
+        "aniId": 101090,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2383": {
+        "identifier": "2383",
+        "malId": 32153,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mahou Shoujo Madoka★Magica: Concept Movie",
+        "url": "https://animepahe.com/a/2383"
+      }
+    },
+    "AniMixPlay": {
+      "32153": {
+        "identifier": "32153",
+        "malId": 32153,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou Shoujo Madoka★Magica: Concept Movie",
+        "url": "https://animixplay.to/anime/32153"
+      }
+    }
+  }
+}

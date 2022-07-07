@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T10:31:39.000Z",
+  "checkedAt": "2022-05-14T10:31:39.000Z",
+  "id": 889,
+  "type": "anime",
+  "title": "Black Lagoon",
+  "altTitle": [
+    "Black Lagoon",
+    "BLACK LAGOON"
+  ],
+  "url": "https://myanimelist.net/anime/889/Black_Lagoon",
+  "image": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.blacklagoon.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3395"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6159"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Black_Lagoon"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/black-lagoon"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3395,
+  "Pages": {
+    "9anime": {
+      "15q": {
+        "createdAt": "2020-10-12T15:49:06.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 863,
+        "identifier": "15q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BLACK LAGOON",
+        "url": "https://9anime.to/watch/black-lagoon.15q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kL9pQhMhSy8/V4IUpzzhp2I/AAAAAAAAuWo/vzNoeaAA_hQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 889,
+        "aniId": 889,
+        "deletedAt": null
+      },
+      "ln2n": {
+        "createdAt": "2020-10-12T15:53:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6102,
+        "identifier": "ln2n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BLACK LAGOON (Dub)",
+        "url": "https://9anime.to/watch/black-lagoon-dub.ln2n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-W95o15xR4mw/V-JziONHhPI/AAAAAAAA_U8/V5Vb7DevgOA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 889,
+        "aniId": 889,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "black-lagoon": {
+        "createdAt": "2020-10-12T15:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16836,
+        "identifier": "black-lagoon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Lagoon",
+        "url": "https://gogoanime.vc/category/black-lagoon",
+        "image": "https://cdnimg.xyz/images/anime/B/black-lagoon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 889,
+        "aniId": 889,
+        "deletedAt": null
+      },
+      "black-lagoon-dub": {
+        "createdAt": "2020-10-12T15:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16837,
+        "identifier": "black-lagoon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Lagoon (Dub)",
+        "url": "https://gogoanime.vc/category/black-lagoon-dub",
+        "image": "https://images.gogoanime.tv/cover/black-lagoon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 889,
+        "aniId": 889,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1007": {
+        "identifier": "1007",
+        "malId": 889,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Black Lagoon",
+        "url": "https://animepahe.com/a/1007"
+      }
+    },
+    "AniMixPlay": {
+      "889": {
+        "identifier": "889",
+        "malId": 889,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Black Lagoon",
+        "url": "https://animixplay.to/anime/889"
+      }
+    },
+    "YugenAnime": {
+      "682": {
+        "identifier": "682",
+        "malId": 889,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Black Lagoon",
+        "url": "https://yugen.to/anime/682/black-lagoon/"
+      }
+    }
+  }
+}

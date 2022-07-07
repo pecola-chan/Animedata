@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-11-26T17:01:39.000Z",
+  "updatedAt": "2022-05-14T17:26:17.000Z",
+  "checkedAt": "2022-05-14T17:26:17.000Z",
+  "id": 42106,
+  "type": "anime",
+  "title": "Jiang Ziya",
+  "altTitle": [
+    "Legend of Deification",
+    "Jiang Ziya",
+    "姜子牙"
+  ],
+  "url": "https://myanimelist.net/anime/42106/Jiang_Ziya",
+  "image": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.wellgousa.com/films/jiang-ziya"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15375"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Legend_of_Deification"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15375,
+  "Pages": {
+    "9anime": {
+      "r5nm": {
+        "createdAt": "2020-12-09T13:59:40.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29819,
+        "identifier": "r5nm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jiang Ziya",
+        "url": "https://9anime.to/watch/jiang-ziya.r5nm",
+        "image": "//static.9anime.to/i/cache/images/3/3d/3d780427cd611bb4a926a8703a64d9f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "deletedAt": null
+      },
+      "50y9": {
+        "createdAt": "2021-02-16T20:37:29.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34847,
+        "identifier": "50y9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jiang Ziya (Dub)",
+        "url": "https://9anime.to/watch/jiang-ziya-dub.50y9",
+        "image": "//static.bunnycdn.ru/i/cache/images/6/65/65b22efdfa5177ae78b45cff58603c81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jiang-ziya": {
+        "createdAt": "2021-02-01T08:35:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34439,
+        "identifier": "jiang-ziya",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jiang Ziya",
+        "url": "https://gogoanime.vc/category/jiang-ziya",
+        "image": "https://gogocdn.net/cover/jiang-ziya.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "deletedAt": null
+      },
+      "jiang-ziya-dub": {
+        "createdAt": "2021-11-30T11:35:35.000Z",
+        "updatedAt": "2021-11-30T12:05:34.000Z",
+        "checkedAt": null,
+        "id": 39344,
+        "identifier": "jiang-ziya-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jiang Ziya (Dub)",
+        "url": "https://gogoanime.cm/category/jiang-ziya-dub",
+        "image": "https://gogocdn.net/cover/jiang-ziya-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42106": {
+        "identifier": "42106",
+        "malId": 42106,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jiang Ziya",
+        "url": "https://animixplay.to/anime/42106"
+      }
+    },
+    "YugenAnime": {
+      "7218": {
+        "identifier": "7218",
+        "malId": 42106,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jiang Ziya",
+        "url": "https://yugen.to/anime/7218/jiang-ziya/"
+      }
+    }
+  }
+}

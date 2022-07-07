@@ -1,0 +1,124 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T19:42:59.000Z",
+  "checkedAt": "2022-05-14T19:42:59.000Z",
+  "id": 221,
+  "type": "anime",
+  "title": "Mezzo Forte",
+  "altTitle": [
+    "メゾフォルテ"
+  ],
+  "url": "https://myanimelist.net/anime/221/Mezzo_Forte",
+  "image": "https://cdn.myanimelist.net/images/anime/6/37391.jpg",
+  "category": "OVA",
+  "hentai": true,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=214"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=332"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mezzo_Forte_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 214,
+  "Pages": {
+    "9anime": {
+      "5m2v": {
+        "createdAt": "2020-10-12T15:50:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2666,
+        "identifier": "5m2v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mezzo Forte",
+        "url": "https://9anime.to/watch/mezzo-forte.5m2v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zBob6AZoLWw/WHXFx5lMJEI/AAAAAAABYo8/qwgQwp4RGA4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 221,
+        "aniId": 221,
+        "deletedAt": null
+      },
+      "6nlz": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3086,
+        "identifier": "6nlz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mezzo Forte (Dub)",
+        "url": "https://9anime.to/watch/mezzo-forte-dub.6nlz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2cfyxeNP6Dw/WHXF6HJnLyI/AAAAAAABYpA/Kx-Xl0yWyVM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 221,
+        "aniId": 221,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mezzo-forte": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19419,
+        "identifier": "mezzo-forte",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mezzo Forte",
+        "url": "https://gogoanime.vc/category/mezzo-forte",
+        "image": "https://gogocdn.net/cover/mezzo-forte.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 221,
+        "aniId": 221,
+        "deletedAt": null
+      },
+      "mezzo-forte-dub": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19420,
+        "identifier": "mezzo-forte-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mezzo Forte (Dub)",
+        "url": "https://gogoanime.vc/category/mezzo-forte-dub",
+        "image": "https://gogocdn.net/cover/mezzo-forte-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 221,
+        "aniId": 221,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "221": {
+        "identifier": "221",
+        "malId": 221,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mezzo Forte",
+        "url": "https://animixplay.to/anime/221"
+      }
+    }
+  }
+}

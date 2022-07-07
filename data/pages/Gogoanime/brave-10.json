@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T16:00:02.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 16934,
+  "identifier": "brave-10",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Brave 10",
+  "url": "https://gogoanime.vc/category/brave-10",
+  "image": "https://cdnimg.xyz/images/anime/B/Brave10.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 11241,
+  "aniId": 11241,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:08.000Z",
+    "updatedAt": "2022-05-14T18:21:35.000Z",
+    "checkedAt": "2022-05-14T18:21:35.000Z",
+    "id": 11241,
+    "type": "anime",
+    "title": "Brave 10",
+    "altTitle": [
+      "Brave10",
+      "Brave Ten",
+      "Brave 10",
+      "ブレイブ・テン"
+    ],
+    "url": "https://myanimelist.net/anime/11241/Brave_10",
+    "image": "https://cdn.myanimelist.net/images/anime/13/34043.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.brave10.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8571"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13223"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brave_10"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-240618"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 8571
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:07.000Z",
+    "updatedAt": "2022-05-15T15:43:11.000Z",
+    "checkedAt": "2022-05-15T15:43:11.000Z",
+    "id": 11241,
+    "type": "anime",
+    "title": "Brave 10",
+    "altTitle": [
+      "ブレイブ・テン",
+      "Brave10",
+      "Brave Ten"
+    ],
+    "url": "https://anilist.co/anime/11241",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11241-FVdZiZceB4c7.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/brave-10"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/brave-10"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GR19X2MZ6/Brave-10"
+      }
+    ],
+    "malId": 11241,
+    "deletedAt": null
+  }
+}

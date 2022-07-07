@@ -1,0 +1,108 @@
+{
+  "createdAt": "2021-01-05T04:56:52.000Z",
+  "updatedAt": "2022-05-16T19:07:10.000Z",
+  "checkedAt": "2022-05-16T19:07:10.000Z",
+  "id": 15815,
+  "type": "anime",
+  "title": "Yakeato no, Okashi no Ki",
+  "altTitle": [
+    "Sensou Douwa 5",
+    "Burning, Candy Tree",
+    "焼跡の, お菓子の木"
+  ],
+  "url": "https://myanimelist.net/anime/15815/Yakeato_no_Okashi_no_Ki",
+  "image": "https://cdn.myanimelist.net/images/anime/9/42867.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shin-ei-animation.jp/sensoudouwashu/modules/okashi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6760"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%84%BC%E8%B7%A1%E3%81%AE%E3%80%81%E3%81%8A%E8%8F%93%E5%AD%90%E3%81%AE%E6%9C%A8"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6760,
+  "Pages": {
+    "9anime": {
+      "jxp2": {
+        "createdAt": "2021-01-06T14:57:01.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33089,
+        "identifier": "jxp2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yakeato no, Okashi no Ki",
+        "url": "https://9anime.to/watch/yakeato-no-okashi-no-ki.jxp2",
+        "image": "//static.bunnycdn.ru/i/cache/images/2020/08/ba7b4e82a985dbf88d5600c5d63449e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15815,
+        "aniId": 15815,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yakeato-no-okashi-no-ki": {
+        "createdAt": "2021-12-24T20:57:56.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
+        "checkedAt": null,
+        "id": 39557,
+        "identifier": "yakeato-no-okashi-no-ki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yakeato no, Okashi no Ki",
+        "url": "https://gogoanime.cm/category/yakeato-no-okashi-no-ki",
+        "image": "https://gogocdn.net/cover/yakeato-no-okashi-no-ki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15815,
+        "aniId": 15815,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4358": {
+        "identifier": "4358",
+        "malId": 15815,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yakeato no, Okashi no Ki",
+        "url": "https://animepahe.com/a/4358"
+      }
+    },
+    "AniMixPlay": {
+      "15815": {
+        "identifier": "15815",
+        "malId": 15815,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yakeato no, Okashi no Ki",
+        "url": "https://animixplay.to/anime/15815"
+      }
+    },
+    "YugenAnime": {
+      "11469": {
+        "identifier": "11469",
+        "malId": 15815,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yakeato no, Okashi no Ki",
+        "url": "https://yugen.to/anime/11469/yakeato-no-okashi-no-ki/"
+      }
+    }
+  }
+}

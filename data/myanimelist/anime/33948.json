@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T09:41:54.000Z",
+  "checkedAt": "2022-05-14T09:41:54.000Z",
+  "id": 33948,
+  "type": "anime",
+  "title": "Hinako Note",
+  "altTitle": [
+    "Hinako Note",
+    "ひなこのーと"
+  ],
+  "url": "https://myanimelist.net/anime/33948/Hinako_Note",
+  "image": "https://cdn.myanimelist.net/images/anime/2/84858.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hinakonote.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12349"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18894"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hinako_Note"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272911"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12349,
+  "Pages": {
+    "9anime": {
+      "n6nj": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6987,
+        "identifier": "n6nj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hinako Note",
+        "url": "https://9anime.to/watch/hinako-note.n6nj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XT9iqe71kk8/WOeepFzHCwI/AAAAAAAAgKA/WHrDULf8Hfc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33948,
+        "aniId": 87517,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hinako-note": {
+        "createdAt": "2020-10-12T16:00:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18326,
+        "identifier": "hinako-note",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hinako Note",
+        "url": "https://gogoanime.vc/category/hinako-note",
+        "image": "https://cdnimg.xyz/cover/hinako-note.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33948,
+        "aniId": 87517,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2023": {
+        "identifier": "2023",
+        "malId": 33948,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hinako Note",
+        "url": "https://animepahe.com/a/2023"
+      }
+    },
+    "AniMixPlay": {
+      "33948": {
+        "identifier": "33948",
+        "malId": 33948,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hinako Note",
+        "url": "https://animixplay.to/anime/33948"
+      }
+    },
+    "YugenAnime": {
+      "2373": {
+        "identifier": "2373",
+        "malId": 33948,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hinako Note",
+        "url": "https://yugen.to/anime/2373/hinako-note/"
+      }
+    }
+  }
+}

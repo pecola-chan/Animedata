@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T18:56:29.000Z",
+  "checkedAt": "2022-05-14T18:56:29.000Z",
+  "id": 1153,
+  "type": "anime",
+  "title": "Crying Freeman",
+  "altTitle": [
+    "Cryingフリーマン"
+  ],
+  "url": "https://myanimelist.net/anime/1153/Crying_Freeman",
+  "image": "https://cdn.myanimelist.net/images/anime/13/37721.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1018"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1023"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Crying_Freeman"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1018,
+  "Pages": {
+    "9anime": {
+      "9mjx": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4344,
+        "identifier": "9mjx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Crying Freeman",
+        "url": "https://9anime.to/watch/crying-freeman.9mjx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_nsMKJV5vFY/V-8Yyhzr1LI/AAAAAAABCvk/YpaUxmdwEBs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1153,
+        "aniId": 1153,
+        "deletedAt": null
+      },
+      "k919": {
+        "createdAt": "2020-10-12T15:52:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5392,
+        "identifier": "k919",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Crying Freeman (Dub)",
+        "url": "https://9anime.to/watch/crying-freeman-dub.k919",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MM2R9Ca9TVk/V8-4hSk-Q4I/AAAAAAAA8Dk/SYQWGj7gEM8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1153,
+        "aniId": 1153,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "crying-freeman": {
+        "createdAt": "2021-04-20T07:15:19.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36632,
+        "identifier": "crying-freeman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Crying Freeman",
+        "url": "https://gogoanime.vc/category/crying-freeman",
+        "image": "https://gogocdn.net/cover/crying-freeman.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1153,
+        "aniId": 1153,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1153": {
+        "identifier": "1153",
+        "malId": 1153,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Crying Freeman",
+        "url": "https://animixplay.to/anime/1153"
+      }
+    },
+    "YugenAnime": {
+      "3759": {
+        "identifier": "3759",
+        "malId": 1153,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Crying Freeman",
+        "url": "https://yugen.to/anime/3759/crying-freeman/"
+      }
+    }
+  }
+}

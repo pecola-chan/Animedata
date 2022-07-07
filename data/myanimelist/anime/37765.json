@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T18:25:17.000Z",
+  "checkedAt": "2022-05-14T18:25:17.000Z",
+  "id": 37765,
+  "type": "anime",
+  "title": "Mobile Suit Gundam: Hathaway's Flash",
+  "altTitle": [
+    "Kidou Senshi Gundam: Senkou no Hathaway 1",
+    "Mobile Suit Gundam Hathaway",
+    "機動戦士ガンダム 閃光のハサウェイ"
+  ],
+  "url": "https://myanimelist.net/anime/37765/Mobile_Suit_Gundam__Hathaways_Flash",
+  "image": "https://cdn.myanimelist.net/images/anime/1195/115685.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gundam-hathaway.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14043"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22960"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_Hathaway's_Flash#Films"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14043,
+  "Pages": {
+    "9anime": {
+      "06j7": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2022-05-01T06:06:51.000Z",
+        "checkedAt": null,
+        "id": 455,
+        "identifier": "06j7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kidou Senshi Gundam: Senkou no Hathaway",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-hathaway.06j7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/7d/7d35ffbbeb98f93fe1f13afdc9a32115.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37765,
+        "aniId": 105595,
+        "deletedAt": null
+      },
+      "4qrzj": {
+        "createdAt": "2021-07-01T11:51:33.000Z",
+        "updatedAt": "2021-07-01T12:20:01.000Z",
+        "checkedAt": null,
+        "id": 37586,
+        "identifier": "4qrzj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam: Hathaway's Flash (Dub)",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-hathaways-flash-dub.4qrzj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/de/de2f670eb014761d752cd98dff9e3134.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37765,
+        "aniId": 105595,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mobile-suit-gundam-hathaways-flash": {
+        "createdAt": "2021-06-13T21:38:22.000Z",
+        "updatedAt": "2021-06-13T22:08:18.000Z",
+        "checkedAt": null,
+        "id": 37374,
+        "identifier": "mobile-suit-gundam-hathaways-flash",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mobile Suit Gundam: Hathaway's Flash",
+        "url": "https://gogoanime.vc/category/mobile-suit-gundam-hathaways-flash",
+        "image": "https://gogocdn.net/cover/mobile-suit-gundam-hathaways-flash.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37765,
+        "aniId": 105595,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4419": {
+        "identifier": "4419",
+        "malId": 37765,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mobile Suit Gundam: Hathaway's Flash",
+        "url": "https://animepahe.com/a/4419"
+      }
+    },
+    "AniMixPlay": {
+      "37765": {
+        "identifier": "37765",
+        "malId": 37765,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam: Hathaway's Flash",
+        "url": "https://animixplay.to/anime/37765"
+      }
+    },
+    "YugenAnime": {
+      "7776": {
+        "identifier": "7776",
+        "malId": 37765,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit Gundam: Hathaway's Flash",
+        "url": "https://yugen.to/anime/7776/mobile-suit-gundam-hathaways-flash/"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-14T17:11:38.000Z",
+  "checkedAt": "2022-05-14T17:11:38.000Z",
+  "id": 16051,
+  "type": "anime",
+  "title": "Ro-Kyu-Bu! SS",
+  "altTitle": [
+    "Second Season - Shogakusei wa Saiko daze!",
+    "ロウきゅーぶ! SS"
+  ],
+  "url": "https://myanimelist.net/anime/16051/Ro-Kyu-Bu_SS",
+  "image": "https://cdn.myanimelist.net/images/anime/8/50697.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ro-kyu-bu.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9485"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14852"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ro-Kyu-Bu!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9485,
+  "Pages": {
+    "9anime": {
+      "n66k": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6978,
+        "identifier": "n66k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ro-Kyu-Bu! SS",
+        "url": "https://9anime.to/watch/ro-kyu-bu-ss.n66k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AhpYDmPXMK8/WGJmM9HuBAI/AAAAAAABVGE/PjExbzfCe8w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16051,
+        "aniId": 16051,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ro-kyu-bu-ss": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20305,
+        "identifier": "ro-kyu-bu-ss",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ro-Kyu-Bu! SS",
+        "url": "https://gogoanime.vc/category/ro-kyu-bu-ss",
+        "image": "https://gogocdn.net/images/anime/Ro-Kyu-Bu-SS.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16051,
+        "aniId": 16051,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "670": {
+        "identifier": "670",
+        "malId": 16051,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ro-Kyu-Bu! SS",
+        "url": "https://animepahe.com/a/670"
+      }
+    },
+    "AniMixPlay": {
+      "16051": {
+        "identifier": "16051",
+        "malId": 16051,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ro-Kyu-Bu! SS",
+        "url": "https://animixplay.to/anime/16051"
+      }
+    },
+    "YugenAnime": {
+      "739": {
+        "identifier": "739",
+        "malId": 16051,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ro-Kyu-Bu! SS",
+        "url": "https://yugen.to/anime/739/ro-kyu-bu-ss/"
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T09:04:21.000Z",
+  "checkedAt": "2022-05-14T09:04:21.000Z",
+  "id": 37614,
+  "type": "anime",
+  "title": "Hitoribocchi no Marumaru Seikatsu",
+  "altTitle": [
+    "Hitoribocchi no ○○ Seikatsu",
+    "Hitori Bocchi's ○○ Lifestyle",
+    "ひとりぼっちの○○生活"
+  ],
+  "url": "https://myanimelist.net/anime/37614/Hitoribocchi_no_Marumaru_Seikatsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1130/99458.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hitoribocchi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13989"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20806"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E2%97%8B%E2%97%8B%E7%94%9F%E6%B4%BB"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277779"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13989,
+  "Pages": {
+    "9anime": {
+      "krjv": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5596,
+        "identifier": "krjv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hitoribocchi no Marumaru Seikatsu",
+        "url": "https://9anime.to/watch/hitoribocchi-no-marumaru-seikatsu.krjv",
+        "image": "//static.9anime.to/i/cache/images/2019/04/306ef3b81446364ae0544cb63df8d428.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37614,
+        "aniId": 101386,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hitoribocchi-no-oo-seikatsu": {
+        "createdAt": "2020-10-12T16:00:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18340,
+        "identifier": "hitoribocchi-no-oo-seikatsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hitoribocchi no OO Seikatsu",
+        "url": "https://gogoanime.vc/category/hitoribocchi-no-oo-seikatsu",
+        "image": "https://cdnimg.xyz/cover/hitoribocchi-no-oo-seikatsu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37614,
+        "aniId": 101386,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3217": {
+        "identifier": "3217",
+        "malId": 37614,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hitoribocchi no Marumaru Seikatsu",
+        "url": "https://animepahe.com/a/3217"
+      }
+    },
+    "AniMixPlay": {
+      "37614": {
+        "identifier": "37614",
+        "malId": 37614,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hitoribocchi no Marumaru Seikatsu",
+        "url": "https://animixplay.to/anime/37614"
+      }
+    },
+    "YugenAnime": {
+      "792": {
+        "identifier": "792",
+        "malId": 37614,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hitoribocchi no Marumaru Seikatsu",
+        "url": "https://yugen.to/anime/792/hitoribocchi-no-oo-seikatsu/"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-06-01T17:29:44.000Z",
+  "checkedAt": "2022-06-01T17:29:44.000Z",
+  "id": 9824,
+  "type": "anime",
+  "title": "Jigokudou Reikai Tsuushin",
+  "altTitle": [
+    "Hell Hall-Spirit World Communication",
+    "地獄堂霊界通信"
+  ],
+  "url": "https://myanimelist.net/anime/9824/Jigokudou_Reikai_Tsuushin",
+  "image": "https://cdn.myanimelist.net/images/anime/1217/112682.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7935"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E5%A0%82%E9%9C%8A%E7%95%8C%E9%80%9A%E4%BF%A1"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7935,
+  "Pages": {
+    "9anime": {
+      "qynj": {
+        "createdAt": "2020-10-12T15:55:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8644,
+        "identifier": "qynj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jigokudou Reikai Tsuushin",
+        "url": "https://9anime.to/watch/jigokudou-reikai-tsuushin.qynj",
+        "image": "https://static.akacdn.ru/files/images/2018/05/0a9d1c98b4023b29fb8c65e71ebb5154.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9824,
+        "aniId": 9824,
+        "deletedAt": null
+      }
+    }
+  }
+}

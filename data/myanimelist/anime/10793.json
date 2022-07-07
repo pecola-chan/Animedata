@@ -1,0 +1,178 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-14T16:29:38.000Z",
+  "checkedAt": "2022-05-14T16:29:38.000Z",
+  "id": 10793,
+  "type": "anime",
+  "title": "Guilty Crown",
+  "altTitle": [
+    "GUILTY CROWN",
+    "Guilty Crown",
+    "ギルティクラウン"
+  ],
+  "url": "https://myanimelist.net/anime/10793/Guilty_Crown",
+  "image": "https://cdn.myanimelist.net/images/anime/8/33713.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.guilty-crown.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8480"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13001"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Guilty_Crown"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/guilty-crown"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8480,
+  "Pages": {
+    "9anime": {
+      "l143": {
+        "createdAt": "2020-10-12T15:52:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5743,
+        "identifier": "l143",
+        "type": "anime",
+        "page": "9anime",
+        "title": "GUILTY CROWN (Dub)",
+        "url": "https://9anime.to/watch/guilty-crown-dub.l143",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sqFxRh9yV6Q/V87shUwLgRI/AAAAAAAA77E/rey6zKZDWU4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10793,
+        "aniId": 10793,
+        "deletedAt": null
+      },
+      "xr2q": {
+        "createdAt": "2020-10-12T15:56:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10366,
+        "identifier": "xr2q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Guilty Crown",
+        "url": "https://9anime.to/watch/guilty-crown.xr2q",
+        "image": "//static.9anime.to/i/cache/images/2018/04/3132c77893ea57f87061c5cd7a2a3fdb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10793,
+        "aniId": 10793,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "guilty-crown": {
+        "createdAt": "2020-10-12T16:00:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18012,
+        "identifier": "guilty-crown",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Guilty Crown",
+        "url": "https://gogoanime.vc/category/guilty-crown",
+        "image": "https://cdnimg.xyz/images/anime/G/guilty-crown.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10793,
+        "aniId": 10793,
+        "deletedAt": null
+      },
+      "guilty-crown-dub": {
+        "createdAt": "2020-10-12T16:00:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18013,
+        "identifier": "guilty-crown-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Guilty Crown (Dub)",
+        "url": "https://gogoanime.vc/category/guilty-crown-dub",
+        "image": "https://gogocdn.net/cover/guilty-crown-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10793,
+        "aniId": 10793,
+        "deletedAt": null
+      },
+      "guilty-crown-ova-": {
+        "createdAt": "2020-10-12T16:00:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18014,
+        "identifier": "guilty-crown-ova-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Guilty Crown OVA ",
+        "url": "https://gogoanime.vc/category/guilty-crown-ova-",
+        "image": "https://cdnimg.xyz/cover/guilty-crown-ova-.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10793,
+        "aniId": 10793,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "476": {
+        "identifier": "476",
+        "malId": 10793,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Guilty Crown",
+        "url": "https://animepahe.com/a/476"
+      }
+    },
+    "AniMixPlay": {
+      "10793": {
+        "identifier": "10793",
+        "malId": 10793,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Guilty Crown",
+        "url": "https://animixplay.to/anime/10793"
+      }
+    },
+    "YugenAnime": {
+      "913": {
+        "identifier": "913",
+        "malId": 10793,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Guilty Crown",
+        "url": "https://yugen.to/anime/913/guilty-crown/"
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T10:32:20.000Z",
+  "checkedAt": "2022-05-14T10:32:20.000Z",
+  "id": 37345,
+  "type": "anime",
+  "title": "Plunderer",
+  "altTitle": [
+    "Plunderer",
+    "プランダラ"
+  ],
+  "url": "https://myanimelist.net/anime/37345/Plunderer",
+  "image": "https://cdn.myanimelist.net/images/anime/1534/104784.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://plunderer-info.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13826"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21996"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Plunderer_(manga)#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282291"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/plunderer"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13826,
+  "Pages": {
+    "9anime": {
+      "55jj": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2536,
+        "identifier": "55jj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Plunderer",
+        "url": "https://9anime.to/watch/plunderer.55jj",
+        "image": "https://static.akacdn.ru/static/images/2018/02/1d8226ca6bb4184576df389d9d767b46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37345,
+        "aniId": 101168,
+        "deletedAt": null
+      },
+      "qo4v": {
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-06-26T23:50:01.000Z",
+        "checkedAt": null,
+        "id": 8475,
+        "identifier": "qo4v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Plunderer (Dub)",
+        "url": "https://9anime.to/watch/plunderer-dub.qo4v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/03/fe6af469f3e92e3035206c76e13ff258.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37345,
+        "aniId": 101168,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "plunderer": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20068,
+        "identifier": "plunderer",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Plunderer",
+        "url": "https://gogoanime.vc/category/plunderer",
+        "image": "https://cdnimg.xyz/cover/plunderer.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37345,
+        "aniId": 101168,
+        "deletedAt": null
+      },
+      "plunderer-dub": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20069,
+        "identifier": "plunderer-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Plunderer (Dub)",
+        "url": "https://gogoanime.vc/category/plunderer-dub",
+        "image": "https://cdnimg.xyz/cover/plunderer-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37345,
+        "aniId": 101168,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3642": {
+        "identifier": "3642",
+        "malId": 37345,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Plunderer",
+        "url": "https://animepahe.com/a/3642"
+      }
+    },
+    "AniMixPlay": {
+      "37345": {
+        "identifier": "37345",
+        "malId": 37345,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Plunderer",
+        "url": "https://animixplay.to/anime/37345"
+      }
+    },
+    "YugenAnime": {
+      "1038": {
+        "identifier": "1038",
+        "malId": 37345,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Plunderer",
+        "url": "https://yugen.to/anime/1038/plunderer/"
+      }
+    }
+  }
+}

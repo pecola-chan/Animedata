@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T15:59:46.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16364,
+  "identifier": "acca-13-ku-kansatsu-ka-regards",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "ACCA: 13-ku Kansatsu-ka - Regards",
+  "url": "https://gogoanime.vc/category/acca-13-ku-kansatsu-ka-regards",
+  "image": "https://gogocdn.net/cover/acca-13-ku-kansatsu-ka-regards.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39610,
+  "aniId": 108714,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T21:51:42.000Z",
+    "checkedAt": "2022-05-14T21:51:42.000Z",
+    "id": 39610,
+    "type": "anime",
+    "title": "ACCA: 13-ku Kansatsu-ka - Regards",
+    "altTitle": [
+      "ACCA: 13-Territory Inspection Dept. Regards",
+      "ACCA: 13th Territory Inspection Department, ACCA: 13th Ward Observation Department - Regards",
+      "ACCA Jusanku Kansatsuka Regards",
+      "ACCA: 13-Territory Inspection Department - Regards",
+      "ACCA13区監察課 Regards"
+    ],
+    "url": "https://myanimelist.net/anime/39610/ACCA__13-ku_Kansatsu-ka_-_Regards",
+    "image": "https://cdn.myanimelist.net/images/anime/1878/101560.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://acca-anime.com/regards/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14799"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ACCA:_13-Territory_Inspection_Dept."
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14799
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:57.000Z",
+    "updatedAt": "2022-05-15T12:45:11.000Z",
+    "checkedAt": "2022-05-15T12:45:11.000Z",
+    "id": 108714,
+    "type": "anime",
+    "title": "ACCA: 13-ku Kansatsu-ka - Regards",
+    "altTitle": [
+      "ACCA: 13-Territory Inspection Dept. - Regards",
+      "ACCA13区監察課 Regards"
+    ],
+    "url": "https://anilist.co/anime/108714",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108714-7QDTectcCIa3.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/acca-13-territory-inspection-dept"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GR5V95N8R/ACCA-13-Territory-Inspection-Dept"
+      }
+    ],
+    "malId": 39610,
+    "deletedAt": null
+  }
+}

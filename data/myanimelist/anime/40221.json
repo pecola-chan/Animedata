@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-13T22:06:16.000Z",
+  "checkedAt": "2022-05-13T22:06:16.000Z",
+  "id": 40221,
+  "type": "anime",
+  "title": "Kami no Tou",
+  "altTitle": [
+    "Sin-ui Tap",
+    "Tower of God",
+    "神之塔 -Tower of God-"
+  ],
+  "url": "https://myanimelist.net/anime/40221/Kami_no_Tou",
+  "image": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://tog-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15391"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23068"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tower_of_God"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279180"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15391,
+  "Pages": {
+    "9anime": {
+      "kvjr": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5618,
+        "identifier": "kvjr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tower of God (Dub)",
+        "url": "https://9anime.to/watch/tower-of-god-dub.kvjr",
+        "image": "https://static.akacdn.ru/files/images/2020/05/63f31a9a7b84e73950154dd490b5e520.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40221,
+        "aniId": 115230,
+        "deletedAt": null
+      },
+      "m9qz": {
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6532,
+        "identifier": "m9qz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kami no Tou: Tower of God",
+        "url": "https://9anime.to/watch/kami-no-tou-tower-of-god-dub.m9qz",
+        "image": "https://static.akacdn.ru/files/images/2020/02/4960764fc3f1510ddad152a47938dd9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40221,
+        "aniId": 115230,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kami-no-tou": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18681,
+        "identifier": "kami-no-tou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kami no Tou",
+        "url": "https://gogoanime.vc/category/kami-no-tou",
+        "image": "https://gogocdn.net/cover/kami-no-tou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40221,
+        "aniId": 115230,
+        "deletedAt": null
+      },
+      "kami-no-tou-dub": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18682,
+        "identifier": "kami-no-tou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kami no Tou (Dub)",
+        "url": "https://gogoanime.vc/category/kami-no-tou-dub",
+        "image": "https://gogocdn.net/cover/kami-no-tou-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40221,
+        "aniId": 115230,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3880": {
+        "identifier": "3880",
+        "malId": 40221,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kami no Tou",
+        "url": "https://animepahe.com/a/3880"
+      }
+    },
+    "AniMixPlay": {
+      "40221": {
+        "identifier": "40221",
+        "malId": 40221,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kami no Tou",
+        "url": "https://animixplay.to/anime/40221"
+      }
+    },
+    "YugenAnime": {
+      "2603": {
+        "identifier": "2603",
+        "malId": 40221,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kami no Tou",
+        "url": "https://yugen.to/anime/2603/kami-no-tou/"
+      }
+    }
+  }
+}

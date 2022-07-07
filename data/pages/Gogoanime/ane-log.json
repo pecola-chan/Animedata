@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:59:50.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16517,
+  "identifier": "ane-log",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ane Log",
+  "url": "https://gogoanime.vc/category/ane-log",
+  "image": "https://cdnimg.xyz/images/anime/A/ane log.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 24531,
+  "aniId": 20940,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:28.000Z",
+    "updatedAt": "2022-05-14T19:32:30.000Z",
+    "checkedAt": "2022-05-14T19:32:30.000Z",
+    "id": 24531,
+    "type": "anime",
+    "title": "Ane Log: Moyako Neesan no Tomaranai Monologue",
+    "altTitle": [
+      "Sister's Log: Moyako's Never-ending Monologue",
+      "姉ログ 靄子姉さんの止まらないモノローグ"
+    ],
+    "url": "https://myanimelist.net/anime/24531/Ane_Log__Moyako_Neesan_no_Tomaranai_Monologue",
+    "image": "https://cdn.myanimelist.net/images/anime/5/66839.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shogakukan.co.jp/pr/anisun/anelog/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10673"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16487"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A7%89%E3%83%AD%E3%82%B0_%E9%9D%84%E5%AD%90%E5%A7%89%E3%81%95%E3%82%93%E3%81%AE%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E3%83%A2%E3%83%8E%E3%83%AD%E3%83%BC%E3%82%B0"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10673
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:35.000Z",
+    "updatedAt": "2022-05-15T12:51:59.000Z",
+    "checkedAt": "2022-05-15T12:51:59.000Z",
+    "id": 20940,
+    "type": "anime",
+    "title": "Ane Log: Moyako Nee-san no Tomaranai Monologue",
+    "altTitle": [
+      "Sister's Log: Moyako's Never-ending Monologue",
+      "靄子姉さんの止まらないモノローグ",
+      "พี่จ๋าอย่าจิ้น : พี่โมยาโกะอย่าจินตนาการอะไรแบบนั้นกับผมสิ"
+    ],
+    "url": "https://anilist.co/anime/20940",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20940.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GR715DWJR/Ane-Log-Big-Sister-Moyakos-Never-ending-Monologue"
+      }
+    ],
+    "malId": 24531,
+    "deletedAt": null
+  }
+}

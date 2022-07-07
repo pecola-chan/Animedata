@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T16:01:29.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19843,
+  "identifier": "omoi-no-kakera",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Omoi no Kakera",
+  "url": "https://gogoanime.vc/category/omoi-no-kakera",
+  "image": "https://gogocdn.net/cover/omoi-no-kakera.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 32190,
+  "aniId": 21736,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:42.000Z",
+    "updatedAt": "2022-05-14T20:13:58.000Z",
+    "checkedAt": "2022-05-14T20:13:58.000Z",
+    "id": 32190,
+    "type": "anime",
+    "title": "Omoi no Kakera",
+    "altTitle": [
+      "想いのかけら"
+    ],
+    "url": "https://myanimelist.net/anime/32190/Omoi_no_Kakera",
+    "image": "https://cdn.myanimelist.net/images/anime/5/80101.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/daisuki-tohoku/kakera/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11799"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18199"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%83%B3%E3%81%84%E3%81%AE%E3%81%8B%E3%81%91%E3%82%89"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11799
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:00.000Z",
+    "updatedAt": "2022-05-15T19:31:23.000Z",
+    "checkedAt": "2022-05-15T19:31:23.000Z",
+    "id": 21736,
+    "type": "anime",
+    "title": "Omoi no Kakera",
+    "altTitle": [
+      "想いのかけら",
+      "Fragments of Feelings"
+    ],
+    "url": "https://anilist.co/anime/21736",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21736-Wc1qN3Jo13St.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 32190,
+    "deletedAt": null
+  }
+}

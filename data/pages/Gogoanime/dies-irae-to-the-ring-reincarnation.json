@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T16:00:15.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17366,
+  "identifier": "dies-irae-to-the-ring-reincarnation",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Dies Irae: To the Ring Reincarnation",
+  "url": "https://gogoanime.vc/category/dies-irae-to-the-ring-reincarnation",
+  "image": "https://cdnimg.xyz/cover/dies-irae-to-the-ring-reincarnation.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36515,
+  "aniId": 101085,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:57.000Z",
+    "updatedAt": "2022-05-14T18:54:47.000Z",
+    "checkedAt": "2022-05-14T18:54:47.000Z",
+    "id": 36515,
+    "type": "anime",
+    "title": "Dies Irae: To the Ring Reincarnation",
+    "altTitle": [
+      "Day of Wrath",
+      "Dies Irae ONA",
+      "Dies irae: To the ring reincarnation"
+    ],
+    "url": "https://myanimelist.net/anime/36515/Dies_Irae__To_the_Ring_Reincarnation",
+    "image": "https://cdn.myanimelist.net/images/anime/1244/93395.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://diesirae-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19395"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11204
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:28.000Z",
+    "updatedAt": "2022-05-15T16:16:35.000Z",
+    "checkedAt": "2022-05-15T16:16:35.000Z",
+    "id": 101085,
+    "type": "anime",
+    "title": "Dies irae: To the ring reincarnation",
+    "altTitle": [
+      "ディエス・イレ「To the ring reincarnation」",
+      "Day of Wrath",
+      "Dies irae ONA"
+    ],
+    "url": "https://anilist.co/anime/101085",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101085-2b1ZNhgx89q2.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/dies-irae"
+      }
+    ],
+    "malId": 36515,
+    "deletedAt": null
+  }
+}

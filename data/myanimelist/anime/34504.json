@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-14T11:00:10.000Z",
+  "checkedAt": "2022-05-14T11:00:10.000Z",
+  "id": 34504,
+  "type": "anime",
+  "title": "Seitokai Yakuindomo Movie",
+  "altTitle": [
+    "Gekijouban Seitokai Yakuindomo",
+    "劇場版 生徒会役員共"
+  ],
+  "url": "https://myanimelist.net/anime/34504/Seitokai_Yakuindomo_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1655/114726.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://king-cr.jp/special/seitokai_G/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12618"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Seitokai_Yakuindomo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12618,
+  "Pages": {
+    "9anime": {
+      "y3q1": {
+        "createdAt": "2020-10-12T15:56:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10539,
+        "identifier": "y3q1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seitokai Yakuindomo Movie",
+        "url": "https://9anime.to/watch/seitokai-yakuindomo-movie.y3q1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/9926b79eef1bb391352c34ea6134f9ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34504,
+        "aniId": 98240,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seitokai-yakuindomo-movie": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20482,
+        "identifier": "seitokai-yakuindomo-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seitokai Yakuindomo Movie",
+        "url": "https://gogoanime.vc/category/seitokai-yakuindomo-movie",
+        "image": "https://cdnimg.xyz/cover/seitokai-yakuindomo-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34504,
+        "aniId": 98240,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2639": {
+        "identifier": "2639",
+        "malId": 34504,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seitokai Yakuindomo Movie",
+        "url": "https://animepahe.com/a/2639"
+      }
+    },
+    "AniMixPlay": {
+      "34504": {
+        "identifier": "34504",
+        "malId": 34504,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seitokai Yakuindomo Movie",
+        "url": "https://animixplay.to/anime/34504"
+      }
+    },
+    "YugenAnime": {
+      "6537": {
+        "identifier": "6537",
+        "malId": 34504,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seitokai Yakuindomo Movie",
+        "url": "https://yugen.to/anime/6537/seitokai-yakuindomo-movie/"
+      }
+    }
+  }
+}

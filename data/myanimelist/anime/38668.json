@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-13T23:34:06.000Z",
+  "checkedAt": "2022-05-13T23:34:06.000Z",
+  "id": 38668,
+  "type": "anime",
+  "title": "Dorohedoro",
+  "altTitle": [
+    "ドロヘドロ"
+  ],
+  "url": "https://myanimelist.net/anime/38668/Dorohedoro",
+  "image": "https://cdn.myanimelist.net/images/anime/1740/104786.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://dorohedoro.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14483"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dorohedoro#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14483,
+  "Pages": {
+    "9anime": {
+      "9xmq": {
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2022-04-16T01:34:31.000Z",
+        "checkedAt": null,
+        "id": 4495,
+        "identifier": "9xmq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dorohedoro",
+        "url": "https://9anime.to/watch/dorohedoro.9xmq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/11/c908001e9e2f26763a4624bae3290b04.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38668,
+        "aniId": 105228,
+        "deletedAt": null
+      },
+      "kvlr": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5620,
+        "identifier": "kvlr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dorohedoro (Dub)",
+        "url": "https://9anime.to/watch/dorohedoro-dub.kvlr",
+        "image": "https://static.akacdn.ru/files/images/8/88/88ebe8ddbc2416ce6a51009cc0103c9d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38668,
+        "aniId": 105228,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dorohedoro": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17420,
+        "identifier": "dorohedoro",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dorohedoro",
+        "url": "https://gogoanime.vc/category/dorohedoro",
+        "image": "https://gogocdn.net/cover/dorohedoro.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38668,
+        "aniId": 105228,
+        "deletedAt": null
+      },
+      "dorohedoro-dub": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17421,
+        "identifier": "dorohedoro-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dorohedoro (Dub)",
+        "url": "https://gogoanime.vc/category/dorohedoro-dub",
+        "image": "https://gogocdn.net/cover/dorohedoro-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38668,
+        "aniId": 105228,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3648": {
+        "identifier": "3648",
+        "malId": 38668,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dorohedoro",
+        "url": "https://animepahe.com/a/3648"
+      }
+    },
+    "AniMixPlay": {
+      "38668": {
+        "identifier": "38668",
+        "malId": 38668,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dorohedoro",
+        "url": "https://animixplay.to/anime/38668"
+      }
+    },
+    "YugenAnime": {
+      "1127": {
+        "identifier": "1127",
+        "malId": 38668,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dorohedoro",
+        "url": "https://yugen.to/anime/1127/dorohedoro/"
+      }
+    }
+  }
+}

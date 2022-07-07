@@ -1,0 +1,66 @@
+{
+  "createdAt": "2021-03-10T12:09:15.000Z",
+  "updatedAt": "2022-05-15T00:07:11.000Z",
+  "checkedAt": "2022-05-15T00:07:11.000Z",
+  "id": 18683,
+  "type": "anime",
+  "title": "Shibai Taroka",
+  "altTitle": [
+    "しばいたろか"
+  ],
+  "url": "https://myanimelist.net/anime/18683/Shibai_Taroka",
+  "image": "https://cdn.myanimelist.net/images/anime/4/49927.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9173"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9173,
+  "Pages": {
+    "9anime": {
+      "z04l": {
+        "createdAt": "2021-03-10T12:10:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35604,
+        "identifier": "z04l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shibai Taroka",
+        "url": "https://9anime.to/watch/shibai-taroka.z04l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bc/bc0498de91601be18b6681f85f3e25de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18683,
+        "aniId": 18683,
+        "deletedAt": null
+      },
+      "yy51": {
+        "createdAt": "2021-04-07T15:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36286,
+        "identifier": "yy51",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shibai Taroka",
+        "url": "https://9anime.to/watch/shibai-taroka.yy51",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/ea/ea994f7f6ae25d0df53ac45b7e459a78.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18683,
+        "aniId": 18683,
+        "deletedAt": null
+      }
+    }
+  }
+}

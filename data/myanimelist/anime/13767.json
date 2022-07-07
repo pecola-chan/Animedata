@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:39:13.000Z",
+  "updatedAt": "2022-05-15T00:10:53.000Z",
+  "checkedAt": "2022-05-15T00:10:53.000Z",
+  "id": 13767,
+  "type": "anime",
+  "title": "Junjou Romantica OVA",
+  "altTitle": [
+    "Junjyou Romantica OAD",
+    "Junjou Egoist",
+    "Junjou Terrorist",
+    "Junjou Mistake",
+    "純情ロマンチカ"
+  ],
+  "url": "https://myanimelist.net/anime/13767/Junjou_Romantica_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/6/60389.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://store.kadokawa.co.jp/preorder/888800000077/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9130"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14202"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Junjo_Romantica:_Pure_Romance"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9130,
+  "Pages": {
+    "9anime": {
+      "lmnq": {
+        "createdAt": "2020-10-12T15:53:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6089,
+        "identifier": "lmnq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junjou Romantica OVA",
+        "url": "https://9anime.to/watch/junjou-romantica-ova.lmnq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Bh9cSNkObxU/WUtKKIJ_ijI/AAAAAAAAAC0/g5c0O_-8z9oPnqZu9Y7ExYSyCJUvaDTKQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13767,
+        "aniId": 13767,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "13767": {
+        "identifier": "13767",
+        "malId": 13767,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Junjou Romantica OVA",
+        "url": "https://animixplay.to/anime/13767"
+      }
+    }
+  }
+}

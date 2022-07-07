@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-13T23:52:47.000Z",
+  "checkedAt": "2022-05-13T23:52:47.000Z",
+  "id": 2251,
+  "type": "anime",
+  "title": "Baccano!",
+  "altTitle": [
+    "Baccano!",
+    "バッカーノ！"
+  ],
+  "url": "https://myanimelist.net/anime/2251/Baccano",
+  "image": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.baccano.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4897"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7492"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Baccano"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4897,
+  "Pages": {
+    "9anime": {
+      "m35z": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6358,
+        "identifier": "m35z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baccano! (Dub)",
+        "url": "https://9anime.to/watch/baccano-dub.m35z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-19Fc7lK5xLY/V9DvMIHtf3I/AAAAAAAA8Xw/sNMwxhxxoR8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2251,
+        "aniId": 2251,
+        "deletedAt": null
+      },
+      "rlmo": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8899,
+        "identifier": "rlmo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baccano!",
+        "url": "https://9anime.to/watch/baccano.rlmo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ocACvLphbME/V4jjbMC1PAI/AAAAAAAAvqo/Siesr-QtxMo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2251,
+        "aniId": 2251,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "baccano": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16666,
+        "identifier": "baccano",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Baccano!",
+        "url": "https://gogoanime.vc/category/baccano",
+        "image": "https://images.gogoanime.tv/images/anime/B/baccano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2251,
+        "aniId": 2251,
+        "deletedAt": null
+      },
+      "baccano-dub": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16667,
+        "identifier": "baccano-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Baccano! (Dub)",
+        "url": "https://gogoanime.vc/category/baccano-dub",
+        "image": "https://cdnimg.xyz/cover/baccano-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2251,
+        "aniId": 2251,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "673": {
+        "identifier": "673",
+        "malId": 2251,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Baccano!",
+        "url": "https://animepahe.com/a/673"
+      }
+    },
+    "AniMixPlay": {
+      "2251": {
+        "identifier": "2251",
+        "malId": 2251,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Baccano!",
+        "url": "https://animixplay.to/anime/2251"
+      }
+    },
+    "YugenAnime": {
+      "52": {
+        "identifier": "52",
+        "malId": 2251,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Baccano!",
+        "url": "https://yugen.to/anime/52/baccano/"
+      }
+    }
+  }
+}

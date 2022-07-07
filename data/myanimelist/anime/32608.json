@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T09:44:04.000Z",
+  "checkedAt": "2022-05-14T09:44:04.000Z",
+  "id": 32608,
+  "type": "anime",
+  "title": "Endride",
+  "altTitle": [
+    "Endride",
+    "エンドライド"
+  ],
+  "url": "https://myanimelist.net/anime/32608/Endride",
+  "image": "https://cdn.myanimelist.net/images/anime/12/78289.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.endride.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11902"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18004"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Endride"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273157"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/endride"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11902,
+  "Pages": {
+    "9anime": {
+      "2o74": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1454,
+        "identifier": "2o74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Endride",
+        "url": "https://9anime.to/watch/endride.2o74",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aSBrJei-Rbk/V5thKm8XemI/AAAAAAAAyyg/LNoEwbQR0sw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32608,
+        "aniId": 21611,
+        "deletedAt": null
+      },
+      "61w7": {
+        "createdAt": "2020-10-12T15:50:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2913,
+        "identifier": "61w7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Endride (Dub)",
+        "url": "https://9anime.to/watch/endride-dub.61w7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FaOBkGdbOnk/V8wZG_RCbMI/AAAAAAAA7VQ/QDEtFfZRFLs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32608,
+        "aniId": 21611,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "endride": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17556,
+        "identifier": "endride",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Endride",
+        "url": "https://gogoanime.vc/category/endride",
+        "image": "https://cdnimg.xyz/cover/endride.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32608,
+        "aniId": 21611,
+        "deletedAt": null
+      },
+      "endride-dub": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17557,
+        "identifier": "endride-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Endride (Dub)",
+        "url": "https://gogoanime.vc/category/endride-dub",
+        "image": "https://cdnimg.xyz/cover/endride-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32608,
+        "aniId": 21611,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "894": {
+        "identifier": "894",
+        "malId": 32608,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Endride",
+        "url": "https://animepahe.com/a/894"
+      }
+    },
+    "AniMixPlay": {
+      "32608": {
+        "identifier": "32608",
+        "malId": 32608,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Endride",
+        "url": "https://animixplay.to/anime/32608"
+      }
+    },
+    "YugenAnime": {
+      "1035": {
+        "identifier": "1035",
+        "malId": 32608,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Endride",
+        "url": "https://yugen.to/anime/1035/endride/"
+      }
+    }
+  }
+}

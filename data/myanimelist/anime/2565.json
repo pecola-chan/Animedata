@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-14T21:49:47.000Z",
+  "checkedAt": "2022-05-14T21:49:47.000Z",
+  "id": 2565,
+  "type": "anime",
+  "title": "Jungle Taitei: Susume Leo!",
+  "altTitle": [
+    "Leo the Lion",
+    "New Jungle Emperor",
+    "Go Ahead Leo!",
+    "Jungle Emperor, Onward Leo!",
+    "ジャングル大帝・進めレオ"
+  ],
+  "url": "https://myanimelist.net/anime/2565/Jungle_Taitei__Susume_Leo",
+  "image": "https://cdn.myanimelist.net/images/anime/12/76173.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kimbawlion.com/verspage.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1498"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1707"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leo_the_Lion_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1498,
+  "Pages": {
+    "9anime": {
+      "530v": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2496,
+        "identifier": "530v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jungle Taitei: Susume Leo! (Dub)",
+        "url": "https://9anime.to/watch/jungle-taitei-susume-leo-dub.530v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iCJMKzjTrcU/WHSyjkzRQpI/AAAAAAABYZI/Xj1AB3jvYQs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2565,
+        "aniId": 2565,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jungle-taitei-susume-leo-dub": {
+        "createdAt": "2022-01-16T23:11:57.000Z",
+        "updatedAt": "2022-01-16T23:41:45.000Z",
+        "checkedAt": null,
+        "id": 39852,
+        "identifier": "jungle-taitei-susume-leo-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jungle Taitei: Susume Leo! (Dub)",
+        "url": "https://gogoanime.cm/category/jungle-taitei-susume-leo-dub",
+        "image": "https://gogocdn.net/cover/jungle-taitei-susume-leo-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2565,
+        "aniId": 2565,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2565": {
+        "identifier": "2565",
+        "malId": 2565,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jungle Taitei: Susume Leo!",
+        "url": "https://animixplay.to/anime/2565"
+      }
+    },
+    "YugenAnime": {
+      "7150": {
+        "identifier": "7150",
+        "malId": 2565,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jungle Taitei: Susume Leo!",
+        "url": "https://yugen.to/anime/7150/jungle-taitei-susume-leo/"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-15T07:16:13.000Z",
+  "checkedAt": "2022-05-15T07:16:13.000Z",
+  "id": 864,
+  "type": "anime",
+  "title": "Mobile Suit Gundam SEED MSV Astray",
+  "altTitle": [
+    "Mobile Suit Gundam SEED MSV Astray",
+    "機動戦士ガンダムSEED MSV ASTRAY"
+  ],
+  "url": "https://myanimelist.net/anime/864/Mobile_Suit_Gundam_SEED_MSV_Astray",
+  "image": "https://cdn.myanimelist.net/images/anime/1/864.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gundam-seed.net/astray/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2445"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4170"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0SEED_ASTRAY%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2445,
+  "Pages": {
+    "9anime": {
+      "9mon": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4349,
+        "identifier": "9mon",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit Gundam Seed MSV Astray",
+        "url": "https://9anime.to/watch/mobile-suit-gundam-seed-msv-astray.9mon",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FtuHjRH4ld0/V-3dFPdMSeI/AAAAAAABCaw/DTymHTn-Mlw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 864,
+        "aniId": 864,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2769": {
+        "identifier": "2769",
+        "malId": 864,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mobile Suit Gundam SEED MSV Astray",
+        "url": "https://animepahe.com/a/2769"
+      }
+    },
+    "AniMixPlay": {
+      "864": {
+        "identifier": "864",
+        "malId": 864,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit Gundam SEED MSV Astray",
+        "url": "https://animixplay.to/anime/864"
+      }
+    }
+  }
+}

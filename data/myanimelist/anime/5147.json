@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-14T17:12:14.000Z",
+  "checkedAt": "2022-05-14T17:12:14.000Z",
+  "id": 5147,
+  "type": "anime",
+  "title": "Comic Party Revolution OVA",
+  "altTitle": [
+    "Comic Party OVA",
+    "こみっくパーティーRevolution"
+  ],
+  "url": "https://myanimelist.net/anime/5147/Comic_Party_Revolution_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/12/24592.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mc-order.com/btoc/aquaplus2"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1225"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2998"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Comic_Party"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1225,
+  "Pages": {
+    "9anime": {
+      "676p": {
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2975,
+        "identifier": "676p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Comic Party Revolution OVA",
+        "url": "https://9anime.to/watch/comic-party-revolution-ova.676p",
+        "image": "https://static.akacdn.ru/files/images/2018/02/e38d409ba4a7a70972a86e6ba0d9b893.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5147,
+        "aniId": 5147,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "comic-party-revolution-ova": {
+        "createdAt": "2021-07-19T17:48:47.000Z",
+        "updatedAt": "2021-07-19T18:18:31.000Z",
+        "checkedAt": null,
+        "id": 37939,
+        "identifier": "comic-party-revolution-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Comic Party Revolution OVA",
+        "url": "https://gogoanime.pe/category/comic-party-revolution-ova",
+        "image": "https://gogocdn.net/cover/comic-party-revolution-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5147,
+        "aniId": 5147,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5147": {
+        "identifier": "5147",
+        "malId": 5147,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Comic Party Revolution OVA",
+        "url": "https://animixplay.to/anime/5147"
+      }
+    },
+    "YugenAnime": {
+      "7927": {
+        "identifier": "7927",
+        "malId": 5147,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Comic Party Revolution OVA",
+        "url": "https://yugen.to/anime/7927/comic-party-revolution-ova/"
+      }
+    }
+  }
+}

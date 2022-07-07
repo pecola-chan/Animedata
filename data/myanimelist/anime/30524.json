@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-05-13T23:31:16.000Z",
+  "checkedAt": "2022-05-13T23:31:16.000Z",
+  "id": 30524,
+  "type": "anime",
+  "title": "Kagewani",
+  "altTitle": [
+    "Kagewani",
+    "影鰐-KAGEWANI-"
+  ],
+  "url": "https://myanimelist.net/anime/30524/Kagewani",
+  "image": "https://cdn.myanimelist.net/images/anime/9/76060.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kagewani.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11173"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16919"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267945"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11173,
+  "Pages": {
+    "9anime": {
+      "910": {
+        "createdAt": "2020-10-12T15:48:26.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 30,
+        "identifier": "910",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kagewani",
+        "url": "https://9anime.to/watch/kagewani.910",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dmK8MHGnGmU/V3Fy-JRiIcI/AAAAAAAArkc/v0NCe9F9jyo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30524,
+        "aniId": 21225,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kagewani": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18645,
+        "identifier": "kagewani",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kagewani",
+        "url": "https://gogoanime.vc/category/kagewani",
+        "image": "https://gogocdn.net/images/upload/76060.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30524,
+        "aniId": 21225,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "978": {
+        "identifier": "978",
+        "malId": 30524,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kagewani",
+        "url": "https://animepahe.com/a/978"
+      }
+    },
+    "AniMixPlay": {
+      "30524": {
+        "identifier": "30524",
+        "malId": 30524,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kagewani",
+        "url": "https://animixplay.to/anime/30524"
+      }
+    },
+    "YugenAnime": {
+      "164": {
+        "identifier": "164",
+        "malId": 30524,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kagewani",
+        "url": "https://yugen.to/anime/164/kagewani/"
+      }
+    }
+  }
+}

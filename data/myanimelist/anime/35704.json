@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-25T05:05:54.000Z",
+  "checkedAt": "2022-05-25T05:05:54.000Z",
+  "id": 35704,
+  "type": "anime",
+  "title": "NoisyCell x Ponkotsu Quest",
+  "altTitle": [
+    "NoisyCell×ポンコツクエスト"
+  ],
+  "url": "https://myanimelist.net/anime/35704/NoisyCell_x_Ponkotsu_Quest",
+  "image": "https://cdn.myanimelist.net/images/anime/3/86123.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vap.co.jp/ponque/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%80%9C%E9%AD%94%E7%8E%8B%E3%81%A8%E6%B4%BE%E9%81%A3%E3%81%AE%E9%AD%94%E7%89%A9%E3%81%9F%E3%81%A1%E3%80%9C#.E7.89.B9.E5.88.A5.E7.AF.87"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "orz4": {
+        "createdAt": "2020-10-12T15:54:23.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 7665,
+        "identifier": "orz4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "NoisyCell x Ponkotsu Quest",
+        "url": "https://9anime.to/watch/noisycell-x-ponkotsu-quest.orz4",
+        "image": "https://static.akacdn.ru/files/images/2019/03/e1294bd207bd980d933fe2a5358d84c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35704,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

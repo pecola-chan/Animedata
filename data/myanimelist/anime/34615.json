@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-15T09:49:28.000Z",
+  "checkedAt": "2022-05-15T09:49:28.000Z",
+  "id": 34615,
+  "type": "anime",
+  "title": "Usakame Special",
+  "altTitle": [
+    "うさかめ"
+  ],
+  "url": "https://myanimelist.net/anime/34615/Usakame_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/9/83507.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nemumi.com/cd-bd.php"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teekyu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "l9l6": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5972,
+        "identifier": "l9l6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usakame Special",
+        "url": "https://9anime.to/watch/usakame-special.l9l6",
+        "image": "https://static.akacdn.ru/files/images/2018/03/308072f608e314be5641e8d257ca4d32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34615,
+        "aniId": 100176,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3557": {
+        "identifier": "3557",
+        "malId": 34615,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Usakame Special",
+        "url": "https://animepahe.com/a/3557"
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-15T00:54:53.000Z",
+  "checkedAt": "2022-05-15T00:54:53.000Z",
+  "id": 10014,
+  "type": "anime",
+  "title": "Shouwa Monogatari",
+  "altTitle": [
+    "Showa Monogatari TV",
+    "TV Manga Shouwa Monogatari",
+    "昭和物語 TV"
+  ],
+  "url": "https://myanimelist.net/anime/10014/Shouwa_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/5/41117.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.showa-movie.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8136"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12275"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sh%C5%8Dwa_Monogatari"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8136,
+  "Pages": {
+    "9anime": {
+      "9njq": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4364,
+        "identifier": "9njq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shouwa Monogatari",
+        "url": "https://9anime.to/watch/shouwa-monogatari.9njq",
+        "image": "https://static.akacdn.ru/files/images/2018/04/5179b0834fdd61d6f842ac94ebe06bc8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10014,
+        "aniId": 10014,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "showa-monogatari": {
+        "createdAt": "2020-12-12T06:18:16.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30071,
+        "identifier": "showa-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Showa Monogatari",
+        "url": "https://gogoanime.vc/category/showa-monogatari",
+        "image": "https://gogocdn.net/images/anime/S/showa-monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10014,
+        "aniId": 10014,
+        "deletedAt": null
+      },
+      "shouwa-monogatari": {
+        "createdAt": "2021-01-31T18:32:15.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34420,
+        "identifier": "shouwa-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shouwa Monogatari",
+        "url": "https://gogoanime.vc/category/shouwa-monogatari",
+        "image": "https://gogocdn.net/images/anime/S/Shouwa-Monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10014,
+        "aniId": 10014,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10014": {
+        "identifier": "10014",
+        "malId": 10014,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shouwa Monogatari",
+        "url": "https://animixplay.to/anime/10014"
+      }
+    },
+    "YugenAnime": {
+      "2958": {
+        "identifier": "2958",
+        "malId": 10014,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shouwa Monogatari",
+        "url": "https://yugen.to/anime/2958/shouwa-monogatari/"
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T17:50:53.000Z",
+  "checkedAt": "2022-05-14T17:50:53.000Z",
+  "id": 39545,
+  "type": "anime",
+  "title": "Fragtime",
+  "altTitle": [
+    "Flag Time",
+    "Flagtime",
+    "Frag Time",
+    "フラグタイム"
+  ],
+  "url": "https://myanimelist.net/anime/39545/Fragtime",
+  "image": "https://cdn.myanimelist.net/images/anime/1752/101373.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://frag-time.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14763"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22384"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fragtime#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281521"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14763,
+  "Pages": {
+    "9anime": {
+      "vw9l": {
+        "createdAt": "2020-10-12T15:56:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9484,
+        "identifier": "vw9l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fragtime",
+        "url": "https://9anime.to/watch/fragtime.vw9l",
+        "image": "https://static.akacdn.ru/files/images/2019/05/248914a84bcf412f434c142dadf848ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39545,
+        "aniId": 108487,
+        "deletedAt": null
+      },
+      "m03z": {
+        "createdAt": "2020-10-12T18:31:55.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23792,
+        "identifier": "m03z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fragtime (Dub)",
+        "url": "https://9anime.to/watch/fragtime-dub.m03z",
+        "image": "//static.9anime.to/i/cache/images/2020/09/3cbddcf8ae026673a58bb6b7d31dd556.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39545,
+        "aniId": 108487,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fragtime": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17690,
+        "identifier": "fragtime",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fragtime",
+        "url": "https://gogoanime.vc/category/fragtime",
+        "image": "https://gogocdn.net/cover/fragtime.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39545,
+        "aniId": 108487,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3966": {
+        "identifier": "3966",
+        "malId": 39545,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Fragtime",
+        "url": "https://animepahe.com/a/3966"
+      }
+    },
+    "AniMixPlay": {
+      "39545": {
+        "identifier": "39545",
+        "malId": 39545,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fragtime",
+        "url": "https://animixplay.to/anime/39545"
+      }
+    },
+    "YugenAnime": {
+      "168": {
+        "identifier": "168",
+        "malId": 39545,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fragtime",
+        "url": "https://yugen.to/anime/168/fragtime/"
+      }
+    }
+  }
+}

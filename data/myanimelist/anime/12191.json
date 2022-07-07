@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-14T16:42:51.000Z",
+  "checkedAt": "2022-05-14T16:42:51.000Z",
+  "id": 12191,
+  "type": "anime",
+  "title": "Smile Precure!",
+  "altTitle": [
+    "Smile Pretty Cure!",
+    "Glitter Force",
+    "スマイルプリキュア"
+  ],
+  "url": "https://myanimelist.net/anime/12191/Smile_Precure",
+  "image": "https://cdn.myanimelist.net/images/anime/12/76179.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/smile_precure/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8819"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13809"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Smile_PreCure!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8819,
+  "Pages": {
+    "9anime": {
+      "0w67": {
+        "createdAt": "2020-10-12T15:48:54.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 686,
+        "identifier": "0w67",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Glitter Force (Dub)",
+        "url": "https://9anime.to/watch/glitter-force-dub.0w67",
+        "image": "https://static.akacdn.ru/files/images/2018/04/fe3ab37f899cf1d248b08651844e4fb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12191,
+        "aniId": 12191,
+        "deletedAt": null
+      },
+      "v46": {
+        "createdAt": "2020-10-12T15:55:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9212,
+        "identifier": "v46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Smile Precure!",
+        "url": "https://9anime.to/watch/smile-precure.v46",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LFACUm6JkLY/V3-MhqU1jII/AAAAAAAAt98/e3xBNwzQhO4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12191,
+        "aniId": 12191,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "smile-precure": {
+        "createdAt": "2022-01-11T19:11:40.000Z",
+        "updatedAt": "2022-01-11T19:41:38.000Z",
+        "checkedAt": null,
+        "id": 39788,
+        "identifier": "smile-precure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Smile Precure!",
+        "url": "https://gogoanime.cm/category/smile-precure",
+        "image": "https://gogocdn.net/images/anime/S/smile-precure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12191,
+        "aniId": 12191,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "12191": {
+        "identifier": "12191",
+        "malId": 12191,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Smile Precure!",
+        "url": "https://animixplay.to/anime/12191"
+      }
+    },
+    "YugenAnime": {
+      "958": {
+        "identifier": "958",
+        "malId": 12191,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Smile Precure!",
+        "url": "https://yugen.to/anime/958/smile-precure/"
+      }
+    }
+  }
+}

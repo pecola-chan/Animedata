@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-14T16:01:09.000Z",
+  "checkedAt": "2022-05-14T16:01:09.000Z",
+  "id": 2000,
+  "type": "anime",
+  "title": "Roujin Z",
+  "altTitle": [
+    "Old Man Z",
+    "Roujin Z",
+    "老人Ｚ"
+  ],
+  "url": "https://myanimelist.net/anime/2000/Roujin_Z",
+  "image": "https://cdn.myanimelist.net/images/anime/1584/93628.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=812"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=329"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Roujin_Z"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 812,
+  "Pages": {
+    "9anime": {
+      "n8lj": {
+        "createdAt": "2020-10-12T15:53:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7027,
+        "identifier": "n8lj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Roujin Z",
+        "url": "https://9anime.to/watch/roujin-z.n8lj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-71G1c9J4EwY/WAyrCUQhI0I/AAAAAAABKjY/2aRxh6SamoM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2000,
+        "aniId": 2000,
+        "deletedAt": null
+      },
+      "o3my": {
+        "createdAt": "2020-10-12T15:54:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7352,
+        "identifier": "o3my",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Roujin Z (Dub)",
+        "url": "https://9anime.to/watch/roujin-z-dub.o3my",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hJNC_nFUSN0/WAyrCVnUGuI/AAAAAAABKjc/AkVP3LO-cHw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2000,
+        "aniId": 2000,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "roujin-z-dub": {
+        "createdAt": "2022-02-06T06:06:24.000Z",
+        "updatedAt": "2022-02-06T06:36:03.000Z",
+        "checkedAt": null,
+        "id": 40095,
+        "identifier": "roujin-z-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Roujin Z (Dub)",
+        "url": "https://gogoanime.pe/category/roujin-z-dub",
+        "image": "https://gogocdn.net/cover/roujin-z-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2000,
+        "aniId": 2000,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4254": {
+        "identifier": "4254",
+        "malId": 2000,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Roujin Z",
+        "url": "https://animepahe.com/a/4254"
+      }
+    },
+    "AniMixPlay": {
+      "2000": {
+        "identifier": "2000",
+        "malId": 2000,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Roujin Z",
+        "url": "https://animixplay.to/anime/2000"
+      }
+    },
+    "YugenAnime": {
+      "3529": {
+        "identifier": "3529",
+        "malId": 2000,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Roujin Z",
+        "url": "https://yugen.to/anime/3529/roujin-z/"
+      }
+    }
+  }
+}

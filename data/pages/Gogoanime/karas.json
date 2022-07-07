@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T16:00:56.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18731,
+  "identifier": "karas",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Karas",
+  "url": "https://gogoanime.vc/category/karas",
+  "image": "https://images.gogoanime.tv/images/anime/K/Karas.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 389,
+  "aniId": 389,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T17:22:04.000Z",
+    "checkedAt": "2022-05-14T17:22:04.000Z",
+    "id": 389,
+    "type": "anime",
+    "title": "Karas",
+    "altTitle": [
+      "Crow",
+      "Raven",
+      "Karas: The Prophecy",
+      "Karas: The Revelation",
+      "Karas",
+      "鴉 -KARAS-"
+    ],
+    "url": "https://myanimelist.net/anime/389/Karas",
+    "image": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.thekaras.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2179"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5002"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Karas_%28anime%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2179
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:40.000Z",
+    "updatedAt": "2022-05-15T11:14:11.000Z",
+    "checkedAt": "2022-05-15T11:14:11.000Z",
+    "id": 389,
+    "type": "anime",
+    "title": "Karas",
+    "altTitle": [
+      "Karas",
+      "鴉 -KARAS-",
+      "Crow",
+      "Raven",
+      "Karas: The Prophecy",
+      "Karas: The Revelation"
+    ],
+    "url": "https://anilist.co/anime/389",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/389.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 389,
+    "deletedAt": null
+  }
+}

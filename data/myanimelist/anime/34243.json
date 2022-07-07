@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-15T01:11:41.000Z",
+  "checkedAt": "2022-05-15T01:11:41.000Z",
+  "id": 34243,
+  "type": "anime",
+  "title": "Miss Monochrome: Music Clips",
+  "altTitle": [
+    "ミス・モノクロームMUSIC CLIPS"
+  ],
+  "url": "https://myanimelist.net/anime/34243/Miss_Monochrome__Music_Clips",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82393.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://king-cr.jp/artist/miss_monochrome/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13049"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13049,
+  "Pages": {
+    "9anime": {
+      "8vqv": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 4033,
+        "identifier": "8vqv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Miss Monochrome: Music Clips",
+        "url": "https://9anime.to/watch/miss-monochrome-music-clips.8vqv",
+        "image": "http://static.akacdn.ru/static/images/2018/07/d8449894a5312ba17d0863d48890d959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34243,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

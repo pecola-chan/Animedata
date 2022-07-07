@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:50.000Z",
+  "updatedAt": "2022-05-14T17:02:04.000Z",
+  "checkedAt": "2022-05-14T17:02:04.000Z",
+  "id": 34547,
+  "type": "anime",
+  "title": "Shoukoku no Altair",
+  "altTitle": [
+    "Altair: A Record of Battles",
+    "将国のアルタイル"
+  ],
+  "url": "https://myanimelist.net/anime/34547/Shoukoku_no_Altair",
+  "image": "https://cdn.myanimelist.net/images/anime/3/86751.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://project-altair.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12651"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18966"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Altair:_A_Record_of_Battles"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "amazonprimevideo",
+      "url": "https://www.amazon.com/The-End-of-Paradise/dp/B073R6HDDW/ref=mp_s_a_1_1?crid=ST0M4YWME5U4&keywords=Altair&qid=1644234161&s=instant-video&sprefix=altair%2Caps%2C281&sr=1-1"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12651,
+  "Pages": {
+    "9anime": {
+      "vj87": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9342,
+        "identifier": "vj87",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shoukoku no Altair",
+        "url": "https://9anime.to/watch/shoukoku-no-altair.vj87",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-f98RUgoBEdM/WV_TLhV4PPI/AAAAAAAABuM/5_zbJexBM3YUMRnMSBb5tzHaQYftVYV4ACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34547,
+        "aniId": 97984,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shoukoku-no-altair": {
+        "createdAt": "2020-10-12T16:01:53.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20678,
+        "identifier": "shoukoku-no-altair",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shoukoku no Altair",
+        "url": "https://gogoanime.vc/category/shoukoku-no-altair",
+        "image": "https://images.gogoanime.tv/cover/shoukoku-no-altair.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34547,
+        "aniId": 97984,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2215": {
+        "identifier": "2215",
+        "malId": 34547,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shoukoku no Altair",
+        "url": "https://animepahe.com/a/2215"
+      }
+    },
+    "AniMixPlay": {
+      "34547": {
+        "identifier": "34547",
+        "malId": 34547,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shoukoku no Altair",
+        "url": "https://animixplay.to/anime/34547"
+      }
+    },
+    "YugenAnime": {
+      "2547": {
+        "identifier": "2547",
+        "malId": 34547,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shoukoku no Altair",
+        "url": "https://yugen.to/anime/2547/shoukoku-no-altair/"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-14T22:56:05.000Z",
+  "checkedAt": "2022-05-14T22:56:05.000Z",
+  "id": 6379,
+  "type": "anime",
+  "title": "Kyou no 5 no 2 (TV): Takarabako",
+  "altTitle": [
+    "Kyou no Go no Ni OVA 2",
+    "Kyou no Go no Ni (2008) OVA",
+    "Today in Class 5-2 (2008) OVA",
+    "Today's 5-2 - OAD - Treasure Chest",
+    "Kyo no Gononi",
+    "今日の５の２宝箱"
+  ],
+  "url": "https://myanimelist.net/anime/6379/Kyou_no_5_no_2_TV__Takarabako",
+  "image": "https://cdn.myanimelist.net/images/anime/5/14378.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/gononi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7120"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11506"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kyou_no_Go_no_Ni"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7120,
+  "Pages": {
+    "9anime": {
+      "3rqj8": {
+        "createdAt": "2021-09-21T07:12:45.000Z",
+        "updatedAt": "2021-09-21T07:40:42.000Z",
+        "checkedAt": null,
+        "id": 38683,
+        "identifier": "3rqj8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyou no 5 no 2 (TV): Takarabako",
+        "url": "https://9anime.to/watch/kyou-no-5-no-2-tv-takarabako.3rqj8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/94/94a27e606d774054bc261846522f1f3f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6379,
+        "aniId": 6379,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4789": {
+        "identifier": "4789",
+        "malId": 6379,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyou no 5 no 2 (TV): Takarabako",
+        "url": "https://animepahe.com/a/4789"
+      }
+    },
+    "AniMixPlay": {
+      "6379": {
+        "identifier": "6379",
+        "malId": 6379,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyou no 5 no 2 (TV): Takarabako",
+        "url": "https://animixplay.to/anime/6379"
+      }
+    }
+  }
+}

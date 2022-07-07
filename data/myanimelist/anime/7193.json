@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-13T23:49:40.000Z",
+  "checkedAt": "2022-05-13T23:49:40.000Z",
+  "id": 7193,
+  "type": "anime",
+  "title": "Aoi Bungaku Series",
+  "altTitle": [
+    "Blue Literature",
+    "青い文学シリーズ"
+  ],
+  "url": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series",
+  "image": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/bungaku/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7056"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11096"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aoi_Bungaku"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7056,
+  "Pages": {
+    "9anime": {
+      "m0x": {
+        "createdAt": "2020-10-12T15:53:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6300,
+        "identifier": "m0x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aoi Bungaku Series",
+        "url": "https://9anime.to/watch/aoi-bungaku-series.m0x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-w-aOJJdmEY4/V4eKcEVUoiI/AAAAAAAAveI/jjedU7rQUUo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7193,
+        "aniId": 7193,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aoi-bungaku-": {
+        "createdAt": "2020-10-12T15:59:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16567,
+        "identifier": "aoi-bungaku-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aoi Bungaku ",
+        "url": "https://gogoanime.vc/category/aoi-bungaku-",
+        "image": "https://images.gogoanime.tv/images/anime/aoi-bungaku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7193,
+        "aniId": 7193,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "346": {
+        "identifier": "346",
+        "malId": 7193,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aoi Bungaku Series",
+        "url": "https://animepahe.com/a/346"
+      }
+    },
+    "AniMixPlay": {
+      "7193": {
+        "identifier": "7193",
+        "malId": 7193,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aoi Bungaku Series",
+        "url": "https://animixplay.to/anime/7193"
+      }
+    },
+    "YugenAnime": {
+      "375": {
+        "identifier": "375",
+        "malId": 7193,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aoi Bungaku Series",
+        "url": "https://yugen.to/anime/375/aoi-bungaku/"
+      }
+    }
+  }
+}

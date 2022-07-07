@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:27.000Z",
+  "updatedAt": "2022-05-14T23:58:53.000Z",
+  "checkedAt": "2022-05-14T23:58:53.000Z",
+  "id": 2204,
+  "type": "anime",
+  "title": "Karakurizoushi Ayatsuri Sakon",
+  "altTitle": [
+    "Ningyou Zoushi Ayatsuri Sakon",
+    "Puppet Master Sakon",
+    "Tales of Puppetmaster Sakon",
+    "人形草紙あやつり左近"
+  ],
+  "url": "https://myanimelist.net/anime/2204/Karakurizoushi_Ayatsuri_Sakon",
+  "image": "https://cdn.myanimelist.net/images/anime/10/16022.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/tokushu/sakon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=293"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=937"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karakuriz%C5%8Dshi_Ayatsuri_Sakon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 293,
+  "Pages": {
+    "9anime": {
+      "1wov": {
+        "createdAt": "2020-10-12T15:49:20.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1151,
+        "identifier": "1wov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Karakuri Zoushi Ayatsuri Sakon",
+        "url": "https://9anime.to/watch/karakuri-zoushi-ayatsuri-sakon.1wov",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5yKFMuVYlGA/WHs7mdEthmI/AAAAAAABZZk/sDQwTkrKi9M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2204,
+        "aniId": 2204,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2204": {
+        "identifier": "2204",
+        "malId": 2204,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Karakurizoushi Ayatsuri Sakon",
+        "url": "https://animixplay.to/anime/2204"
+      }
+    },
+    "YugenAnime": {
+      "4681": {
+        "identifier": "4681",
+        "malId": 2204,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Karakurizoushi Ayatsuri Sakon",
+        "url": "https://yugen.to/anime/4681/ayatsuri-sakon/"
+      }
+    }
+  }
+}

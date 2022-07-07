@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-06-29T13:31:19.000Z",
+  "checkedAt": "2022-06-29T13:31:19.000Z",
+  "id": 7032,
+  "type": "anime",
+  "title": "Kitte no Gensou",
+  "altTitle": [
+    "Stamp Fantasia",
+    "Stamp Fantasy",
+    "Fantasia of Stamps",
+    "切手の幻想"
+  ],
+  "url": "https://myanimelist.net/anime/7032/Kitte_no_Gensou",
+  "image": "https://cdn.myanimelist.net/images/anime/2/64695.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.geneonuniversal.jp/anime/NAA/contents/hp0007/index00070000.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8572"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8572,
+  "Pages": {
+    "9anime": {
+      "w0z6": {
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9586,
+        "identifier": "w0z6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kitte no Gensou",
+        "url": "https://9anime.to/watch/kitte-no-gensou.w0z6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-brEtPYuEbKw/WLQHa6eU4WI/AAAAAAABeO4/jy304G8cHew/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7032,
+        "aniId": 7032,
+        "deletedAt": null
+      }
+    }
+  }
+}

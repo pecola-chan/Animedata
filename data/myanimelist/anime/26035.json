@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T19:09:58.000Z",
+  "updatedAt": "2022-05-31T21:09:55.000Z",
+  "checkedAt": "2022-05-31T21:09:55.000Z",
+  "id": 26035,
+  "type": "anime",
+  "title": "Sweet Spot",
+  "altTitle": [
+    "スイートスポット"
+  ],
+  "url": "https://myanimelist.net/anime/26035/Sweet_Spot",
+  "image": "https://cdn.myanimelist.net/images/anime/12/70331.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4254"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3272"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4254,
+  "Pages": {
+    "9anime": {
+      "lz86": {
+        "createdAt": "2020-10-12T19:10:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23883,
+        "identifier": "lz86",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sweet Spot",
+        "url": "https://9anime.to/watch/sweet-spot.lz86",
+        "image": "//static.9anime.to/i/cache/images/6/6b/6b91a79535485cd46b4c9cf6125c4228.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26035,
+        "aniId": 110276,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:11.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19265,
+  "identifier": "mahou-shoujo-lyrical-nanoha-vivid",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mahou Shoujo Lyrical Nanoha Vivid",
+  "url": "https://gogoanime.vc/category/mahou-shoujo-lyrical-nanoha-vivid",
+  "image": "https://images.gogoanime.tv/images/upload/72718.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 25939,
+  "aniId": 20820,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:30.000Z",
+    "updatedAt": "2022-05-14T20:47:35.000Z",
+    "checkedAt": "2022-05-14T20:47:35.000Z",
+    "id": 25939,
+    "type": "anime",
+    "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+    "altTitle": [
+      "Magical Girl Lyrical Nanoha ViVid",
+      "魔法少女リリカルなのはViVid"
+    ],
+    "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid",
+    "image": "https://cdn.myanimelist.net/images/anime/9/72718.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nanoha-vivid.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10795"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16298"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%83%AA%E3%83%AA%E3%82%AB%E3%83%AB%E3%81%AA%E3%81%AE%E3%81%AFViVid"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10795
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:38.000Z",
+    "updatedAt": "2022-05-15T12:09:23.000Z",
+    "checkedAt": "2022-05-15T12:09:23.000Z",
+    "id": 20820,
+    "type": "anime",
+    "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+    "altTitle": [
+      "Magical Girl Lyrical Nanoha ViVid",
+      "魔法少女リリカルなのはViVid"
+    ],
+    "url": "https://anilist.co/anime/20820",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20820-QjhVyCHX5ZI8.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 25939,
+    "deletedAt": null
+  }
+}

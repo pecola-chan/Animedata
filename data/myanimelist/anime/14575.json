@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T17:13:11.000Z",
+  "checkedAt": "2022-05-14T17:13:11.000Z",
+  "id": 14575,
+  "type": "anime",
+  "title": "Minami-ke Omatase",
+  "altTitle": [
+    "みなみけ おまたせ"
+  ],
+  "url": "https://myanimelist.net/anime/14575/Minami-ke_Omatase",
+  "image": "https://cdn.myanimelist.net/images/anime/8/53131.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/minami-ke/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9267"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Minami-ke"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9267,
+  "Pages": {
+    "9anime": {
+      "p6z6": {
+        "createdAt": "2020-10-12T15:54:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7896,
+        "identifier": "p6z6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minami-ke Omatase",
+        "url": "https://9anime.to/watch/minami-ke-omatase.p6z6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KY1VElxKTF4/WG4X3woE3_I/AAAAAAABXEQ/LKh2Ob79-1Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14575,
+        "aniId": 14575,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "minami-ke-omatase": {
+        "createdAt": "2020-10-12T16:01:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19437,
+        "identifier": "minami-ke-omatase",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Minami-ke Omatase",
+        "url": "https://gogoanime.vc/category/minami-ke-omatase",
+        "image": "https://cdnimg.xyz/images/anime/M/Minami-ke-Omatase.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14575,
+        "aniId": 14575,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1193": {
+        "identifier": "1193",
+        "malId": 14575,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Minami-ke Omatase",
+        "url": "https://animepahe.com/a/1193"
+      }
+    },
+    "AniMixPlay": {
+      "14575": {
+        "identifier": "14575",
+        "malId": 14575,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Minami-ke Omatase",
+        "url": "https://animixplay.to/anime/14575"
+      }
+    },
+    "YugenAnime": {
+      "6569": {
+        "identifier": "6569",
+        "malId": 14575,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Minami-ke Omatase",
+        "url": "https://yugen.to/anime/6569/minami-ke-omatase/"
+      }
+    }
+  }
+}

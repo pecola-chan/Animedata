@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T18:34:17.000Z",
+  "checkedAt": "2022-05-14T18:34:17.000Z",
+  "id": 2129,
+  "type": "anime",
+  "title": "True Tears",
+  "altTitle": [
+    "True Tears",
+    "true tears"
+  ],
+  "url": "https://myanimelist.net/anime/2129/True_Tears",
+  "image": "https://cdn.myanimelist.net/images/anime/8/18578.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.truetears.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4325"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6257"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/True_Tears_%28anime%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273429"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4325,
+  "Pages": {
+    "9anime": {
+      "1r3p": {
+        "createdAt": "2020-10-12T15:49:18.000Z",
+        "updatedAt": "2022-06-14T00:00:44.000Z",
+        "checkedAt": "2022-06-14T00:00:44.000Z",
+        "id": 1095,
+        "identifier": "1r3p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "true tears",
+        "url": "https://9anime.to/watch/true-tears.1r3p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/e7204ee4cc5449c33147661867ae6d46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2129,
+        "aniId": 2129,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "true-tears": {
+        "createdAt": "2020-10-12T16:02:09.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21228,
+        "identifier": "true-tears",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "True Tears",
+        "url": "https://gogoanime.vc/category/true-tears",
+        "image": "https://gogocdn.net/images/anime/T/true-tears.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2129,
+        "aniId": 2129,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "118": {
+        "identifier": "118",
+        "malId": 2129,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "True Tears",
+        "url": "https://animepahe.com/a/118"
+      }
+    },
+    "AniMixPlay": {
+      "2129": {
+        "identifier": "2129",
+        "malId": 2129,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "True Tears",
+        "url": "https://animixplay.to/anime/2129"
+      }
+    },
+    "YugenAnime": {
+      "1246": {
+        "identifier": "1246",
+        "malId": 2129,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "True Tears",
+        "url": "https://yugen.to/anime/1246/true-tears/"
+      }
+    }
+  }
+}

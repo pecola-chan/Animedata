@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T15:56:07.000Z",
+  "checkedAt": "2022-05-14T15:56:07.000Z",
+  "id": 38472,
+  "type": "anime",
+  "title": "Isekai Quartet",
+  "altTitle": [
+    "Isekai Quartet",
+    "異世界かるてっと"
+  ],
+  "url": "https://myanimelist.net/anime/38472/Isekai_Quartet",
+  "image": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://isekai-quartet.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14435"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21992"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isekai_Quartet"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277887"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/isekai-quartet"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14435,
+  "Pages": {
+    "9anime": {
+      "1mnm": {
+        "createdAt": "2020-10-12T15:49:14.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1019,
+        "identifier": "1mnm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Isekai Quartet",
+        "url": "https://9anime.to/watch/isekai-quartet.1mnm",
+        "image": "http://static.akacdn.ru/static/images/2018/10/3d6712c632ba06b5d5933e9c98aaa1d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38472,
+        "aniId": 104454,
+        "deletedAt": null
+      },
+      "ljln": {
+        "createdAt": "2020-10-12T15:53:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6000,
+        "identifier": "ljln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Isekai Quartet (Dub)",
+        "url": "https://9anime.to/watch/isekai-quartet-dub.ljln",
+        "image": "https://static.akacdn.ru/files/images/2019/04/834d650e7efde88b7b23d18b1dbebf0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38472,
+        "aniId": 104454,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "isekai-quartet": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18524,
+        "identifier": "isekai-quartet",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Isekai Quartet",
+        "url": "https://gogoanime.vc/category/isekai-quartet",
+        "image": "https://gogocdn.net/cover/isekai-quartet.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38472,
+        "aniId": 104454,
+        "deletedAt": null
+      },
+      "isekai-quartet-dub": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18527,
+        "identifier": "isekai-quartet-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Isekai Quartet (Dub)",
+        "url": "https://gogoanime.vc/category/isekai-quartet-dub",
+        "image": "https://cdnimg.xyz/cover/isekai-quartet-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38472,
+        "aniId": 104454,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3206": {
+        "identifier": "3206",
+        "malId": 38472,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Isekai Quartet",
+        "url": "https://animepahe.com/a/3206"
+      }
+    },
+    "AniMixPlay": {
+      "38472": {
+        "identifier": "38472",
+        "malId": 38472,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Isekai Quartet",
+        "url": "https://animixplay.to/anime/38472"
+      }
+    },
+    "YugenAnime": {
+      "3145": {
+        "identifier": "3145",
+        "malId": 38472,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Isekai Quartet",
+        "url": "https://yugen.to/anime/3145/isekai-quartet/"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T16:45:36.000Z",
+  "checkedAt": "2022-05-15T16:45:36.000Z",
+  "id": 3317,
+  "type": "anime",
+  "title": "Uchuusen Sagittarius",
+  "altTitle": [
+    "Spaceship Sagittarius",
+    "The Space Sagittarius",
+    "宇宙船サジタリウス"
+  ],
+  "url": "https://myanimelist.net/anime/3317/Uchuusen_Sagittarius",
+  "image": "https://cdn.myanimelist.net/images/anime/2/45430.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/1495/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1833"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1721"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Uch%C5%ABsen_Sagittarius"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1833,
+  "Pages": {
+    "9anime": {
+      "004k": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 373,
+        "identifier": "004k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuusen Sagittarius",
+        "url": "https://9anime.to/watch/uchuusen-sagittarius.004k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bBpINHPX030/V9DpQRVniuI/AAAAAAAA8Wc/Z4KqHxu3xTw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3317,
+        "aniId": 3317,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uchuusen-sagittarius": {
+        "createdAt": "2022-04-09T15:00:58.000Z",
+        "updatedAt": "2022-04-09T15:30:25.000Z",
+        "checkedAt": null,
+        "id": 40681,
+        "identifier": "uchuusen-sagittarius",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uchuusen Sagittarius",
+        "url": "https://gogoanime.fi/category/uchuusen-sagittarius",
+        "image": "https://gogocdn.net/cover/uchuusen-sagittarius.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3317,
+        "aniId": 3317,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3317": {
+        "identifier": "3317",
+        "malId": 3317,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuusen Sagittarius",
+        "url": "https://animixplay.to/anime/3317"
+      }
+    },
+    "YugenAnime": {
+      "2201": {
+        "identifier": "2201",
+        "malId": 3317,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uchuusen Sagittarius",
+        "url": "https://yugen.to/anime/2201/uchuusen-sagittarius/"
+      }
+    }
+  }
+}

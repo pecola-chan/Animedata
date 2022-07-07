@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-12-03T13:46:16.000Z",
+  "updatedAt": "2022-05-14T15:48:46.000Z",
+  "checkedAt": "2022-05-14T15:48:46.000Z",
+  "id": 50410,
+  "type": "anime",
+  "title": "One Piece Film: Red",
+  "altTitle": [
+    "One Piece Movie 15",
+    "ONE PIECE FILM RED"
+  ],
+  "url": "https://myanimelist.net/anime/50410/One_Piece_Film__Red",
+  "image": "https://cdn.myanimelist.net/images/anime/1397/122052.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.onepiece-film.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16983"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24981"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_RED"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16983,
+  "Pages": {
+    "9anime": {
+      "yqkr1": {
+        "createdAt": "2022-04-11T08:39:05.000Z",
+        "updatedAt": "2022-04-11T09:07:23.000Z",
+        "checkedAt": null,
+        "id": 40705,
+        "identifier": "yqkr1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ONE PIECE FILM: RED",
+        "url": "https://9anime.to/watch/one-piece-film-red.yqkr1",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/4b/4b8e77e3dcce4adbca668eb752cc5ba3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50410,
+        "aniId": 141902,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "50410": {
+        "identifier": "50410",
+        "malId": 50410,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece Film: Red",
+        "url": "https://animixplay.to/anime/50410"
+      }
+    }
+  }
+}

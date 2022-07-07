@@ -1,0 +1,147 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-13T21:13:24.000Z",
+  "checkedAt": "2022-05-13T21:13:24.000Z",
+  "id": 483,
+  "type": "anime",
+  "title": "Kurau Phantom Memory",
+  "altTitle": [
+    "クラウ ファントムメモリー"
+  ],
+  "url": "https://myanimelist.net/anime/483/Kurau_Phantom_Memory",
+  "image": "https://cdn.myanimelist.net/images/anime/1997/106096.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mediafactory.co.jp/anime/kurau/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1810"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4079"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kurau_Phantom_Memory"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274269"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/kurau-phantom-memory"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1810,
+  "Pages": {
+    "9anime": {
+      "87ry": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3818,
+        "identifier": "87ry",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurau Phantom Memory (Dub)",
+        "url": "https://9anime.to/watch/kurau-phantom-memory-dub.87ry",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ya7GgjBezb4/WFS4Jisk5YI/AAAAAAABTE8/QylVfjmS1FM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 483,
+        "aniId": 483,
+        "deletedAt": null
+      },
+      "zx3m": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11329,
+        "identifier": "zx3m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurau Phantom Memory",
+        "url": "https://9anime.to/watch/kurau-phantom-memory.zx3m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-67RkQZH_zTE/V69t04WksAI/AAAAAAAA26M/LVi5DziZy5s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 483,
+        "aniId": 483,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "phantom-memory-kurau": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20041,
+        "identifier": "phantom-memory-kurau",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Phantom Memory Kurau",
+        "url": "https://gogoanime.vc/category/phantom-memory-kurau",
+        "image": "https://cdnimg.xyz/images/anime/P/phantom-memory-kurau.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 483,
+        "aniId": 483,
+        "deletedAt": null
+      },
+      "kurau-phantom-memory-dub": {
+        "createdAt": "2021-01-05T19:26:47.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33003,
+        "identifier": "kurau-phantom-memory-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurau Phantom Memory (Dub)",
+        "url": "https://gogoanime.vc/category/kurau-phantom-memory-dub",
+        "image": "https://gogocdn.net/cover/kurau-phantom-memory-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 483,
+        "aniId": 483,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "483": {
+        "identifier": "483",
+        "malId": 483,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kurau Phantom Memory",
+        "url": "https://animixplay.to/anime/483"
+      }
+    },
+    "YugenAnime": {
+      "4400": {
+        "identifier": "4400",
+        "malId": 483,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kurau Phantom Memory",
+        "url": "https://yugen.to/anime/4400/kurau-phantom-memory/"
+      }
+    }
+  }
+}

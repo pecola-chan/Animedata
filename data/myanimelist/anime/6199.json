@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-03-31T22:06:04.000Z",
+  "checkedAt": null,
+  "id": 6199,
+  "type": "anime",
+  "title": "Mai-Otome Zwei Special",
+  "altTitle": [
+    "Mai-Otome Zwei Extended Ending",
+    "舞-乙HiME ZWEI"
+  ],
+  "url": "https://myanimelist.net/anime/6199/Mai-Otome_Zwei_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/9/13750.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4567"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4567,
+  "Pages": {
+    "Gogoanime": {
+      "mai-otome-zwei-special": {
+        "createdAt": "2020-11-18T09:20:50.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29343,
+        "identifier": "mai-otome-zwei-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mai-Otome Zwei Special",
+        "url": "https://gogoanime.vc/category/mai-otome-zwei-special",
+        "image": "https://gogocdn.net/cover/mai-otome-zwei-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6199,
+        "aniId": 6199,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3403": {
+        "identifier": "3403",
+        "malId": 6199,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mai-Otome Zwei Special",
+        "url": "https://animepahe.com/a/3403"
+      }
+    },
+    "AniMixPlay": {
+      "6199": {
+        "identifier": "6199",
+        "malId": 6199,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mai-Otome Zwei Special",
+        "url": "https://animixplay.to/anime/6199"
+      }
+    },
+    "YugenAnime": {
+      "3816": {
+        "identifier": "3816",
+        "malId": 6199,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mai-Otome Zwei Special",
+        "url": "https://yugen.to/anime/3816/mai-otome-zwei-special/"
+      }
+    }
+  }
+}

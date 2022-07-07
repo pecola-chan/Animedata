@@ -1,0 +1,111 @@
+{
+  "createdAt": "2022-03-29T07:31:11.000Z",
+  "updatedAt": "2022-05-13T23:38:28.000Z",
+  "checkedAt": "2022-05-13T23:38:28.000Z",
+  "id": 50607,
+  "type": "anime",
+  "title": "Yu☆Gi☆Oh!: Go Rush!!",
+  "altTitle": [
+    "Yuu Gi Ou: Go Rush!!",
+    "遊☆戯☆王ゴーラッシュ!!"
+  ],
+  "url": "https://myanimelist.net/anime/50607/Yu☆Gi☆Oh__Go_Rush",
+  "image": "https://cdn.myanimelist.net/images/anime/1556/122518.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/yugioh-gorush/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17062"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=25064"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 17062,
+  "Pages": {
+    "9anime": {
+      "80npy": {
+        "createdAt": "2022-04-03T08:32:06.000Z",
+        "updatedAt": "2022-04-03T09:00:25.000Z",
+        "checkedAt": null,
+        "id": 40617,
+        "identifier": "80npy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yu☆Gi☆Oh! Go Rush!!",
+        "url": "https://9anime.to/watch/yugioh-go-rush.80npy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bd/bdc140e8ab536c269759a14923fce257.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50607,
+        "aniId": 142842,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yugioh-go-rush": {
+        "createdAt": "2022-04-03T10:00:27.000Z",
+        "updatedAt": "2022-05-18T08:22:48.000Z",
+        "checkedAt": "2022-05-18T08:22:48.000Z",
+        "id": 40618,
+        "identifier": "yugioh-go-rush",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yu☆Gi☆Oh!: Go Rush!!",
+        "url": "https://gogoanime.sk/category/yugioh-go-rush",
+        "image": "https://gogocdn.net/cover/yugioh-go-rush.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50607,
+        "aniId": 142842,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4756": {
+        "identifier": "4756",
+        "malId": 50607,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yu☆Gi☆Oh!: Go Rush!!",
+        "url": "https://animepahe.com/a/4756"
+      }
+    },
+    "AniMixPlay": {
+      "50607": {
+        "identifier": "50607",
+        "malId": 50607,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yu☆Gi☆Oh!: Go Rush!!",
+        "url": "https://animixplay.to/anime/50607"
+      }
+    },
+    "YugenAnime": {
+      "11853": {
+        "identifier": "11853",
+        "malId": 50607,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yu☆Gi☆Oh!: Go Rush!!",
+        "url": "https://yugen.to/anime/11853/yugioh-go-rush/"
+      }
+    }
+  }
+}

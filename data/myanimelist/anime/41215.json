@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T23:11:11.000Z",
+  "checkedAt": "2022-05-14T23:11:11.000Z",
+  "id": 41215,
+  "type": "anime",
+  "title": "Xi Xing Ji: Jijie Pian",
+  "altTitle": [
+    "Xi Xing Ji 2nd Season",
+    "Journey to the West",
+    "Westbound",
+    "Westbound Discipline",
+    "The Westward",
+    "西行纪之集结篇"
+  ],
+  "url": "https://myanimelist.net/anime/41215/Xi_Xing_Ji__Jijie_Pian",
+  "image": "https://cdn.myanimelist.net/images/anime/1784/105813.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://v.qq.com/detail/0/0gsf9fytppje54d.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://bangumi.tv/subject/263324"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "21pl": {
+        "createdAt": "2020-10-12T15:49:22.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1244,
+        "identifier": "21pl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Xi Xing Ji 2nd Season",
+        "url": "https://9anime.to/watch/xi-xing-ji-2nd-season.21pl",
+        "image": "https://static.akacdn.ru/files/images/2020/02/22fed76e7955a9eb7c1fe4736bfc45ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41215,
+        "aniId": 114560,
+        "deletedAt": null
+      }
+    }
+  }
+}

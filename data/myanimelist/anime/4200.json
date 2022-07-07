@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T19:01:17.000Z",
+  "checkedAt": "2022-05-14T19:01:17.000Z",
+  "id": 4200,
+  "type": "anime",
+  "title": "Dirty Pair OVA",
+  "altTitle": [
+    "Original Dirty Pair",
+    "Dirty Pair (1987)",
+    "ダーティペア (1987)"
+  ],
+  "url": "https://myanimelist.net/anime/4200/Dirty_Pair_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/4/61127.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=882"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=262"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dirty_Pair#OVAs"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 882,
+  "Pages": {
+    "9anime": {
+      "lqmz": {
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6168,
+        "identifier": "lqmz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair OVA",
+        "url": "https://9anime.to/watch/dirty-pair-ova.lqmz",
+        "image": "https://static.akacdn.ru/files/images/2018/07/5fea8301988958ee3f6849a2e8ac436e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4200,
+        "aniId": 4200,
+        "deletedAt": null
+      },
+      "mrnx": {
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6744,
+        "identifier": "mrnx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair OVA (Dub)",
+        "url": "https://9anime.to/watch/dirty-pair-ova-dub.mrnx",
+        "image": "https://static.akacdn.ru/files/images/2018/07/cdf4be043975e916a7abbddcc8353781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4200,
+        "aniId": 4200,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dirty-pair-ova": {
+        "createdAt": "2020-10-12T16:00:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17393,
+        "identifier": "dirty-pair-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dirty Pair OVA",
+        "url": "https://gogoanime.vc/category/dirty-pair-ova",
+        "image": "https://cdnimg.xyz/cover/dirty-pair-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4200,
+        "aniId": 4200,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4200": {
+        "identifier": "4200",
+        "malId": 4200,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dirty Pair OVA",
+        "url": "https://animixplay.to/anime/4200"
+      }
+    },
+    "YugenAnime": {
+      "1087": {
+        "identifier": "1087",
+        "malId": 4200,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dirty Pair OVA",
+        "url": "https://yugen.to/anime/1087/dirty-pair-ova/"
+      }
+    }
+  }
+}

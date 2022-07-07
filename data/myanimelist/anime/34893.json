@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-15T01:29:59.000Z",
+  "checkedAt": "2022-05-15T01:29:59.000Z",
+  "id": 34893,
+  "type": "anime",
+  "title": "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime",
+  "altTitle": [
+    "Ancien and the Magic Tablet: Another Story",
+    "エンシェンと魔法のタブレット～もうひとつのひるね姫～"
+  ],
+  "url": "https://myanimelist.net/anime/34893/Ancien_to_Mahou_no_Tablet__Mou_Hitotsu_no_Hirune_Hime",
+  "image": "https://cdn.myanimelist.net/images/anime/8/84196.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hulu-japan.jp/aamt/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12807"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ancien_and_the_Magic_Tablet"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12807,
+  "Pages": {
+    "9anime": {
+      "6p67": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3125,
+        "identifier": "6p67",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ancien and the Magic Tablet: Another Story",
+        "url": "https://9anime.to/watch/ancien-and-the-magic-tablet-another-story.6p67",
+        "image": "https://static.akacdn.ru/files/images/2019/11/fd91a5b41555bca20cfbfb5bf62d1a8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34893,
+        "aniId": 98451,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34893": {
+        "identifier": "34893",
+        "malId": 34893,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime",
+        "url": "https://animixplay.to/anime/34893"
+      }
+    }
+  }
+}

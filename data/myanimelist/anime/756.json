@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-14T18:42:11.000Z",
+  "checkedAt": "2022-05-14T18:42:11.000Z",
+  "id": 756,
+  "type": "anime",
+  "title": "School Days ONA",
+  "altTitle": [
+    "School Days",
+    "スクールデイズ"
+  ],
+  "url": "https://myanimelist.net/anime/756/School_Days_ONA",
+  "image": "https://cdn.myanimelist.net/images/anime/7/23041.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://schooldays.0verflow.com/"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6321"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/School_Days_%28game%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "w06o": {
+        "createdAt": "2020-10-12T15:56:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9571,
+        "identifier": "w06o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "School Days ONA",
+        "url": "https://9anime.to/watch/school-days-ona.w06o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5XRck7tRI1k/WKmroNHnJkI/AAAAAAABdYQ/X6v4FcYBlxw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 756,
+        "aniId": 756,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4221": {
+        "identifier": "4221",
+        "malId": 756,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "School Days ONA",
+        "url": "https://animepahe.com/a/4221"
+      }
+    },
+    "AniMixPlay": {
+      "756": {
+        "identifier": "756",
+        "malId": 756,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "School Days ONA",
+        "url": "https://animixplay.to/anime/756"
+      }
+    },
+    "YugenAnime": {
+      "3291": {
+        "identifier": "3291",
+        "malId": 756,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "School Days ONA",
+        "url": "https://yugen.to/anime/3291/school-days-ova/"
+      }
+    }
+  }
+}

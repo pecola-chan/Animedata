@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T20:45:42.000Z",
+  "checkedAt": "2022-05-14T20:45:42.000Z",
+  "id": 1174,
+  "type": "anime",
+  "title": "Munto",
+  "altTitle": [
+    "Munto",
+    "MUNTO [ムント]"
+  ],
+  "url": "https://myanimelist.net/anime/1174/Munto",
+  "image": "https://cdn.myanimelist.net/images/anime/1134/114560.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kyotoanimation.co.jp/en/works/munto/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=738"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=70"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Munto"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 738,
+  "Pages": {
+    "9anime": {
+      "on74": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7560,
+        "identifier": "on74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Munto (Dub)",
+        "url": "https://9anime.to/watch/munto-dub.on74",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OFDx3-R7yTU/WL1hd1qAwkI/AAAAAAABexo/X5wXHYznzqA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1174,
+        "aniId": 1174,
+        "deletedAt": null
+      },
+      "po74": {
+        "createdAt": "2020-10-12T15:54:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8038,
+        "identifier": "po74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Munto",
+        "url": "https://9anime.to/watch/munto.po74",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-J-U4kLmG68c/WL1heIei0qI/AAAAAAABexs/tN6ve2UCEYw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1174,
+        "aniId": 1174,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "munto-dub": {
+        "createdAt": "2021-04-30T05:49:43.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36751,
+        "identifier": "munto-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Munto (Dub)",
+        "url": "https://gogoanime.vc/category/munto-dub",
+        "image": "https://gogocdn.net/cover/munto-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1174,
+        "aniId": 1174,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1174": {
+        "identifier": "1174",
+        "malId": 1174,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Munto",
+        "url": "https://animixplay.to/anime/1174"
+      }
+    },
+    "YugenAnime": {
+      "1189": {
+        "identifier": "1189",
+        "malId": 1174,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Munto",
+        "url": "https://yugen.to/anime/1189/munto/"
+      }
+    }
+  }
+}

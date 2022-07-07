@@ -1,0 +1,129 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T17:30:22.000Z",
+  "checkedAt": "2022-05-14T17:30:22.000Z",
+  "id": 10257,
+  "type": "anime",
+  "title": "Pretty Rhythm: Aurora Dream",
+  "altTitle": [
+    "プリティーリズム オーロラドリーム"
+  ],
+  "url": "https://myanimelist.net/anime/10257/Pretty_Rhythm__Aurora_Dream",
+  "image": "https://cdn.myanimelist.net/images/anime/9/36423.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://prettyrhythm.dive2ent.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8240"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12432"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pretty_Rhythm"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8240,
+  "Pages": {
+    "9anime": {
+      "kx09": {
+        "createdAt": "2020-10-12T15:52:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5660,
+        "identifier": "kx09",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pretty Rhythm: Aurora Dream",
+        "url": "https://9anime.to/watch/pretty-rhythm-aurora-dream.kx09",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gSqkKpH-B58/V7pmGtU7xcI/AAAAAAAA4wE/SYXeuVsz_90/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10257,
+        "aniId": 10257,
+        "deletedAt": null
+      },
+      "n3noj": {
+        "createdAt": "2021-08-17T09:08:45.000Z",
+        "updatedAt": "2021-08-17T09:36:59.000Z",
+        "checkedAt": null,
+        "id": 38334,
+        "identifier": "n3noj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pretty Rhythm: Aurora Dream (Dub)",
+        "url": "https://9anime.to/watch/pretty-rhythm-aurora-dream-dub.n3noj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/22/222f7372ce0bc1c576b235ea44e02696.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10257,
+        "aniId": 10257,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pretty-rhythm-aurora-dream": {
+        "createdAt": "2021-02-20T16:34:10.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35109,
+        "identifier": "pretty-rhythm-aurora-dream",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pretty Rhythm: Aurora Dream",
+        "url": "https://gogoanime.vc/category/pretty-rhythm-aurora-dream",
+        "image": "https://gogocdn.net/images/anime/P/Pretty-Rhythm-Aurora-Dream.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10257,
+        "aniId": 10257,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1454": {
+        "identifier": "1454",
+        "malId": 10257,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pretty Rhythm: Aurora Dream",
+        "url": "https://animepahe.com/a/1454"
+      }
+    },
+    "AniMixPlay": {
+      "10257": {
+        "identifier": "10257",
+        "malId": 10257,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pretty Rhythm: Aurora Dream",
+        "url": "https://animixplay.to/anime/10257"
+      }
+    },
+    "YugenAnime": {
+      "1942": {
+        "identifier": "1942",
+        "malId": 10257,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pretty Rhythm: Aurora Dream",
+        "url": "https://yugen.to/anime/1942/pretty-rhythm-aurora-dream/"
+      }
+    }
+  }
+}

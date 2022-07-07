@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-14T19:24:35.000Z",
+  "checkedAt": "2022-05-14T19:24:35.000Z",
+  "id": 2354,
+  "type": "anime",
+  "title": "Devilman: Tanjou-hen",
+  "altTitle": [
+    "Devilman: The Birth",
+    "デビルマン 誕生編"
+  ],
+  "url": "https://myanimelist.net/anime/2354/Devilman__Tanjou-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1211/91770.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1657"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=577"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1657,
+  "Pages": {
+    "9anime": {
+      "9mz8": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4356,
+        "identifier": "9mz8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devilman: Tanjou-hen (Dub)",
+        "url": "https://9anime.to/watch/devilman-tanjou-hen-dub.9mz8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--EDfVBI96eU/V_Pf_AbnAXI/AAAAAAABD9k/Q4TOuU6W-Xg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2354,
+        "aniId": 2354,
+        "deletedAt": null
+      },
+      "jz6n": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5118,
+        "identifier": "jz6n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devilman: Tanjou-hen",
+        "url": "https://9anime.to/watch/devilman-tanjou-hen.jz6n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-G8zoa5Th60Y/V_PgBf-kOLI/AAAAAAABD9o/h-ei-oBJw0E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2354,
+        "aniId": 2354,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "devilman-the-birth": {
+        "createdAt": "2020-10-12T16:00:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17348,
+        "identifier": "devilman-the-birth",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devilman the Birth of Devilman",
+        "url": "https://gogoanime.vc/category/devilman-the-birth",
+        "image": "https://cdnimg.xyz/images/03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2354,
+        "aniId": 2354,
+        "deletedAt": null
+      },
+      "devilman-tanjou-hen-dub": {
+        "createdAt": "2020-11-02T05:13:55.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28736,
+        "identifier": "devilman-tanjou-hen-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devilman: Tanjou-hen (Dub)",
+        "url": "https://gogoanime.vc/category/devilman-tanjou-hen-dub",
+        "image": "https://gogocdn.net/cover/devilman-tanjou-hen-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2354,
+        "aniId": 2354,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2354": {
+        "identifier": "2354",
+        "malId": 2354,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Devilman: Tanjou-hen",
+        "url": "https://animixplay.to/anime/2354"
+      }
+    },
+    "YugenAnime": {
+      "5447": {
+        "identifier": "5447",
+        "malId": 2354,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Devilman: Tanjou-hen",
+        "url": "https://yugen.to/anime/5447/devilman-tanjou-hen/"
+      }
+    }
+  }
+}

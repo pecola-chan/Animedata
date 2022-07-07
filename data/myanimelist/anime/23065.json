@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-06-18T14:07:04.000Z",
+  "checkedAt": "2022-06-18T14:07:04.000Z",
+  "id": 23065,
+  "type": "anime",
+  "title": "Kaidan",
+  "altTitle": [
+    "Ghost Story",
+    "Thinking and Drawing: Nihon no Shinseiki Art Animation",
+    "Thinking and Drawing: Japanese Art Animation of the New Millennium",
+    "Kaidan",
+    "怪談"
+  ],
+  "url": "https://myanimelist.net/anime/23065/Kaidan",
+  "image": "https://cdn.myanimelist.net/images/anime/13/59767.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.imageforum.co.jp/new-anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7972"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7972,
+  "Pages": {
+    "9anime": {
+      "3nw2": {
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1864,
+        "identifier": "3nw2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaidan",
+        "url": "https://9anime.to/watch/kaidan.3nw2",
+        "image": "https://static.akacdn.ru/static/images/2018/09/d769ee562de041f7123cfa8575093e31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23065,
+        "aniId": 97594,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2022-05-14T18:15:05.000Z",
+  "checkedAt": "2022-05-14T18:15:05.000Z",
+  "id": 79,
+  "type": "anime",
+  "title": "Shuffle!",
+  "altTitle": [
+    "Shuffle!",
+    "SHUFFLE! (シャッフル!)"
+  ],
+  "url": "https://myanimelist.net/anime/79/Shuffle",
+  "image": "https://cdn.myanimelist.net/images/anime/10/19622.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shuffle-tv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2844"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5375"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shuffle%21"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/shuffle"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2844,
+  "Pages": {
+    "9anime": {
+      "8wq": {
+        "createdAt": "2020-10-12T15:51:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4054,
+        "identifier": "8wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shuffle!",
+        "url": "https://9anime.to/watch/shuffle.8wq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9-f3j_62XyQ/V4SuNEUdJQI/AAAAAAAAu9I/OVORYOr0cwE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 79,
+        "aniId": 79,
+        "deletedAt": null
+      },
+      "v816": {
+        "createdAt": "2020-10-12T15:55:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9290,
+        "identifier": "v816",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shuffle! (Dub)",
+        "url": "https://9anime.to/watch/shuffle-dub.v816",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yo3tPXRFOj4/V_tET_mTIYI/AAAAAAABF-A/GGpHKaP_0hs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 79,
+        "aniId": 79,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shuffle": {
+        "createdAt": "2020-10-12T16:01:54.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20701,
+        "identifier": "shuffle",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shuffle!",
+        "url": "https://gogoanime.vc/category/shuffle",
+        "image": "https://gogocdn.net/images/anime/S/shuffle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 79,
+        "aniId": 79,
+        "deletedAt": null
+      },
+      "shuffle-dub": {
+        "createdAt": "2020-10-12T16:01:54.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20702,
+        "identifier": "shuffle-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shuffle! (Dub)",
+        "url": "https://gogoanime.vc/category/shuffle-dub",
+        "image": "https://gogocdn.net/cover/shuffle-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 79,
+        "aniId": 79,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1050": {
+        "identifier": "1050",
+        "malId": 79,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shuffle!",
+        "url": "https://animepahe.com/a/1050"
+      }
+    },
+    "AniMixPlay": {
+      "79": {
+        "identifier": "79",
+        "malId": 79,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shuffle!",
+        "url": "https://animixplay.to/anime/79"
+      }
+    },
+    "YugenAnime": {
+      "1591": {
+        "identifier": "1591",
+        "malId": 79,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shuffle!",
+        "url": "https://yugen.to/anime/1591/shuffle/"
+      }
+    }
+  }
+}

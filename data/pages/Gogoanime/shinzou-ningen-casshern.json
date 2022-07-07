@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:01:52.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20646,
+  "identifier": "shinzou-ningen-casshern",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Shinzou Ningen Casshern",
+  "url": "https://gogoanime.vc/category/shinzou-ningen-casshern",
+  "image": "https://cdnimg.xyz/cover/shinzou-ningen-casshern.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4810,
+  "aniId": 4810,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-15T07:23:38.000Z",
+    "checkedAt": "2022-05-15T07:23:38.000Z",
+    "id": 4810,
+    "type": "anime",
+    "title": "Shinzou Ningen Casshern",
+    "altTitle": [
+      "Neo Human Casshan",
+      "新造人間キャシャーン"
+    ],
+    "url": "https://myanimelist.net/anime/4810/Shinzou_Ningen_Casshern",
+    "image": "https://cdn.myanimelist.net/images/anime/7/60395.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1561"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2174"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/w/index.php?title=Casshan&oldid=222410988"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1561
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:37.000Z",
+    "updatedAt": "2022-05-18T20:19:37.000Z",
+    "checkedAt": "2022-05-18T20:19:37.000Z",
+    "id": 4810,
+    "type": "anime",
+    "title": "Shinzou Ningen Casshern",
+    "altTitle": [
+      "Neo Human Casshan",
+      "新造人間キャシャーン"
+    ],
+    "url": "https://anilist.co/anime/4810",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4810-z6hzFJ09abAC.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/casshan/"
+      }
+    ],
+    "malId": 4810,
+    "deletedAt": null
+  }
+}

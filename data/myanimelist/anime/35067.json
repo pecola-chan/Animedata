@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T19:40:23.000Z",
+  "checkedAt": "2022-05-14T19:40:23.000Z",
+  "id": 35067,
+  "type": "anime",
+  "title": "Osomatsu-san 2nd Season",
+  "altTitle": [
+    "Mr. Osomatsu 2",
+    "おそ松さん 第2期"
+  ],
+  "url": "https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/13/88328.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://osomatsusan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12944"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19741"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osomatsu-san"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267957"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12944,
+  "Pages": {
+    "9anime": {
+      "rvky": {
+        "createdAt": "2020-10-12T15:55:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9024,
+        "identifier": "rvky",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mr. Osomatsu 2",
+        "url": "https://9anime.to/watch/mr-osomatsu-2.rvky",
+        "image": "https://static.akacdn.ru/static/images/2018/04/6ba1a3c9231e07b57aa3b6fb404dcdea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35067,
+        "aniId": 98565,
+        "deletedAt": null
+      },
+      "522v0": {
+        "createdAt": "2021-11-20T03:16:07.000Z",
+        "updatedAt": "2021-11-21T00:44:04.000Z",
+        "checkedAt": null,
+        "id": 39242,
+        "identifier": "522v0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Osomatsu-san 2 (Dub)",
+        "url": "https://9anime.to/watch/mr-osomatsu-2nd-season-dub.522v0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a3/a369414fb61aabacbfcf2dc76d19269d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 35067,
+        "aniId": 98565,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "osomatsu-san-2": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19943,
+        "identifier": "osomatsu-san-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Osomatsu-san 2",
+        "url": "https://gogoanime.vc/category/osomatsu-san-2",
+        "image": "https://images.gogoanime.tv/cover/osomatsu-san-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35067,
+        "aniId": 98565,
+        "deletedAt": null
+      },
+      "osomatsu-san-2nd-season-dub": {
+        "createdAt": "2021-12-18T15:48:34.000Z",
+        "updatedAt": "2021-12-18T16:18:30.000Z",
+        "checkedAt": null,
+        "id": 39498,
+        "identifier": "osomatsu-san-2nd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Osomatsu-san 2nd Season (Dub)",
+        "url": "https://gogoanime.cm/category/osomatsu-san-2nd-season-dub",
+        "image": "https://gogocdn.net/cover/osomatsu-san-2nd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35067,
+        "aniId": 98565,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2261": {
+        "identifier": "2261",
+        "malId": 35067,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Osomatsu-san 2nd Season",
+        "url": "https://animepahe.com/a/2261"
+      }
+    },
+    "AniMixPlay": {
+      "35067": {
+        "identifier": "35067",
+        "malId": 35067,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Osomatsu-san 2nd Season",
+        "url": "https://animixplay.to/anime/35067"
+      }
+    },
+    "YugenAnime": {
+      "11359": {
+        "identifier": "11359",
+        "malId": 35067,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Osomatsu-san 2nd Season",
+        "url": "https://yugen.to/anime/11359/osomatsu-san-2nd-season/"
+      }
+    }
+  }
+}

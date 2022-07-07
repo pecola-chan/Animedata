@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-13T23:14:59.000Z",
+  "checkedAt": "2022-05-13T23:14:59.000Z",
+  "id": 23309,
+  "type": "anime",
+  "title": "Rail Wars!",
+  "altTitle": [
+    "Rail Wars!",
+    "RAIL WARS! [レールウォーズ]"
+  ],
+  "url": "https://myanimelist.net/anime/23309/Rail_Wars",
+  "image": "https://cdn.myanimelist.net/images/anime/13/65671.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/railwars/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10357"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16039"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/RAIL_WARS!_-%E6%97%A5%E6%9C%AC%E5%9C%8B%E6%9C%89%E9%89%84%E9%81%93%E5%85%AC%E5%AE%89%E9%9A%8A-"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10357,
+  "Pages": {
+    "9anime": {
+      "l3jq": {
+        "createdAt": "2020-10-12T15:52:57.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5806,
+        "identifier": "l3jq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rail Wars!",
+        "url": "https://9anime.to/watch/rail-wars.l3jq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dlyuZso__zw/V6iU7aaKNTI/AAAAAAAA1WE/21Oep5AixHk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23309,
+        "aniId": 20583,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rail-wars": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20224,
+        "identifier": "rail-wars",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rail Wars!",
+        "url": "https://gogoanime.vc/category/rail-wars",
+        "image": "https://cdnimg.xyz/images/summer/rail_wars.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23309,
+        "aniId": 20583,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "185": {
+        "identifier": "185",
+        "malId": 23309,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rail Wars!",
+        "url": "https://animepahe.com/a/185"
+      }
+    },
+    "AniMixPlay": {
+      "23309": {
+        "identifier": "23309",
+        "malId": 23309,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rail Wars!",
+        "url": "https://animixplay.to/anime/23309"
+      }
+    },
+    "YugenAnime": {
+      "2133": {
+        "identifier": "2133",
+        "malId": 23309,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rail Wars!",
+        "url": "https://yugen.to/anime/2133/rail-wars/"
+      }
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T20:56:53.000Z",
+  "checkedAt": "2022-05-14T20:56:53.000Z",
+  "id": 665,
+  "type": "anime",
+  "title": "JoJo no Kimyou na Bouken: Adventure",
+  "altTitle": [
+    "JoJo's Bizarre Adventure (2000)",
+    "JoJo's Bizarre Adventure",
+    "ジョジョの奇妙な冒険 ADVENTURE"
+  ],
+  "url": "https://myanimelist.net/anime/665/JoJo_no_Kimyou_na_Bouken__Adventure",
+  "image": "https://cdn.myanimelist.net/images/anime/8/53147.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=789"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=463"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jojo%27s_Bizarre_Adventure"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/jojos-bizarre-adventure"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 789,
+  "Pages": {
+    "9anime": {
+      "3vp8": {
+        "createdAt": "2020-10-12T15:49:53.000Z",
+        "updatedAt": "2022-01-03T18:53:43.000Z",
+        "checkedAt": null,
+        "id": 1952,
+        "identifier": "3vp8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "JoJo no Kimyou na Bouken (2000) (Dub)",
+        "url": "https://9anime.to/watch/jojos-bizarre-adventure-2000-dub.3vp8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/86e5c185a37d469a451be26fc6896ef0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 665,
+        "aniId": 665,
+        "deletedAt": null
+      },
+      "4v2m": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2375,
+        "identifier": "4v2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "JoJo no Kimyou na Bouken: Adventure",
+        "url": "https://9anime.to/watch/jojo-no-kimyou-na-bouken-adventure.4v2m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8UjGCnnb1bU/V-52z2Jb8bI/AAAAAAABCnc/9a6weDge2Po/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 665,
+        "aniId": 665,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jojos-bizarre-adventure-2000-dub": {
+        "createdAt": "2020-10-12T16:00:52.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18589,
+        "identifier": "jojos-bizarre-adventure-2000-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "JoJo's Bizarre Adventure (2000) (Dub)",
+        "url": "https://gogoanime.vc/category/jojos-bizarre-adventure-2000-dub",
+        "image": "https://gogocdn.net/cover/jojos-bizarre-adventure-2000-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 665,
+        "aniId": 665,
+        "deletedAt": null
+      },
+      "jojo-no-kimyou-na-bouken-adventure-2000": {
+        "createdAt": "2021-10-19T13:28:52.000Z",
+        "updatedAt": "2021-10-19T13:58:52.000Z",
+        "checkedAt": null,
+        "id": 39064,
+        "identifier": "jojo-no-kimyou-na-bouken-adventure-2000",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "JoJo no Kimyou na Bouken: Adventure (2000)",
+        "url": "https://gogoanime.pe/category/jojo-no-kimyou-na-bouken-adventure-2000",
+        "image": "https://gogocdn.net/cover/jojo-no-kimyou-na-bouken-adventure-2000.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 665,
+        "aniId": 665,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2799": {
+        "identifier": "2799",
+        "malId": 665,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "JoJo no Kimyou na Bouken: Adventure",
+        "url": "https://animepahe.com/a/2799"
+      }
+    },
+    "AniMixPlay": {
+      "665": {
+        "identifier": "665",
+        "malId": 665,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "JoJo no Kimyou na Bouken: Adventure",
+        "url": "https://animixplay.to/anime/665"
+      }
+    },
+    "YugenAnime": {
+      "4898": {
+        "identifier": "4898",
+        "malId": 665,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "JoJo no Kimyou na Bouken: Adventure",
+        "url": "https://yugen.to/anime/4898/jojo-no-kimyou-na-bouken-adventure/"
+      }
+    }
+  }
+}

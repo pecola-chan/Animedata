@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T22:33:59.000Z",
+  "checkedAt": "2022-05-14T22:33:59.000Z",
+  "id": 9333,
+  "type": "anime",
+  "title": "Koi☆Sento",
+  "altTitle": [
+    "Koi☆Cent",
+    "Koisento",
+    "Coicent",
+    "コイ☆セント"
+  ],
+  "url": "https://myanimelist.net/anime/9333/Koi☆Sento",
+  "image": "https://cdn.myanimelist.net/images/anime/3/29297.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dbeat.bandaivisual.co.jp/koisento/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7884"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11810"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coicent"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7884,
+  "Pages": {
+    "9anime": {
+      "4v3x": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2376,
+        "identifier": "4v3x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koi☆Sento",
+        "url": "https://9anime.to/watch/koisento.4v3x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hdXDEM8fcg8/V_x1mITK5rI/AAAAAAABGcI/TsRCjioF--Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9333,
+        "aniId": 9333,
+        "deletedAt": null
+      },
+      "5v4v": {
+        "createdAt": "2020-10-12T15:50:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2780,
+        "identifier": "5v4v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koi☆Sento (Dub)",
+        "url": "https://9anime.to/watch/koisento-dub.5v4v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ejkWsg5ziX4/V_x1muJ3R6I/AAAAAAABGcM/LJA910VX9Vc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9333,
+        "aniId": 9333,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koisento-dub": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18919,
+        "identifier": "koisento-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koi☆Sento (Dub)",
+        "url": "https://gogoanime.vc/category/koisento-dub",
+        "image": "https://cdnimg.xyz/cover/koisento-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9333,
+        "aniId": 9333,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9333": {
+        "identifier": "9333",
+        "malId": 9333,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koi☆Sento",
+        "url": "https://animixplay.to/anime/9333"
+      }
+    },
+    "YugenAnime": {
+      "6121": {
+        "identifier": "6121",
+        "malId": 9333,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koi☆Sento",
+        "url": "https://yugen.to/anime/6121/koisento/"
+      }
+    }
+  }
+}

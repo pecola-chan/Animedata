@@ -1,0 +1,128 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-14T18:15:23.000Z",
+  "checkedAt": "2022-05-14T18:15:23.000Z",
+  "id": 32051,
+  "type": "anime",
+  "title": "One Piece: Adventure of Nebulandia",
+  "altTitle": [
+    "One Piece Special",
+    "One Piece: Adventure of Nebulandia",
+    "ワンピース～アドベンチャー オブ ネブランディア～"
+  ],
+  "url": "https://myanimelist.net/anime/32051/One_Piece__Adventure_of_Nebulandia",
+  "image": "https://cdn.myanimelist.net/images/anime/5/77050.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://corp.toei-anim.co.jp/press/detail.php?id=507"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257631"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 69,
+  "Pages": {
+    "9anime": {
+      "p2vq": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7821,
+        "identifier": "p2vq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Adventure of Nebulandia",
+        "url": "https://9anime.to/watch/one-piece-adventure-of-nebulandia.p2vq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--taAE7bR7Uc/WFPK3nAEUPI/AAAAAAABS_4/L6QQMRWmblk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32051,
+        "aniId": 21485,
+        "deletedAt": null
+      },
+      "q18w": {
+        "createdAt": "2020-10-12T15:54:55.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8239,
+        "identifier": "q18w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Adventure of Nebulandia (Dub)",
+        "url": "https://9anime.to/watch/one-piece-adventure-of-nebulandia-dub.q18w",
+        "image": "https://static.akacdn.ru/files/images/2020/04/6612b2000baa6275f30def6d8e02c12c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32051,
+        "aniId": 21485,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-piece-adventure-of-nebulandia": {
+        "createdAt": "2020-10-12T16:01:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19851,
+        "identifier": "one-piece-adventure-of-nebulandia",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece: Adventure of Nebulandia",
+        "url": "https://gogoanime.vc/category/one-piece-adventure-of-nebulandia",
+        "image": "https://gogocdn.net/images/upload/One Piece - Adventure of Nebulandia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32051,
+        "aniId": 21485,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3836": {
+        "identifier": "3836",
+        "malId": 32051,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece: Adventure of Nebulandia",
+        "url": "https://animepahe.com/a/3836"
+      }
+    },
+    "AniMixPlay": {
+      "32051": {
+        "identifier": "32051",
+        "malId": 32051,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece: Adventure of Nebulandia",
+        "url": "https://animixplay.to/anime/32051"
+      }
+    },
+    "YugenAnime": {
+      "1212": {
+        "identifier": "1212",
+        "malId": 32051,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Piece: Adventure of Nebulandia",
+        "url": "https://yugen.to/anime/1212/one-piece-adventure-of-nebulandia/"
+      }
+    }
+  }
+}

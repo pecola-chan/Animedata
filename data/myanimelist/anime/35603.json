@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:54.000Z",
+  "updatedAt": "2022-05-15T00:16:59.000Z",
+  "checkedAt": "2022-05-15T00:16:59.000Z",
+  "id": 35603,
+  "type": "anime",
+  "title": "Seikaisuru Kado: Ekwari",
+  "altTitle": [
+    "Seikaisuru Kado Recap",
+    "Seikaisuru Kado Episode 6.5",
+    "Seikaisuru Kado Special",
+    "KADO: The Right Answer – Ekwari",
+    "正解するカド 総集編 エクワリ"
+  ],
+  "url": "https://myanimelist.net/anime/35603/Seikaisuru_Kado__Ekwari",
+  "image": "https://cdn.myanimelist.net/images/anime/3/85883.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://seikaisuru-kado.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11762"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11762,
+  "Pages": {
+    "9anime": {
+      "pqkq": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2019-10-12T16:02:23.000Z",
+        "checkedAt": null,
+        "id": 8084,
+        "identifier": "pqkq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikaisuru Kado Recap",
+        "url": "https://9anime.to/watch/seikaisuru-kado-recap.pqkq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-R1je8X3Rrmg/WR8JGyVDoJI/AAAAAAAAovg/7r90LSeJHpUUEFM-X_-4SLJYEYocr-hlACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35603,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2115": {
+        "identifier": "2115",
+        "malId": 35603,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikaisuru Kado: Ekwari",
+        "url": "https://animepahe.com/a/2115"
+      }
+    },
+    "AniMixPlay": {
+      "35603": {
+        "identifier": "35603",
+        "malId": 35603,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikaisuru Kado: Ekwari",
+        "url": "https://animixplay.to/anime/35603"
+      }
+    }
+  }
+}

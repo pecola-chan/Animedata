@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T18:33:29.000Z",
+  "checkedAt": "2022-05-14T18:33:29.000Z",
+  "id": 37998,
+  "type": "anime",
+  "title": "Girly Air Force",
+  "altTitle": [
+    "ガーリー・エアフォース"
+  ],
+  "url": "https://myanimelist.net/anime/37998/Girly_Air_Force",
+  "image": "https://cdn.myanimelist.net/images/anime/1046/97025.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gaf-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14113"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21099"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%A2%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277382"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14113,
+  "Pages": {
+    "9anime": {
+      "lqj3": {
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6164,
+        "identifier": "lqj3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Girly Air Force",
+        "url": "https://9anime.to/watch/girly-air-force.lqj3",
+        "image": "http://static.akacdn.ru/static/images/2018/08/c5abc0c3db525d3e4e400526378c8f07.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37998,
+        "aniId": 101930,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "girly-air-force": {
+        "createdAt": "2020-10-12T16:00:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17923,
+        "identifier": "girly-air-force",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Girly Air Force",
+        "url": "https://gogoanime.vc/category/girly-air-force",
+        "image": "https://cdnimg.xyz/cover/girly-air-force.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37998,
+        "aniId": 101930,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2935": {
+        "identifier": "2935",
+        "malId": 37998,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Girly Air Force",
+        "url": "https://animepahe.com/a/2935"
+      }
+    },
+    "AniMixPlay": {
+      "37998": {
+        "identifier": "37998",
+        "malId": 37998,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Girly Air Force",
+        "url": "https://animixplay.to/anime/37998"
+      }
+    },
+    "YugenAnime": {
+      "1646": {
+        "identifier": "1646",
+        "malId": 37998,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Girly Air Force",
+        "url": "https://yugen.to/anime/1646/girly-air-force/"
+      }
+    }
+  }
+}

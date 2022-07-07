@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-15T01:05:17.000Z",
+  "checkedAt": "2022-05-15T01:05:17.000Z",
+  "id": 33820,
+  "type": "anime",
+  "title": "Ao Oni The Animation (Movie)",
+  "altTitle": [
+    "Aooni the Movie",
+    "青鬼 THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/33820/Ao_Oni_The_Animation_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/6/81440.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://aooni-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12323"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18968"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ao_Oni"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271455"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12323,
+  "Pages": {
+    "9anime": {
+      "ym11": {
+        "createdAt": "2020-10-12T15:56:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10741,
+        "identifier": "ym11",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ao Oni The Animation (Movie)",
+        "url": "https://9anime.to/watch/ao-oni-the-animation-movie.ym11",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xDtujcnt6qE/WFZ4HLQgW_I/AAAAAAABTYA/94SPOxO-ILI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33820,
+        "aniId": 21898,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ao-oni-the-animation-movie": {
+        "createdAt": "2021-09-21T05:11:04.000Z",
+        "updatedAt": "2021-09-21T05:40:42.000Z",
+        "checkedAt": null,
+        "id": 38679,
+        "identifier": "ao-oni-the-animation-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ao Oni The Animation (Movie)",
+        "url": "https://gogoanime.pe/category/ao-oni-the-animation-movie",
+        "image": "https://gogocdn.net/cover/ao-oni-the-animation-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33820,
+        "aniId": 21898,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1980": {
+        "identifier": "1980",
+        "malId": 33820,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ao Oni The Animation (Movie)",
+        "url": "https://animepahe.com/a/1980"
+      }
+    },
+    "AniMixPlay": {
+      "33820": {
+        "identifier": "33820",
+        "malId": 33820,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ao Oni The Animation (Movie)",
+        "url": "https://animixplay.to/anime/33820"
+      }
+    },
+    "YugenAnime": {
+      "7167": {
+        "identifier": "7167",
+        "malId": 33820,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ao Oni The Animation (Movie)",
+        "url": "https://yugen.to/anime/7167/ao-oni-the-animation-movie/"
+      }
+    }
+  }
+}

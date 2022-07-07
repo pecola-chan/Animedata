@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-14T19:00:17.000Z",
+  "checkedAt": "2022-05-14T19:00:17.000Z",
+  "id": 22123,
+  "type": "anime",
+  "title": "Inugami-san to Nekoyama-san",
+  "altTitle": [
+    "Inugami-san to Nekoyama-san",
+    "犬神さんと猫山さん"
+  ],
+  "url": "https://myanimelist.net/anime/22123/Inugami-san_to_Nekoyama-san",
+  "image": "https://cdn.myanimelist.net/images/anime/4/61921.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dreamcreation.co.jp/inuneko/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10398"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15972"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Inugami-san_to_Nekoyama-san"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260411"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10398,
+  "Pages": {
+    "9anime": {
+      "qn45": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8455,
+        "identifier": "qn45",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inugami-san to Nekoyama-san",
+        "url": "https://9anime.to/watch/inugami-san-to-nekoyama-san.qn45",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/d1ff8d05754ccbcc96a9780ccbc0b57d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22123,
+        "aniId": 20604,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "inugami-san-to-nekoyama-san-special": {
+        "createdAt": "2020-10-22T14:40:27.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27742,
+        "identifier": "inugami-san-to-nekoyama-san-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inugami-san to Nekoyama-san Special",
+        "url": "https://gogoanime.vc/category/inugami-san-to-nekoyama-san-special",
+        "image": "https://gogocdn.net/images/anime/Inugami-san to Nekoyama-san Special.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22123,
+        "aniId": 20604,
+        "deletedAt": null
+      },
+      "inugami-san-to-nekoyama-san": {
+        "createdAt": "2020-10-22T14:40:36.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 27743,
+        "identifier": "inugami-san-to-nekoyama-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inugami-san to Nekoyama-san",
+        "url": "https://gogoanime.vc/category/inugami-san-to-nekoyama-san",
+        "image": "https://gogocdn.net/images/spring/Inugami-san to Nekoyama-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22123,
+        "aniId": 20604,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "227": {
+        "identifier": "227",
+        "malId": 22123,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Inugami-san to Nekoyama-san",
+        "url": "https://animepahe.com/a/227"
+      }
+    },
+    "AniMixPlay": {
+      "22123": {
+        "identifier": "22123",
+        "malId": 22123,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Inugami-san to Nekoyama-san",
+        "url": "https://animixplay.to/anime/22123"
+      }
+    },
+    "YugenAnime": {
+      "4641": {
+        "identifier": "4641",
+        "malId": 22123,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Inugami-san to Nekoyama-san",
+        "url": "https://yugen.to/anime/4641/inugami-san-to-nekoyama-san/"
+      }
+    }
+  }
+}

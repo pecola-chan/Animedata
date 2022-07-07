@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-15T07:34:51.000Z",
+  "checkedAt": "2022-05-15T07:34:51.000Z",
+  "id": 2834,
+  "type": "anime",
+  "title": "Miracle☆Girls",
+  "altTitle": [
+    "ミラクル☆ガールズ"
+  ],
+  "url": "https://myanimelist.net/anime/2834/Miracle☆Girls",
+  "image": "https://cdn.myanimelist.net/images/anime/11/21213.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1213"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=808"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Miracle_Girls"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1213,
+  "Pages": {
+    "9anime": {
+      "44pk": {
+        "createdAt": "2020-10-12T15:50:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2117,
+        "identifier": "44pk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Miracle☆Girls",
+        "url": "https://9anime.to/watch/miraclegirls.44pk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vFnrLCmN46E/WMwA3exaxrI/AAAAAAABf2c/9LrIqeu8xDE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2834,
+        "aniId": 2834,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2834": {
+        "identifier": "2834",
+        "malId": 2834,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Miracle☆Girls",
+        "url": "https://animixplay.to/anime/2834"
+      }
+    },
+    "YugenAnime": {
+      "7821": {
+        "identifier": "7821",
+        "malId": 2834,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Miracle☆Girls",
+        "url": "https://yugen.to/anime/7821/miraclegirls/"
+      }
+    }
+  }
+}

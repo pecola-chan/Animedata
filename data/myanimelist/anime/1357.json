@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:38:16.000Z",
+  "updatedAt": "2022-05-14T19:04:17.000Z",
+  "checkedAt": "2022-05-14T19:04:17.000Z",
+  "id": 1357,
+  "type": "anime",
+  "title": "Shin Hokuto no Ken",
+  "altTitle": [
+    "New Fist of the North Star",
+    "新・北斗の拳"
+  ],
+  "url": "https://myanimelist.net/anime/1357/Shin_Hokuto_no_Ken",
+  "image": "https://cdn.myanimelist.net/images/anime/6/2901.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=983"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2778"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fist_of_the_North_Star"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 983,
+  "Pages": {
+    "9anime": {
+      "4vzo": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2394,
+        "identifier": "4vzo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Hokuto no Ken",
+        "url": "https://9anime.to/watch/shin-hokuto-no-ken.4vzo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-h_YwgS41HQU/V_PVEf0hEtI/AAAAAAABD8E/eTTxs9ZkM1k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1357,
+        "aniId": 1357,
+        "deletedAt": null
+      },
+      "5vzq": {
+        "createdAt": "2020-10-12T15:50:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2798,
+        "identifier": "5vzq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Hokuto no Ken (Dub)",
+        "url": "https://9anime.to/watch/shin-hokuto-no-ken-dub.5vzq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ux_Hhq1hb04/V_PVFDblgFI/AAAAAAABD8I/s-Ujoj-C18g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1357,
+        "aniId": 1357,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "new-fist-of-the-north-star-dub": {
+        "createdAt": "2021-01-11T16:20:41.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33463,
+        "identifier": "new-fist-of-the-north-star-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "New Fist of the North Star (Dub)",
+        "url": "https://gogoanime.vc/category/new-fist-of-the-north-star-dub",
+        "image": "https://gogocdn.net/cover/new-fist-of-the-north-star-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1357,
+        "aniId": 1357,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3014": {
+        "identifier": "3014",
+        "malId": 1357,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shin Hokuto no Ken",
+        "url": "https://animepahe.com/a/3014"
+      }
+    },
+    "AniMixPlay": {
+      "1357": {
+        "identifier": "1357",
+        "malId": 1357,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shin Hokuto no Ken",
+        "url": "https://animixplay.to/anime/1357"
+      }
+    }
+  }
+}

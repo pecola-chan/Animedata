@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:17.000Z",
+  "updatedAt": "2022-05-15T07:13:49.000Z",
+  "checkedAt": "2022-05-15T07:13:49.000Z",
+  "id": 1481,
+  "type": "anime",
+  "title": "Urusei Yatsura: Haru da, Tobidase!",
+  "altTitle": [
+    "Urusei Yatsura Special: It's Spring! Take Off!",
+    "うる星やつら 春だ、とびだせ!"
+  ],
+  "url": "https://myanimelist.net/anime/1481/Urusei_Yatsura__Haru_da_Tobidase",
+  "image": "https://cdn.myanimelist.net/images/anime/10/88001.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=377"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6337"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 377,
+  "Pages": {
+    "9anime": {
+      "rq8y": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8980,
+        "identifier": "rq8y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Urusei Yatsura: Haru da, Tobidase!",
+        "url": "https://9anime.to/watch/urusei-yatsura-haru-da-tobidase.rq8y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Z9QoJBRyaDo/WLVc65gzCOI/AAAAAAABeZ8/p6L7P4ZMytA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1481,
+        "aniId": 1481,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "urusei-yatsura-haru-da-tobidase": {
+        "createdAt": "2022-01-18T10:04:36.000Z",
+        "updatedAt": "2022-01-18T10:34:03.000Z",
+        "checkedAt": null,
+        "id": 39876,
+        "identifier": "urusei-yatsura-haru-da-tobidase",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Urusei Yatsura: Haru da, Tobidase!",
+        "url": "https://gogoanime.cm/category/urusei-yatsura-haru-da-tobidase",
+        "image": "https://gogocdn.net/cover/urusei-yatsura-haru-da-tobidase.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1481,
+        "aniId": 1481,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2776": {
+        "identifier": "2776",
+        "malId": 1481,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Urusei Yatsura: Haru da, Tobidase!",
+        "url": "https://animepahe.com/a/2776"
+      }
+    },
+    "AniMixPlay": {
+      "1481": {
+        "identifier": "1481",
+        "malId": 1481,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Urusei Yatsura: Haru da, Tobidase!",
+        "url": "https://animixplay.to/anime/1481"
+      }
+    },
+    "YugenAnime": {
+      "11602": {
+        "identifier": "11602",
+        "malId": 1481,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Urusei Yatsura: Haru da, Tobidase!",
+        "url": "https://yugen.to/anime/11602/urusei-yatsura-haru-da-tobidase/"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-15T01:01:17.000Z",
+  "checkedAt": "2022-05-15T01:01:17.000Z",
+  "id": 3248,
+  "type": "anime",
+  "title": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku",
+  "altTitle": [
+    "Tenpou Ibun Ayakashi Ayashi: Inferno",
+    "Ghost Slayers Ayashi: Inferno",
+    "天保異聞 妖奇士 奇士神曲"
+  ],
+  "url": "https://myanimelist.net/anime/3248/Tenpou_Ibun__Ayakashi_Ayashi_-_Ayashi_Shinkyoku",
+  "image": "https://cdn.myanimelist.net/images/anime/9/50917.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4571"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ayakashi_Ayashi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4571,
+  "Pages": {
+    "9anime": {
+      "11qq": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 798,
+        "identifier": "11qq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku",
+        "url": "https://9anime.to/watch/tenpou-ibun-ayakashi-ayashi-ayashi-shinkyoku.11qq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2644kxZwmRw/WNjkPSupDRI/AAAAAAAAdl8/cq1PmqqAMsA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3248,
+        "aniId": 3248,
+        "deletedAt": null
+      },
+      "pl89": {
+        "createdAt": "2020-10-12T15:54:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7969,
+        "identifier": "pl89",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ghost Slayers Ayashi: Inferno (Dub)",
+        "url": "https://9anime.to/watch/ghost-slayers-ayashi-inferno-dub.pl89",
+        "image": "https://static.akacdn.ru/static/images/2018/04/b8dca5c4acba9424f883e53671352054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3248,
+        "aniId": 3248,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3248": {
+        "identifier": "3248",
+        "malId": 3248,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku",
+        "url": "https://animixplay.to/anime/3248"
+      }
+    },
+    "YugenAnime": {
+      "14701": {
+        "identifier": "14701",
+        "malId": 3248,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku",
+        "url": "https://yugen.to/anime/14701/tenpou-ibun-ayakashi-ayashi-ayashi-shinkyoku/"
+      }
+    }
+  }
+}

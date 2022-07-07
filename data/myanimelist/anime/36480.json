@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T18:58:05.000Z",
+  "checkedAt": "2022-05-14T18:58:05.000Z",
+  "id": 36480,
+  "type": "anime",
+  "title": "Drifters (OVA)",
+  "altTitle": [
+    "Drifters: Battle in a Brand-new World War",
+    "Drifters Second Season",
+    "Drifters 2nd Season",
+    "Drifters",
+    "DRIFTERS"
+  ],
+  "url": "https://myanimelist.net/anime/36480/Drifters_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1027/97819.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12685"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23664"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12685,
+  "Pages": {
+    "9anime": {
+      "k7w4": {
+        "createdAt": "2020-10-12T15:52:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5358,
+        "identifier": "k7w4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Drifters 2nd Season",
+        "url": "https://9anime.to/watch/drifters-2nd-season.k7w4",
+        "image": "http://static.akacdn.ru/static/images/2018/04/be0b07014ce46e481ea9ee401bccaaa9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36480,
+        "aniId": 97988,
+        "deletedAt": null
+      },
+      "kz36": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5696,
+        "identifier": "kz36",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Drifters Specials",
+        "url": "https://9anime.to/watch/drifters.kz36",
+        "image": "//static.9anime.to/i/cache/images/2018/04/eefcbf4c1a43442d2bcad7761bfc1c4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36480,
+        "aniId": 97988,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "drifters-ova": {
+        "createdAt": "2020-10-12T16:00:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17501,
+        "identifier": "drifters-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Drifters OVA",
+        "url": "https://gogoanime.vc/category/drifters-ova",
+        "image": "https://cdnimg.xyz/cover/drifters-ova.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36480,
+        "aniId": 97988,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2649": {
+        "identifier": "2649",
+        "malId": 36480,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Drifters (OVA)",
+        "url": "https://animepahe.com/a/2649"
+      }
+    },
+    "AniMixPlay": {
+      "36480": {
+        "identifier": "36480",
+        "malId": 36480,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Drifters (OVA)",
+        "url": "https://animixplay.to/anime/36480"
+      }
+    },
+    "YugenAnime": {
+      "1146": {
+        "identifier": "1146",
+        "malId": 36480,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Drifters (OVA)",
+        "url": "https://yugen.to/anime/1146/drifters-ova/"
+      }
+    }
+  }
+}

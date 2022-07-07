@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T12:30:25.000Z",
+  "checkedAt": "2022-05-14T12:30:25.000Z",
+  "id": 461,
+  "type": "anime",
+  "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+  "altTitle": [
+    "One Piece: Chinjou Shima no Chopper Oukoku",
+    "One Piece: Chopper Kingdom of Strange Animal Island",
+    "ワンピース 珍獣島のチョッパー王国"
+  ],
+  "url": "https://myanimelist.net/anime/461/One_Piece_Movie_03__Chinjuu-jima_no_Chopper_Oukoku",
+  "image": "https://cdn.myanimelist.net/images/anime/1017/97698.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/2002_spring/one.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1253"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3448"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chopper%27s_Kingdom_on_the_Island_of_Strange_Animals"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1253,
+  "Pages": {
+    "9anime": {
+      "ppoq": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2022-06-14T04:34:36.000Z",
+        "checkedAt": "2022-06-14T04:34:36.000Z",
+        "id": 8067,
+        "identifier": "ppoq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Chinjuushima no Chopper Oukoku",
+        "url": "https://9anime.to/watch/one-piece-choppers-kingdom-on-the-island-of-strange-animals.ppoq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/23f6ab7e82b33a3012de1a946624176e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 461,
+        "aniId": 461,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-piece-movie-3-chopper-kingdom-of-strange-animal-island": {
+        "createdAt": "2020-10-12T17:51:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23674,
+        "identifier": "one-piece-movie-3-chopper-kingdom-of-strange-animal-island",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Piece Movie 3: Chopper Kingdom of Strange Animal Island",
+        "url": "https://gogoanime.vc/category/one-piece-movie-3-chopper-kingdom-of-strange-animal-island",
+        "image": "https://gogocdn.net/images/anime/O/One-Piece-movie-3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 461,
+        "aniId": 461,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3780": {
+        "identifier": "3780",
+        "malId": 461,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+        "url": "https://animepahe.com/a/3780"
+      }
+    },
+    "AniMixPlay": {
+      "461": {
+        "identifier": "461",
+        "malId": 461,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+        "url": "https://animixplay.to/anime/461"
+      }
+    },
+    "YugenAnime": {
+      "1721": {
+        "identifier": "1721",
+        "malId": 461,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+        "url": "https://yugen.to/anime/1721/one-piece-movie-3-chopper-kingdom-of-strange-animal-island/"
+      }
+    }
+  }
+}

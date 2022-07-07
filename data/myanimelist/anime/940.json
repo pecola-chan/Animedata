@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-14T16:43:27.000Z",
+  "checkedAt": "2022-05-14T16:43:27.000Z",
+  "id": 940,
+  "type": "anime",
+  "title": "Inukami!",
+  "altTitle": [
+    "Dog Gods!",
+    "いぬかみっ!"
+  ],
+  "url": "https://myanimelist.net/anime/940/Inukami",
+  "image": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://inukami.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4022"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6077"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Inukami%21"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277971"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4022,
+  "Pages": {
+    "9anime": {
+      "m2yz": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6349,
+        "identifier": "m2yz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inukami!",
+        "url": "https://9anime.to/watch/inukami.m2yz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7BJa53hbQRc/V5EBZYSQA4I/AAAAAAAAxAM/IGALzjQMpi4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 940,
+        "aniId": 940,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "inukami": {
+        "createdAt": "2020-10-12T16:00:50.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18498,
+        "identifier": "inukami",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inukami",
+        "url": "https://gogoanime.vc/category/inukami",
+        "image": "https://gogocdn.net/images/anime/I/Inukami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 940,
+        "aniId": 940,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "940": {
+        "identifier": "940",
+        "malId": 940,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Inukami!",
+        "url": "https://animixplay.to/anime/940"
+      }
+    },
+    "YugenAnime": {
+      "318": {
+        "identifier": "318",
+        "malId": 940,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Inukami!",
+        "url": "https://yugen.to/anime/318/inukami/"
+      }
+    }
+  }
+}

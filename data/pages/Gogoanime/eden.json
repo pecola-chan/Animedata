@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-05-27T15:58:56.000Z",
+  "updatedAt": "2021-10-12T10:37:52.000Z",
+  "checkedAt": null,
+  "id": 37120,
+  "identifier": "eden",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Eden",
+  "url": "https://gogoanime.vc/category/eden",
+  "image": "https://gogocdn.net/cover/eden.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 19137,
+  "aniId": 19137,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-05-27T15:58:55.000Z",
+    "updatedAt": "2022-05-14T18:41:47.000Z",
+    "checkedAt": "2022-05-14T18:41:47.000Z",
+    "id": 19137,
+    "type": "anime",
+    "title": "EDEN",
+    "altTitle": [
+      "エデン"
+    ],
+    "url": "https://myanimelist.net/anime/19137/EDEN",
+    "image": "https://cdn.myanimelist.net/images/anime/5/51349.jpg",
+    "category": "Music",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13142"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13142
+  },
+  "Ani": {
+    "createdAt": "2021-10-12T10:07:53.000Z",
+    "updatedAt": "2022-05-15T13:46:23.000Z",
+    "checkedAt": "2022-05-15T13:46:23.000Z",
+    "id": 19137,
+    "type": "anime",
+    "title": "Eden",
+    "altTitle": [
+      "Eden",
+      "エデン"
+    ],
+    "url": "https://anilist.co/anime/19137",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19137-ZcXmamgvdT8M.png",
+    "category": "music",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 19137,
+    "deletedAt": null
+  }
+}

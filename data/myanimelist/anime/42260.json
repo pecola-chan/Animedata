@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2022-05-14T18:45:47.000Z",
+  "checkedAt": "2022-05-14T18:45:47.000Z",
+  "id": 42260,
+  "type": "anime",
+  "title": "Ninja Collection",
+  "altTitle": [
+    "忍者コレクション"
+  ],
+  "url": "https://myanimelist.net/anime/42260/Ninja_Collection",
+  "image": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/nin_colle/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15603"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23474"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279592"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15603,
+  "Pages": {
+    "9anime": {
+      "0zk3": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 755,
+        "identifier": "0zk3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninja Collection",
+        "url": "https://9anime.to/watch/ninja-collection.0zk3",
+        "image": "https://static.akacdn.ru/files/images/3/33/33eb4382bb3de9095b0b7b5b354d55c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42260,
+        "aniId": 120180,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ninja-collection": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19738,
+        "identifier": "ninja-collection",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ninja Collection",
+        "url": "https://gogoanime.vc/category/ninja-collection",
+        "image": "https://gogocdn.net/cover/ninja-collection.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42260,
+        "aniId": 120180,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4041": {
+        "identifier": "4041",
+        "malId": 42260,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ninja Collection",
+        "url": "https://animepahe.com/a/4041"
+      }
+    },
+    "AniMixPlay": {
+      "42260": {
+        "identifier": "42260",
+        "malId": 42260,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ninja Collection",
+        "url": "https://animixplay.to/anime/42260"
+      }
+    },
+    "YugenAnime": {
+      "941": {
+        "identifier": "941",
+        "malId": 42260,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ninja Collection",
+        "url": "https://yugen.to/anime/941/ninja-collection/"
+      }
+    }
+  }
+}

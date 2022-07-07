@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-06-12T06:08:23.000Z",
+  "updatedAt": "2021-06-12T06:38:18.000Z",
+  "checkedAt": null,
+  "id": 37344,
+  "identifier": "tokyo-underground-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tokyo Underground ",
+  "url": "https://gogoanime.vc/category/tokyo-underground-",
+  "image": "https://gogocdn.net/images/anime/T/tokyo-underground.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 175,
+  "aniId": 175,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T20:29:29.000Z",
+    "checkedAt": "2022-05-14T20:29:29.000Z",
+    "id": 175,
+    "type": "anime",
+    "title": "Tokyo Underground",
+    "altTitle": [
+      "Tokyo Underground",
+      "東京アンダーグラウンド"
+    ],
+    "url": "https://myanimelist.net/anime/175/Tokyo_Underground",
+    "image": "https://cdn.myanimelist.net/images/anime/9/21036.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/tug/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=20"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=888"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Underground"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 20
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T15:31:11.000Z",
+    "checkedAt": "2022-05-15T15:31:11.000Z",
+    "id": 175,
+    "type": "anime",
+    "title": "Tokyo Underground",
+    "altTitle": [
+      "Tokyo Underground",
+      "東京アンダーグラウンド"
+    ],
+    "url": "https://anilist.co/anime/175",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175-ccHowbNQMcdm.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 175,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T22:30:11.000Z",
+  "checkedAt": "2022-05-14T22:30:11.000Z",
+  "id": 9967,
+  "type": "anime",
+  "title": "W: Wish Omake",
+  "altTitle": [
+    "W Wish Special",
+    "W 〜ウィッシュ〜"
+  ],
+  "url": "https://myanimelist.net/anime/9967/W__Wish_Omake",
+  "image": "https://cdn.myanimelist.net/images/anime/13/27554.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://trinet.cata.jp/princess_hour/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2188"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4465"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/W_Wish"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2188,
+  "Pages": {
+    "9anime": {
+      "6k29": {
+        "createdAt": "2020-10-12T15:50:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3031,
+        "identifier": "6k29",
+        "type": "anime",
+        "page": "9anime",
+        "title": "W: Wish Omake",
+        "url": "https://9anime.to/watch/w-wish-omake.6k29",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hvYvMd2huFQ/Wipnk7IGjgI/AAAAAAAABr8/4fNctc-m2Fkgs474PBsBS14hVrKGF2jkQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9967,
+        "aniId": 9967,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9967": {
+        "identifier": "9967",
+        "malId": 9967,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "W: Wish Omake",
+        "url": "https://animixplay.to/anime/9967"
+      }
+    }
+  }
+}

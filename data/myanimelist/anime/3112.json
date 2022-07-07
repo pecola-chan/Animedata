@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2022-05-15T00:16:05.000Z",
+  "checkedAt": "2022-05-15T00:16:05.000Z",
+  "id": 3112,
+  "type": "anime",
+  "title": "Papillon Rose",
+  "altTitle": [
+    "Papillon Rose: New Season",
+    "Papillon Rose",
+    "パピヨンローゼ"
+  ],
+  "url": "https://myanimelist.net/anime/3112/Papillon_Rose",
+  "image": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ayaya.co.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3996"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6010"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Papillon_rose"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/papillon-rose"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3996,
+  "Pages": {
+    "9anime": {
+      "jlny": {
+        "createdAt": "2020-10-12T15:52:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4907,
+        "identifier": "jlny",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Papillon Rose",
+        "url": "https://9anime.to/watch/papillon-rose.jlny",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aVUFHRos0bM/V9fuKJtDAQI/AAAAAAAA91k/tUhrkipxxMU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3112,
+        "aniId": 3112,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "papillon-rose": {
+        "createdAt": "2021-12-25T18:28:17.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
+        "checkedAt": null,
+        "id": 39569,
+        "identifier": "papillon-rose",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Papillon Rose",
+        "url": "https://gogoanime.cm/category/papillon-rose",
+        "image": "https://gogocdn.net/cover/papillon-rose.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3112,
+        "aniId": 3112,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3112": {
+        "identifier": "3112",
+        "malId": 3112,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Papillon Rose",
+        "url": "https://animixplay.to/anime/3112"
+      }
+    },
+    "YugenAnime": {
+      "11462": {
+        "identifier": "11462",
+        "malId": 3112,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Papillon Rose",
+        "url": "https://yugen.to/anime/11462/papillon-rose/"
+      }
+    }
+  }
+}

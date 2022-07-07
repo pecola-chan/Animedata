@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-14T17:58:05.000Z",
+  "checkedAt": "2022-05-14T17:58:05.000Z",
+  "id": 12119,
+  "type": "anime",
+  "title": "Natsu-iro Kiseki",
+  "altTitle": [
+    "Natsuiro Kiseki",
+    "A Summer-Colored Miracle",
+    "夏色キセキ"
+  ],
+  "url": "https://myanimelist.net/anime/12119/Natsu-iro_Kiseki",
+  "image": "https://cdn.myanimelist.net/images/anime/5/53913.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.natsuiro-kiseki.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8804"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Natsuiro_Kiseki"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8804,
+  "Pages": {
+    "9anime": {
+      "nw8k": {
+        "createdAt": "2020-10-12T15:54:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7260,
+        "identifier": "nw8k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Natsu-iro Kiseki",
+        "url": "https://9anime.to/watch/natsu-iro-kiseki.nw8k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mCp48T-KzfU/V844ZpEDarI/AAAAAAAA7vw/XXtV4-NXvVE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12119,
+        "aniId": 12119,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "natsuiro-kiseki": {
+        "createdAt": "2020-12-04T18:55:12.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29651,
+        "identifier": "natsuiro-kiseki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Natsuiro Kiseki",
+        "url": "https://gogoanime.vc/category/natsuiro-kiseki",
+        "image": "https://gogocdn.net/images/anime/N/natsuiro-kiseki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12119,
+        "aniId": 12119,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "631": {
+        "identifier": "631",
+        "malId": 12119,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Natsu-iro Kiseki",
+        "url": "https://animepahe.com/a/631"
+      }
+    },
+    "AniMixPlay": {
+      "12119": {
+        "identifier": "12119",
+        "malId": 12119,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Natsu-iro Kiseki",
+        "url": "https://animixplay.to/anime/12119"
+      }
+    },
+    "YugenAnime": {
+      "3518": {
+        "identifier": "3518",
+        "malId": 12119,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Natsu-iro Kiseki",
+        "url": "https://yugen.to/anime/3518/natsuiro-kiseki/"
+      }
+    }
+  }
+}

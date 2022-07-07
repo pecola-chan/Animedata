@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-12-21T14:57:26.000Z",
+  "updatedAt": "2022-05-14T09:51:34.000Z",
+  "checkedAt": "2022-05-14T09:51:34.000Z",
+  "id": 40930,
+  "type": "anime",
+  "title": "Azur Lane: Bisoku Zenshin!",
+  "altTitle": [
+    "Azur Lane 4-koma: Slow Ahead!",
+    "Azur Lane: Slow Ahead!",
+    "アズールレーン びそくぜんしんっ!"
+  ],
+  "url": "https://myanimelist.net/anime/40930/Azur_Lane__Bisoku_Zenshin",
+  "image": "https://cdn.myanimelist.net/images/anime/1137/113872.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://azurlane-bisoku.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15327"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23825"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Azur_Lane"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280540"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15327,
+  "Pages": {
+    "9anime": {
+      "vwk2": {
+        "createdAt": "2020-10-12T15:56:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9486,
+        "identifier": "vwk2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Azur Lane: Bisoku Zenshin!",
+        "url": "https://9anime.to/watch/azur-lane-bisoku-zenshin.vwk2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/09/092c3e691c3ee680577437ae27c7ddd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40930,
+        "aniId": 114473,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "azur-lane-bisoku-zenshin": {
+        "createdAt": "2021-01-11T18:22:04.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33474,
+        "identifier": "azur-lane-bisoku-zenshin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Azur Lane: Bisoku Zenshin!",
+        "url": "https://gogoanime.vc/category/azur-lane-bisoku-zenshin",
+        "image": "https://gogocdn.net/cover/azur-lane-bisoku-zenshin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40930,
+        "aniId": 114473,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4223": {
+        "identifier": "4223",
+        "malId": 40930,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Azur Lane: Bisoku Zenshin!",
+        "url": "https://animepahe.com/a/4223"
+      }
+    },
+    "AniMixPlay": {
+      "40930": {
+        "identifier": "40930",
+        "malId": 40930,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Azur Lane: Bisoku Zenshin!",
+        "url": "https://animixplay.to/anime/40930"
+      }
+    },
+    "YugenAnime": {
+      "7127": {
+        "identifier": "7127",
+        "malId": 40930,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Azur Lane: Bisoku Zenshin!",
+        "url": "https://yugen.to/anime/7127/azur-lane-bisoku-zenshin/"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-06-07T00:30:06.000Z",
+  "checkedAt": "2022-06-07T00:30:06.000Z",
+  "id": 3846,
+  "type": "anime",
+  "title": "Microid S",
+  "altTitle": [
+    "Microsuperman",
+    "ミクロイドＳ"
+  ],
+  "url": "https://myanimelist.net/anime/3846/Microid_S",
+  "image": "https://cdn.myanimelist.net/images/anime/5/87095.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/microid_s/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1904"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1480"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%89S#.E3.82.A2.E3.83.8B.E3.83.A1.E7.89.88"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1904,
+  "Pages": {
+    "9anime": {
+      "55qq": {
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2542,
+        "identifier": "55qq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Microid S",
+        "url": "https://9anime.to/watch/microid-s.55qq",
+        "image": "https://static.akacdn.ru/files/images/2018/03/85b7dd666fd89ed17cfea070bbae3406.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3846,
+        "aniId": 3846,
+        "deletedAt": null
+      }
+    }
+  }
+}

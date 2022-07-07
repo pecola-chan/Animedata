@@ -1,0 +1,164 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:25:20.000Z",
+  "checkedAt": "2022-05-14T16:25:20.000Z",
+  "id": 37569,
+  "type": "anime",
+  "title": "Sirius",
+  "altTitle": [
+    "Tenrou",
+    "Sirius the Jaeger",
+    "天狼〈シリウス〉 Sirius the Jaeger"
+  ],
+  "url": "https://myanimelist.net/anime/37569/Sirius",
+  "image": "https://cdn.myanimelist.net/images/anime/1456/94897.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sirius-the-jaeger.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13959"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20894"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8B%BC_Sirius_the_Jaeger"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13959,
+  "Pages": {
+    "9anime": {
+      "8v73": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4025,
+        "identifier": "8v73",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sirius",
+        "url": "https://9anime.to/watch/sirius-the-jaeger.8v73",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/06/a2fad977565cd185f4ae513e14adcb84.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37569,
+        "aniId": 101361,
+        "deletedAt": null
+      },
+      "mplp": {
+        "createdAt": "2020-10-12T15:53:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6690,
+        "identifier": "mplp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sirius the Jaeger (Dub)",
+        "url": "https://9anime.to/watch/sirius-the-jaeger-dub.mplp",
+        "image": "https://static.akacdn.ru/static/images/2018/12/85808535659eb3a4517e5e544d98d11b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37569,
+        "aniId": 101361,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "legend-of-sirius-dub": {
+        "createdAt": "2020-10-12T16:01:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19088,
+        "identifier": "legend-of-sirius-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Legend of Sirius (Dub)",
+        "url": "https://gogoanime.vc/category/legend-of-sirius-dub",
+        "image": "https://gogocdn.net/cover/legend-of-sirius-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37569,
+        "aniId": 101361,
+        "deletedAt": null
+      },
+      "tenrou-sirius-the-jaeger": {
+        "createdAt": "2020-10-12T16:02:03.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21004,
+        "identifier": "tenrou-sirius-the-jaeger",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenrou: Sirius the Jaeger",
+        "url": "https://gogoanime.vc/category/tenrou-sirius-the-jaeger",
+        "image": "https://cdnimg.xyz/cover/tenrou-sirius-the-jaeger.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37569,
+        "aniId": 101361,
+        "deletedAt": null
+      },
+      "tenrou-sirius-the-jaeger-dub": {
+        "createdAt": "2021-01-09T11:21:41.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33300,
+        "identifier": "tenrou-sirius-the-jaeger-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenrou: Sirius the Jaeger (Dub)",
+        "url": "https://gogoanime.vc/category/tenrou-sirius-the-jaeger-dub",
+        "image": "https://gogocdn.net/cover/tenrou-sirius-the-jaeger-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37569,
+        "aniId": 101361,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2607": {
+        "identifier": "2607",
+        "malId": 37569,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sirius",
+        "url": "https://animepahe.com/a/2607"
+      }
+    },
+    "AniMixPlay": {
+      "37569": {
+        "identifier": "37569",
+        "malId": 37569,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sirius",
+        "url": "https://animixplay.to/anime/37569"
+      }
+    }
+  }
+}

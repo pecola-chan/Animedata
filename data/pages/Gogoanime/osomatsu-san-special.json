@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-01-10T19:51:36.000Z",
+  "updatedAt": "2021-05-20T15:21:58.000Z",
+  "checkedAt": null,
+  "id": 33401,
+  "identifier": "osomatsu-san-special",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Osomatsu-san Special",
+  "url": "https://gogoanime.vc/category/osomatsu-san-special",
+  "image": "https://gogocdn.net/cover/osomatsu-san-special.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 32026,
+  "aniId": 21510,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:41.000Z",
+    "updatedAt": "2022-05-15T03:05:56.000Z",
+    "checkedAt": "2022-05-15T03:05:56.000Z",
+    "id": 32026,
+    "type": "anime",
+    "title": "Osomatsu-san Special",
+    "altTitle": [
+      "Osomatsu-san Episode 3.5",
+      "Mr. Osomatsu Special",
+      "Mr. Osomatsu Episode 3.5: Virgin Heroes",
+      "おそ松さん"
+    ],
+    "url": "https://myanimelist.net/anime/32026/Osomatsu-san_Special",
+    "image": "https://cdn.myanimelist.net/images/anime/11/77727.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://osomatsusan.com/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:42:59.000Z",
+    "updatedAt": "2022-05-15T19:44:23.000Z",
+    "checkedAt": "2022-05-15T19:44:23.000Z",
+    "id": 21510,
+    "type": "anime",
+    "title": "Osomatsu-san Episode 3.5",
+    "altTitle": [
+      "Mr. Osomatsu Episode 3.5",
+      "おそ松さん 第3.5話"
+    ],
+    "url": "https://anilist.co/anime/21510",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21510-FgDYDwDMzAcQ.png",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/mr-osomatsu"
+      }
+    ],
+    "malId": 32026,
+    "deletedAt": null
+  }
+}

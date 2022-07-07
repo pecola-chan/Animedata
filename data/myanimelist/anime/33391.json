@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:46.000Z",
+  "updatedAt": "2022-05-14T23:23:11.000Z",
+  "checkedAt": "2022-05-14T23:23:11.000Z",
+  "id": 33391,
+  "type": "anime",
+  "title": "Red Ash: Gearworld",
+  "altTitle": [
+    "Wakate Animator Ikusei Project",
+    "2017 Young Animator Training Project",
+    "Anime Tamago",
+    "Red Ash: Magicicada",
+    "Red Ash -GEARWORLD-"
+  ],
+  "url": "https://myanimelist.net/anime/33391/Red_Ash__Gearworld",
+  "image": "https://cdn.myanimelist.net/images/anime/1977/112819.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11473"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11473,
+  "Pages": {
+    "9anime": {
+      "v897": {
+        "createdAt": "2020-10-12T15:55:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9299,
+        "identifier": "v897",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Red Ash: Gearworld",
+        "url": "https://9anime.to/watch/red-ash-gearworld.v897",
+        "image": "https://static.akacdn.ru/files/images/2018/04/5f3bbdd00458296bb86de38f4e5cf2f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33391,
+        "aniId": 21843,
+        "deletedAt": null
+      }
+    }
+  }
+}

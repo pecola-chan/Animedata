@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-15T08:36:32.000Z",
+  "checkedAt": "2022-05-15T08:36:32.000Z",
+  "id": 5926,
+  "type": "anime",
+  "title": "Antique Heart",
+  "altTitle": [
+    "アンティーク ハート"
+  ],
+  "url": "https://myanimelist.net/anime/5926/Antique_Heart",
+  "image": "https://cdn.myanimelist.net/images/anime/7/56121.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2648"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=814"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2648,
+  "Pages": {
+    "9anime": {
+      "28ml": {
+        "createdAt": "2020-10-12T15:49:25.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1319,
+        "identifier": "28ml",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Antique Heart",
+        "url": "https://9anime.to/watch/antique-heart.28ml",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GWQkDwBjKko/WQMMlDL3QmI/AAAAAAAAk2A/ajktqbruSZcL8t7cWfv91sh56gPF8Jy1ACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5926,
+        "aniId": 5926,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "2177": {
+        "identifier": "2177",
+        "malId": 5926,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Antique Heart",
+        "url": "https://yugen.to/anime/2177/antique-bakery/"
+      }
+    }
+  }
+}

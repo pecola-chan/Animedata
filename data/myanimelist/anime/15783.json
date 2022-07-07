@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-15T00:50:41.000Z",
+  "checkedAt": "2022-05-15T00:50:41.000Z",
+  "id": 15783,
+  "type": "anime",
+  "title": "Lupin III: Touhou Kenbunroku - Another Page",
+  "altTitle": [
+    "Lupin III: Record of Observations of the East - Another Page",
+    "ルパン三世 東方見聞録～アナザーページ～"
+  ],
+  "url": "https://myanimelist.net/anime/15783/Lupin_III__Touhou_Kenbunroku_-_Another_Page",
+  "image": "https://cdn.myanimelist.net/images/anime/2/45905.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9458"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14828"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lupin_III"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9458,
+  "Pages": {
+    "9anime": {
+      "1vlp": {
+        "createdAt": "2020-10-12T15:49:19.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1124,
+        "identifier": "1vlp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III: Touhou Kenbunroku - Another Page",
+        "url": "https://9anime.to/watch/lupin-iii-touhou-kenbunroku-another-page.1vlp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5BIn4IwTRsc/V_p8CuxzhEI/AAAAAAABF00/S8JkWoAo748/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15783,
+        "aniId": 15783,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "-lupin-iii-touhou-kenbunroku-another-page-2012": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16296,
+        "identifier": "-lupin-iii-touhou-kenbunroku-another-page-2012",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lupin III: Touhou Kenbunroku - Another Page (2012)",
+        "url": "https://gogoanime.vc/category/-lupin-iii-touhou-kenbunroku-another-page-2012",
+        "image": "https://cdnimg.xyz/images/005.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15783,
+        "aniId": 15783,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "15783": {
+        "identifier": "15783",
+        "malId": 15783,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lupin III: Touhou Kenbunroku - Another Page",
+        "url": "https://animixplay.to/anime/15783"
+      }
+    },
+    "YugenAnime": {
+      "5282": {
+        "identifier": "5282",
+        "malId": 15783,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lupin III: Touhou Kenbunroku - Another Page",
+        "url": "https://yugen.to/anime/5282/lupin-iii-touhou-kenbunroku-another-page-2012/"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-14T22:52:41.000Z",
+  "checkedAt": "2022-05-14T22:52:41.000Z",
+  "id": 18557,
+  "type": "anime",
+  "title": "High School Agent",
+  "altTitle": [
+    "ハイスクールAGENT, (ハイスクールAGENT II  Uボートを追え!)"
+  ],
+  "url": "https://myanimelist.net/anime/18557/High_School_Agent",
+  "image": "https://cdn.myanimelist.net/images/anime/5/49631.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5017"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7126"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%ABAGENT"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5017,
+  "Pages": {
+    "9anime": {
+      "46kk": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2149,
+        "identifier": "46kk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High School Agent",
+        "url": "https://9anime.to/watch/high-school-agent.46kk",
+        "image": "https://static.akacdn.ru/files/images/2018/05/eec3056fd5cef549a75b0bb84b96f620.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18557,
+        "aniId": 18557,
+        "deletedAt": null
+      }
+    }
+  }
+}

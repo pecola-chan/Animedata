@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T19:19:08.000Z",
+  "updatedAt": "2022-06-24T15:42:47.000Z",
+  "checkedAt": "2022-06-24T15:42:47.000Z",
+  "id": 20113,
+  "type": "anime",
+  "title": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+  "altTitle": [
+    "それいけ！アンパンマン　鉄火のマキちゃんと金のかまめしどん"
+  ],
+  "url": "https://myanimelist.net/anime/20113/Sore_Ike_Anpanman__Tekka_no_Maki-chan_to_Kin_no_Kamameshidon",
+  "image": "https://cdn.myanimelist.net/images/anime/7/53597.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7760"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7760,
+  "Pages": {
+    "9anime": {
+      "j4on": {
+        "createdAt": "2020-10-12T19:19:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23901,
+        "identifier": "j4on",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+        "url": "https://9anime.to/watch/sore-ike-anpanman-tekka-no-maki-chan-to-kin-no-kamameshidon.j4on",
+        "image": "//static.9anime.to/i/cache/images/2020/01/64a1b683f56853b123a8acf6ec291a17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20113,
+        "aniId": 20113,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "20113": {
+        "identifier": "20113",
+        "malId": 20113,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+        "url": "https://animixplay.to/anime/20113"
+      }
+    },
+    "YugenAnime": {
+      "7955": {
+        "identifier": "7955",
+        "malId": 20113,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+        "url": "https://yugen.to/anime/7955/sore-ike-anpanman-tekka-no-maki-chan-to-kin-no-kamameshidon/"
+      }
+    }
+  }
+}

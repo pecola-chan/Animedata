@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T21:20:54.000Z",
+  "checkedAt": "2022-05-14T21:20:54.000Z",
+  "id": 11123,
+  "type": "anime",
+  "title": "Sekaiichi Hatsukoi 2",
+  "altTitle": [
+    "Sekai-ichi Hatsukoi 2",
+    "Sekai'ichi Hatsukoi 2",
+    "Sekai Ichi Hatsukoi - World's Greatest First Love 2",
+    "世界一初恋 2"
+  ],
+  "url": "https://myanimelist.net/anime/11123/Sekaiichi_Hatsukoi_2",
+  "image": "https://cdn.myanimelist.net/images/anime/8/34871.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sekai-ichi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8567"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13288"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sekai-ichi_Hatsukoi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/sekai-ichi-hatsukoi-the-worlds-greatest-first-love"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8567,
+  "Pages": {
+    "9anime": {
+      "3pr8": {
+        "createdAt": "2020-10-12T15:49:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1908,
+        "identifier": "3pr8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sekaiichi Hatsukoi 2",
+        "url": "https://9anime.to/watch/sekaiichi-hatsukoi-2.3pr8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-IEfj7uqQUu4/V6nkzdX46KI/AAAAAAAA1vc/SAWGJIy4nUA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11123,
+        "aniId": 11123,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sekai-ichi-hatsukoi-2": {
+        "createdAt": "2020-10-12T17:47:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23642,
+        "identifier": "sekai-ichi-hatsukoi-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sekai Ichi Hatsukoi 2",
+        "url": "https://gogoanime.vc/category/sekai-ichi-hatsukoi-2",
+        "image": "https://gogocdn.net/images/anime/S/sekai-ichi-hatsukoi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 11123,
+        "aniId": 11123,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "11123": {
+        "identifier": "11123",
+        "malId": 11123,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sekaiichi Hatsukoi 2",
+        "url": "https://animixplay.to/anime/11123"
+      }
+    },
+    "YugenAnime": {
+      "6058": {
+        "identifier": "6058",
+        "malId": 11123,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sekaiichi Hatsukoi 2",
+        "url": "https://yugen.to/anime/6058/sekai-ichi-hatsukoi-2/"
+      }
+    }
+  }
+}

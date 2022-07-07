@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T16:29:43.000Z",
+  "checkedAt": "2022-05-14T16:29:43.000Z",
+  "id": 10162,
+  "type": "anime",
+  "title": "Usagi Drop",
+  "altTitle": [
+    "Usagi Drop",
+    "Bunny Drop",
+    "うさぎドロップ"
+  ],
+  "url": "https://myanimelist.net/anime/10162/Usagi_Drop",
+  "image": "https://cdn.myanimelist.net/images/anime/2/29665.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.usagi-drop.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8211"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12398"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bunny_Drop"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-234151"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/bunny-drop"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8211,
+  "Pages": {
+    "9anime": {
+      "nr88": {
+        "createdAt": "2020-10-12T15:54:00.000Z",
+        "updatedAt": "2022-06-14T01:01:40.000Z",
+        "checkedAt": "2022-06-14T01:01:40.000Z",
+        "id": 7221,
+        "identifier": "nr88",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Usagi Drop",
+        "url": "https://9anime.to/watch/bunny-drop.nr88",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/8fdd8376e0c57c1fa5725775bac2db19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10162,
+        "aniId": 10162,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "usagi-drop": {
+        "createdAt": "2020-10-12T16:02:12.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21328,
+        "identifier": "usagi-drop",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Usagi Drop",
+        "url": "https://gogoanime.vc/category/usagi-drop",
+        "image": "https://cdnimg.xyz/images/anime/U/usagi-drop.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10162,
+        "aniId": 10162,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1297": {
+        "identifier": "1297",
+        "malId": 10162,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Usagi Drop",
+        "url": "https://animepahe.com/a/1297"
+      }
+    },
+    "AniMixPlay": {
+      "10162": {
+        "identifier": "10162",
+        "malId": 10162,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Usagi Drop",
+        "url": "https://animixplay.to/anime/10162"
+      }
+    },
+    "YugenAnime": {
+      "180": {
+        "identifier": "180",
+        "malId": 10162,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Usagi Drop",
+        "url": "https://yugen.to/anime/180/usagi-drop/"
+      }
+    }
+  }
+}

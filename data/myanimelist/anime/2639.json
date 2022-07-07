@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-20T17:21:12.000Z",
+  "checkedAt": "2022-05-20T17:21:12.000Z",
+  "id": 2639,
+  "type": "anime",
+  "title": "Dorami-chan: Hello Kyouryuu Kids!!",
+  "altTitle": [
+    "Dorami-chan: Hello, Dynosis Kids!!",
+    "ドラミちゃん ハロー恐竜キッズ!!"
+  ],
+  "url": "https://myanimelist.net/anime/2639/Dorami-chan__Hello_Kyouryuu_Kids",
+  "image": "https://cdn.myanimelist.net/images/anime/4/29227.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dora-world.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7011"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1933"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7011,
+  "Pages": {
+    "9anime": {
+      "zplm": {
+        "createdAt": "2020-10-12T15:57:15.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11248,
+        "identifier": "zplm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dorami-chan: Hello Kyouryuu Kids!!",
+        "url": "https://9anime.to/watch/dorami-chan-hello-kyouryuu-kids.zplm",
+        "image": "https://static.akacdn.ru/files/images/2018/03/fa9e0d478b39e4557cae0aa417eb13bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2639,
+        "aniId": 2639,
+        "deletedAt": null
+      }
+    }
+  }
+}

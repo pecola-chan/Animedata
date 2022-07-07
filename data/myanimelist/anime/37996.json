@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T21:09:59.000Z",
+  "checkedAt": "2022-05-14T21:09:59.000Z",
+  "id": 37996,
+  "type": "anime",
+  "title": "Asobi Asobase: Cosplay Taikai/Otona no Watashi e",
+  "altTitle": [
+    "Asobi Asobase OVA",
+    "あそびあそばせ コスプレ大会 / 大人の私へ"
+  ],
+  "url": "https://myanimelist.net/anime/37996/Asobi_Asobase__Cosplay_Taikai_Otona_no_Watashi_e",
+  "image": "https://cdn.myanimelist.net/images/anime/1539/98126.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14127"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14127,
+  "Pages": {
+    "9anime": {
+      "w2m6": {
+        "createdAt": "2020-10-12T15:56:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9618,
+        "identifier": "w2m6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asobi Asobase OVA",
+        "url": "https://9anime.to/watch/asobi-asobase-ova.w2m6",
+        "image": "https://static.akacdn.ru/static/images/2019/01/8ee24e9d2ef8dbb9000673d43ffe2bed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37996,
+        "aniId": 104170,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "asobi-asobase-ova": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16622,
+        "identifier": "asobi-asobase-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Asobi Asobase OVA",
+        "url": "https://gogoanime.vc/category/asobi-asobase-ova",
+        "image": "https://cdnimg.xyz/cover/asobi-asobase-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37996,
+        "aniId": 104170,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3300": {
+        "identifier": "3300",
+        "malId": 37996,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Asobi Asobase: Cosplay Taikai/Otona no Watashi e",
+        "url": "https://animepahe.com/a/3300"
+      }
+    },
+    "AniMixPlay": {
+      "37996": {
+        "identifier": "37996",
+        "malId": 37996,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Asobi Asobase: Cosplay Taikai/Otona no Watashi e",
+        "url": "https://animixplay.to/anime/37996"
+      }
+    },
+    "YugenAnime": {
+      "6246": {
+        "identifier": "6246",
+        "malId": 37996,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Asobi Asobase: Cosplay Taikai/Otona no Watashi e",
+        "url": "https://yugen.to/anime/6246/asobi-asobase-ova/"
+      }
+    }
+  }
+}

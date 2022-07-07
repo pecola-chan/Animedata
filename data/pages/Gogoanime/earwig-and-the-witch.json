@@ -1,0 +1,89 @@
+{
+  "createdAt": "2021-02-18T16:13:42.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 34906,
+  "identifier": "earwig-and-the-witch",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Earwig and the Witch",
+  "url": "https://gogoanime.vc/category/earwig-and-the-witch",
+  "image": "https://gogocdn.net/cover/earwig-and-the-witch.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 42143,
+  "aniId": 119321,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-01-16T04:02:41.000Z",
+    "updatedAt": "2022-05-14T18:44:35.000Z",
+    "checkedAt": "2022-05-14T18:44:35.000Z",
+    "id": 42143,
+    "type": "anime",
+    "title": "Aya to Majo",
+    "altTitle": [
+      "Earwig and the Witch",
+      "アーヤと魔女"
+    ],
+    "url": "https://myanimelist.net/anime/42143/Aya_to_Majo",
+    "image": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.aya-and-the-witch.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15587"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23478"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Earwig_and_the_Witch"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 15587
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:06.000Z",
+    "updatedAt": "2022-05-15T18:13:59.000Z",
+    "checkedAt": "2022-05-15T18:13:59.000Z",
+    "id": 119321,
+    "type": "anime",
+    "title": "Aya to Majo",
+    "altTitle": [
+      "Earwig and the Witch",
+      "アーヤと魔女",
+      "Aya and the Witch",
+      "Aya et la Sorcière",
+      "Earwig y la bruja",
+      "Aya og heksen"
+    ],
+    "url": "https://anilist.co/anime/119321",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119321-Gc4A3x0vNgWH.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81316559"
+      }
+    ],
+    "malId": 42143,
+    "deletedAt": null
+  }
+}

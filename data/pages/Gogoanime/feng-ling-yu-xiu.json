@@ -1,0 +1,74 @@
+{
+  "createdAt": "2021-01-01T03:07:46.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32241,
+  "identifier": "feng-ling-yu-xiu",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Feng Ling Yu Xiu",
+  "url": "https://gogoanime.vc/category/feng-ling-yu-xiu",
+  "image": "https://gogocdn.net/cover/feng-ling-yu-xiu.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36184,
+  "aniId": 101843,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:56.000Z",
+    "updatedAt": "2022-05-14T19:40:41.000Z",
+    "checkedAt": "2022-05-14T19:40:41.000Z",
+    "id": 36184,
+    "type": "anime",
+    "title": "Feng Ling Yu Xiu",
+    "altTitle": [
+      "Spirit Wind Elegance",
+      "Soulmate Adventure",
+      "风灵玉秀"
+    ],
+    "url": "https://myanimelist.net/anime/36184/Feng_Ling_Yu_Xiu",
+    "image": "https://cdn.myanimelist.net/images/anime/1658/115791.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bangumi.bilibili.com/anime/6038?from=search&seid=9949567847205440611"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13447"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E9%A3%8E%E7%81%B5%E7%8E%89%E7%A7%80"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13447
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:25.000Z",
+    "updatedAt": "2022-05-15T18:57:59.000Z",
+    "checkedAt": "2022-05-15T18:57:59.000Z",
+    "id": 101843,
+    "type": "anime",
+    "title": "Feng Ling Yu Xiu",
+    "altTitle": [
+      "Soulmate Adventure",
+      "风灵玉秀",
+      "Spirit Wind Elegance",
+      "Sunflowers"
+    ],
+    "url": "https://anilist.co/anime/101843",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101843-laathNFvU2IR.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36184,
+    "deletedAt": null
+  }
+}

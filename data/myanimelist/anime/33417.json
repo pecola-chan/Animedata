@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:39:46.000Z",
+  "updatedAt": "2022-05-14T16:15:32.000Z",
+  "checkedAt": "2022-05-14T16:15:32.000Z",
+  "id": 33417,
+  "type": "anime",
+  "title": "Super Lovers 2",
+  "altTitle": [
+    "Super Lovers Second Season",
+    "Super Lovers 2",
+    "SUPER LOVERS（スーパーラヴァーズ）  2"
+  ],
+  "url": "https://myanimelist.net/anime/33417/Super_Lovers_2",
+  "image": "https://cdn.myanimelist.net/images/anime/9/83807.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://superlovers-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12197"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18715"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12197,
+  "Pages": {
+    "9anime": {
+      "8z0q": {
+        "createdAt": "2020-10-12T15:51:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4108,
+        "identifier": "8z0q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super Lovers 2",
+        "url": "https://9anime.to/watch/super-lovers-2.8z0q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TDmvZLg3d_w/V_-vKgbHBeI/AAAAAAABHUQ/q4cT5p9gvRo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33417,
+        "aniId": 21836,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1558": {
+        "identifier": "1558",
+        "malId": 33417,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Super Lovers 2",
+        "url": "https://animepahe.com/a/1558"
+      }
+    },
+    "AniMixPlay": {
+      "33417": {
+        "identifier": "33417",
+        "malId": 33417,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Super Lovers 2",
+        "url": "https://animixplay.to/anime/33417"
+      }
+    },
+    "YugenAnime": {
+      "3548": {
+        "identifier": "3548",
+        "malId": 33417,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Super Lovers 2",
+        "url": "https://yugen.to/anime/3548/super-lovers-2/"
+      }
+    }
+  }
+}

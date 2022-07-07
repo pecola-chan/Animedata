@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-15T01:36:07.000Z",
+  "checkedAt": "2022-05-15T01:36:07.000Z",
+  "id": 5031,
+  "type": "anime",
+  "title": "Cobra The Animation: Time Drive",
+  "altTitle": [
+    "COBRA THE ANIMATION タイム・ドライブ"
+  ],
+  "url": "https://myanimelist.net/anime/5031/Cobra_The_Animation__Time_Drive",
+  "image": "https://cdn.myanimelist.net/images/anime/11/14093.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cobra30th-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6392"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10119"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Adventure_Cobra"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/cobra-time-drive"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6392,
+  "Pages": {
+    "9anime": {
+      "zw7l": {
+        "createdAt": "2020-10-12T15:57:16.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11310,
+        "identifier": "zw7l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cobra The Animation: Time Drive",
+        "url": "https://9anime.to/watch/cobra-the-animation-time-drive.zw7l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mG9rNgjbTCg/V9J1yzmZ6CI/AAAAAAAA8yg/NwwGPvjwV9U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5031,
+        "aniId": 5031,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cobra-the-animation-time-drive-ova": {
+        "createdAt": "2020-11-13T20:53:09.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29177,
+        "identifier": "cobra-the-animation-time-drive-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cobra The Animation: Time Drive (OVA)",
+        "url": "https://gogoanime.vc/category/cobra-the-animation-time-drive-ova",
+        "image": "https://gogocdn.net/images/anime/C/21988.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 5031,
+        "aniId": 5031,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5031": {
+        "identifier": "5031",
+        "malId": 5031,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cobra The Animation: Time Drive",
+        "url": "https://animixplay.to/anime/5031"
+      }
+    },
+    "YugenAnime": {
+      "5742": {
+        "identifier": "5742",
+        "malId": 5031,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cobra The Animation: Time Drive",
+        "url": "https://yugen.to/anime/5742/cobra-the-animation-time-drive-ova/"
+      }
+    }
+  }
+}

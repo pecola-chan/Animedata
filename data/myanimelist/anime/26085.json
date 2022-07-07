@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T16:48:26.000Z",
+  "checkedAt": "2022-05-14T16:48:26.000Z",
+  "id": 26085,
+  "type": "anime",
+  "title": "Military!",
+  "altTitle": [
+    "Miritari!",
+    "みりたり!"
+  ],
+  "url": "https://myanimelist.net/anime/26085/Military",
+  "image": "https://cdn.myanimelist.net/images/anime/4/68837.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dreamcreation.co.jp/militari/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10751"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16471"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Miritari!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-264635"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10751,
+  "Pages": {
+    "9anime": {
+      "6ly9": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3069,
+        "identifier": "6ly9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Military!",
+        "url": "https://9anime.to/watch/military.6ly9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GFjrHk2cq3I/V5GjnxmsO-I/AAAAAAAAxGY/qqNgSxtljcI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26085,
+        "aniId": 20793,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "military-": {
+        "createdAt": "2020-11-22T21:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29536,
+        "identifier": "military-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Military!",
+        "url": "https://gogoanime.vc/category/military-",
+        "image": "https://gogocdn.net/images/upload/164404.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 26085,
+        "aniId": 20793,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2068": {
+        "identifier": "2068",
+        "malId": 26085,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Military!",
+        "url": "https://animepahe.com/a/2068"
+      }
+    },
+    "AniMixPlay": {
+      "26085": {
+        "identifier": "26085",
+        "malId": 26085,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Military!",
+        "url": "https://animixplay.to/anime/26085"
+      }
+    },
+    "YugenAnime": {
+      "454": {
+        "identifier": "454",
+        "malId": 26085,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Military!",
+        "url": "https://yugen.to/anime/454/military/"
+      }
+    }
+  }
+}

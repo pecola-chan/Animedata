@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T18:01:41.000Z",
+  "checkedAt": "2022-05-14T18:01:41.000Z",
+  "id": 32947,
+  "type": "anime",
+  "title": "Battery",
+  "altTitle": [
+    "バッテリー"
+  ],
+  "url": "https://myanimelist.net/anime/32947/Battery",
+  "image": "https://cdn.myanimelist.net/images/anime/6/79158.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.battery-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11996"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18153"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Battery_(novel_series)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11996,
+  "Pages": {
+    "9anime": {
+      "9o6q": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4381,
+        "identifier": "9o6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battery",
+        "url": "https://9anime.to/watch/battery.9o6q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aGBnETes6Zk/V5bY9OYKR0I/AAAAAAAAyDM/JbzVCeN8Za4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32947,
+        "aniId": 21702,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "battery": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16743,
+        "identifier": "battery",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Battery",
+        "url": "https://gogoanime.vc/category/battery",
+        "image": "https://cdnimg.xyz/cover/battery.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32947,
+        "aniId": 21702,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1115": {
+        "identifier": "1115",
+        "malId": 32947,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Battery",
+        "url": "https://animepahe.com/a/1115"
+      }
+    },
+    "AniMixPlay": {
+      "32947": {
+        "identifier": "32947",
+        "malId": 32947,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Battery",
+        "url": "https://animixplay.to/anime/32947"
+      }
+    },
+    "YugenAnime": {
+      "480": {
+        "identifier": "480",
+        "malId": 32947,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Battery",
+        "url": "https://yugen.to/anime/480/battery/"
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2022-05-15T00:55:59.000Z",
+  "checkedAt": "2022-05-15T00:55:59.000Z",
+  "id": 1083,
+  "type": "anime",
+  "title": "Ningen Kousaten",
+  "altTitle": [
+    "Human Scramble",
+    "Human Crossing",
+    "人間交差点"
+  ],
+  "url": "https://myanimelist.net/anime/1083/Ningen_Kousaten",
+  "image": "https://cdn.myanimelist.net/images/anime/10/13113.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=656"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2978"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_Crossing"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/human-crossing"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 656,
+  "Pages": {
+    "9anime": {
+      "9q0n": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4400,
+        "identifier": "9q0n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Human Crossing",
+        "url": "https://9anime.to/watch/human-crossing.9q0n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7n7qMSD5ZqY/WHiHopIqDmI/AAAAAAABZCA/vP6wlKl9MzE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1083,
+        "aniId": 1083,
+        "deletedAt": null
+      },
+      "o025": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7314,
+        "identifier": "o025",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Human Crossing (Dub)",
+        "url": "https://9anime.to/watch/human-crossing-dub.o025",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uu-mUFcOWms/WJw7LjzBIpI/AAAAAAABcb8/PMf1d0Mlrgw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1083,
+        "aniId": 1083,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "human-crossing": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18394,
+        "identifier": "human-crossing",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Human Crossing",
+        "url": "https://gogoanime.vc/category/human-crossing",
+        "image": "https://cdnimg.xyz/cover/human-crossing.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1083,
+        "aniId": 1083,
+        "deletedAt": null
+      },
+      "human-crossing-dub": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18395,
+        "identifier": "human-crossing-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Human Crossing (Dub)",
+        "url": "https://gogoanime.vc/category/human-crossing-dub",
+        "image": "https://gogocdn.net/cover/human-crossing-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1083,
+        "aniId": 1083,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1083": {
+        "identifier": "1083",
+        "malId": 1083,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ningen Kousaten",
+        "url": "https://animixplay.to/anime/1083"
+      }
+    },
+    "YugenAnime": {
+      "923": {
+        "identifier": "923",
+        "malId": 1083,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Human Crossing",
+        "url": "https://yugen.to/anime/923/human-crossing/"
+      }
+    }
+  }
+}

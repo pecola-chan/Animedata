@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-05-13T16:36:44.000Z",
+  "checkedAt": "2022-05-13T16:36:44.000Z",
+  "id": 30015,
+  "type": "anime",
+  "title": "ReLIFE",
+  "altTitle": [
+    "Re LIFE",
+    "ReLIFE",
+    "ReLIFE"
+  ],
+  "url": "https://myanimelist.net/anime/30015/ReLIFE",
+  "image": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.relife-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11074"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16917"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ReLIFE"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270239"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11074,
+  "Pages": {
+    "9anime": {
+      "v2j2": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9174,
+        "identifier": "v2j2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ReLIFE (Dub)",
+        "url": "https://9anime.to/watch/relife-dub.v2j2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sexS5Om_Res/WC0m5e0Wz7I/AAAAAAABPK8/h6zaXEX_4KM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30015,
+        "aniId": 21049,
+        "deletedAt": null
+      },
+      "yk0": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10699,
+        "identifier": "yk0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ReLIFE",
+        "url": "https://9anime.to/watch/relife.yk0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LuqZXjjne84/V2loCeRP-GI/AAAAAAAAp4c/52h67g5QMBo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30015,
+        "aniId": 21049,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "relife": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-10-25T21:31:46.000Z",
+        "checkedAt": null,
+        "id": 20263,
+        "identifier": "relife",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "ReLIFE",
+        "url": "https://gogoanime.pe/category/relife",
+        "image": "https://gogocdn.net/cover/relife.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30015,
+        "aniId": 21049,
+        "deletedAt": null
+      },
+      "relife-dub": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20264,
+        "identifier": "relife-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "ReLIFE (Dub)",
+        "url": "https://gogoanime.vc/category/relife-dub",
+        "image": "https://cdnimg.xyz/cover/relife-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30015,
+        "aniId": 21049,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1092": {
+        "identifier": "1092",
+        "malId": 30015,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ReLIFE",
+        "url": "https://animepahe.com/a/1092"
+      }
+    },
+    "AniMixPlay": {
+      "30015": {
+        "identifier": "30015",
+        "malId": 30015,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ReLIFE",
+        "url": "https://animixplay.to/anime/30015"
+      }
+    },
+    "YugenAnime": {
+      "1354": {
+        "identifier": "1354",
+        "malId": 30015,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "ReLIFE",
+        "url": "https://yugen.to/anime/1354/relife/"
+      }
+    }
+  }
+}

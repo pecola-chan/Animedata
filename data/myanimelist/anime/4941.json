@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-06-08T05:05:26.000Z",
+  "checkedAt": "2022-06-08T05:05:26.000Z",
+  "id": 4941,
+  "type": "anime",
+  "title": "Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken",
+  "altTitle": [
+    "Last Miracle 20th Century",
+    "Tezuka Osamu's Strangest Case in the 20th Century",
+    "Osamu Tezuka's Last Mystery of the 20th Century",
+    "手塚治虫が消えた?! 20世紀最後の怪事件"
+  ],
+  "url": "https://myanimelist.net/anime/4941/Tezuka_Osamu_ga_Kieta_20_Seiki_Saigo_no_Kaijiken",
+  "image": "https://cdn.myanimelist.net/images/anime/9/9503.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tezukaosamu.net/jp/anime/152.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8488"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10988"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB%E3%81%8C%E6%B6%88%E3%81%88%E3%81%9F!%3F_20%E4%B8%96%E7%B4%80%E6%9C%80%E5%BE%8C%E3%81%AE%E6%80%AA%E4%BA%8B%E4%BB%B6"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8488,
+  "Pages": {
+    "9anime": {
+      "5ov9": {
+        "createdAt": "2020-10-12T15:50:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2727,
+        "identifier": "5ov9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tezuka Osamu ga Kieta?! 20 Seiki Saigo no Kaijiken",
+        "url": "https://9anime.to/watch/tezuka-osamu-ga-kieta-20-seiki-saigo-no-kaijiken.5ov9",
+        "image": "https://static.akacdn.ru/files/images/2019/06/c24d215adb85150a73deb9bd0ed08459.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4941,
+        "aniId": 4941,
+        "deletedAt": null
+      }
+    }
+  }
+}

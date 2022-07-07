@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-14T16:43:03.000Z",
+  "checkedAt": "2022-05-14T16:43:03.000Z",
+  "id": 7645,
+  "type": "anime",
+  "title": "Heartcatch Precure!",
+  "altTitle": [
+    "Heartcatch Pretty Cure!",
+    "ハートキャッチプリキュア!"
+  ],
+  "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
+  "image": "https://cdn.myanimelist.net/images/anime/2/25915.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/hc_precure/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7285"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11195"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/HeartCatch_PreCure"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7285,
+  "Pages": {
+    "9anime": {
+      "2o50": {
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1452,
+        "identifier": "2o50",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Heartcatch Precure!",
+        "url": "https://9anime.to/watch/heartcatch-precure.2o50",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zqsNrpdlTdE/V5YZ4iz7ZMI/AAAAAAAAx8M/jjpIDCKtzAI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7645,
+        "aniId": 7645,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "heartcatch-precure-": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18213,
+        "identifier": "heartcatch-precure-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Heartcatch Precure! ",
+        "url": "https://gogoanime.vc/category/heartcatch-precure-",
+        "image": "https://gogocdn.net/images/anime/H/heartcatch-precure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7645,
+        "aniId": 7645,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7645": {
+        "identifier": "7645",
+        "malId": 7645,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Heartcatch Precure!",
+        "url": "https://animixplay.to/anime/7645"
+      }
+    },
+    "YugenAnime": {
+      "965": {
+        "identifier": "965",
+        "malId": 7645,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Heartcatch Precure!",
+        "url": "https://yugen.to/anime/965/heartcatch-precure/"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T22:27:18.000Z",
+  "checkedAt": "2022-05-14T22:27:18.000Z",
+  "id": 445,
+  "type": "anime",
+  "title": "Tales of Eternia The Animation",
+  "altTitle": [
+    "ToE",
+    "Tales of Eternia",
+    "テイルズ オブ エターニア THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/445/Tales_of_Eternia_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/11/42089.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bs11.jp/anime/106/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=389"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=852"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tales_of_Eternia"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 389,
+  "Pages": {
+    "9anime": {
+      "qq93": {
+        "createdAt": "2020-10-12T15:55:13.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8525,
+        "identifier": "qq93",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tales of Eternia The Animation",
+        "url": "https://9anime.to/watch/tales-of-eternia-the-animation.qq93",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nlRiH2dLyO8/V-UcgoavNWI/AAAAAAABAGc/Rk2sXop_Ooo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 445,
+        "aniId": 445,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tales-of-eternia": {
+        "createdAt": "2020-10-12T16:02:00.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20929,
+        "identifier": "tales-of-eternia",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tales of Eternia",
+        "url": "https://gogoanime.vc/category/tales-of-eternia",
+        "image": "https://cdnimg.xyz/images/anime/T/tales-of-eternia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 445,
+        "aniId": 445,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "445": {
+        "identifier": "445",
+        "malId": 445,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tales of Eternia The Animation",
+        "url": "https://animixplay.to/anime/445"
+      }
+    },
+    "YugenAnime": {
+      "2940": {
+        "identifier": "2940",
+        "malId": 445,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tales of Eternia The Animation",
+        "url": "https://yugen.to/anime/2940/tales-of-eternia/"
+      }
+    }
+  }
+}

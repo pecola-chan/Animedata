@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T17:16:46.000Z",
+  "checkedAt": "2022-05-14T17:16:46.000Z",
+  "id": 4282,
+  "type": "anime",
+  "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+  "altTitle": [
+    "Kara no Kyoukai: The Garden of Sinners Movie 5",
+    "Borderline of Emptiness: Paradox Spiral",
+    "The Garden of Sinners: Paradox Paradigm",
+    "the Garden of sinners Chapter 5: Paradox Paradigm",
+    "劇場版 空の境界 the Garden of sinners 第五章『矛盾螺旋』"
+  ],
+  "url": "https://myanimelist.net/anime/4282/Kara_no_Kyoukai_Movie_5__Mujun_Rasen",
+  "image": "https://cdn.myanimelist.net/images/anime/1574/112838.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.karanokyoukai.com/archive/chapter5.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4932"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7472"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kara_no_Ky%C5%8Dkai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4932,
+  "Pages": {
+    "9anime": {
+      "wovl": {
+        "createdAt": "2020-10-12T15:56:12.000Z",
+        "updatedAt": "2022-02-12T02:11:28.000Z",
+        "checkedAt": null,
+        "id": 9864,
+        "identifier": "wovl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kara no Kyoukai: Mujun Rasen",
+        "url": "https://9anime.to/watch/the-garden-of-sinners-chapter-5-paradox-paradigm.wovl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/9d447d2a994c8e8017a56586a3cc5289.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4282,
+        "aniId": 4282,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "760": {
+        "identifier": "760",
+        "malId": 4282,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+        "url": "https://animepahe.com/a/760"
+      }
+    },
+    "AniMixPlay": {
+      "4282": {
+        "identifier": "4282",
+        "malId": 4282,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+        "url": "https://animixplay.to/anime/4282"
+      }
+    }
+  }
+}

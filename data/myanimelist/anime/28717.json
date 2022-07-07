@@ -1,0 +1,58 @@
+{
+  "createdAt": "2021-02-07T17:20:05.000Z",
+  "updatedAt": "2022-05-14T20:58:05.000Z",
+  "checkedAt": "2022-05-14T20:58:05.000Z",
+  "id": 28717,
+  "type": "anime",
+  "title": "Luigi's Toy Adventure",
+  "altTitle": [
+    "S.H. Figuarts Super Mario Luigi",
+    "S.H.Figuarts スーパーマリオシリーズ(SUPER MARIO SERIES) プロモ映像"
+  ],
+  "url": "https://myanimelist.net/anime/28717/Luigis_Toy_Adventure",
+  "image": "https://cdn.myanimelist.net/images/anime/3/69333.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tamashii.jp/special/shf_mario/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "kqm4": {
+        "createdAt": "2021-02-07T17:20:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34616,
+        "identifier": "kqm4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Luigi's Toy Adventure",
+        "url": "https://9anime.to/watch/luigis-toy-adventure.kqm4",
+        "image": "//static.bunnycdn.ru/i/cache/images/2/24/24d121531e56945d44255aaab8b51de9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28717,
+        "aniId": 103364,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "1206": {
+        "identifier": "1206",
+        "malId": 28717,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Luigi's Toy Adventure",
+        "url": "https://yugen.to/anime/1206/photon-the-idiot-adventures/"
+      }
+    }
+  }
+}

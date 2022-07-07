@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T19:14:17.000Z",
+  "checkedAt": "2022-05-14T19:14:17.000Z",
+  "id": 19315,
+  "type": "anime",
+  "title": "Pupa",
+  "altTitle": [
+    "Pupa",
+    "Pupa (ピューパ)"
+  ],
+  "url": "https://myanimelist.net/anime/19315/Pupa",
+  "image": "https://cdn.myanimelist.net/images/anime/2/54395.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pupa-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9804"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15248"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Pupa_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9804,
+  "Pages": {
+    "9anime": {
+      "v9v7": {
+        "createdAt": "2020-10-12T15:55:51.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9329,
+        "identifier": "v9v7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pupa",
+        "url": "https://9anime.to/watch/pupa.v9v7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3r_lh-1d6Qk/V6nOi9iY8ZI/AAAAAAAA1uI/XaW3JMSiz6c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19315,
+        "aniId": 19315,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pupa": {
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20190,
+        "identifier": "pupa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pupa",
+        "url": "https://gogoanime.vc/category/pupa",
+        "image": "https://cdnimg.xyz/images/Pupa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19315,
+        "aniId": 19315,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1023": {
+        "identifier": "1023",
+        "malId": 19315,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pupa",
+        "url": "https://animepahe.com/a/1023"
+      }
+    },
+    "AniMixPlay": {
+      "19315": {
+        "identifier": "19315",
+        "malId": 19315,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pupa",
+        "url": "https://animixplay.to/anime/19315"
+      }
+    },
+    "YugenAnime": {
+      "3050": {
+        "identifier": "3050",
+        "malId": 19315,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pupa",
+        "url": "https://yugen.to/anime/3050/pupa/"
+      }
+    }
+  }
+}

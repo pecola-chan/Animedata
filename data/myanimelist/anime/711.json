@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-15T01:02:17.000Z",
+  "checkedAt": "2022-05-15T01:02:17.000Z",
+  "id": 711,
+  "type": "anime",
+  "title": "Uchuu Senkan Yamato (Movie)",
+  "altTitle": [
+    "Space Battleship Yamato",
+    "宇宙戦艦ヤマト"
+  ],
+  "url": "https://myanimelist.net/anime/711/Uchuu_Senkan_Yamato_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/11/83048.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bandaivisual.co.jp/yamato/data/1_yamato.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2814"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3751"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/space-battleship-yamato"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2814,
+  "Pages": {
+    "9anime": {
+      "jl48": {
+        "createdAt": "2020-10-12T15:52:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4895,
+        "identifier": "jl48",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu Senkan Yamato (Movie)",
+        "url": "https://9anime.to/watch/uchuu-senkan-yamato-movie.jl48",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-r-xHGuStqqU/V-pMMwMF9JI/AAAAAAABBfY/hN0Ec46Lo_o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 711,
+        "aniId": 711,
+        "deletedAt": null
+      },
+      "qxkv3": {
+        "createdAt": "2022-02-27T07:49:20.000Z",
+        "updatedAt": "2022-02-27T08:17:39.000Z",
+        "checkedAt": null,
+        "id": 40327,
+        "identifier": "qxkv3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu Senkan Yamato (Movie) (Dub)",
+        "url": "https://9anime.to/watch/space-battleship-yamato-dub.qxkv3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fc/fc10482047a1976906c3137f33f0b42f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 711,
+        "aniId": 711,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4353": {
+        "identifier": "4353",
+        "malId": 711,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Uchuu Senkan Yamato (Movie)",
+        "url": "https://animepahe.com/a/4353"
+      }
+    },
+    "AniMixPlay": {
+      "711": {
+        "identifier": "711",
+        "malId": 711,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuu Senkan Yamato (Movie)",
+        "url": "https://animixplay.to/anime/711"
+      }
+    }
+  }
+}

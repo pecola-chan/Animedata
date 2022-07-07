@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:39:55.000Z",
+  "updatedAt": "2022-05-15T01:03:11.000Z",
+  "checkedAt": "2022-05-15T01:03:11.000Z",
+  "id": 35815,
+  "type": "anime",
+  "title": "Boku dake ga Inai Machi Recaps",
+  "altTitle": [
+    "Boku dake ga Inai Machi Episode 6.5",
+    "Boku dake ga Inai Machi Episode 11.5",
+    "ERASED Digest",
+    "僕だけがいない街"
+  ],
+  "url": "https://myanimelist.net/anime/35815/Boku_dake_ga_Inai_Machi_Recaps",
+  "image": "https://cdn.myanimelist.net/images/anime/2/86477.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11292"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://bokumachi-anime.com/news/?article_id=37497"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11292,
+  "Pages": {
+    "9anime": {
+      "ynwz": {
+        "createdAt": "2020-10-12T18:42:45.000Z",
+        "updatedAt": "2020-10-12T18:42:45.000Z",
+        "checkedAt": null,
+        "id": 23815,
+        "identifier": "ynwz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boku dake ga Inai Machi Recaps",
+        "url": "https://9anime.to/watch/erased-1-6-digest.ynwz",
+        "image": "//static.9anime.to/i/cache/images/1/1c/1c22d33a32163c9c55836282dbac89cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35815,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

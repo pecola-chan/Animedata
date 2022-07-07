@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:18:35.000Z",
+  "checkedAt": "2022-05-14T16:18:35.000Z",
+  "id": 37579,
+  "type": "anime",
+  "title": "Tonari no Kyuuketsuki-san",
+  "altTitle": [
+    "Ms. vampire who lives in my neighborhood.",
+    "となりの吸血鬼さん"
+  ],
+  "url": "https://myanimelist.net/anime/37579/Tonari_no_Kyuuketsuki-san",
+  "image": "https://cdn.myanimelist.net/images/anime/1851/96154.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kyuketsukisan-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13966"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21135"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E5%90%B8%E8%A1%80%E9%AC%BC%E3%81%95%E3%82%93"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277065"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13966,
+  "Pages": {
+    "9anime": {
+      "26jq": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1300,
+        "identifier": "26jq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tonari no Kyuuketsuki-san",
+        "url": "https://9anime.to/watch/tonari-no-kyuuketsuki-san.26jq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/441e0759b8945736225f9a2381e8a773.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37579,
+        "aniId": 101371,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tonari-no-kyuuketsuki-san": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21176,
+        "identifier": "tonari-no-kyuuketsuki-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tonari no Kyuuketsuki-san",
+        "url": "https://gogoanime.vc/category/tonari-no-kyuuketsuki-san",
+        "image": "https://cdnimg.xyz/cover/tonari-no-kyuuketsuki-san.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37579,
+        "aniId": 101371,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2858": {
+        "identifier": "2858",
+        "malId": 37579,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tonari no Kyuuketsuki-san",
+        "url": "https://animepahe.com/a/2858"
+      }
+    },
+    "AniMixPlay": {
+      "37579": {
+        "identifier": "37579",
+        "malId": 37579,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tonari no Kyuuketsuki-san",
+        "url": "https://animixplay.to/anime/37579"
+      }
+    },
+    "YugenAnime": {
+      "4319": {
+        "identifier": "4319",
+        "malId": 37579,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tonari no Kyuuketsuki-san",
+        "url": "https://yugen.to/anime/4319/tonari-no-kyuuketsuki-san/"
+      }
+    }
+  }
+}

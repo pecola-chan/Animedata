@@ -1,0 +1,138 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T19:02:17.000Z",
+  "checkedAt": "2022-05-14T19:02:17.000Z",
+  "id": 474,
+  "type": "anime",
+  "title": "Macross Plus",
+  "altTitle": [
+    "マクロスプラス"
+  ],
+  "url": "https://myanimelist.net/anime/474/Macross_Plus",
+  "image": "https://cdn.myanimelist.net/images/anime/6/22779.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.macross.co.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=67"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=501"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Macross_Plus"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 67,
+  "Pages": {
+    "9anime": {
+      "km8w": {
+        "createdAt": "2020-10-12T15:52:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5510,
+        "identifier": "km8w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross Plus (Dub)",
+        "url": "https://9anime.to/watch/macross-plus-dub.km8w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-A3Oo6b1ytJ0/V-CV734ktSI/AAAAAAAA_AE/XaUAEP-sxVU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 474,
+        "aniId": 474,
+        "deletedAt": null
+      },
+      "p40x": {
+        "createdAt": "2020-10-12T15:54:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7827,
+        "identifier": "p40x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross Plus",
+        "url": "https://9anime.to/watch/macross-plus.p40x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DHztNj6nBfw/V-qGIkFH0wI/AAAAAAABBm4/TYkoj9jUNq0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 474,
+        "aniId": 474,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "macross-plus-": {
+        "createdAt": "2020-10-12T16:01:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19212,
+        "identifier": "macross-plus-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Plus ",
+        "url": "https://gogoanime.vc/category/macross-plus-",
+        "image": "https://cdnimg.xyz/images/anime/M/macross-zero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 474,
+        "aniId": 474,
+        "deletedAt": null
+      },
+      "macross-plus-dub": {
+        "createdAt": "2020-10-12T16:01:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19213,
+        "identifier": "macross-plus-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Plus (Dub)",
+        "url": "https://gogoanime.vc/category/macross-plus-dub",
+        "image": "https://images.gogoanime.tv/cover/macross-plus-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 474,
+        "aniId": 474,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "474": {
+        "identifier": "474",
+        "malId": 474,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Macross Plus",
+        "url": "https://animixplay.to/anime/474"
+      }
+    },
+    "YugenAnime": {
+      "917": {
+        "identifier": "917",
+        "malId": 474,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Macross Plus",
+        "url": "https://yugen.to/anime/917/macross-plus/"
+      }
+    }
+  }
+}

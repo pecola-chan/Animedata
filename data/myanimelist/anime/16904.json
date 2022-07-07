@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-14T19:31:11.000Z",
+  "checkedAt": "2022-05-14T19:31:11.000Z",
+  "id": 16904,
+  "type": "anime",
+  "title": "K: Missing Kings",
+  "altTitle": [
+    "K (Movie)",
+    "K-Project Movie",
+    "K-Project Sequel",
+    "K: Missing Kings",
+    "K MISSING KINGS"
+  ],
+  "url": "https://myanimelist.net/anime/16904/K__Missing_Kings",
+  "image": "https://cdn.myanimelist.net/images/anime/5/71795.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://k-project-movie.jpn.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9605"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15350"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/K_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278849"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9605,
+  "Pages": {
+    "9anime": {
+      "8ylo": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4095,
+        "identifier": "8ylo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Missing Kings",
+        "url": "https://9anime.to/watch/k-missing-kings.8ylo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wRh-df7eBCw/V-ANHSuhz1I/AAAAAAAA-88/AigsdFhrBIw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16904,
+        "aniId": 16904,
+        "deletedAt": null
+      },
+      "lkon": {
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6034,
+        "identifier": "lkon",
+        "type": "anime",
+        "page": "9anime",
+        "title": "K: Missing Kings (Dub)",
+        "url": "https://9anime.to/watch/k-missing-kings-dub.lkon",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Jwa3qCzf--I/WMoIxS1SK7I/AAAAAAABftY/4PyzCU791sE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16904,
+        "aniId": 16904,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "k-missing-kings": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18630,
+        "identifier": "k-missing-kings",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K: Missing Kings",
+        "url": "https://gogoanime.vc/category/k-missing-kings",
+        "image": "https://cdnimg.xyz/images/upload/71795.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16904,
+        "aniId": 16904,
+        "deletedAt": null
+      },
+      "k-missing-kings-dub": {
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18631,
+        "identifier": "k-missing-kings-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "K: Missing Kings (Dub)",
+        "url": "https://gogoanime.vc/category/k-missing-kings-dub",
+        "image": "https://gogocdn.net/cover/k-missing-kings-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16904,
+        "aniId": 16904,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "935": {
+        "identifier": "935",
+        "malId": 16904,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "K: Missing Kings",
+        "url": "https://animepahe.com/a/935"
+      }
+    },
+    "AniMixPlay": {
+      "16904": {
+        "identifier": "16904",
+        "malId": 16904,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "K: Missing Kings",
+        "url": "https://animixplay.to/anime/16904"
+      }
+    },
+    "YugenAnime": {
+      "1854": {
+        "identifier": "1854",
+        "malId": 16904,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "K: Missing Kings",
+        "url": "https://yugen.to/anime/1854/k-missing-kings/"
+      }
+    }
+  }
+}

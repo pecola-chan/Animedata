@@ -1,0 +1,44 @@
+{
+  "createdAt": "2022-02-26T22:19:10.000Z",
+  "updatedAt": "2022-05-14T17:50:59.000Z",
+  "checkedAt": "2022-05-14T17:50:59.000Z",
+  "id": 51105,
+  "type": "anime",
+  "title": "NieR:Automata",
+  "altTitle": [
+    "NieR:Automata"
+  ],
+  "url": "https://myanimelist.net/anime/51105/NieR_Automata",
+  "image": "https://cdn.myanimelist.net/images/anime/1853/121084.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://nierautomata-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=17214"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nier:_Automata"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 17214,
+  "Pages": {
+    "AniMixPlay": {
+      "51105": {
+        "identifier": "51105",
+        "malId": 51105,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "NieR:Automata",
+        "url": "https://animixplay.to/anime/51105"
+      }
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-14T20:03:59.000Z",
+  "checkedAt": "2022-05-14T20:03:59.000Z",
+  "id": 326,
+  "type": "anime",
+  "title": "Petshop of Horrors",
+  "altTitle": [
+    "Pet Shop of Horrors",
+    "Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)"
+  ],
+  "url": "https://myanimelist.net/anime/326/Petshop_of_Horrors",
+  "image": "https://cdn.myanimelist.net/images/anime/10/64543.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1999-1997/works_tv_petshop.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=209"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=712"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Petshop_Of_Horrors"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/pet-shop-of-horrors"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 209,
+  "Pages": {
+    "9anime": {
+      "y2yj": {
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10521,
+        "identifier": "y2yj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Petshop of Horrors (Dub)",
+        "url": "https://9anime.to/watch/petshop-of-horrors-dub.y2yj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5If3YNriIco/V-ufq3m0XrI/AAAAAAABB2Y/aZPKN4OB1GY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 326,
+        "aniId": 326,
+        "deletedAt": null
+      },
+      "zkzp": {
+        "createdAt": "2020-10-12T15:57:10.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11171,
+        "identifier": "zkzp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Petshop of Horrors",
+        "url": "https://9anime.to/watch/petshop-of-horrors.zkzp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-djUKb6U26TI/V7sqQ0zAViI/AAAAAAAA4x0/KY579l4lCCs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 326,
+        "aniId": 326,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "petshop-of-horrors": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20037,
+        "identifier": "petshop-of-horrors",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Petshop of Horrors",
+        "url": "https://gogoanime.vc/category/petshop-of-horrors",
+        "image": "https://gogocdn.net/images/anime/P/Pet-Shop-of-Horrors.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 326,
+        "aniId": 326,
+        "deletedAt": null
+      },
+      "pet-shop-of-horrors-dub": {
+        "createdAt": "2021-07-12T14:45:01.000Z",
+        "updatedAt": "2021-07-12T15:15:01.000Z",
+        "checkedAt": null,
+        "id": 37822,
+        "identifier": "pet-shop-of-horrors-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pet Shop of Horrors (Dub)",
+        "url": "https://gogoanime.pe/category/pet-shop-of-horrors-dub",
+        "image": "https://gogocdn.net/cover/pet-shop-of-horrors-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 326,
+        "aniId": 326,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "326": {
+        "identifier": "326",
+        "malId": 326,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Petshop of Horrors",
+        "url": "https://animixplay.to/anime/326"
+      }
+    },
+    "YugenAnime": {
+      "2946": {
+        "identifier": "2946",
+        "malId": 326,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Petshop of Horrors",
+        "url": "https://yugen.to/anime/2946/petshop-of-horrors/"
+      }
+    }
+  }
+}

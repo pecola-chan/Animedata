@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T17:41:29.000Z",
+  "checkedAt": "2022-05-14T17:41:29.000Z",
+  "id": 40747,
+  "type": "anime",
+  "title": "Dounika Naru Hibi",
+  "altTitle": [
+    "Dou ni ka Naru Hibi",
+    "Happy-Go-Lucky Days",
+    "どうにかなる日々"
+  ],
+  "url": "https://myanimelist.net/anime/40747/Dounika_Naru_Hibi",
+  "image": "https://cdn.myanimelist.net/images/anime/1924/106583.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://dounikanaruhibi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15273"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23098"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Happy-Go-Lucky_Days"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15273,
+  "Pages": {
+    "Gogoanime": {
+      "dounika-naru-hibi": {
+        "createdAt": "2020-10-12T17:20:23.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23586,
+        "identifier": "dounika-naru-hibi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dounika Naru Hibi",
+        "url": "https://gogoanime.vc/category/dounika-naru-hibi",
+        "image": "https://gogocdn.net/cover/dounika-naru-hibi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40747,
+        "aniId": 113416,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "8jly": {
+        "createdAt": "2020-10-12T18:49:57.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23830,
+        "identifier": "8jly",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dounika Naru Hibi",
+        "url": "https://9anime.to/watch/dounika-naru-hibi.8jly",
+        "image": "//static.9anime.to/i/cache/images/5/53/532385de527d86901f630d2da5a490e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40747,
+        "aniId": 113416,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4153": {
+        "identifier": "4153",
+        "malId": 40747,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dounika Naru Hibi",
+        "url": "https://animepahe.com/a/4153"
+      }
+    },
+    "AniMixPlay": {
+      "40747": {
+        "identifier": "40747",
+        "malId": 40747,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dounika Naru Hibi",
+        "url": "https://animixplay.to/anime/40747"
+      }
+    },
+    "YugenAnime": {
+      "6503": {
+        "identifier": "6503",
+        "malId": 40747,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dounika Naru Hibi",
+        "url": "https://yugen.to/anime/6503/dounika-naru-hibi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "createdAt": "2021-02-20T12:03:59.000Z",
+  "updatedAt": "2022-05-14T16:45:59.000Z",
+  "checkedAt": "2022-05-14T16:45:59.000Z",
+  "id": 40752,
+  "type": "anime",
+  "title": "Bishounen Tanteidan",
+  "altTitle": [
+    "Bishounen Series",
+    "Pretty Boy Detective Club",
+    "美少年探偵団"
+  ],
+  "url": "https://myanimelist.net/anime/40752/Bishounen_Tanteidan",
+  "image": "https://cdn.myanimelist.net/images/anime/1693/115133.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bishonen-tanteidan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15278"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23985"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pretty_Boy_Detective_Club#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/pretty-boy-detective-club"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/series/Pretty-Boy-Detective-Club/series-881775"
+    },
+    {
+      "site": "wakanim",
+      "url": "https://www.wakanim.tv/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15278,
+  "Pages": {
+    "9anime": {
+      "joky": {
+        "createdAt": "2021-04-10T18:21:36.000Z",
+        "updatedAt": "2022-06-13T22:32:04.000Z",
+        "checkedAt": "2022-06-13T22:32:04.000Z",
+        "id": 36370,
+        "identifier": "joky",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishounen Tanteidan",
+        "url": "https://9anime.to/watch/pretty-boy-detective-club.joky",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a6/a6b4a74ae1e8bb0af0e1261829d526bb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40752,
+        "aniId": 113428,
+        "deletedAt": null
+      },
+      "4qrjo": {
+        "createdAt": "2021-06-13T12:09:47.000Z",
+        "updatedAt": "2021-06-13T12:38:18.000Z",
+        "checkedAt": null,
+        "id": 37362,
+        "identifier": "4qrjo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bishounen Tanteidan (Dub)",
+        "url": "https://9anime.to/watch/pretty-boy-detective-club-dub.4qrjo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/da/daec5c121dfd8d3dad156f3f4fe34c55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40752,
+        "aniId": 113428,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bishounen-tanteidan": {
+        "createdAt": "2021-04-14T16:46:09.000Z",
+        "updatedAt": "2022-03-23T08:27:24.000Z",
+        "checkedAt": null,
+        "id": 36449,
+        "identifier": "bishounen-tanteidan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bishounen Tanteidan",
+        "url": "https://gogoanime.fi/category/bishounen-tanteidan",
+        "image": "https://gogocdn.net/cover/bishounen-tanteidan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40752,
+        "aniId": 113428,
+        "deletedAt": null
+      },
+      "bishounen-tanteidan-dub": {
+        "createdAt": "2021-05-31T09:40:15.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "checkedAt": null,
+        "id": 37149,
+        "identifier": "bishounen-tanteidan-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bishounen Tanteidan (Dub)",
+        "url": "https://gogoanime.vc/category/bishounen-tanteidan-dub",
+        "image": "https://gogocdn.net/cover/bishounen-tanteidan-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40752,
+        "aniId": 113428,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4326": {
+        "identifier": "4326",
+        "malId": 40752,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishounen Tanteidan",
+        "url": "https://animepahe.com/a/4326"
+      }
+    },
+    "AniMixPlay": {
+      "40752": {
+        "identifier": "40752",
+        "malId": 40752,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bishounen Tanteidan",
+        "url": "https://animixplay.to/anime/40752"
+      }
+    },
+    "YugenAnime": {
+      "7496": {
+        "identifier": "7496",
+        "malId": 40752,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bishounen Tanteidan",
+        "url": "https://yugen.to/anime/7496/bishounen-tanteidan/"
+      }
+    }
+  }
+}

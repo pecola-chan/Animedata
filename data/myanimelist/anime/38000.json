@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-13T23:10:27.000Z",
+  "checkedAt": "2022-05-13T23:10:27.000Z",
+  "id": 38000,
+  "type": "anime",
+  "title": "Kimetsu no Yaiba",
+  "altTitle": [
+    "Blade of Demon Destruction",
+    "Demon Slayer: Kimetsu no Yaiba",
+    "鬼滅の刃"
+  ],
+  "url": "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
+  "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kimetsu.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14107"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21101"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277768"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/demon-slayer-kimetsu-no-yaiba"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/title/81091393"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14107,
+  "Pages": {
+    "9anime": {
+      "0j79": {
+        "createdAt": "2020-10-12T15:48:48.000Z",
+        "updatedAt": "2022-06-14T03:30:43.000Z",
+        "checkedAt": "2022-06-14T03:30:43.000Z",
+        "id": 514,
+        "identifier": "0j79",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimetsu no Yaiba (Dub)",
+        "url": "https://9anime.to/watch/demon-slayer-kimetsu-no-yaiba-dub.0j79",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/10/9a46f3187e174df1fa8b8ddda7292fd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38000,
+        "aniId": 101922,
+        "deletedAt": null
+      },
+      "6q67": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2022-06-13T22:00:46.000Z",
+        "checkedAt": "2022-06-13T22:00:46.000Z",
+        "id": 3147,
+        "identifier": "6q67",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimetsu no Yaiba",
+        "url": "https://9anime.to/watch/demon-slayer-kimetsu-no-yaiba.6q67",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/04/961fbb823be55a3f4310c7cc944ec585.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38000,
+        "aniId": 101922,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kimetsu-no-yaiba": {
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18823,
+        "identifier": "kimetsu-no-yaiba",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimetsu no Yaiba",
+        "url": "https://gogoanime.vc/category/kimetsu-no-yaiba",
+        "image": "https://cdnimg.xyz/cover/kimetsu-no-yaiba.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38000,
+        "aniId": 101922,
+        "deletedAt": null
+      },
+      "kimetsu-no-yaiba-dub": {
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18824,
+        "identifier": "kimetsu-no-yaiba-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimetsu no Yaiba (Dub)",
+        "url": "https://gogoanime.vc/category/kimetsu-no-yaiba-dub",
+        "image": "https://cdnimg.xyz/cover/kimetsu-no-yaiba-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38000,
+        "aniId": 101922,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3205": {
+        "identifier": "3205",
+        "malId": 38000,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kimetsu no Yaiba",
+        "url": "https://animepahe.com/a/3205"
+      }
+    },
+    "AniMixPlay": {
+      "38000": {
+        "identifier": "38000",
+        "malId": 38000,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimetsu no Yaiba",
+        "url": "https://animixplay.to/anime/38000"
+      }
+    },
+    "YugenAnime": {
+      "4763": {
+        "identifier": "4763",
+        "malId": 38000,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kimetsu no Yaiba",
+        "url": "https://yugen.to/anime/4763/kimetsu-no-yaiba/"
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T16:39:35.000Z",
+  "checkedAt": "2022-05-14T16:39:35.000Z",
+  "id": 41266,
+  "type": "anime",
+  "title": "Bessatsu Olympia Kyklos",
+  "altTitle": [
+    "Extra Olympia Kyklos",
+    "別冊オリンピア・キュクロス"
+  ],
+  "url": "https://myanimelist.net/anime/41266/Bessatsu_Olympia_Kyklos",
+  "image": "https://cdn.myanimelist.net/images/anime/1783/113441.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bessatsu-olympia-kyklos.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15390"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23035"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olympia_Kyklos#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279267"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15390,
+  "Pages": {
+    "9anime": {
+      "43jk": {
+        "createdAt": "2020-10-12T15:50:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2091,
+        "identifier": "43jk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Olympia Kyklos",
+        "url": "https://9anime.to/watch/olympia-kyklos.43jk",
+        "image": "https://static.akacdn.ru/files/images/2020/02/0a902868687528d63c2f5ea407efa479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41266,
+        "aniId": 115186,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "olympia-kyklos": {
+        "createdAt": "2020-10-12T16:01:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19838,
+        "identifier": "olympia-kyklos",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Olympia Kyklos",
+        "url": "https://gogoanime.vc/category/olympia-kyklos",
+        "image": "https://gogocdn.net/cover/olympia-kyklos.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41266,
+        "aniId": 115186,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4022": {
+        "identifier": "4022",
+        "malId": 41266,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bessatsu Olympia Kyklos",
+        "url": "https://animepahe.com/a/4022"
+      }
+    },
+    "AniMixPlay": {
+      "41266": {
+        "identifier": "41266",
+        "malId": 41266,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bessatsu Olympia Kyklos",
+        "url": "https://animixplay.to/anime/41266"
+      }
+    },
+    "YugenAnime": {
+      "2357": {
+        "identifier": "2357",
+        "malId": 41266,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bessatsu Olympia Kyklos",
+        "url": "https://yugen.to/anime/2357/bessatsu-olympia-kyklos/"
+      }
+    }
+  }
+}

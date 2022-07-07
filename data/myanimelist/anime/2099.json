@@ -1,0 +1,104 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-15T00:59:53.000Z",
+  "checkedAt": "2022-05-15T00:59:53.000Z",
+  "id": 2099,
+  "type": "anime",
+  "title": "Silent Möbius: The Motion Picture",
+  "altTitle": [
+    "サイレントメビウス／THE MOTION PICTURE"
+  ],
+  "url": "https://myanimelist.net/anime/2099/Silent_Möbius__The_Motion_Picture",
+  "image": "https://cdn.myanimelist.net/images/anime/4/32059.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2334"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2549"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silent_M%C3%B6bius#Films"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2334,
+  "Pages": {
+    "9anime": {
+      "0743": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 356,
+        "identifier": "0743",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Silent Möbius: The Motion Picture",
+        "url": "https://9anime.to/watch/silent-moebius-the-motion-picture.0743",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-asTV7z3nV9o/WX7Tpf9bUoI/AAAAAAAAAf4/xZd0SjMaGls_ThLbGTCBURvstDqeGg10gCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2099,
+        "aniId": 2099,
+        "deletedAt": null
+      },
+      "xnj3": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10309,
+        "identifier": "xnj3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Silent Möbius: The Motion Picture (Dub)",
+        "url": "https://9anime.to/watch/silent-moebius-the-motion-picture-dub.xnj3",
+        "image": "https://static.akacdn.ru/files/images/2018/03/679b57e0b4d265159f27598841a7bab5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2099,
+        "aniId": 2099,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2693": {
+        "identifier": "2693",
+        "malId": 2099,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Silent Möbius: The Motion Picture",
+        "url": "https://animepahe.com/a/2693"
+      }
+    },
+    "AniMixPlay": {
+      "2099": {
+        "identifier": "2099",
+        "malId": 2099,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Silent Möbius: The Motion Picture",
+        "url": "https://animixplay.to/anime/2099"
+      }
+    },
+    "YugenAnime": {
+      "5639": {
+        "identifier": "5639",
+        "malId": 2099,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Silent Möbius: The Motion Picture",
+        "url": "https://yugen.to/anime/5639/silent-mobius-the-motion-picture/"
+      }
+    }
+  }
+}

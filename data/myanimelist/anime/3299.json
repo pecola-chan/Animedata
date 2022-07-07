@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T07:02:36.000Z",
+  "checkedAt": "2022-05-14T07:02:36.000Z",
+  "id": 3299,
+  "type": "anime",
+  "title": "H2O: Footprints in the Sand",
+  "altTitle": [
+    "H2O: Footprints in the Sand",
+    "H2O ~FOOTPRINTS IN THE SAND~"
+  ],
+  "url": "https://myanimelist.net/anime/3299/H2O__Footprints_in_the_Sand",
+  "image": "https://cdn.myanimelist.net/images/anime/2/5962.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.webnt.jp/h2o/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5508"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8786"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/H2O:_Footprints_in_the_Sand"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-58164"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5508,
+  "Pages": {
+    "9anime": {
+      "9own": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4394,
+        "identifier": "9own",
+        "type": "anime",
+        "page": "9anime",
+        "title": "H2O: Footprints in the Sand",
+        "url": "https://9anime.to/watch/h2o-footprints-in-the-sand.9own",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EyfgKAsxT9Q/V5ePz-w2QSI/AAAAAAAAyNE/yCDGyIaNOi4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3299,
+        "aniId": 3299,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "h2o-footprints-in-the-sand": {
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18068,
+        "identifier": "h2o-footprints-in-the-sand",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "H2O Footprints in the Sand",
+        "url": "https://gogoanime.vc/category/h2o-footprints-in-the-sand",
+        "image": "https://gogocdn.net/images/anime/H/h2o-footprints-in-the-sand.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3299,
+        "aniId": 3299,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3299": {
+        "identifier": "3299",
+        "malId": 3299,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "H2O: Footprints in the Sand",
+        "url": "https://animixplay.to/anime/3299"
+      }
+    },
+    "YugenAnime": {
+      "3419": {
+        "identifier": "3419",
+        "malId": 3299,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "H2O: Footprints in the Sand",
+        "url": "https://yugen.to/anime/3419/h2o-footprints-in-the-sand/"
+      }
+    }
+  }
+}

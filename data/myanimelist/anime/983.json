@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-25T04:52:46.000Z",
+  "checkedAt": "2022-05-25T04:52:46.000Z",
+  "id": 983,
+  "type": "anime",
+  "title": "Cosplay Complex: Extra Identification",
+  "altTitle": [
+    "こすぷれCOMPLEX"
+  ],
+  "url": "https://myanimelist.net/anime/983/Cosplay_Complex__Extra_Identification",
+  "image": "https://cdn.myanimelist.net/images/anime/11/59969.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wonderfarm.co.jp/cosplex/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=278"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=862"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cosplay_Complex"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 278,
+  "Pages": {
+    "9anime": {
+      "0lj7": {
+        "createdAt": "2020-10-12T15:48:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 555,
+        "identifier": "0lj7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cosplay Complex: Extra Identification",
+        "url": "https://9anime.to/watch/cosplay-complex-extra-identification.0lj7",
+        "image": "https://static.akacdn.ru/static/images/2019/02/ee29671433e777b05f81040466de3519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 983,
+        "aniId": 983,
+        "deletedAt": null
+      }
+    }
+  }
+}

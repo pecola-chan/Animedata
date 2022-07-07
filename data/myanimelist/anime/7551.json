@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-06-15T00:22:00.000Z",
+  "checkedAt": "2022-06-15T00:22:00.000Z",
+  "id": 7551,
+  "type": "anime",
+  "title": "Gowapper 5 Gordam",
+  "altTitle": [
+    "Go Wapper 5 Go Dam",
+    "Gowappa 5 Godam",
+    "Goliath the Super Fighter",
+    "ゴワッパー5ゴーダム"
+  ],
+  "url": "https://myanimelist.net/anime/7551/Gowapper_5_Gordam",
+  "image": "https://cdn.myanimelist.net/images/anime/3/60417.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works_animation/archive/gordam.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4534"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2235"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Goliath_the_Super_Fighter"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4534,
+  "Pages": {
+    "9anime": {
+      "nv6l": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7237,
+        "identifier": "nv6l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Goliath the Super Fighter",
+        "url": "https://9anime.to/watch/goliath-the-super-fighter.nv6l",
+        "image": "https://static.akacdn.ru/static/images/2018/06/e704e072a6882b8de82a608ebedab93c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7551,
+        "aniId": 7551,
+        "deletedAt": null
+      }
+    }
+  }
+}

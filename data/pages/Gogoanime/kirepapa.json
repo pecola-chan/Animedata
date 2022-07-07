@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:00.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18874,
+  "identifier": "kirepapa",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kirepapa",
+  "url": "https://gogoanime.vc/category/kirepapa",
+  "image": "https://gogocdn.net/images/anime/K/Kirepapa.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3375,
+  "aniId": 3375,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:37.000Z",
+    "updatedAt": "2022-05-15T04:55:47.000Z",
+    "checkedAt": "2022-05-15T04:55:47.000Z",
+    "id": 3375,
+    "type": "anime",
+    "title": "Kirepapa.",
+    "altTitle": [
+      "Kire Papa",
+      "キレパパ。"
+    ],
+    "url": "https://myanimelist.net/anime/3375/Kirepapa",
+    "image": "https://cdn.myanimelist.net/images/anime/8/31421.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.primetime.gs/product/papa.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5676"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9190"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AC%E3%83%91%E3%83%91%E3%80%82"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5676
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:23.000Z",
+    "updatedAt": "2022-05-16T05:55:55.000Z",
+    "checkedAt": "2022-05-16T05:55:55.000Z",
+    "id": 3375,
+    "type": "anime",
+    "title": "Kirepapa",
+    "altTitle": [
+      "キレパパ。",
+      "Kire Papa"
+    ],
+    "url": "https://anilist.co/anime/3375",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3375.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3375,
+    "deletedAt": null
+  }
+}

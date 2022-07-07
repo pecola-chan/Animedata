@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-13T23:53:11.000Z",
+  "checkedAt": "2022-05-13T23:53:11.000Z",
+  "id": 41103,
+  "type": "anime",
+  "title": "Koi to Yobu ni wa Kimochi Warui",
+  "altTitle": [
+    "It's Too Sick to Call this Love",
+    "Koikimo",
+    "恋と呼ぶには気持ち悪い"
+  ],
+  "url": "https://myanimelist.net/anime/41103/Koi_to_Yobu_ni_wa_Kimochi_Warui",
+  "image": "https://cdn.myanimelist.net/images/anime/1519/110527.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://koikimo.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15362"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24011"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Koi_to_Yobu_ni_wa_Kimochi_Warui#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281127"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15362,
+  "Pages": {
+    "9anime": {
+      "oz98": {
+        "createdAt": "2020-10-12T15:54:25.000Z",
+        "updatedAt": "2021-10-26T21:01:44.000Z",
+        "checkedAt": null,
+        "id": 7752,
+        "identifier": "oz98",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koi to Yobu ni wa Kimochi Warui",
+        "url": "https://9anime.to/watch/koikimo.oz98",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/eb/eb7ff70a1a7edda5b5f8816fbc7f384a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41103,
+        "aniId": 114840,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koi-to-yobu-ni-wa-kimochi-warui": {
+        "createdAt": "2021-03-29T15:00:54.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36052,
+        "identifier": "koi-to-yobu-ni-wa-kimochi-warui",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koi to Yobu ni wa Kimochi Warui",
+        "url": "https://gogoanime.vc/category/koi-to-yobu-ni-wa-kimochi-warui",
+        "image": "https://gogocdn.net/cover/koi-to-yobu-ni-wa-kimochi-warui.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41103,
+        "aniId": 114840,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4313": {
+        "identifier": "4313",
+        "malId": 41103,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koi to Yobu ni wa Kimochi Warui",
+        "url": "https://animepahe.com/a/4313"
+      }
+    },
+    "AniMixPlay": {
+      "41103": {
+        "identifier": "41103",
+        "malId": 41103,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koi to Yobu ni wa Kimochi Warui",
+        "url": "https://animixplay.to/anime/41103"
+      }
+    },
+    "YugenAnime": {
+      "7391": {
+        "identifier": "7391",
+        "malId": 41103,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koi to Yobu ni wa Kimochi Warui",
+        "url": "https://yugen.to/anime/7391/koi-to-yobu-ni-wa-kimochi-warui/"
+      }
+    }
+  }
+}

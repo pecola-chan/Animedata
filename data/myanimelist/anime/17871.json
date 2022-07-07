@@ -1,0 +1,54 @@
+{
+  "createdAt": "2021-09-13T03:06:08.000Z",
+  "updatedAt": "2022-05-14T22:36:11.000Z",
+  "checkedAt": "2022-05-14T22:36:11.000Z",
+  "id": 17871,
+  "type": "anime",
+  "title": "Yonhyaku-nijuu Renpai Girl",
+  "altTitle": [
+    "420 Renpai Girl",
+    "Yon-hyaku-nijuu Renpai Girl",
+    "If I don't successfully pick up 420 girls, I am going to die in a lot of different ways.",
+    "四百二十連敗ガール"
+  ],
+  "url": "https://myanimelist.net/anime/17871/Yonhyaku-nijuu_Renpai_Girl",
+  "image": "https://cdn.myanimelist.net/images/anime/10/47723.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.enterbrain.co.jp/fb/pc/02sp/02_1302Renpai/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9681"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9681,
+  "Pages": {
+    "9anime": {
+      "zlr92": {
+        "createdAt": "2021-09-13T03:06:06.000Z",
+        "updatedAt": "2021-09-13T03:34:34.000Z",
+        "checkedAt": null,
+        "id": 38619,
+        "identifier": "zlr92",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yonhyaku-nijuu Renpai Girl",
+        "url": "https://9anime.to/watch/if-i-dont-successfully-pick-up-420-girls-i-am-going-to-die-in-a-lot-of-different-ways.zlr92",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fb/fb2da10e1ad69829d61ad7ff7494da16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17871,
+        "aniId": 17871,
+        "deletedAt": null
+      }
+    }
+  }
+}

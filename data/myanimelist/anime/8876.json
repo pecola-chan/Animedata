@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T21:06:18.000Z",
+  "checkedAt": "2022-05-14T21:06:18.000Z",
+  "id": 8876,
+  "type": "anime",
+  "title": "Koe de Oshigoto! The Animation",
+  "altTitle": [
+    "Working with Voice!",
+    "Koe de Oshigoto!",
+    "こえでおしごと! The ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/8876/Koe_de_Oshigoto_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/5/25524.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://koegoto.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7625"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11670"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Koe_De_Oshigoto"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7625,
+  "Pages": {
+    "9anime": {
+      "81nv": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3712,
+        "identifier": "81nv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koe de Oshigoto! The Animation",
+        "url": "https://9anime.to/watch/koe-de-oshigoto-the-animation.81nv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-n_moDLyUNd8/V8cHzPYgoTI/AAAAAAAA65E/XJ69I1UM2MI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8876,
+        "aniId": 8876,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8876": {
+        "identifier": "8876",
+        "malId": 8876,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koe de Oshigoto! The Animation",
+        "url": "https://animixplay.to/anime/8876"
+      }
+    }
+  }
+}

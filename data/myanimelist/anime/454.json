@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-15T03:42:43.000Z",
+  "checkedAt": "2022-05-15T03:42:43.000Z",
+  "id": 454,
+  "type": "anime",
+  "title": ".hack//Gift",
+  "altTitle": [
+    ".hack//Gift",
+    ".hack//GIFT"
+  ],
+  "url": "https://myanimelist.net/anime/454/hack__Gift",
+  "image": "https://cdn.myanimelist.net/images/anime/2/23085.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1135"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3613"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1135,
+  "Pages": {
+    "9anime": {
+      "3522": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 107,
+        "identifier": "3522",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//Gift",
+        "url": "https://9anime.to/watch/hackgift.3522",
+        "image": "https://static.akacdn.ru/files/images/2018/03/70dbe30039f8bc65c4d2a71b91492bdb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 454,
+        "aniId": 454,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hackgift": {
+        "createdAt": "2021-02-01T14:32:04.000Z",
+        "updatedAt": "2022-02-27T22:48:51.000Z",
+        "checkedAt": null,
+        "id": 34448,
+        "identifier": "hackgift",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//Gift",
+        "url": "https://gogoanime.fi/category/hackgift",
+        "image": "https://gogocdn.net/cover/hackgift.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 454,
+        "aniId": 454,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4619": {
+        "identifier": "4619",
+        "malId": 454,
+        "type": "anime",
+        "page": "animepahe",
+        "title": ".hack//Gift",
+        "url": "https://animepahe.com/a/4619"
+      }
+    },
+    "AniMixPlay": {
+      "454": {
+        "identifier": "454",
+        "malId": 454,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": ".hack//Gift",
+        "url": "https://animixplay.to/anime/454"
+      }
+    },
+    "YugenAnime": {
+      "7221": {
+        "identifier": "7221",
+        "malId": 454,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": ".hack//Gift",
+        "url": "https://yugen.to/anime/7221/hackgift/"
+      }
+    }
+  }
+}

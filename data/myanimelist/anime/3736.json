@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T22:28:06.000Z",
+  "checkedAt": "2022-05-14T22:28:06.000Z",
+  "id": 3736,
+  "type": "anime",
+  "title": "Parappa the Rapper",
+  "altTitle": [
+    "PaRappa the Rapper",
+    "パラッパラッパー"
+  ],
+  "url": "https://myanimelist.net/anime/3736/Parappa_the_Rapper",
+  "image": "https://cdn.myanimelist.net/images/anime/11/6602.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jcstaff.co.jp/sho-sai/pa-shokai/parappa-syokai.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1430"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1950"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1430,
+  "Pages": {
+    "9anime": {
+      "80kko": {
+        "createdAt": "2021-06-09T11:35:47.000Z",
+        "updatedAt": "2021-06-09T12:04:14.000Z",
+        "checkedAt": null,
+        "id": 37264,
+        "identifier": "80kko",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Parappa the Rapper",
+        "url": "https://9anime.to/watch/parappa-the-rapper.80kko",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/87/873aa15612a039f420eba2f84bdab3e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3736,
+        "aniId": 3736,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "parappa-the-rapper": {
+        "createdAt": "2021-10-20T08:29:58.000Z",
+        "updatedAt": "2021-10-20T08:59:05.000Z",
+        "checkedAt": null,
+        "id": 39067,
+        "identifier": "parappa-the-rapper",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Parappa the Rapper",
+        "url": "https://gogoanime.pe/category/parappa-the-rapper",
+        "image": "https://gogocdn.net/cover/parappa-the-rapper.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3736,
+        "aniId": 3736,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3736": {
+        "identifier": "3736",
+        "malId": 3736,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Parappa the Rapper",
+        "url": "https://animixplay.to/anime/3736"
+      }
+    },
+    "YugenAnime": {
+      "11261": {
+        "identifier": "11261",
+        "malId": 3736,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Parappa the Rapper",
+        "url": "https://yugen.to/anime/11261/parappa-the-rapper/"
+      }
+    }
+  }
+}

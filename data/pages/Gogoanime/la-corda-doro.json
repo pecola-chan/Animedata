@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-11-10T18:43:44.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29092,
+  "identifier": "la-corda-doro",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "La Corda D`Oro",
+  "url": "https://gogoanime.vc/category/la-corda-doro",
+  "image": "https://gogocdn.net/images/anime/L/la-corda-doro.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": 1579,
+  "aniId": 1579,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:19.000Z",
+    "updatedAt": "2022-05-14T16:42:50.000Z",
+    "checkedAt": "2022-05-14T16:42:50.000Z",
+    "id": 1579,
+    "type": "anime",
+    "title": "Kiniro no Corda: Primo Passo",
+    "altTitle": [
+      "Kin'iro no Chord",
+      "Kiniro no Chord",
+      "Kin-iro no Corda: Primo Passo",
+      "The Golden Chord",
+      "La corda d'oro: primo passo",
+      "金色のコルダ ～primo passo～"
+    ],
+    "url": "https://myanimelist.net/anime/1579/Kiniro_no_Corda__Primo_Passo",
+    "image": "https://cdn.myanimelist.net/images/anime/9/7228.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.corda-primopasso.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4509"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6859"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kiniro_no_corda"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4509
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:13.000Z",
+    "updatedAt": "2022-05-15T13:35:23.000Z",
+    "checkedAt": "2022-05-15T13:35:23.000Z",
+    "id": 1579,
+    "type": "anime",
+    "title": "Kiniro no Corda: Primo Passo",
+    "altTitle": [
+      "La Corda D'Oro: Primo Passo",
+      "金色のコルダ ～primo passo～",
+      "Kin'iro no Chord",
+      "Kiniro no Chord",
+      "Kin-iro no Corda: Primo Passo",
+      "The Golden Chord"
+    ],
+    "url": "https://anilist.co/anime/1579",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1579-P7iLCX8zNEuO.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/la-corda-doro-primo-passo-and-secondo-passo"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GY195880R/La-Corda-dOro-primo-passo-and-secondo-passo"
+      }
+    ],
+    "malId": 1579,
+    "deletedAt": null
+  }
+}

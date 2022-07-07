@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2022-05-14T21:04:53.000Z",
+  "checkedAt": "2022-05-14T21:04:53.000Z",
+  "id": 29583,
+  "type": "anime",
+  "title": "Kuroko no Basket: Oshaberi Demo Shimasen ka",
+  "altTitle": [
+    "Kuroko's Basketball: Would You Like To Chat OVA",
+    "お喋りでもしませんか"
+  ],
+  "url": "https://myanimelist.net/anime/29583/Kuroko_no_Basket__Oshaberi_Demo_Shimasen_ka",
+  "image": "https://cdn.myanimelist.net/images/anime/11/71175.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kurobas.com/bd_dvd/entry_1228/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9603"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9603,
+  "Pages": {
+    "9anime": {
+      "53vj": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2510,
+        "identifier": "53vj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuroko no Basket: Oshaberi Demo Shimasen ka",
+        "url": "https://9anime.to/watch/kuroko-no-basket-oshaberi-demo-shimasen-ka.53vj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TW5A_HTb8Rw/WGEPiHzwNkI/AAAAAAABUyI/H9DTWQuOi3E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29583,
+        "aniId": 101816,
+        "deletedAt": null
+      }
+    }
+  }
+}

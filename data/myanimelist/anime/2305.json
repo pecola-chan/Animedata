@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-24T18:02:14.000Z",
+  "checkedAt": "2022-05-24T18:02:14.000Z",
+  "id": 2305,
+  "type": "anime",
+  "title": "Mobile Suit SD Gundam Mk III",
+  "altTitle": [
+    "Kidou Senshi SD Gundam SD Sengokuden",
+    "機動戦士SDガンダム Mk-III"
+  ],
+  "url": "https://myanimelist.net/anime/2305/Mobile_Suit_SD_Gundam_Mk_III",
+  "image": "https://cdn.myanimelist.net/images/anime/6/51907.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/sd-gundam/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3060"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3178"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3060,
+  "Pages": {
+    "9anime": {
+      "y59j": {
+        "createdAt": "2020-10-12T15:56:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10577,
+        "identifier": "y59j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit SD Gundam Mk III",
+        "url": "https://9anime.to/watch/mobile-suit-sd-gundam-mk-iii.y59j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZW5KZjLV8VQ/WWMJLVIFg_I/AAAAAAAAB7A/AhBTHrHUYR0xDJGSGFRP59WZI_cl-htZgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2305,
+        "aniId": 2305,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2305": {
+        "identifier": "2305",
+        "malId": 2305,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit SD Gundam Mk III",
+        "url": "https://animixplay.to/anime/2305"
+      }
+    },
+    "YugenAnime": {
+      "2605": {
+        "identifier": "2605",
+        "malId": 2305,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit SD Gundam Mk III",
+        "url": "https://yugen.to/anime/2605/mobile-suit-sd-gundam-mk-iii/"
+      }
+    }
+  }
+}

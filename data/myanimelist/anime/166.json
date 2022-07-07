@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T18:31:05.000Z",
+  "checkedAt": "2022-05-14T18:31:05.000Z",
+  "id": 166,
+  "type": "anime",
+  "title": "Samurai 7",
+  "altTitle": [
+    "Samurai Seven",
+    "Samurai 7",
+    "サムライセブン"
+  ],
+  "url": "https://myanimelist.net/anime/166/Samurai_7",
+  "image": "https://cdn.myanimelist.net/images/anime/1190/95421.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.samurai-7.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1542"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3127"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Samurai_7"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275491"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/samurai-7"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1542,
+  "Pages": {
+    "9anime": {
+      "y2jp": {
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10508,
+        "identifier": "y2jp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Samurai 7 (Dub)",
+        "url": "https://9anime.to/watch/samurai-7-dub.y2jp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ihfG62YZY78/V9wiCW767_I/AAAAAAAA-do/6Z4R6Gnf62M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 166,
+        "aniId": 166,
+        "deletedAt": null
+      },
+      "yvx1": {
+        "createdAt": "2020-10-12T15:56:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10865,
+        "identifier": "yvx1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Samurai 7",
+        "url": "https://9anime.to/watch/samurai-7.yvx1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wNma-ed6LYc/V7B9TvsasfI/AAAAAAAA3CY/vyzivj0QNZc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 166,
+        "aniId": 166,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "samurai-7": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20415,
+        "identifier": "samurai-7",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Samurai 7",
+        "url": "https://gogoanime.vc/category/samurai-7",
+        "image": "https://cdnimg.xyz/images/anime/S/Samurai 7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 166,
+        "aniId": 166,
+        "deletedAt": null
+      },
+      "samurai-7-dub": {
+        "createdAt": "2021-10-14T14:59:50.000Z",
+        "updatedAt": "2021-10-14T15:28:44.000Z",
+        "checkedAt": null,
+        "id": 39012,
+        "identifier": "samurai-7-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Samurai 7 (Dub)",
+        "url": "https://gogoanime.pe/category/samurai-7-dub",
+        "image": "https://gogocdn.net/cover/samurai-7-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 166,
+        "aniId": 166,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1664": {
+        "identifier": "1664",
+        "malId": 166,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Samurai 7",
+        "url": "https://animepahe.com/a/1664"
+      }
+    },
+    "AniMixPlay": {
+      "166": {
+        "identifier": "166",
+        "malId": 166,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Samurai 7",
+        "url": "https://animixplay.to/anime/166"
+      }
+    },
+    "YugenAnime": {
+      "233": {
+        "identifier": "233",
+        "malId": 166,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Samurai 7",
+        "url": "https://yugen.to/anime/233/samurai-7/"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T21:50:29.000Z",
+  "checkedAt": "2022-05-14T21:50:29.000Z",
+  "id": 40298,
+  "type": "anime",
+  "title": "Youjo Senki Movie: Manner Eizou",
+  "altTitle": [
+    "Gekijouban Youjo Senki Manner Eizou",
+    "Saga of Tanya the Evil: The Movie - Manner Movie",
+    "劇場版 幼女戦記 マナー映像"
+  ],
+  "url": "https://myanimelist.net/anime/40298/Youjo_Senki_Movie__Manner_Eizou",
+  "image": "https://cdn.myanimelist.net/images/anime/1788/102766.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://youjo-senki.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13717"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20509"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Saga_of_Tanya_the_Evil"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13717,
+  "Pages": {
+    "9anime": {
+      "j408": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4674,
+        "identifier": "j408",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Youjo Senki Movie: Manner Eizou",
+        "url": "https://9anime.to/watch/youjo-senki-movie-manner-eizou.j408",
+        "image": "https://static.akacdn.ru/files/images/2019/08/2d4019af5597bf296fea691c673a3f7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40298,
+        "aniId": 115927,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40298": {
+        "identifier": "40298",
+        "malId": 40298,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Youjo Senki Movie: Manner Eizou",
+        "url": "https://animixplay.to/anime/40298"
+      }
+    }
+  }
+}

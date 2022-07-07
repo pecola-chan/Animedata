@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T17:48:53.000Z",
+  "checkedAt": "2022-05-14T17:48:53.000Z",
+  "id": 32805,
+  "type": "anime",
+  "title": "Nyanbo!",
+  "altTitle": [
+    "Nyanbo!",
+    "にゃんぼー!"
+  ],
+  "url": "https://myanimelist.net/anime/32805/Nyanbo",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82325.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://nyanbo.jp/animation/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11945"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18759"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ダンボー#.E3.83.86.E3.83.AC.E3.83.93.E3.82.A2.E3.83.8B.E3.83.A1"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271441"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11945,
+  "Pages": {
+    "9anime": {
+      "lnqm": {
+        "createdAt": "2020-10-12T15:53:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6121,
+        "identifier": "lnqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nyanbo!",
+        "url": "https://9anime.to/watch/nyanbo.lnqm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5QTLx3t6d54/V-m5x_pMvrI/AAAAAAABBO0/viwoB8PhgE8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32805,
+        "aniId": 21655,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1421": {
+        "identifier": "1421",
+        "malId": 32805,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nyanbo!",
+        "url": "https://animepahe.com/a/1421"
+      }
+    },
+    "AniMixPlay": {
+      "32805": {
+        "identifier": "32805",
+        "malId": 32805,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nyanbo!",
+        "url": "https://animixplay.to/anime/32805"
+      }
+    },
+    "YugenAnime": {
+      "358": {
+        "identifier": "358",
+        "malId": 32805,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nyanbo!",
+        "url": "https://yugen.to/anime/358/nyanbo/"
+      }
+    }
+  }
+}

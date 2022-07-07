@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-04-07T01:38:17.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36267,
+  "identifier": "wan-jie-du-zun",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Wan Jie Du Zun",
+  "url": "https://gogoanime.vc/category/wan-jie-du-zun",
+  "image": "https://gogocdn.net/cover/wan-jie-du-zun.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 48684,
+  "aniId": 131929,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-04-07T15:02:10.000Z",
+    "updatedAt": "2022-05-14T20:07:41.000Z",
+    "checkedAt": "2022-05-14T20:07:41.000Z",
+    "id": 48684,
+    "type": "anime",
+    "title": "Wan Jie Du Zun",
+    "altTitle": [
+      "Ten Thousand Worlds",
+      "万界独尊"
+    ],
+    "url": "https://myanimelist.net/anime/48684/Wan_Jie_Du_Zun",
+    "image": "https://cdn.myanimelist.net/images/anime/1571/114240.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/m/mzc00200cu8uq8c.html"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:16.000Z",
+    "updatedAt": "2022-05-15T11:55:11.000Z",
+    "checkedAt": "2022-05-15T11:55:11.000Z",
+    "id": 131929,
+    "type": "anime",
+    "title": "Wan Jie Duzun",
+    "altTitle": [
+      "万界独尊"
+    ],
+    "url": "https://anilist.co/anime/131929",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131929-GPud0JD5PRQo.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 48684,
+    "deletedAt": null
+  }
+}

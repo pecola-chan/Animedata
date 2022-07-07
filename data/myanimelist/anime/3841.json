@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-14T19:16:18.000Z",
+  "checkedAt": "2022-05-14T19:16:18.000Z",
+  "id": 3841,
+  "type": "anime",
+  "title": "Chi's Sweet Home",
+  "altTitle": [
+    "Chii's Sweet Home",
+    "Chiizu",
+    "チーズスイートホーム"
+  ],
+  "url": "https://myanimelist.net/anime/3841/Chis_Sweet_Home",
+  "image": "https://cdn.myanimelist.net/images/anime/6/7632.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/chissweet/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5801"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9234"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chi%27s_Sweet_Home"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5801,
+  "Pages": {
+    "9anime": {
+      "k309": {
+        "createdAt": "2020-10-12T15:52:25.000Z",
+        "updatedAt": "2022-06-13T23:30:40.000Z",
+        "checkedAt": "2022-06-13T23:30:40.000Z",
+        "id": 5223,
+        "identifier": "k309",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chi's Sweet Home",
+        "url": "https://9anime.to/watch/chis-sweet-home.k309",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a1deaf36bd936615454cc85e910f35d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3841,
+        "aniId": 3841,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chis-sweet-home": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17068,
+        "identifier": "chis-sweet-home",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chi`s Sweet Home",
+        "url": "https://gogoanime.vc/category/chis-sweet-home",
+        "image": "https://gogocdn.net/images/anime/C/chi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3841,
+        "aniId": 3841,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3841": {
+        "identifier": "3841",
+        "malId": 3841,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chi's Sweet Home",
+        "url": "https://animixplay.to/anime/3841"
+      }
+    },
+    "YugenAnime": {
+      "14718": {
+        "identifier": "14718",
+        "malId": 3841,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chi's Sweet Home",
+        "url": "https://yugen.to/anime/14718/chis-sweet-home-mnuv/"
+      }
+    }
+  }
+}

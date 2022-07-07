@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-15T03:06:40.000Z",
+  "checkedAt": "2022-05-15T03:06:40.000Z",
+  "id": 11699,
+  "type": "anime",
+  "title": "Yurumates wa?",
+  "altTitle": [
+    "Yurumates ha?",
+    "Yurumeitsu ha?",
+    "Yurumeitsu wa?",
+    "ゆるめいつ は?"
+  ],
+  "url": "https://myanimelist.net/anime/11699/Yurumates_wa",
+  "image": "https://cdn.myanimelist.net/images/anime/7/32647.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.takeshobo.co.jp/sp/yuru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8253"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13201"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8253,
+  "Pages": {
+    "9anime": {
+      "l936": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5964,
+        "identifier": "l936",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yurumates wa?",
+        "url": "https://9anime.to/watch/yurumates-wa.l936",
+        "image": "https://static.akacdn.ru/files/images/2018/03/93015e98320fa5437d7af5ca9dfcc6a8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11699,
+        "aniId": 11699,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T23:02:11.000Z",
+  "checkedAt": "2022-05-14T23:02:11.000Z",
+  "id": 1527,
+  "type": "anime",
+  "title": "Pokemon: Senritsu no Mirage Pokemon",
+  "altTitle": [
+    "Pocket Monsters: Senritsu no Mirage Pokemon",
+    "Pokemon: The Mastermind of Mirage Pokemon",
+    "ポケットモンスター 戦慄のミラージュポケモン"
+  ],
+  "url": "https://myanimelist.net/anime/1527/Pokemon__Senritsu_no_Mirage_Pokemon",
+  "image": "https://cdn.myanimelist.net/images/anime/1471/108232.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1041"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6258"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pok%C3%A9mon:_The_Mastermind_of_Mirage_Pok%C3%A9mon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1041,
+  "Pages": {
+    "9anime": {
+      "66k7": {
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2964,
+        "identifier": "66k7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon: Senritsu no Mirage Pokemon",
+        "url": "https://9anime.to/watch/pokemon-senritsu-no-mirage-pokemon.66k7",
+        "image": "https://static.akacdn.ru/static/images/2018/04/9999107ab4a48b2382dbefc56c676676.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1527,
+        "aniId": 1527,
+        "deletedAt": null
+      },
+      "77l7": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3381,
+        "identifier": "77l7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon: Senritsu no Mirage Pokemon (Dub)",
+        "url": "https://9anime.to/watch/pokemon-senritsu-no-mirage-pokemon-dub.77l7",
+        "image": "https://static.akacdn.ru/files/images/2018/04/cf45361d0439a9d0cd56b53080e7addc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1527,
+        "aniId": 1527,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1527": {
+        "identifier": "1527",
+        "malId": 1527,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon: Senritsu no Mirage Pokemon",
+        "url": "https://animixplay.to/anime/1527"
+      }
+    },
+    "YugenAnime": {
+      "6043": {
+        "identifier": "6043",
+        "malId": 1527,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pokemon: Senritsu no Mirage Pokemon",
+        "url": "https://yugen.to/anime/6043/pokemon-senritsu-no-mirage-pokemon/"
+      }
+    }
+  }
+}

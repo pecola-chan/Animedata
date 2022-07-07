@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-15T00:17:47.000Z",
+  "checkedAt": "2022-05-15T00:17:47.000Z",
+  "id": 2756,
+  "type": "anime",
+  "title": "Cheonnyeon-yeowoo Yeowoobi",
+  "altTitle": [
+    "Yobi, The Five Tailed Fox",
+    "천년여우 여우비"
+  ],
+  "url": "https://myanimelist.net/anime/2756/Cheonnyeon-yeowoo_Yeowoobi",
+  "image": "https://cdn.myanimelist.net/images/anime/8/56083.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yeuwoobi.co.kr/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5303"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yobi,_the_Five_Tailed_Fox"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5303,
+  "Pages": {
+    "9anime": {
+      "l2o6": {
+        "createdAt": "2020-10-12T15:52:56.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5785,
+        "identifier": "l2o6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cheonnyeon-yeowoo Yeowoobi",
+        "url": "https://9anime.to/watch/cheonnyeon-yeowoo-yeowoobi.l2o6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SAcHaeL7si4/WJLMey3sCYI/AAAAAAABbw4/6pt5TjhBF2w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2756,
+        "aniId": 2756,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2756": {
+        "identifier": "2756",
+        "malId": 2756,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cheonnyeon-yeowoo Yeowoobi",
+        "url": "https://animixplay.to/anime/2756"
+      }
+    }
+  }
+}

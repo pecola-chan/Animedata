@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-14T20:18:35.000Z",
+  "checkedAt": "2022-05-14T20:18:35.000Z",
+  "id": 7106,
+  "type": "anime",
+  "title": "Ougon Senshi Gold Lightan",
+  "altTitle": [
+    "Golden Warrior Gold Lightan",
+    "Golden Warrior: The Gold Lightan",
+    "黄金戦士ゴールド・ライタン"
+  ],
+  "url": "https://myanimelist.net/anime/7106/Ougon_Senshi_Gold_Lightan",
+  "image": "https://cdn.myanimelist.net/images/anime/10/60089.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works_animation/archive/goldlightan.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1782"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1432"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Golden_Warrior_Gold_Lightan"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/gold-lightan-golden-warrior"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1782,
+  "Pages": {
+    "Gogoanime": {
+      "ougon-senshi-gold-lightan": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19955,
+        "identifier": "ougon-senshi-gold-lightan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ougon Senshi Gold Lightan",
+        "url": "https://gogoanime.vc/category/ougon-senshi-gold-lightan",
+        "image": "https://gogocdn.net/cover/ougon-senshi-gold-lightan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7106,
+        "aniId": 7106,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "qmo3": {
+        "createdAt": "2021-04-07T15:22:31.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36285,
+        "identifier": "qmo3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ougon Senshi Gold Lightan",
+        "url": "https://9anime.to/watch/golden-warrior-the-gold-lightan.qmo3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/6cbf8d78e3dd567d8370848f29486e23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7106,
+        "aniId": 7106,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7106": {
+        "identifier": "7106",
+        "malId": 7106,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ougon Senshi Gold Lightan",
+        "url": "https://animixplay.to/anime/7106"
+      }
+    },
+    "YugenAnime": {
+      "6089": {
+        "identifier": "6089",
+        "malId": 7106,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ougon Senshi Gold Lightan",
+        "url": "https://yugen.to/anime/6089/ougon-senshi-gold-lightan/"
+      }
+    }
+  }
+}

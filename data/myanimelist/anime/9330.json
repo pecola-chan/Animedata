@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T17:08:28.000Z",
+  "checkedAt": "2022-05-14T17:08:28.000Z",
+  "id": 9330,
+  "type": "anime",
+  "title": "Dragon Crisis!",
+  "altTitle": [
+    "Dragon Crisis!",
+    "ドラゴンクライシス!"
+  ],
+  "url": "https://myanimelist.net/anime/9330/Dragon_Crisis",
+  "image": "https://cdn.myanimelist.net/images/anime/8/50311.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dash.shueisha.co.jp/topics/1007_dragoncrisis.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7671"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11721"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dragon_Crisis!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-224841"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7671,
+  "Pages": {
+    "9anime": {
+      "qx2j": {
+        "createdAt": "2020-10-12T15:55:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8610,
+        "identifier": "qx2j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Crisis!",
+        "url": "https://9anime.to/watch/dragon-crisis.qx2j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-E7mgWHHJi1o/V5HmzEUCpZI/AAAAAAAAxLM/rvRyPGD_AOw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9330,
+        "aniId": 9330,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dragon-crisis": {
+        "createdAt": "2020-10-12T16:00:18.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17487,
+        "identifier": "dragon-crisis",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dragon Crisis!",
+        "url": "https://gogoanime.vc/category/dragon-crisis",
+        "image": "https://cdnimg.xyz/images/anime/D/dragon-crisis.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9330,
+        "aniId": 9330,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "633": {
+        "identifier": "633",
+        "malId": 9330,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dragon Crisis!",
+        "url": "https://animepahe.com/a/633"
+      }
+    },
+    "AniMixPlay": {
+      "9330": {
+        "identifier": "9330",
+        "malId": 9330,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dragon Crisis!",
+        "url": "https://animixplay.to/anime/9330"
+      }
+    },
+    "YugenAnime": {
+      "922": {
+        "identifier": "922",
+        "malId": 9330,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dragon Crisis!",
+        "url": "https://yugen.to/anime/922/dragon-crisis/"
+      }
+    }
+  }
+}

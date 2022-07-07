@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-15T04:47:07.000Z",
+  "checkedAt": "2022-05-15T04:47:07.000Z",
+  "id": 23499,
+  "type": "anime",
+  "title": "Gakumon!: Ookami Shoujo wa Kujikenai",
+  "altTitle": [
+    "School of Monsters! Wolf Girl Won't Give Up",
+    "がくモン!〜オオカミ少女はくじけない〜"
+  ],
+  "url": "https://myanimelist.net/anime/23499/Gakumon__Ookami_Shoujo_wa_Kujikenai",
+  "image": "https://cdn.myanimelist.net/images/anime/10/79189.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jumpsq.shueisha.co.jp/contents/sp_gakumon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10634"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16003"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8C%E3%81%8F%E3%83%A2%E3%83%B3!%E3%80%9C%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E5%B0%91%E5%A5%B3%E3%81%AF%E3%81%8F%E3%81%98%E3%81%91%E3%81%AA%E3%81%84%E3%80%9C"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10634,
+  "Pages": {
+    "9anime": {
+      "rz8m": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9109,
+        "identifier": "rz8m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakumon!: Ookami Shoujo wa Kujikenai",
+        "url": "https://9anime.to/watch/gakumon-ookami-shoujo-wa-kujikenai.rz8m",
+        "image": "https://static.akacdn.ru/files/images/2018/07/dee42861b333a1ed0c49d9a5f221e0fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23499,
+        "aniId": 20696,
+        "deletedAt": null
+      }
+    }
+  }
+}

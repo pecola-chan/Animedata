@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-01-25T18:43:23.000Z",
+  "updatedAt": "2022-05-15T01:10:47.000Z",
+  "checkedAt": "2022-05-15T01:10:47.000Z",
+  "id": 36241,
+  "type": "anime",
+  "title": "One Piece Film: Gold - Cine Mike Popcorn Kokuchi",
+  "altTitle": [
+    "TOHO Cinemas x One Piece Film: Gold",
+    "「ONE PIECE FILM GOLD」シネマイクポップコーン告知"
+  ],
+  "url": "https://myanimelist.net/anime/36241/One_Piece_Film__Gold_-_Cine_Mike_Popcorn_Kokuchi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/87542.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web.archive.org/web/20160728114638/https://www.tohotheater.jp/campaign/onepiece-popcon.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11529"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11529,
+  "Pages": {
+    "9anime": {
+      "1nnlv": {
+        "createdAt": "2022-01-03T19:55:21.000Z",
+        "updatedAt": "2022-01-03T19:55:41.000Z",
+        "checkedAt": null,
+        "id": 39679,
+        "identifier": "1nnlv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece Film: Gold - Cine Mike Popcorn Kokuchi",
+        "url": "https://9anime.to/watch/one-piece-film-gold-cine-mike-popcorn-kokuchi.1nnlv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/81/81a8672ff0e022d84cbd05112159d4cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36241,
+        "aniId": null,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3838": {
+        "identifier": "3838",
+        "malId": 36241,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece Film: Gold - Cine Mike Popcorn Kokuchi",
+        "url": "https://animepahe.com/a/3838"
+      }
+    }
+  }
+}

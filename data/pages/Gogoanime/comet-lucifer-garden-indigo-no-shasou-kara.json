@@ -1,0 +1,69 @@
+{
+  "createdAt": "2022-01-22T07:00:26.000Z",
+  "updatedAt": "2022-01-22T07:30:11.000Z",
+  "checkedAt": null,
+  "id": 39930,
+  "identifier": "comet-lucifer-garden-indigo-no-shasou-kara",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Comet Lucifer: Garden Indigo no Shasou kara",
+  "url": "https://gogoanime.cm/category/comet-lucifer-garden-indigo-no-shasou-kara",
+  "image": "https://gogocdn.net/cover/comet-lucifer-garden-indigo-no-shasou-kara.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 31827,
+  "aniId": 21491,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:40.000Z",
+    "updatedAt": "2022-05-14T23:32:47.000Z",
+    "checkedAt": "2022-05-14T23:32:47.000Z",
+    "id": 31827,
+    "type": "anime",
+    "title": "Comet Lucifer: Garden Indigo no Shasou kara",
+    "altTitle": [
+      "ガーデン・インディゴの車窓から"
+    ],
+    "url": "https://myanimelist.net/anime/31827/Comet_Lucifer__Garden_Indigo_no_Shasou_kara",
+    "image": "https://cdn.myanimelist.net/images/anime/12/76688.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comet-lucifer.jp/products/bd/vol1/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11453"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Comet_Lucifer"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11453
+  },
+  "Ani": {
+    "createdAt": "2021-10-17T09:58:45.000Z",
+    "updatedAt": "2022-05-15T15:11:35.000Z",
+    "checkedAt": "2022-05-15T15:11:35.000Z",
+    "id": 21491,
+    "type": "anime",
+    "title": "Comet Lucifer: Garden Indigo no Shasou kara",
+    "altTitle": [
+      "コメット・ルシファー ガーデン・インディゴの車窓から"
+    ],
+    "url": "https://anilist.co/anime/21491",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21491-w6P4lbF2w0LB.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 31827,
+    "deletedAt": null
+  }
+}

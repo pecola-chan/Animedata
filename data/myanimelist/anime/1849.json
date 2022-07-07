@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-15T04:55:47.000Z",
+  "checkedAt": "2022-05-15T04:55:47.000Z",
+  "id": 1849,
+  "type": "anime",
+  "title": "Haou Taikei Ryuu Knight: Adeu Legend",
+  "altTitle": [
+    "Lord of Lords Adeu's Legend OVA",
+    "Haou Daikei Ryuu Knight: Adeu Legend",
+    "Lord of Lords Ryu Knight: Adeu's Legend",
+    "覇王大系リューナイト アデュー・レジェンド"
+  ],
+  "url": "https://myanimelist.net/anime/1849/Haou_Taikei_Ryuu_Knight__Adeu_Legend",
+  "image": "https://cdn.myanimelist.net/images/anime/10/52143.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=616"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1977"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 616,
+  "Pages": {
+    "9anime": {
+      "r0yo": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8699,
+        "identifier": "r0yo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haou Taikei Ryuu Knight: Adeu Legend",
+        "url": "https://9anime.to/watch/haou-taikei-ryuu-knight-adeu-legend.r0yo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AgYBDY2OxpY/WH25Ic7aH1I/AAAAAAABZt8/TfcgiroOix0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1849,
+        "aniId": 1849,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1849": {
+        "identifier": "1849",
+        "malId": 1849,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Haou Taikei Ryuu Knight: Adeu Legend",
+        "url": "https://animixplay.to/anime/1849"
+      }
+    },
+    "YugenAnime": {
+      "1461": {
+        "identifier": "1461",
+        "malId": 1849,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Haou Taikei Ryuu Knight: Adeu Legend",
+        "url": "https://yugen.to/anime/1461/haou-taikei-ryuu-knight-adeu-legend/"
+      }
+    }
+  }
+}

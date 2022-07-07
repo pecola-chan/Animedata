@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-13T19:56:18.000Z",
+  "checkedAt": "2022-05-13T19:56:18.000Z",
+  "id": 16397,
+  "type": "anime",
+  "title": "Photokano",
+  "altTitle": [
+    "Foto Kano",
+    "Photograph Girlfriend",
+    "Photo Kano",
+    "フォトカノ"
+  ],
+  "url": "https://myanimelist.net/anime/16397/Photokano",
+  "image": "https://cdn.myanimelist.net/images/anime/11/49199.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/photokano/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9520"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14902"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photo_Kano#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-253983"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/photo-kano"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9520,
+  "Pages": {
+    "9anime": {
+      "zvl": {
+        "createdAt": "2020-10-12T15:57:16.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11292,
+        "identifier": "zvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Photokano",
+        "url": "https://9anime.to/watch/photokano.zvl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-h9ems9_21Xc/V4DG1JX41qI/AAAAAAAAuKU/dFaYRdfajiA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16397,
+        "aniId": 16397,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "photo-kano": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20047,
+        "identifier": "photo-kano",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Photo Kano",
+        "url": "https://gogoanime.vc/category/photo-kano",
+        "image": "https://gogocdn.net/images/anime/P/Photo-Kano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16397,
+        "aniId": 16397,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "443": {
+        "identifier": "443",
+        "malId": 16397,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Photokano",
+        "url": "https://animepahe.com/a/443"
+      }
+    },
+    "AniMixPlay": {
+      "16397": {
+        "identifier": "16397",
+        "malId": 16397,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Photokano",
+        "url": "https://animixplay.to/anime/16397"
+      }
+    },
+    "YugenAnime": {
+      "1958": {
+        "identifier": "1958",
+        "malId": 16397,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Photokano",
+        "url": "https://yugen.to/anime/1958/photo-kano/"
+      }
+    }
+  }
+}

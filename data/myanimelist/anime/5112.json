@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-14T10:16:22.000Z",
+  "checkedAt": "2022-05-14T10:16:22.000Z",
+  "id": 5112,
+  "type": "anime",
+  "title": "Akikan!",
+  "altTitle": [
+    "Empty Can!",
+    "Akikan!",
+    "アキカン!"
+  ],
+  "url": "https://myanimelist.net/anime/5112/Akikan",
+  "image": "https://cdn.myanimelist.net/images/anime/5/47093.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.melomelomelon.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6182"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10209"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Akikan"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/akikan"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6182,
+  "Pages": {
+    "9anime": {
+      "rlkp": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8897,
+        "identifier": "rlkp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Akikan!",
+        "url": "https://9anime.to/watch/akikan.rlkp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cnw9T76eseU/V5YU4E1UbWI/AAAAAAAAx68/Bsha7_2In8Q/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5112,
+        "aniId": 5112,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akikan": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16472,
+        "identifier": "akikan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akikan",
+        "url": "https://gogoanime.vc/category/akikan",
+        "image": "https://gogocdn.net/images/anime/A/akikan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5112,
+        "aniId": 5112,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1277": {
+        "identifier": "1277",
+        "malId": 5112,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Akikan!",
+        "url": "https://animepahe.com/a/1277"
+      }
+    },
+    "AniMixPlay": {
+      "5112": {
+        "identifier": "5112",
+        "malId": 5112,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Akikan!",
+        "url": "https://animixplay.to/anime/5112"
+      }
+    },
+    "YugenAnime": {
+      "267": {
+        "identifier": "267",
+        "malId": 5112,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Akikan!",
+        "url": "https://yugen.to/anime/267/akikan/"
+      }
+    }
+  }
+}

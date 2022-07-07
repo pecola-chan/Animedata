@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T10:06:28.000Z",
+  "checkedAt": "2022-05-14T10:06:28.000Z",
+  "id": 19369,
+  "type": "anime",
+  "title": "Outbreak Company",
+  "altTitle": [
+    "Outbreak Company",
+    "アウトブレイク・カンパニー"
+  ],
+  "url": "https://myanimelist.net/anime/19369/Outbreak_Company",
+  "image": "https://cdn.myanimelist.net/images/anime/7/54343.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/obc/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9855"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15347"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Outbreak_Company"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257325"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/outbreak-company"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9855,
+  "Pages": {
+    "9anime": {
+      "kml4": {
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5515,
+        "identifier": "kml4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Outbreak Company (Dub)",
+        "url": "https://9anime.to/watch/outbreak-company-dub.kml4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5cvErYs5XCc/V-YxICNJ-GI/AAAAAAABAZA/wBK8Buw88mo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19369,
+        "aniId": 19369,
+        "deletedAt": null
+      },
+      "pox": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8051,
+        "identifier": "pox",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Outbreak Company",
+        "url": "https://9anime.to/watch/outbreak-company.pox",
+        "image": "https://static.akacdn.ru/static/images/2018/04/3bd53a3238ac4104ea1ea31727f7b100.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19369,
+        "aniId": 19369,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "outbreak-company": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19963,
+        "identifier": "outbreak-company",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Outbreak Company",
+        "url": "https://gogoanime.vc/category/outbreak-company",
+        "image": "https://cdnimg.xyz/images/anime/Outbreak-Company.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19369,
+        "aniId": 19369,
+        "deletedAt": null
+      },
+      "outbreak-companydub": {
+        "createdAt": "2020-10-12T16:01:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19964,
+        "identifier": "outbreak-companydub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Outbreak Company\t(Dub)",
+        "url": "https://gogoanime.vc/category/outbreak-companydub",
+        "image": "https://gogocdn.net/cover/outbreak-companydub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19369,
+        "aniId": 19369,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "364": {
+        "identifier": "364",
+        "malId": 19369,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Outbreak Company",
+        "url": "https://animepahe.com/a/364"
+      }
+    },
+    "AniMixPlay": {
+      "19369": {
+        "identifier": "19369",
+        "malId": 19369,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Outbreak Company",
+        "url": "https://animixplay.to/anime/19369"
+      }
+    },
+    "YugenAnime": {
+      "704": {
+        "identifier": "704",
+        "malId": 19369,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Outbreak Company",
+        "url": "https://yugen.to/anime/704/outbreak-company/"
+      }
+    }
+  }
+}

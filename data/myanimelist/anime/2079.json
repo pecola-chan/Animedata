@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-06-06T13:11:08.000Z",
+  "checkedAt": "2022-06-06T13:11:08.000Z",
+  "id": 2079,
+  "type": "anime",
+  "title": "Majuu Senshi Luna Varga",
+  "altTitle": [
+    "Demon Warrior Luna Varga",
+    "魔獣戦士ルナ・ヴァルガー"
+  ],
+  "url": "https://myanimelist.net/anime/2079/Majuu_Senshi_Luna_Varga",
+  "image": "https://cdn.myanimelist.net/images/anime/9/29832.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1948"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=553"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E7%8D%A3%E6%88%A6%E5%A3%AB%E3%83%AB%E3%83%8A%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%AC%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1948,
+  "Pages": {
+    "9anime": {
+      "rzqm": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9116,
+        "identifier": "rzqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Majuu Senshi Luna Varga",
+        "url": "https://9anime.to/watch/majuu-senshi-luna-varga.rzqm",
+        "image": "http://static.akacdn.ru/static/images/2018/07/f82a25f43f53375864e1f32340f8b46c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2079,
+        "aniId": 2079,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2079": {
+        "identifier": "2079",
+        "malId": 2079,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Majuu Senshi Luna Varga",
+        "url": "https://animixplay.to/anime/2079"
+      }
+    }
+  }
+}

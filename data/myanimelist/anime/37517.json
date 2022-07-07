@@ -1,0 +1,151 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:31:26.000Z",
+  "checkedAt": "2022-05-14T16:31:26.000Z",
+  "id": 37517,
+  "type": "anime",
+  "title": "Happy Sugar Life",
+  "altTitle": [
+    "White Sugar Garden",
+    "Black Salt Cage",
+    "Happy Sugar Life",
+    "ハッピーシュガーライフ"
+  ],
+  "url": "https://myanimelist.net/anime/37517/Happy_Sugar_Life",
+  "image": "https://cdn.myanimelist.net/images/anime/1386/103920.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://happysugarlife.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13944"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20787"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Happy_Sugar_Life"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13944,
+  "Pages": {
+    "9anime": {
+      "knm6": {
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5546,
+        "identifier": "knm6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Happy Sugar Life (Dub)",
+        "url": "https://9anime.to/watch/happy-sugar-life-dub.knm6",
+        "image": "https://static.akacdn.ru/static/images/2018/11/53d1fbe7f4ee30619e99fdefee4283af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37517,
+        "aniId": 101351,
+        "deletedAt": null
+      },
+      "xn6v": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2022-06-13T21:32:33.000Z",
+        "checkedAt": "2022-06-13T21:32:33.000Z",
+        "id": 10306,
+        "identifier": "xn6v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Happy Sugar Life",
+        "url": "https://9anime.to/watch/happy-sugar-life.xn6v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/2aad6b1e4ff2900890d5b740b5123721.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37517,
+        "aniId": 101351,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "happy-sugar-life": {
+        "createdAt": "2020-10-12T16:00:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18179,
+        "identifier": "happy-sugar-life",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Happy Sugar Life",
+        "url": "https://gogoanime.vc/category/happy-sugar-life",
+        "image": "https://cdnimg.xyz/cover/happy-sugar-life.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37517,
+        "aniId": 101351,
+        "deletedAt": null
+      },
+      "happy-sugar-life-dub": {
+        "createdAt": "2020-10-12T16:00:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18180,
+        "identifier": "happy-sugar-life-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Happy Sugar Life (Dub)",
+        "url": "https://gogoanime.vc/category/happy-sugar-life-dub",
+        "image": "https://cdnimg.xyz/cover/happy-sugar-life-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37517,
+        "aniId": 101351,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2615": {
+        "identifier": "2615",
+        "malId": 37517,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Happy Sugar Life",
+        "url": "https://animepahe.com/a/2615"
+      }
+    },
+    "AniMixPlay": {
+      "37517": {
+        "identifier": "37517",
+        "malId": 37517,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Happy Sugar Life",
+        "url": "https://animixplay.to/anime/37517"
+      }
+    },
+    "YugenAnime": {
+      "1584": {
+        "identifier": "1584",
+        "malId": 37517,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Happy Sugar Life",
+        "url": "https://yugen.to/anime/1584/happy-sugar-life/"
+      }
+    }
+  }
+}

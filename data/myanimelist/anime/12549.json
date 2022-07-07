@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:11.000Z",
+  "updatedAt": "2022-05-13T23:40:32.000Z",
+  "checkedAt": "2022-05-13T23:40:32.000Z",
+  "id": 12549,
+  "type": "anime",
+  "title": "Dakara Boku wa, H ga Dekinai.",
+  "altTitle": [
+    "Dakara boku-ha H ga Dekinai.",
+    "Dakara Boku wa, Ecchi ga Dekinai.",
+    "So, I Can't Play H!",
+    "だから僕は、Hができない。"
+  ],
+  "url": "https://myanimelist.net/anime/12549/Dakara_Boku_wa_H_ga_Dekinai",
+  "image": "https://cdn.myanimelist.net/images/anime/4/75102.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://boku-h.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8879"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13947"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dakara_Boku_wa,_H_ga_Dekinai"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/so-i-cant-play-h"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8879,
+  "Pages": {
+    "9anime": {
+      "z1mw": {
+        "createdAt": "2020-10-12T15:57:02.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10947,
+        "identifier": "z1mw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dakara Boku wa, H ga Dekinai.",
+        "url": "https://9anime.to/watch/dakara-boku-wa-h-ga-dekinai.z1mw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lI-1tBSA5co/V6imeQg2peI/AAAAAAAA1YY/Wr2x77C2Ywk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12549,
+        "aniId": 12549,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dakara-boku-wa-h-ga-dekinai": {
+        "createdAt": "2020-10-12T16:00:11.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17229,
+        "identifier": "dakara-boku-wa-h-ga-dekinai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dakara Boku wa, H ga Dekinai",
+        "url": "https://gogoanime.vc/category/dakara-boku-wa-h-ga-dekinai",
+        "image": "https://images.gogoanime.tv/images/anime/D/dakara-boku-wa-H-ga-Dekinai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12549,
+        "aniId": 12549,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "168": {
+        "identifier": "168",
+        "malId": 12549,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dakara Boku wa, H ga Dekinai.",
+        "url": "https://animepahe.com/a/168"
+      }
+    },
+    "AniMixPlay": {
+      "12549": {
+        "identifier": "12549",
+        "malId": 12549,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dakara Boku wa, H ga Dekinai.",
+        "url": "https://animixplay.to/anime/12549"
+      }
+    },
+    "YugenAnime": {
+      "4034": {
+        "identifier": "4034",
+        "malId": 12549,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dakara Boku wa, H ga Dekinai.",
+        "url": "https://yugen.to/anime/4034/dakara-boku-wa-h-ga-dekinai/"
+      }
+    }
+  }
+}

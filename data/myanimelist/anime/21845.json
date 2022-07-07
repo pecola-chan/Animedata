@@ -1,0 +1,123 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-14T16:59:23.000Z",
+  "checkedAt": "2022-05-14T16:59:23.000Z",
+  "id": 21845,
+  "type": "anime",
+  "title": "Ushinawareta Mirai wo Motomete",
+  "altTitle": [
+    "Ushinawareta Mirai o Motomete",
+    "À la recherche du futur perdu",
+    "Waremete",
+    "In Search of the Lost Future",
+    "失われた未来を求めて"
+  ],
+  "url": "https://myanimelist.net/anime/21845/Ushinawareta_Mirai_wo_Motomete",
+  "image": "https://cdn.myanimelist.net/images/anime/1414/112510.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ushinawareta-mirai.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10372"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16169"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/In_Search_of_the_Lost_Future"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274867"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/in-search-of-the-lost-future"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10372,
+  "Pages": {
+    "9anime": {
+      "np88": {
+        "createdAt": "2020-10-12T15:53:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7180,
+        "identifier": "np88",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ushinawareta Mirai wo Motomete",
+        "url": "https://9anime.to/watch/ushinawareta-mirai-wo-motomete.np88",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jZQsZGOBXX4/V60qW_eh_cI/AAAAAAAA2Z4/77pQZQcG7Gs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21845,
+        "aniId": 20591,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ushinawareta-mirai-o-motomete": {
+        "createdAt": "2020-10-12T16:02:12.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21330,
+        "identifier": "ushinawareta-mirai-o-motomete",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ushinawareta Mirai o Motomete",
+        "url": "https://gogoanime.vc/category/ushinawareta-mirai-o-motomete",
+        "image": "https://cdnimg.xyz/images/fall/Ushinawareta Mirai o Motomete.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21845,
+        "aniId": 20591,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1398": {
+        "identifier": "1398",
+        "malId": 21845,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ushinawareta Mirai wo Motomete",
+        "url": "https://animepahe.com/a/1398"
+      }
+    },
+    "AniMixPlay": {
+      "21845": {
+        "identifier": "21845",
+        "malId": 21845,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ushinawareta Mirai wo Motomete",
+        "url": "https://animixplay.to/anime/21845"
+      }
+    },
+    "YugenAnime": {
+      "4600": {
+        "identifier": "4600",
+        "malId": 21845,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ushinawareta Mirai wo Motomete",
+        "url": "https://yugen.to/anime/4600/ushinawareta-mirai-o-motomete/"
+      }
+    }
+  }
+}

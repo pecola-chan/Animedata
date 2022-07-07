@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:02:15.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21438,
+  "identifier": "wo-shi-jiang-xiaobai",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Wo Shi Jiang Xiaobai",
+  "url": "https://gogoanime.vc/category/wo-shi-jiang-xiaobai",
+  "image": "https://cdnimg.xyz/cover/wo-shi-jiang-xiaobai.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36775,
+  "aniId": 101103,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:58.000Z",
+    "updatedAt": "2022-05-14T21:48:35.000Z",
+    "checkedAt": "2022-05-14T21:48:35.000Z",
+    "id": 36775,
+    "type": "anime",
+    "title": "Wo Shi Jiang Xiaobai",
+    "altTitle": [
+      "Wo Shi Jiang Xiao Bai",
+      "I'm Joybo",
+      "我是江小白"
+    ],
+    "url": "https://myanimelist.net/anime/36775/Wo_Shi_Jiang_Xiaobai",
+    "image": "https://cdn.myanimelist.net/images/anime/1647/116402.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.2-10.cn/hore/animation/2018/0804/5.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13737"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13737
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:29.000Z",
+    "updatedAt": "2022-05-15T16:56:11.000Z",
+    "checkedAt": "2022-05-15T16:56:11.000Z",
+    "id": 101103,
+    "type": "anime",
+    "title": "Wo Shi Jiang Xiaobai: Shijie Shang de Lingyi Ge Wo",
+    "altTitle": [
+      "我是江小白：世界上的另一个我",
+      "I'm Jiang Xiaobai: Another Me In This World",
+      "I'm Joybo - Find Another Me -",
+      "我是江小白 第1季"
+    ],
+    "url": "https://anilist.co/anime/101103",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101103-TO2rpvciD2dW.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36775,
+    "deletedAt": null
+  }
+}

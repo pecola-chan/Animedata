@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-14T22:16:30.000Z",
+  "checkedAt": "2022-05-14T22:16:30.000Z",
+  "id": 4773,
+  "type": "anime",
+  "title": "Yamato Takeru",
+  "altTitle": [
+    "Maxbot",
+    "ヤマトタケル"
+  ],
+  "url": "https://myanimelist.net/anime/4773/Yamato_Takeru",
+  "image": "https://cdn.myanimelist.net/images/anime/11/20270.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/yamato/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2311"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3170"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yamato_Takeru_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2311,
+  "Pages": {
+    "9anime": {
+      "7148": {
+        "createdAt": "2020-10-12T15:48:33.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 231,
+        "identifier": "7148",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yamato Takeru",
+        "url": "https://9anime.to/watch/yamato-takeru.7148",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jYRixQJExyo/V9ZlWMJIBhI/AAAAAAAA9lI/EsSbHtBpYAQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4773,
+        "aniId": 4773,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yamato-takeru": {
+        "createdAt": "2021-04-02T09:00:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36142,
+        "identifier": "yamato-takeru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yamato Takeru",
+        "url": "https://gogoanime.vc/category/yamato-takeru",
+        "image": "https://gogocdn.net/cover/yamato-takeru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4773,
+        "aniId": 4773,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4398": {
+        "identifier": "4398",
+        "malId": 4773,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yamato Takeru",
+        "url": "https://animepahe.com/a/4398"
+      }
+    },
+    "AniMixPlay": {
+      "4773": {
+        "identifier": "4773",
+        "malId": 4773,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yamato Takeru",
+        "url": "https://animixplay.to/anime/4773"
+      }
+    },
+    "YugenAnime": {
+      "7415": {
+        "identifier": "7415",
+        "malId": 4773,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yamato Takeru",
+        "url": "https://yugen.to/anime/7415/yamato-takeru/"
+      }
+    }
+  }
+}

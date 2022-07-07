@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T16:53:02.000Z",
+  "checkedAt": "2022-05-14T16:53:02.000Z",
+  "id": 1530,
+  "type": "anime",
+  "title": "Kanon (2006)",
+  "altTitle": [
+    "Kanon Remake",
+    "Kanon 2006",
+    "Kanon",
+    "カノン (2006)"
+  ],
+  "url": "https://myanimelist.net/anime/1530/Kanon_2006",
+  "image": "https://cdn.myanimelist.net/images/anime/4/56301.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/kanon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4404"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6431"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kanon"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/kanon"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4404,
+  "Pages": {
+    "9anime": {
+      "4q1o": {
+        "createdAt": "2020-10-12T15:50:12.000Z",
+        "updatedAt": "2022-06-13T21:31:23.000Z",
+        "checkedAt": "2022-06-13T21:31:23.000Z",
+        "id": 2353,
+        "identifier": "4q1o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanon (2006)",
+        "url": "https://9anime.to/watch/kanon-2006.4q1o",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/3cea181780fb855bc1d2127eecb54ea5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1530,
+        "aniId": 1530,
+        "deletedAt": null
+      },
+      "jz72": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5119,
+        "identifier": "jz72",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanon (2006) (Dub)",
+        "url": "https://9anime.to/watch/kanon-2006-dub.jz72",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2WBDOlk62h0/V_koR7Y1s2I/AAAAAAABFXY/AZpTgyfiMP0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1530,
+        "aniId": 1530,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kanon-2006": {
+        "createdAt": "2020-10-12T16:00:56.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18716,
+        "identifier": "kanon-2006",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanon (2006)",
+        "url": "https://gogoanime.vc/category/kanon-2006",
+        "image": "https://cdnimg.xyz/images/anime/K/Kanon-2006.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1530,
+        "aniId": 1530,
+        "deletedAt": null
+      },
+      "kanon-2006-dub": {
+        "createdAt": "2020-10-12T17:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23782,
+        "identifier": "kanon-2006-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanon (2006) (Dub)",
+        "url": "https://gogoanime.vc/category/kanon-2006-dub",
+        "image": "https://gogocdn.net/cover/kanon-2006-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1530,
+        "aniId": 1530,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "721": {
+        "identifier": "721",
+        "malId": 1530,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanon (2006)",
+        "url": "https://animepahe.com/a/721"
+      }
+    },
+    "AniMixPlay": {
+      "1530": {
+        "identifier": "1530",
+        "malId": 1530,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanon (2006)",
+        "url": "https://animixplay.to/anime/1530"
+      }
+    },
+    "YugenAnime": {
+      "3989": {
+        "identifier": "3989",
+        "malId": 1530,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kanon (2006)",
+        "url": "https://yugen.to/anime/3989/kanon-2006/"
+      }
+    }
+  }
+}

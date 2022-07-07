@@ -1,0 +1,156 @@
+{
+  "createdAt": "2022-02-19T21:18:01.000Z",
+  "updatedAt": "2022-05-14T14:44:01.000Z",
+  "checkedAt": "2022-05-14T14:44:01.000Z",
+  "id": 49556,
+  "type": "anime",
+  "title": "Love All Play",
+  "altTitle": [
+    "Love All Play",
+    "ラブオールプレー"
+  ],
+  "url": "https://myanimelist.net/anime/49556/Love_All_Play",
+  "image": "https://cdn.myanimelist.net/images/anime/1346/120869.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://love-all-play.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16527"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24617"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Love_All_Play"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282595"
+    },
+    {
+      "site": "ani-oneasia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "animedigitalnetwork",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "aniplustv",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibiliglobal",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "catchplay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "mewatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "sushiroll",
+      "url": "https://sushiroll.co.id/"
+    },
+    {
+      "site": "iqiyi",
+      "url": "https://www.iq.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 16527,
+  "Pages": {
+    "Gogoanime": {
+      "love-all-play": {
+        "createdAt": "2022-04-02T10:30:21.000Z",
+        "updatedAt": "2022-04-02T11:00:21.000Z",
+        "checkedAt": null,
+        "id": 40599,
+        "identifier": "love-all-play",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love All Play",
+        "url": "https://gogoanime.fi/category/love-all-play",
+        "image": "https://gogocdn.net/cover/love-all-play.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49556,
+        "aniId": 137633,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "ll3k6": {
+        "createdAt": "2022-04-02T14:30:21.000Z",
+        "updatedAt": "2022-04-02T15:00:21.000Z",
+        "checkedAt": null,
+        "id": 40602,
+        "identifier": "ll3k6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love All Play",
+        "url": "https://9anime.to/watch/love-all-play.ll3k6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/7f/7fbcfde99fc2b51bcb564eba8b654118.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49556,
+        "aniId": 137633,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4742": {
+        "identifier": "4742",
+        "malId": 49556,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Love All Play",
+        "url": "https://animepahe.com/a/4742"
+      }
+    },
+    "AniMixPlay": {
+      "49556": {
+        "identifier": "49556",
+        "malId": 49556,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love All Play",
+        "url": "https://animixplay.to/anime/49556"
+      }
+    },
+    "YugenAnime": {
+      "11845": {
+        "identifier": "11845",
+        "malId": 49556,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love All Play",
+        "url": "https://yugen.to/anime/11845/love-all-play/"
+      }
+    }
+  }
+}

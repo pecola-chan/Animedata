@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-14T16:04:20.000Z",
+  "checkedAt": "2022-05-14T16:04:20.000Z",
+  "id": 18245,
+  "type": "anime",
+  "title": "White Album 2",
+  "altTitle": [
+    "White Album2",
+    "WA2",
+    "White Album 2",
+    "ホワイトアルバム2"
+  ],
+  "url": "https://myanimelist.net/anime/18245/White_Album_2",
+  "image": "https://cdn.myanimelist.net/images/anime/2/53561.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://whitealbum2.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9823"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15274"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/White_Album_2"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257183"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9823,
+  "Pages": {
+    "9anime": {
+      "noj": {
+        "createdAt": "2020-10-12T15:53:55.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7157,
+        "identifier": "noj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "White Album 2",
+        "url": "https://9anime.to/watch/white-album-2.noj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jTEaVUpHed0/V4AUZMopPbI/AAAAAAAAuBQ/1eOnuDRiRMc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18245,
+        "aniId": 18245,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "white-album-2": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2022-06-14T05:30:02.000Z",
+        "checkedAt": "2022-06-14T05:30:02.000Z",
+        "id": 21425,
+        "identifier": "white-album-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "White Album 2",
+        "url": "https://gogoanime.sk/category/white-album-2",
+        "image": "https://gogocdn.net/images/anime/White-Album-2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18245,
+        "aniId": 18245,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "368": {
+        "identifier": "368",
+        "malId": 18245,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "White Album 2",
+        "url": "https://animepahe.com/a/368"
+      }
+    },
+    "AniMixPlay": {
+      "18245": {
+        "identifier": "18245",
+        "malId": 18245,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "White Album 2",
+        "url": "https://animixplay.to/anime/18245"
+      }
+    },
+    "YugenAnime": {
+      "2410": {
+        "identifier": "2410",
+        "malId": 18245,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "White Album 2",
+        "url": "https://yugen.to/anime/2410/white-album-2/"
+      }
+    }
+  }
+}

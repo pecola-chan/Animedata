@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-12-16T13:54:31.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 30287,
+  "identifier": "rocket-girls",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Rocket Girls",
+  "url": "https://gogoanime.vc/category/rocket-girls",
+  "image": "https://gogocdn.net/cover/rocket-girls.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1942,
+  "aniId": 1942,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:23.000Z",
+    "updatedAt": "2022-05-14T20:35:17.000Z",
+    "checkedAt": "2022-05-14T20:35:17.000Z",
+    "id": 1942,
+    "type": "anime",
+    "title": "Rocket Girls",
+    "altTitle": [
+      "ロケットガール"
+    ],
+    "url": "https://myanimelist.net/anime/1942/Rocket_Girls",
+    "image": "https://cdn.myanimelist.net/images/anime/2/79894.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.rocket-girl.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4802"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7232"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Rocket_Girls"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/tv/rocket-girls"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4802
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:05.000Z",
+    "updatedAt": "2022-05-15T20:55:23.000Z",
+    "checkedAt": "2022-05-15T20:55:23.000Z",
+    "id": 1942,
+    "type": "anime",
+    "title": "Rocket Girls",
+    "altTitle": [
+      "ロケットガール"
+    ],
+    "url": "https://anilist.co/anime/1942",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1942.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1942,
+    "deletedAt": null
+  }
+}

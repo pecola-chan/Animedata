@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:59:59.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 16835,
+  "identifier": "black-jack-21",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Black Jack 21",
+  "url": "https://gogoanime.vc/category/black-jack-21",
+  "image": "https://cdnimg.xyz/images/anime/B/black-jack-21.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2214,
+  "aniId": 2214,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:27.000Z",
+    "updatedAt": "2022-05-14T20:49:18.000Z",
+    "checkedAt": "2022-05-14T20:49:18.000Z",
+    "id": 2214,
+    "type": "anime",
+    "title": "Black Jack 21",
+    "altTitle": [
+      "BJ21",
+      "ブラック・ジャック21"
+    ],
+    "url": "https://myanimelist.net/anime/2214/Black_Jack_21",
+    "image": "https://cdn.myanimelist.net/images/anime/2/24046.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4377"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6412"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "shahid",
+        "url": "https://shahid.mbc.net/en/series/Black-Jack/series-913754"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4377
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:13.000Z",
+    "updatedAt": "2022-05-15T20:16:23.000Z",
+    "checkedAt": "2022-05-15T20:16:23.000Z",
+    "id": 2214,
+    "type": "anime",
+    "title": "Black Jack 21",
+    "altTitle": [
+      "ブラック・ジャック21",
+      "BJ21"
+    ],
+    "url": "https://anilist.co/anime/2214",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2214-b3Y4OOWHHW0i.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2214,
+    "deletedAt": null
+  }
+}

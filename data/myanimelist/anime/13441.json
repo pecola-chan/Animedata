@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:13.000Z",
+  "updatedAt": "2022-05-24T21:29:42.000Z",
+  "checkedAt": "2022-05-24T21:29:42.000Z",
+  "id": 13441,
+  "type": "anime",
+  "title": "Shiawasette Naani",
+  "altTitle": [
+    "Shiawase tte Naani",
+    "Shiawase tte Nani",
+    "What Is Happiness?",
+    "Happy Science",
+    "しあわせってなあに"
+  ],
+  "url": "https://myanimelist.net/anime/13441/Shiawasette_Naani",
+  "image": "https://cdn.myanimelist.net/images/anime/1779/114717.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8503"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/しあわせってなあに"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8503,
+  "Pages": {
+    "9anime": {
+      "0673": {
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 352,
+        "identifier": "0673",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shiawasette Naani",
+        "url": "https://9anime.to/watch/shiawasette-naani.0673",
+        "image": "https://static.akacdn.ru/files/images/2018/03/b43502035335bab07960785afcadc9fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13441,
+        "aniId": 13441,
+        "deletedAt": null
+      }
+    }
+  }
+}

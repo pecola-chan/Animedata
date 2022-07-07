@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T19:36:17.000Z",
+  "checkedAt": "2022-05-14T19:36:17.000Z",
+  "id": 33806,
+  "type": "anime",
+  "title": "Macross Δ: Delta Shougekijou",
+  "altTitle": [
+    "マクロスΔ「でるた小劇場」"
+  ],
+  "url": "https://myanimelist.net/anime/33806/Macross_Δ__Delta_Shougekijou",
+  "image": "https://cdn.myanimelist.net/images/anime/2/83238.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://macross.jp/delta/bluraydvd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10569"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%CE%94#.E6.98.A0.E5.83.8F.E7.89.B9.E5.85.B8"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10569,
+  "Pages": {
+    "9anime": {
+      "v2m7": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9178,
+        "identifier": "v2m7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross Δ SP",
+        "url": "https://9anime.to/watch/macross-d-sp.v2m7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NAOrMPytRVY/WCdc8Q7J6iI/AAAAAAABOg8/-tm252tM5JM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33806,
+        "aniId": 97952,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "macross-delta-special": {
+        "createdAt": "2020-10-12T16:01:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19208,
+        "identifier": "macross-delta-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Delta Special",
+        "url": "https://gogoanime.vc/category/macross-delta-special",
+        "image": "https://gogocdn.net/cover/macross-delta-special.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 33806,
+        "aniId": 97952,
+        "deletedAt": null
+      },
+      "macross-d-specials": {
+        "createdAt": "2021-06-18T08:21:09.000Z",
+        "updatedAt": "2021-06-18T08:50:49.000Z",
+        "checkedAt": null,
+        "id": 37424,
+        "identifier": "macross-d-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macross Δ Specials",
+        "url": "https://gogoanime.vc/category/macross-d-specials",
+        "image": "https://gogocdn.net/cover/macross-d-specials.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 33806,
+        "aniId": 97952,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33806": {
+        "identifier": "33806",
+        "malId": 33806,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Macross Δ: Delta Shougekijou",
+        "url": "https://animixplay.to/anime/33806"
+      }
+    }
+  }
+}

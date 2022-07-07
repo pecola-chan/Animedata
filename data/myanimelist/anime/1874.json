@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2022-05-14T22:42:47.000Z",
+  "checkedAt": "2022-05-14T22:42:47.000Z",
+  "id": 1874,
+  "type": "anime",
+  "title": "Love♥Love? Specials",
+  "altTitle": [
+    "LOVE♥LOVE?"
+  ],
+  "url": "https://myanimelist.net/anime/1874/Love♥Love_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/7/36569.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1762"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3798"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1762,
+  "Pages": {
+    "9anime": {
+      "167m": {
+        "createdAt": "2020-10-12T15:49:08.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 870,
+        "identifier": "167m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love♥Love? Specials",
+        "url": "https://9anime.to/watch/lovelove-specials.167m",
+        "image": "https://static.akacdn.ru/files/images/2020/09/fe6f3b53cde95536e80990f933426a67.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1874,
+        "aniId": 1874,
+        "deletedAt": null
+      }
+    }
+  }
+}

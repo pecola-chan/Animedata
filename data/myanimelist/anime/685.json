@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T23:04:23.000Z",
+  "checkedAt": "2022-05-14T23:04:23.000Z",
+  "id": 685,
+  "type": "anime",
+  "title": "To Heart: Remember My Memories",
+  "altTitle": [
+    "トゥハート ~remember my memories~"
+  ],
+  "url": "https://myanimelist.net/anime/685/To_Heart__Remember_My_Memories",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75475.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2404"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4455"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/To_Heart"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2404,
+  "Pages": {
+    "9anime": {
+      "jpln": {
+        "createdAt": "2020-10-12T15:52:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4961,
+        "identifier": "jpln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "To Heart: Remember My Memories",
+        "url": "https://9anime.to/watch/to-heart-remember-my-memories.jpln",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_LcT5IwvLk4/V6wYqr4PBhI/AAAAAAAA2P0/JbnK5Tve9YE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 685,
+        "aniId": 685,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "to-heart-remember-my-memories": {
+        "createdAt": "2021-08-13T11:38:40.000Z",
+        "updatedAt": "2021-08-13T12:06:58.000Z",
+        "checkedAt": null,
+        "id": 38228,
+        "identifier": "to-heart-remember-my-memories",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "To Heart: Remember My Memories",
+        "url": "https://gogoanime.pe/category/to-heart-remember-my-memories",
+        "image": "https://gogocdn.net/cover/to-heart-remember-my-memories.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 685,
+        "aniId": 685,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "472": {
+        "identifier": "472",
+        "malId": 685,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "To Heart: Remember My Memories",
+        "url": "https://animepahe.com/a/472"
+      }
+    },
+    "AniMixPlay": {
+      "685": {
+        "identifier": "685",
+        "malId": 685,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "To Heart: Remember My Memories",
+        "url": "https://animixplay.to/anime/685"
+      }
+    },
+    "YugenAnime": {
+      "9617": {
+        "identifier": "9617",
+        "malId": 685,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "To Heart: Remember My Memories",
+        "url": "https://yugen.to/anime/9617/to-heart-remember-my-memories/"
+      }
+    }
+  }
+}

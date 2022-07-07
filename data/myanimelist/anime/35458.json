@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-15T00:25:05.000Z",
+  "checkedAt": "2022-05-15T00:25:05.000Z",
+  "id": 35458,
+  "type": "anime",
+  "title": "Soushin Shoujo Matoi: Kabushiki Gaisha Knight Busters",
+  "altTitle": [
+    "Matoi the Sacred Slayer Episode 13",
+    "Matoi the Sacred Slayer: Nights Busters Inc.",
+    "株式会社ナイツ・バスターズ"
+  ],
+  "url": "https://myanimelist.net/anime/35458/Soushin_Shoujo_Matoi__Kabushiki_Gaisha_Knight_Busters",
+  "image": "https://cdn.myanimelist.net/images/anime/3/85472.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.matoi-anime.com/products/bdbox2.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12273"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18588"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matoi_the_Sacred_Slayer"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/matoi-the-sacred-slayer-special"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12273,
+  "Pages": {
+    "9anime": {
+      "1kzp": {
+        "createdAt": "2020-10-12T15:49:13.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 985,
+        "identifier": "1kzp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Soushin Shoujo Matoi: Kabushiki Gaisha Knight Busters",
+        "url": "https://9anime.to/watch/soushin-shoujo-matoi-kabushiki-gaisha-knight-busters.1kzp",
+        "image": "https://static.akacdn.ru/files/images/2019/06/6c7cab58e9bb657b1f98ffe8b1ac05f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35458,
+        "aniId": 98843,
+        "deletedAt": null
+      }
+    }
+  }
+}

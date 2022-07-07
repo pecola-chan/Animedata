@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-15T07:18:52.000Z",
+  "checkedAt": "2022-05-15T07:18:52.000Z",
+  "id": 14181,
+  "type": "anime",
+  "title": "Oedo wa Nemurenai!",
+  "altTitle": [
+    "Sleepless Oedo",
+    "Edo Never Sleeps",
+    "お江戸はねむれない!"
+  ],
+  "url": "https://myanimelist.net/anime/14181/Oedo_wa_Nemurenai",
+  "image": "https://cdn.myanimelist.net/images/anime/7/39103.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1993-1992/works_ova_oedo.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2750"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4603"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/お江戸はねむれない!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2750,
+  "Pages": {
+    "9anime": {
+      "x3yz": {
+        "createdAt": "2020-10-12T15:56:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10108,
+        "identifier": "x3yz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oedo wa Nemurenai!",
+        "url": "https://9anime.to/watch/oedo-wa-nemurenai.x3yz",
+        "image": "https://static.akacdn.ru/files/images/2019/02/4212c438c4d1b47179dac02e9d913234.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14181,
+        "aniId": 14181,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oedo-wa-nemurenai": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19824,
+        "identifier": "oedo-wa-nemurenai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oedo wa Nemurenai!",
+        "url": "https://gogoanime.vc/category/oedo-wa-nemurenai",
+        "image": "https://cdnimg.xyz/cover/oedo-wa-nemurenai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14181,
+        "aniId": 14181,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "14181": {
+        "identifier": "14181",
+        "malId": 14181,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oedo wa Nemurenai!",
+        "url": "https://animixplay.to/anime/14181"
+      }
+    },
+    "YugenAnime": {
+      "2929": {
+        "identifier": "2929",
+        "malId": 14181,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Oedo wa Nemurenai!",
+        "url": "https://yugen.to/anime/2929/oedo-wa-nemurenai/"
+      }
+    }
+  }
+}

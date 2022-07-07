@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:06.000Z",
+  "updatedAt": "2022-05-14T16:07:07.000Z",
+  "checkedAt": "2022-05-14T16:07:07.000Z",
+  "id": 38707,
+  "type": "anime",
+  "title": "RobiHachi",
+  "altTitle": [
+    "RobiHachi",
+    "ロビハチ"
+  ],
+  "url": "https://myanimelist.net/anime/38707/RobiHachi",
+  "image": "https://cdn.myanimelist.net/images/anime/1555/100447.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://robihachi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14493"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21590"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RobiHachi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/robihachi"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14493,
+  "Pages": {
+    "9anime": {
+      "lovn": {
+        "createdAt": "2020-10-12T15:53:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6149,
+        "identifier": "lovn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RobiHachi",
+        "url": "https://9anime.to/watch/robihachi.lovn",
+        "image": "https://static.akacdn.ru/static/images/2019/03/155979b0897b0fa1e50a2d1e15b07fbd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38707,
+        "aniId": 105928,
+        "deletedAt": null
+      },
+      "z9lp": {
+        "createdAt": "2020-10-12T15:57:08.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11118,
+        "identifier": "z9lp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RobiHachi (Dub)",
+        "url": "https://9anime.to/watch/robihachi-dub.z9lp",
+        "image": "https://static.akacdn.ru/files/images/2019/04/4ba50418fa9b82a2fc81d64cacf22da1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38707,
+        "aniId": 105928,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "robihachi": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20306,
+        "identifier": "robihachi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "RobiHachi",
+        "url": "https://gogoanime.vc/category/robihachi",
+        "image": "https://cdnimg.xyz/cover/robihachi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38707,
+        "aniId": 105928,
+        "deletedAt": null
+      },
+      "robihachi-dub": {
+        "createdAt": "2020-10-12T16:01:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20307,
+        "identifier": "robihachi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Robihachi (Dub)",
+        "url": "https://gogoanime.vc/category/robihachi-dub",
+        "image": "https://cdnimg.xyz/cover/robihachi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38707,
+        "aniId": 105928,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3236": {
+        "identifier": "3236",
+        "malId": 38707,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "RobiHachi",
+        "url": "https://animepahe.com/a/3236"
+      }
+    },
+    "AniMixPlay": {
+      "38707": {
+        "identifier": "38707",
+        "malId": 38707,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "RobiHachi",
+        "url": "https://animixplay.to/anime/38707"
+      }
+    },
+    "YugenAnime": {
+      "61": {
+        "identifier": "61",
+        "malId": 38707,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "RobiHachi",
+        "url": "https://yugen.to/anime/61/robihachi/"
+      }
+    }
+  }
+}

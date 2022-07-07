@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:39:46.000Z",
+  "updatedAt": "2022-05-14T16:30:06.000Z",
+  "checkedAt": "2022-05-14T16:30:05.000Z",
+  "id": 33371,
+  "type": "anime",
+  "title": "Atom: The Beginning",
+  "altTitle": [
+    "アトム ザ・ビギニング"
+  ],
+  "url": "https://myanimelist.net/anime/33371/Atom__The_Beginning",
+  "image": "https://cdn.myanimelist.net/images/anime/6/86607.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.atom-tb.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12148"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18989"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atom:_The_Beginning"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/atom-the-beginning"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12148,
+  "Pages": {
+    "9anime": {
+      "j1n8": {
+        "createdAt": "2020-10-12T15:52:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4605,
+        "identifier": "j1n8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Atom: The Beginning",
+        "url": "https://9anime.to/watch/atom-the-beginning.j1n8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-doTua_AkaO0/WPxpiQVcM4I/AAAAAAAAjj4/NT5s4lRFGQ06FfwwHdpV6tVdiPc2VlzJQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33371,
+        "aniId": 21830,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "atom-the-beginning": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16635,
+        "identifier": "atom-the-beginning",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Atom: The Beginning",
+        "url": "https://gogoanime.vc/category/atom-the-beginning",
+        "image": "https://cdnimg.xyz/cover/atom-the-beginning.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33371,
+        "aniId": 21830,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2028": {
+        "identifier": "2028",
+        "malId": 33371,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Atom: The Beginning",
+        "url": "https://animepahe.com/a/2028"
+      }
+    },
+    "AniMixPlay": {
+      "33371": {
+        "identifier": "33371",
+        "malId": 33371,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Atom: The Beginning",
+        "url": "https://animixplay.to/anime/33371"
+      }
+    },
+    "YugenAnime": {
+      "5766": {
+        "identifier": "5766",
+        "malId": 33371,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Atom: The Beginning",
+        "url": "https://yugen.to/anime/5766/atom-the-beginning/"
+      }
+    }
+  }
+}

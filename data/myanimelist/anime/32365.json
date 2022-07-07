@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T22:38:05.000Z",
+  "checkedAt": "2022-05-14T22:38:05.000Z",
+  "id": 32365,
+  "type": "anime",
+  "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+  "altTitle": [
+    "The Day Naruto Became Hokage",
+    "Boruto: Naruto the Movie - The Day Naruto Became Hokage",
+    "BORUTO -NARUTO THE MOVIE- ナルトが火影になった日"
+  ],
+  "url": "https://myanimelist.net/anime/32365/Boruto__Naruto_the_Movie_-_Naruto_ga_Hokage_ni_Natta_Hi",
+  "image": "https://cdn.myanimelist.net/images/anime/6/77678.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://boruto-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10961"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16924"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boruto:_Naruto_the_Movie"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10961,
+  "Pages": {
+    "9anime": {
+      "1rlq": {
+        "createdAt": "2020-10-12T15:49:18.000Z",
+        "updatedAt": "2022-06-14T04:03:30.000Z",
+        "checkedAt": "2022-06-14T04:03:30.000Z",
+        "id": 1103,
+        "identifier": "1rlq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "url": "https://9anime.to/watch/boruto-naruto-the-movie-the-day-naruto-became-hokage.1rlq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ecf725055be1eef75e486f2442f8bcfb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32365,
+        "aniId": 21579,
+        "deletedAt": null
+      },
+      "44ok": {
+        "createdAt": "2020-10-12T15:50:01.000Z",
+        "updatedAt": "2022-06-14T04:00:38.000Z",
+        "checkedAt": "2022-06-14T04:00:38.000Z",
+        "id": 2116,
+        "identifier": "44ok",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi (Dub)",
+        "url": "https://9anime.to/watch/boruto-naruto-the-movie-the-day-naruto-became-hokage-dub.44ok",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/8b5c87d00b3045bb932e3dd728f8825e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32365,
+        "aniId": 21579,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi": {
+        "createdAt": "2020-10-12T16:00:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16929,
+        "identifier": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "url": "https://gogoanime.vc/category/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
+        "image": "https://images.gogoanime.tv/cover/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32365,
+        "aniId": 21579,
+        "deletedAt": null
+      },
+      "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-dub": {
+        "createdAt": "2021-04-29T03:50:43.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36727,
+        "identifier": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi (Dub)",
+        "url": "https://gogoanime.vc/category/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-dub",
+        "image": "https://gogocdn.net/cover/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32365,
+        "aniId": 21579,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1240": {
+        "identifier": "1240",
+        "malId": 32365,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "url": "https://animepahe.com/a/1240"
+      }
+    },
+    "AniMixPlay": {
+      "32365": {
+        "identifier": "32365",
+        "malId": 32365,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "url": "https://animixplay.to/anime/32365"
+      }
+    },
+    "YugenAnime": {
+      "3927": {
+        "identifier": "3927",
+        "malId": 32365,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "url": "https://yugen.to/anime/3927/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi/"
+      }
+    }
+  }
+}

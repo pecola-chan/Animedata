@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T22:07:53.000Z",
+  "checkedAt": "2022-05-14T22:07:53.000Z",
+  "id": 25915,
+  "type": "anime",
+  "title": "Sakura Capusule",
+  "altTitle": [
+    "Sakura Capsule",
+    "サクラカプセル"
+  ],
+  "url": "https://myanimelist.net/anime/25915/Sakura_Capusule",
+  "image": "https://cdn.myanimelist.net/images/anime/8/75512.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sakura-capusule.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10771"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17538"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10771,
+  "Pages": {
+    "9anime": {
+      "2m8q": {
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1410,
+        "identifier": "2m8q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakura Capusule",
+        "url": "https://9anime.to/watch/sakura-capusule.2m8q",
+        "image": "http://static.akacdn.ru/static/images/2018/07/85d919ac8615233dbf0d930c219c0cd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25915,
+        "aniId": 98207,
+        "deletedAt": null
+      }
+    }
+  }
+}

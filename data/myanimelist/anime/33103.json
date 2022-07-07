@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T19:51:11.000Z",
+  "checkedAt": "2022-05-14T19:51:11.000Z",
+  "id": 33103,
+  "type": "anime",
+  "title": "Zekkyou Gakkyuu: Tensei",
+  "altTitle": [
+    "Scary Lessons: Hide-And-Seek Ogre",
+    "Zekkyou Gakkyuu: Kakurenbo Oni",
+    "Screaming Lessons: Hide-And-Seek Ogre",
+    "Ribon x Oha Suta Special",
+    "絶叫学級 転生"
+  ],
+  "url": "https://myanimelist.net/anime/33103/Zekkyou_Gakkyuu__Tensei",
+  "image": "https://cdn.myanimelist.net/images/anime/4/79529.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ribon.shueisha.co.jp/ohasta/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12063"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zekky%C5%8D_Gakky%C5%AB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12063,
+  "Pages": {
+    "9anime": {
+      "0vy3": {
+        "createdAt": "2020-10-12T15:48:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 680,
+        "identifier": "0vy3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zekkyou Gakkyuu: Tensei",
+        "url": "https://9anime.to/watch/zekkyou-gakkyuu-tensei.0vy3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-F-XwM5A_4CI/WH49RLYGaUI/AAAAAAABZ0k/p2pWBE5UFbI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33103,
+        "aniId": 21792,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zekkyou-gakkyuu-tensei": {
+        "createdAt": "2021-05-24T07:08:49.000Z",
+        "updatedAt": "2021-05-24T07:38:17.000Z",
+        "checkedAt": null,
+        "id": 37098,
+        "identifier": "zekkyou-gakkyuu-tensei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Zekkyou Gakkyuu: Tensei",
+        "url": "https://gogoanime.vc/category/zekkyou-gakkyuu-tensei",
+        "image": "https://gogocdn.net/cover/zekkyou-gakkyuu-tensei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33103,
+        "aniId": 21792,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33103": {
+        "identifier": "33103",
+        "malId": 33103,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Zekkyou Gakkyuu: Tensei",
+        "url": "https://animixplay.to/anime/33103"
+      }
+    },
+    "YugenAnime": {
+      "4484": {
+        "identifier": "4484",
+        "malId": 33103,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Zekkyou Gakkyuu: Tensei",
+        "url": "https://yugen.to/anime/4484/zekkyou-gakkyuu-tensei/"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T07:19:52.000Z",
+  "checkedAt": "2022-05-15T07:19:52.000Z",
+  "id": 3356,
+  "type": "anime",
+  "title": "Mahoutsukai Sally",
+  "altTitle": [
+    "Magical Witch Sally",
+    "Sally the Witch",
+    "魔法使いサリー"
+  ],
+  "url": "https://myanimelist.net/anime/3356/Mahoutsukai_Sally",
+  "image": "https://cdn.myanimelist.net/images/anime/8/67001.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/sally/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1890"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1385"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mahou_Tsukai_Sally"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1890,
+  "Pages": {
+    "9anime": {
+      "m0l7": {
+        "createdAt": "2020-11-01T13:12:58.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28316,
+        "identifier": "m0l7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoutsukai Sally",
+        "url": "https://9anime.to/watch/sally-the-witch.m0l7",
+        "image": "//static.9anime.to/i/cache/images/3/3a/3ae70c7ba6e246fd21bc5221962ce57b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3356,
+        "aniId": 3356,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahoutsukai-sally": {
+        "createdAt": "2022-06-15T08:00:00.332Z",
+        "updatedAt": "2022-06-15T08:20:00.000Z",
+        "checkedAt": "2022-06-15T08:00:00.000Z",
+        "id": 41178,
+        "identifier": "mahoutsukai-sally",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahoutsukai Sally",
+        "url": "https://gogoanime.sk/category/mahoutsukai-sally",
+        "image": "https://gogocdn.net/cover/mahoutsukai-sally.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3356,
+        "aniId": 3356,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3356": {
+        "identifier": "3356",
+        "malId": 3356,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahoutsukai Sally",
+        "url": "https://animixplay.to/anime/3356"
+      }
+    },
+    "YugenAnime": {
+      "200": {
+        "identifier": "200",
+        "malId": 3356,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahoutsukai Sally",
+        "url": "https://yugen.to/anime/200/mahoutsukai-sally/"
+      }
+    }
+  }
+}

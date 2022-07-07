@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:22:35.000Z",
+  "checkedAt": "2022-05-14T16:22:35.000Z",
+  "id": 37449,
+  "type": "anime",
+  "title": "Strike the Blood III",
+  "altTitle": [
+    "Strike the Blood Third",
+    "ストライク・ザ・ブラッドⅢ"
+  ],
+  "url": "https://myanimelist.net/anime/37449/Strike_the_Blood_III",
+  "image": "https://cdn.myanimelist.net/images/anime/1768/111676.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.strike-the-blood.com/third/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13901"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21273"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Strike_the_Blood"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13901,
+  "Pages": {
+    "9anime": {
+      "kr86": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5592,
+        "identifier": "kr86",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Strike the Blood III",
+        "url": "https://9anime.to/watch/strike-the-blood-iii.kr86",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/e5eb34fc7c7644b07f9a66afb4013b8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37449,
+        "aniId": 102436,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "strike-the-blood-iii": {
+        "createdAt": "2020-10-12T16:01:58.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20854,
+        "identifier": "strike-the-blood-iii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Strike the Blood III",
+        "url": "https://gogoanime.vc/category/strike-the-blood-iii",
+        "image": "https://cdnimg.xyz/cover/strike-the-blood-iii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37449,
+        "aniId": 102436,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3028": {
+        "identifier": "3028",
+        "malId": 37449,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Strike the Blood III",
+        "url": "https://animepahe.com/a/3028"
+      }
+    },
+    "AniMixPlay": {
+      "37449": {
+        "identifier": "37449",
+        "malId": 37449,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Strike the Blood III",
+        "url": "https://animixplay.to/anime/37449"
+      }
+    },
+    "YugenAnime": {
+      "4406": {
+        "identifier": "4406",
+        "malId": 37449,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Strike the Blood III",
+        "url": "https://yugen.to/anime/4406/strike-the-blood-iii/"
+      }
+    }
+  }
+}

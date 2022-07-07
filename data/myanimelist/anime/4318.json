@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-15T09:44:53.000Z",
+  "checkedAt": "2022-05-15T09:44:53.000Z",
+  "id": 4318,
+  "type": "anime",
+  "title": "Ryuu Seiki",
+  "altTitle": [
+    "Dragon Century",
+    "竜世紀"
+  ],
+  "url": "https://myanimelist.net/anime/4318/Ryuu_Seiki",
+  "image": "https://cdn.myanimelist.net/images/anime/1081/97150.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.aicanime.com/products/dragoncentury/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=886"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=825"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dragon_Century"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 886,
+  "Pages": {
+    "9anime": {
+      "9190": {
+        "createdAt": "2020-10-12T15:48:35.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 294,
+        "identifier": "9190",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Century",
+        "url": "https://9anime.to/watch/dragon-century.9190",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--D97qu2cxMM/V9DtURPc1BI/AAAAAAAA8XY/cpxMhc9cvMY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4318,
+        "aniId": 4318,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4318": {
+        "identifier": "4318",
+        "malId": 4318,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ryuu Seiki",
+        "url": "https://animixplay.to/anime/4318"
+      }
+    }
+  }
+}

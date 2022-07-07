@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-11-29T10:52:55.000Z",
+  "updatedAt": "2022-04-02T20:05:43.000Z",
+  "checkedAt": null,
+  "id": 20153,
+  "type": "anime",
+  "title": "Hana no Hi",
+  "altTitle": [
+    "Day of Nose",
+    "鼻の日"
+  ],
+  "url": "https://myanimelist.net/anime/20153/Hana_no_Hi",
+  "image": "https://cdn.myanimelist.net/images/anime/9/87253.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kankaku.jp/independent-en/nose.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8059"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8059,
+  "Pages": {
+    "9anime": {
+      "rnko": {
+        "createdAt": "2020-12-09T14:08:32.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29862,
+        "identifier": "rnko",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hana no Hi",
+        "url": "https://9anime.to/watch/day-of-nose.rnko",
+        "image": "//static.9anime.to/i/cache/images/2018/02/e96cc8d2cbeadc985b6a3a60790da47b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20153,
+        "aniId": 20153,
+        "deletedAt": null
+      }
+    }
+  }
+}

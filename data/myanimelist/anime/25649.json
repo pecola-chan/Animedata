@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T21:20:47.000Z",
+  "checkedAt": "2022-05-14T21:20:47.000Z",
+  "id": 25649,
+  "type": "anime",
+  "title": "Junjou Romantica 3",
+  "altTitle": [
+    "Junjou Romantica Third Season",
+    "Junjo Romantica 3",
+    "純情ロマンチカ 3"
+  ],
+  "url": "https://myanimelist.net/anime/25649/Junjou_Romantica_3",
+  "image": "https://cdn.myanimelist.net/images/anime/2/74170.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://suzukisan.info/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10759"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16868"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Junjou_Romantica"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273021"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/junjo-rOMtica-3"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10759,
+  "Pages": {
+    "9anime": {
+      "619": {
+        "createdAt": "2020-10-12T15:48:25.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 16,
+        "identifier": "619",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junjo Romantica 3",
+        "url": "https://9anime.to/watch/junjo-romantica-3.619",
+        "image": "https://static.akacdn.ru/files/images/2018/04/e37d16f7dcf26afce20fdfd284ca3488.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25649,
+        "aniId": 20796,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "25649": {
+        "identifier": "25649",
+        "malId": 25649,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Junjou Romantica 3",
+        "url": "https://animixplay.to/anime/25649"
+      }
+    },
+    "YugenAnime": {
+      "2343": {
+        "identifier": "2343",
+        "malId": 25649,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Junjou Romantica 3",
+        "url": "https://yugen.to/anime/2343/junjou-romantica-3/"
+      }
+    }
+  }
+}

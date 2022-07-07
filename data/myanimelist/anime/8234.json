@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-15T07:21:02.000Z",
+  "checkedAt": "2022-05-15T07:21:02.000Z",
+  "id": 8234,
+  "type": "anime",
+  "title": "Muumin",
+  "altTitle": [
+    "Mumin",
+    "Moomin",
+    "ムーミン"
+  ],
+  "url": "https://myanimelist.net/anime/8234/Muumin",
+  "image": "https://cdn.myanimelist.net/images/anime/8/21297.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/search/index.php?pdt_no=278"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1007"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=431"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Moomin_(1969_TV_series)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1007,
+  "Pages": {
+    "9anime": {
+      "vl5l": {
+        "createdAt": "2020-10-12T15:55:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9362,
+        "identifier": "vl5l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Muumin",
+        "url": "https://9anime.to/watch/muumin.vl5l",
+        "image": "https://static.akacdn.ru/static/images/2018/03/14a3b75b1356dd8513c4e5f70dd5dd80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8234,
+        "aniId": 8234,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "muumin": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19598,
+        "identifier": "muumin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Muumin",
+        "url": "https://gogoanime.vc/category/muumin",
+        "image": "https://cdnimg.xyz/cover/muumin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8234,
+        "aniId": 8234,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8234": {
+        "identifier": "8234",
+        "malId": 8234,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Muumin",
+        "url": "https://animixplay.to/anime/8234"
+      }
+    },
+    "YugenAnime": {
+      "2154": {
+        "identifier": "2154",
+        "malId": 8234,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Muumin",
+        "url": "https://yugen.to/anime/2154/muumin/"
+      }
+    }
+  }
+}

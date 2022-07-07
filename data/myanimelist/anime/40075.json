@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T18:41:59.000Z",
+  "checkedAt": "2022-05-14T18:41:59.000Z",
+  "id": 40075,
+  "type": "anime",
+  "title": "Koi to Producer: EVOL×LOVE",
+  "altTitle": [
+    "Love and Producer",
+    "Mr Love: Queen's Choice",
+    "恋とプロデューサー~EVOL×LOVE~"
+  ],
+  "url": "https://myanimelist.net/anime/40075/Koi_to_Producer__EVOL×LOVE",
+  "image": "https://cdn.myanimelist.net/images/anime/1623/111517.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://koipro-anime.love/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15002"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22299"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mr_Love:_Queen's_Choice#Anime_adaptation"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279602"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15002,
+  "Pages": {
+    "9anime": {
+      "jr08": {
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5002,
+        "identifier": "jr08",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mr Love: Queen's Choice",
+        "url": "https://9anime.to/watch/mr-love-queens-choice.jr08",
+        "image": "https://static.akacdn.ru/files/images/7/73/732b424408ddc11ab94df1baad23a3d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40075,
+        "aniId": 110371,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koi-to-producer-evollove": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18911,
+        "identifier": "koi-to-producer-evollove",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koi to Producer: EVOL×LOVE",
+        "url": "https://gogoanime.vc/category/koi-to-producer-evollove",
+        "image": "https://gogocdn.net/cover/koi-to-producer-evollove.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40075,
+        "aniId": 110371,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4035": {
+        "identifier": "4035",
+        "malId": 40075,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koi to Producer: EVOL×LOVE",
+        "url": "https://animepahe.com/a/4035"
+      }
+    },
+    "AniMixPlay": {
+      "40075": {
+        "identifier": "40075",
+        "malId": 40075,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koi to Producer: EVOL×LOVE",
+        "url": "https://animixplay.to/anime/40075"
+      }
+    },
+    "YugenAnime": {
+      "5617": {
+        "identifier": "5617",
+        "malId": 40075,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koi to Producer: EVOL×LOVE",
+        "url": "https://yugen.to/anime/5617/koi-to-producer-evollove/"
+      }
+    }
+  }
+}

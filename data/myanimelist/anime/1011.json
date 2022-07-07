@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T22:46:47.000Z",
+  "checkedAt": "2022-05-14T22:46:47.000Z",
+  "id": 1011,
+  "type": "anime",
+  "title": "Ranma ½ Super",
+  "altTitle": [
+    "Ranma ½ Super OVA",
+    "Ranma 1/2 Super",
+    "らんま１／２　ＳＵＰＥＲ"
+  ],
+  "url": "https://myanimelist.net/anime/1011/Ranma_½_Super",
+  "image": "https://cdn.myanimelist.net/images/anime/1071/94957.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2996"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=200"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ranma_%C2%BD"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2996,
+  "Pages": {
+    "9anime": {
+      "o74y": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7431,
+        "identifier": "o74y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ranma ½ Super",
+        "url": "https://9anime.to/watch/ranma-super.o74y",
+        "image": "https://static.akacdn.ru/files/images/2018/04/42632f8d66116df0a444cca269428d8e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1011,
+        "aniId": 1011,
+        "deletedAt": null
+      },
+      "p7wx": {
+        "createdAt": "2020-10-12T18:58:37.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23850,
+        "identifier": "p7wx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ranma ½ Super (Dub)",
+        "url": "https://9anime.to/watch/ranma-super-dub.p7wx",
+        "image": "//static.9anime.to/i/cache/images/2018/04/af68d28c012d3c83cfe7875916ff4f85.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1011,
+        "aniId": 1011,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4235": {
+        "identifier": "4235",
+        "malId": 1011,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ranma ½ Super",
+        "url": "https://animepahe.com/a/4235"
+      }
+    },
+    "AniMixPlay": {
+      "1011": {
+        "identifier": "1011",
+        "malId": 1011,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ranma ½ Super",
+        "url": "https://animixplay.to/anime/1011"
+      }
+    }
+  }
+}

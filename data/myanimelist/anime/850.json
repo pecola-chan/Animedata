@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T19:44:23.000Z",
+  "checkedAt": "2022-05-14T19:44:23.000Z",
+  "id": 850,
+  "type": "anime",
+  "title": "Gakuen Heaven",
+  "altTitle": [
+    "Boy's Love Scramble",
+    "Gakuen Heaven",
+    "学園ヘヴン"
+  ],
+  "url": "https://myanimelist.net/anime/850/Gakuen_Heaven",
+  "image": "https://cdn.myanimelist.net/images/anime/12/70143.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gakuenheaven.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4326"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6311"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gakuen_Heaven"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4326,
+  "Pages": {
+    "9anime": {
+      "yq0z": {
+        "createdAt": "2020-10-12T15:56:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10809,
+        "identifier": "yq0z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakuen Heaven",
+        "url": "https://9anime.to/watch/gakuen-heaven.yq0z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZcbVCxb7_qo/V5M7Dz_80jI/AAAAAAAAxeM/DKDprqSNUHc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 850,
+        "aniId": 850,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gakuen-heaven": {
+        "createdAt": "2021-01-13T02:58:26.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33583,
+        "identifier": "gakuen-heaven",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gakuen Heaven",
+        "url": "https://gogoanime.vc/category/gakuen-heaven",
+        "image": "https://gogocdn.net/images/anime/G/gakuen-heaven.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 850,
+        "aniId": 850,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "850": {
+        "identifier": "850",
+        "malId": 850,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gakuen Heaven",
+        "url": "https://animixplay.to/anime/850"
+      }
+    },
+    "YugenAnime": {
+      "508": {
+        "identifier": "508",
+        "malId": 850,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gakuen Heaven",
+        "url": "https://yugen.to/anime/508/gakuen-heaven/"
+      }
+    }
+  }
+}

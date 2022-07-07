@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2022-05-14T19:32:17.000Z",
+  "checkedAt": "2022-05-14T19:32:17.000Z",
+  "id": 23383,
+  "type": "anime",
+  "title": "D-Frag!*",
+  "altTitle": [
+    "D-Frag! OVA",
+    "D-Frag!: Water!!",
+    "ディーふらぐ! ウォーター!!"
+  ],
+  "url": "https://myanimelist.net/anime/23383/D-Frag",
+  "image": "https://cdn.myanimelist.net/images/anime/9/67077.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.d-fragments.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10564"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%81%B5%E3%82%89%E3%81%90!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10564,
+  "Pages": {
+    "9anime": {
+      "xl9q": {
+        "createdAt": "2020-10-12T15:56:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10283,
+        "identifier": "xl9q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D-Frag! OVA",
+        "url": "https://9anime.to/watch/d-frag-ova.xl9q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RKBw8X4f-1E/WG3oEE4qU9I/AAAAAAABW_A/G2fpUIdaKUQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23383,
+        "aniId": 20856,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "d-frag-ova": {
+        "createdAt": "2020-10-12T16:00:11.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17210,
+        "identifier": "d-frag-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "D-Frag! OVA",
+        "url": "https://gogoanime.vc/category/d-frag-ova",
+        "image": "https://cdnimg.xyz/images/summer/D-frag ova.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23383,
+        "aniId": 20856,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1443": {
+        "identifier": "1443",
+        "malId": 23383,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "D-Frag!*",
+        "url": "https://animepahe.com/a/1443"
+      }
+    },
+    "AniMixPlay": {
+      "23383": {
+        "identifier": "23383",
+        "malId": 23383,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "D-Frag!*",
+        "url": "https://animixplay.to/anime/23383"
+      }
+    },
+    "YugenAnime": {
+      "183": {
+        "identifier": "183",
+        "malId": 23383,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "D-Frag!*",
+        "url": "https://yugen.to/anime/183/d-frag-ova/"
+      }
+    }
+  }
+}

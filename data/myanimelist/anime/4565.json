@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:43.000Z",
+  "updatedAt": "2022-05-14T12:30:20.000Z",
+  "checkedAt": "2022-05-14T12:30:20.000Z",
+  "id": 4565,
+  "type": "anime",
+  "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+  "altTitle": [
+    "Tengen Toppa Gurren Lagann Movie 2",
+    "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+    "劇場版 天元突破グレンラガン 螺巌篇"
+  ],
+  "url": "https://myanimelist.net/anime/4565/Tengen_Toppa_Gurren_Lagann_Movie_2__Lagann-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gurren-lagann-movie.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6325"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10576"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tengen_Toppa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6325,
+  "Pages": {
+    "9anime": {
+      "8ov": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3952,
+        "identifier": "8ov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tengen Toppa Gurren Lagann Movie: Lagann-hen",
+        "url": "https://9anime.to/watch/tengen-toppa-gurren-lagann-movie-lagann-hen.8ov",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uvQUjBlyffM/V4eF358fOcI/AAAAAAAAvdY/KKzMtl1Mdyw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4565,
+        "aniId": 4565,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "946": {
+        "identifier": "946",
+        "malId": 4565,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+        "url": "https://animepahe.com/a/946"
+      }
+    },
+    "AniMixPlay": {
+      "4565": {
+        "identifier": "4565",
+        "malId": 4565,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+        "url": "https://animixplay.to/anime/4565"
+      }
+    },
+    "YugenAnime": {
+      "5991": {
+        "identifier": "5991",
+        "malId": 4565,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+        "url": "https://yugen.to/anime/5991/tengen-toppa-gurren-lagann-lagann-hen/"
+      }
+    }
+  }
+}

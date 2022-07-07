@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T16:00:29.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17834,
+  "identifier": "genius-party",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Genius Party",
+  "url": "https://gogoanime.vc/category/genius-party",
+  "image": "https://cdnimg.xyz/cover/genius-party.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3508,
+  "aniId": 3508,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T10:31:23.000Z",
+    "checkedAt": "2022-05-14T10:31:23.000Z",
+    "id": 3508,
+    "type": "anime",
+    "title": "Genius Party",
+    "altTitle": [
+      "Shanghai Dragon",
+      "Deathtic 4",
+      "Doorbell",
+      "Limit Cycle",
+      "Happy Machine",
+      "Baby Blue",
+      "ジーニアスパーティー"
+    ],
+    "url": "https://myanimelist.net/anime/3508/Genius_Party",
+    "image": "https://cdn.myanimelist.net/images/anime/1910/98828.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.genius-party.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2972"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5010"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Genius_Party"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2972
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:25.000Z",
+    "updatedAt": "2022-05-15T17:33:35.000Z",
+    "checkedAt": "2022-05-15T17:33:35.000Z",
+    "id": 3508,
+    "type": "anime",
+    "title": "Genius Party",
+    "altTitle": [
+      "ジーニアスパーティー"
+    ],
+    "url": "https://anilist.co/anime/3508",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3508-zfk3BhdhfMiH.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3508,
+    "deletedAt": null
+  }
+}

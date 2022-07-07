@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-14T22:53:29.000Z",
+  "checkedAt": "2022-05-14T22:53:29.000Z",
+  "id": 11069,
+  "type": "anime",
+  "title": "Pokemon: Pikachu no Fushigi na Fushigi na Daibouken",
+  "altTitle": [
+    "Pocket Monsters: Pikachu's Really Mysterious Adventure",
+    "Pokemon: Pikachu's Big Mysterious Adventure",
+    "ピカチュウのふしぎなふしぎな大冒険"
+  ],
+  "url": "https://myanimelist.net/anime/11069/Pokemon__Pikachu_no_Fushigi_na_Fushigi_na_Daibouken",
+  "image": "https://cdn.myanimelist.net/images/anime/8/30651.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8139"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15659"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8139,
+  "Pages": {
+    "9anime": {
+      "owx5": {
+        "createdAt": "2020-10-12T15:54:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7705,
+        "identifier": "owx5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pokemon: Pikachu's Big Mysterious Adventure",
+        "url": "https://9anime.to/watch/pokemon-pikachus-big-mysterious-adventure.owx5",
+        "image": "https://static.akacdn.ru/files/images/2018/05/9ef7c184f4a651832caccbbb0b8fa967.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11069,
+        "aniId": 11069,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "11069": {
+        "identifier": "11069",
+        "malId": 11069,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Pokemon: Pikachu no Fushigi na Fushigi na Daibouken",
+        "url": "https://animixplay.to/anime/11069"
+      }
+    }
+  }
+}

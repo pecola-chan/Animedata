@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T22:15:59.000Z",
+  "checkedAt": "2022-05-14T22:15:59.000Z",
+  "id": 2928,
+  "type": "anime",
+  "title": ".hack//G.U. Returner",
+  "altTitle": [
+    ".HACK//G.U. RETURNER"
+  ],
+  "url": "https://myanimelist.net/anime/2928/hack__GU_Returner",
+  "image": "https://cdn.myanimelist.net/images/anime/1798/115989.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5391"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9179"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5391,
+  "Pages": {
+    "9anime": {
+      "0vo3": {
+        "createdAt": "2020-10-12T15:48:53.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 673,
+        "identifier": "0vo3",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".HACK//G.U. RETURNER",
+        "url": "https://9anime.to/watch/hackgu-returner.0vo3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3H9Z0joZuik/WH2649SOBNI/AAAAAAABZug/pSlHEj3DF34/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2928,
+        "aniId": 2928,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hackgu-returner": {
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18073,
+        "identifier": "hackgu-returner",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".Hack//G.U. Returner",
+        "url": "https://gogoanime.vc/category/hackgu-returner",
+        "image": "https://cdnimg.xyz/images/anime/5745.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2928,
+        "aniId": 2928,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4630": {
+        "identifier": "4630",
+        "malId": 2928,
+        "type": "anime",
+        "page": "animepahe",
+        "title": ".hack//G.U. Returner",
+        "url": "https://animepahe.com/a/4630"
+      }
+    },
+    "AniMixPlay": {
+      "2928": {
+        "identifier": "2928",
+        "malId": 2928,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": ".hack//G.U. Returner",
+        "url": "https://animixplay.to/anime/2928"
+      }
+    },
+    "YugenAnime": {
+      "3236": {
+        "identifier": "3236",
+        "malId": 2928,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": ".hack//G.U. Returner",
+        "url": "https://yugen.to/anime/3236/hackgu-returner/"
+      }
+    }
+  }
+}

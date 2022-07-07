@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-15T04:15:07.000Z",
+  "checkedAt": "2022-05-15T04:15:07.000Z",
+  "id": 3199,
+  "type": "anime",
+  "title": "Nanatsu no Umi no Tico",
+  "altTitle": [
+    "Sekai Meisaku Gekijou",
+    "Tico and Nanami",
+    "Tico and Friends",
+    "七つの海のティコ"
+  ],
+  "url": "https://myanimelist.net/anime/3199/Nanatsu_no_Umi_no_Tico",
+  "image": "https://cdn.myanimelist.net/images/anime/9/69547.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/nanatunoumino_tico.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2288"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1961"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nanatsu_no_Umi_no_Tico"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2288,
+  "Pages": {
+    "9anime": {
+      "l72z": {
+        "createdAt": "2020-10-12T15:53:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5908,
+        "identifier": "l72z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tico and Friends (Dub)",
+        "url": "https://9anime.to/watch/tico-and-friends-dub.l72z",
+        "image": "https://static.akacdn.ru/files/images/2018/04/a6893e7535e3a59d4f70ce6aa88a45b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3199,
+        "aniId": 3199,
+        "deletedAt": null
+      },
+      "q903": {
+        "createdAt": "2020-10-12T15:55:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8370,
+        "identifier": "q903",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nanatsu no Umi no Tico",
+        "url": "https://9anime.to/watch/nanatsu-no-umi-no-tico.q903",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AJdS1i_eW1g/WQBaSyd7TII/AAAAAAAAkbY/fiRbSHuNcgotHxcF_5zNA6ocBbFbL7JdACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3199,
+        "aniId": 3199,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nanatsu-no-umi-no-tico": {
+        "createdAt": "2021-04-24T10:57:01.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36686,
+        "identifier": "nanatsu-no-umi-no-tico",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nanatsu no Umi no Tico",
+        "url": "https://gogoanime.vc/category/nanatsu-no-umi-no-tico",
+        "image": "https://gogocdn.net/cover/nanatsu-no-umi-no-tico.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3199,
+        "aniId": 3199,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3199": {
+        "identifier": "3199",
+        "malId": 3199,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nanatsu no Umi no Tico",
+        "url": "https://animixplay.to/anime/3199"
+      }
+    },
+    "YugenAnime": {
+      "7595": {
+        "identifier": "7595",
+        "malId": 3199,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nanatsu no Umi no Tico",
+        "url": "https://yugen.to/anime/7595/nanatsu-no-umi-no-tico/"
+      }
+    }
+  }
+}

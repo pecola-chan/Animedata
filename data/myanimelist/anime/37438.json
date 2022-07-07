@@ -1,0 +1,172 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:44:02.000Z",
+  "checkedAt": "2022-05-14T16:44:02.000Z",
+  "id": 37438,
+  "type": "anime",
+  "title": "Ingress the Animation",
+  "altTitle": [
+    "INGRESS THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/37438/Ingress_the_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/1944/93421.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ingress-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13890"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21121"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Ingress"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13890,
+  "Pages": {
+    "9anime": {
+      "1knm": {
+        "createdAt": "2020-10-12T15:49:13.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 977,
+        "identifier": "1knm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ingress the Animation (Dub)",
+        "url": "https://9anime.to/watch/ingress-the-animation-dub.1knm",
+        "image": "https://static.akacdn.ru/files/images/2019/04/ee985105fc3088d11ff26e1d67b84392.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37438,
+        "aniId": 101500,
+        "deletedAt": null
+      },
+      "6r00": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3160,
+        "identifier": "6r00",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ingress the Animation",
+        "url": "https://9anime.to/watch/ingress-the-animation.6r00",
+        "image": "http://static.akacdn.ru/static/images/2018/10/e4204ba1c792a03afee6983f78a95308.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37438,
+        "aniId": 101500,
+        "deletedAt": null
+      },
+      "kp86": {
+        "createdAt": "2020-10-12T15:52:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5567,
+        "identifier": "kp86",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ingress",
+        "url": "https://9anime.to/watch/ingress.kp86",
+        "image": "http://static.akacdn.ru/static/images/2018/06/bafb9c2ad24525bd01186ba6821a504e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37438,
+        "aniId": 101500,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ingress-the-animation": {
+        "createdAt": "2020-10-12T16:00:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18475,
+        "identifier": "ingress-the-animation",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ingress the Animation",
+        "url": "https://gogoanime.vc/category/ingress-the-animation",
+        "image": "https://cdnimg.xyz/cover/ingress-the-animation.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37438,
+        "aniId": 101500,
+        "deletedAt": null
+      },
+      "ingress-the-animation-dub": {
+        "createdAt": "2020-10-12T16:00:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18476,
+        "identifier": "ingress-the-animation-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ingress the Animation (Dub)",
+        "url": "https://gogoanime.vc/category/ingress-the-animation-dub",
+        "image": "https://gogocdn.net/cover/ingress-the-animation-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37438,
+        "aniId": 101500,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2818": {
+        "identifier": "2818",
+        "malId": 37438,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ingress the Animation",
+        "url": "https://animepahe.com/a/2818"
+      }
+    },
+    "AniMixPlay": {
+      "37438": {
+        "identifier": "37438",
+        "malId": 37438,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ingress the Animation",
+        "url": "https://animixplay.to/anime/37438"
+      }
+    },
+    "YugenAnime": {
+      "4232": {
+        "identifier": "4232",
+        "malId": 37438,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ingress the Animation",
+        "url": "https://yugen.to/anime/4232/ingress-the-animation/"
+      }
+    }
+  }
+}

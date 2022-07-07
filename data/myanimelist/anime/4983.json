@@ -1,0 +1,141 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T22:16:53.000Z",
+  "checkedAt": "2022-05-14T22:16:53.000Z",
+  "id": 4983,
+  "type": "anime",
+  "title": "Hells",
+  "altTitle": [
+    "Hells Angels",
+    "Hell's Angels",
+    "ヘルズ, (ヘルズエンジェルス)"
+  ],
+  "url": "https://myanimelist.net/anime/4983/Hells",
+  "image": "https://cdn.myanimelist.net/images/anime/12/50303.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mv.avex.jp/hellsangels/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6109"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7991"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280812"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6109,
+  "Pages": {
+    "9anime": {
+      "47w7": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2173,
+        "identifier": "47w7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hells",
+        "url": "https://9anime.to/watch/hells.47w7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-n-M1nPXjX_U/WFv3J3BpG2I/AAAAAAABUOg/sqzIpSnB-uE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4983,
+        "aniId": 4983,
+        "deletedAt": null
+      },
+      "5q7m": {
+        "createdAt": "2020-10-12T15:50:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2758,
+        "identifier": "5q7m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hells (Dub)",
+        "url": "https://9anime.to/watch/hells-dub.5q7m",
+        "image": "https://static.akacdn.ru/static/images/2018/12/8e4023f2ca2c42513b670034e5cfd42b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4983,
+        "aniId": 4983,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hells": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18221,
+        "identifier": "hells",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hells",
+        "url": "https://gogoanime.vc/category/hells",
+        "image": "https://gogocdn.net/cover/hells.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4983,
+        "aniId": 4983,
+        "deletedAt": null
+      },
+      "hells-dub": {
+        "createdAt": "2021-05-01T08:33:31.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36813,
+        "identifier": "hells-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hells (Dub)",
+        "url": "https://gogoanime.vc/category/hells-dub",
+        "image": "https://gogocdn.net/cover/hells-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4983,
+        "aniId": 4983,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4983": {
+        "identifier": "4983",
+        "malId": 4983,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hells",
+        "url": "https://animixplay.to/anime/4983"
+      }
+    },
+    "YugenAnime": {
+      "1188": {
+        "identifier": "1188",
+        "malId": 4983,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hells",
+        "url": "https://yugen.to/anime/1188/hells/"
+      }
+    }
+  }
+}

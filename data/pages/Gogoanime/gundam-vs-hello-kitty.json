@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T16:00:36.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18043,
+  "identifier": "gundam-vs-hello-kitty",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gundam vs Hello Kitty",
+  "url": "https://gogoanime.vc/category/gundam-vs-hello-kitty",
+  "image": "https://cdnimg.xyz/cover/gundam-vs-hello-kitty.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39674,
+  "aniId": 110419,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T22:02:29.000Z",
+    "checkedAt": "2022-05-14T22:02:29.000Z",
+    "id": 39674,
+    "type": "anime",
+    "title": "Gundam vs Hello Kitty",
+    "altTitle": [
+      "ガンダムvsハローキティ"
+    ],
+    "url": "https://myanimelist.net/anime/39674/Gundam_vs_Hello_Kitty",
+    "image": "https://cdn.myanimelist.net/images/anime/1466/100431.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.gundamvskitty.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14812"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14812
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:57.000Z",
+    "updatedAt": "2022-05-15T19:48:59.000Z",
+    "checkedAt": "2022-05-15T19:48:59.000Z",
+    "id": 110419,
+    "type": "anime",
+    "title": "Gundam vs Hello Kitty",
+    "altTitle": [
+      "ガンダムvsハローキティ"
+    ],
+    "url": "https://anilist.co/anime/110419",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110419-cXl0m924Yrz1.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39674,
+    "deletedAt": null
+  }
+}

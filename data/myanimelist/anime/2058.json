@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-29T03:09:58.000Z",
+  "checkedAt": "2022-05-29T03:09:58.000Z",
+  "id": 2058,
+  "type": "anime",
+  "title": "Delpower X Bakuhatsu Miracle Genki!",
+  "altTitle": [
+    "Del Power X",
+    "デルパワーＸ爆発みらくる元気！"
+  ],
+  "url": "https://myanimelist.net/anime/2058/Delpower_X_Bakuhatsu_Miracle_Genki",
+  "image": "https://cdn.myanimelist.net/images/anime/1447/94000.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2718"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3362"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Delpower_X_Bakuhatsu_Miracle_Genki!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2718,
+  "Pages": {
+    "9anime": {
+      "pxrq": {
+        "createdAt": "2021-02-11T14:41:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34713,
+        "identifier": "pxrq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Delpower X Bakuhatsu Miracle Genki!",
+        "url": "https://9anime.to/watch/delpower-x-bakuhatsu-miracle-genki.pxrq",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/05/ce85f8e6662a48a98bf2f605b2d05f19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2058,
+        "aniId": 2058,
+        "deletedAt": null
+      }
+    }
+  }
+}

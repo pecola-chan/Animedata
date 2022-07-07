@@ -1,0 +1,76 @@
+{
+  "createdAt": "2022-04-10T04:30:45.000Z",
+  "updatedAt": "2022-06-18T01:55:03.000Z",
+  "checkedAt": "2022-06-18T01:55:03.000Z",
+  "id": 13431,
+  "type": "anime",
+  "title": "Himitsukessha Taka no Tsume NEO",
+  "altTitle": [
+    "Eagle Talon NEO",
+    "秘密結社鷹の爪 NEO"
+  ],
+  "url": "https://myanimelist.net/anime/13431/Himitsukessha_Taka_no_Tsume_NEO",
+  "image": "https://cdn.myanimelist.net/images/anime/6/82813.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.鷹の爪.jp/neo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9049"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14164"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9049,
+  "Pages": {
+    "Gogoanime": {
+      "himitsu-kessha-taka-no-tsume-neo": {
+        "createdAt": "2022-04-10T04:30:27.000Z",
+        "updatedAt": "2022-04-10T05:00:25.000Z",
+        "checkedAt": null,
+        "id": 40688,
+        "identifier": "himitsu-kessha-taka-no-tsume-neo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Himitsu Kessha Taka no Tsume Neo",
+        "url": "https://gogoanime.fi/category/himitsu-kessha-taka-no-tsume-neo",
+        "image": "https://gogocdn.net/images/anime/H/Himitsu-Kessha-Taka-no-Tsume-Neo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13431,
+        "aniId": 13431,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "13431": {
+        "identifier": "13431",
+        "malId": 13431,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Himitsukessha Taka no Tsume NEO",
+        "url": "https://animixplay.to/anime/13431"
+      }
+    },
+    "YugenAnime": {
+      "1413": {
+        "identifier": "1413",
+        "malId": 13431,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Himitsukessha Taka no Tsume NEO",
+        "url": "https://yugen.to/anime/1413/himitsu-kessha-taka-no-tsume-neo/"
+      }
+    }
+  }
+}

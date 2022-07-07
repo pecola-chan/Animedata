@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-15T05:11:02.000Z",
+  "checkedAt": "2022-05-15T05:11:02.000Z",
+  "id": 30947,
+  "type": "anime",
+  "title": "Kurayami Santa",
+  "altTitle": [
+    "暗闇三太"
+  ],
+  "url": "https://myanimelist.net/anime/30947/Kurayami_Santa",
+  "image": "https://cdn.myanimelist.net/images/anime/12/74464.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbc.co.jp/santa/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11283"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17205"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/暗闇三太"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11283,
+  "Pages": {
+    "9anime": {
+      "n36m": {
+        "createdAt": "2020-10-12T15:53:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6914,
+        "identifier": "n36m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurayami Santa",
+        "url": "https://9anime.to/watch/kurayami-santa.n36m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NkJfzAcAtaA/V5IE_ouOf5I/AAAAAAAAxO8/Ri1yUdasK2s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30947,
+        "aniId": 21223,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kurayami-santa": {
+        "createdAt": "2021-02-18T16:17:53.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34964,
+        "identifier": "kurayami-santa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurayami Santa",
+        "url": "https://gogoanime.vc/category/kurayami-santa",
+        "image": "https://gogocdn.net/images/upload/74464.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30947,
+        "aniId": 21223,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "30947": {
+        "identifier": "30947",
+        "malId": 30947,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kurayami Santa",
+        "url": "https://animixplay.to/anime/30947"
+      }
+    },
+    "YugenAnime": {
+      "6164": {
+        "identifier": "6164",
+        "malId": 30947,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kurayami Santa",
+        "url": "https://yugen.to/anime/6164/kurayami-santa/"
+      }
+    }
+  }
+}

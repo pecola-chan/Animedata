@@ -1,0 +1,54 @@
+{
+  "createdAt": "2021-02-13T15:36:11.000Z",
+  "updatedAt": "2022-04-03T18:32:16.000Z",
+  "checkedAt": null,
+  "id": 35974,
+  "type": "anime",
+  "title": "Swan",
+  "altTitle": [
+    "Nabowa",
+    "Drawings",
+    "Swan",
+    "Swan"
+  ],
+  "url": "https://myanimelist.net/anime/35974/Swan",
+  "image": "https://cdn.myanimelist.net/images/anime/3/86943.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nabowa.com/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Nabowa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "3w1r": {
+        "createdAt": "2021-02-13T15:36:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34753,
+        "identifier": "3w1r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Swan",
+        "url": "https://9anime.to/watch/swan.3w1r",
+        "image": "//static.bunnycdn.ru/i/cache/images/d/db/dbdf8b05033338ebe881e376b7bb7387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35974,
+        "aniId": 103981,
+        "deletedAt": null
+      }
+    }
+  }
+}

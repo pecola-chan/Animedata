@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T17:30:41.000Z",
+  "checkedAt": "2022-05-14T17:30:41.000Z",
+  "id": 137,
+  "type": "anime",
+  "title": "Hunter x Hunter: Original Video Animation",
+  "altTitle": [
+    "Hunter x Hunter OVA",
+    "Hunter x Hunter: Yorkshin City Kanketsu-hen",
+    "HUNTER×HUNTER Original Video Animation"
+  ],
+  "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/1/137.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/1823/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=173"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1135"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Special:Search/Hunter_x_Hunter"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 173,
+  "Pages": {
+    "9anime": {
+      "ryro": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9097,
+        "identifier": "ryro",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hunter x Hunter OVA",
+        "url": "https://9anime.to/watch/hunter-x-hunter-ova.ryro",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ozPl5dTIMD8/WAIDo4zc5GI/AAAAAAABIBk/wcfX3p79WIQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 137,
+        "aniId": 137,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1650": {
+        "identifier": "1650",
+        "malId": 137,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hunter x Hunter: Original Video Animation",
+        "url": "https://animepahe.com/a/1650"
+      }
+    },
+    "AniMixPlay": {
+      "137": {
+        "identifier": "137",
+        "malId": 137,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hunter x Hunter: Original Video Animation",
+        "url": "https://animixplay.to/anime/137"
+      }
+    }
+  }
+}

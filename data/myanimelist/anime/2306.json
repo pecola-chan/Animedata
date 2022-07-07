@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-26T14:17:40.000Z",
+  "checkedAt": "2022-05-26T14:17:40.000Z",
+  "id": 2306,
+  "type": "anime",
+  "title": "Mobile Suit SD Gundam's Counterattack",
+  "altTitle": [
+    "Kidou Senshi SD Gundam no Gyakushuu: Arashi o Yobu Gakuensai",
+    "Mobile Suit SD Gundam's Counterattack: The Storm-Calling School Festival",
+    "The Tale of the SD Warring States: The Chapter of the Violent Final Sky Castle",
+    "Kidou Senshi SD Gundam no Gyakushuu: SD",
+    "Mobile Suit SD Gundam's Counterattack",
+    "機動戦士ＳＤガンダムの逆襲"
+  ],
+  "url": "https://myanimelist.net/anime/2306/Mobile_Suit_SD_Gundams_Counterattack",
+  "image": "https://cdn.myanimelist.net/images/anime/7/2546.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.showtime.jp/animation/b-ch/sd_arashi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4722"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2929"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4722,
+  "Pages": {
+    "9anime": {
+      "0jw9": {
+        "createdAt": "2020-10-12T15:48:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 524,
+        "identifier": "0jw9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mobile Suit SD Gundam's Counterattack",
+        "url": "https://9anime.to/watch/mobile-suit-sd-gundams-counterattack.0jw9",
+        "image": "https://static.akacdn.ru/files/images/2019/10/c40793ddbcb81ee51d9270499d1f5a3f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2306,
+        "aniId": 2306,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mobile-suit-sd-gundams-counterattack": {
+        "createdAt": "2020-10-12T16:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19517,
+        "identifier": "mobile-suit-sd-gundams-counterattack",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mobile Suit SD Gundam's Counterattack",
+        "url": "https://gogoanime.vc/category/mobile-suit-sd-gundams-counterattack",
+        "image": "https://cdnimg.xyz/cover/mobile-suit-sd-gundams-counterattack.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2306,
+        "aniId": 2306,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2306": {
+        "identifier": "2306",
+        "malId": 2306,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit SD Gundam's Counterattack",
+        "url": "https://animixplay.to/anime/2306"
+      }
+    },
+    "YugenAnime": {
+      "3301": {
+        "identifier": "3301",
+        "malId": 2306,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit SD Gundam's Counterattack",
+        "url": "https://yugen.to/anime/3301/mobile-suit-sd-gundams-counterattack/"
+      }
+    }
+  }
+}

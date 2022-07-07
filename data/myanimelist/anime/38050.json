@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T21:53:30.000Z",
+  "checkedAt": "2022-05-14T21:53:30.000Z",
+  "id": 38050,
+  "type": "anime",
+  "title": "Shoujo☆Kageki Revue Starlight Specials",
+  "altTitle": [
+    "少女☆歌劇 レヴュー・スタァライト未放送エピソード"
+  ],
+  "url": "https://myanimelist.net/anime/38050/Shoujo☆Kageki_Revue_Starlight_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1349/93309.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://revuestarlight.com/blu-ray/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13152"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13152,
+  "Pages": {
+    "9anime": {
+      "2mm5": {
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1415,
+        "identifier": "2mm5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shoujo☆Kageki Revue Starlight Specials",
+        "url": "https://9anime.to/watch/shoujokageki-revue-starlight-specials.2mm5",
+        "image": "https://static.akacdn.ru/files/images/2018/08/cdb4b9160240d21dcf0149d0b31b6126.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38050,
+        "aniId": 103254,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shoujokageki-revue-starlight-specials": {
+        "createdAt": "2020-10-12T16:01:53.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20677,
+        "identifier": "shoujokageki-revue-starlight-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shoujo☆Kageki Revue Starlight Specials",
+        "url": "https://gogoanime.vc/category/shoujokageki-revue-starlight-specials",
+        "image": "https://gogocdn.net/cover/shoujokageki-revue-starlight-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38050,
+        "aniId": 103254,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3166": {
+        "identifier": "3166",
+        "malId": 38050,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shoujo☆Kageki Revue Starlight Specials",
+        "url": "https://animepahe.com/a/3166"
+      }
+    },
+    "AniMixPlay": {
+      "38050": {
+        "identifier": "38050",
+        "malId": 38050,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shoujo☆Kageki Revue Starlight Specials",
+        "url": "https://animixplay.to/anime/38050"
+      }
+    },
+    "YugenAnime": {
+      "3630": {
+        "identifier": "3630",
+        "malId": 38050,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shoujo☆Kageki Revue Starlight Specials",
+        "url": "https://yugen.to/anime/3630/shoujokageki-revue-starlight-specials/"
+      }
+    }
+  }
+}

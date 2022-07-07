@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T21:16:11.000Z",
+  "checkedAt": "2022-05-14T21:16:11.000Z",
+  "id": 3561,
+  "type": "anime",
+  "title": "Dennou Boukenki Webdiver",
+  "altTitle": [
+    "Webdiver",
+    "Brain Adventure Record Webdiver",
+    "電脳冒険記ウェブダイバー"
+  ],
+  "url": "https://myanimelist.net/anime/3561/Dennou_Boukenki_Webdiver",
+  "image": "https://cdn.myanimelist.net/images/anime/12/5989.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.radixzero.co.jp/WebDiver/top.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4285"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1301"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4285,
+  "Pages": {
+    "9anime": {
+      "1o1m": {
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1048,
+        "identifier": "1o1m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dennou Boukenki Webdiver",
+        "url": "https://9anime.to/watch/dennou-boukenki-webdiver.1o1m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bgB3EkATue0/V-VXVRUR9aI/AAAAAAABAKQ/mRrwxNz5vIQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3561,
+        "aniId": 3561,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3561": {
+        "identifier": "3561",
+        "malId": 3561,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dennou Boukenki Webdiver",
+        "url": "https://animixplay.to/anime/3561"
+      }
+    },
+    "YugenAnime": {
+      "627": {
+        "identifier": "627",
+        "malId": 3561,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dennou Boukenki Webdiver",
+        "url": "https://yugen.to/anime/627/dennou-boukenki-webdiver/"
+      }
+    }
+  }
+}

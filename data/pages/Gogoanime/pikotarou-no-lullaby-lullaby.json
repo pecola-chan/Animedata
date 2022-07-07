@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-11-09T12:43:54.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29056,
+  "identifier": "pikotarou-no-lullaby-lullaby",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Pikotarou no Lullaby Lullaby",
+  "url": "https://gogoanime.vc/category/pikotarou-no-lullaby-lullaby",
+  "image": "https://gogocdn.net/cover/pikotarou-no-lullaby-lullaby.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36520,
+  "aniId": 114843,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:57.000Z",
+    "updatedAt": "2022-05-14T20:54:35.000Z",
+    "checkedAt": "2022-05-14T20:54:35.000Z",
+    "id": 36520,
+    "type": "anime",
+    "title": "Pikotarou no Lullaby Lullaby",
+    "altTitle": [
+      "Pikotaro Lullaby Lu-llaby",
+      "Pikotaro's Lullaby La La By (Web)",
+      "ピコ太郎のララバイラーラバイ"
+    ],
+    "url": "https://myanimelist.net/anime/36520/Pikotarou_no_Lullaby_Lullaby",
+    "image": "https://cdn.myanimelist.net/images/anime/5/88197.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://avex.jp/piko-lullaby/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13227"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E5%A4%AA%E9%83%8E%E3%81%AE%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%A9%E3%83%90%E3%82%A4"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-273937"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 13227
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:28.000Z",
+    "updatedAt": "2022-05-15T21:46:35.000Z",
+    "checkedAt": "2022-05-15T21:46:35.000Z",
+    "id": 114843,
+    "type": "anime",
+    "title": "Pikotarou no Lullaby Lu-llaby",
+    "altTitle": [
+      "Pikotaro's LULLABY LA LA BY",
+      "ピコ太郎のララバイラーラバイ"
+    ],
+    "url": "https://anilist.co/anime/114843",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114843-e97HaHys4Kdw.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/pikotaros-lullaby-la-la-by"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRNQZ5XWR/Pikotaros-LULLABY-LA-LA-BY"
+      }
+    ],
+    "malId": 36520,
+    "deletedAt": null
+  }
+}

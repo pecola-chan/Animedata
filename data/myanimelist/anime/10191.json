@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T17:20:28.000Z",
+  "checkedAt": "2022-05-14T17:20:28.000Z",
+  "id": 10191,
+  "type": "anime",
+  "title": "Katte ni Kaizou",
+  "altTitle": [
+    "Katteni Kaizou",
+    "かってに改蔵"
+  ],
+  "url": "https://myanimelist.net/anime/10191/Katte_ni_Kaizou",
+  "image": "https://cdn.myanimelist.net/images/anime/3/28416.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/kaizo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8223"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12413"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Katte_ni_Kaizō"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8223,
+  "Pages": {
+    "9anime": {
+      "93pm": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4191,
+        "identifier": "93pm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Katte ni Kaizou",
+        "url": "https://9anime.to/watch/katte-ni-kaizou.93pm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2ntoH5gJiqk/WHM9JhLsDXI/AAAAAAABYHY/cQyX8E1xosA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10191,
+        "aniId": 10191,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "katte-ni-kaizou": {
+        "createdAt": "2021-06-20T04:50:51.000Z",
+        "updatedAt": "2021-06-20T05:20:49.000Z",
+        "checkedAt": null,
+        "id": 37465,
+        "identifier": "katte-ni-kaizou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Katte ni Kaizou",
+        "url": "https://gogoanime.vc/category/katte-ni-kaizou",
+        "image": "https://gogocdn.net/cover/katte-ni-kaizou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10191,
+        "aniId": 10191,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10191": {
+        "identifier": "10191",
+        "malId": 10191,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Katte ni Kaizou",
+        "url": "https://animixplay.to/anime/10191"
+      }
+    },
+    "YugenAnime": {
+      "7797": {
+        "identifier": "7797",
+        "malId": 10191,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Katte ni Kaizou",
+        "url": "https://yugen.to/anime/7797/katte-ni-kaizou/"
+      }
+    }
+  }
+}

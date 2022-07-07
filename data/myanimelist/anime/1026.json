@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T21:32:59.000Z",
+  "checkedAt": "2022-05-14T21:32:59.000Z",
+  "id": 1026,
+  "type": "anime",
+  "title": "Yakumotatsu",
+  "altTitle": [
+    "Yakumo Tatsu",
+    "Eight Clouds Rising",
+    "八雲立つ"
+  ],
+  "url": "https://myanimelist.net/anime/1026/Yakumotatsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1531/99294.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1795"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3835"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E9%9B%B2%E7%AB%8B%E3%81%A4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1795,
+  "Pages": {
+    "9anime": {
+      "nl0l": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7102,
+        "identifier": "nl0l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eight Clouds Rising",
+        "url": "https://9anime.to/watch/eight-clouds-rising.nl0l",
+        "image": "https://static.akacdn.ru/files/images/2019/09/a199dda96d2f7ea14cf5bcedd3ed4789.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1026,
+        "aniId": 1026,
+        "deletedAt": null
+      },
+      "om0z": {
+        "createdAt": "2020-10-12T15:54:15.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7534,
+        "identifier": "om0z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eight Clouds Rising (Dub)",
+        "url": "https://9anime.to/watch/eight-clouds-rising-dub.om0z",
+        "image": "https://static.akacdn.ru/files/images/2019/09/6050d8668e169be4474616f6f14beb1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1026,
+        "aniId": 1026,
+        "deletedAt": null
+      }
+    }
+  }
+}

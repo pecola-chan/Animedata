@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T09:27:44.000Z",
+  "checkedAt": "2022-05-14T09:27:44.000Z",
+  "id": 5081,
+  "type": "anime",
+  "title": "Bakemonogatari",
+  "altTitle": [
+    "Ghostory",
+    "Monstory",
+    "Bakemonogatari",
+    "化物語"
+  ],
+  "url": "https://myanimelist.net/anime/5081/Bakemonogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bakemonogatari.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6327"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10196"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bakemonogatari"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-248954"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/bakemonogatari"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6327,
+  "Pages": {
+    "9anime": {
+      "579": {
+        "createdAt": "2020-10-12T15:48:25.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 15,
+        "identifier": "579",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakemonogatari",
+        "url": "https://9anime.to/watch/bakemonogatari.579",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-27futJ_jTQM/V3u141rRElI/AAAAAAAAtiU/rXlDlFbK-s8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5081,
+        "aniId": 5081,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bakemonogatari": {
+        "createdAt": "2020-10-12T15:59:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16680,
+        "identifier": "bakemonogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bakemonogatari",
+        "url": "https://gogoanime.vc/category/bakemonogatari",
+        "image": "https://images.gogoanime.tv/images/anime/B/bakemonogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5081,
+        "aniId": 5081,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "63": {
+        "identifier": "63",
+        "malId": 5081,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bakemonogatari",
+        "url": "https://animepahe.com/a/63"
+      }
+    },
+    "AniMixPlay": {
+      "5081": {
+        "identifier": "5081",
+        "malId": 5081,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bakemonogatari",
+        "url": "https://animixplay.to/anime/5081"
+      }
+    },
+    "YugenAnime": {
+      "1378": {
+        "identifier": "1378",
+        "malId": 5081,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bakemonogatari",
+        "url": "https://yugen.to/anime/1378/bakemonogatari/"
+      }
+    }
+  }
+}

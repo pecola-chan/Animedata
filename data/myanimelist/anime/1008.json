@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T09:46:47.000Z",
+  "checkedAt": "2022-05-14T09:46:47.000Z",
+  "id": 1008,
+  "type": "anime",
+  "title": "Ranma ½: Yomigaeru Kioku",
+  "altTitle": [
+    "Ranma ½ Special: Yomigaeru Kioku",
+    "らんま1/2 SPECIAL よみがえる記憶"
+  ],
+  "url": "https://myanimelist.net/anime/1008/Ranma_½__Yomigaeru_Kioku",
+  "image": "https://cdn.myanimelist.net/images/anime/11/63453.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2995"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=200"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ranma_%C2%BD"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2995,
+  "Pages": {
+    "9anime": {
+      "0x5r": {
+        "createdAt": "2020-10-12T15:48:55.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 707,
+        "identifier": "0x5r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ranma ½ Specials",
+        "url": "https://9anime.to/watch/ranma-specials.0x5r",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VhfF9DEzvAQ/V_zOMQeKl4I/AAAAAAABGmE/e2Fjy_RRgn8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1008,
+        "aniId": 1008,
+        "deletedAt": null
+      },
+      "1v6q": {
+        "createdAt": "2020-10-12T15:49:19.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1120,
+        "identifier": "1v6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ranma ½ Specials (Dub)",
+        "url": "https://9anime.to/watch/ranma-specials-dub.1v6q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zDFwd1h-z-E/V_zONY_dkCI/AAAAAAABGmI/uWEtYyl28sE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1008,
+        "aniId": 1008,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4234": {
+        "identifier": "4234",
+        "malId": 1008,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ranma ½: Yomigaeru Kioku",
+        "url": "https://animepahe.com/a/4234"
+      }
+    }
+  }
+}

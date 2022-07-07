@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-15T09:55:20.000Z",
+  "checkedAt": "2022-05-15T09:55:20.000Z",
+  "id": 15819,
+  "type": "anime",
+  "title": "Kindaichi Shounen no Jikenbo: Kuromajutsu Satsujin Jiken-hen",
+  "altTitle": [
+    "Kindaichi Shounen no Jikenbo (2012)",
+    "Kindaichi Case Files: Black Magic Murder Case",
+    "金田一少年の事件簿 黒魔術殺人事件編"
+  ],
+  "url": "https://myanimelist.net/anime/15819/Kindaichi_Shounen_no_Jikenbo__Kuromajutsu_Satsujin_Jiken-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/3/45070.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kindaichi20.com/dvd_campaign_mod.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9248"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14724"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/金田一少年の事件簿"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9248,
+  "Pages": {
+    "9anime": {
+      "vr32": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9439,
+        "identifier": "vr32",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kindaichi Shounen no Jikenbo: Kuromajutsu Satsujin Jiken-hen",
+        "url": "https://9anime.to/watch/kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen.vr32",
+        "image": "https://static.akacdn.ru/files/images/2018/02/2c0de80c3f011db72a732726ad5a2e10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15819,
+        "aniId": 15819,
+        "deletedAt": null
+      }
+    }
+  }
+}

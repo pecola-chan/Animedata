@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T18:39:05.000Z",
+  "checkedAt": "2022-05-14T18:39:05.000Z",
+  "id": 38891,
+  "type": "anime",
+  "title": "Sora no Method: Mou Hitotsu no Negai",
+  "altTitle": [
+    "天体のメソッド もうひとつの願い"
+  ],
+  "url": "https://myanimelist.net/anime/38891/Sora_no_Method__Mou_Hitotsu_no_Negai",
+  "image": "https://cdn.myanimelist.net/images/anime/1472/97902.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sora-no-method.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14555"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%93%E3%81%AE%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14555,
+  "Pages": {
+    "9anime": {
+      "v14v": {
+        "createdAt": "2020-10-12T15:55:45.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9147,
+        "identifier": "v14v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sora no Method OVA",
+        "url": "https://9anime.to/watch/sora-no-method-ova.v14v",
+        "image": "https://static.akacdn.ru/static/images/2018/12/3b80d2d3103c6424570c4f44b203cd57.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38891,
+        "aniId": 112455,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sora-no-method-mou-hitotsu-no-negai": {
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20759,
+        "identifier": "sora-no-method-mou-hitotsu-no-negai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sora no Method: Mou Hitotsu no Negai",
+        "url": "https://gogoanime.vc/category/sora-no-method-mou-hitotsu-no-negai",
+        "image": "https://cdnimg.xyz/cover/sora-no-method-mou-hitotsu-no-negai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38891,
+        "aniId": 112455,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38891": {
+        "identifier": "38891",
+        "malId": 38891,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sora no Method: Mou Hitotsu no Negai",
+        "url": "https://animixplay.to/anime/38891"
+      }
+    },
+    "YugenAnime": {
+      "5421": {
+        "identifier": "5421",
+        "malId": 38891,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sora no Method: Mou Hitotsu no Negai",
+        "url": "https://yugen.to/anime/5421/sora-no-method-mou-hitotsu-no-negai/"
+      }
+    }
+  }
+}

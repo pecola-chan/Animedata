@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:38:21.000Z",
+  "updatedAt": "2022-05-21T07:41:03.000Z",
+  "checkedAt": "2022-05-21T07:41:03.000Z",
+  "id": 1768,
+  "type": "anime",
+  "title": "Kikaider 01 The Animation",
+  "altTitle": [
+    "Kikaider 01: The Animation",
+    "キカイダー０１　THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/1768/Kikaider_01_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/1043/100239.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=981"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=494"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kikaider"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 981,
+  "Pages": {
+    "9anime": {
+      "7361": {
+        "createdAt": "2020-10-12T15:48:33.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 244,
+        "identifier": "7361",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kikaider 01 The Animation",
+        "url": "https://9anime.to/watch/kikaider-01-the-animation.7361",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AtYIdCZ3xjQ/WHMKnIAP_JI/AAAAAAABYBQ/A3es_vitWIg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1768,
+        "aniId": 1768,
+        "deletedAt": null
+      },
+      "93km": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4186,
+        "identifier": "93km",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kikaider 01 The Animation (Dub)",
+        "url": "https://9anime.to/watch/kikaider-01-the-animation-dub.93km",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8c7S6t_wv-8/WHMKsxX48xI/AAAAAAABYBY/ctA88j0o__0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1768,
+        "aniId": 1768,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1768": {
+        "identifier": "1768",
+        "malId": 1768,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kikaider 01 The Animation",
+        "url": "https://animixplay.to/anime/1768"
+      }
+    },
+    "YugenAnime": {
+      "7051": {
+        "identifier": "7051",
+        "malId": 1768,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kikaider 01 The Animation",
+        "url": "https://yugen.to/anime/7051/kikaider-01-the-animation/"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "createdAt": "2022-02-21T13:51:42.000Z",
+  "updatedAt": "2022-02-21T14:17:39.000Z",
+  "checkedAt": null,
+  "id": 40160,
+  "identifier": "princess-principal-crown-handler-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Princess Principal: Crown Handler 2",
+  "url": "https://gogoanime.fi/category/princess-principal-crown-handler-2",
+  "image": "https://gogocdn.net/cover/princess-principal-crown-handler-2.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 41140,
+  "aniId": 129759,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-02-13T15:35:44.000Z",
+    "updatedAt": "2022-05-14T17:09:16.000Z",
+    "checkedAt": "2022-05-14T17:09:16.000Z",
+    "id": 41140,
+    "type": "anime",
+    "title": "Princess Principal: Crown Handler Movie 2",
+    "altTitle": [
+      "プリンセス・プリンシパル Crown Handler 第2話"
+    ],
+    "url": "https://myanimelist.net/anime/41140/Princess_Principal__Crown_Handler_Movie_2",
+    "image": "https://cdn.myanimelist.net/images/anime/1244/116570.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.pripri-anime.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14064"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Princess_Principal"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14064
+  },
+  "Ani": {
+    "createdAt": "2021-05-23T21:08:17.000Z",
+    "updatedAt": "2022-05-15T10:59:35.000Z",
+    "checkedAt": "2022-05-15T10:59:35.000Z",
+    "id": 129759,
+    "type": "anime",
+    "title": "Princess Principal: Crown Handler - Chapter 2",
+    "altTitle": [
+      "プリンセス・プリンシパル Crown Handler 第2章",
+      "Princess Principal Movie 2"
+    ],
+    "url": "https://anilist.co/anime/129759",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129759-4ZQ5MPyE52Py.png",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 41140,
+    "deletedAt": null
+  }
+}

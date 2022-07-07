@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:17.000Z",
+  "updatedAt": "2022-05-15T01:46:48.000Z",
+  "checkedAt": "2022-05-15T01:46:48.000Z",
+  "id": 1438,
+  "type": "anime",
+  "title": "Lupin III: Lupin Ansatsu Shirei",
+  "altTitle": [
+    "Rupan Sansei: Rupan Ansatsu Shirei",
+    "Lupin III: Orders To Assassinate Lupin",
+    "Lupin III: Voyage to Danger",
+    "ルパン三世『ルパン暗殺指令』"
+  ],
+  "url": "https://myanimelist.net/anime/1438/Lupin_III__Lupin_Ansatsu_Shirei",
+  "image": "https://cdn.myanimelist.net/images/anime/11/27608.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/tvsp/data/s_rupin_ansatu.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=986"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2063"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281539"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 986,
+  "Pages": {
+    "9anime": {
+      "2vn2": {
+        "createdAt": "2020-10-12T15:49:33.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1528,
+        "identifier": "2vn2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III: Lupin Ansatsu Shirei",
+        "url": "https://9anime.to/watch/lupin-iii-lupin-ansatsu-shirei.2vn2",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hPdv3ZGZ3JU/V_p8w1P5YvI/AAAAAAABF1A/rZ8fNfU4O-I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1438,
+        "aniId": 1438,
+        "deletedAt": null
+      },
+      "3vor": {
+        "createdAt": "2020-10-12T15:49:52.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1951,
+        "identifier": "3vor",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III: Lupin Ansatsu Shirei (Dub)",
+        "url": "https://9anime.to/watch/lupin-iii-lupin-ansatsu-shirei-dub.3vor",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gpMbdNf3dVg/V_p84AddcPI/AAAAAAABF1I/KQeab8zupJk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1438,
+        "aniId": 1438,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1438": {
+        "identifier": "1438",
+        "malId": 1438,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lupin III: Lupin Ansatsu Shirei",
+        "url": "https://animixplay.to/anime/1438"
+      }
+    },
+    "YugenAnime": {
+      "4523": {
+        "identifier": "4523",
+        "malId": 1438,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lupin III: Lupin Ansatsu Shirei",
+        "url": "https://yugen.to/anime/4523/lupin-iii-lupin-ansatsu-shirei/"
+      }
+    }
+  }
+}

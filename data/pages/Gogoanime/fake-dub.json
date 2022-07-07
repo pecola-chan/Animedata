@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:22.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17613,
+  "identifier": "fake-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fake (Dub)",
+  "url": "https://gogoanime.vc/category/fake-dub",
+  "image": "https://cdnimg.xyz/cover/fake-dub.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 365,
+  "aniId": 365,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:03.000Z",
+    "updatedAt": "2022-05-14T21:33:35.000Z",
+    "checkedAt": "2022-05-14T21:33:35.000Z",
+    "id": 365,
+    "type": "anime",
+    "title": "Fake",
+    "altTitle": [
+      "FAKE"
+    ],
+    "url": "https://myanimelist.net/anime/365/Fake",
+    "image": "https://cdn.myanimelist.net/images/anime/4/25196.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=490"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=146"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fake_%28anime%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 490
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:39.000Z",
+    "updatedAt": "2022-05-15T22:15:35.000Z",
+    "checkedAt": "2022-05-15T22:15:35.000Z",
+    "id": 365,
+    "type": "anime",
+    "title": "FAKE",
+    "altTitle": [
+      "FAKE",
+      "ふぇいく"
+    ],
+    "url": "https://anilist.co/anime/365",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/365.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 365,
+    "deletedAt": null
+  }
+}

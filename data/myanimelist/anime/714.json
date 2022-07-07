@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T18:58:29.000Z",
+  "checkedAt": "2022-05-14T18:58:29.000Z",
+  "id": 714,
+  "type": "anime",
+  "title": "High School! Kimengumi",
+  "altTitle": [
+    "High School Funny-face Club",
+    "Funny Faces in High School",
+    "ハイスクール！奇面組"
+  ],
+  "url": "https://myanimelist.net/anime/714/High_School_Kimengumi",
+  "image": "https://cdn.myanimelist.net/images/anime/1146/106160.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1356"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1414"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/High_School!_Kimengumi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1356,
+  "Pages": {
+    "9anime": {
+      "6m8z": {
+        "createdAt": "2021-01-16T05:03:03.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33729,
+        "identifier": "6m8z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High School! Kimengumi",
+        "url": "https://9anime.to/watch/funny-faces-in-high-school.6m8z",
+        "image": "//static.bunnycdn.ru/i/cache/images/4/47/47fb58fd65925062863c839b255dc56c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 714,
+        "aniId": 714,
+        "deletedAt": null
+      }
+    }
+  }
+}

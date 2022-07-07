@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T22:49:10.000Z",
+  "checkedAt": "2022-05-14T22:49:10.000Z",
+  "id": 38449,
+  "type": "anime",
+  "title": "Choujigen Kakumei Anime: Dimension High School",
+  "altTitle": [
+    "超次元革命アニメ Dimensionハイスクール"
+  ],
+  "url": "https://myanimelist.net/anime/38449/Choujigen_Kakumei_Anime__Dimension_High_School",
+  "image": "https://cdn.myanimelist.net/images/anime/1620/113392.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dimension-hs.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21548"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277501"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/dimension-high-school"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14427,
+  "Pages": {
+    "9anime": {
+      "jmp3": {
+        "createdAt": "2020-10-12T15:52:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4939,
+        "identifier": "jmp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dimension High School",
+        "url": "https://9anime.to/watch/dimension-high-school.jmp3",
+        "image": "https://static.akacdn.ru/static/images/2018/10/a7afed79ed27ac41d39f90b821d12b4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38449,
+        "aniId": 104750,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dimension-high-school": {
+        "createdAt": "2020-10-12T16:00:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17388,
+        "identifier": "dimension-high-school",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dimension High School",
+        "url": "https://gogoanime.vc/category/dimension-high-school",
+        "image": "https://cdnimg.xyz/cover/dimension-high-school.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38449,
+        "aniId": 104750,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2974": {
+        "identifier": "2974",
+        "malId": 38449,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Choujigen Kakumei Anime: Dimension High School",
+        "url": "https://animepahe.com/a/2974"
+      }
+    },
+    "AniMixPlay": {
+      "38449": {
+        "identifier": "38449",
+        "malId": 38449,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Choujigen Kakumei Anime: Dimension High School",
+        "url": "https://animixplay.to/anime/38449"
+      }
+    },
+    "YugenAnime": {
+      "4979": {
+        "identifier": "4979",
+        "malId": 38449,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dimension High School",
+        "url": "https://yugen.to/anime/4979/dimension-high-school/"
+      }
+    }
+  }
+}

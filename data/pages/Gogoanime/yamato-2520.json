@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:02:17.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21512,
+  "identifier": "yamato-2520",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Yamato 2520",
+  "url": "https://gogoanime.vc/category/yamato-2520",
+  "image": "https://gogocdn.net/cover/yamato-2520.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6718,
+  "aniId": 6718,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:52.000Z",
+    "updatedAt": "2022-05-15T01:01:59.000Z",
+    "checkedAt": "2022-05-15T01:01:59.000Z",
+    "id": 6718,
+    "type": "anime",
+    "title": "Yamato 2520",
+    "altTitle": [
+      "YAMATO2520 [ヤマトニーゴーニーゼロ]"
+    ],
+    "url": "https://myanimelist.net/anime/6718/Yamato_2520",
+    "image": "https://cdn.myanimelist.net/images/anime/12/61289.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2919"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3172"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yamato_2520"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2919
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:45.000Z",
+    "updatedAt": "2022-05-15T12:25:35.000Z",
+    "checkedAt": "2022-05-15T12:25:35.000Z",
+    "id": 6718,
+    "type": "anime",
+    "title": "YAMATO2520",
+    "altTitle": [
+      "YAMATO2520",
+      "Yamato 2520"
+    ],
+    "url": "https://anilist.co/anime/6718",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6718-vx9N7Uhpk2Mr.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6718,
+    "deletedAt": null
+  }
+}

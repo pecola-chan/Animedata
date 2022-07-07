@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T17:46:05.000Z",
+  "checkedAt": "2022-05-14T17:46:05.000Z",
+  "id": 24781,
+  "type": "anime",
+  "title": "Imawa no Kuni no Alice (OVA)",
+  "altTitle": [
+    "Alice in Borderland",
+    "今際の国のアリス"
+  ],
+  "url": "https://myanimelist.net/anime/24781/Imawa_no_Kuni_no_Alice_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1004/96669.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shogakukan.co.jp/pr/anisun/arisu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10628"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16495"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Alice_in_Borderland"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10628,
+  "Pages": {
+    "9anime": {
+      "8p7v": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3960,
+        "identifier": "8p7v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Imawa no Kuni no Alice (OVA)",
+        "url": "https://9anime.to/watch/imawa-no-kuni-no-alice-ova.8p7v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3aTJA6SbKBI/WIA1SfjQFWI/AAAAAAABaBg/ReZQJ6otdfs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24781,
+        "aniId": 20952,
+        "deletedAt": null
+      },
+      "0228r": {
+        "createdAt": "2021-12-24T03:22:16.000Z",
+        "updatedAt": "2021-12-24T03:51:46.000Z",
+        "checkedAt": null,
+        "id": 39539,
+        "identifier": "0228r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Imawa no Kuni no Alice (Dub)",
+        "url": "https://9anime.to/watch/alice-in-borderland-dub.0228r",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a3/a300bd5bdb61f2f1541f52292a01c840.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24781,
+        "aniId": 20952,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "imawa-no-kuni-no-alice": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18449,
+        "identifier": "imawa-no-kuni-no-alice",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Imawa no Kuni no Alice",
+        "url": "https://gogoanime.vc/category/imawa-no-kuni-no-alice#",
+        "image": "https://cdnimg.xyz/images/anime/I/Imawa no Kuni no Alice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24781,
+        "aniId": 20952,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "24781": {
+        "identifier": "24781",
+        "malId": 24781,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Imawa no Kuni no Alice (OVA)",
+        "url": "https://animixplay.to/anime/24781"
+      }
+    }
+  }
+}

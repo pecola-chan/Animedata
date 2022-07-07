@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T23:17:11.000Z",
+  "checkedAt": "2022-05-14T23:17:11.000Z",
+  "id": 361,
+  "type": "anime",
+  "title": "Memories Off",
+  "altTitle": [
+    "Memories Off (メモリーズオフ)"
+  ],
+  "url": "https://myanimelist.net/anime/361/Memories_Off",
+  "image": "https://cdn.myanimelist.net/images/anime/6/13174.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=120"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1138"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 120,
+  "Pages": {
+    "9anime": {
+      "2jv4": {
+        "createdAt": "2020-10-12T15:49:26.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1362,
+        "identifier": "2jv4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Memories Off",
+        "url": "https://9anime.to/watch/memories-off.2jv4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5LPEkhqkPmc/WHxp3tQyGzI/AAAAAAABZjI/oZXqoK83hHg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 361,
+        "aniId": 361,
+        "deletedAt": null
+      }
+    }
+  }
+}

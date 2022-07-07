@@ -1,0 +1,74 @@
+{
+  "createdAt": "2021-10-12T13:14:24.000Z",
+  "updatedAt": "2021-10-12T13:44:23.000Z",
+  "checkedAt": null,
+  "id": 38988,
+  "identifier": "sugar-bunnies",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sugar Bunnies",
+  "url": "https://gogoanime.pe/category/sugar-bunnies",
+  "image": "https://gogocdn.net/cover/sugar-bunnies.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3885,
+  "aniId": 3885,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-08-29T16:06:52.000Z",
+    "updatedAt": "2022-05-14T18:36:35.000Z",
+    "checkedAt": "2022-05-14T18:36:35.000Z",
+    "id": 3885,
+    "type": "anime",
+    "title": "Sugar Bunnies",
+    "altTitle": [
+      "Sugar Bunnies",
+      "シュガーバニーズ"
+    ],
+    "url": "https://myanimelist.net/anime/3885/Sugar_Bunnies",
+    "image": "https://cdn.myanimelist.net/images/anime/5/6947.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sanrio.co.jp/anime/sugarbunnies/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6202"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9127"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%90%E3%83%8B%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6202
+  },
+  "Ani": {
+    "createdAt": "2021-06-09T14:34:14.000Z",
+    "updatedAt": "2022-05-15T20:58:23.000Z",
+    "checkedAt": "2022-05-15T20:58:23.000Z",
+    "id": 3885,
+    "type": "anime",
+    "title": "Sugar Bunnies",
+    "altTitle": [
+      "シュガーバニーズ"
+    ],
+    "url": "https://anilist.co/anime/3885",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3885.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3885,
+    "deletedAt": null
+  }
+}

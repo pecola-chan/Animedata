@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T17:51:35.000Z",
+  "checkedAt": "2022-05-14T17:51:35.000Z",
+  "id": 37760,
+  "type": "anime",
+  "title": "Mecha-ude",
+  "altTitle": [
+    "Mechanical Arms",
+    "メカウデ"
+  ],
+  "url": "https://myanimelist.net/anime/37760/Mecha-ude",
+  "image": "https://cdn.myanimelist.net/images/anime/1625/92925.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mecha-ude.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12467"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22240"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12467,
+  "Pages": {
+    "9anime": {
+      "9v00": {
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4444,
+        "identifier": "9v00",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mechanical Arms (Dub)",
+        "url": "https://9anime.to/watch/mechanical-arms-dub.9v00",
+        "image": "https://static.akacdn.ru/files/images/2019/05/f9ba7d291e3e7dc8b9da36d7530b7664.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37760,
+        "aniId": 101915,
+        "deletedAt": null
+      },
+      "j9w8": {
+        "createdAt": "2020-10-12T15:52:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4828,
+        "identifier": "j9w8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mechanical Arms",
+        "url": "https://9anime.to/watch/mechanical-arms.j9w8",
+        "image": "http://static.akacdn.ru/static/images/2018/05/402d878bbd7e14b36e6f5412f503a90a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37760,
+        "aniId": 101915,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mecha-ude": {
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19392,
+        "identifier": "mecha-ude",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mecha-ude",
+        "url": "https://gogoanime.vc/category/mecha-ude",
+        "image": "https://cdnimg.xyz/cover/mecha-ude.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37760,
+        "aniId": 101915,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37760": {
+        "identifier": "37760",
+        "malId": 37760,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mecha-ude",
+        "url": "https://animixplay.to/anime/37760"
+      }
+    },
+    "YugenAnime": {
+      "820": {
+        "identifier": "820",
+        "malId": 37760,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mecha-ude",
+        "url": "https://yugen.to/anime/820/mecha-ude/"
+      }
+    }
+  }
+}

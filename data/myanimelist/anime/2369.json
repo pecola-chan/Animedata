@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-14T17:39:41.000Z",
+  "checkedAt": "2022-05-14T17:39:41.000Z",
+  "id": 2369,
+  "type": "anime",
+  "title": "Rental Magica",
+  "altTitle": [
+    "Rental Magica",
+    "レンタルマギカ"
+  ],
+  "url": "https://myanimelist.net/anime/2369/Rental_Magica",
+  "image": "https://cdn.myanimelist.net/images/anime/5/73999.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5189"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8033"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rental_Magica"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/rental-magica"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5189,
+  "Pages": {
+    "9anime": {
+      "52kq": {
+        "createdAt": "2020-10-12T15:50:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2484,
+        "identifier": "52kq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rental Magica",
+        "url": "https://9anime.to/watch/rental-magica.52kq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-odmuTWpclPk/V4zq0EtwHHI/AAAAAAAAwSA/SNjizlZxH9c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2369,
+        "aniId": 2369,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rental-magica": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20269,
+        "identifier": "rental-magica",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rental Magica",
+        "url": "https://gogoanime.vc/category/rental-magica",
+        "image": "https://cdnimg.xyz/images/anime/R/rental-magica.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2369,
+        "aniId": 2369,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2369": {
+        "identifier": "2369",
+        "malId": 2369,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rental Magica",
+        "url": "https://animixplay.to/anime/2369"
+      }
+    },
+    "YugenAnime": {
+      "775": {
+        "identifier": "775",
+        "malId": 2369,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rental Magica",
+        "url": "https://yugen.to/anime/775/rental-magica/"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T23:54:53.000Z",
+  "checkedAt": "2022-05-14T23:54:53.000Z",
+  "id": 556,
+  "type": "anime",
+  "title": "Koutetsu Tenshi Kurumi Zero",
+  "altTitle": [
+    "鋼鉄天使くるみ零"
+  ],
+  "url": "https://myanimelist.net/anime/556/Koutetsu_Tenshi_Kurumi_Zero",
+  "image": "https://cdn.myanimelist.net/images/anime/4/13729.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=38"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1853"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 38,
+  "Pages": {
+    "9anime": {
+      "4z3x": {
+        "createdAt": "2020-10-12T15:50:16.000Z",
+        "updatedAt": "2022-06-13T21:02:14.000Z",
+        "checkedAt": "2022-06-13T21:02:14.000Z",
+        "id": 2444,
+        "identifier": "4z3x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koutetsu Tenshi Kurumi Zero",
+        "url": "https://9anime.to/watch/koutetsu-tenshi-kurumi-zero.4z3x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/8cab75bc6c6bcae39bf97618e163e659.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 556,
+        "aniId": 556,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "5313": {
+        "identifier": "5313",
+        "malId": 556,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koutetsu Tenshi Kurumi Zero",
+        "url": "https://yugen.to/anime/5313/steel-angel-kurumi-zero/"
+      }
+    }
+  }
+}

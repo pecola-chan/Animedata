@@ -1,0 +1,161 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T16:24:20.000Z",
+  "checkedAt": "2022-05-14T16:24:20.000Z",
+  "id": 37403,
+  "type": "anime",
+  "title": "Ahiru no Sora",
+  "altTitle": [
+    "あひるの空"
+  ],
+  "url": "https://myanimelist.net/anime/37403/Ahiru_no_Sora",
+  "image": "https://cdn.myanimelist.net/images/anime/1975/108030.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ahirunosora.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13848"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22207"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ahiru_no_Sora#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278620"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/ahiru-no-sora"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13848,
+  "Pages": {
+    "9anime": {
+      "06xr": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 464,
+        "identifier": "06xr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ahiru no Sora",
+        "url": "https://9anime.to/watch/ahiru-no-sora.06xr",
+        "image": "https://static.akacdn.ru/files/images/2019/10/717ab0c26cf1afd12c8eeed659237770.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37403,
+        "aniId": 101239,
+        "deletedAt": null
+      },
+      "wx76": {
+        "createdAt": "2020-10-12T15:56:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9960,
+        "identifier": "wx76",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ahiru no Sora (Dub)",
+        "url": "https://9anime.to/watch/ahiru-no-sora-dub.wx76",
+        "image": "https://static.akacdn.ru/files/images/2019/11/0fc72c8763bfd6e28ee77f14d33352a8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37403,
+        "aniId": 101239,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ahiru-no-sora": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16399,
+        "identifier": "ahiru-no-sora",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ahiru no Sora",
+        "url": "https://gogoanime.vc/category/ahiru-no-sora",
+        "image": "https://cdnimg.xyz/cover/ahiru-no-sora.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37403,
+        "aniId": 101239,
+        "deletedAt": null
+      },
+      "ahiru-no-sora-dub": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16400,
+        "identifier": "ahiru-no-sora-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ahiru no Sora (Dub)",
+        "url": "https://gogoanime.vc/category/ahiru-no-sora-dub",
+        "image": "https://cdnimg.xyz/cover/ahiru-no-sora-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37403,
+        "aniId": 101239,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3447": {
+        "identifier": "3447",
+        "malId": 37403,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ahiru no Sora",
+        "url": "https://animepahe.com/a/3447"
+      }
+    },
+    "AniMixPlay": {
+      "37403": {
+        "identifier": "37403",
+        "malId": 37403,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ahiru no Sora",
+        "url": "https://animixplay.to/anime/37403"
+      }
+    },
+    "YugenAnime": {
+      "193": {
+        "identifier": "193",
+        "malId": 37403,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ahiru no Sora",
+        "url": "https://yugen.to/anime/193/ahiru-no-sora/"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-13T21:36:13.000Z",
+  "checkedAt": "2022-05-13T21:36:13.000Z",
+  "id": 36214,
+  "type": "anime",
+  "title": "Asagao to Kase-san.",
+  "altTitle": [
+    "Morning Glory and Kase-san",
+    "Kase-san and Morning Glories",
+    "あさがおと加瀬さん。"
+  ],
+  "url": "https://myanimelist.net/anime/36214/Asagao_to_Kase-san",
+  "image": "https://cdn.myanimelist.net/images/anime/1578/94205.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.asagao-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13409"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20752"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kase-san"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13409,
+  "Pages": {
+    "9anime": {
+      "56xv": {
+        "createdAt": "2020-10-12T15:50:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2560,
+        "identifier": "56xv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asagao to Kase-san.",
+        "url": "https://9anime.to/watch/asagao-to-kase-san.56xv",
+        "image": "https://static.akacdn.ru/files/images/2018/07/95a7419a04f407c5c25f85b23eefcd61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36214,
+        "aniId": 99916,
+        "deletedAt": null
+      },
+      "nlvn": {
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7120,
+        "identifier": "nlvn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asagao to Kase-san. (Dub)",
+        "url": "https://9anime.to/watch/asagao-to-kase-san-dub.nlvn",
+        "image": "https://static.akacdn.ru/files/images/2019/11/038040bb2fd3a7e645aaf3b71eaf5e11.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36214,
+        "aniId": 99916,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "asagao-to-kase-san-dub": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16612,
+        "identifier": "asagao-to-kase-san-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Asagao to Kase-san. (Dub)",
+        "url": "https://gogoanime.vc/category/asagao-to-kase-san-dub",
+        "image": "https://gogocdn.net/cover/asagao-to-kase-san-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36214,
+        "aniId": 99916,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2591": {
+        "identifier": "2591",
+        "malId": 36214,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Asagao to Kase-san.",
+        "url": "https://animepahe.com/a/2591"
+      }
+    },
+    "AniMixPlay": {
+      "36214": {
+        "identifier": "36214",
+        "malId": 36214,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Asagao to Kase-san.",
+        "url": "https://animixplay.to/anime/36214"
+      }
+    },
+    "YugenAnime": {
+      "6222": {
+        "identifier": "6222",
+        "malId": 36214,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Asagao to Kase-san.",
+        "url": "https://yugen.to/anime/6222/asagao-to-kase-san/"
+      }
+    }
+  }
+}

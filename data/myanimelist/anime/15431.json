@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T22:52:53.000Z",
+  "checkedAt": "2022-05-14T22:52:53.000Z",
+  "id": 15431,
+  "type": "anime",
+  "title": "Natsu-iro Kiseki: 15-kaime no Natsuyasumi",
+  "altTitle": [
+    "Natsuiro Kiseki OVA",
+    "夏色キセキ ～15回目のナツヤスミ～"
+  ],
+  "url": "https://myanimelist.net/anime/15431/Natsu-iro_Kiseki__15-kaime_no_Natsuyasumi",
+  "image": "https://cdn.myanimelist.net/images/anime/6/41923.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.natsuiro-kiseki.jp/festival/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8804"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8804,
+  "Pages": {
+    "9anime": {
+      "51zq": {
+        "createdAt": "2020-10-12T15:50:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2477,
+        "identifier": "51zq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Natsu-iro Kiseki: 15-kaime no Natsuyasumi",
+        "url": "https://9anime.to/watch/natsu-iro-kiseki-15-kaime-no-natsuyasumi.51zq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_ruT_ivW6lo/V87cmL4q5RI/AAAAAAAA76Q/r8bowmnB0J4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15431,
+        "aniId": 15431,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1258": {
+        "identifier": "1258",
+        "malId": 15431,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Natsu-iro Kiseki: 15-kaime no Natsuyasumi",
+        "url": "https://animepahe.com/a/1258"
+      }
+    },
+    "AniMixPlay": {
+      "15431": {
+        "identifier": "15431",
+        "malId": 15431,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Natsu-iro Kiseki: 15-kaime no Natsuyasumi",
+        "url": "https://animixplay.to/anime/15431"
+      }
+    }
+  }
+}

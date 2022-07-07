@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:59:58.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 16792,
+  "identifier": "beyblade-burst-gachi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Beyblade Burst Gachi",
+  "url": "https://gogoanime.vc/category/beyblade-burst-gachi",
+  "image": "https://cdnimg.xyz/cover/beyblade-burst-gachi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39282,
+  "aniId": 108853,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:08.000Z",
+    "updatedAt": "2022-05-14T23:44:10.000Z",
+    "checkedAt": "2022-05-14T23:44:10.000Z",
+    "id": 39282,
+    "type": "anime",
+    "title": "Beyblade Burst Gachi",
+    "altTitle": [
+      "Beyblade Burst GT",
+      "Beyblade Burst Rise",
+      "ベイブレードバーストGT (ガチ)"
+    ],
+    "url": "https://myanimelist.net/anime/39282/Beyblade_Burst_Gachi",
+    "image": "https://cdn.myanimelist.net/images/anime/1318/99806.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://beyblade.jp/teaser_gt/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14688"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21818"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 14688
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:55.000Z",
+    "updatedAt": "2022-05-15T14:24:11.000Z",
+    "checkedAt": "2022-05-15T14:24:11.000Z",
+    "id": 108853,
+    "type": "anime",
+    "title": "Beyblade Burst Gachi",
+    "altTitle": [
+      "Beyblade Burst GT",
+      "ベイブレードバーストGT(ガチ)",
+      "Beyblade Burst Rise"
+    ],
+    "url": "https://anilist.co/anime/108853",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108853-ebznx715AJ9x.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39282,
+    "deletedAt": null
+  }
+}

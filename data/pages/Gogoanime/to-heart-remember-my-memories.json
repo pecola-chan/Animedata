@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-08-13T11:38:40.000Z",
+  "updatedAt": "2021-08-13T12:06:58.000Z",
+  "checkedAt": null,
+  "id": 38228,
+  "identifier": "to-heart-remember-my-memories",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "To Heart: Remember My Memories",
+  "url": "https://gogoanime.pe/category/to-heart-remember-my-memories",
+  "image": "https://gogocdn.net/cover/to-heart-remember-my-memories.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 685,
+  "aniId": 685,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T23:04:23.000Z",
+    "checkedAt": "2022-05-14T23:04:23.000Z",
+    "id": 685,
+    "type": "anime",
+    "title": "To Heart: Remember My Memories",
+    "altTitle": [
+      "トゥハート ~remember my memories~"
+    ],
+    "url": "https://myanimelist.net/anime/685/To_Heart__Remember_My_Memories",
+    "image": "https://cdn.myanimelist.net/images/anime/10/75475.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2404"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4455"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/To_Heart"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2404
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:43.000Z",
+    "updatedAt": "2022-05-15T14:14:11.000Z",
+    "checkedAt": "2022-05-15T14:14:11.000Z",
+    "id": 685,
+    "type": "anime",
+    "title": "ToHeart: Remember my memories",
+    "altTitle": [
+      "ToHeart ～Remember my memories～",
+      "トゥハート ～Remember my memories～"
+    ],
+    "url": "https://anilist.co/anime/685",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx685-gZSSRd0ZxGvp.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 685,
+    "deletedAt": null
+  }
+}

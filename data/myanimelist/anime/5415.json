@@ -1,0 +1,45 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-15T09:55:30.000Z",
+  "checkedAt": "2022-05-15T09:55:30.000Z",
+  "id": 5415,
+  "type": "anime",
+  "title": "La Rose de Versailles",
+  "altTitle": [
+    "Versailles no Bara",
+    "ベルサイユのばら"
+  ],
+  "url": "https://myanimelist.net/anime/5415/La_Rose_de_Versailles",
+  "image": "https://cdn.myanimelist.net/images/anime/6/64921.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13615"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6438"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/La_Rose_de_Versailles"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13615,
+  "Pages": {
+    "YugenAnime": {
+      "5047": {
+        "identifier": "5047",
+        "malId": 5415,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "La Rose de Versailles",
+        "url": "https://yugen.to/anime/5047/rose-of-versailles/"
+      }
+    }
+  }
+}

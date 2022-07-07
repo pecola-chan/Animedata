@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T19:54:17.000Z",
+  "checkedAt": "2022-05-14T19:54:17.000Z",
+  "id": 624,
+  "type": "anime",
+  "title": "Mouse",
+  "altTitle": [
+    "MØUSE",
+    "マウス"
+  ],
+  "url": "https://myanimelist.net/anime/624/Mouse",
+  "image": "https://cdn.myanimelist.net/images/anime/5/75507.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mediafactory.co.jp/anime/mouse/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=450"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1964"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mouse_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 450,
+  "Pages": {
+    "9anime": {
+      "6x5z": {
+        "createdAt": "2020-10-12T15:50:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3232,
+        "identifier": "6x5z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mouse (Dub)",
+        "url": "https://9anime.to/watch/mouse-dub.6x5z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rGRaGm79M3k/V-phQtUPKMI/AAAAAAABBio/7bwsliItSPc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 624,
+        "aniId": 624,
+        "deletedAt": null
+      },
+      "rjvp": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8868,
+        "identifier": "rjvp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mouse",
+        "url": "https://9anime.to/watch/mouse.rjvp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BAq6w-1-8Ps/V6X7nqRF62I/AAAAAAAA03I/8sGgUH0bF5k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 624,
+        "aniId": 624,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mouse": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19560,
+        "identifier": "mouse",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mouse",
+        "url": "https://gogoanime.vc/category/mouse",
+        "image": "https://cdnimg.xyz/images/anime/M/mouse.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 624,
+        "aniId": 624,
+        "deletedAt": null
+      },
+      "mouse-dub": {
+        "createdAt": "2021-04-14T16:45:39.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36438,
+        "identifier": "mouse-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mouse (Dub)",
+        "url": "https://gogoanime.vc/category/mouse-dub",
+        "image": "https://gogocdn.net/cover/mouse-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 624,
+        "aniId": 624,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "624": {
+        "identifier": "624",
+        "malId": 624,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mouse",
+        "url": "https://animixplay.to/anime/624"
+      }
+    },
+    "YugenAnime": {
+      "1187": {
+        "identifier": "1187",
+        "malId": 624,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mouse",
+        "url": "https://yugen.to/anime/1187/mouse/"
+      }
+    }
+  }
+}

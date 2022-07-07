@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T22:55:47.000Z",
+  "checkedAt": "2022-05-14T22:55:47.000Z",
+  "id": 8026,
+  "type": "anime",
+  "title": "Super Street Fighter IV",
+  "altTitle": [
+    "スーパーストリートファイターIV"
+  ],
+  "url": "https://myanimelist.net/anime/8026/Super_Street_Fighter_IV",
+  "image": "https://cdn.myanimelist.net/images/anime/6/53037.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.streetfighter.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7321"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7321,
+  "Pages": {
+    "9anime": {
+      "lnvq": {
+        "createdAt": "2020-10-12T15:53:09.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6123,
+        "identifier": "lnvq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super Street Fighter IV",
+        "url": "https://9anime.to/watch/super-street-fighter-iv.lnvq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3i0f8hps5xM/V-vAtzku40I/AAAAAAABB5U/Ma9HpeF4pZs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8026,
+        "aniId": 8026,
+        "deletedAt": null
+      },
+      "o235": {
+        "createdAt": "2020-10-12T19:29:28.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23924,
+        "identifier": "o235",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super Street Fighter IV (Dub)",
+        "url": "https://9anime.to/watch/super-street-fighter-iv-dub.o235",
+        "image": "//static.9anime.to/i/cache/images/8/8d/8d715eaa2f85a2ff70e4a22e1b9ab53d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8026,
+        "aniId": 8026,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3847": {
+        "identifier": "3847",
+        "malId": 8026,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Super Street Fighter IV",
+        "url": "https://animepahe.com/a/3847"
+      }
+    },
+    "AniMixPlay": {
+      "8026": {
+        "identifier": "8026",
+        "malId": 8026,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Super Street Fighter IV",
+        "url": "https://animixplay.to/anime/8026"
+      }
+    }
+  }
+}

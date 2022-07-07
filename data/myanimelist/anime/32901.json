@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T16:31:50.000Z",
+  "checkedAt": "2022-05-14T16:31:50.000Z",
+  "id": 32901,
+  "type": "anime",
+  "title": "Eromanga-sensei",
+  "altTitle": [
+    "Eromanga Sensei",
+    "エロマンガ先生"
+  ],
+  "url": "https://myanimelist.net/anime/32901/Eromanga-sensei",
+  "image": "https://cdn.myanimelist.net/images/anime/2/86468.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://eromanga-sensei.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11981"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18142"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%AC%E5%85%88%E7%94%9F"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272941"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/erOMga-sensei"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11981,
+  "Pages": {
+    "9anime": {
+      "k22w": {
+        "createdAt": "2020-10-12T15:52:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5198,
+        "identifier": "k22w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eromanga-sensei",
+        "url": "https://9anime.to/watch/eromanga-sensei.k22w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_nEw-RbOb9g/WPuV2dGibhI/AAAAAAAAjdw/8W54TMwpyac/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32901,
+        "aniId": 21685,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "eromanga-sensei": {
+        "createdAt": "2020-10-12T16:00:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17570,
+        "identifier": "eromanga-sensei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eromanga-sensei",
+        "url": "https://gogoanime.vc/category/eromanga-sensei",
+        "image": "https://images.gogoanime.tv/cover/eromanga-sensei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32901,
+        "aniId": 21685,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2001": {
+        "identifier": "2001",
+        "malId": 32901,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Eromanga-sensei",
+        "url": "https://animepahe.com/a/2001"
+      }
+    },
+    "AniMixPlay": {
+      "32901": {
+        "identifier": "32901",
+        "malId": 32901,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Eromanga-sensei",
+        "url": "https://animixplay.to/anime/32901"
+      }
+    },
+    "YugenAnime": {
+      "5816": {
+        "identifier": "5816",
+        "malId": 32901,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Eromanga-sensei",
+        "url": "https://yugen.to/anime/5816/eromanga-sensei/"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T23:14:29.000Z",
+  "checkedAt": "2022-05-14T23:14:29.000Z",
+  "id": 6904,
+  "type": "anime",
+  "title": "Hellsing: Digest for Freaks",
+  "altTitle": [
+    "Hellsing I OVA: Digest for Fleaks",
+    "HELLSING I OVA DIGEST FOR FREAKS"
+  ],
+  "url": "https://myanimelist.net/anime/6904/Hellsing__Digest_for_Freaks",
+  "image": "https://cdn.myanimelist.net/images/anime/7/26935.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3296"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3296,
+  "Pages": {
+    "9anime": {
+      "nvml": {
+        "createdAt": "2020-10-12T15:54:02.000Z",
+        "updatedAt": "2022-06-13T23:32:44.000Z",
+        "checkedAt": "2022-06-13T23:32:44.000Z",
+        "id": 7243,
+        "identifier": "nvml",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hellsing I: Digest for Freaks",
+        "url": "https://9anime.to/watch/hellsing-i-digest-for-freaks.nvml",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/07/93fcc39661e5c1b4c24d565b3abb19ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6904,
+        "aniId": 6904,
+        "deletedAt": null
+      }
+    }
+  }
+}

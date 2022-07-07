@@ -1,0 +1,63 @@
+{
+  "createdAt": "2021-02-27T15:43:51.000Z",
+  "updatedAt": "2022-05-15T09:08:08.000Z",
+  "checkedAt": "2022-05-15T09:08:08.000Z",
+  "id": 40845,
+  "type": "anime",
+  "title": "Marudase Kintarou",
+  "altTitle": [
+    "Masaka no Kintarou",
+    "まるだせ金太狼"
+  ],
+  "url": "https://myanimelist.net/anime/40845/Marudase_Kintarou",
+  "image": "https://cdn.myanimelist.net/images/anime/1369/119218.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15302"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281099"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15302,
+  "Pages": {
+    "9anime": {
+      "mx87": {
+        "createdAt": "2021-02-27T15:47:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35310,
+        "identifier": "mx87",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Marudase Kintarou",
+        "url": "https://9anime.to/watch/marudase-kintarou.mx87",
+        "image": "//static.bunnycdn.ru/i/cache/images/e/e8/e893a6dc662f9b562c88963517998025.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40845,
+        "aniId": 118936,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40845": {
+        "identifier": "40845",
+        "malId": 40845,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Marudase Kintarou",
+        "url": "https://animixplay.to/anime/40845"
+      }
+    }
+  }
+}

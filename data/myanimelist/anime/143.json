@@ -1,0 +1,137 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T16:58:47.000Z",
+  "checkedAt": "2022-05-14T16:58:47.000Z",
+  "id": 143,
+  "type": "anime",
+  "title": "Kannazuki no Miko",
+  "altTitle": [
+    "Kannaduki no Miko",
+    "Priestesses of the Godless Month",
+    "Destiny of the Shrine Maiden",
+    "神無月の巫女"
+  ],
+  "url": "https://myanimelist.net/anime/143/Kannazuki_no_Miko",
+  "image": "https://cdn.myanimelist.net/images/anime/8/73955.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kannaduki.info/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2142"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4548"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kannazuki_no_Miko"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/destiny-of-the-shrine-maiden"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2142,
+  "Pages": {
+    "9anime": {
+      "5x59": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2828,
+        "identifier": "5x59",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kannazuki no Miko (Dub)",
+        "url": "https://9anime.to/watch/kannazuki-no-miko-dub.5x59",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-w9l7kejtfLM/V-fOYeGAujI/AAAAAAABAz4/BAyaBgJ9w8g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 143,
+        "aniId": 143,
+        "deletedAt": null
+      },
+      "6lwp": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3067,
+        "identifier": "6lwp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kannazuki no Miko",
+        "url": "https://9anime.to/watch/kannazuki-no-miko.6lwp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PpzYxhpoyqg/V45pnW4PjrI/AAAAAAAAwe4/0C8EO97JBtw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 143,
+        "aniId": 143,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kannazuki-no-miko": {
+        "createdAt": "2020-10-12T16:00:56.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18707,
+        "identifier": "kannazuki-no-miko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kannazuki no Miko",
+        "url": "https://gogoanime.vc/category/kannazuki-no-miko",
+        "image": "https://cdnimg.xyz/images/anime/K/Kannazuki-no-Miko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 143,
+        "aniId": 143,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1054": {
+        "identifier": "1054",
+        "malId": 143,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kannazuki no Miko",
+        "url": "https://animepahe.com/a/1054"
+      }
+    },
+    "AniMixPlay": {
+      "143": {
+        "identifier": "143",
+        "malId": 143,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kannazuki no Miko",
+        "url": "https://animixplay.to/anime/143"
+      }
+    },
+    "YugenAnime": {
+      "2788": {
+        "identifier": "2788",
+        "malId": 143,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kannazuki no Miko",
+        "url": "https://yugen.to/anime/2788/kannazuki-no-miko/"
+      }
+    }
+  }
+}

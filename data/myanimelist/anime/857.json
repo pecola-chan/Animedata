@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T07:03:28.000Z",
+  "checkedAt": "2022-05-14T07:03:28.000Z",
+  "id": 857,
+  "type": "anime",
+  "title": "Air Gear",
+  "altTitle": [
+    "Air Gear",
+    "エア・ギア"
+  ],
+  "url": "https://myanimelist.net/anime/857/Air_Gear",
+  "image": "https://cdn.myanimelist.net/images/anime/11/18227.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/airgear/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4196"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6251"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Air_Gear"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/air-gear"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4196,
+  "Pages": {
+    "9anime": {
+      "3r92": {
+        "createdAt": "2020-10-12T15:49:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1922,
+        "identifier": "3r92",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Air Gear",
+        "url": "https://9anime.to/watch/air-gear.3r92",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TfNQkbr5C1U/V4-Nl2QXRWI/AAAAAAAAwqw/QZZYbvYTMFY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 857,
+        "aniId": 857,
+        "deletedAt": null
+      },
+      "y2mx": {
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10511,
+        "identifier": "y2mx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Air Gear (Dub)",
+        "url": "https://9anime.to/watch/air-gear-dub.y2mx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-teq-wa5fJwQ/V-IjPyP9zFI/AAAAAAAA_N8/kuE1lPz15Mo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 857,
+        "aniId": 857,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "air-gear": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16427,
+        "identifier": "air-gear",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Air Gear",
+        "url": "https://gogoanime.vc/category/air-gear",
+        "image": "https://gogocdn.net/images/anime/A/air-gear.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 857,
+        "aniId": 857,
+        "deletedAt": null
+      },
+      "air-gear-dub": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16428,
+        "identifier": "air-gear-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Air Gear (Dub)",
+        "url": "https://gogoanime.vc/category/air-gear-dub",
+        "image": "https://cdnimg.xyz/cover/air-gear-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 857,
+        "aniId": 857,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3946": {
+        "identifier": "3946",
+        "malId": 857,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Air Gear",
+        "url": "https://animepahe.com/a/3946"
+      }
+    },
+    "AniMixPlay": {
+      "857": {
+        "identifier": "857",
+        "malId": 857,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Air Gear",
+        "url": "https://animixplay.to/anime/857"
+      }
+    },
+    "YugenAnime": {
+      "221": {
+        "identifier": "221",
+        "malId": 857,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Air Gear",
+        "url": "https://yugen.to/anime/221/air-gear/"
+      }
+    }
+  }
+}

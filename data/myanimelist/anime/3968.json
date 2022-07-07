@@ -1,0 +1,54 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-15T16:04:02.000Z",
+  "checkedAt": "2022-05-15T16:04:02.000Z",
+  "id": 3968,
+  "type": "anime",
+  "title": "Dragoon",
+  "altTitle": [
+    "Ryuki Denshou",
+    "Ryuuki Denshou",
+    "Dragoon",
+    "竜機伝承"
+  ],
+  "url": "https://myanimelist.net/anime/3968/Dragoon",
+  "image": "https://cdn.myanimelist.net/images/anime/1168/112113.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=614"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=584"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 614,
+  "Pages": {
+    "9anime": {
+      "q9y3": {
+        "createdAt": "2020-10-12T15:55:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8390,
+        "identifier": "q9y3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragoon",
+        "url": "https://9anime.to/watch/dragoon.q9y3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VkLnVO40aNg/WQHqUeTtOYI/AAAAAAAAkuk/zsfvlc446Q8HYIwCsZguAr8a4dfH8MqswCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3968,
+        "aniId": 3968,
+        "deletedAt": null
+      }
+    }
+  }
+}

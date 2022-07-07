@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-13T23:32:43.000Z",
+  "checkedAt": "2022-05-13T23:32:43.000Z",
+  "id": 6682,
+  "type": "anime",
+  "title": "11eyes",
+  "altTitle": [
+    "11eyes -Tsumi to Batsu to Aganai no Shoujo-",
+    "11eyes",
+    "11eyes イレブンアイズ"
+  ],
+  "url": "https://myanimelist.net/anime/6682/11eyes",
+  "image": "https://cdn.myanimelist.net/images/anime/6/73520.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/11eyes/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6751"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10935"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/11eyes:_Tsumi_to_Batsu_to_Aganai_no_Sh%C5%8Djo"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-192242"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6751,
+  "Pages": {
+    "9anime": {
+      "yqr1": {
+        "createdAt": "2020-10-12T15:56:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10825,
+        "identifier": "yqr1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "11eyes",
+        "url": "https://9anime.to/watch/11eyes.yqr1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-886HgvFcNPk/V5SyS0O7gCI/AAAAAAAAxwg/jZowPGLXBEk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6682,
+        "aniId": 6682,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "11eyes-": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16314,
+        "identifier": "11eyes-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "11eyes ",
+        "url": "https://gogoanime.vc/category/11eyes-",
+        "image": "https://cdnimg.xyz/images/anime/A/11eyes.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6682,
+        "aniId": 6682,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "78": {
+        "identifier": "78",
+        "malId": 6682,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "11eyes",
+        "url": "https://animepahe.com/a/78"
+      }
+    },
+    "AniMixPlay": {
+      "6682": {
+        "identifier": "6682",
+        "malId": 6682,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "11eyes",
+        "url": "https://animixplay.to/anime/6682"
+      }
+    },
+    "YugenAnime": {
+      "1431": {
+        "identifier": "1431",
+        "malId": 6682,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "11eyes",
+        "url": "https://yugen.to/anime/1431/11eyes/"
+      }
+    }
+  }
+}

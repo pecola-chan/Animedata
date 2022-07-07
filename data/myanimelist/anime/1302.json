@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:15.000Z",
+  "updatedAt": "2022-05-14T21:29:30.000Z",
+  "checkedAt": "2022-05-14T21:29:30.000Z",
+  "id": 1302,
+  "type": "anime",
+  "title": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+  "altTitle": [
+    "Sayonara Ginga Tetsudo 999: Andromeda Shuuchakueki",
+    "Adieu Galaxy Express 999",
+    "さよなら銀河鉄道999 -アンドロメダ終着駅-"
+  ],
+  "url": "https://myanimelist.net/anime/1302/Sayonara_Ginga_Tetsudou_999__Andromeda_Shuuchakueki",
+  "image": "https://cdn.myanimelist.net/images/anime/1774/93957.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/999/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=765"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=508"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 765,
+  "Pages": {
+    "9anime": {
+      "75r6": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3360,
+        "identifier": "75r6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Adieu Galaxy Express 999 (Dub)",
+        "url": "https://9anime.to/watch/adieu-galaxy-express-999-dub.75r6",
+        "image": "http://static.akacdn.ru/static/images/2018/03/5dac00b3aa6b63eaef7dc9ffa66ca93f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1302,
+        "aniId": 1302,
+        "deletedAt": null
+      },
+      "po3q": {
+        "createdAt": "2020-10-12T15:54:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8034,
+        "identifier": "po3q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Adieu Galaxy Express 999",
+        "url": "https://9anime.to/watch/adieu-galaxy-express-999.po3q",
+        "image": "http://static.akacdn.ru/static/images/2018/04/e569a00e6e13033c55966174882bf4ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1302,
+        "aniId": 1302,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sayonara-ginga-tetsudou-999-andromeda-shuuchakueki": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20440,
+        "identifier": "sayonara-ginga-tetsudou-999-andromeda-shuuchakueki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+        "url": "https://gogoanime.vc/category/sayonara-ginga-tetsudou-999-andromeda-shuuchakueki",
+        "image": "https://gogocdn.net/cover/sayonara-ginga-tetsudou-999-andromeda-shuuchakueki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1302,
+        "aniId": 1302,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1302": {
+        "identifier": "1302",
+        "malId": 1302,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+        "url": "https://animixplay.to/anime/1302"
+      }
+    },
+    "YugenAnime": {
+      "564": {
+        "identifier": "564",
+        "malId": 1302,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+        "url": "https://yugen.to/anime/564/sayonara-ginga-tetsudou-999-andromeda-shuuchakueki/"
+      }
+    }
+  }
+}

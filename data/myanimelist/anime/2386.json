@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-14T10:06:16.000Z",
+  "checkedAt": "2022-05-14T10:06:16.000Z",
+  "id": 2386,
+  "type": "anime",
+  "title": "One Piece: Yume no Soccer Ou!",
+  "altTitle": [
+    "One Piece: Dream Soccer King!",
+    "One Piece: Soccer King of Dreams",
+    "ワンピース 夢のサッカー王!"
+  ],
+  "url": "https://myanimelist.net/anime/2386/One_Piece__Yume_no_Soccer_Ou",
+  "image": "https://cdn.myanimelist.net/images/anime/4/70587.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/2002_spring/one.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1253"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6528"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1253,
+  "Pages": {
+    "9anime": {
+      "m7x8": {
+        "createdAt": "2020-10-12T15:53:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6483,
+        "identifier": "m7x8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Yume no Soccer Ou!",
+        "url": "https://9anime.to/watch/one-piece-yume-no-soccer-ou.m7x8",
+        "image": "http://static.akacdn.ru/static/images/2018/04/a91395e64c8e1f9eb04239fbc1d4f1af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2386,
+        "aniId": 2386,
+        "deletedAt": null
+      },
+      "yq1zp": {
+        "createdAt": "2021-09-13T04:35:07.000Z",
+        "updatedAt": "2021-09-13T05:04:34.000Z",
+        "checkedAt": null,
+        "id": 38620,
+        "identifier": "yq1zp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Yume no Soccer Ou!",
+        "url": "https://9anime.to/watch/one-piece-yume-no-soccer-ou.yq1zp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/52/52c0c1358015c0c3f96326711d35b3df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2386,
+        "aniId": 2386,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3823": {
+        "identifier": "3823",
+        "malId": 2386,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece: Yume no Soccer Ou!",
+        "url": "https://animepahe.com/a/3823"
+      }
+    },
+    "AniMixPlay": {
+      "2386": {
+        "identifier": "2386",
+        "malId": 2386,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece: Yume no Soccer Ou!",
+        "url": "https://animixplay.to/anime/2386"
+      }
+    }
+  }
+}

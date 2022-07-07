@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T09:03:15.000Z",
+  "checkedAt": "2022-05-14T09:03:15.000Z",
+  "id": 457,
+  "type": "anime",
+  "title": "Mushishi",
+  "altTitle": [
+    "Mushi-Shi",
+    "蟲師"
+  ],
+  "url": "https://myanimelist.net/anime/457/Mushishi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mushishi-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3433"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5923"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mushishi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/mushi-shi"
+    },
+    {
+      "site": "tubitv",
+      "url": "https://tubitv.com/series/2374/mushi-shi"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3433,
+  "Pages": {
+    "9anime": {
+      "kw66": {
+        "createdAt": "2020-10-12T15:52:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5641,
+        "identifier": "kw66",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mushishi (Dub)",
+        "url": "https://9anime.to/watch/mushi-shi-dub.kw66",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/b9233b18912ce35a96f362367e880289.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 457,
+        "aniId": 457,
+        "deletedAt": null
+      },
+      "lvz": {
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6208,
+        "identifier": "lvz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mushishi",
+        "url": "https://9anime.to/watch/mushishi.lvz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jWIWTtFOmMw/V4je3NjKiRI/AAAAAAAAvp4/8KSKuDCAFJU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 457,
+        "aniId": 457,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mushishi": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19588,
+        "identifier": "mushishi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mushishi",
+        "url": "https://gogoanime.vc/category/mushishi",
+        "image": "https://cdnimg.xyz/images/anime/M/mushishi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 457,
+        "aniId": 457,
+        "deletedAt": null
+      },
+      "mushishi-dub": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19589,
+        "identifier": "mushishi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mushishi (Dub)",
+        "url": "https://gogoanime.vc/category/mushishi-dub",
+        "image": "https://gogocdn.net/cover/mushishi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 457,
+        "aniId": 457,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "622": {
+        "identifier": "622",
+        "malId": 457,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mushishi",
+        "url": "https://animepahe.com/a/622"
+      }
+    },
+    "AniMixPlay": {
+      "457": {
+        "identifier": "457",
+        "malId": 457,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mushishi",
+        "url": "https://animixplay.to/anime/457"
+      }
+    },
+    "YugenAnime": {
+      "1921": {
+        "identifier": "1921",
+        "malId": 457,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mushishi",
+        "url": "https://yugen.to/anime/1921/mushishi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "createdAt": "2021-10-08T15:33:11.000Z",
+  "updatedAt": "2022-05-14T16:36:26.000Z",
+  "checkedAt": "2022-05-14T16:36:26.000Z",
+  "id": 48567,
+  "type": "anime",
+  "title": "Visual Prison",
+  "altTitle": [
+    "Visual Prison",
+    "ヴィジュアルプリズン"
+  ],
+  "url": "https://myanimelist.net/anime/48567/Visual_Prison",
+  "image": "https://cdn.myanimelist.net/images/anime/1143/117924.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://visualprison.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16171"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24196"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Visual_Prison"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16171,
+  "Pages": {
+    "Gogoanime": {
+      "visual-prison": {
+        "createdAt": "2021-10-08T17:02:19.000Z",
+        "updatedAt": "2021-10-08T17:32:19.000Z",
+        "checkedAt": null,
+        "id": 38932,
+        "identifier": "visual-prison",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Visual Prison",
+        "url": "https://gogoanime.pe/category/visual-prison",
+        "image": "https://gogocdn.net/cover/visual-prison.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48567,
+        "aniId": 131584,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "joyy": {
+        "createdAt": "2021-10-08T17:32:49.000Z",
+        "updatedAt": "2021-10-08T18:02:19.000Z",
+        "checkedAt": null,
+        "id": 38933,
+        "identifier": "joyy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Visual Prison",
+        "url": "https://9anime.to/watch/visual-prison.joyy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/07/074d8f53e6153a12797f996d56fa85ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48567,
+        "aniId": 131584,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4534": {
+        "identifier": "4534",
+        "malId": 48567,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Visual Prison",
+        "url": "https://animepahe.com/a/4534"
+      }
+    },
+    "AniMixPlay": {
+      "48567": {
+        "identifier": "48567",
+        "malId": 48567,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Visual Prison",
+        "url": "https://animixplay.to/anime/48567"
+      }
+    },
+    "YugenAnime": {
+      "9902": {
+        "identifier": "9902",
+        "malId": 48567,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Visual Prison",
+        "url": "https://yugen.to/anime/9902/visual-prison/"
+      }
+    }
+  }
+}

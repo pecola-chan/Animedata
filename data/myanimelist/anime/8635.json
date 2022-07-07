@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-15T08:29:56.000Z",
+  "checkedAt": "2022-05-15T08:29:56.000Z",
+  "id": 8635,
+  "type": "anime",
+  "title": "Shin Koihime†Musou: Live Revolution",
+  "altTitle": [
+    "Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Live Revolution",
+    "真恋姫†無双 LIVE Revolution"
+  ],
+  "url": "https://myanimelist.net/anime/8635/Shin_Koihime†Musou__Live_Revolution",
+  "image": "https://cdn.myanimelist.net/images/anime/5/23794.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.maql.co.jp/special/shinkoihime/news/spinfo.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7470"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7470,
+  "Pages": {
+    "9anime": {
+      "99jq": {
+        "createdAt": "2020-10-12T15:51:46.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4278,
+        "identifier": "99jq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Koihime†Musou: Live Revolution",
+        "url": "https://9anime.to/watch/shin-koihimemusou-live-revolution.99jq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jR4frTQhYlM/WNuQ0oUcEFI/AAAAAAAAd_c/5BTZLl3dxNg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8635,
+        "aniId": 8635,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2738": {
+        "identifier": "2738",
+        "malId": 8635,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shin Koihime†Musou: Live Revolution",
+        "url": "https://animepahe.com/a/2738"
+      }
+    },
+    "AniMixPlay": {
+      "8635": {
+        "identifier": "8635",
+        "malId": 8635,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shin Koihime†Musou: Live Revolution",
+        "url": "https://animixplay.to/anime/8635"
+      }
+    }
+  }
+}

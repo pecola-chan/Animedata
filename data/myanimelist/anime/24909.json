@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-14T22:48:29.000Z",
+  "checkedAt": "2022-05-14T22:48:29.000Z",
+  "id": 24909,
+  "type": "anime",
+  "title": "Kaitou Joker",
+  "altTitle": [
+    "Mysterious Joker",
+    "JOKER",
+    "怪盗ジョーカー"
+  ],
+  "url": "https://myanimelist.net/anime/24909/Kaitou_Joker",
+  "image": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://s.mxtv.jp/joker/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10714"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16151"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mysterious_Joker"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10714,
+  "Pages": {
+    "9anime": {
+      "7z17": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2022-06-14T01:02:28.000Z",
+        "checkedAt": "2022-06-14T01:02:28.000Z",
+        "id": 3664,
+        "identifier": "7z17",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaitou Joker (Dub)",
+        "url": "https://9anime.to/watch/joker-dub.7z17",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/2ba08a88fadf8380415375681a664657.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24909,
+        "aniId": 20818,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaitou-joker": {
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18666,
+        "identifier": "kaitou-joker",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaitou Joker",
+        "url": "https://gogoanime.vc/category/kaitou-joker",
+        "image": "https://gogocdn.net/images/fall/Kaitou Joker.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24909,
+        "aniId": 20818,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "24909": {
+        "identifier": "24909",
+        "malId": 24909,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaitou Joker",
+        "url": "https://animixplay.to/anime/24909"
+      }
+    },
+    "YugenAnime": {
+      "2197": {
+        "identifier": "2197",
+        "malId": 24909,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kaitou Joker",
+        "url": "https://yugen.to/anime/2197/kaitou-joker/"
+      }
+    }
+  }
+}

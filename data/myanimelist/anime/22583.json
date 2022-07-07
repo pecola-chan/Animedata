@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-15T00:26:29.000Z",
+  "checkedAt": "2022-05-15T00:26:29.000Z",
+  "id": 22583,
+  "type": "anime",
+  "title": "Uchuu Kyoudai: Number Zero",
+  "altTitle": [
+    "Uchuu Kyoudai: Nanba Zero",
+    "Space Brothers # 0",
+    "宇宙兄弟#0[ナンバー・ゼロ]"
+  ],
+  "url": "https://myanimelist.net/anime/22583/Uchuu_Kyoudai__Number_Zero",
+  "image": "https://cdn.myanimelist.net/images/anime/5/61639.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://wwws.warnerbros.co.jp/uchukyodai-movie/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10320"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16209"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F#.E3.82.A2.E3.83.8B.E3.83.A1.E6.98.A0.E7.94.BB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10320,
+  "Pages": {
+    "9anime": {
+      "p5l4": {
+        "createdAt": "2020-10-12T15:54:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7862,
+        "identifier": "p5l4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uchuu Kyoudai: Number Zero",
+        "url": "https://9anime.to/watch/uchuu-kyoudai-number-zero.p5l4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nqexMfnQM_0/WP6dkpMYVkI/AAAAAAAAj-o/xVBGPVRJhJA8_D6eCQsknHuS7mVpkmlbACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22583,
+        "aniId": 20559,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3310": {
+        "identifier": "3310",
+        "malId": 22583,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Uchuu Kyoudai: Number Zero",
+        "url": "https://animepahe.com/a/3310"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T17:06:38.000Z",
+  "checkedAt": "2022-05-14T17:06:38.000Z",
+  "id": 3456,
+  "type": "anime",
+  "title": "Candy☆Boy: Side Story For Archive",
+  "altTitle": [
+    "Candy Boy Episode 0",
+    "Candy☆Boy: Side Story For Archive"
+  ],
+  "url": "https://myanimelist.net/anime/3456/Candy☆Boy__Side_Story_For_Archive",
+  "image": "https://cdn.myanimelist.net/images/anime/3/35473.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://candyboy.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5574"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9001"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Candy_Boy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5574,
+  "Pages": {
+    "9anime": {
+      "m8yx": {
+        "createdAt": "2020-10-12T15:53:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6513,
+        "identifier": "m8yx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Candy☆Boy: Side Story For Archive",
+        "url": "https://9anime.to/watch/candyboy-side-story-for-archive.m8yx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-N-8Ahb2D1k4/WH3hQsrlMWI/AAAAAAABZwc/KB6vSkW9x-I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3456,
+        "aniId": 3456,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "candy-boy": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16998,
+        "identifier": "candy-boy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Candy Boy",
+        "url": "https://gogoanime.vc/category/candy-boy",
+        "image": "https://cdnimg.xyz/images/anime/C/candy-boy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3456,
+        "aniId": 3456,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1069": {
+        "identifier": "1069",
+        "malId": 3456,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Candy☆Boy: Side Story For Archive",
+        "url": "https://animepahe.com/a/1069"
+      }
+    },
+    "AniMixPlay": {
+      "3456": {
+        "identifier": "3456",
+        "malId": 3456,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Candy☆Boy: Side Story For Archive",
+        "url": "https://animixplay.to/anime/3456"
+      }
+    }
+  }
+}

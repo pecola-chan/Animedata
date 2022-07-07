@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:15.000Z",
+  "updatedAt": "2022-05-15T16:18:56.000Z",
+  "checkedAt": "2022-05-15T16:18:56.000Z",
+  "id": 1337,
+  "type": "anime",
+  "title": "Dororon Enma-kun",
+  "altTitle": [
+    "The Little Judge from Hell",
+    "ドロロンえん魔くん"
+  ],
+  "url": "https://myanimelist.net/anime/1337/Dororon_Enma-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/9/28204.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/emma/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1685"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1321"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dororon_Enma-kun"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1685,
+  "Pages": {
+    "9anime": {
+      "9qw0": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4418,
+        "identifier": "9qw0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dororon Enma-kun",
+        "url": "https://9anime.to/watch/dororon-enma-kun.9qw0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bTMw0nd_YAQ/WI1qt_r41cI/AAAAAAABbg8/r2_gzk9eWe0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1337,
+        "aniId": 1337,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dororon-enma-kun": {
+        "createdAt": "2021-10-17T16:58:46.000Z",
+        "updatedAt": "2021-10-17T17:28:45.000Z",
+        "checkedAt": null,
+        "id": 39046,
+        "identifier": "dororon-enma-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dororon Enma-kun",
+        "url": "https://gogoanime.pe/category/dororon-enma-kun",
+        "image": "https://gogocdn.net/cover/dororon-enma-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1337,
+        "aniId": 1337,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "9962": {
+        "identifier": "9962",
+        "malId": 1337,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dororon Enma-kun",
+        "url": "https://yugen.to/anime/9962/dororon-enma-kun/"
+      }
+    }
+  }
+}

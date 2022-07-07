@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T21:57:41.000Z",
+  "checkedAt": "2022-05-14T21:57:41.000Z",
+  "id": 7739,
+  "type": "anime",
+  "title": "11eyes: Momoiro Genmutan",
+  "altTitle": [
+    "11eyes Episode 13",
+    "11eyes OVA",
+    "11eyes -Tsumi to Batsu to Aganai no Shoujo- Episode 13",
+    "11eyes 桃色幻夢譚 ～rö zsaszí n é jszaka"
+  ],
+  "url": "https://myanimelist.net/anime/7739/11eyes__Momoiro_Genmutan",
+  "image": "https://cdn.myanimelist.net/images/anime/12/22784.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/11eyes"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6751"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11226"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/11eyes:_Tsumi_to_Batsu_to_Aganai_no_Shōjo"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6751,
+  "Pages": {
+    "9anime": {
+      "j2k3": {
+        "createdAt": "2020-10-12T15:52:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4632,
+        "identifier": "j2k3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "11eyes: Momoiro Genmutan",
+        "url": "https://9anime.to/watch/11eyes-momoiro-genmutan.j2k3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xopjfWRy1D4/V700tGv7rGI/AAAAAAAA4_8/DRQ-5glBwug/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7739,
+        "aniId": 7739,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1251": {
+        "identifier": "1251",
+        "malId": 7739,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "11eyes: Momoiro Genmutan",
+        "url": "https://animepahe.com/a/1251"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T21:10:05.000Z",
+  "checkedAt": "2022-05-14T21:10:05.000Z",
+  "id": 38002,
+  "type": "anime",
+  "title": "Asobi Asobase Specials",
+  "altTitle": [
+    "あそびあそばせ"
+  ],
+  "url": "https://myanimelist.net/anime/38002/Asobi_Asobase_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1270/97437.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://asobiasobase.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13750"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asobi_Asobase"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13750,
+  "Pages": {
+    "9anime": {
+      "8vjo": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4027,
+        "identifier": "8vjo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Asobi Asobase Specials",
+        "url": "https://9anime.to/watch/asobi-asobase-specials.8vjo",
+        "image": "http://static.akacdn.ru/static/images/2018/08/ac693b7a27d874380063aa0cd7c4bf85.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38002,
+        "aniId": 104368,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "asobi-asobase-specials": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16623,
+        "identifier": "asobi-asobase-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Asobi Asobase Specials",
+        "url": "https://gogoanime.vc/category/asobi-asobase-specials",
+        "image": "https://cdnimg.xyz/cover/asobi-asobase-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38002,
+        "aniId": 104368,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2960": {
+        "identifier": "2960",
+        "malId": 38002,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Asobi Asobase Specials",
+        "url": "https://animepahe.com/a/2960"
+      }
+    },
+    "AniMixPlay": {
+      "38002": {
+        "identifier": "38002",
+        "malId": 38002,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Asobi Asobase Specials",
+        "url": "https://animixplay.to/anime/38002"
+      }
+    },
+    "YugenAnime": {
+      "6248": {
+        "identifier": "6248",
+        "malId": 38002,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Asobi Asobase Specials",
+        "url": "https://yugen.to/anime/6248/asobi-asobase-specials/"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T17:53:17.000Z",
+  "checkedAt": "2022-05-14T17:53:17.000Z",
+  "id": 3616,
+  "type": "anime",
+  "title": "Kamen no Maid Guy",
+  "altTitle": [
+    "仮面のメイドガイ"
+  ],
+  "url": "https://myanimelist.net/anime/3616/Kamen_no_Maid_Guy",
+  "image": "https://cdn.myanimelist.net/images/anime/4/77694.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.maidguy.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5277"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8193"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kamen_no_Maid_Guy"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278535"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5277,
+  "Pages": {
+    "9anime": {
+      "41nx": {
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2054,
+        "identifier": "41nx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kamen no Maid Guy",
+        "url": "https://9anime.to/watch/kamen-no-maid-guy.41nx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-F2t_WT58TgA/V8G8Boc9JyI/AAAAAAAA57k/lYoB511Dujk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3616,
+        "aniId": 3616,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kamen-no-maid-guy": {
+        "createdAt": "2020-10-29T18:10:49.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28183,
+        "identifier": "kamen-no-maid-guy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kamen no Maid Guy",
+        "url": "https://gogoanime.vc/category/kamen-no-maid-guy",
+        "image": "https://gogocdn.net/images/anime/K/Kamen-no-Maid-Guy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3616,
+        "aniId": 3616,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3616": {
+        "identifier": "3616",
+        "malId": 3616,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kamen no Maid Guy",
+        "url": "https://animixplay.to/anime/3616"
+      }
+    },
+    "YugenAnime": {
+      "3578": {
+        "identifier": "3578",
+        "malId": 3616,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kamen no Maid Guy",
+        "url": "https://yugen.to/anime/3578/kamen-no-maid-guy/"
+      }
+    }
+  }
+}

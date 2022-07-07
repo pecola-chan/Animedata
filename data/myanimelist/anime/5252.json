@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-14T17:49:47.000Z",
+  "checkedAt": "2022-05-14T17:49:47.000Z",
+  "id": 5252,
+  "type": "anime",
+  "title": "One Piece: Romance Dawn Story",
+  "altTitle": [
+    "One Piece Prototype",
+    "One Piece: Romance Dawn Story",
+    "ワンピース ロマンスドーンストーリー"
+  ],
+  "url": "https://myanimelist.net/anime/5252/One_Piece__Romance_Dawn_Story",
+  "image": "https://cdn.myanimelist.net/images/anime/6/11300.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6199"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6199,
+  "Pages": {
+    "9anime": {
+      "j9v2": {
+        "createdAt": "2020-10-12T15:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4826,
+        "identifier": "j9v2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Romance Dawn Story",
+        "url": "https://9anime.to/watch/one-piece-romance-dawn-story.j9v2",
+        "image": "http://static.akacdn.ru/static/images/2018/05/0c3641cfc3d5743d1448bde56d5684b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5252,
+        "aniId": 5252,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3842": {
+        "identifier": "3842",
+        "malId": 5252,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "One Piece: Romance Dawn Story",
+        "url": "https://animepahe.com/a/3842"
+      }
+    },
+    "AniMixPlay": {
+      "5252": {
+        "identifier": "5252",
+        "malId": 5252,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "One Piece: Romance Dawn Story",
+        "url": "https://animixplay.to/anime/5252"
+      }
+    }
+  }
+}

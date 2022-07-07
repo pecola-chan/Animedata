@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:19.000Z",
+  "updatedAt": "2022-05-15T00:05:53.000Z",
+  "checkedAt": "2022-05-15T00:05:53.000Z",
+  "id": 17727,
+  "type": "anime",
+  "title": "Haitai Nanafa 2nd Season",
+  "altTitle": [
+    "Haitai Nana Fa 2",
+    "はいたい七葉 2"
+  ],
+  "url": "https://myanimelist.net/anime/17727/Haitai_Nanafa_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/7/47233.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hai-tai.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9747"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15194"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haitai_Nanafa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9747,
+  "Pages": {
+    "9anime": {
+      "nqyk": {
+        "createdAt": "2020-10-12T15:54:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7213,
+        "identifier": "nqyk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haitai Nanafa 2nd Season",
+        "url": "https://9anime.to/watch/haitai-nanafa-2nd-season.nqyk",
+        "image": "https://static.akacdn.ru/static/images/2019/03/78d96f92deffdb2410e4b9151647d75b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17727,
+        "aniId": 17727,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "17727": {
+        "identifier": "17727",
+        "malId": 17727,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Haitai Nanafa 2nd Season",
+        "url": "https://animixplay.to/anime/17727"
+      }
+    }
+  }
+}

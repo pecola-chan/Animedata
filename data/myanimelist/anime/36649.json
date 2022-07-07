@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T16:29:55.000Z",
+  "checkedAt": "2022-05-14T16:29:55.000Z",
+  "id": 36649,
+  "type": "anime",
+  "title": "Banana Fish",
+  "altTitle": [
+    "Banana Fish",
+    "BANANA FISH"
+  ],
+  "url": "https://myanimelist.net/anime/36649/Banana_Fish",
+  "image": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bananafish.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13536"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20197"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Banana_Fish"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13536,
+  "Pages": {
+    "9anime": {
+      "zvz2": {
+        "createdAt": "2020-10-12T15:57:16.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11303,
+        "identifier": "zvz2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Banana Fish",
+        "url": "https://9anime.to/watch/banana-fish.zvz2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/07/cf6ca78d96e7b8b9f859f75c2d0a8684.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36649,
+        "aniId": 100388,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "banana-fish": {
+        "createdAt": "2020-10-12T15:59:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16717,
+        "identifier": "banana-fish",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Banana Fish",
+        "url": "https://gogoanime.vc/category/banana-fish",
+        "image": "https://gogocdn.net/cover/banana-fish.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36649,
+        "aniId": 100388,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2611": {
+        "identifier": "2611",
+        "malId": 36649,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Banana Fish",
+        "url": "https://animepahe.com/a/2611"
+      }
+    },
+    "AniMixPlay": {
+      "36649": {
+        "identifier": "36649",
+        "malId": 36649,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Banana Fish",
+        "url": "https://animixplay.to/anime/36649"
+      }
+    },
+    "YugenAnime": {
+      "1609": {
+        "identifier": "1609",
+        "malId": 36649,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Banana Fish",
+        "url": "https://yugen.to/anime/1609/banana-fish/"
+      }
+    }
+  }
+}

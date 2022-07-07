@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T18:12:23.000Z",
+  "checkedAt": "2022-05-14T18:12:23.000Z",
+  "id": 3335,
+  "type": "anime",
+  "title": "Haikara-san ga Tooru",
+  "altTitle": [
+    "Here Comes Ms. Modern",
+    "Mademoiselle Anne",
+    "Haikara-san Passes",
+    "Comes Miss High-Collar",
+    "Haikara-san ga Toru",
+    "Smart-san",
+    "はいからさんが通る"
+  ],
+  "url": "https://myanimelist.net/anime/3335/Haikara-san_ga_Tooru",
+  "image": "https://cdn.myanimelist.net/images/anime/2/22741.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/work/haikara_san.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2019"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1429"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haikara-san_ga_Tooru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2019,
+  "Pages": {
+    "9anime": {
+      "rnmn": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8919,
+        "identifier": "rnmn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haikara-san ga Tooru",
+        "url": "https://9anime.to/watch/smart-san.rnmn",
+        "image": "//static.9anime.to/i/cache/images/2018/04/e04a4aa6edb42ca4dad98f5091275c02.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 3335,
+        "aniId": 3335,
+        "deletedAt": null
+      }
+    }
+  }
+}

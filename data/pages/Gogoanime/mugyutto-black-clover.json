@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T16:01:20.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19570,
+  "identifier": "mugyutto-black-clover",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mugyutto! Black Clover",
+  "url": "https://gogoanime.vc/category/mugyutto-black-clover",
+  "image": "https://cdnimg.xyz/cover/mugyutto-black-clover.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 40031,
+  "aniId": 110318,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:10.000Z",
+    "updatedAt": "2022-05-14T19:19:29.000Z",
+    "checkedAt": "2022-05-14T19:19:29.000Z",
+    "id": 40031,
+    "type": "anime",
+    "title": "Mugyutto! Black Clover",
+    "altTitle": [
+      "Squishy! Black Clover",
+      "むぎゅっと！ブラッククローバー"
+    ],
+    "url": "https://myanimelist.net/anime/40031/Mugyutto_Black_Clover",
+    "image": "https://cdn.myanimelist.net/images/anime/1066/101736.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bclover.jp/news/detail.php?id=1074229"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15343"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22967"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC#%E3%82%80%E3%81%8E%E3%82%85%E3%81%A3%E3%81%A8!%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-278921"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 15343
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:45:55.000Z",
+    "updatedAt": "2022-05-15T13:03:59.000Z",
+    "checkedAt": "2022-05-15T13:03:59.000Z",
+    "id": 110318,
+    "type": "anime",
+    "title": "Mugyutto! Black Clover",
+    "altTitle": [
+      "Squishy! Black Clover",
+      "むぎゅっと！ブラッククローバー"
+    ],
+    "url": "https://anilist.co/anime/110318",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110318-VU85YyXhCOoU.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/squishy-black-clover"
+      }
+    ],
+    "malId": 40031,
+    "deletedAt": null
+  }
+}

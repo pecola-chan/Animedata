@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-15T16:46:23.000Z",
+  "checkedAt": "2022-05-15T16:46:23.000Z",
+  "id": 22381,
+  "type": "anime",
+  "title": "Nandaka Velonica",
+  "altTitle": [
+    "Nandaka Veronica",
+    "Kind of Velonica",
+    "ナンダカベロニカ"
+  ],
+  "url": "https://myanimelist.net/anime/22381/Nandaka_Velonica",
+  "image": "https://cdn.myanimelist.net/images/anime/7/60199.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/velonica/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10423"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15847"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10423,
+  "Pages": {
+    "9anime": {
+      "k376": {
+        "createdAt": "2020-10-12T15:52:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5231,
+        "identifier": "k376",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nandaka Velonica",
+        "url": "https://9anime.to/watch/nandaka-velonica.k376",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JyB8R_QI2nY/V7B08a5vdaI/AAAAAAAA3BQ/09OqfhO0wVY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22381,
+        "aniId": 20653,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "22381": {
+        "identifier": "22381",
+        "malId": 22381,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nandaka Velonica",
+        "url": "https://animixplay.to/anime/22381"
+      }
+    },
+    "YugenAnime": {
+      "4072": {
+        "identifier": "4072",
+        "malId": 22381,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nandaka Velonica",
+        "url": "https://yugen.to/anime/4072/nandaka-velonica/"
+      }
+    }
+  }
+}

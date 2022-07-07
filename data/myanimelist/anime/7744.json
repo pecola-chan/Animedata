@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T20:44:05.000Z",
+  "checkedAt": "2022-05-14T20:44:05.000Z",
+  "id": 7744,
+  "type": "anime",
+  "title": "Fight Ippatsu! Juuden-chan!! Specials",
+  "altTitle": [
+    "ファイト一発！充電ちゃん！！"
+  ],
+  "url": "https://myanimelist.net/anime/7744/Fight_Ippatsu_Juuden-chan_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/2/18791.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mv.avex.jp/juden-chan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6481"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fight_Ippatsu!_Jūden-chan!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6481,
+  "Pages": {
+    "9anime": {
+      "ly63": {
+        "createdAt": "2020-10-12T15:53:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6271,
+        "identifier": "ly63",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fight Ippatsu! Juuden-chan!! Specials",
+        "url": "https://9anime.to/watch/fight-ippatsu-juuden-chan-specials.ly63",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wBrJD8IRrSY/WARUrMbRHOI/AAAAAAABIss/DYyhmYENFXU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7744,
+        "aniId": 7744,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7744": {
+        "identifier": "7744",
+        "malId": 7744,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fight Ippatsu! Juuden-chan!! Specials",
+        "url": "https://animixplay.to/anime/7744"
+      }
+    }
+  }
+}

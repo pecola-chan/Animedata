@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T16:01:56.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20770,
+  "identifier": "sore-ga-seiyuu-petit-uchiage",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sore ga Seiyuu!: Petit Uchiage",
+  "url": "https://gogoanime.vc/category/sore-ga-seiyuu-petit-uchiage",
+  "image": "https://gogocdn.net/cover/sore-ga-seiyuu-petit-uchiage.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 32993,
+  "aniId": 21737,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:44.000Z",
+    "updatedAt": "2022-05-15T00:07:53.000Z",
+    "checkedAt": "2022-05-15T00:07:53.000Z",
+    "id": 32993,
+    "type": "anime",
+    "title": "Sore ga Seiyuu!: Petit Uchiage",
+    "altTitle": [
+      "それが声優！  特別編「プチ打ち上げ」"
+    ],
+    "url": "https://myanimelist.net/anime/32993/Sore_ga_Seiyuu__Petit_Uchiage",
+    "image": "https://cdn.myanimelist.net/images/anime/11/79138.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.soregaseiyu.com/products/"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:04.000Z",
+    "updatedAt": "2022-05-15T22:45:10.000Z",
+    "checkedAt": "2022-05-15T22:45:10.000Z",
+    "id": 21737,
+    "type": "anime",
+    "title": "Sore ga Seiyuu!: Petit Uchiage",
+    "altTitle": [
+      "それが声優！ 特別編「プチ打ち上げ」"
+    ],
+    "url": "https://anilist.co/anime/21737",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21737-eCN9Ki7tfc2V.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 32993,
+    "deletedAt": null
+  }
+}

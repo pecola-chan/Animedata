@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-13T23:27:51.000Z",
+  "checkedAt": "2022-05-13T23:27:51.000Z",
+  "id": 9479,
+  "type": "anime",
+  "title": "Coppelion",
+  "altTitle": [
+    "Coppelion",
+    "コッペリオン"
+  ],
+  "url": "https://myanimelist.net/anime/9479/Coppelion",
+  "image": "https://cdn.myanimelist.net/images/anime/4/75543.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/coppelion/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7933"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11859"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Coppelion"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/coppelion"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7933,
+  "Pages": {
+    "9anime": {
+      "jl93": {
+        "createdAt": "2020-10-12T15:52:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4900,
+        "identifier": "jl93",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Coppelion (Dub)",
+        "url": "https://9anime.to/watch/coppelion-dub.jl93",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eN2eaXyuZis/V-khl-lXnkI/AAAAAAABBKQ/P-g2lgCYF8w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9479,
+        "aniId": 9479,
+        "deletedAt": null
+      },
+      "z19w": {
+        "createdAt": "2020-10-12T15:57:02.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10943,
+        "identifier": "z19w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Coppelion",
+        "url": "https://9anime.to/watch/coppelion.z19w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6bXddnI6Z5s/V6iQLR3vQVI/AAAAAAAA1Uw/Sv0Vc1E2Ng8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9479,
+        "aniId": 9479,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "coppelion": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17176,
+        "identifier": "coppelion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Coppelion",
+        "url": "https://gogoanime.vc/category/coppelion",
+        "image": "https://cdnimg.xyz/images/anime/C/Coppelion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9479,
+        "aniId": 9479,
+        "deletedAt": null
+      },
+      "coppelion-dub": {
+        "createdAt": "2021-06-29T08:38:11.000Z",
+        "updatedAt": "2021-06-29T08:49:23.000Z",
+        "checkedAt": null,
+        "id": 37564,
+        "identifier": "coppelion-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Coppelion (Dub)",
+        "url": "https://gogoanime.vc/category/coppelion-dub",
+        "image": "https://gogocdn.net/cover/coppelion-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9479,
+        "aniId": 9479,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1169": {
+        "identifier": "1169",
+        "malId": 9479,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Coppelion",
+        "url": "https://animepahe.com/a/1169"
+      }
+    },
+    "AniMixPlay": {
+      "9479": {
+        "identifier": "9479",
+        "malId": 9479,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Coppelion",
+        "url": "https://animixplay.to/anime/9479"
+      }
+    },
+    "YugenAnime": {
+      "893": {
+        "identifier": "893",
+        "malId": 9479,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Coppelion",
+        "url": "https://yugen.to/anime/893/coppelion/"
+      }
+    }
+  }
+}

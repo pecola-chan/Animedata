@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-04-03T02:02:02.000Z",
+  "checkedAt": null,
+  "id": 27687,
+  "type": "anime",
+  "title": "Oshiri Kajiri Mushi (TV) 3rd Season",
+  "altTitle": [
+    "Bottom Biting Bug 3",
+    "おしりかじり虫　第３シリーズ"
+  ],
+  "url": "https://myanimelist.net/anime/27687/Oshiri_Kajiri_Mushi_TV_3rd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/8/67051.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/oshiri/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10848"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16925"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Oshiri_Kajiri_Mushi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-249486"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10848,
+  "Pages": {
+    "9anime": {
+      "1z2v": {
+        "createdAt": "2020-10-12T15:49:21.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1199,
+        "identifier": "1z2v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bottom Biting Bug 3",
+        "url": "https://9anime.to/watch/bottom-biting-bug-3.1z2v",
+        "image": "https://static.akacdn.ru/files/images/2018/04/c3ba51e002172baf4cf704e0b89b2687.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27687,
+        "aniId": 20855,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "27687": {
+        "identifier": "27687",
+        "malId": 27687,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oshiri Kajiri Mushi (TV) 3rd Season",
+        "url": "https://animixplay.to/anime/27687"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T21:08:41.000Z",
+  "checkedAt": "2022-05-14T21:08:41.000Z",
+  "id": 2748,
+  "type": "anime",
+  "title": "Dash! Kappei",
+  "altTitle": [
+    "Dashing Kappei",
+    "ダッシュ勝平"
+  ],
+  "url": "https://myanimelist.net/anime/2748/Dash_Kappei",
+  "image": "https://cdn.myanimelist.net/images/anime/1319/90363.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1822"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1300"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E5%8B%9D%E5%B9%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1822,
+  "Pages": {
+    "9anime": {
+      "14mm": {
+        "createdAt": "2020-10-12T15:49:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 839,
+        "identifier": "14mm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dash! Kappei",
+        "url": "https://9anime.to/watch/dash-kappei.14mm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-al-Mv3xdW4E/WMv4DNcvSiI/AAAAAAABf10/Hl-myrN7G_c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2748,
+        "aniId": 2748,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dash-kappei": {
+        "createdAt": "2020-10-12T16:00:12.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17267,
+        "identifier": "dash-kappei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dash! Kappei",
+        "url": "https://gogoanime.vc/category/dash-kappei",
+        "image": "https://gogocdn.net/cover/dash-kappei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2748,
+        "aniId": 2748,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2748": {
+        "identifier": "2748",
+        "malId": 2748,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dash! Kappei",
+        "url": "https://animixplay.to/anime/2748"
+      }
+    },
+    "YugenAnime": {
+      "407": {
+        "identifier": "407",
+        "malId": 2748,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dash! Kappei",
+        "url": "https://yugen.to/anime/407/dash-kappei/"
+      }
+    }
+  }
+}

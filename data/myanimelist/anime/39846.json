@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T19:36:41.000Z",
+  "checkedAt": "2022-05-14T19:36:41.000Z",
+  "id": 39846,
+  "type": "anime",
+  "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
+  "altTitle": [
+    "YU-NO: A girl who chants love at the bound of this world Special",
+    "この世の果てで恋を唄う少女YU-NO 無限の並列世界"
+  ],
+  "url": "https://myanimelist.net/anime/39846/Kono_Yo_no_Hate_de_Koi_wo_Utau_Shoujo_YU-NO__Mugen_no_Heiretsu_Sekai",
+  "image": "https://cdn.myanimelist.net/images/anime/1038/102471.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yuno-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12693"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20479"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/YU-NO:_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12693,
+  "Pages": {
+    "9anime": {
+      "p0q9": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7775,
+        "identifier": "p0q9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+        "url": "https://9anime.to/watch/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-special.p0q9",
+        "image": "https://static.akacdn.ru/files/images/7/72/72dc3188ffdf7a9f637c948f171b0b32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39846,
+        "aniId": 112472,
+        "deletedAt": null
+      }
+    }
+  }
+}

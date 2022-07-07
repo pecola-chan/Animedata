@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-14T16:35:27.000Z",
+  "checkedAt": "2022-05-14T16:35:27.000Z",
+  "id": 36266,
+  "type": "anime",
+  "title": "Mahou Shoujo Site",
+  "altTitle": [
+    "Magical Girl Site",
+    "魔法少女サイト"
+  ],
+  "url": "https://myanimelist.net/anime/36266/Mahou_Shoujo_Site",
+  "image": "https://cdn.myanimelist.net/images/anime/1720/95064.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mahoushoujyo-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13424"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20511"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magical_Girl_Site"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13424,
+  "Pages": {
+    "9anime": {
+      "rkop": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8882,
+        "identifier": "rkop",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo Site",
+        "url": "https://9anime.to/watch/mahou-shoujo-site.rkop",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DgCq5ObCsYc/WdC07Ho_hoI/AAAAAAAABmw/_VB_fm3IcGg15ZMKrysGDmrhrE8Ybeg4ACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36266,
+        "aniId": 100010,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahou-shoujo-site": {
+        "createdAt": "2020-10-12T16:01:12.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19277,
+        "identifier": "mahou-shoujo-site",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahou Shoujo Site",
+        "url": "https://gogoanime.vc/category/mahou-shoujo-site",
+        "image": "https://images.gogoanime.tv/cover/mahou-shoujo-site.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36266,
+        "aniId": 100010,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2514": {
+        "identifier": "2514",
+        "malId": 36266,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mahou Shoujo Site",
+        "url": "https://animepahe.com/a/2514"
+      }
+    },
+    "AniMixPlay": {
+      "36266": {
+        "identifier": "36266",
+        "malId": 36266,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou Shoujo Site",
+        "url": "https://animixplay.to/anime/36266"
+      }
+    },
+    "YugenAnime": {
+      "202": {
+        "identifier": "202",
+        "malId": 36266,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahou Shoujo Site",
+        "url": "https://yugen.to/anime/202/mahou-shoujo-site/"
+      }
+    }
+  }
+}

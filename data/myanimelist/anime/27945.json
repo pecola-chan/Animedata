@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-14T22:32:59.000Z",
+  "checkedAt": "2022-05-14T22:32:59.000Z",
+  "id": 27945,
+  "type": "anime",
+  "title": "Gugure! Kokkuri-san Specials",
+  "altTitle": [
+    "繰繰れ！コックリさん"
+  ],
+  "url": "https://myanimelist.net/anime/27945/Gugure_Kokkuri-san_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/4/67735.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gugukoku.com/video.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10530"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10530,
+  "Pages": {
+    "9anime": {
+      "wpol": {
+        "createdAt": "2020-10-12T15:56:13.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9881,
+        "identifier": "wpol",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gugure! Kokkuri-san Specials",
+        "url": "https://9anime.to/watch/gugure-kokkuri-san-specials.wpol",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dyDzdsfc9bo/WcHBHn7siBI/AAAAAAAAAx8/lID1OUOhpWw0fd_NBBtWuhc-asCg7HakACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27945,
+        "aniId": 20904,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "27945": {
+        "identifier": "27945",
+        "malId": 27945,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gugure! Kokkuri-san Specials",
+        "url": "https://animixplay.to/anime/27945"
+      }
+    },
+    "YugenAnime": {
+      "7075": {
+        "identifier": "7075",
+        "malId": 27945,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gugure! Kokkuri-san Specials",
+        "url": "https://yugen.to/anime/7075/gugure-kokkuri-san-specials/"
+      }
+    }
+  }
+}

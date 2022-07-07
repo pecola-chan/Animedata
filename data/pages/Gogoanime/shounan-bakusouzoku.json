@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T16:01:53.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20681,
+  "identifier": "shounan-bakusouzoku",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Shounan Bakusouzoku",
+  "url": "https://gogoanime.vc/category/shounan-bakusouzoku",
+  "image": "https://gogocdn.net/cover/shounan-bakusouzoku.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2463,
+  "aniId": 2463,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:29.000Z",
+    "updatedAt": "2022-05-14T17:10:50.000Z",
+    "checkedAt": "2022-05-14T17:10:50.000Z",
+    "id": 2463,
+    "type": "anime",
+    "title": "Shounan Bakusouzoku",
+    "altTitle": [
+      "Bomber Bikers of Shonan",
+      "Shounan Bakusouzoku 2 - 1/5 Lonely Night",
+      "10 Ounce Bonds",
+      "Hurricane Rider",
+      "GT380 History",
+      "Tenacity Mud Special",
+      "Legendary Red Star",
+      "From Samantha",
+      "湘南爆走族"
+    ],
+    "url": "https://myanimelist.net/anime/2463/Shounan_Bakusouzoku",
+    "image": "https://cdn.myanimelist.net/images/anime/6/69945.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2060"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=731"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%B9%98%E5%8D%97%E7%88%86%E8%B5%B0%E6%97%8F#OVA"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2060
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:17.000Z",
+    "updatedAt": "2022-05-15T14:52:35.000Z",
+    "checkedAt": "2022-05-15T14:52:35.000Z",
+    "id": 2463,
+    "type": "anime",
+    "title": "Shounan Bakusouzoku",
+    "altTitle": [
+      "湘南爆走族",
+      "Bomber Bikers of Shonan",
+      "Shonan Bakusozoku 2 - 1/5 Lonely Night",
+      "10 Ounce Bonds",
+      "Hurricane Rider"
+    ],
+    "url": "https://anilist.co/anime/2463",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2463-EfScMR59272I.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2463,
+    "deletedAt": null
+  }
+}

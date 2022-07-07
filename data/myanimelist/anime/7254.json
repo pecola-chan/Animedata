@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-15T00:56:41.000Z",
+  "checkedAt": "2022-05-15T00:56:41.000Z",
+  "id": 7254,
+  "type": "anime",
+  "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+  "altTitle": [
+    "In a Distant Time 3: Neverending Destiny",
+    "Haruka Naru Toki no Naka de 3: Owarinaki Unmei",
+    "遙かなる時空の中で3 終わりなき運命"
+  ],
+  "url": "https://myanimelist.net/anime/7254/Harukanaru_Toki_no_Naka_de_3__Owarinaki_Unmei",
+  "image": "https://cdn.myanimelist.net/images/anime/7/17245.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gamecity.ne.jp/neoromance/tv/haruka/destiny/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7086"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11098"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7086,
+  "Pages": {
+    "9anime": {
+      "mn28": {
+        "createdAt": "2020-10-12T15:53:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6625,
+        "identifier": "mn28",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "url": "https://9anime.to/watch/harukanaru-toki-no-naka-de-3-owarinaki-unmei.mn28",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8m2qo6jYwtc/WSW3-MJR17I/AAAAAAAApjI/xITfkpXRQFMncEWyM7rvxX74nVry-uf9ACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7254,
+        "aniId": 7254,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7254": {
+        "identifier": "7254",
+        "malId": 7254,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "url": "https://animixplay.to/anime/7254"
+      }
+    },
+    "YugenAnime": {
+      "5858": {
+        "identifier": "5858",
+        "malId": 7254,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "url": "https://yugen.to/anime/5858/harukanaru-toki-no-naka-de-3-owarinaki-unmei/"
+      }
+    }
+  }
+}

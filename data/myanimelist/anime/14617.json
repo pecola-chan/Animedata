@@ -1,0 +1,66 @@
+{
+  "createdAt": "2021-02-15T16:35:54.000Z",
+  "updatedAt": "2022-05-15T01:04:41.000Z",
+  "checkedAt": "2022-05-15T01:04:41.000Z",
+  "id": 14617,
+  "type": "anime",
+  "title": "Stranger: Mukou Hadan Pilot",
+  "altTitle": [
+    "Sword of the Stranger Pilot",
+    "ストレンヂア -無皇刃譚-"
+  ],
+  "url": "https://myanimelist.net/anime/14617/Stranger__Mukou_Hadan_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/2/40079.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.stranja.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2185"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sword_of_the_Stranger"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2185,
+  "Pages": {
+    "9anime": {
+      "xwo3": {
+        "createdAt": "2021-02-15T16:39:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34820,
+        "identifier": "xwo3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Stranger: Mukou Hadan Pilot",
+        "url": "https://9anime.to/watch/sword-of-the-stranger-pilot.xwo3",
+        "image": "//static.bunnycdn.ru/i/cache/images/d/d8/d88f002e81d602405dda1912a2883e2f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14617,
+        "aniId": 14617,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "14617": {
+        "identifier": "14617",
+        "malId": 14617,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Stranger: Mukou Hadan Pilot",
+        "url": "https://animixplay.to/anime/14617"
+      }
+    }
+  }
+}

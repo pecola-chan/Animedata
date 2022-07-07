@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T19:15:42.000Z",
+  "checkedAt": "2022-05-14T19:15:42.000Z",
+  "id": 351,
+  "type": "anime",
+  "title": "Ojamajo Doremi Sharp",
+  "altTitle": [
+    "Ojamajo Doremi #",
+    "Useless Witch Doremi Sharp",
+    "おジャ魔女どれみ＃"
+  ],
+  "url": "https://myanimelist.net/anime/351/Ojamajo_Doremi_Sharp",
+  "image": "https://cdn.myanimelist.net/images/anime/1215/121240.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/doremi_s/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1763"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1652"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ojamajo_Doremi_Sharp"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1763,
+  "Pages": {
+    "9anime": {
+      "13xm": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 824,
+        "identifier": "13xm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ojamajo Doremi Sharp",
+        "url": "https://9anime.to/watch/ojamajo-doremi-sharp.13xm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-S-uSl_fjeFc/WGzXBd1hltI/AAAAAAABWxM/F_ZAYEKieUg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 351,
+        "aniId": 351,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ojamajo-doremi-sharp": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19832,
+        "identifier": "ojamajo-doremi-sharp",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ojamajo Doremi Sharp",
+        "url": "https://gogoanime.vc/category/ojamajo-doremi-sharp",
+        "image": "https://cdnimg.xyz/cover/ojamajo-doremi-sharp.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 351,
+        "aniId": 351,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "351": {
+        "identifier": "351",
+        "malId": 351,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ojamajo Doremi Sharp",
+        "url": "https://animixplay.to/anime/351"
+      }
+    },
+    "YugenAnime": {
+      "262": {
+        "identifier": "262",
+        "malId": 351,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ojamajo Doremi Sharp",
+        "url": "https://yugen.to/anime/262/ojamajo-doremi-sharp/"
+      }
+    }
+  }
+}

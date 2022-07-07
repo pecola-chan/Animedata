@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-15T00:57:17.000Z",
+  "checkedAt": "2022-05-15T00:57:17.000Z",
+  "id": 363,
+  "type": "anime",
+  "title": "Memories Off 3.5",
+  "altTitle": [
+    "MOFF3.5",
+    "Memories Off 3.5 [メモリーズオフ3.5]"
+  ],
+  "url": "https://myanimelist.net/anime/363/Memories_Off_35",
+  "image": "https://cdn.myanimelist.net/images/anime/8/3289.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2604"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4456"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Memories_Off_3.5"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2604,
+  "Pages": {
+    "9anime": {
+      "1wvw": {
+        "createdAt": "2020-10-12T15:49:20.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1154,
+        "identifier": "1wvw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Memories Off 3.5",
+        "url": "https://9anime.to/watch/memories-off-35.1wvw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oKlON0a4FuY/WHxpus9i2pI/AAAAAAABZjE/uaczqSY06xs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 363,
+        "aniId": 363,
+        "deletedAt": null
+      }
+    }
+  }
+}

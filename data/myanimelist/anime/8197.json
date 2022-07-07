@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:58.000Z",
+  "updatedAt": "2022-05-15T00:06:05.000Z",
+  "checkedAt": "2022-05-15T00:06:05.000Z",
+  "id": 8197,
+  "type": "anime",
+  "title": "So Ra No Wo To Specials",
+  "altTitle": [
+    "So-Ra-No-Wo-To Specials",
+    "Soranowoto Specials",
+    "Sora no Woto Specials",
+    "Sora no Oto Specials",
+    "Sound of the Sky Specials",
+    "ソ・ラ・ノ・ヲ・ト"
+  ],
+  "url": "https://myanimelist.net/anime/8197/So_Ra_No_Wo_To_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/13/20884.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sorawoto.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6783"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6783,
+  "Pages": {
+    "9anime": {
+      "l7vn": {
+        "createdAt": "2020-10-12T15:53:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5927,
+        "identifier": "l7vn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "So Ra No Wo To Specials",
+        "url": "https://9anime.to/watch/sound-of-the-sky.l7vn",
+        "image": "//static.9anime.to/i/cache/images/2018/04/cfd43586f79f82c192481b7aaac31de9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 8197,
+        "aniId": 8197,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1721": {
+        "identifier": "1721",
+        "malId": 8197,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "So Ra No Wo To Specials",
+        "url": "https://animepahe.com/a/1721"
+      }
+    }
+  }
+}

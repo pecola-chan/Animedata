@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T18:14:29.000Z",
+  "checkedAt": "2022-05-14T18:14:29.000Z",
+  "id": 10357,
+  "type": "anime",
+  "title": "Jinrui wa Suitai Shimashita",
+  "altTitle": [
+    "Jintai",
+    "Humanity Has Declined",
+    "人類は衰退しました"
+  ],
+  "url": "https://myanimelist.net/anime/10357/Jinrui_wa_Suitai_Shimashita",
+  "image": "https://cdn.myanimelist.net/images/anime/4/45704.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.maql.co.jp/special/jintai/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8276"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13787"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jinrui_wa_Suitaishimashita"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/humanity-has-declined"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8276,
+  "Pages": {
+    "9anime": {
+      "np28": {
+        "createdAt": "2020-10-12T15:53:57.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7174,
+        "identifier": "np28",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jinrui wa Suitai Shimashita",
+        "url": "https://9anime.to/watch/humanity-has-declined.np28",
+        "image": "//static.9anime.to/i/cache/images/2018/04/30b99e6b20249636b8101cafe374f2ef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10357,
+        "aniId": 10357,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jinrui-wa-suitai-shimashita": {
+        "createdAt": "2020-10-12T16:00:52.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18576,
+        "identifier": "jinrui-wa-suitai-shimashita",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jinrui wa Suitai Shimashita",
+        "url": "https://gogoanime.vc/category/jinrui-wa-suitai-shimashita",
+        "image": "https://cdnimg.xyz/images/anime/J/Jinrui-wa-Suitai-Shimashita.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10357,
+        "aniId": 10357,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "138": {
+        "identifier": "138",
+        "malId": 10357,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Jinrui wa Suitai Shimashita",
+        "url": "https://animepahe.com/a/138"
+      }
+    },
+    "AniMixPlay": {
+      "10357": {
+        "identifier": "10357",
+        "malId": 10357,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jinrui wa Suitai Shimashita",
+        "url": "https://animixplay.to/anime/10357"
+      }
+    },
+    "YugenAnime": {
+      "2827": {
+        "identifier": "2827",
+        "malId": 10357,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Jinrui wa Suitai Shimashita",
+        "url": "https://yugen.to/anime/2827/jinrui-wa-suitai-shimashita/"
+      }
+    }
+  }
+}

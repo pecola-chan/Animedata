@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-11-19T10:50:44.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29400,
+  "identifier": "pikaia-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Pikaia!",
+  "url": "https://gogoanime.vc/category/pikaia-",
+  "image": "https://gogocdn.net/images/upload/72738.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 30386,
+  "aniId": 98223,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:35.000Z",
+    "updatedAt": "2022-05-14T21:49:54.000Z",
+    "checkedAt": "2022-05-14T21:49:54.000Z",
+    "id": 30386,
+    "type": "anime",
+    "title": "Pikaia!",
+    "altTitle": [
+      "ピカイア！"
+    ],
+    "url": "https://myanimelist.net/anime/30386/Pikaia",
+    "image": "https://cdn.myanimelist.net/images/anime/3/78238.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/seimei/pikaia.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11149"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16902"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AB%E3%82%A4%E3%82%A2!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11149
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:53.000Z",
+    "updatedAt": "2022-05-15T19:29:11.000Z",
+    "checkedAt": "2022-05-15T19:29:11.000Z",
+    "id": 98223,
+    "type": "anime",
+    "title": "Pikaia!",
+    "altTitle": [
+      "Pikaia!",
+      "ピカイア！"
+    ],
+    "url": "https://anilist.co/anime/98223",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98223-l3D9otTCb0nH.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 30386,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "createdAt": "2022-03-02T08:40:39.000Z",
+  "updatedAt": "2022-03-02T09:10:28.000Z",
+  "checkedAt": null,
+  "id": 40361,
+  "identifier": "freedom",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Freedom",
+  "url": "https://gogoanime.fi/category/freedom",
+  "image": "https://gogocdn.net/cover/freedom.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1747,
+  "aniId": 1747,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:21.000Z",
+    "updatedAt": "2022-05-14T18:58:23.000Z",
+    "checkedAt": "2022-05-14T18:58:23.000Z",
+    "id": 1747,
+    "type": "anime",
+    "title": "Freedom",
+    "altTitle": [
+      "Freedom",
+      "FREEDOM"
+    ],
+    "url": "https://myanimelist.net/anime/1747/Freedom",
+    "image": "https://cdn.myanimelist.net/images/anime/4/50511.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://freedom-project.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4708"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6769"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Freedom_Project"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4708
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:17.000Z",
+    "updatedAt": "2022-05-15T14:57:11.000Z",
+    "checkedAt": "2022-05-15T14:57:11.000Z",
+    "id": 1747,
+    "type": "anime",
+    "title": "FREEDOM",
+    "altTitle": [
+      "Freedom",
+      "FREEDOM",
+      "Freedom Project",
+      "FREEDOM-PROJECT"
+    ],
+    "url": "https://anilist.co/anime/1747",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1747-CSVhuCff8Ui7.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1747,
+    "deletedAt": null
+  }
+}

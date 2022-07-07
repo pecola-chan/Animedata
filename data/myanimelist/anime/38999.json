@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T21:36:41.000Z",
+  "checkedAt": "2022-05-14T21:36:41.000Z",
+  "id": 38999,
+  "type": "anime",
+  "title": "Watashi ni Tenshi ga Maiorita! Special",
+  "altTitle": [
+    "私に天使が舞い降りた！"
+  ],
+  "url": "https://myanimelist.net/anime/38999/Watashi_ni_Tenshi_ga_Maiorita_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/1057/98215.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://watatentv.com/package.html?cat=vol03"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14156"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21114"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wataten!:_An_Angel_Flew_Down_to_Me"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14156,
+  "Pages": {
+    "9anime": {
+      "pnmq": {
+        "createdAt": "2020-10-12T15:54:49.000Z",
+        "updatedAt": "2021-10-27T04:01:26.000Z",
+        "checkedAt": null,
+        "id": 8021,
+        "identifier": "pnmq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Watashi ni Tenshi ga Maiorita! OVA",
+        "url": "https://9anime.to/watch/wataten-an-angel-flew-down-to-me-you-never-let-us-down-always-growing-closer-lets-change-you-into-this-im-your-big-sister.pnmq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/05/472132f59bbc19e77e331a91497fda44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38999,
+        "aniId": 107138,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "watashi-ni-tenshi-ga-maiorita-special": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21411,
+        "identifier": "watashi-ni-tenshi-ga-maiorita-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Watashi ni Tenshi ga Maiorita! Special",
+        "url": "https://gogoanime.vc/category/watashi-ni-tenshi-ga-maiorita-special",
+        "image": "https://cdnimg.xyz/cover/watashi-ni-tenshi-ga-maiorita-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38999,
+        "aniId": 107138,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3303": {
+        "identifier": "3303",
+        "malId": 38999,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Watashi ni Tenshi ga Maiorita! Special",
+        "url": "https://animepahe.com/a/3303"
+      }
+    },
+    "AniMixPlay": {
+      "38999": {
+        "identifier": "38999",
+        "malId": 38999,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Watashi ni Tenshi ga Maiorita! Special",
+        "url": "https://animixplay.to/anime/38999"
+      }
+    },
+    "YugenAnime": {
+      "4508": {
+        "identifier": "4508",
+        "malId": 38999,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Watashi ni Tenshi ga Maiorita! Special",
+        "url": "https://yugen.to/anime/4508/watashi-ni-tenshi-ga-maiorita-special/"
+      }
+    }
+  }
+}

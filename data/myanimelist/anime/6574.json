@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T19:20:17.000Z",
+  "checkedAt": "2022-05-14T19:20:17.000Z",
+  "id": 6574,
+  "type": "anime",
+  "title": "Hanamaru Youchien",
+  "altTitle": [
+    "Hanamaru Kindergarten",
+    "はなまる幼稚園"
+  ],
+  "url": "https://myanimelist.net/anime/6574/Hanamaru_Youchien",
+  "image": "https://cdn.myanimelist.net/images/anime/3/50395.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/hanamaru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6646"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10896"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hanamaru_Kindergarten"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6646,
+  "Pages": {
+    "9anime": {
+      "qxpj": {
+        "createdAt": "2020-10-12T15:55:17.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8624,
+        "identifier": "qxpj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hanamaru Youchien",
+        "url": "https://9anime.to/watch/hanamaru-youchien.qxpj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ob_peO6UcyY/V5M2zUXx_BI/AAAAAAAAxdE/27_tj9IiaTA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6574,
+        "aniId": 6574,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hanamaru-kindergarten": {
+        "createdAt": "2020-10-12T16:00:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18154,
+        "identifier": "hanamaru-kindergarten",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hanamaru Kindergarten",
+        "url": "https://gogoanime.vc/category/hanamaru-kindergarten",
+        "image": "https://images.gogoanime.tv/images/anime/H/hanamaru-kindergarten.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6574,
+        "aniId": 6574,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "332": {
+        "identifier": "332",
+        "malId": 6574,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hanamaru Youchien",
+        "url": "https://animepahe.com/a/332"
+      }
+    },
+    "AniMixPlay": {
+      "6574": {
+        "identifier": "6574",
+        "malId": 6574,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hanamaru Youchien",
+        "url": "https://animixplay.to/anime/6574"
+      }
+    },
+    "YugenAnime": {
+      "3202": {
+        "identifier": "3202",
+        "malId": 6574,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hanamaru Youchien",
+        "url": "https://yugen.to/anime/3202/hanamaru-kindergarten/"
+      }
+    }
+  }
+}

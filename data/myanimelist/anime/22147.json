@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-13T23:31:30.000Z",
+  "checkedAt": "2022-05-13T23:31:30.000Z",
+  "id": 22147,
+  "type": "anime",
+  "title": "Amagi Brilliant Park",
+  "altTitle": [
+    "Amaburi",
+    "Amagi Brilliant Park",
+    "甘城ブリリアントパーク"
+  ],
+  "url": "https://myanimelist.net/anime/22147/Amagi_Brilliant_Park",
+  "image": "https://cdn.myanimelist.net/images/anime/5/85435.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/amaburi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10399"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16133"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amagi_Brilliant_Park"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/amagi-brilliant-park"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10399,
+  "Pages": {
+    "9anime": {
+      "525v": {
+        "createdAt": "2020-10-12T15:50:22.000Z",
+        "updatedAt": "2021-10-20T21:30:33.000Z",
+        "checkedAt": null,
+        "id": 2480,
+        "identifier": "525v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amagi Brilliant Park",
+        "url": "https://9anime.to/watch/amagi-brilliant-park.525v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/683655797702301c1d95ed4b2fb1b465.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22147,
+        "aniId": 20602,
+        "deletedAt": null
+      },
+      "y6lz": {
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10600,
+        "identifier": "y6lz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amagi Brilliant Park (Dub)",
+        "url": "https://9anime.to/watch/amagi-brilliant-park-dub.y6lz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-OTWZ_aV36s0/WJstVzXy5cI/AAAAAAABcWQ/ByhKPckogJg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22147,
+        "aniId": 20602,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amagi-brilliant-park": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16503,
+        "identifier": "amagi-brilliant-park",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amagi Brilliant Park",
+        "url": "https://gogoanime.vc/category/amagi-brilliant-park",
+        "image": "https://cdnimg.xyz/images/fall/Amagi Brilliant Park.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22147,
+        "aniId": 20602,
+        "deletedAt": null
+      },
+      "amagi-brilliant-park-dub": {
+        "createdAt": "2020-10-12T17:20:02.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23582,
+        "identifier": "amagi-brilliant-park-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amagi Brilliant Park (Dub)",
+        "url": "https://gogoanime.vc/category/amagi-brilliant-park-dub",
+        "image": "https://gogocdn.net/cover/amagi-brilliant-park-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22147,
+        "aniId": 20602,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "56": {
+        "identifier": "56",
+        "malId": 22147,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amagi Brilliant Park",
+        "url": "https://animepahe.com/a/56"
+      }
+    },
+    "AniMixPlay": {
+      "22147": {
+        "identifier": "22147",
+        "malId": 22147,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amagi Brilliant Park",
+        "url": "https://animixplay.to/anime/22147"
+      }
+    },
+    "YugenAnime": {
+      "712": {
+        "identifier": "712",
+        "malId": 22147,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amagi Brilliant Park",
+        "url": "https://yugen.to/anime/712/amagi-brilliant-park/"
+      }
+    }
+  }
+}

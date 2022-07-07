@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T16:02:20.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21604,
+  "identifier": "yugioh-5ds-shinkasuru-kettou-stardust-vs-red-demons",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's",
+  "url": "https://gogoanime.vc/category/yugioh-5ds-shinkasuru-kettou-stardust-vs-red-demons",
+  "image": "https://cdnimg.xyz/cover/yugioh-5ds-shinkasuru-kettou-stardust-vs-red-demons.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5298,
+  "aniId": 21590,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:47.000Z",
+    "updatedAt": "2022-05-14T22:56:53.000Z",
+    "checkedAt": "2022-05-14T22:56:53.000Z",
+    "id": 5298,
+    "type": "anime",
+    "title": "Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's",
+    "altTitle": [
+      "Yu-Gi-Oh! 5D's: Evolving Duel! Stardust vs. Red Daemon's",
+      "遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ"
+    ],
+    "url": "https://myanimelist.net/anime/5298/Yu☆Gi☆Oh_5Ds__Shinkasuru_Kettou_Stardust_vs_Red_Demons",
+    "image": "https://cdn.myanimelist.net/images/anime/8/10786.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5739"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yu-Gi-Oh!_5D%27s"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5739
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:44.000Z",
+    "updatedAt": "2022-05-15T13:59:47.000Z",
+    "checkedAt": "2022-05-15T13:59:47.000Z",
+    "id": 21590,
+    "type": "anime",
+    "title": "Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's",
+    "altTitle": [
+      "遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ"
+    ],
+    "url": "https://anilist.co/anime/21590",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21590-uBTVEwa90RIB.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5298,
+    "deletedAt": null
+  }
+}

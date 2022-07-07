@@ -1,0 +1,80 @@
+{
+  "createdAt": "2021-07-27T18:51:37.000Z",
+  "updatedAt": "2021-07-27T19:21:35.000Z",
+  "checkedAt": null,
+  "id": 38046,
+  "identifier": "hurricane-polymar",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Hurricane Polymar",
+  "url": "https://gogoanime.pe/category/hurricane-polymar",
+  "image": "https://gogocdn.net/cover/hurricane-polymar.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4808,
+  "aniId": 4808,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:44.000Z",
+    "updatedAt": "2022-05-15T04:16:07.000Z",
+    "checkedAt": "2022-05-15T04:16:07.000Z",
+    "id": 4808,
+    "type": "anime",
+    "title": "Hurricane Polymar",
+    "altTitle": [
+      "Inner Destructive Fist Polymar",
+      "Hurricane Polimar",
+      "Hurricane Polymer",
+      "Hurricane Polymar",
+      "破裏拳ポリマー"
+    ],
+    "url": "https://myanimelist.net/anime/4808/Hurricane_Polymar",
+    "image": "https://cdn.myanimelist.net/images/anime/9/60393.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://en.wikipedia.org/wiki/Hurricane_Polymar"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1562"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=680"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hurricane_Polymar"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1562
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:37.000Z",
+    "updatedAt": "2022-05-16T06:15:35.000Z",
+    "checkedAt": "2022-05-16T06:15:35.000Z",
+    "id": 4808,
+    "type": "anime",
+    "title": "Hurricane Polymar",
+    "altTitle": [
+      "Hurricane Polymar",
+      "破裏拳ポリマー",
+      "Inner Destructive Fist Polymar",
+      "Hurricane Polimar"
+    ],
+    "url": "https://anilist.co/anime/4808",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4808-45jvGLaEFH9J.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4808,
+    "deletedAt": null
+  }
+}

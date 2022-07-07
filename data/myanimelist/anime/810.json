@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-15T01:37:35.000Z",
+  "checkedAt": "2022-05-15T01:37:35.000Z",
+  "id": 810,
+  "type": "anime",
+  "title": "Android Ana Maico 2010",
+  "altTitle": [
+    "Android Announcer Maico 2010",
+    "アンドロイド・アナ　MAICO ２０１０"
+  ],
+  "url": "https://myanimelist.net/anime/810/Android_Ana_Maico_2010",
+  "image": "https://cdn.myanimelist.net/images/anime/8/30397.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=911"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1053"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 911,
+  "Pages": {
+    "9anime": {
+      "7171": {
+        "createdAt": "2020-10-12T15:48:33.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 232,
+        "identifier": "7171",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Android Ana Maico 2010",
+        "url": "https://9anime.to/watch/android-ana-maico-2010.7171",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sTBHFxWZaGs/V9JVosMmBoI/AAAAAAAA8vI/s2QUC4daNqw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 810,
+        "aniId": 810,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "810": {
+        "identifier": "810",
+        "malId": 810,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Android Ana Maico 2010",
+        "url": "https://animixplay.to/anime/810"
+      }
+    },
+    "YugenAnime": {
+      "5386": {
+        "identifier": "5386",
+        "malId": 810,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Android Ana Maico 2010",
+        "url": "https://yugen.to/anime/5386/android-ana-maico-2010/"
+      }
+    }
+  }
+}

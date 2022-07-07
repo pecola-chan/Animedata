@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-14T20:12:17.000Z",
+  "checkedAt": "2022-05-14T20:12:17.000Z",
+  "id": 30437,
+  "type": "anime",
+  "title": "Wakako-zake",
+  "altTitle": [
+    "Wakako Sake",
+    "Wakakozake",
+    "ワカコ酒"
+  ],
+  "url": "https://myanimelist.net/anime/30437/Wakako-zake",
+  "image": "https://cdn.myanimelist.net/images/anime/9/76018.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wakakozake.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11157"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16900"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wakakozake"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267459"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11157,
+  "Pages": {
+    "9anime": {
+      "o65": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7409,
+        "identifier": "o65",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wakako-zake",
+        "url": "https://9anime.to/watch/wakako-zake.o65",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-4dwr4PTuXWQ/V3nrnMRegdI/AAAAAAAAtKk/fpYxST5tMAc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30437,
+        "aniId": 21204,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wakako-zake": {
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21382,
+        "identifier": "wakako-zake",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wakako-zake",
+        "url": "https://gogoanime.vc/category/wakako-zake",
+        "image": "https://cdnimg.xyz/images/upload/wakako_zake.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30437,
+        "aniId": 21204,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "30437": {
+        "identifier": "30437",
+        "malId": 30437,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wakako-zake",
+        "url": "https://animixplay.to/anime/30437"
+      }
+    },
+    "YugenAnime": {
+      "2354": {
+        "identifier": "2354",
+        "malId": 30437,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wakako-zake",
+        "url": "https://yugen.to/anime/2354/wakako-zake/"
+      }
+    }
+  }
+}

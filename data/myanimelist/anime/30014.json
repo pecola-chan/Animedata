@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-05-14T10:33:05.000Z",
+  "checkedAt": "2022-05-14T10:33:05.000Z",
+  "id": 30014,
+  "type": "anime",
+  "title": "Momokuri",
+  "altTitle": [
+    "momokuri",
+    "ももくり"
+  ],
+  "url": "https://myanimelist.net/anime/30014/Momokuri",
+  "image": "https://cdn.myanimelist.net/images/anime/8/76056.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.momokuri-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11073"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16788"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%82%E3%82%82%E3%81%8F%E3%82%8A"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/momokuri"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11073,
+  "Pages": {
+    "9anime": {
+      "lloq": {
+        "createdAt": "2020-10-12T15:53:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6063,
+        "identifier": "lloq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Momokuri",
+        "url": "https://9anime.to/watch/momokuri.lloq",
+        "image": "//static.9anime.to/i/cache/images/2018/04/4aee3a94b64aab5ed00515d39b814070.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30014,
+        "aniId": 21050,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "momokuri": {
+        "createdAt": "2020-10-12T16:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19525,
+        "identifier": "momokuri",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Momokuri",
+        "url": "https://gogoanime.vc/category/momokuri",
+        "image": "https://cdnimg.xyz/images/upload/Momokuri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30014,
+        "aniId": 21050,
+        "deletedAt": null
+      },
+      "momokuri-tv": {
+        "createdAt": "2020-10-12T16:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19526,
+        "identifier": "momokuri-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Momokuri (TV)",
+        "url": "https://gogoanime.vc/category/momokuri-tv",
+        "image": "https://gogocdn.net/cover/momokuri-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30014,
+        "aniId": 21050,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "971": {
+        "identifier": "971",
+        "malId": 30014,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Momokuri",
+        "url": "https://animepahe.com/a/971"
+      }
+    },
+    "AniMixPlay": {
+      "30014": {
+        "identifier": "30014",
+        "malId": 30014,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Momokuri",
+        "url": "https://animixplay.to/anime/30014"
+      }
+    },
+    "YugenAnime": {
+      "2395": {
+        "identifier": "2395",
+        "malId": 30014,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Momokuri",
+        "url": "https://yugen.to/anime/2395/momokuri/"
+      }
+    }
+  }
+}

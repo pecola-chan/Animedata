@@ -1,0 +1,48 @@
+{
+  "createdAt": "2022-03-02T05:40:59.000Z",
+  "updatedAt": "2022-05-14T22:22:05.000Z",
+  "checkedAt": "2022-05-14T22:22:05.000Z",
+  "id": 51013,
+  "type": "anime",
+  "title": "A Ripple in Time",
+  "altTitle": [
+    "Daniel Arsham × Pokémon",
+    "A Ripple in Time / 時の波紋"
+  ],
+  "url": "https://myanimelist.net/anime/51013/A_Ripple_in_Time",
+  "image": "https://cdn.myanimelist.net/images/anime/1360/120922.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://arsham-pokemon.nanzuka.com/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "m2qyz": {
+        "createdAt": "2022-03-02T05:40:59.000Z",
+        "updatedAt": "2022-06-13T22:31:10.000Z",
+        "checkedAt": "2022-06-13T22:31:10.000Z",
+        "id": 40358,
+        "identifier": "m2qyz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Ripple in Time",
+        "url": "https://9anime.to/watch/a-ripple-in-time.m2qyz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b3/b3a4677dbc459cf3ec8de1e76b2543cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 51013,
+        "aniId": 145059,
+        "deletedAt": null
+      }
+    }
+  }
+}

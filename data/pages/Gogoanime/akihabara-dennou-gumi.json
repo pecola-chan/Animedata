@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:59:49.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16471,
+  "identifier": "akihabara-dennou-gumi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Akihabara Dennou-gumi",
+  "url": "https://gogoanime.vc/category/akihabara-dennou-gumi",
+  "image": "https://gogocdn.net/cover/akihabara-dennou-gumi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2288,
+  "aniId": 2288,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:28.000Z",
+    "updatedAt": "2022-05-14T20:40:30.000Z",
+    "checkedAt": "2022-05-14T20:40:30.000Z",
+    "id": 2288,
+    "type": "anime",
+    "title": "Akihabara Dennou-gumi",
+    "altTitle": [
+      "Cyberteam in Akihabara",
+      "Akihabara Cyber Team",
+      "Cyber Team in Akihabara",
+      "kihabara Dennou Gumi",
+      "アキハバラ電脳組"
+    ],
+    "url": "https://myanimelist.net/anime/2288/Akihabara_Dennou-gumi",
+    "image": "https://cdn.myanimelist.net/images/anime/12/83429.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=509"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1072"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cyberteam_in_Akihabara"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 509
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:14.000Z",
+    "updatedAt": "2022-05-15T18:19:59.000Z",
+    "checkedAt": "2022-05-15T18:19:59.000Z",
+    "id": 2288,
+    "type": "anime",
+    "title": "Akihabara Dennou Gumi",
+    "altTitle": [
+      "アキハバラ電脳組",
+      "Cyberteam in Akihabara",
+      "Akihabara Cyber Team",
+      "Cyber Team in Akihabara",
+      "Akihabara Denno Gumi"
+    ],
+    "url": "https://anilist.co/anime/2288",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2288-PJpJetRD4YjM.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2288,
+    "deletedAt": null
+  }
+}

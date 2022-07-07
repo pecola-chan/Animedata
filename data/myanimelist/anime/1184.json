@@ -1,0 +1,143 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T19:35:42.000Z",
+  "checkedAt": "2022-05-14T19:35:42.000Z",
+  "id": 1184,
+  "type": "anime",
+  "title": "Lost Universe",
+  "altTitle": [
+    "ロスト・ユニバース"
+  ],
+  "url": "https://myanimelist.net/anime/1184/Lost_Universe",
+  "image": "https://cdn.myanimelist.net/images/anime/3/20409.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/lostunivers/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=403"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=167"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lost_Universe"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270211"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 403,
+  "Pages": {
+    "9anime": {
+      "2v70": {
+        "createdAt": "2020-10-12T15:49:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1520,
+        "identifier": "2v70",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lost Universe",
+        "url": "https://9anime.to/watch/lost-universe.2v70",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-q111QeAVxmo/V_zPxkjLNjI/AAAAAAABGm0/cRIakxS53JM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1184,
+        "aniId": 1184,
+        "deletedAt": null
+      },
+      "mvmx": {
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6769,
+        "identifier": "mvmx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lost Universe (Dub)",
+        "url": "https://9anime.to/watch/lost-universe-dub.mvmx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wwjAVR3_Mvk/V6nHxXf2YuI/AAAAAAAA1tc/S5P7iQgTwPg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1184,
+        "aniId": 1184,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "lost-universe": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19136,
+        "identifier": "lost-universe",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lost Universe",
+        "url": "https://gogoanime.vc/category/lost-universe",
+        "image": "https://cdnimg.xyz/images/anime/L/lost-universe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1184,
+        "aniId": 1184,
+        "deletedAt": null
+      },
+      "lost-universe-dub": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19137,
+        "identifier": "lost-universe-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lost Universe (Dub)",
+        "url": "https://gogoanime.vc/category/lost-universe-dub",
+        "image": "https://cdnimg.xyz/cover/lost-universe-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1184,
+        "aniId": 1184,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1184": {
+        "identifier": "1184",
+        "malId": 1184,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lost Universe",
+        "url": "https://animixplay.to/anime/1184"
+      }
+    },
+    "YugenAnime": {
+      "2215": {
+        "identifier": "2215",
+        "malId": 1184,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lost Universe",
+        "url": "https://yugen.to/anime/2215/lost-universe/"
+      }
+    }
+  }
+}

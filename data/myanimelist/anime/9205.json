@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-15T01:15:40.000Z",
+  "checkedAt": "2022-05-15T01:15:40.000Z",
+  "id": 9205,
+  "type": "anime",
+  "title": "Kaichuu!",
+  "altTitle": [
+    "Kaichu!",
+    "カイチュー!"
+  ],
+  "url": "https://myanimelist.net/anime/9205/Kaichuu",
+  "image": "https://cdn.myanimelist.net/images/anime/12/25520.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yj.shueisha.co.jp/web_comic/kaichu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7672"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11762"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%81%E3%83%A5%E3%83%BC!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7672,
+  "Pages": {
+    "9anime": {
+      "qmzw": {
+        "createdAt": "2020-10-12T15:55:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8450,
+        "identifier": "qmzw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaichuu!",
+        "url": "https://9anime.to/watch/kaichuu.qmzw",
+        "image": "https://static.akacdn.ru/files/images/2018/04/280e3b5c4c4b121704f2aee2a17c4ad2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9205,
+        "aniId": 9205,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9205": {
+        "identifier": "9205",
+        "malId": 9205,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaichuu!",
+        "url": "https://animixplay.to/anime/9205"
+      }
+    }
+  }
+}

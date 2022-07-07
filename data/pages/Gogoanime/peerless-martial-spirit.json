@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-27T19:42:52.000Z",
+  "updatedAt": "2021-05-20T15:21:56.000Z",
+  "checkedAt": null,
+  "id": 28072,
+  "identifier": "peerless-martial-spirit",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Peerless Martial Spirit",
+  "url": "https://gogoanime.vc/category/peerless-martial-spirit",
+  "image": "https://gogocdn.net/cover/peerless-martial-spirit.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 43626,
+  "aniId": 122521,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-28T05:40:50.000Z",
+    "updatedAt": "2022-05-14T16:23:32.000Z",
+    "checkedAt": "2022-05-14T16:23:32.000Z",
+    "id": 43626,
+    "type": "anime",
+    "title": "Jue Shi Wu Hun",
+    "altTitle": [
+      "Peerless Martial Spirit",
+      "A Paragon of Wu hun",
+      "Jueshi Wuhun",
+      "Jue Shi Wu Shen",
+      "绝世武魂"
+    ],
+    "url": "https://myanimelist.net/anime/43626/Jue_Shi_Wu_Hun",
+    "image": "https://cdn.myanimelist.net/images/anime/1183/110438.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/m/mzc00200no18bci.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E7%BB%9D%E4%B8%96%E6%AD%A6%E9%AD%82/53131289"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:13.000Z",
+    "updatedAt": "2022-05-15T10:53:59.000Z",
+    "checkedAt": "2022-05-15T10:53:59.000Z",
+    "id": 122521,
+    "type": "anime",
+    "title": "Jueshi Wu Hun",
+    "altTitle": [
+      "绝世武魂",
+      "Peerless Martial Spirit"
+    ],
+    "url": "https://anilist.co/anime/122521",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122521-X1G88FEG4oyP.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 43626,
+    "deletedAt": null
+  }
+}

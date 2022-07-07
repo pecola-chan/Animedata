@@ -1,0 +1,128 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-15T00:46:05.000Z",
+  "checkedAt": "2022-05-15T00:46:05.000Z",
+  "id": 19211,
+  "type": "anime",
+  "title": "Suisei no Gargantia Specials",
+  "altTitle": [
+    "Suisei no Gargantia Episode 14",
+    "Suisei no Gargantia Episode 15",
+    "Gargantia on the Verdurous Planet: Specials",
+    "翠星のガルガンティア 完全新作"
+  ],
+  "url": "https://myanimelist.net/anime/19211/Suisei_no_Gargantia_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/8/51509.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gargantia.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9556"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%BF%A0%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9556,
+  "Pages": {
+    "9anime": {
+      "140p": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 826,
+        "identifier": "140p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Suisei no Gargantia Specials (Dub)",
+        "url": "https://9anime.to/watch/suisei-no-gargantia-specials-dub.140p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dT1JN8hzeUM/WNDeUS9MigI/AAAAAAABgGs/2-zIaYxjvdA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19211,
+        "aniId": 19211,
+        "deletedAt": null
+      },
+      "q2vn": {
+        "createdAt": "2020-10-12T15:54:56.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8270,
+        "identifier": "q2vn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Suisei no Gargantia Specials",
+        "url": "https://9anime.to/watch/suisei-no-gargantia-specials.q2vn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0D3jPMkc3c0/WCLbvUDbi-I/AAAAAAABOEg/zoQhjcCO37U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19211,
+        "aniId": 19211,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "suisei-no-gargantia-specials-dub": {
+        "createdAt": "2021-04-22T03:57:30.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36662,
+        "identifier": "suisei-no-gargantia-specials-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Suisei no Gargantia Specials (Dub)",
+        "url": "https://gogoanime.vc/category/suisei-no-gargantia-specials-dub",
+        "image": "https://gogocdn.net/cover/suisei-no-gargantia-specials-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19211,
+        "aniId": 19211,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2506": {
+        "identifier": "2506",
+        "malId": 19211,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Suisei no Gargantia Specials",
+        "url": "https://animepahe.com/a/2506"
+      }
+    },
+    "AniMixPlay": {
+      "19211": {
+        "identifier": "19211",
+        "malId": 19211,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Suisei no Gargantia Specials",
+        "url": "https://animixplay.to/anime/19211"
+      }
+    },
+    "YugenAnime": {
+      "5493": {
+        "identifier": "5493",
+        "malId": 19211,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Suisei no Gargantia Specials",
+        "url": "https://yugen.to/anime/5493/suisei-no-gargantia-specials/"
+      }
+    }
+  }
+}

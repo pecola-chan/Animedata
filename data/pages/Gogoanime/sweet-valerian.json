@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-08-09T02:09:36.000Z",
+  "updatedAt": "2021-08-09T02:39:15.000Z",
+  "checkedAt": null,
+  "id": 38182,
+  "identifier": "sweet-valerian",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sweet Valerian",
+  "url": "https://gogoanime.pe/category/sweet-valerian",
+  "image": "https://gogocdn.net/cover/sweet-valerian.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2727,
+  "aniId": 2727,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:32.000Z",
+    "updatedAt": "2022-05-15T01:54:31.000Z",
+    "checkedAt": "2022-05-15T01:54:31.000Z",
+    "id": 2727,
+    "type": "anime",
+    "title": "Sweet Valerian",
+    "altTitle": [
+      "Sweet Valerians",
+      "スウィート・ヴァレリアン"
+    ],
+    "url": "https://myanimelist.net/anime/2727/Sweet_Valerian",
+    "image": "https://cdn.myanimelist.net/images/anime/11/3676.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2339"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4187"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sweet_Valerian"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2339
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:26.000Z",
+    "updatedAt": "2022-05-15T22:59:52.000Z",
+    "checkedAt": "2022-05-15T22:59:52.000Z",
+    "id": 2727,
+    "type": "anime",
+    "title": "Sweet Valerian",
+    "altTitle": [
+      "スウィート・ヴァレリアン",
+      "Sweet Valerians"
+    ],
+    "url": "https://anilist.co/anime/2727",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2727.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2727,
+    "deletedAt": null
+  }
+}

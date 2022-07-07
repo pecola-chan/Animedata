@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:01.000Z",
+  "updatedAt": "2022-05-14T23:05:11.000Z",
+  "checkedAt": "2022-05-14T23:05:10.000Z",
+  "id": 275,
+  "type": "anime",
+  "title": "Love♥Love?",
+  "altTitle": [
+    "Love♥Love?",
+    "LOVE♥LOVE?"
+  ],
+  "url": "https://myanimelist.net/anime/275/Love♥Love",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75454.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ponycanyon.co.jp/pc-moe/love/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1762"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3798"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Love_Love%3F"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/love-love"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1762,
+  "Pages": {
+    "9anime": {
+      "n0kl": {
+        "createdAt": "2020-10-12T15:53:41.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6870,
+        "identifier": "n0kl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "LOVE♥LOVE?",
+        "url": "https://9anime.to/watch/lovelove.n0kl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gC3oqJLbzbs/WHnGtjafAUI/AAAAAAABZNM/xrdjLtQSJC4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 275,
+        "aniId": 275,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "love-love": {
+        "createdAt": "2020-11-13T21:53:08.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29179,
+        "identifier": "love-love",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Love?",
+        "url": "https://gogoanime.vc/category/love-love",
+        "image": "https://gogocdn.net/images/anime/L/love-love.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 275,
+        "aniId": 275,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "275": {
+        "identifier": "275",
+        "malId": 275,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love♥Love?",
+        "url": "https://animixplay.to/anime/275"
+      }
+    },
+    "YugenAnime": {
+      "2515": {
+        "identifier": "2515",
+        "malId": 275,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love♥Love?",
+        "url": "https://yugen.to/anime/2515/love-love/"
+      }
+    }
+  }
+}

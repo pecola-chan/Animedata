@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T18:23:35.000Z",
+  "checkedAt": "2022-05-14T18:23:35.000Z",
+  "id": 38917,
+  "type": "anime",
+  "title": "Tong Ling Fei",
+  "altTitle": [
+    "Psychic Princess",
+    "通灵妃"
+  ],
+  "url": "https://myanimelist.net/anime/38917/Tong_Ling_Fei",
+  "image": "https://cdn.myanimelist.net/images/anime/1066/103049.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.weibo.com/u/6709504242"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280822"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "3om6": {
+        "createdAt": "2020-10-12T15:49:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1879,
+        "identifier": "3om6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tong Ling Fei",
+        "url": "https://9anime.to/watch/tong-ling-fei.3om6",
+        "image": "https://static.akacdn.ru/static/images/2019/03/49b9cdfa30cc1df767a406976a65abeb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38917,
+        "aniId": 99935,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tong-ling-fei": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21179,
+        "identifier": "tong-ling-fei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tong Ling Fei",
+        "url": "https://gogoanime.vc/category/tong-ling-fei",
+        "image": "https://cdnimg.xyz/cover/tong-ling-fei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38917,
+        "aniId": 99935,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38917": {
+        "identifier": "38917",
+        "malId": 38917,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tong Ling Fei",
+        "url": "https://animixplay.to/anime/38917"
+      }
+    },
+    "YugenAnime": {
+      "1580": {
+        "identifier": "1580",
+        "malId": 38917,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tong Ling Fei",
+        "url": "https://yugen.to/anime/1580/tong-ling-fei/"
+      }
+    }
+  }
+}

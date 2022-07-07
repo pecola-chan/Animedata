@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-16T09:35:31.000Z",
+  "checkedAt": "2022-05-16T09:35:31.000Z",
+  "id": 39735,
+  "type": "anime",
+  "title": "Baja no Studio: Baja no Mita Umi",
+  "altTitle": [
+    "Sousaku no, Ima!!: Baja",
+    "バジャのスタジオ~バジャのみた海~"
+  ],
+  "url": "https://myanimelist.net/anime/39735/Baja_no_Studio__Baja_no_Mita_Umi",
+  "image": "https://cdn.myanimelist.net/images/anime/1759/106278.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kyoanido-event.com/enjoy/ticket/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14839"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14839,
+  "Pages": {
+    "9anime": {
+      "p0wq": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7778,
+        "identifier": "p0wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sousaku no, Ima!!: Baja",
+        "url": "https://9anime.to/watch/sousaku-no-ima-baja.p0wq",
+        "image": "https://static.akacdn.ru/files/images/2020/03/e9134aa9645038d7e9f8372877ce3dde.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39735,
+        "aniId": 112010,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39735": {
+        "identifier": "39735",
+        "malId": 39735,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Baja no Studio: Baja no Mita Umi",
+        "url": "https://animixplay.to/anime/39735"
+      }
+    }
+  }
+}

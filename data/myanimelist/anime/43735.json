@@ -1,0 +1,127 @@
+{
+  "createdAt": "2021-11-15T20:30:24.000Z",
+  "updatedAt": "2022-05-14T15:46:58.000Z",
+  "checkedAt": "2022-05-14T15:46:58.000Z",
+  "id": 43735,
+  "type": "anime",
+  "title": "Cue!",
+  "altTitle": [
+    "CUE!"
+  ],
+  "url": "https://myanimelist.net/anime/43735/Cue",
+  "image": "https://cdn.myanimelist.net/images/anime/1039/120173.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://cue-animation.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15827"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24629"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CUE!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282175"
+    },
+    {
+      "site": "aniplustv",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "laftel",
+      "url": "https://laftel.net/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15827,
+  "Pages": {
+    "9anime": {
+      "r5qp": {
+        "createdAt": "2022-01-07T10:49:24.000Z",
+        "updatedAt": "2022-06-13T23:02:14.000Z",
+        "checkedAt": "2022-06-13T23:02:14.000Z",
+        "id": 39717,
+        "identifier": "r5qp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "CUE!",
+        "url": "https://9anime.to/watch/cue.r5qp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b6/b6f3af1cba0a65e312b2401c9f65b923.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43735,
+        "aniId": 125682,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cue": {
+        "createdAt": "2022-01-07T20:18:25.000Z",
+        "updatedAt": "2022-01-07T20:47:51.000Z",
+        "checkedAt": null,
+        "id": 39730,
+        "identifier": "cue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cue!",
+        "url": "https://gogoanime.cm/category/cue",
+        "image": "https://gogocdn.net/cover/cue.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43735,
+        "aniId": 125682,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4684": {
+        "identifier": "4684",
+        "malId": 43735,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cue!",
+        "url": "https://animepahe.com/a/4684"
+      }
+    },
+    "AniMixPlay": {
+      "43735": {
+        "identifier": "43735",
+        "malId": 43735,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cue!",
+        "url": "https://animixplay.to/anime/43735"
+      }
+    },
+    "YugenAnime": {
+      "11538": {
+        "identifier": "11538",
+        "malId": 43735,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cue!",
+        "url": "https://yugen.to/anime/11538/cue/"
+      }
+    }
+  }
+}

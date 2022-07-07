@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-16T14:28:27.000Z",
+  "checkedAt": "2022-05-16T14:28:27.000Z",
+  "id": 6890,
+  "type": "anime",
+  "title": "Ontama!",
+  "altTitle": [
+    "おんたま!"
+  ],
+  "url": "https://myanimelist.net/anime/6890/Ontama",
+  "image": "https://cdn.myanimelist.net/images/anime/11/15994.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime-ch.nicovideo.jp/ontama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6717"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10936"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%82%93%E3%81%9F%E3%81%BE!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6717,
+  "Pages": {
+    "9anime": {
+      "151w": {
+        "createdAt": "2020-10-12T15:49:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 850,
+        "identifier": "151w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ontama!",
+        "url": "https://9anime.to/watch/ontama.151w",
+        "image": "https://static.akacdn.ru/files/images/2018/02/566a0238c87ad839e92210859a571024.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6890,
+        "aniId": 6890,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ontama": {
+        "createdAt": "2021-10-08T15:02:42.000Z",
+        "updatedAt": "2021-10-08T15:32:19.000Z",
+        "checkedAt": null,
+        "id": 38930,
+        "identifier": "ontama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ontama!",
+        "url": "https://gogoanime.pe/category/ontama",
+        "image": "https://gogocdn.net/cover/ontama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6890,
+        "aniId": 6890,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6890": {
+        "identifier": "6890",
+        "malId": 6890,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ontama!",
+        "url": "https://animixplay.to/anime/6890"
+      }
+    },
+    "YugenAnime": {
+      "9900": {
+        "identifier": "9900",
+        "malId": 6890,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ontama!",
+        "url": "https://yugen.to/anime/9900/ontama/"
+      }
+    }
+  }
+}

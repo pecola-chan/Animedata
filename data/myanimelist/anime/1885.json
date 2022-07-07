@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T21:38:23.000Z",
+  "checkedAt": "2022-05-14T21:38:23.000Z",
+  "id": 1885,
+  "type": "anime",
+  "title": "Master of Epic: The Animation Age",
+  "altTitle": [
+    "Master of Epic ~The Animation Age~",
+    "マスター オブ エピック The Animation Age"
+  ],
+  "url": "https://myanimelist.net/anime/1885/Master_of_Epic__The_Animation_Age",
+  "image": "https://cdn.myanimelist.net/images/anime/1/1885.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/moetaa/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4336"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7155"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Master_of_Epic"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4336,
+  "Pages": {
+    "9anime": {
+      "oq9z": {
+        "createdAt": "2020-10-12T15:54:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7631,
+        "identifier": "oq9z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Master of Epic: The Animation Age",
+        "url": "https://9anime.to/watch/master-of-epic-the-animation-age.oq9z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-j8A2fJxkuV8/V9fw2NS0wSI/AAAAAAAA92A/H4k9kW6KrbA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1885,
+        "aniId": 1885,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "master-of-epic-the-animation-age": {
+        "createdAt": "2021-09-15T06:50:16.000Z",
+        "updatedAt": "2021-09-15T07:20:13.000Z",
+        "checkedAt": null,
+        "id": 38634,
+        "identifier": "master-of-epic-the-animation-age",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Master of Epic: The Animation Age",
+        "url": "https://gogoanime.pe/category/master-of-epic-the-animation-age",
+        "image": "https://gogocdn.net/cover/master-of-epic-the-animation-age.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1885,
+        "aniId": 1885,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1885": {
+        "identifier": "1885",
+        "malId": 1885,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Master of Epic: The Animation Age",
+        "url": "https://animixplay.to/anime/1885"
+      }
+    },
+    "YugenAnime": {
+      "9783": {
+        "identifier": "9783",
+        "malId": 1885,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Master of Epic: The Animation Age",
+        "url": "https://yugen.to/anime/9783/master-of-epic-the-animation-age/"
+      }
+    }
+  }
+}

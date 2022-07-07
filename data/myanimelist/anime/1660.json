@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-15T02:03:23.000Z",
+  "checkedAt": "2022-05-15T02:03:23.000Z",
+  "id": 1660,
+  "type": "anime",
+  "title": "Kurogane Communication",
+  "altTitle": [
+    "Tetsu Komyunikeishon",
+    "Iron Communication",
+    "kc",
+    "kurocomm",
+    "Kurogane Communication",
+    "鉄コミュニケイション"
+  ],
+  "url": "https://myanimelist.net/anime/1660/Kurogane_Communication",
+  "image": "https://cdn.myanimelist.net/images/anime/5/25228.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=410"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=335"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kurogane_Communication"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 410,
+  "Pages": {
+    "9anime": {
+      "3198": {
+        "createdAt": "2020-10-12T15:48:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 90,
+        "identifier": "3198",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurogane Communication (Dub)",
+        "url": "https://9anime.to/watch/kurogane-communication-dub.3198",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9PCfLtYk8r0/WAEmTDim8ZI/AAAAAAABH1g/X1CWCzpx1KM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1660,
+        "aniId": 1660,
+        "deletedAt": null
+      },
+      "yvnj": {
+        "createdAt": "2020-10-12T15:56:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10859,
+        "identifier": "yvnj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kurogane Communication",
+        "url": "https://9anime.to/watch/kurogane-communication.yvnj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2WwhbCFsDIE/V7NYKEgVIII/AAAAAAAA3nQ/DQs6jF7wRrA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1660,
+        "aniId": 1660,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kurogane-communication-dub": {
+        "createdAt": "2021-07-11T20:45:21.000Z",
+        "updatedAt": "2021-07-11T21:15:01.000Z",
+        "checkedAt": null,
+        "id": 37808,
+        "identifier": "kurogane-communication-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurogane Communication (Dub)",
+        "url": "https://gogoanime.pe/category/kurogane-communication-dub",
+        "image": "https://gogocdn.net/cover/kurogane-communication-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1660,
+        "aniId": 1660,
+        "deletedAt": null
+      },
+      "kurogane-communication": {
+        "createdAt": "2021-11-03T12:04:31.000Z",
+        "updatedAt": "2021-11-03T12:34:19.000Z",
+        "checkedAt": null,
+        "id": 39164,
+        "identifier": "kurogane-communication",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurogane Communication",
+        "url": "https://gogoanime.pe/category/kurogane-communication",
+        "image": "https://gogocdn.net/cover/kurogane-communication.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1660,
+        "aniId": 1660,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1660": {
+        "identifier": "1660",
+        "malId": 1660,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kurogane Communication",
+        "url": "https://animixplay.to/anime/1660"
+      }
+    },
+    "YugenAnime": {
+      "2627": {
+        "identifier": "2627",
+        "malId": 1660,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kurogane Communication",
+        "url": "https://yugen.to/anime/2627/kurogane-communication/"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-15T07:21:40.000Z",
+  "checkedAt": "2022-05-15T07:21:40.000Z",
+  "id": 2285,
+  "type": "anime",
+  "title": "D.I.C.E.",
+  "altTitle": [
+    "DICE",
+    "DNA Integrated Cybernetic Enterprises",
+    "DINOBREAKER",
+    "ディノブレイカー"
+  ],
+  "url": "https://myanimelist.net/anime/2285/DICE",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2523.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.xebec-inc.co.jp/anime/dinobreaker/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2433"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4472"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/D.I.C.E._%28Animated_Series%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2433,
+  "Pages": {
+    "9anime": {
+      "719j": {
+        "createdAt": "2020-10-12T15:50:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3309,
+        "identifier": "719j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "D.I.C.E. (Dub)",
+        "url": "https://9anime.to/watch/dice-dub.719j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dLRXdf83NaA/V8_yaUWPvtI/AAAAAAAA8MU/Ue1hJ4R8y3c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2285,
+        "aniId": 2285,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dice-dub": {
+        "createdAt": "2021-08-13T21:37:01.000Z",
+        "updatedAt": "2021-08-13T22:06:58.000Z",
+        "checkedAt": null,
+        "id": 38290,
+        "identifier": "dice-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "D.I.C.E. (Dub)",
+        "url": "https://gogoanime.pe/category/dice-dub",
+        "image": "https://gogocdn.net/cover/dice-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2285,
+        "aniId": 2285,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2285": {
+        "identifier": "2285",
+        "malId": 2285,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "D.I.C.E.",
+        "url": "https://animixplay.to/anime/2285"
+      }
+    }
+  }
+}

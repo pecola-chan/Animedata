@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:59:55.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16692,
+  "identifier": "bakugan-battle-planet-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Bakugan: Battle Planet (Dub)",
+  "url": "https://gogoanime.vc/category/bakugan-battle-planet-dub",
+  "image": "https://gogocdn.net/cover/bakugan-battle-planet-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 39622,
+  "aniId": 108852,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T20:12:17.000Z",
+    "checkedAt": "2022-05-14T20:12:17.000Z",
+    "id": 39622,
+    "type": "anime",
+    "title": "Bakugan: Battle Planet",
+    "altTitle": [
+      "Bakugan: Battle Planet",
+      "爆丸バトルプラネット"
+    ],
+    "url": "https://myanimelist.net/anime/39622/Bakugan__Battle_Planet",
+    "image": "https://cdn.myanimelist.net/images/anime/1477/100243.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.tv-tokyo.co.jp/anime/bakugan-bp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14709"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21868"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bakugan:_Battle_Planet"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "netflix",
+        "url": "https://www.netflix.com/"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 14709
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:57.000Z",
+    "updatedAt": "2022-05-15T14:35:59.000Z",
+    "checkedAt": "2022-05-15T14:35:59.000Z",
+    "id": 108852,
+    "type": "anime",
+    "title": "Bakugan Battle Planet",
+    "altTitle": [
+      "Bakugan: Battle Planet",
+      "爆丸バトルプラネット"
+    ],
+    "url": "https://anilist.co/anime/108852",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108852-Hbg9Va5sEJQz.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Netflix",
+        "url": "http://www.netflix.com/title/81174992"
+      }
+    ],
+    "malId": 39622,
+    "deletedAt": null
+  }
+}

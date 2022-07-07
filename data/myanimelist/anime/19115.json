@@ -1,0 +1,126 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T22:11:29.000Z",
+  "checkedAt": "2022-05-14T22:11:29.000Z",
+  "id": 19115,
+  "type": "anime",
+  "title": "Giovanni no Shima",
+  "altTitle": [
+    "Giovanni no Shima",
+    "Giovanni's Island",
+    "ジョバンニの島"
+  ],
+  "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+  "image": "https://cdn.myanimelist.net/images/anime/5/56297.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://wwws.warnerbros.co.jp/giovanni/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9921"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15681"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Giovanni's_Island"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281810"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9921,
+  "Pages": {
+    "9anime": {
+      "0x1k": {
+        "createdAt": "2020-10-12T15:48:55.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 703,
+        "identifier": "0x1k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Giovanni no Shima (Dub)",
+        "url": "https://9anime.to/watch/giovanni-no-shima-dub.0x1k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jEkJ9PshGOY/V_fDGW_MliI/AAAAAAABE-Q/zd6PrnHpY-M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19115,
+        "aniId": 19115,
+        "deletedAt": null
+      },
+      "z83p": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11088,
+        "identifier": "z83p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Giovanni no Shima",
+        "url": "https://9anime.to/watch/giovanni-no-shima.z83p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-EohuGGIXNYA/V_fDAo8-rVI/AAAAAAABE-M/v1xSZlo--Q0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19115,
+        "aniId": 19115,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "giovanni-no-shima": {
+        "createdAt": "2021-09-23T20:16:17.000Z",
+        "updatedAt": "2021-09-23T20:45:23.000Z",
+        "checkedAt": null,
+        "id": 38717,
+        "identifier": "giovanni-no-shima",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Giovanni no Shima",
+        "url": "https://gogoanime.pe/category/giovanni-no-shima",
+        "image": "https://gogocdn.net/cover/giovanni-no-shima.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19115,
+        "aniId": 19115,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "19115": {
+        "identifier": "19115",
+        "malId": 19115,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Giovanni no Shima",
+        "url": "https://animixplay.to/anime/19115"
+      }
+    },
+    "YugenAnime": {
+      "6675": {
+        "identifier": "6675",
+        "malId": 19115,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Giovanni no Shima",
+        "url": "https://yugen.to/anime/6675/giovanni-no-shima/"
+      }
+    }
+  }
+}

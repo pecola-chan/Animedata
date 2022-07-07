@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:39:30.000Z",
+  "updatedAt": "2022-05-14T16:22:44.000Z",
+  "checkedAt": "2022-05-14T16:22:44.000Z",
+  "id": 25835,
+  "type": "anime",
+  "title": "Shirobako",
+  "altTitle": [
+    "White Box",
+    "Shirobako",
+    "SHIROBAKO"
+  ],
+  "url": "https://myanimelist.net/anime/25835/Shirobako",
+  "image": "https://cdn.myanimelist.net/images/anime/1918/93511.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://shirobako-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10779"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16189"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shirobako"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10779,
+  "Pages": {
+    "9anime": {
+      "jv63": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5033,
+        "identifier": "jv63",
+        "type": "anime",
+        "page": "9anime",
+        "title": "SHIROBAKO",
+        "url": "https://9anime.to/watch/shirobako.jv63",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-C_IypiInm0I/V5GzBPvzM8I/AAAAAAAAxIw/_hMoeZklM9c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25835,
+        "aniId": 20812,
+        "deletedAt": null
+      },
+      "o2v5": {
+        "createdAt": "2020-10-12T19:02:57.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23858,
+        "identifier": "o2v5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shirobako (Dub)",
+        "url": "https://9anime.to/watch/shirobako-dub.o2v5",
+        "image": "//static.9anime.to/i/cache/images/7/7c/7c6f0660069ae48aa9045e604412fcd1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25835,
+        "aniId": 20812,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shirobako": {
+        "createdAt": "2020-10-12T16:01:52.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20647,
+        "identifier": "shirobako",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shirobako",
+        "url": "https://gogoanime.vc/category/shirobako",
+        "image": "https://cdnimg.xyz/images/fall/Shirobako.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25835,
+        "aniId": 20812,
+        "deletedAt": null
+      },
+      "shirobako-dub": {
+        "createdAt": "2020-10-12T17:47:36.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23646,
+        "identifier": "shirobako-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shirobako (Dub)",
+        "url": "https://gogoanime.vc/category/shirobako-dub",
+        "image": "https://gogocdn.net/cover/shirobako-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 25835,
+        "aniId": 20812,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "637": {
+        "identifier": "637",
+        "malId": 25835,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shirobako",
+        "url": "https://animepahe.com/a/637"
+      }
+    },
+    "AniMixPlay": {
+      "25835": {
+        "identifier": "25835",
+        "malId": 25835,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shirobako",
+        "url": "https://animixplay.to/anime/25835"
+      }
+    },
+    "YugenAnime": {
+      "279": {
+        "identifier": "279",
+        "malId": 25835,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shirobako",
+        "url": "https://yugen.to/anime/279/shirobako/"
+      }
+    }
+  }
+}

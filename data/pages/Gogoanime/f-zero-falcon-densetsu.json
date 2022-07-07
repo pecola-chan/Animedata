@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T16:00:22.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17592,
+  "identifier": "f-zero-falcon-densetsu",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "F-Zero: Falcon Densetsu",
+  "url": "https://gogoanime.vc/category/f-zero-falcon-densetsu",
+  "image": "https://gogocdn.net/cover/f-zero-falcon-densetsu.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3101,
+  "aniId": 3101,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-14T23:12:29.000Z",
+    "checkedAt": "2022-05-14T23:12:29.000Z",
+    "id": 3101,
+    "type": "anime",
+    "title": "F-Zero: Falcon Densetsu",
+    "altTitle": [
+      "F-Zero: The Legend of Falcon",
+      "F-Zero: GP Legend",
+      "F-ZERO ファルコン伝説"
+    ],
+    "url": "https://myanimelist.net/anime/3101/F-Zero__Falcon_Densetsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1569/95419.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/f-zero/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1058"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2875"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/F-Zero#Anime"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1058
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:34.000Z",
+    "updatedAt": "2022-05-15T18:44:23.000Z",
+    "checkedAt": "2022-05-15T18:44:23.000Z",
+    "id": 3101,
+    "type": "anime",
+    "title": "F-ZERO: Falcon Densetsu",
+    "altTitle": [
+      "F-Zero: GP Legend",
+      "F-ZERO ファルコン伝説",
+      "Efu Zero Farukon Densetsu",
+      "F-Zero: The Legend of Falcon"
+    ],
+    "url": "https://anilist.co/anime/3101",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3101-e2ahQRuSCGBV.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3101,
+    "deletedAt": null
+  }
+}

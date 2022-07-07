@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:39:19.000Z",
+  "updatedAt": "2022-05-14T20:56:53.000Z",
+  "checkedAt": "2022-05-14T20:56:53.000Z",
+  "id": 17919,
+  "type": "anime",
+  "title": "Houkago no Pleiades (TV)",
+  "altTitle": [
+    "Afterschool Pleiades",
+    "Hokago no Pleiades",
+    "Wish Upon the Pleiades",
+    "放課後のプレアデス"
+  ],
+  "url": "https://myanimelist.net/anime/17919/Houkago_no_Pleiades_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/5/73434.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sbr-gx.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10958"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16641"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wish_Upon_the_Pleiades"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265663"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/wish-upon-the-pleiades"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10958,
+  "Pages": {
+    "9anime": {
+      "2kj4": {
+        "createdAt": "2020-10-12T15:49:26.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1376,
+        "identifier": "2kj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Houkago no Pleiades",
+        "url": "https://9anime.to/watch/houkago-no-pleiades.2kj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1EOzjeNWZzU/WXoyRmSphnI/AAAAAAAAANg/AFuG00BMArAoTyo0O3NfTbl5DYs3CsSiwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17919,
+        "aniId": 17919,
+        "deletedAt": null
+      },
+      "npxj": {
+        "createdAt": "2020-10-12T15:53:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7192,
+        "identifier": "npxj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Houkago no Pleiades (TV)",
+        "url": "https://9anime.to/watch/houkago-no-pleiades-tv.npxj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2bHlrfVosGU/V7C4yABqvOI/AAAAAAAA3G8/K5INjJvf-zo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 17919,
+        "aniId": 17919,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2047": {
+        "identifier": "2047",
+        "malId": 17919,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Houkago no Pleiades (TV)",
+        "url": "https://animepahe.com/a/2047"
+      }
+    },
+    "AniMixPlay": {
+      "17919": {
+        "identifier": "17919",
+        "malId": 17919,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Houkago no Pleiades (TV)",
+        "url": "https://animixplay.to/anime/17919"
+      }
+    },
+    "YugenAnime": {
+      "3975": {
+        "identifier": "3975",
+        "malId": 17919,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Houkago no Pleiades (TV)",
+        "url": "https://yugen.to/anime/3975/houkago-no-pleiades-tv/"
+      }
+    }
+  }
+}

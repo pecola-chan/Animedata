@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T16:02:15.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21428,
+  "identifier": "whos-left-behind",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Who`s Left Behind?",
+  "url": "https://gogoanime.vc/category/whos-left-behind",
+  "image": "https://cdnimg.xyz/images/anime/W/Whos-Left-Behind.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2753,
+  "aniId": 2753,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:32.000Z",
+    "updatedAt": "2022-05-14T21:50:07.000Z",
+    "checkedAt": "2022-05-14T21:50:07.000Z",
+    "id": 2753,
+    "type": "anime",
+    "title": "Ushiro no Shoumen Daare",
+    "altTitle": [
+      "Kayoko's Diary",
+      "Ushiro no Shomen Daare",
+      "Ushiro no Shomen Dare",
+      "Who's Left Behind?",
+      "うしろの正面だあれ"
+    ],
+    "url": "https://myanimelist.net/anime/2753/Ushiro_no_Shoumen_Daare",
+    "image": "https://cdn.myanimelist.net/images/anime/11/3715.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mushi-pro.co.jp/sakuhinnshokai/sakuhinnshokai-usironoshoumenndaare.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3630"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4735"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%97%E3%82%8D%E3%81%AE%E6%AD%A3%E9%9D%A2%E3%81%A0%E3%81%82%E3%82%8C"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3630
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:26.000Z",
+    "updatedAt": "2022-05-15T16:11:23.000Z",
+    "checkedAt": "2022-05-15T16:11:23.000Z",
+    "id": 2753,
+    "type": "anime",
+    "title": "Ushiro no Shoumen Daare",
+    "altTitle": [
+      "Who's Left Behind?",
+      "うしろの正面だあれ",
+      "Kayoko's Diary",
+      "Ushiro no Shomen Daare",
+      "Ushiro no Shomen Dare"
+    ],
+    "url": "https://anilist.co/anime/2753",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2753-JZjEB7d4XF2e.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2753,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T21:50:06.000Z",
+  "checkedAt": "2022-05-14T21:50:06.000Z",
+  "id": 32483,
+  "type": "anime",
+  "title": "Cheer Danshi!!",
+  "altTitle": [
+    "Cheer Boys!!",
+    "チア男子!!"
+  ],
+  "url": "https://myanimelist.net/anime/32483/Cheer_Danshi",
+  "image": "https://cdn.myanimelist.net/images/anime/7/80360.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cheer-boys.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12019"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18174"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cheer_Boys!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274055"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/cheer-boys"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12019,
+  "Pages": {
+    "9anime": {
+      "7jv8": {
+        "createdAt": "2020-10-12T15:51:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3438,
+        "identifier": "7jv8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cheer Danshi!!",
+        "url": "https://9anime.to/watch/cheer-danshi.7jv8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Z3lKUE5OeJ0/V5gwxDpl3HI/AAAAAAAAyRA/RM5vN8B3M0o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32483,
+        "aniId": 21713,
+        "deletedAt": null
+      },
+      "m3vx": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6372,
+        "identifier": "m3vx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cheer Danshi!! (Dub)",
+        "url": "https://9anime.to/watch/cheer-danshi-dub.m3vx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-9cDmmt7pWOQ/V8y5vCQwknI/AAAAAAAA7X4/kYpRjodyh0g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32483,
+        "aniId": 21713,
+        "deletedAt": null
+      },
+      "2o9p5": {
+        "createdAt": "2022-02-13T13:10:08.000Z",
+        "updatedAt": "2022-02-13T13:39:37.000Z",
+        "checkedAt": null,
+        "id": 40133,
+        "identifier": "2o9p5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cheer Danshi!! OVA (Dub)",
+        "url": "https://9anime.to/watch/cheer-danshi-ova-dub.2o9p5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b1/b10a80450330ef54d8453a0f7104e70d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32483,
+        "aniId": 21713,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cheer-danshi": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17049,
+        "identifier": "cheer-danshi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cheer Danshi!!",
+        "url": "https://gogoanime.vc/category/cheer-danshi",
+        "image": "https://cdnimg.xyz/cover/cheer-danshi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32483,
+        "aniId": 21713,
+        "deletedAt": null
+      },
+      "cheer-danshi-dub": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17050,
+        "identifier": "cheer-danshi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cheer Danshi!! (Dub)",
+        "url": "https://gogoanime.vc/category/cheer-danshi-dub",
+        "image": "https://gogocdn.net/cover/cheer-danshi-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32483,
+        "aniId": 21713,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1119": {
+        "identifier": "1119",
+        "malId": 32483,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cheer Danshi!!",
+        "url": "https://animepahe.com/a/1119"
+      }
+    },
+    "AniMixPlay": {
+      "32483": {
+        "identifier": "32483",
+        "malId": 32483,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cheer Danshi!!",
+        "url": "https://animixplay.to/anime/32483"
+      }
+    },
+    "YugenAnime": {
+      "4571": {
+        "identifier": "4571",
+        "malId": 32483,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cheer Danshi!!",
+        "url": "https://yugen.to/anime/4571/cheer-danshi/"
+      }
+    }
+  }
+}

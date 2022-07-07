@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2022-06-06T18:31:43.000Z",
+  "checkedAt": "2022-06-06T18:31:43.000Z",
+  "id": 23057,
+  "type": "anime",
+  "title": "Yukidoke",
+  "altTitle": [
+    "Yuki Doke",
+    "Thinking and Drawing: Nihon no Shinseiki Art Animation",
+    "Thinking and Drawing: Japanese Art Animation of the New Millennium",
+    "The Thaw",
+    "ゆきどけ"
+  ],
+  "url": "https://myanimelist.net/anime/23057/Yukidoke",
+  "image": "https://cdn.myanimelist.net/images/anime/2/59759.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.imageforum.co.jp/new-anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7972"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7972,
+  "Pages": {
+    "9anime": {
+      "0knk": {
+        "createdAt": "2020-10-12T15:48:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 538,
+        "identifier": "0knk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Thaw",
+        "url": "https://9anime.to/watch/the-thaw.0knk",
+        "image": "https://static.akacdn.ru/files/images/2018/09/7590e327fbb2a84511a8d6bae331153d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23057,
+        "aniId": 21767,
+        "deletedAt": null
+      }
+    }
+  }
+}

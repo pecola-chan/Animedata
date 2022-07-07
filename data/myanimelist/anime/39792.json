@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T09:30:00.000Z",
+  "checkedAt": "2022-05-14T09:30:00.000Z",
+  "id": 39792,
+  "type": "anime",
+  "title": "Eizouken ni wa Te wo Dasu na!",
+  "altTitle": [
+    "Hands off the Motion Pictures Club!",
+    "Keep Your Hands Off Eizouken!",
+    "映像研には手を出すな!"
+  ],
+  "url": "https://myanimelist.net/anime/39792/Eizouken_ni_wa_Te_wo_Dasu_na",
+  "image": "https://cdn.myanimelist.net/images/anime/1680/110451.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://eizouken-anime.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14907"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22561"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eizouken_ni_wa_Te_o_Dasu_na!#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278928"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14907,
+  "Pages": {
+    "9anime": {
+      "8rxn": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4016,
+        "identifier": "8rxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eizouken ni wa Te wo Dasu na!",
+        "url": "https://9anime.to/watch/eizouken-ni-wa-te-wo-dasu-na.8rxn",
+        "image": "https://static.akacdn.ru/files/images/2019/05/0c042e3d983da349d7159f28b6630482.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39792,
+        "aniId": 109298,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "eizouken-ni-wa-te-wo-dasu-na": {
+        "createdAt": "2020-10-12T16:00:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17542,
+        "identifier": "eizouken-ni-wa-te-wo-dasu-na",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eizouken ni wa Te wo Dasu na!",
+        "url": "https://gogoanime.vc/category/eizouken-ni-wa-te-wo-dasu-na",
+        "image": "https://cdnimg.xyz/cover/eizouken-ni-wa-te-wo-dasu-na.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39792,
+        "aniId": 109298,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3658": {
+        "identifier": "3658",
+        "malId": 39792,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Eizouken ni wa Te wo Dasu na!",
+        "url": "https://animepahe.com/a/3658"
+      }
+    },
+    "AniMixPlay": {
+      "39792": {
+        "identifier": "39792",
+        "malId": 39792,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Eizouken ni wa Te wo Dasu na!",
+        "url": "https://animixplay.to/anime/39792"
+      }
+    },
+    "YugenAnime": {
+      "6898": {
+        "identifier": "6898",
+        "malId": 39792,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Eizouken ni wa Te wo Dasu na!",
+        "url": "https://yugen.to/anime/6898/eizouken-ni-wa-te-wo-dasu-na/"
+      }
+    }
+  }
+}

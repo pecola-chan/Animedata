@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T09:41:02.000Z",
+  "checkedAt": "2022-05-14T09:41:02.000Z",
+  "id": 32526,
+  "type": "anime",
+  "title": "Love Live! Sunshine!!",
+  "altTitle": [
+    "Love Live! School Idol Project: Sunshine!!",
+    "Love Live! Sunshine!!",
+    "ラブライブ！サンシャイン!!"
+  ],
+  "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine",
+  "image": "https://cdn.myanimelist.net/images/anime/8/80791.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.lovelive-anime.jp/uranohoshi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11878"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17985"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Love_Live!_Sunshine!!_(TV_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270733"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/love-live-sunshine"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11878,
+  "Pages": {
+    "9anime": {
+      "526v": {
+        "createdAt": "2020-10-12T15:50:22.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2481,
+        "identifier": "526v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Live! Sunshine!!",
+        "url": "https://9anime.to/watch/love-live-sunshine.526v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZC5-OMmPqjk/V5bYIqVWEkI/AAAAAAAAyCw/g3vwE9bNY7A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32526,
+        "aniId": 21584,
+        "deletedAt": null
+      },
+      "910x": {
+        "createdAt": "2020-10-12T15:51:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4144,
+        "identifier": "910x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Live! Sunshine!! (Dub)",
+        "url": "https://9anime.to/watch/love-live-sunshine-dub.910x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RXBvNtxf9jg/V8weQXhEUNI/AAAAAAAA7Vw/but0My3yACs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32526,
+        "aniId": 21584,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "love-live-sunshine": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19147,
+        "identifier": "love-live-sunshine",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Live! Sunshine!!",
+        "url": "https://gogoanime.vc/category/love-live-sunshine",
+        "image": "https://images.gogoanime.tv/cover/love-live-sunshine.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32526,
+        "aniId": 21584,
+        "deletedAt": null
+      },
+      "love-live-sunshine-dub": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19149,
+        "identifier": "love-live-sunshine-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Live! Sunshine!! (Dub)",
+        "url": "https://gogoanime.vc/category/love-live-sunshine-dub",
+        "image": "https://cdnimg.xyz/cover/love-live-sunshine-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32526,
+        "aniId": 21584,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1110": {
+        "identifier": "1110",
+        "malId": 32526,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Love Live! Sunshine!!",
+        "url": "https://animepahe.com/a/1110"
+      }
+    },
+    "AniMixPlay": {
+      "32526": {
+        "identifier": "32526",
+        "malId": 32526,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love Live! Sunshine!!",
+        "url": "https://animixplay.to/anime/32526"
+      }
+    },
+    "YugenAnime": {
+      "5405": {
+        "identifier": "5405",
+        "malId": 32526,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love Live! Sunshine!!",
+        "url": "https://yugen.to/anime/5405/love-live-sunshine/"
+      }
+    }
+  }
+}

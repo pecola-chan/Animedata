@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T20:34:30.000Z",
+  "checkedAt": "2022-05-14T20:34:30.000Z",
+  "id": 398,
+  "type": "anime",
+  "title": "Seikai no Senki III",
+  "altTitle": [
+    "Banner of the Stars III",
+    "Battle Flag of the Stars III",
+    "星界の戦旗 III"
+  ],
+  "url": "https://myanimelist.net/anime/398/Seikai_no_Senki_III",
+  "image": "https://cdn.myanimelist.net/images/anime/11/2755.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/seikai/senki3/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2673"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4899"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Banner_of_the_Stars"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2673,
+  "Pages": {
+    "9anime": {
+      "6np0": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3090,
+        "identifier": "6np0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikai no Senki III",
+        "url": "https://9anime.to/watch/seikai-no-senki-iii.6np0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CbRqpV0L9l0/WJdRer_9NwI/AAAAAAABb8w/6QOhbpX_mEs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 398,
+        "aniId": 398,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seikai-no-senki-iii": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20460,
+        "identifier": "seikai-no-senki-iii",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seikai no Senki III",
+        "url": "https://gogoanime.vc/category/seikai-no-senki-iii",
+        "image": "https://cdnimg.xyz/cover/seikai-no-senki-iii.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 398,
+        "aniId": 398,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "398": {
+        "identifier": "398",
+        "malId": 398,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikai no Senki III",
+        "url": "https://animixplay.to/anime/398"
+      }
+    },
+    "YugenAnime": {
+      "5819": {
+        "identifier": "5819",
+        "malId": 398,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seikai no Senki III",
+        "url": "https://yugen.to/anime/5819/seikai-no-senki-iii/"
+      }
+    }
+  }
+}

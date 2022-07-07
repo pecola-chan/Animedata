@@ -1,0 +1,164 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T19:00:08.000Z",
+  "checkedAt": "2022-05-14T19:00:08.000Z",
+  "id": 597,
+  "type": "anime",
+  "title": "Neko no Ongaeshi",
+  "altTitle": [
+    "The Cat's Repayment",
+    "The Cat Returns",
+    "猫の恩返し"
+  ],
+  "url": "https://myanimelist.net/anime/597/Neko_no_Ongaeshi",
+  "image": "https://cdn.myanimelist.net/images/anime/1/597.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghibli.jp/works/baron/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=679"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=868"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Cat_Returns"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 679,
+  "Pages": {
+    "9anime": {
+      "kw04": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5633,
+        "identifier": "kw04",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neko no Ongaeshi",
+        "url": "https://9anime.to/watch/neko-no-ongaeshi.kw04",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-HHpCLs8yiqE/V5IqAItruxI/AAAAAAAAxSg/4LPLixN2v4A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 597,
+        "aniId": 597,
+        "deletedAt": null
+      },
+      "nmkl": {
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7135,
+        "identifier": "nmkl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nagagutsu wo Haita Neko (Dub)",
+        "url": "https://9anime.to/watch/nagagutsu-wo-haita-neko-dub.nmkl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6GTdjetNTnQ/WKgELYCeViI/AAAAAAABdOA/AeJFmfUkBsA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 597,
+        "aniId": 597,
+        "deletedAt": null
+      },
+      "v7pv": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9281,
+        "identifier": "v7pv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Neko no Ongaeshi (Dub)",
+        "url": "https://9anime.to/watch/neko-no-ongaeshi-dub.v7pv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-V9JtWvNXTuw/V9Ym-xI4oxI/AAAAAAAA9dE/STl2hsNpryE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 597,
+        "aniId": 597,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "the-cat-returns": {
+        "createdAt": "2020-10-12T16:02:03.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21036,
+        "identifier": "the-cat-returns",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Cat Returns",
+        "url": "https://gogoanime.vc/category/the-cat-returns",
+        "image": "https://gogocdn.net/images/anime/T/The-Cat-Returns.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 597,
+        "aniId": 597,
+        "deletedAt": null
+      },
+      "the-cat-returns-dub": {
+        "createdAt": "2020-10-12T16:02:03.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21037,
+        "identifier": "the-cat-returns-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Cat Returns (Dub)",
+        "url": "https://gogoanime.vc/category/the-cat-returns-dub",
+        "image": "https://cdnimg.xyz/cover/the-cat-returns-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 597,
+        "aniId": 597,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1302": {
+        "identifier": "1302",
+        "malId": 597,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Neko no Ongaeshi",
+        "url": "https://animepahe.com/a/1302"
+      }
+    },
+    "AniMixPlay": {
+      "597": {
+        "identifier": "597",
+        "malId": 597,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Neko no Ongaeshi",
+        "url": "https://animixplay.to/anime/597"
+      }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T18:45:17.000Z",
+  "checkedAt": "2022-05-14T18:45:17.000Z",
+  "id": 40332,
+  "type": "anime",
+  "title": "Kyochuu Rettou Movie",
+  "altTitle": [
+    "The Island of Giant Insects Movie",
+    "劇場版 巨蟲列島"
+  ],
+  "url": "https://myanimelist.net/anime/40332/Kyochuu_Rettou_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1721/119281.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kyochu-retto.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15064"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22484"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%A8%E8%9F%B2%E5%88%97%E5%B3%B6#%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15064,
+  "Pages": {
+    "9anime": {
+      "6pmp": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3132,
+        "identifier": "6pmp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Island of Giant Insects Movie",
+        "url": "https://9anime.to/watch/the-island-of-giant-insects-movie.6pmp",
+        "image": "https://static.akacdn.ru/files/images/2020/01/1226a8029913d7e171f5f0d6ff85556b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40332,
+        "aniId": 107880,
+        "deletedAt": null
+      },
+      "o10y": {
+        "createdAt": "2021-02-28T04:46:33.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35326,
+        "identifier": "o10y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyochuu Rettou Movie (Dub)",
+        "url": "https://9anime.to/watch/the-island-of-giant-insects-movie-dub.o10y",
+        "image": "//static.bunnycdn.ru/i/cache/images/0/07/07846a0cd6712157dea404fc05be9b4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40332,
+        "aniId": 107880,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kyochuu-rettou-movie": {
+        "createdAt": "2020-10-12T16:01:05.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19032,
+        "identifier": "kyochuu-rettou-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyochuu Rettou Movie",
+        "url": "https://gogoanime.vc/category/kyochuu-rettou-movie",
+        "image": "https://cdnimg.xyz/cover/kyochuu-rettou-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40332,
+        "aniId": 107880,
+        "deletedAt": null
+      },
+      "kyochuu-rettou-movie-dub": {
+        "createdAt": "2021-06-20T10:50:51.000Z",
+        "updatedAt": "2021-06-20T11:20:49.000Z",
+        "checkedAt": null,
+        "id": 37468,
+        "identifier": "kyochuu-rettou-movie-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyochuu Rettou Movie (Dub)",
+        "url": "https://gogoanime.vc/category/kyochuu-rettou-movie-dub",
+        "image": "https://gogocdn.net/cover/kyochuu-rettou-movie-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40332,
+        "aniId": 107880,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3717": {
+        "identifier": "3717",
+        "malId": 40332,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyochuu Rettou Movie",
+        "url": "https://animepahe.com/a/3717"
+      }
+    },
+    "AniMixPlay": {
+      "40332": {
+        "identifier": "40332",
+        "malId": 40332,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyochuu Rettou Movie",
+        "url": "https://animixplay.to/anime/40332"
+      }
+    },
+    "YugenAnime": {
+      "5859": {
+        "identifier": "5859",
+        "malId": 40332,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyochuu Rettou Movie",
+        "url": "https://yugen.to/anime/5859/kyochuu-rettou-movie/"
+      }
+    }
+  }
+}

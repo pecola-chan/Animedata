@@ -1,0 +1,62 @@
+{
+  "createdAt": "2021-08-10T16:09:36.000Z",
+  "updatedAt": "2022-05-13T20:06:13.000Z",
+  "checkedAt": "2022-05-13T20:06:13.000Z",
+  "id": 49559,
+  "type": "anime",
+  "title": "Quanzhi Gaoshou 3",
+  "altTitle": [
+    "The King's Avatar 3",
+    "全职高手 第3季"
+  ],
+  "url": "https://myanimelist.net/anime/49559/Quanzhi_Gaoshou_3",
+  "image": "https://cdn.myanimelist.net/images/anime/1352/116981.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/t/mzc00200p49magn.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B3/58254652"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "yq131": {
+        "createdAt": "2021-10-07T02:02:49.000Z",
+        "updatedAt": "2021-10-07T02:32:19.000Z",
+        "checkedAt": null,
+        "id": 38907,
+        "identifier": "yq131",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Quanzhi Gaoshou 3",
+        "url": "https://9anime.to/watch/the-kings-avatar-3.yq131",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a2/a266b402a353cc2d5fefe235e7f12039.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49559,
+        "aniId": 137735,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "49559": {
+        "identifier": "49559",
+        "malId": 49559,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Quanzhi Gaoshou 3",
+        "url": "https://animixplay.to/anime/49559"
+      }
+    }
+  }
+}

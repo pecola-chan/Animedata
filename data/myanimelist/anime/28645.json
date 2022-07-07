@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2022-06-09T20:56:10.000Z",
+  "checkedAt": "2022-06-09T20:56:10.000Z",
+  "id": 28645,
+  "type": "anime",
+  "title": "Haru no Shikumi",
+  "altTitle": [
+    "The Mechanism of Spring",
+    "春のしくみ"
+  ],
+  "url": "https://myanimelist.net/anime/28645/Haru_no_Shikumi",
+  "image": "https://cdn.myanimelist.net/images/anime/6/69159.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kankaku.jp/independent-jp/mechanism.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11379"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11379,
+  "Pages": {
+    "9anime": {
+      "75p7": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3359,
+        "identifier": "75p7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Mechanism of Spring",
+        "url": "https://9anime.to/watch/the-mechanism-of-spring.75p7",
+        "image": "http://static.akacdn.ru/static/images/2018/02/75b28f8d59ac1b34071a70d43db01ea2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28645,
+        "aniId": 103450,
+        "deletedAt": null
+      }
+    }
+  }
+}

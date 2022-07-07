@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2022-05-14T19:30:42.000Z",
+  "checkedAt": "2022-05-14T19:30:42.000Z",
+  "id": 4053,
+  "type": "anime",
+  "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+  "altTitle": [
+    "Prince of Tennis: The National Tournament Finals",
+    "テニスの王子様 Original Video Animation 全国大会編 Final"
+  ],
+  "url": "https://myanimelist.net/anime/4053/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen_-_Final",
+  "image": "https://cdn.myanimelist.net/images/anime/9/7525.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tenipuri.com/main.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5750"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10057"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Prince_of_Tennis"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5750,
+  "Pages": {
+    "9anime": {
+      "o604": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7405,
+        "identifier": "o604",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Prince of Tennis: The National Tournament Finals",
+        "url": "https://9anime.to/watch/prince-of-tennis-the-national-tournament-finals.o604",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-dfHx31JQGHU/WGP0Lux9lUI/AAAAAAABVWg/YiiUfPqDDoE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4053,
+        "aniId": 4053,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4053": {
+        "identifier": "4053",
+        "malId": 4053,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+        "url": "https://animixplay.to/anime/4053"
+      }
+    }
+  }
+}

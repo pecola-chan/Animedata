@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-14T22:11:42.000Z",
+  "checkedAt": "2022-05-14T22:11:42.000Z",
+  "id": 31994,
+  "type": "anime",
+  "title": "Yami Shibai 3",
+  "altTitle": [
+    "Yamishibai: Japanese Ghost Stories Third Season",
+    "Theater of Darkness 3rd Season",
+    "Japanese Ghost Stories 3",
+    "Theatre of Darkness: Yamishibai 3",
+    "闇芝居 3期"
+  ],
+  "url": "https://myanimelist.net/anime/31994/Yami_Shibai_3",
+  "image": "https://cdn.myanimelist.net/images/anime/5/78074.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11748"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17778"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yamishibai:_Japanese_Ghost_Stories"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255589"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11748,
+  "Pages": {
+    "9anime": {
+      "yq0": {
+        "createdAt": "2020-10-12T15:56:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10808,
+        "identifier": "yq0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yami Shibai 3rd Season",
+        "url": "https://9anime.to/watch/yami-shibai-3rd-season.yq0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-F1_6lnu-lzY/V2iqhhTsqQI/AAAAAAAApkA/O1oFiK7uEc8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31994,
+        "aniId": 21473,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yami-shibai-3": {
+        "createdAt": "2020-10-12T16:02:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21517,
+        "identifier": "yami-shibai-3",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yami Shibai 3",
+        "url": "https://gogoanime.vc/category/yami-shibai-3",
+        "image": "https://cdnimg.xyz/images/upload/76961.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31994,
+        "aniId": 21473,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "648": {
+        "identifier": "648",
+        "malId": 31994,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yami Shibai 3",
+        "url": "https://animepahe.com/a/648"
+      }
+    },
+    "AniMixPlay": {
+      "31994": {
+        "identifier": "31994",
+        "malId": 31994,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yami Shibai 3",
+        "url": "https://animixplay.to/anime/31994"
+      }
+    },
+    "YugenAnime": {
+      "2045": {
+        "identifier": "2045",
+        "malId": 31994,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yami Shibai 3",
+        "url": "https://yugen.to/anime/2045/yami-shibai-3/"
+      }
+    }
+  }
+}

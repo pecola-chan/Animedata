@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-14T18:37:30.000Z",
+  "checkedAt": "2022-05-14T18:37:30.000Z",
+  "id": 12929,
+  "type": "anime",
+  "title": "Saint Seiya Omega",
+  "altTitle": [
+    "Saint Seiya Ω",
+    "聖闘士星矢Ω"
+  ],
+  "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+  "image": "https://cdn.myanimelist.net/images/anime/8/76052.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/seiya/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8963"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14016"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Seiya"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-244002"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8963,
+  "Pages": {
+    "9anime": {
+      "wn7": {
+        "createdAt": "2020-10-12T15:56:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9829,
+        "identifier": "wn7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint Seiya Omega",
+        "url": "https://9anime.to/watch/saint-seiya-omega.wn7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-E0Pw1cUmXZE/V3h171QmtqI/AAAAAAAAs1I/gCKAHA9G8Ww/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12929,
+        "aniId": 12929,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saint-seiya-omega": {
+        "createdAt": "2020-10-30T21:10:43.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28239,
+        "identifier": "saint-seiya-omega",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saint Seiya Omega",
+        "url": "https://gogoanime.vc/category/saint-seiya-omega",
+        "image": "https://gogocdn.net/images/anime/Saint-Seiya-Omega.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12929,
+        "aniId": 12929,
+        "deletedAt": null
+      },
+      "saint-seiya-dub": {
+        "createdAt": "2021-04-14T16:45:40.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36440,
+        "identifier": "saint-seiya-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saint Seiya (Dub)",
+        "url": "https://gogoanime.vc/category/saint-seiya-dub",
+        "image": "https://gogocdn.net/cover/saint-seiya-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12929,
+        "aniId": 12929,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "12929": {
+        "identifier": "12929",
+        "malId": 12929,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint Seiya Omega",
+        "url": "https://animixplay.to/anime/12929"
+      }
+    },
+    "YugenAnime": {
+      "2260": {
+        "identifier": "2260",
+        "malId": 12929,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Saint Seiya Omega",
+        "url": "https://yugen.to/anime/2260/saint-seiya-omega/"
+      }
+    }
+  }
+}

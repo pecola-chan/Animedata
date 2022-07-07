@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T17:26:22.000Z",
+  "checkedAt": "2022-05-14T17:26:22.000Z",
+  "id": 32979,
+  "type": "anime",
+  "title": "Flip Flappers",
+  "altTitle": [
+    "Flip Flappers",
+    "フリップフラッパーズ"
+  ],
+  "url": "https://myanimelist.net/anime/32979/Flip_Flappers",
+  "image": "https://cdn.myanimelist.net/images/anime/4/82292.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.flipflappers.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12007"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18177"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flip_Flappers"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/flip-flappers"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12007,
+  "Pages": {
+    "9anime": {
+      "2584": {
+        "createdAt": "2020-10-12T15:48:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 58,
+        "identifier": "2584",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Flip Flappers (Dub)",
+        "url": "https://9anime.to/watch/flip-flappers-dub.2584",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/0ea2c377879dba37fcab754b3cb8a7bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32979,
+        "aniId": 21714,
+        "deletedAt": null
+      },
+      "8yj3": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4093,
+        "identifier": "8yj3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Flip Flappers",
+        "url": "https://9anime.to/watch/flip-flappers.8yj3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aq4jbBbuKio/V-plwoz3uII/AAAAAAABBjE/8kYsSy7zrtA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32979,
+        "aniId": 21714,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "flip-flappers": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17681,
+        "identifier": "flip-flappers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Flip Flappers",
+        "url": "https://gogoanime.vc/category/flip-flappers",
+        "image": "https://cdnimg.xyz/cover/flip-flappers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32979,
+        "aniId": 21714,
+        "deletedAt": null
+      },
+      "flip-flappers-dub": {
+        "createdAt": "2021-02-18T16:13:43.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34909,
+        "identifier": "flip-flappers-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Flip Flappers (Dub)",
+        "url": "https://gogoanime.vc/category/flip-flappers-dub",
+        "image": "https://gogocdn.net/cover/flip-flappers-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32979,
+        "aniId": 21714,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1378": {
+        "identifier": "1378",
+        "malId": 32979,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Flip Flappers",
+        "url": "https://animepahe.com/a/1378"
+      }
+    },
+    "AniMixPlay": {
+      "32979": {
+        "identifier": "32979",
+        "malId": 32979,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Flip Flappers",
+        "url": "https://animixplay.to/anime/32979"
+      }
+    },
+    "YugenAnime": {
+      "409": {
+        "identifier": "409",
+        "malId": 32979,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Flip Flappers",
+        "url": "https://yugen.to/anime/409/flip-flappers/"
+      }
+    }
+  }
+}

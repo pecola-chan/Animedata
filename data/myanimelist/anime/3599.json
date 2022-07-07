@@ -1,0 +1,132 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-15T07:23:09.000Z",
+  "checkedAt": "2022-05-15T07:23:09.000Z",
+  "id": 3599,
+  "type": "anime",
+  "title": "Shin Kujakuou",
+  "altTitle": [
+    "Spirit Warrior: Peacock King",
+    "Spirit Warrior",
+    "真・孔雀王"
+  ],
+  "url": "https://myanimelist.net/anime/3599/Shin_Kujakuou",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82865.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=975"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=711"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 975,
+  "Pages": {
+    "9anime": {
+      "rvop": {
+        "createdAt": "2020-10-12T15:55:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9028,
+        "identifier": "rvop",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Kujakuou",
+        "url": "https://9anime.to/watch/shin-kujakuou.rvop",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-PN9brHXggBc/WT3t8d37ChI/AAAAAAAAAJE/CLqAjngxHl4k7GmbyFVwRkomAOf9AGjHQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3599,
+        "aniId": 3599,
+        "deletedAt": null
+      },
+      "vzq6": {
+        "createdAt": "2020-10-12T15:56:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9561,
+        "identifier": "vzq6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Kujakuou (Dub)",
+        "url": "https://9anime.to/watch/shin-kujakuou-dub.vzq6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FMVlrsfDL6c/WT3uAvwR_II/AAAAAAAAAJI/JuFzF2aB3Ko2nFKU0VGPVVgYdOrkON8vACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3599,
+        "aniId": 3599,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shin-kujakuou": {
+        "createdAt": "2021-05-05T04:02:03.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36876,
+        "identifier": "shin-kujakuou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shin Kujakuou",
+        "url": "https://gogoanime.vc/category/shin-kujakuou",
+        "image": "https://gogocdn.net/cover/shin-kujakuou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3599,
+        "aniId": 3599,
+        "deletedAt": null
+      },
+      "shin-kujakuou-dub": {
+        "createdAt": "2021-05-05T06:02:02.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36878,
+        "identifier": "shin-kujakuou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shin Kujakuou (Dub)",
+        "url": "https://gogoanime.vc/category/shin-kujakuou-dub",
+        "image": "https://gogocdn.net/cover/shin-kujakuou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3599,
+        "aniId": 3599,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3599": {
+        "identifier": "3599",
+        "malId": 3599,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shin Kujakuou",
+        "url": "https://animixplay.to/anime/3599"
+      }
+    },
+    "YugenAnime": {
+      "7640": {
+        "identifier": "7640",
+        "malId": 3599,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shin Kujakuou",
+        "url": "https://yugen.to/anime/7640/shin-kujakuou/"
+      }
+    }
+  }
+}

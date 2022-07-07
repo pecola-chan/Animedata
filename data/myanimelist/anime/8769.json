@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T16:16:19.000Z",
+  "checkedAt": "2022-05-14T16:16:19.000Z",
+  "id": 8769,
+  "type": "anime",
+  "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+  "altTitle": [
+    "My Little Sister Can't Be This Cute",
+    "OreImo",
+    "俺の妹がこんなに可愛いわけがない"
+  ],
+  "url": "https://myanimelist.net/anime/8769/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai",
+  "image": "https://cdn.myanimelist.net/images/anime/8/24875.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oreimo-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7525"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11512"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ore_no_Imōto_ga_Konna_ni_Kawaii_Wake_ga_Nai"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-236074"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/oreimo"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7525,
+  "Pages": {
+    "9anime": {
+      "k66": {
+        "createdAt": "2020-10-12T15:52:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5311,
+        "identifier": "k66",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "url": "https://9anime.to/watch/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai.k66",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lAgVl4n-QcE/V35t3kNqubI/AAAAAAAAt6U/qKXr60Z3ep0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8769,
+        "aniId": 8769,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oreimo": {
+        "createdAt": "2020-10-12T16:01:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19928,
+        "identifier": "oreimo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oreimo",
+        "url": "https://gogoanime.vc/category/oreimo",
+        "image": "https://cdnimg.xyz/images/anime/O/oreimo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8769,
+        "aniId": 8769,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "76": {
+        "identifier": "76",
+        "malId": 8769,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "url": "https://animepahe.com/a/76"
+      }
+    },
+    "AniMixPlay": {
+      "8769": {
+        "identifier": "8769",
+        "malId": 8769,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "url": "https://animixplay.to/anime/8769"
+      }
+    },
+    "YugenAnime": {
+      "1328": {
+        "identifier": "1328",
+        "malId": 8769,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "url": "https://yugen.to/anime/1328/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-qy99/"
+      }
+    }
+  }
+}

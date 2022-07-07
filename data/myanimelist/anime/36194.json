@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-15T01:49:11.000Z",
+  "checkedAt": "2022-05-15T01:49:11.000Z",
+  "id": 36194,
+  "type": "anime",
+  "title": "Starship Troopers: Red Planet",
+  "altTitle": [
+    "Starship Troopers: Kasei no Uragirimono",
+    "Starship Troopers: Traitor of Mars",
+    "スターシップ・トゥルーパーズ レッドプラネット"
+  ],
+  "url": "https://myanimelist.net/anime/36194/Starship_Troopers__Red_Planet",
+  "image": "https://cdn.myanimelist.net/images/anime/10/89860.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sst-mars.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13410"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Starship_Troopers:_Traitor_of_Mars"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13410,
+  "Pages": {
+    "9anime": {
+      "okxy": {
+        "createdAt": "2020-10-12T15:54:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7508,
+        "identifier": "okxy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Starship Troopers: Traitor of Mars (Dub)",
+        "url": "https://9anime.to/watch/starship-troopers-traitor-of-mars.okxy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yFDnggCKMl0/WkkmgT74ZII/AAAAAAAACbc/oTiHE40cE9ESeLHTKIxnQG-2PBL-E1NiwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36194,
+        "aniId": 101913,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36194": {
+        "identifier": "36194",
+        "malId": 36194,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Starship Troopers: Red Planet",
+        "url": "https://animixplay.to/anime/36194"
+      }
+    },
+    "YugenAnime": {
+      "9888": {
+        "identifier": "9888",
+        "malId": 36194,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Starship Troopers: Red Planet",
+        "url": "https://yugen.to/anime/9888/starship-troopers-red-planet/"
+      }
+    }
+  }
+}

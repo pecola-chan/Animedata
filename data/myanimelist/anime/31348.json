@@ -1,0 +1,48 @@
+{
+  "createdAt": "2021-02-19T06:04:06.000Z",
+  "updatedAt": "2022-06-13T22:10:22.000Z",
+  "checkedAt": "2022-06-13T22:10:22.000Z",
+  "id": 31348,
+  "type": "anime",
+  "title": "Xue Haizi",
+  "altTitle": [
+    "The Snow Child",
+    "雪孩子"
+  ],
+  "url": "https://myanimelist.net/anime/31348/Xue_Haizi",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75394.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://zh.wikipedia.org/wiki/%E9%9B%AA%E5%AD%A9%E5%AD%90"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "xwrz": {
+        "createdAt": "2021-02-19T06:07:37.000Z",
+        "updatedAt": "2022-06-13T22:31:39.000Z",
+        "checkedAt": "2022-06-13T22:31:39.000Z",
+        "id": 35025,
+        "identifier": "xwrz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Xue Haizi",
+        "url": "https://9anime.to/watch/xue-haizi.xwrz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/40/406fef6940ac888a8d07d9b283f5b32a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31348,
+        "aniId": 123447,
+        "deletedAt": null
+      }
+    }
+  }
+}

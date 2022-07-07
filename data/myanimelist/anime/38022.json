@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T19:32:29.000Z",
+  "checkedAt": "2022-05-14T19:32:29.000Z",
+  "id": 38022,
+  "type": "anime",
+  "title": "Monster Strike The Animation",
+  "altTitle": [
+    "Monster Strike the Animation",
+    "モンスターストライク The Animation"
+  ],
+  "url": "https://myanimelist.net/anime/38022/Monster_Strike_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/1415/101689.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.monster-strike.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14183"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22264"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monster_Strike_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271995"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14183,
+  "Pages": {
+    "9anime": {
+      "800ov": {
+        "createdAt": "2022-01-15T14:12:16.000Z",
+        "updatedAt": "2022-01-15T14:41:45.000Z",
+        "checkedAt": null,
+        "id": 39830,
+        "identifier": "800ov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Monster Strike The Animation",
+        "url": "https://9anime.to/watch/monster-strike-the-animation.800ov",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b7/b709a18892d7d5a35abfe706e6f62e05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38022,
+        "aniId": 104188,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "38022": {
+        "identifier": "38022",
+        "malId": 38022,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Monster Strike The Animation",
+        "url": "https://animixplay.to/anime/38022"
+      }
+    },
+    "YugenAnime": {
+      "4099": {
+        "identifier": "4099",
+        "malId": 38022,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Monster Strike The Animation",
+        "url": "https://yugen.to/anime/4099/monster-strike-the-animation/"
+      }
+    }
+  }
+}

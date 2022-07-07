@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-14T20:24:41.000Z",
+  "checkedAt": "2022-05-14T20:24:41.000Z",
+  "id": 2057,
+  "type": "anime",
+  "title": "Ojousama Sousamou",
+  "altTitle": [
+    "Ojou-sama Sousamou",
+    "Ojousama Sousamo",
+    "Debutante Detective Corps",
+    "お嬢様捜査網"
+  ],
+  "url": "https://myanimelist.net/anime/2057/Ojousama_Sousamou",
+  "image": "https://cdn.myanimelist.net/images/anime/1556/97264.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1592"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=134"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Debutante_Detective_Corps"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1592,
+  "Pages": {
+    "9anime": {
+      "4697": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 147,
+        "identifier": "4697",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Debutante Detective Corps (Dub)",
+        "url": "https://9anime.to/watch/debutante-detective-corps-dub.4697",
+        "image": "https://static.akacdn.ru/files/images/2018/03/468dff435a7b91ce787406cd04a4f186.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2057,
+        "aniId": 2057,
+        "deletedAt": null
+      },
+      "36yy": {
+        "createdAt": "2021-01-18T07:32:10.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33853,
+        "identifier": "36yy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ojousama Sousamou",
+        "url": "https://9anime.to/watch/debutante-detective-corps.36yy",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/03/c41f30649e861a1db08fb782adffe8e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2057,
+        "aniId": 2057,
+        "deletedAt": null
+      }
+    }
+  }
+}

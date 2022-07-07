@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-15T16:53:16.000Z",
+  "checkedAt": "2022-05-15T16:53:16.000Z",
+  "id": 34888,
+  "type": "anime",
+  "title": "Makeruna!! Aku no Gundan!",
+  "altTitle": [
+    "Makeru na!! Aku no Gundan!",
+    "まけるな!! あくのぐんだん！"
+  ],
+  "url": "https://myanimelist.net/anime/34888/Makeruna_Aku_no_Gundan",
+  "image": "https://cdn.myanimelist.net/images/anime/8/84731.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://akunogundan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12804"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21584"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272931"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12804,
+  "Pages": {
+    "9anime": {
+      "l5p6": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5866,
+        "identifier": "l5p6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Makeruna!! Aku no Gundan!",
+        "url": "https://9anime.to/watch/makeruna-aku-no-gundan.l5p6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-St-1f4Agvio/WNXoFO4GLtI/AAAAAAABgfE/Edao3nQj2lw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34888,
+        "aniId": 98252,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2095": {
+        "identifier": "2095",
+        "malId": 34888,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Makeruna!! Aku no Gundan!",
+        "url": "https://animepahe.com/a/2095"
+      }
+    },
+    "AniMixPlay": {
+      "34888": {
+        "identifier": "34888",
+        "malId": 34888,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Makeruna!! Aku no Gundan!",
+        "url": "https://animixplay.to/anime/34888"
+      }
+    },
+    "YugenAnime": {
+      "4956": {
+        "identifier": "4956",
+        "malId": 34888,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Makeruna!! Aku no Gundan!",
+        "url": "https://yugen.to/anime/4956/makeruna-aku-no-gundan/"
+      }
+    }
+  }
+}

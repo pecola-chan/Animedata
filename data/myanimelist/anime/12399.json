@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-06-01T09:02:22.000Z",
+  "checkedAt": "2022-06-01T09:02:22.000Z",
+  "id": 12399,
+  "type": "anime",
+  "title": "Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold",
+  "altTitle": [
+    "Samurai Gold",
+    "Tooyama Sakura Uchuu Chou: Yatsu no Na wa Gold",
+    "遠山桜宇宙帖・奴の名はゴールド"
+  ],
+  "url": "https://myanimelist.net/anime/12399/Touyama_Sakura_Uchuu_Chou__Yatsu_no_Na_wa_Gold",
+  "image": "https://cdn.myanimelist.net/images/anime/1411/97692.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tokuma.co.jp/eizo/shosai/17_toyama.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2411"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4036"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%81%A0%E5%B1%B1%E6%A1%9C%E5%AE%87%E5%AE%99%E5%B8%96_%E5%A5%B4%E3%81%AE%E5%90%8D%E3%81%AF%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2411,
+  "Pages": {
+    "9anime": {
+      "25ll": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1286,
+        "identifier": "25ll",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold",
+        "url": "https://9anime.to/watch/touyama-sakura-uchuu-chou-yatsu-no-na-wa-gold.25ll",
+        "image": "https://static.akacdn.ru/files/images/2018/03/0411597cfdd8279b1ae0f39cb0b21894.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12399,
+        "aniId": 12399,
+        "deletedAt": null
+      }
+    }
+  }
+}

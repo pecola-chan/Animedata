@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-15T01:12:41.000Z",
+  "checkedAt": "2022-05-15T01:12:41.000Z",
+  "id": 32383,
+  "type": "anime",
+  "title": "Osomatsu-san Short Film Series",
+  "altTitle": [
+    "Mr. Osomatsu Short Film Series",
+    "おそ松さん ショートフィルムシリーズ"
+  ],
+  "url": "https://myanimelist.net/anime/32383/Osomatsu-san_Short_Film_Series",
+  "image": "https://cdn.myanimelist.net/images/anime/9/78354.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://osomatsusan.com/discography/package.php"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "n72l": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6998,
+        "identifier": "n72l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mr. Osomatsu Short Film Series",
+        "url": "https://9anime.to/watch/mr-osomatsu-short-film-series.n72l",
+        "image": "https://static.akacdn.ru/static/images/2018/04/f2d10e91da1ee28b40ed7b691080f030.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32383,
+        "aniId": 21591,
+        "deletedAt": null
+      }
+    }
+  }
+}

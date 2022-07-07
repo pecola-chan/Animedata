@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-13T23:20:20.000Z",
+  "checkedAt": "2022-05-13T23:20:20.000Z",
+  "id": 32828,
+  "type": "anime",
+  "title": "Amaama to Inazuma",
+  "altTitle": [
+    "Sweetness & Lightning",
+    "甘々と稲妻"
+  ],
+  "url": "https://myanimelist.net/anime/32828/Amaama_to_Inazuma",
+  "image": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.amaama.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11952"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18122"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sweetness_and_Lightning"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270739"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11952,
+  "Pages": {
+    "9anime": {
+      "1n8q": {
+        "createdAt": "2020-10-12T15:49:14.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1031,
+        "identifier": "1n8q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amaama to Inazuma",
+        "url": "https://9anime.to/watch/amaama-to-inazuma.1n8q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BaYAD6sO55E/V5bCMb6uJiI/AAAAAAAAyBI/q5sg_Tm6Dps/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32828,
+        "aniId": 21659,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amaama-to-inazuma": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16496,
+        "identifier": "amaama-to-inazuma",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amaama to Inazuma",
+        "url": "https://gogoanime.vc/category/amaama-to-inazuma",
+        "image": "https://images.gogoanime.tv/cover/amaama-to-inazuma.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32828,
+        "aniId": 21659,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1113": {
+        "identifier": "1113",
+        "malId": 32828,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Amaama to Inazuma",
+        "url": "https://animepahe.com/a/1113"
+      }
+    },
+    "AniMixPlay": {
+      "32828": {
+        "identifier": "32828",
+        "malId": 32828,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amaama to Inazuma",
+        "url": "https://animixplay.to/anime/32828"
+      }
+    },
+    "YugenAnime": {
+      "15048": {
+        "identifier": "15048",
+        "malId": 32828,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amaama to Inazuma",
+        "url": "https://yugen.to/anime/15048/amaama-to-inazuma/"
+      }
+    }
+  }
+}

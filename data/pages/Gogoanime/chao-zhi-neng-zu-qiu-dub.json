@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-12-16T08:18:44.000Z",
+  "updatedAt": "2021-12-16T08:48:24.000Z",
+  "checkedAt": null,
+  "id": 39474,
+  "identifier": "chao-zhi-neng-zu-qiu-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Chao Zhi Neng Zu Qiu (Dub)",
+  "url": "https://gogoanime.cm/category/chao-zhi-neng-zu-qiu-dub",
+  "image": "https://gogocdn.net/cover/chao-zhi-neng-zu-qiu-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36993,
+  "aniId": 103426,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-12-16T08:18:55.000Z",
+    "updatedAt": "2022-06-10T22:20:18.000Z",
+    "checkedAt": "2022-06-10T22:20:18.000Z",
+    "id": 36993,
+    "type": "anime",
+    "title": "Chao Zhi Neng Zu Qiu",
+    "altTitle": [
+      "AI Football GGO",
+      "GGO Football",
+      "超智能足球"
+    ],
+    "url": "https://myanimelist.net/anime/36993/Chao_Zhi_Neng_Zu_Qiu",
+    "image": "https://cdn.myanimelist.net/images/anime/1021/91274.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aifootballggo.com/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_Football_GGO"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-28T23:23:33.000Z",
+    "updatedAt": "2022-06-10T22:20:17.000Z",
+    "checkedAt": "2022-06-10T22:20:17.000Z",
+    "id": 103426,
+    "type": "anime",
+    "title": "Chao Zhineng Zuqiu",
+    "altTitle": [
+      "GGO Football",
+      "超智能足球",
+      "超智能足球GGO",
+      "AI Football GGO"
+    ],
+    "url": "https://anilist.co/anime/103426",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103426-RcuyNMyFF33Q.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36993,
+    "deletedAt": null
+  }
+}

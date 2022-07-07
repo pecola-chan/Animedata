@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:43.000Z",
+  "updatedAt": "2021-08-02T18:17:28.000Z",
+  "checkedAt": null,
+  "id": 20314,
+  "identifier": "rockman-exe-beast",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Rockman.EXE Beast+",
+  "url": "https://gogoanime.pe/category/rockman-exe-beast",
+  "image": "https://gogocdn.net/cover/rockman-exe-beast.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": 2713,
+  "aniId": 2713,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:32.000Z",
+    "updatedAt": "2022-05-15T07:21:26.000Z",
+    "checkedAt": "2022-05-15T07:21:26.000Z",
+    "id": 2713,
+    "type": "anime",
+    "title": "Rockman.EXE Beast+",
+    "altTitle": [
+      "Rockman EXE Beast Plus",
+      "ロックマンエグゼビースト+（プラス）"
+    ],
+    "url": "https://myanimelist.net/anime/2713/RockmanEXE_Beast_",
+    "image": "https://cdn.myanimelist.net/images/anime/12/73584.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.xebec-inc.co.jp/anime/rockmanexe5/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4458"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7951"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior#Beast.2B"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4458
+  },
+  "Ani": {
+    "createdAt": "2021-06-04T09:48:57.000Z",
+    "updatedAt": "2022-05-15T13:13:47.000Z",
+    "checkedAt": "2022-05-15T13:13:47.000Z",
+    "id": 2713,
+    "type": "anime",
+    "title": "Rockman.EXE Beast+",
+    "altTitle": [
+      "ロックマンエグゼビースト+（プラス）",
+      "Rockman EXE Beast Plus"
+    ],
+    "url": "https://anilist.co/anime/2713",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2713.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2713,
+    "deletedAt": null
+  }
+}

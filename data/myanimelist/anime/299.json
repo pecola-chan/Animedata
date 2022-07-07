@@ -1,0 +1,150 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-15T02:27:20.000Z",
+  "checkedAt": "2022-05-15T02:27:20.000Z",
+  "id": 299,
+  "type": "anime",
+  "title": ".hack//Liminality",
+  "altTitle": [
+    "Hack OVA",
+    ".hack//Liminality",
+    ".hack//LIMINALITY"
+  ],
+  "url": "https://myanimelist.net/anime/299/hack__Liminality",
+  "image": "https://cdn.myanimelist.net/images/anime/7/23079.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hack.channel.or.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=222"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=709"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/.hack//Liminality"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 222,
+  "Pages": {
+    "9anime": {
+      "83yv": {
+        "createdAt": "2020-10-12T15:51:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3759,
+        "identifier": "83yv",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//LIMINALITY (Dub)",
+        "url": "https://9anime.to/watch/hackliminality-dub.83yv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gtg7DlCz7DE/WF8dbYb8Y1I/AAAAAAABUfY/Mg8C8XpWJ_k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 299,
+        "aniId": 299,
+        "deletedAt": null
+      },
+      "93yx": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4196,
+        "identifier": "93yx",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//LIMINALITY",
+        "url": "https://9anime.to/watch/hackliminality.93yx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SG6tUmax19E/WF8dbqyuzSI/AAAAAAABUfc/pq_uRf8K7ko/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 299,
+        "aniId": 299,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hackliminality": {
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18076,
+        "identifier": "hackliminality",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//Liminality",
+        "url": "https://gogoanime.vc/category/hackliminality",
+        "image": "https://cdnimg.xyz/images/anime/A/hackliminality.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 299,
+        "aniId": 299,
+        "deletedAt": null
+      },
+      "hackliminality-dub": {
+        "createdAt": "2021-07-08T20:44:01.000Z",
+        "updatedAt": "2021-07-08T21:13:16.000Z",
+        "checkedAt": null,
+        "id": 37750,
+        "identifier": "hackliminality-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//Liminality (Dub)",
+        "url": "https://gogoanime.pe/category/hackliminality-dub",
+        "image": "https://gogocdn.net/cover/hackliminality-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 299,
+        "aniId": 299,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4615": {
+        "identifier": "4615",
+        "malId": 299,
+        "type": "anime",
+        "page": "animepahe",
+        "title": ".hack//Liminality",
+        "url": "https://animepahe.com/a/4615"
+      }
+    },
+    "AniMixPlay": {
+      "299": {
+        "identifier": "299",
+        "malId": 299,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": ".hack//Liminality",
+        "url": "https://animixplay.to/anime/299"
+      }
+    },
+    "YugenAnime": {
+      "3444": {
+        "identifier": "3444",
+        "malId": 299,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": ".hack//Liminality",
+        "url": "https://yugen.to/anime/3444/hackliminality/"
+      }
+    }
+  }
+}

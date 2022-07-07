@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-29T17:12:01.000Z",
+  "checkedAt": "2022-05-29T17:12:01.000Z",
+  "id": 33176,
+  "type": "anime",
+  "title": "Nyancos: Hello! Our Brilliant Future",
+  "altTitle": [
+    "Nyankosu",
+    "ニャンコス Hello! Our Brilliant Future"
+  ],
+  "url": "https://myanimelist.net/anime/33176/Nyancos__Hello_Our_Brilliant_Future",
+  "image": "https://cdn.myanimelist.net/images/anime/3/79693.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nyancos.com/dvd.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8666"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8666,
+  "Pages": {
+    "9anime": {
+      "q0qw": {
+        "createdAt": "2020-10-12T15:54:55.000Z",
+        "updatedAt": "2022-01-06T02:17:51.000Z",
+        "checkedAt": null,
+        "id": 8229,
+        "identifier": "q0qw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nyancos: Hello! Our Brilliant Future",
+        "url": "https://9anime.to/watch/nyancos-hello-our-brilliant-future.q0qw",
+        "image": "https://static.akacdn.ru/files/images/2018/03/7806c62ed734cf9f8b36ceb0ab173628.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33176,
+        "aniId": 143390,
+        "deletedAt": null
+      }
+    }
+  }
+}

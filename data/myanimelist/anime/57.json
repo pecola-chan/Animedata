@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T09:56:21.000Z",
+  "checkedAt": "2022-05-14T09:56:21.000Z",
+  "id": 57,
+  "type": "anime",
+  "title": "Beck",
+  "altTitle": [
+    "BECK",
+    "Beck: Mongolian Chop Squad",
+    "ベック"
+  ],
+  "url": "https://myanimelist.net/anime/57/Beck",
+  "image": "https://cdn.myanimelist.net/images/anime/11/11636.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.beck.ne.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2320"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4404"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/BECK"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/MNn-chop-squad"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2320,
+  "Pages": {
+    "9anime": {
+      "p9j": {
+        "createdAt": "2020-10-12T15:54:40.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7939,
+        "identifier": "p9j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BECK",
+        "url": "https://9anime.to/watch/beck.p9j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nBo6PTrJ3h0/V4dbGznLfoI/AAAAAAAAvYY/XsnXndo90ew/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 57,
+        "aniId": 57,
+        "deletedAt": null
+      },
+      "ry3o": {
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9082,
+        "identifier": "ry3o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BECK (Dub)",
+        "url": "https://9anime.to/watch/beck-dub.ry3o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-q675wMzFRlk/WAEXFYKdWRI/AAAAAAABHzY/4uU6GNKCBDA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 57,
+        "aniId": 57,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beck": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16766,
+        "identifier": "beck",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beck",
+        "url": "https://gogoanime.vc/category/beck",
+        "image": "https://cdnimg.xyz/images/anime/B/beck.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 57,
+        "aniId": 57,
+        "deletedAt": null
+      },
+      "beck-dub": {
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16767,
+        "identifier": "beck-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beck (Dub)",
+        "url": "https://gogoanime.vc/category/beck-dub",
+        "image": "https://cdnimg.xyz/cover/beck-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 57,
+        "aniId": 57,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "568": {
+        "identifier": "568",
+        "malId": 57,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Beck",
+        "url": "https://animepahe.com/a/568"
+      }
+    },
+    "AniMixPlay": {
+      "57": {
+        "identifier": "57",
+        "malId": 57,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Beck",
+        "url": "https://animixplay.to/anime/57"
+      }
+    },
+    "YugenAnime": {
+      "629": {
+        "identifier": "629",
+        "malId": 57,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Beck",
+        "url": "https://yugen.to/anime/629/beck/"
+      }
+    }
+  }
+}

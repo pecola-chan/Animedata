@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:15.000Z",
+  "updatedAt": "2022-05-15T07:15:16.000Z",
+  "checkedAt": "2022-05-15T07:15:16.000Z",
+  "id": 1314,
+  "type": "anime",
+  "title": "DT Eightron",
+  "altTitle": [
+    "DT Eightron",
+    "ＤＴエイトロン"
+  ],
+  "url": "https://myanimelist.net/anime/1314/DT_Eightron",
+  "image": "https://cdn.myanimelist.net/images/anime/1935/94098.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/datacard/card0144.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3311"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2186"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/DT_Eightron"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3311,
+  "Pages": {
+    "9anime": {
+      "04x9": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 448,
+        "identifier": "04x9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "DT Eightron",
+        "url": "https://9anime.to/watch/dt-eightron.04x9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WpIc0-h5e9A/WKvaCyAkO2I/AAAAAAABdkw/Mybszatd0kY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1314,
+        "aniId": 1314,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1314": {
+        "identifier": "1314",
+        "malId": 1314,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "DT Eightron",
+        "url": "https://animixplay.to/anime/1314"
+      }
+    },
+    "YugenAnime": {
+      "1175": {
+        "identifier": "1175",
+        "malId": 1314,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "DT Eightron",
+        "url": "https://yugen.to/anime/1175/dt-eightron/"
+      }
+    }
+  }
+}

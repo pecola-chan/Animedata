@@ -1,0 +1,58 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-15T00:41:47.000Z",
+  "checkedAt": "2022-05-15T00:41:47.000Z",
+  "id": 7169,
+  "type": "anime",
+  "title": "Ibarahime Mata wa Nemurihime",
+  "altTitle": [
+    "Sleeping Beauty",
+    "Šípková Růženka aneb Spící krasavice",
+    "Briar-Rose or The Sleeping Beauty",
+    "いばら姫またはねむり姫"
+  ],
+  "url": "https://myanimelist.net/anime/7169/Ibarahime_Mata_wa_Nemurihime",
+  "image": "https://cdn.myanimelist.net/images/anime/9/81213.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://chirok.jp/product/00000000024.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6998"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kihachirō_Kawamoto"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6998,
+  "Pages": {
+    "9anime": {
+      "on54": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7558,
+        "identifier": "on54",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ibara-Hime matawa Nemuri-Hime",
+        "url": "https://9anime.to/watch/ibara-hime-matawa-nemuri-hime.on54",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WbkpDookg8w/WLQXuiJwn0I/AAAAAAABeTQ/JWw0Y1vJnmw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7169,
+        "aniId": 7169,
+        "deletedAt": null
+      }
+    }
+  }
+}

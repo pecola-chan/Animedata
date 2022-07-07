@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T17:55:23.000Z",
+  "checkedAt": "2022-05-14T17:55:23.000Z",
+  "id": 37884,
+  "type": "anime",
+  "title": "Golden Kamuy OVA",
+  "altTitle": [
+    "Golden Kamuy OAD: Showdown in Barato",
+    "Golden Kamuy OVA: Barato no Youjinbou",
+    "茨戸の用心棒",
+    "ゴールデンカムイ OAD"
+  ],
+  "url": "https://myanimelist.net/anime/37884/Golden_Kamuy_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1806/96665.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kamuy-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14085"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Kamuy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14085,
+  "Pages": {
+    "9anime": {
+      "kpk4": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2022-02-03T14:20:26.000Z",
+        "checkedAt": null,
+        "id": 5570,
+        "identifier": "kpk4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Golden Kamuy OVA",
+        "url": "https://9anime.to/watch/golden-kamuy-ova.kpk4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/3ddd4f77fe107ed8a402d48ccbcfba96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37884,
+        "aniId": 101830,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37884": {
+        "identifier": "37884",
+        "malId": 37884,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Golden Kamuy OVA",
+        "url": "https://animixplay.to/anime/37884"
+      }
+    },
+    "YugenAnime": {
+      "2439": {
+        "identifier": "2439",
+        "malId": 37884,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Golden Kamuy OVA",
+        "url": "https://yugen.to/anime/2439/golden-kamuy-ova/"
+      }
+    }
+  }
+}

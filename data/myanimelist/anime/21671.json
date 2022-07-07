@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-14T23:10:17.000Z",
+  "checkedAt": "2022-05-14T23:10:17.000Z",
+  "id": 21671,
+  "type": "anime",
+  "title": "Keroro",
+  "altTitle": [
+    "Keroro Gunsou TV 2",
+    "Keroro Gunsou (2014)",
+    "ケロロ"
+  ],
+  "url": "https://myanimelist.net/anime/21671/Keroro",
+  "image": "https://cdn.myanimelist.net/images/anime/12/58163.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://keroro.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10306"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15768"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10306,
+  "Pages": {
+    "9anime": {
+      "pqmx": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8086,
+        "identifier": "pqmx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keroro",
+        "url": "https://9anime.to/watch/keroro.pqmx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vCd6AhR4Vz0/WU_Xq_NBCDI/AAAAAAAAAYc/4AhYYiZJ3lMRr1V9B-EGoh6LyJfKfRZUgCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21671,
+        "aniId": 20543,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "21671": {
+        "identifier": "21671",
+        "malId": 21671,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keroro",
+        "url": "https://animixplay.to/anime/21671"
+      }
+    },
+    "YugenAnime": {
+      "1425": {
+        "identifier": "1425",
+        "malId": 21671,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Keroro",
+        "url": "https://yugen.to/anime/1425/keroro/"
+      }
+    }
+  }
+}

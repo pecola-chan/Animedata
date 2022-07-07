@@ -1,0 +1,128 @@
+{
+  "createdAt": "2021-02-20T11:34:00.000Z",
+  "updatedAt": "2022-05-14T16:23:45.000Z",
+  "checkedAt": "2022-05-14T16:23:45.000Z",
+  "id": 42395,
+  "type": "anime",
+  "title": "Shakunetsu Kabaddi",
+  "altTitle": [
+    "Burning Kabaddi",
+    "灼熱カバディ"
+  ],
+  "url": "https://myanimelist.net/anime/42395/Shakunetsu_Kabaddi",
+  "image": "https://cdn.myanimelist.net/images/anime/1936/114022.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ani.tv/kabaddi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15628"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23757"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%81%BC%E7%86%B1%E3%82%AB%E3%83%90%E3%83%87%E3%82%A3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281153"
+    },
+    {
+      "site": "ani-oneasia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15628,
+  "Pages": {
+    "Gogoanime": {
+      "shakunetsu-kabaddi": {
+        "createdAt": "2021-04-02T19:32:05.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36153,
+        "identifier": "shakunetsu-kabaddi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shakunetsu Kabaddi",
+        "url": "https://gogoanime.vc/category/shakunetsu-kabaddi",
+        "image": "https://gogocdn.net/cover/shakunetsu-kabaddi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42395,
+        "aniId": 120859,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "lwqz": {
+        "createdAt": "2021-04-06T16:45:25.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36249,
+        "identifier": "lwqz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shakunetsu Kabaddi",
+        "url": "https://9anime.to/watch/burning-kabaddi.lwqz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/91/9152d7def9e812ec2e82fc53a6d803e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42395,
+        "aniId": 120859,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4318": {
+        "identifier": "4318",
+        "malId": 42395,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shakunetsu Kabaddi",
+        "url": "https://animepahe.com/a/4318"
+      }
+    },
+    "AniMixPlay": {
+      "42395": {
+        "identifier": "42395",
+        "malId": 42395,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shakunetsu Kabaddi",
+        "url": "https://animixplay.to/anime/42395"
+      }
+    },
+    "YugenAnime": {
+      "7418": {
+        "identifier": "7418",
+        "malId": 42395,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shakunetsu Kabaddi",
+        "url": "https://yugen.to/anime/7418/shakunetsu-kabaddi/"
+      }
+    }
+  }
+}

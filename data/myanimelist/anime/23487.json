@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-12-12T15:18:02.000Z",
+  "updatedAt": "2022-05-14T17:32:35.000Z",
+  "checkedAt": "2022-05-14T17:32:34.000Z",
+  "id": 23487,
+  "type": "anime",
+  "title": "Witch Craft Works Specials",
+  "altTitle": [
+    "Witchcraft Works Specials",
+    "なぜなに！？うぃっちくらふとわ～くす"
+  ],
+  "url": "https://myanimelist.net/anime/23487/Witch_Craft_Works_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/12/73603.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.witch-cw-anime.jp/blu-ray.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9496"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9496,
+  "Pages": {
+    "9anime": {
+      "jxqy": {
+        "createdAt": "2020-12-12T15:19:02.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30087,
+        "identifier": "jxqy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Witch Craft Works Specials",
+        "url": "https://9anime.to/watch/witchcraft-works-specials.jxqy",
+        "image": "//static.9anime.to/i/cache/images/6/65/65ac4020663bfb17b055e07582513063.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23487,
+        "aniId": 102716,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "23487": {
+        "identifier": "23487",
+        "malId": 23487,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Witch Craft Works Specials",
+        "url": "https://animixplay.to/anime/23487"
+      }
+    }
+  }
+}

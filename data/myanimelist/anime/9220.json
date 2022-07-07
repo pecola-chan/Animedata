@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-15T00:08:41.000Z",
+  "checkedAt": "2022-05-15T00:08:41.000Z",
+  "id": 9220,
+  "type": "anime",
+  "title": "Seikimatsu Occult Gakuin Specials",
+  "altTitle": [
+    "Zaidanhoujin Occult Designer Gakuin Specials",
+    "Seikimatsu Occult Academy Specials",
+    "Occult Academy Specials",
+    "世紀末オカルト学院"
+  ],
+  "url": "https://myanimelist.net/anime/9220/Seikimatsu_Occult_Gakuin_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/3/25576.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.occult-gakuin.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7435"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Occult_Academy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7435,
+  "Pages": {
+    "9anime": {
+      "n82k": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7018,
+        "identifier": "n82k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikimatsu Occult Gakuin Specials",
+        "url": "https://9anime.to/watch/seikimatsu-occult-gakuin-specials.n82k",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8U7W4w8YoLU/WAO2Oj9MqfI/AAAAAAABIk8/9G6sJlE8sEY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9220,
+        "aniId": 9220,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seikimatsu-occult-gakuin-specials": {
+        "createdAt": "2021-10-08T08:02:49.000Z",
+        "updatedAt": "2021-10-08T08:32:19.000Z",
+        "checkedAt": null,
+        "id": 38927,
+        "identifier": "seikimatsu-occult-gakuin-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seikimatsu Occult Gakuin Specials",
+        "url": "https://gogoanime.pe/category/seikimatsu-occult-gakuin-specials",
+        "image": "https://gogocdn.net/cover/seikimatsu-occult-gakuin-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9220,
+        "aniId": 9220,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "853": {
+        "identifier": "853",
+        "malId": 9220,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikimatsu Occult Gakuin Specials",
+        "url": "https://animepahe.com/a/853"
+      }
+    },
+    "YugenAnime": {
+      "9898": {
+        "identifier": "9898",
+        "malId": 9220,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seikimatsu Occult Gakuin Specials",
+        "url": "https://yugen.to/anime/9898/seikimatsu-occult-gakuin-specials/"
+      }
+    }
+  }
+}

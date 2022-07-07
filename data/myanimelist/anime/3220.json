@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T20:26:23.000Z",
+  "checkedAt": "2022-05-14T20:26:22.000Z",
+  "id": 3220,
+  "type": "anime",
+  "title": "Kanashimi no Belladonna",
+  "altTitle": [
+    "Tragedy of Belladonna",
+    "Belladonna of Sadness",
+    "哀しみのベラドンナ"
+  ],
+  "url": "https://myanimelist.net/anime/3220/Kanashimi_no_Belladonna",
+  "image": "https://cdn.myanimelist.net/images/anime/11/24740.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mushi-pro.co.jp/2010/09/%E5%93%80%E3%81%97%E3%81%BF%E3%81%AE%E3%83%99%E3%83%A9%E3%83%89%E3%83%B3%E3%83%8A/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3289"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1723"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kanashimi_no_Belladonna"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3289,
+  "Pages": {
+    "9anime": {
+      "r0xn": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2022-01-18T09:34:44.000Z",
+        "checkedAt": null,
+        "id": 8698,
+        "identifier": "r0xn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanashimi no Belladonna",
+        "url": "https://9anime.to/watch/belladonna-of-sadness.r0xn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/95d191ce5d33401ee45b2f2e8dc59660.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3220,
+        "aniId": 3220,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3220": {
+        "identifier": "3220",
+        "malId": 3220,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanashimi no Belladonna",
+        "url": "https://animixplay.to/anime/3220"
+      }
+    }
+  }
+}

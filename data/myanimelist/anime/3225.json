@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T19:14:59.000Z",
+  "checkedAt": "2022-05-14T19:14:59.000Z",
+  "id": 3225,
+  "type": "anime",
+  "title": "Minami-ke Okawari",
+  "altTitle": [
+    "Minamike: Okawari",
+    "みなみけ～おかわり～"
+  ],
+  "url": "https://myanimelist.net/anime/3225/Minami-ke_Okawari",
+  "image": "https://cdn.myanimelist.net/images/anime/10/73556.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/minami-ke/2/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5510"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8809"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5510,
+  "Pages": {
+    "9anime": {
+      "6v39": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3185,
+        "identifier": "6v39",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minami-ke Okawari",
+        "url": "https://9anime.to/watch/minami-ke-okawari.6v39",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Sd0Lcq_tf3E/V6NsLJljwOI/AAAAAAAA0Us/4Jbkv2mzrAM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3225,
+        "aniId": 3225,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "-minami-ke-okawari": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16304,
+        "identifier": "-minami-ke-okawari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Minami-ke Okawari",
+        "url": "https://gogoanime.vc/category/-minami-ke-okawari",
+        "image": "https://gogocdn.net/images/anime/M/Minami-ke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3225,
+        "aniId": 3225,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1190": {
+        "identifier": "1190",
+        "malId": 3225,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Minami-ke Okawari",
+        "url": "https://animepahe.com/a/1190"
+      }
+    },
+    "AniMixPlay": {
+      "3225": {
+        "identifier": "3225",
+        "malId": 3225,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Minami-ke Okawari",
+        "url": "https://animixplay.to/anime/3225"
+      }
+    },
+    "YugenAnime": {
+      "524": {
+        "identifier": "524",
+        "malId": 3225,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Minami-ke Okawari",
+        "url": "https://yugen.to/anime/524/minami-ke-okawari/"
+      }
+    }
+  }
+}

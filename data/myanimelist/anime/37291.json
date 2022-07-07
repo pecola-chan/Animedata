@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T16:57:47.000Z",
+  "checkedAt": "2022-05-14T16:57:47.000Z",
+  "id": 37291,
+  "type": "anime",
+  "title": "Mo Ri Shu Guang",
+  "altTitle": [
+    "Mori Shuguang",
+    "2013",
+    "二零一三",
+    "Dawn of the World",
+    "末日曙光"
+  ],
+  "url": "https://myanimelist.net/anime/37291/Mo_Ri_Shu_Guang",
+  "image": "https://cdn.myanimelist.net/images/anime/1939/90507.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/w/w6ra1s1f8j69icf.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13942"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%9C%AB%E6%97%A5%E6%9B%99%E5%85%89/22062843"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13942,
+  "Pages": {
+    "9anime": {
+      "jq38": {
+        "createdAt": "2020-10-12T15:52:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4979,
+        "identifier": "jq38",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dawn of the World",
+        "url": "https://9anime.to/watch/dawn-of-the-world.jq38",
+        "image": "http://static.akacdn.ru/static/images/2018/03/423a50c38e59b74e29cbf9310ca70043.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37291,
+        "aniId": 102447,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mo-ri-shu-guang": {
+        "createdAt": "2021-04-03T06:31:13.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36163,
+        "identifier": "mo-ri-shu-guang",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mo Ri Shu Guang",
+        "url": "https://gogoanime.vc/category/mo-ri-shu-guang",
+        "image": "https://gogocdn.net/cover/mo-ri-shu-guang.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37291,
+        "aniId": 102447,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37291": {
+        "identifier": "37291",
+        "malId": 37291,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mo Ri Shu Guang",
+        "url": "https://animixplay.to/anime/37291"
+      }
+    },
+    "YugenAnime": {
+      "7203": {
+        "identifier": "7203",
+        "malId": 37291,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mo Ri Shu Guang",
+        "url": "https://yugen.to/anime/7203/mo-ri-shu-guang/"
+      }
+    }
+  }
+}

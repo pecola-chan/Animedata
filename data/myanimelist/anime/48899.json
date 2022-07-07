@@ -1,0 +1,91 @@
+{
+  "createdAt": "2021-06-15T17:28:05.000Z",
+  "updatedAt": "2022-05-16T00:12:05.000Z",
+  "checkedAt": "2022-05-16T00:12:05.000Z",
+  "id": 48899,
+  "type": "anime",
+  "title": "Shouji Li de Huanxiong Xiao Zhen",
+  "altTitle": [
+    "Raccoon Town in the Phone",
+    "手机里的浣熊小镇"
+  ],
+  "url": "https://myanimelist.net/anime/48899/Shouji_Li_de_Huanxiong_Xiao_Zhen",
+  "image": "https://cdn.myanimelist.net/images/anime/1945/114858.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28233209/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.8"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E6%B5%A3%E7%86%8A%E5%B0%8F%E9%95%87/55605092"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "vvn74": {
+        "createdAt": "2021-06-15T17:28:04.000Z",
+        "updatedAt": "2021-07-08T03:43:16.000Z",
+        "checkedAt": null,
+        "id": 37398,
+        "identifier": "vvn74",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shouji Li de Huanxiong Xiao Zhen",
+        "url": "https://9anime.to/watch/shouji-li-de-huanxiong-xiao-zhen.vvn74",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/cc/cc1d5ef5c0c5309a22513a2b8fd5b05c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48899,
+        "aniId": 131664,
+        "deletedAt": null
+      },
+      "3rrmy": {
+        "createdAt": "2022-01-18T17:35:45.000Z",
+        "updatedAt": "2022-01-18T18:04:03.000Z",
+        "checkedAt": null,
+        "id": 39882,
+        "identifier": "3rrmy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shouji Li de Huanxiong Xiaozhen s2",
+        "url": "https://9anime.to/watch/shouji-li-de-huanxiong-xiaozhen-s2.3rrmy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/75/75189f1cfe45dd63722afc18da7ce23e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48899,
+        "aniId": 131664,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "48899": {
+        "identifier": "48899",
+        "malId": 48899,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shouji Li de Huanxiong Xiao Zhen",
+        "url": "https://animixplay.to/anime/48899"
+      }
+    },
+    "YugenAnime": {
+      "7790": {
+        "identifier": "7790",
+        "malId": 48899,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shouji Li de Huanxiong Xiao Zhen",
+        "url": "https://yugen.to/anime/7790/shouji-li-de-huanxiong-xiao-zhen/"
+      }
+    }
+  }
+}

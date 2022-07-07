@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T01:39:55.000Z",
+  "checkedAt": "2022-05-15T01:39:55.000Z",
+  "id": 9523,
+  "type": "anime",
+  "title": "Minori Scramble!",
+  "altTitle": [
+    "みのりスクランブル!"
+  ],
+  "url": "https://myanimelist.net/anime/9523/Minori_Scramble",
+  "image": "https://cdn.myanimelist.net/images/anime/6/31903.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ufotable.com/special/minori/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7960"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7960,
+  "Pages": {
+    "9anime": {
+      "96jm": {
+        "createdAt": "2020-10-12T15:51:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4240,
+        "identifier": "96jm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Minori Scramble!",
+        "url": "https://9anime.to/watch/minori-scramble.96jm",
+        "image": "https://static.akacdn.ru/static/images/2018/03/586b48a39f22be843fc08dfc1ced0e2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9523,
+        "aniId": 9523,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9523": {
+        "identifier": "9523",
+        "malId": 9523,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Minori Scramble!",
+        "url": "https://animixplay.to/anime/9523"
+      }
+    }
+  }
+}

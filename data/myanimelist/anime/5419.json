@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T19:43:23.000Z",
+  "checkedAt": "2022-05-14T19:43:23.000Z",
+  "id": 5419,
+  "type": "anime",
+  "title": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+  "altTitle": [
+    "Pani Poni Dash! Special",
+    "ぱにぽにだっしゅ！ 断じて行えば鬼神もこれを避く"
+  ],
+  "url": "https://myanimelist.net/anime/5419/Paniponi_Dash__Danjite_Okonaeba_Kishin_mo_Kore_wo_Saku",
+  "image": "https://cdn.myanimelist.net/images/anime/6/11083.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.paniponi-dash.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3298"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pani_Poni"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3298,
+  "Pages": {
+    "9anime": {
+      "w5o6": {
+        "createdAt": "2020-10-12T15:56:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9686,
+        "identifier": "w5o6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+        "url": "https://9anime.to/watch/paniponi-dash-danjite-okonaeba-kishin-mo-kore-wo-saku.w5o6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mRdAGtVHFxU/V6oa1gEI_aI/AAAAAAAA1x0/jn9Fj3JNYw8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5419,
+        "aniId": 5419,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5419": {
+        "identifier": "5419",
+        "malId": 5419,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
+        "url": "https://animixplay.to/anime/5419"
+      }
+    }
+  }
+}

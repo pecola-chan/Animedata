@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-14T20:31:11.000Z",
+  "checkedAt": "2022-05-14T20:31:11.000Z",
+  "id": 2006,
+  "type": "anime",
+  "title": "Yu☆Gi☆Oh! (Movie)",
+  "altTitle": [
+    "Yu-Gi-Oh! The Movie",
+    "YuGiOh",
+    "Yuu Gi Ou",
+    "Yuugiou",
+    "Yu-Gi-Oh! (1999)",
+    "遊☆戯☆王"
+  ],
+  "url": "https://myanimelist.net/anime/2006/Yu☆Gi☆Oh_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2114.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1608"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2760"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yu-Gi-Oh!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/movies/YU-GI-OH!:-The-Movie/movie-928224"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1608,
+  "Pages": {
+    "9anime": {
+      "3706": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 116,
+        "identifier": "3706",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yu☆Gi☆Oh! (1999)",
+        "url": "https://9anime.to/watch/yugioh-1999.3706",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Gknhop2hnyE/V6BDaOtGMDI/AAAAAAAAzvc/CxrFt0_L4XY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2006,
+        "aniId": 2006,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yugioh-movie": {
+        "createdAt": "2021-05-24T21:38:27.000Z",
+        "updatedAt": "2021-05-24T22:08:17.000Z",
+        "checkedAt": null,
+        "id": 37104,
+        "identifier": "yugioh-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yu☆Gi☆Oh! (Movie)",
+        "url": "https://gogoanime.vc/category/yugioh-movie",
+        "image": "https://gogocdn.net/cover/yugioh-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2006,
+        "aniId": 2006,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2006": {
+        "identifier": "2006",
+        "malId": 2006,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yu☆Gi☆Oh! (Movie)",
+        "url": "https://animixplay.to/anime/2006"
+      }
+    },
+    "YugenAnime": {
+      "7699": {
+        "identifier": "7699",
+        "malId": 2006,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yu☆Gi☆Oh! (Movie)",
+        "url": "https://yugen.to/anime/7699/yugioh-movie/"
+      }
+    }
+  }
+}

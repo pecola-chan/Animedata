@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:56.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 20754,
+  "identifier": "sono-toki-kanojo-wa",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Sono Toki, Kanojo wa.",
+  "url": "https://gogoanime.vc/category/sono-toki-kanojo-wa",
+  "image": "https://cdnimg.xyz/cover/sono-toki-kanojo-wa.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38251,
+  "aniId": 104073,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:05.000Z",
+    "updatedAt": "2022-05-14T18:25:59.000Z",
+    "checkedAt": "2022-05-14T18:25:59.000Z",
+    "id": 38251,
+    "type": "anime",
+    "title": "Sono Toki, Kanojo wa.",
+    "altTitle": [
+      "At That Time, She.",
+      "その時、カノジョは。"
+    ],
+    "url": "https://myanimelist.net/anime/38251/Sono_Toki_Kanojo_wa",
+    "image": "https://cdn.myanimelist.net/images/anime/1908/93910.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sonokano.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14339"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21402"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%AE%E6%99%82%E3%80%81%E3%82%AB%E3%83%8E%E3%82%B8%E3%83%A7%E3%81%AF%E3%80%82"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14339
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:46.000Z",
+    "updatedAt": "2022-05-15T13:16:23.000Z",
+    "checkedAt": "2022-05-15T13:16:23.000Z",
+    "id": 104073,
+    "type": "anime",
+    "title": "Sono Toki, Kanojo wa.",
+    "altTitle": [
+      "その時、カノジョは。",
+      "At That Time, She."
+    ],
+    "url": "https://anilist.co/anime/104073",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104073-OQ8YBTy7zmKf.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38251,
+    "deletedAt": null
+  }
+}

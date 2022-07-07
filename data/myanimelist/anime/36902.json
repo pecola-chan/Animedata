@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-14T16:29:50.000Z",
+  "checkedAt": "2022-05-14T16:29:50.000Z",
+  "id": 36902,
+  "type": "anime",
+  "title": "Mahou Shoujo Ore",
+  "altTitle": [
+    "Magical Girl Me",
+    "Magical Girl Ore",
+    "魔法少女 俺"
+  ],
+  "url": "https://myanimelist.net/anime/36902/Mahou_Shoujo_Ore",
+  "image": "https://cdn.myanimelist.net/images/anime/1439/91893.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://magicalgirl-ore.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10770"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20403"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magical_Girl_Ore"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275923"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10770,
+  "Pages": {
+    "9anime": {
+      "40kk": {
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2032,
+        "identifier": "40kk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo Ore",
+        "url": "https://9anime.to/watch/mahou-shoujo-ore.40kk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ynFe-6k6HtI/WkW-086rVDI/AAAAAAAACWE/yWYIMYs-ER0sHpFvEx9OGtRD5VWPpsZSQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36902,
+        "aniId": 100715,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahou-shoujo-ore": {
+        "createdAt": "2020-10-12T16:01:12.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19275,
+        "identifier": "mahou-shoujo-ore",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahou Shoujo Ore",
+        "url": "https://gogoanime.vc/category/mahou-shoujo-ore",
+        "image": "https://images.gogoanime.tv/cover/mahou-shoujo-ore.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36902,
+        "aniId": 100715,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2476": {
+        "identifier": "2476",
+        "malId": 36902,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mahou Shoujo Ore",
+        "url": "https://animepahe.com/a/2476"
+      }
+    },
+    "AniMixPlay": {
+      "36902": {
+        "identifier": "36902",
+        "malId": 36902,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou Shoujo Ore",
+        "url": "https://animixplay.to/anime/36902"
+      }
+    },
+    "YugenAnime": {
+      "199": {
+        "identifier": "199",
+        "malId": 36902,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahou Shoujo Ore",
+        "url": "https://yugen.to/anime/199/mahou-shoujo-ore/"
+      }
+    }
+  }
+}

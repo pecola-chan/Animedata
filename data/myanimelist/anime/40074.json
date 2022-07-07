@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T16:17:57.000Z",
+  "checkedAt": "2022-05-14T16:17:57.000Z",
+  "id": 40074,
+  "type": "anime",
+  "title": "Gibiate",
+  "altTitle": [
+    "ジビエート"
+  ],
+  "url": "https://myanimelist.net/anime/40074/Gibiate",
+  "image": "https://cdn.myanimelist.net/images/anime/1035/113446.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://gibiate.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15001"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22314"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gibiate"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279605"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15001,
+  "Pages": {
+    "9anime": {
+      "kvj6": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5617,
+        "identifier": "kvj6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gibiate",
+        "url": "https://9anime.to/watch/gibiate.kvj6",
+        "image": "//static.9anime.to/i/cache/images/0/0e/0eda85038a32f93c7d8ebe699ee40c3c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40074,
+        "aniId": 110446,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gibiate": {
+        "createdAt": "2020-10-12T16:00:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17877,
+        "identifier": "gibiate",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gibiate",
+        "url": "https://gogoanime.vc/category/gibiate",
+        "image": "https://gogocdn.net/cover/gibiate.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40074,
+        "aniId": 110446,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4032": {
+        "identifier": "4032",
+        "malId": 40074,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gibiate",
+        "url": "https://animepahe.com/a/4032"
+      }
+    },
+    "AniMixPlay": {
+      "40074": {
+        "identifier": "40074",
+        "malId": 40074,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gibiate",
+        "url": "https://animixplay.to/anime/40074"
+      }
+    },
+    "YugenAnime": {
+      "479": {
+        "identifier": "479",
+        "malId": 40074,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gibiate",
+        "url": "https://yugen.to/anime/479/gibiate/"
+      }
+    }
+  }
+}

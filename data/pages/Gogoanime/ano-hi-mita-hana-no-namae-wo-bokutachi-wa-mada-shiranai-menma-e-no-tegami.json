@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:59:51.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16537,
+  "identifier": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+  "url": "https://gogoanime.vc/category/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami",
+  "image": "https://gogocdn.net/cover/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38963,
+  "aniId": 107342,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:07.000Z",
+    "updatedAt": "2022-05-14T16:59:47.000Z",
+    "checkedAt": "2022-05-14T16:59:47.000Z",
+    "id": 38963,
+    "type": "anime",
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+    "altTitle": [
+      "AnoHana Picture Drama",
+      "We Still Don't Know the Name of the Flower We Saw That Day.: Letter to Menma",
+      "あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」"
+    ],
+    "url": "https://myanimelist.net/anime/38963/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai__Menma_e_no_Tegami",
+    "image": "https://cdn.myanimelist.net/images/anime/1103/98120.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.anohana.jp/tv/goods/pack_event2011.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8181"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12368"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Anohana:_The_Flower_We_Saw_That_Day"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8181
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:53.000Z",
+    "updatedAt": "2022-05-15T13:05:11.000Z",
+    "checkedAt": "2022-05-15T13:05:11.000Z",
+    "id": 107342,
+    "type": "anime",
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami",
+    "altTitle": [
+      "あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」",
+      "We Still Don't Know the Name of the Flower We Saw That Day.: Letter to Menma"
+    ],
+    "url": "https://anilist.co/anime/107342",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107342-CohOnqdwuycN.png",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 38963,
+    "deletedAt": null
+  }
+}

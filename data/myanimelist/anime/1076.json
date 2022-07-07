@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2022-05-15T00:20:59.000Z",
+  "checkedAt": "2022-05-15T00:20:59.000Z",
+  "id": 1076,
+  "type": "anime",
+  "title": "Wizardry",
+  "altTitle": [
+    "ウィザードリィ"
+  ],
+  "url": "https://myanimelist.net/anime/1076/Wizardry",
+  "image": "https://cdn.myanimelist.net/images/anime/1409/99277.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/ova/data/m_wizardry.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3133"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3338"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wizardry"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3133,
+  "Pages": {
+    "9anime": {
+      "3k0y": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1785,
+        "identifier": "3k0y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wizardry",
+        "url": "https://9anime.to/watch/wizardry.3k0y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2I1XD8QGYsw/WHnDn_kY7BI/AAAAAAABZMg/1L6v9-OT0GY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1076,
+        "aniId": 1076,
+        "deletedAt": null
+      }
+    }
+  }
+}

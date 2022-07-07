@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T19:54:23.000Z",
+  "checkedAt": "2022-05-14T19:54:23.000Z",
+  "id": 1177,
+  "type": "anime",
+  "title": "Alien 9",
+  "altTitle": [
+    "Alien Nine",
+    "エイリアン9"
+  ],
+  "url": "https://myanimelist.net/anime/1177/Alien_9",
+  "image": "https://cdn.myanimelist.net/images/anime/7/2607.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jcstaff.co.jp/sho-sai/e9-shokai/eirian9-shokai.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=58"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=784"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Alien_Nine"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 58,
+  "Pages": {
+    "9anime": {
+      "9zkq": {
+        "createdAt": "2020-10-12T15:51:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4539,
+        "identifier": "9zkq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Alien 9",
+        "url": "https://9anime.to/watch/alien-9.9zkq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DQvTPAERhuA/WA4ihGyBqKI/AAAAAAABK20/tU4gnF-zrDs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1177,
+        "aniId": 1177,
+        "deletedAt": null
+      },
+      "j3r8": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4667,
+        "identifier": "j3r8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Alien 9 (Dub)",
+        "url": "https://9anime.to/watch/alien-9-dub.j3r8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WyMRa8t0YfM/WA4iyEgH3oI/AAAAAAABK3A/E1UUKnCTy9g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1177,
+        "aniId": 1177,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "alien-9": {
+        "createdAt": "2021-03-21T16:34:53.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35820,
+        "identifier": "alien-9",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Alien 9",
+        "url": "https://gogoanime.vc/category/alien-9",
+        "image": "https://gogocdn.net/images/anime/A/alien-9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1177,
+        "aniId": 1177,
+        "deletedAt": null
+      },
+      "alien-9-dub": {
+        "createdAt": "2021-08-18T06:08:36.000Z",
+        "updatedAt": "2021-08-18T06:36:59.000Z",
+        "checkedAt": null,
+        "id": 38352,
+        "identifier": "alien-9-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Alien 9 (Dub)",
+        "url": "https://gogoanime.pe/category/alien-9-dub",
+        "image": "https://gogocdn.net/cover/alien-9-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1177,
+        "aniId": 1177,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2336": {
+        "identifier": "2336",
+        "malId": 1177,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Alien 9",
+        "url": "https://animepahe.com/a/2336"
+      }
+    },
+    "AniMixPlay": {
+      "1177": {
+        "identifier": "1177",
+        "malId": 1177,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Alien 9",
+        "url": "https://animixplay.to/anime/1177"
+      }
+    },
+    "YugenAnime": {
+      "292": {
+        "identifier": "292",
+        "malId": 1177,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Alien 9",
+        "url": "https://yugen.to/anime/292/alien-9/"
+      }
+    }
+  }
+}

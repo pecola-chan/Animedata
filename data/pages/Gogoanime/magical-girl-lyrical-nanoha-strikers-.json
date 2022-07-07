@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T16:01:11.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19240,
+  "identifier": "magical-girl-lyrical-nanoha-strikers-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Magical Girl Lyrical Nanoha Strikers ",
+  "url": "https://gogoanime.vc/category/magical-girl-lyrical-nanoha-strikers-",
+  "image": "https://cdnimg.xyz/images/anime/M/magical-girl-lyrical-nanoha.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1915,
+  "aniId": 1915,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:23.000Z",
+    "updatedAt": "2022-05-14T16:43:38.000Z",
+    "checkedAt": "2022-05-14T16:43:38.000Z",
+    "id": 1915,
+    "type": "anime",
+    "title": "Mahou Shoujo Lyrical Nanoha StrikerS",
+    "altTitle": [
+      "Nanoha Season 3",
+      "Magical Girl Lyrical Nanoha StrikerS",
+      "魔法少女リリカルなのはStrikerS"
+    ],
+    "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS",
+    "image": "https://cdn.myanimelist.net/images/anime/3/14190.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nanoha.com/archive3/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4688"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6828"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mahou_Shoujo_Lyrical_Nanoha_StrikerS"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4688
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:04.000Z",
+    "updatedAt": "2022-05-15T12:10:11.000Z",
+    "checkedAt": "2022-05-15T12:10:11.000Z",
+    "id": 1915,
+    "type": "anime",
+    "title": "Mahou Shoujo Lyrical Nanoha StrikerS",
+    "altTitle": [
+      "Magical Girl Lyrical Nanoha StrikerS",
+      "魔法少女リリカルなのはStrikerS",
+      "Nanoha Season 3"
+    ],
+    "url": "https://anilist.co/anime/1915",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1915-IKthftm6s36b.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1915,
+    "deletedAt": null
+  }
+}

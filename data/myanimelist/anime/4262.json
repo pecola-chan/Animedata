@@ -1,0 +1,119 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T18:21:53.000Z",
+  "checkedAt": "2022-05-14T18:21:53.000Z",
+  "id": 4262,
+  "type": "anime",
+  "title": "Koihime†Musou",
+  "altTitle": [
+    "恋姫†無双"
+  ],
+  "url": "https://myanimelist.net/anime/4262/Koihime†Musou",
+  "image": "https://cdn.myanimelist.net/images/anime/4/20740.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/koihime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5922"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9498"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Koihime_Musō"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-81052"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/koihime-muso"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5922,
+  "Pages": {
+    "9anime": {
+      "z5zp": {
+        "createdAt": "2020-10-12T15:57:06.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11043,
+        "identifier": "z5zp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koihime†Musou",
+        "url": "https://9anime.to/watch/koihimemusou.z5zp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mI23cNmeEXo/V-M3mvxOJlI/AAAAAAAA_ZY/KW5Xd-0edIY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4262,
+        "aniId": 4262,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koihime-musou": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18917,
+        "identifier": "koihime-musou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koihime Musou",
+        "url": "https://gogoanime.vc/category/koihime-musou",
+        "image": "https://gogocdn.net/images/anime/K/Koihime-Musou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4262,
+        "aniId": 4262,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "75": {
+        "identifier": "75",
+        "malId": 4262,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koihime†Musou",
+        "url": "https://animepahe.com/a/75"
+      }
+    },
+    "AniMixPlay": {
+      "4262": {
+        "identifier": "4262",
+        "malId": 4262,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koihime†Musou",
+        "url": "https://animixplay.to/anime/4262"
+      }
+    },
+    "YugenAnime": {
+      "2069": {
+        "identifier": "2069",
+        "malId": 4262,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koihime†Musou",
+        "url": "https://yugen.to/anime/2069/koihime-musou/"
+      }
+    }
+  }
+}

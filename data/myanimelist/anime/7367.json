@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-14T18:28:35.000Z",
+  "checkedAt": "2022-05-14T18:28:35.000Z",
+  "id": 7367,
+  "type": "anime",
+  "title": "Naruto: The Cross Roads",
+  "altTitle": [
+    "Naruto's 10th Anniversary",
+    "ナルト サ・クロスローズ"
+  ],
+  "url": "https://myanimelist.net/anime/7367/Naruto__The_Cross_Roads",
+  "image": "https://cdn.myanimelist.net/images/anime/11/27050.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7228"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14834"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7228,
+  "Pages": {
+    "9anime": {
+      "5llq": {
+        "createdAt": "2021-01-07T14:53:07.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33163,
+        "identifier": "5llq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Naruto: The Cross Roads",
+        "url": "https://9anime.to/watch/naruto-the-cross-roads.5llq",
+        "image": "//static.bunnycdn.ru/i/cache/images/a/af/af18bc6273c5bdf3db0f99376e9b403f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7367,
+        "aniId": 7367,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7367": {
+        "identifier": "7367",
+        "malId": 7367,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Naruto: The Cross Roads",
+        "url": "https://animixplay.to/anime/7367"
+      }
+    }
+  }
+}

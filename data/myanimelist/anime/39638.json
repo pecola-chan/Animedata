@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-14T15:56:43.000Z",
+  "checkedAt": "2022-05-14T15:56:43.000Z",
+  "id": 39638,
+  "type": "anime",
+  "title": "Choujigen Game Neptune The Animation OVA",
+  "altTitle": [
+    "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+    "Choujigen Game Neptune The Animation: Nep Nep Darake no Festival",
+    "超次元ゲイム ネプテューヌ THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/39638/Choujigen_Game_Neptune_The_Animation_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1986/101147.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nep-anime.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14810"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hyperdimension_Neptunia"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14810,
+  "Pages": {
+    "9anime": {
+      "6p10": {
+        "createdAt": "2020-10-12T15:50:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3119,
+        "identifier": "6p10",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+        "url": "https://9anime.to/watch/choujigen-game-neptune-the-animation-nep-no-natsuyasumi.6p10",
+        "image": "https://static.akacdn.ru/files/images/2019/05/ebc79fdaf1313649016e6df595f22345.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39638,
+        "aniId": 108758,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "choujigen-game-neptune-the-animation-nep-no-natsuyasumi": {
+        "createdAt": "2020-10-12T16:00:07.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17084,
+        "identifier": "choujigen-game-neptune-the-animation-nep-no-natsuyasumi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+        "url": "https://gogoanime.vc/category/choujigen-game-neptune-the-animation-nep-no-natsuyasumi",
+        "image": "https://cdnimg.xyz/cover/choujigen-game-neptune-the-animation-nep-no-natsuyasumi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39638,
+        "aniId": 108758,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39638": {
+        "identifier": "39638",
+        "malId": 39638,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Choujigen Game Neptune The Animation OVA",
+        "url": "https://animixplay.to/anime/39638"
+      }
+    },
+    "YugenAnime": {
+      "9522": {
+        "identifier": "9522",
+        "malId": 39638,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Choujigen Game Neptune The Animation OVA",
+        "url": "https://yugen.to/anime/9522/choujigen-game-neptune-the-animation-ova/"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T10:11:40.000Z",
+  "checkedAt": "2022-05-14T10:11:40.000Z",
+  "id": 36593,
+  "type": "anime",
+  "title": "Hug tto! Precure",
+  "altTitle": [
+    "Hugtto Precure",
+    "HuGっと！プリキュア"
+  ],
+  "url": "https://myanimelist.net/anime/36593/Hug_tto_Precure",
+  "image": "https://cdn.myanimelist.net/images/anime/1220/92883.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/hugtto_precure/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13526"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20473"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hugtto!_PreCure"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13526,
+  "Pages": {
+    "9anime": {
+      "qjw3": {
+        "createdAt": "2020-10-12T15:55:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8409,
+        "identifier": "qjw3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hug tto! Precure",
+        "url": "https://9anime.to/watch/hug-tto-precure.qjw3",
+        "image": "http://static.akacdn.ru/static/images/2018/04/db869721f91c230b09165976445c5969.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36593,
+        "aniId": 100661,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hugtto-precure": {
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18392,
+        "identifier": "hugtto-precure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hugtto! Precure",
+        "url": "https://gogoanime.vc/category/hugtto-precure",
+        "image": "https://cdnimg.xyz/cover/hugtto-precure.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36593,
+        "aniId": 100661,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36593": {
+        "identifier": "36593",
+        "malId": 36593,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hug tto! Precure",
+        "url": "https://animixplay.to/anime/36593"
+      }
+    },
+    "YugenAnime": {
+      "959": {
+        "identifier": "959",
+        "malId": 36593,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hug tto! Precure",
+        "url": "https://yugen.to/anime/959/hugtto-precure/"
+      }
+    }
+  }
+}

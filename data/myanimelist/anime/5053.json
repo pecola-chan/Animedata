@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T19:04:35.000Z",
+  "checkedAt": "2022-05-14T19:04:35.000Z",
+  "id": 5053,
+  "type": "anime",
+  "title": "Ai City",
+  "altTitle": [
+    "Love City",
+    "アイ・シティ"
+  ],
+  "url": "https://myanimelist.net/anime/5053/Ai_City",
+  "image": "https://cdn.myanimelist.net/images/anime/1859/97113.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pro-reed.com/works/theatrical/w006.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2902"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2025"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ai_City#Film_adaption"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2902,
+  "Pages": {
+    "9anime": {
+      "w3wo": {
+        "createdAt": "2020-10-12T15:56:06.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9648,
+        "identifier": "w3wo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai City",
+        "url": "https://9anime.to/watch/ai-city.w3wo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GIJkqB8VzSc/WNuh5XjiUiI/AAAAAAAAeEs/2qcPcNZp8Kk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5053,
+        "aniId": 5053,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ai-city": {
+        "createdAt": "2021-04-30T11:21:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36753,
+        "identifier": "ai-city",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ai City",
+        "url": "https://gogoanime.vc/category/ai-city",
+        "image": "https://gogocdn.net/cover/ai-city.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5053,
+        "aniId": 5053,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5053": {
+        "identifier": "5053",
+        "malId": 5053,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ai City",
+        "url": "https://animixplay.to/anime/5053"
+      }
+    },
+    "YugenAnime": {
+      "828": {
+        "identifier": "828",
+        "malId": 5053,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ai City",
+        "url": "https://yugen.to/anime/828/ai-city/"
+      }
+    }
+  }
+}

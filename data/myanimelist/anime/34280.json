@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-14T07:05:47.000Z",
+  "checkedAt": "2022-05-14T07:05:47.000Z",
+  "id": 34280,
+  "type": "anime",
+  "title": "Gamers!",
+  "altTitle": [
+    "Gamers!",
+    "ゲーマーズ！"
+  ],
+  "url": "https://myanimelist.net/anime/34280/Gamers",
+  "image": "https://cdn.myanimelist.net/images/anime/4/86828.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gamers-anime.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12494"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19399"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gamers!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273765"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/gamers"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12494,
+  "Pages": {
+    "9anime": {
+      "3lk8": {
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2022-06-13T23:32:42.000Z",
+        "checkedAt": "2022-06-13T23:32:42.000Z",
+        "id": 1817,
+        "identifier": "3lk8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gamers! (Dub)",
+        "url": "https://9anime.to/watch/gamers-dub.3lk8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/10/929801441187e26c6daec7eaf819b2d7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34280,
+        "aniId": 97766,
+        "deletedAt": null
+      },
+      "47rx": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2171,
+        "identifier": "47rx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gamers!",
+        "url": "https://9anime.to/watch/gamers.47rx",
+        "image": "//static.9anime.to/i/cache/images/2018/04/f21673de764c7588d7fe902eafff05ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34280,
+        "aniId": 97766,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gamers": {
+        "createdAt": "2020-10-12T16:00:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17796,
+        "identifier": "gamers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gamers!",
+        "url": "https://gogoanime.vc/category/gamers",
+        "image": "https://images.gogoanime.tv/cover/gamers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34280,
+        "aniId": 97766,
+        "deletedAt": null
+      },
+      "gamers-dub": {
+        "createdAt": "2020-10-12T16:00:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17797,
+        "identifier": "gamers-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gamers! (Dub)",
+        "url": "https://gogoanime.vc/category/gamers-dub#",
+        "image": "https://cdnimg.xyz/cover/gamers-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34280,
+        "aniId": 97766,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2206": {
+        "identifier": "2206",
+        "malId": 34280,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gamers!",
+        "url": "https://animepahe.com/a/2206"
+      }
+    },
+    "AniMixPlay": {
+      "34280": {
+        "identifier": "34280",
+        "malId": 34280,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gamers!",
+        "url": "https://animixplay.to/anime/34280"
+      }
+    },
+    "YugenAnime": {
+      "319": {
+        "identifier": "319",
+        "malId": 34280,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gamers!",
+        "url": "https://yugen.to/anime/319/gamers/"
+      }
+    }
+  }
+}

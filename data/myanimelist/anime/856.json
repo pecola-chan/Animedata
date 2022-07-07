@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T15:56:56.000Z",
+  "checkedAt": "2022-05-14T15:56:56.000Z",
+  "id": 856,
+  "type": "anime",
+  "title": "Utawarerumono",
+  "altTitle": [
+    "The One Being Sung",
+    "Utawarerumono",
+    "うたわれるもの"
+  ],
+  "url": "https://myanimelist.net/anime/856/Utawarerumono",
+  "image": "https://cdn.myanimelist.net/images/anime/1119/118609.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.imagicatv.jp/content/utaware/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5746"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Utawarerumono"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274711"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/utawarerumono"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3427,
+  "Pages": {
+    "9anime": {
+      "lnzq": {
+        "createdAt": "2020-10-12T15:53:09.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6127,
+        "identifier": "lnzq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Utawarerumono (Dub)",
+        "url": "https://9anime.to/watch/utawarerumono-dub.lnzq",
+        "image": "https://static.akacdn.ru/files/images/2018/04/7368fd094d3c0af905f150edd4e2b4e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 856,
+        "aniId": 856,
+        "deletedAt": null
+      },
+      "wo4l": {
+        "createdAt": "2020-10-12T15:56:11.000Z",
+        "updatedAt": "2022-06-13T21:01:32.000Z",
+        "checkedAt": "2022-06-13T21:01:32.000Z",
+        "id": 9849,
+        "identifier": "wo4l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Utawarerumono",
+        "url": "https://9anime.to/watch/utawarerumono.wo4l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ef81f17faa92edf10e39a19dda0e55b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 856,
+        "aniId": 856,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "utawarerumono": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21340,
+        "identifier": "utawarerumono",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Utawarerumono",
+        "url": "https://gogoanime.vc/category/utawarerumono",
+        "image": "https://cdnimg.xyz/images/anime/U/utawarerumono.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 856,
+        "aniId": 856,
+        "deletedAt": null
+      },
+      "utawarerumono-dub": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21341,
+        "identifier": "utawarerumono-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Utawarerumono (Dub)",
+        "url": "https://gogoanime.vc/category/utawarerumono-dub",
+        "image": "https://gogocdn.net/cover/utawarerumono-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 856,
+        "aniId": 856,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "199": {
+        "identifier": "199",
+        "malId": 856,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Utawarerumono",
+        "url": "https://animepahe.com/a/199"
+      }
+    },
+    "AniMixPlay": {
+      "856": {
+        "identifier": "856",
+        "malId": 856,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Utawarerumono",
+        "url": "https://animixplay.to/anime/856"
+      }
+    },
+    "YugenAnime": {
+      "520": {
+        "identifier": "520",
+        "malId": 856,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Utawarerumono",
+        "url": "https://yugen.to/anime/520/utawarerumono/"
+      }
+    }
+  }
+}

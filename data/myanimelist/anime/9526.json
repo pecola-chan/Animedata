@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T01:36:31.000Z",
+  "checkedAt": "2022-05-15T01:36:31.000Z",
+  "id": 9526,
+  "type": "anime",
+  "title": "Wolf Guy",
+  "altTitle": [
+    "ウルフガイ"
+  ],
+  "url": "https://myanimelist.net/anime/9526/Wolf_Guy",
+  "image": "https://cdn.myanimelist.net/images/anime/1290/94492.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7168"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3353"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wolf_Guy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7168,
+  "Pages": {
+    "9anime": {
+      "o6lz": {
+        "createdAt": "2020-10-12T15:54:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7415,
+        "identifier": "o6lz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wolf Guy",
+        "url": "https://9anime.to/watch/wolf-guy.o6lz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-K8AWnogtQgA/WFvSvPnrdqI/AAAAAAABULc/Q7zZZncecYE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9526,
+        "aniId": 9526,
+        "deletedAt": null
+      }
+    }
+  }
+}

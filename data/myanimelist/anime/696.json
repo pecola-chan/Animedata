@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T09:39:35.000Z",
+  "checkedAt": "2022-05-14T09:39:35.000Z",
+  "id": 696,
+  "type": "anime",
+  "title": "Tenchi Muyou!",
+  "altTitle": [
+    "Tenchi Universe TV",
+    "Tenchi Muyo!",
+    "天地無用！"
+  ],
+  "url": "https://myanimelist.net/anime/696/Tenchi_Muyou",
+  "image": "https://cdn.myanimelist.net/images/anime/3/61663.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-int.com/works/index.html?years=1995&?type=tv&?initial=t"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=409"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=272"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tenchi_Universe"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275083"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/tenchi-muyo-tenchi-universe"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 409,
+  "Pages": {
+    "9anime": {
+      "p789": {
+        "createdAt": "2020-10-12T15:54:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7902,
+        "identifier": "p789",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenchi Muyou!",
+        "url": "https://9anime.to/watch/tenchi-muyou.p789",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-U87uUMdS2AQ/Wd2FEKTT6xI/AAAAAAAACYs/s75JXyjbXbQVhQywwuWoJ4FviM_Uy50ewCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 696,
+        "aniId": 696,
+        "deletedAt": null
+      },
+      "yjj0": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10686,
+        "identifier": "yjj0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenchi Muyou! (Dub)",
+        "url": "https://9anime.to/watch/tenchi-muyou-dub.yjj0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MwYawhQI8b4/V7aWsRYQUHI/AAAAAAAA4Mw/AcqghYg68RY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 696,
+        "aniId": 696,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tenchi-universe-": {
+        "createdAt": "2020-12-29T02:17:14.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31283,
+        "identifier": "tenchi-universe-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenchi Universe ",
+        "url": "https://gogoanime.vc/category/tenchi-universe-",
+        "image": "https://gogocdn.net/images/anime/TH/Tenchi-Universe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 696,
+        "aniId": 696,
+        "deletedAt": null
+      },
+      "tenchi-universe-dub": {
+        "createdAt": "2020-12-29T02:17:14.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31284,
+        "identifier": "tenchi-universe-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenchi Universe (Dub)",
+        "url": "https://gogoanime.vc/category/tenchi-universe-dub",
+        "image": "https://gogocdn.net/cover/tenchi-universe-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 696,
+        "aniId": 696,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "696": {
+        "identifier": "696",
+        "malId": 696,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tenchi Muyou!",
+        "url": "https://animixplay.to/anime/696"
+      }
+    },
+    "YugenAnime": {
+      "5512": {
+        "identifier": "5512",
+        "malId": 696,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tenchi Muyou!",
+        "url": "https://yugen.to/anime/5512/tenchi-in-tokyo/"
+      }
+    }
+  }
+}

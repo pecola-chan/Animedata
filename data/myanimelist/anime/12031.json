@@ -1,0 +1,166 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-13T23:20:35.000Z",
+  "checkedAt": "2022-05-13T23:20:35.000Z",
+  "id": 12031,
+  "type": "anime",
+  "title": "Kingdom",
+  "altTitle": [
+    "Kingdom",
+    "キングダム"
+  ],
+  "url": "https://myanimelist.net/anime/12031/Kingdom",
+  "image": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www9.nhk.or.jp/anime/kingdom/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8791"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13783"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/キングダム_(漫画)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274043"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/kingdom"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "shahid",
+      "url": "https://shahid.mbc.net/en/series/Kingdom/series-868926"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8791,
+  "Pages": {
+    "9anime": {
+      "929m": {
+        "createdAt": "2020-10-12T15:51:41.000Z",
+        "updatedAt": "2022-05-16T16:00:22.000Z",
+        "checkedAt": "2022-05-16T16:00:22.000Z",
+        "id": 4166,
+        "identifier": "929m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kingdom",
+        "url": "https://9anime.to/watch/kingdom.929m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b7/b79d23b5bc1a4ab441698789d38e31b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12031,
+        "aniId": 12031,
+        "deletedAt": null
+      },
+      "m34v": {
+        "createdAt": "2020-10-12T15:53:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6355,
+        "identifier": "m34v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kingdom (Dub)",
+        "url": "https://9anime.to/watch/kingdom-dub.m34v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yaAYmnaoSxI/V87sx6u9ZiI/AAAAAAAA77I/YXImOUegL_g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12031,
+        "aniId": 12031,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kingdom": {
+        "createdAt": "2020-10-12T16:01:00.000Z",
+        "updatedAt": "2021-10-22T02:48:21.000Z",
+        "checkedAt": null,
+        "id": 18850,
+        "identifier": "kingdom",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kingdom",
+        "url": "https://gogoanime.pe/category/kingdom",
+        "image": "https://gogocdn.net/cover/kingdom.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12031,
+        "aniId": 12031,
+        "deletedAt": null
+      },
+      "kingdom-dub": {
+        "createdAt": "2020-10-12T16:01:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18854,
+        "identifier": "kingdom-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kingdom (Dub)",
+        "url": "https://gogoanime.vc/category/kingdom-dub",
+        "image": "https://gogocdn.net/cover/kingdom-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12031,
+        "aniId": 12031,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3857": {
+        "identifier": "3857",
+        "malId": 12031,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kingdom",
+        "url": "https://animepahe.com/a/3857"
+      }
+    },
+    "AniMixPlay": {
+      "12031": {
+        "identifier": "12031",
+        "malId": 12031,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kingdom",
+        "url": "https://animixplay.to/anime/12031"
+      }
+    },
+    "YugenAnime": {
+      "1121": {
+        "identifier": "1121",
+        "malId": 12031,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kingdom",
+        "url": "https://yugen.to/anime/1121/kingdom/"
+      }
+    }
+  }
+}

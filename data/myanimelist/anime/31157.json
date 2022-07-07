@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T19:45:23.000Z",
+  "checkedAt": "2022-05-14T19:45:23.000Z",
+  "id": 31157,
+  "type": "anime",
+  "title": "ClassicaLoid",
+  "altTitle": [
+    "ClassicaLoid",
+    "クラシカロイド"
+  ],
+  "url": "https://myanimelist.net/anime/31157/ClassicaLoid",
+  "image": "https://cdn.myanimelist.net/images/anime/10/82320.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.classicaloid.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11344"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17269"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Classicaloid"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/classicaloid"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11344,
+  "Pages": {
+    "9anime": {
+      "jlr8": {
+        "createdAt": "2020-10-12T15:52:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4911,
+        "identifier": "jlr8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ClassicaLoid",
+        "url": "https://9anime.to/watch/classicaloid.jlr8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-53yxJJXL_qo/V-poc67FcLI/AAAAAAABBjo/i-u3jnhLAu0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31157,
+        "aniId": 21250,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1377": {
+        "identifier": "1377",
+        "malId": 31157,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ClassicaLoid",
+        "url": "https://animepahe.com/a/1377"
+      }
+    },
+    "AniMixPlay": {
+      "31157": {
+        "identifier": "31157",
+        "malId": 31157,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "ClassicaLoid",
+        "url": "https://animixplay.to/anime/31157"
+      }
+    },
+    "YugenAnime": {
+      "312": {
+        "identifier": "312",
+        "malId": 31157,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "ClassicaLoid",
+        "url": "https://yugen.to/anime/312/classicaloid/"
+      }
+    }
+  }
+}

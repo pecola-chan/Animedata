@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:38:59.000Z",
+  "updatedAt": "2022-05-14T16:14:23.000Z",
+  "checkedAt": "2022-05-14T16:14:23.000Z",
+  "id": 8624,
+  "type": "anime",
+  "title": "Digimon Xros Wars",
+  "altTitle": [
+    "Digimon Cross Wars",
+    "Digimon Fusion",
+    "デジモンクロスウォーズ"
+  ],
+  "url": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars",
+  "image": "https://cdn.myanimelist.net/images/anime/7/24495.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/digimon_xw/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7518"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11450"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Digimon_Fusion"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-238724"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7518,
+  "Pages": {
+    "9anime": {
+      "80jq": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3688,
+        "identifier": "80jq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Digimon Xros Wars",
+        "url": "https://9anime.to/watch/digimon-xros-wars.80jq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5Ac_fv-_Nys/V5ob4RmFDEI/AAAAAAAAymk/-SoHaW7D92I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8624,
+        "aniId": 8624,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "digimon-xros-wars": {
+        "createdAt": "2020-10-12T16:00:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17387,
+        "identifier": "digimon-xros-wars",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Digimon Xros Wars",
+        "url": "https://gogoanime.vc/category/digimon-xros-wars",
+        "image": "https://gogocdn.net/images/anime/D/Digimon-Xros-Wars-1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8624,
+        "aniId": 8624,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8624": {
+        "identifier": "8624",
+        "malId": 8624,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Digimon Xros Wars",
+        "url": "https://animixplay.to/anime/8624"
+      }
+    },
+    "YugenAnime": {
+      "3712": {
+        "identifier": "3712",
+        "malId": 8624,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Digimon Xros Wars",
+        "url": "https://yugen.to/anime/3712/digimon-xros-wars/"
+      }
+    }
+  }
+}

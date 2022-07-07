@@ -1,0 +1,49 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T18:47:35.000Z",
+  "checkedAt": "2022-05-14T18:47:35.000Z",
+  "id": 40597,
+  "type": "anime",
+  "title": "Sol Levante",
+  "altTitle": [],
+  "url": "https://myanimelist.net/anime/40597/Sol_Levante",
+  "image": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15085"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15085,
+  "Pages": {
+    "animepahe": {
+      "3923": {
+        "identifier": "3923",
+        "malId": 40597,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sol Levante",
+        "url": "https://animepahe.com/a/3923"
+      }
+    },
+    "AniMixPlay": {
+      "40597": {
+        "identifier": "40597",
+        "malId": 40597,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sol Levante",
+        "url": "https://animixplay.to/anime/40597"
+      }
+    }
+  }
+}

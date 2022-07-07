@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-05-14T10:16:37.000Z",
+  "checkedAt": "2022-05-14T10:16:37.000Z",
+  "id": 30503,
+  "type": "anime",
+  "title": "Noragami Aragoto",
+  "altTitle": [
+    "Noragami Aragoto",
+    "ノラガミ ARAGOTO"
+  ],
+  "url": "https://myanimelist.net/anime/30503/Noragami_Aragoto",
+  "image": "https://cdn.myanimelist.net/images/anime/1689/94850.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.noragami-anime.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11170"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16906"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noragami"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272011"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11170,
+  "Pages": {
+    "9anime": {
+      "2wl": {
+        "createdAt": "2020-10-12T15:49:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1545,
+        "identifier": "2wl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Noragami Aragoto",
+        "url": "https://9anime.to/watch/noragami-aragoto.2wl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yQX1FdXK9ZQ/V3JOWUEvCjI/AAAAAAAArw0/AiW-_d6M_dg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30503,
+        "aniId": 21128,
+        "deletedAt": null
+      },
+      "r39q": {
+        "createdAt": "2020-10-12T15:55:28.000Z",
+        "updatedAt": "2021-12-14T16:49:58.000Z",
+        "checkedAt": null,
+        "id": 8746,
+        "identifier": "r39q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Noragami Aragoto (Dub)",
+        "url": "https://9anime.to/watch/noragami-aragoto-dub.r39q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/3c9df40d4b52550d804ea63d20e61e68.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30503,
+        "aniId": 21128,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "noragami-aragoto": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19792,
+        "identifier": "noragami-aragoto",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Noragami Aragoto",
+        "url": "https://gogoanime.vc/category/noragami-aragoto",
+        "image": "https://cdnimg.xyz/images/upload/75627.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30503,
+        "aniId": 21128,
+        "deletedAt": null
+      },
+      "noragami-aragoto-dub": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19793,
+        "identifier": "noragami-aragoto-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Noragami Aragoto (Dub)",
+        "url": "https://gogoanime.vc/category/noragami-aragoto-dub",
+        "image": "https://gogocdn.net/cover/noragami-aragoto-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30503,
+        "aniId": 21128,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "17": {
+        "identifier": "17",
+        "malId": 30503,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Noragami Aragoto",
+        "url": "https://animepahe.com/a/17"
+      }
+    },
+    "AniMixPlay": {
+      "30503": {
+        "identifier": "30503",
+        "malId": 30503,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Noragami Aragoto",
+        "url": "https://animixplay.to/anime/30503"
+      }
+    },
+    "YugenAnime": {
+      "4042": {
+        "identifier": "4042",
+        "malId": 30503,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Noragami Aragoto",
+        "url": "https://yugen.to/anime/4042/noragami-aragoto/"
+      }
+    }
+  }
+}

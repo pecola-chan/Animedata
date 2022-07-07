@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T16:02:07.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21179,
+  "identifier": "tong-ling-fei",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tong Ling Fei",
+  "url": "https://gogoanime.vc/category/tong-ling-fei",
+  "image": "https://cdnimg.xyz/cover/tong-ling-fei.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 38917,
+  "aniId": 99935,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:07.000Z",
+    "updatedAt": "2022-05-14T18:23:35.000Z",
+    "checkedAt": "2022-05-14T18:23:35.000Z",
+    "id": 38917,
+    "type": "anime",
+    "title": "Tong Ling Fei",
+    "altTitle": [
+      "Psychic Princess",
+      "通灵妃"
+    ],
+    "url": "https://myanimelist.net/anime/38917/Tong_Ling_Fei",
+    "image": "https://cdn.myanimelist.net/images/anime/1066/103049.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.weibo.com/u/6709504242"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-280822"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:53.000Z",
+    "updatedAt": "2022-05-15T13:14:23.000Z",
+    "checkedAt": "2022-05-15T13:14:23.000Z",
+    "id": 99935,
+    "type": "anime",
+    "title": "Tongling Fei",
+    "altTitle": [
+      "Psychic Princess",
+      "通灵妃"
+    ],
+    "url": "https://anilist.co/anime/99935",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99935-lQ2IPS31bJSK.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/psychic-princess"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G5PHNMJM9/Psychic-Princess"
+      }
+    ],
+    "malId": 38917,
+    "deletedAt": null
+  }
+}

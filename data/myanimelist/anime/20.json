@@ -1,0 +1,201 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T09:59:10.000Z",
+  "checkedAt": "2022-05-14T09:59:10.000Z",
+  "id": 20,
+  "type": "anime",
+  "title": "Naruto",
+  "altTitle": [
+    "NARUTO",
+    "Naruto",
+    "ナルト"
+  ],
+  "url": "https://myanimelist.net/anime/20/Naruto",
+  "image": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/naruto2002/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=239"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1825"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Naruto"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-42850"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/naruto-2"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/title/70205012"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 239,
+  "Pages": {
+    "9anime": {
+      "p86": {
+        "createdAt": "2020-10-12T15:54:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7921,
+        "identifier": "p86",
+        "type": "anime",
+        "page": "9anime",
+        "title": "NARUTO (Dub)",
+        "url": "https://9anime.to/watch/naruto-dub.p86",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-q-IaeO2ViGw/V3OzTWJ-1eI/AAAAAAAAsGc/496HLHlm3bw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20,
+        "aniId": 20,
+        "deletedAt": null
+      },
+      "xx8z": {
+        "createdAt": "2020-10-12T15:56:33.000Z",
+        "updatedAt": "2022-05-16T15:31:52.000Z",
+        "checkedAt": "2022-05-16T15:31:10.000Z",
+        "id": 10419,
+        "identifier": "xx8z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Naruto",
+        "url": "https://9anime.to/watch/naruto.xx8z",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/5a2a03c631d274622451643db250cf07.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20,
+        "aniId": 20,
+        "deletedAt": null
+      },
+      "p92x": {
+        "createdAt": "2020-10-22T01:08:58.000Z",
+        "updatedAt": "2022-05-16T15:32:26.000Z",
+        "checkedAt": "2022-05-16T15:31:33.000Z",
+        "id": 27694,
+        "identifier": "p92x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Naruto (Uncropped) (Dub)",
+        "url": "https://9anime.to/watch/naruto-uncropped-dub.p92x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/32/3266ab71263a4e8c9018abf68d647846.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20,
+        "aniId": 20,
+        "deletedAt": null
+      },
+      "o28y": {
+        "createdAt": "2020-10-23T05:30:17.000Z",
+        "updatedAt": "2022-05-16T15:32:14.000Z",
+        "checkedAt": "2022-05-16T15:31:21.000Z",
+        "id": 27795,
+        "identifier": "o28y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Naruto (Uncropped)",
+        "url": "https://9anime.to/watch/naruto-uncropped.o28y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/cb/cb3c4438162ffaae7f76030b812adf87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20,
+        "aniId": 20,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "naruto": {
+        "createdAt": "2020-10-12T16:01:22.000Z",
+        "updatedAt": "2022-05-16T15:31:36.000Z",
+        "checkedAt": "2022-05-16T15:30:58.000Z",
+        "id": 19648,
+        "identifier": "naruto",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Naruto",
+        "url": "https://gogoanime.sk/category/naruto",
+        "image": "https://gogocdn.net/images/anime/N/naruto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20,
+        "aniId": 20,
+        "deletedAt": null
+      },
+      "naruto-dub": {
+        "createdAt": "2020-10-12T16:01:23.000Z",
+        "updatedAt": "2022-05-16T15:31:51.000Z",
+        "checkedAt": "2022-05-16T15:31:09.000Z",
+        "id": 19651,
+        "identifier": "naruto-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Naruto (Dub)",
+        "url": "https://gogoanime.sk/category/naruto-dub",
+        "image": "https://gogocdn.net/cover/naruto-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20,
+        "aniId": 20,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1571": {
+        "identifier": "1571",
+        "malId": 20,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Naruto",
+        "url": "https://animepahe.com/a/1571"
+      }
+    },
+    "AniMixPlay": {
+      "20": {
+        "identifier": "20",
+        "malId": 20,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Naruto",
+        "url": "https://animixplay.to/anime/20"
+      }
+    },
+    "YugenAnime": {
+      "434": {
+        "identifier": "434",
+        "malId": 20,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Naruto",
+        "url": "https://yugen.to/anime/434/naruto/"
+      }
+    }
+  }
+}

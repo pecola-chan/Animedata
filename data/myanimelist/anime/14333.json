@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T23:26:53.000Z",
+  "checkedAt": "2022-05-14T23:26:53.000Z",
+  "id": 14333,
+  "type": "anime",
+  "title": "Tanken Driland",
+  "altTitle": [
+    "探検ドリランド"
+  ],
+  "url": "https://myanimelist.net/anime/14333/Tanken_Driland",
+  "image": "https://cdn.myanimelist.net/images/anime/1330/100164.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/driland/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9211"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14329"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tanken_Driland"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9211,
+  "Pages": {
+    "9anime": {
+      "6420": {
+        "createdAt": "2020-10-12T15:48:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 201,
+        "identifier": "6420",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tanken Driland",
+        "url": "https://9anime.to/watch/tanken-driland.6420",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-n4QNn7-7mOQ/WNORrbY2aiI/AAAAAAABgR4/KTrZqextYK8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14333,
+        "aniId": 14333,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tanken-driland-": {
+        "createdAt": "2021-02-18T16:15:02.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34923,
+        "identifier": "tanken-driland-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tanken Driland ",
+        "url": "https://gogoanime.vc/category/tanken-driland-",
+        "image": "https://gogocdn.net/images/anime/TH/tanken-driland.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14333,
+        "aniId": 14333,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "14333": {
+        "identifier": "14333",
+        "malId": 14333,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tanken Driland",
+        "url": "https://animixplay.to/anime/14333"
+      }
+    },
+    "YugenAnime": {
+      "5391": {
+        "identifier": "5391",
+        "malId": 14333,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tanken Driland",
+        "url": "https://yugen.to/anime/5391/tanken-driland/"
+      }
+    }
+  }
+}

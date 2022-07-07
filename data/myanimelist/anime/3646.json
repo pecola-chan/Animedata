@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-15T00:54:59.000Z",
+  "checkedAt": "2022-05-15T00:54:59.000Z",
+  "id": 3646,
+  "type": "anime",
+  "title": "Glass no Usagi",
+  "altTitle": [
+    "Garasu no Usagi",
+    "Glass Rabbit",
+    "ガラスのうさぎ"
+  ],
+  "url": "https://myanimelist.net/anime/3646/Glass_no_Usagi",
+  "image": "https://cdn.myanimelist.net/images/anime/1188/94727.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ggvp.net/usagi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2849"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5816"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ガラスのうさぎ#.E3.82.A2.E3.83.8B.E3.83.A1.E6.98.A0.E7.94.BB"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2849,
+  "Pages": {
+    "9anime": {
+      "nx9j": {
+        "createdAt": "2020-10-12T15:54:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7279,
+        "identifier": "nx9j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Glass Rabbit",
+        "url": "https://9anime.to/watch/glass-rabbit.nx9j",
+        "image": "https://static.akacdn.ru/files/images/2018/03/59dc429a945ad3da2eaafd9d40057d61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3646,
+        "aniId": 3646,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3646": {
+        "identifier": "3646",
+        "malId": 3646,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Glass no Usagi",
+        "url": "https://animixplay.to/anime/3646"
+      }
+    }
+  }
+}

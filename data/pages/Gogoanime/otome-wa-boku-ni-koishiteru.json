@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T16:01:32.000Z",
+  "updatedAt": "2022-06-14T00:01:30.000Z",
+  "checkedAt": "2022-06-14T00:01:30.000Z",
+  "id": 19950,
+  "identifier": "otome-wa-boku-ni-koishiteru",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Otome wa Boku ni Koishiteru",
+  "url": "https://gogoanime.sk/category/otome-wa-boku-ni-koishiteru",
+  "image": "https://gogocdn.net/images/anime/Otome wa Boku ni Koishiteru.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1569,
+  "aniId": 1569,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:18.000Z",
+    "updatedAt": "2022-05-14T16:54:39.000Z",
+    "checkedAt": "2022-05-14T16:54:39.000Z",
+    "id": 1569,
+    "type": "anime",
+    "title": "Otome wa Boku ni Koishiteru",
+    "altTitle": [
+      "Otome wa Onee-sama ni Koi Shiteru",
+      "The Maiden is Falling in Love With the Elder Sister",
+      "The Maiden is Falling in Love With Me",
+      "Otoboku: Maidens are Falling for Me!",
+      "乙女は僕に恋してる"
+    ],
+    "url": "https://myanimelist.net/anime/1569/Otome_wa_Boku_ni_Koishiteru",
+    "image": "https://cdn.myanimelist.net/images/anime/7/75483.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.starchild.co.jp/special/otome/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4003"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6619"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Otome_wa_Boku_ni_Koishiteru"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4003
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:13.000Z",
+    "updatedAt": "2022-05-15T13:25:23.000Z",
+    "checkedAt": "2022-05-15T13:25:23.000Z",
+    "id": 1569,
+    "type": "anime",
+    "title": "Otome wa Boku ni Koishiteru",
+    "altTitle": [
+      "Otoboku: Maidens are Falling for Me",
+      "乙女は僕に恋してる",
+      "Otome wa Onee-sama ni Koi Shiteru",
+      "The Maiden is Falling in Love With the Elder Sister",
+      "The Maiden is Falling in Love With Me"
+    ],
+    "url": "https://anilist.co/anime/1569",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1569-mUu6BRRfd1fX.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1569,
+    "deletedAt": null
+  }
+}

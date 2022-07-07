@@ -1,0 +1,123 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T16:17:45.000Z",
+  "checkedAt": "2022-05-14T16:17:45.000Z",
+  "id": 38853,
+  "type": "anime",
+  "title": "Ex-Arm",
+  "altTitle": [
+    "EX-ARMエクスアーム"
+  ],
+  "url": "https://myanimelist.net/anime/38853/Ex-Arm",
+  "image": "https://cdn.myanimelist.net/images/anime/1847/113935.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.exarm-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14545"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23365"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ex-Arm#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280518"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "museasia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14545,
+  "Pages": {
+    "Gogoanime": {
+      "ex-arm": {
+        "createdAt": "2021-01-10T18:50:39.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33395,
+        "identifier": "ex-arm",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ex-Arm",
+        "url": "https://gogoanime.vc/category/ex-arm",
+        "image": "https://gogocdn.net/cover/ex-arm.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38853,
+        "aniId": 106503,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "8w4q": {
+        "createdAt": "2021-01-10T18:52:09.000Z",
+        "updatedAt": "2022-06-14T01:04:00.000Z",
+        "checkedAt": "2022-06-14T01:04:00.000Z",
+        "id": 33397,
+        "identifier": "8w4q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "EX-ARM",
+        "url": "https://9anime.to/watch/ex-arm.8w4q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/56/569f862790202080b7199a3122235e88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38853,
+        "aniId": 106503,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4184": {
+        "identifier": "4184",
+        "malId": 38853,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ex-Arm",
+        "url": "https://animepahe.com/a/4184"
+      }
+    },
+    "AniMixPlay": {
+      "38853": {
+        "identifier": "38853",
+        "malId": 38853,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ex-Arm",
+        "url": "https://animixplay.to/anime/38853"
+      }
+    },
+    "YugenAnime": {
+      "7124": {
+        "identifier": "7124",
+        "malId": 38853,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ex-Arm",
+        "url": "https://yugen.to/anime/7124/ex-arm/"
+      }
+    }
+  }
+}

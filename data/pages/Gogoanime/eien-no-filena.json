@@ -1,0 +1,71 @@
+{
+  "createdAt": "2022-02-03T12:34:20.000Z",
+  "updatedAt": "2022-02-03T12:36:27.000Z",
+  "checkedAt": null,
+  "id": 40047,
+  "identifier": "eien-no-filena",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Eien no Filena",
+  "url": "https://gogoanime.pe/category/eien-no-filena",
+  "image": "https://gogocdn.net/cover/eien-no-filena.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5689,
+  "aniId": 5689,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-15T02:24:25.000Z",
+    "checkedAt": "2022-05-15T02:24:25.000Z",
+    "id": 5689,
+    "type": "anime",
+    "title": "Eien no Filena",
+    "altTitle": [
+      "Eternal Filena",
+      "Eien no Filerna",
+      "Filena",
+      "永遠のフィレーナ"
+    ],
+    "url": "https://myanimelist.net/anime/5689/Eien_no_Filena",
+    "image": "https://cdn.myanimelist.net/images/anime/12/11803.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5943"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3399"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5943
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T18:38:47.000Z",
+    "checkedAt": "2022-05-15T18:38:47.000Z",
+    "id": 5689,
+    "type": "anime",
+    "title": "Eien no Filena",
+    "altTitle": [
+      "永遠のフィレーナ",
+      "Eternal Filena",
+      "Eien no Filerna",
+      "Filena"
+    ],
+    "url": "https://anilist.co/anime/5689",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5689.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5689,
+    "deletedAt": null
+  }
+}

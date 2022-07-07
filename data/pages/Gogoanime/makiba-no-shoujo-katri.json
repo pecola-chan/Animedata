@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-12-19T12:25:06.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 30610,
+  "identifier": "makiba-no-shoujo-katri",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Makiba no Shoujo Katri",
+  "url": "https://gogoanime.vc/category/makiba-no-shoujo-katri",
+  "image": "https://gogocdn.net/cover/makiba-no-shoujo-katri.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3162,
+  "aniId": 3162,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:36.000Z",
+    "updatedAt": "2022-06-05T14:54:56.000Z",
+    "checkedAt": "2022-06-05T14:54:56.000Z",
+    "id": 3162,
+    "type": "anime",
+    "title": "Makiba no Shoujo Katri",
+    "altTitle": [
+      "Katri, Girl of the Meadows",
+      "牧場の少女カトリ"
+    ],
+    "url": "https://myanimelist.net/anime/3162/Makiba_no_Shoujo_Katri",
+    "image": "https://cdn.myanimelist.net/images/anime/1227/98642.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2299"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=443"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Makiba_no_Shoujo_Katori"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2299
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:36.000Z",
+    "updatedAt": "2022-06-05T14:54:55.000Z",
+    "checkedAt": "2022-06-05T14:54:55.000Z",
+    "id": 3162,
+    "type": "anime",
+    "title": "Makiba no Shoujo Katri",
+    "altTitle": [
+      "Katri",
+      "牧場の少女カトリ",
+      "Katri Girl of the Meadows",
+      "World Masterpiece Theater",
+      "WMT",
+      "Das Mädchen von der Farm",
+      "Katoli"
+    ],
+    "url": "https://anilist.co/anime/3162",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3162.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3162,
+    "deletedAt": null
+  }
+}

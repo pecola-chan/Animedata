@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-13T21:12:11.000Z",
+  "checkedAt": "2022-05-13T21:12:11.000Z",
+  "id": 37407,
+  "type": "anime",
+  "title": "Penguin Highway",
+  "altTitle": [
+    "ペンギン・ハイウェイ"
+  ],
+  "url": "https://myanimelist.net/anime/37407/Penguin_Highway",
+  "image": "https://cdn.myanimelist.net/images/anime/1320/93443.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.penguin-highway.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13853"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20710"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penguin_Highway"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281354"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13853,
+  "Pages": {
+    "9anime": {
+      "mwj7": {
+        "createdAt": "2020-10-12T15:53:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6789,
+        "identifier": "mwj7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Penguin Highway",
+        "url": "https://9anime.to/watch/penguin-highway.mwj7",
+        "image": "https://static.akacdn.ru/static/images/2018/03/651653d8ada16023c0c63a79fe02c536.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37407,
+        "aniId": 101249,
+        "deletedAt": null
+      },
+      "wx4o": {
+        "createdAt": "2020-10-12T15:56:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9957,
+        "identifier": "wx4o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Penguin Highway (Dub)",
+        "url": "https://9anime.to/watch/penguin-highway-dub.wx4o",
+        "image": "https://static.akacdn.ru/files/images/2019/10/e2876069476daef1a412bbce499cdfc1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37407,
+        "aniId": 101249,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "penguin-highway": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20013,
+        "identifier": "penguin-highway",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Penguin Highway",
+        "url": "https://gogoanime.vc/category/penguin-highway",
+        "image": "https://cdnimg.xyz/cover/penguin-highway.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37407,
+        "aniId": 101249,
+        "deletedAt": null
+      },
+      "penguin-highway-dub": {
+        "createdAt": "2021-07-24T18:22:16.000Z",
+        "updatedAt": "2021-07-24T18:51:33.000Z",
+        "checkedAt": null,
+        "id": 38014,
+        "identifier": "penguin-highway-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Penguin Highway (Dub)",
+        "url": "https://gogoanime.pe/category/penguin-highway-dub",
+        "image": "https://gogocdn.net/cover/penguin-highway-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37407,
+        "aniId": 101249,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3132": {
+        "identifier": "3132",
+        "malId": 37407,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Penguin Highway",
+        "url": "https://animepahe.com/a/3132"
+      }
+    },
+    "AniMixPlay": {
+      "37407": {
+        "identifier": "37407",
+        "malId": 37407,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Penguin Highway",
+        "url": "https://animixplay.to/anime/37407"
+      }
+    },
+    "YugenAnime": {
+      "1763": {
+        "identifier": "1763",
+        "malId": 37407,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Penguin Highway",
+        "url": "https://yugen.to/anime/1763/penguin-highway/"
+      }
+    }
+  }
+}

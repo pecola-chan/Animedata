@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:22.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17590,
+  "identifier": "explorer-woman-ray",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Explorer Woman Ray",
+  "url": "https://gogoanime.vc/category/explorer-woman-ray",
+  "image": "https://cdnimg.xyz/cover/explorer-woman-ray.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 4252,
+  "aniId": 4252,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:42.000Z",
+    "updatedAt": "2022-05-15T01:35:31.000Z",
+    "checkedAt": "2022-05-15T01:35:31.000Z",
+    "id": 4252,
+    "type": "anime",
+    "title": "Explorer Woman Ray",
+    "altTitle": [
+      "EXPLORER WOMAN RAY (エクスプローラーウーマン・レイ)"
+    ],
+    "url": "https://myanimelist.net/anime/4252/Explorer_Woman_Ray",
+    "image": "https://cdn.myanimelist.net/images/anime/10/56653.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2901"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=635"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%A6%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%A4#.E3.82.A2.E3.83.8B.E3.83.A1"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2901
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:34.000Z",
+    "updatedAt": "2022-05-16T08:38:10.000Z",
+    "checkedAt": "2022-05-16T08:38:10.000Z",
+    "id": 4252,
+    "type": "anime",
+    "title": "EXPLORER-WOMAN RAY",
+    "altTitle": [
+      "EXPLORER-WOMAN RAY",
+      "The Explorer"
+    ],
+    "url": "https://anilist.co/anime/4252",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4252-ovRzgB6ojxH3.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 4252,
+    "deletedAt": null
+  }
+}

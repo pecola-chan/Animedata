@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-15T16:09:08.000Z",
+  "checkedAt": "2022-05-15T16:09:07.000Z",
+  "id": 37328,
+  "type": "anime",
+  "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu",
+  "altTitle": [
+    "おしえて魔法のペンデュラム～リルリルフェアリル～"
+  ],
+  "url": "https://myanimelist.net/anime/37328/Oshiete_Mahou_no_Pendulum__Rilu_Rilu_Fairilu",
+  "image": "https://cdn.myanimelist.net/images/anime/1123/93548.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://fairilu.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13811"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13811,
+  "Pages": {
+    "9anime": {
+      "qyp5": {
+        "createdAt": "2020-10-12T15:55:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8646,
+        "identifier": "qyp5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu",
+        "url": "https://9anime.to/watch/oshiete-mahou-no-pendulum-rilu-rilu-fairilu.qyp5",
+        "image": "https://static.akacdn.ru/static/images/2018/07/b21bcd389b30aecc51d41b186a9133bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37328,
+        "aniId": 101985,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oshiete-mahou-no-pendulum-rilu-rilu-fairilu": {
+        "createdAt": "2020-10-12T16:01:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19939,
+        "identifier": "oshiete-mahou-no-pendulum-rilu-rilu-fairilu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu",
+        "url": "https://gogoanime.vc/category/oshiete-mahou-no-pendulum-rilu-rilu-fairilu",
+        "image": "https://cdnimg.xyz/cover/oshiete-mahou-no-pendulum-rilu-rilu-fairilu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37328,
+        "aniId": 101985,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37328": {
+        "identifier": "37328",
+        "malId": 37328,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu",
+        "url": "https://animixplay.to/anime/37328"
+      }
+    },
+    "YugenAnime": {
+      "5505": {
+        "identifier": "5505",
+        "malId": 37328,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu",
+        "url": "https://yugen.to/anime/5505/oshiete-mahou-no-pendulum-rilu-rilu-fairilu/"
+      }
+    }
+  }
+}

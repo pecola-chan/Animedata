@@ -1,0 +1,129 @@
+{
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2022-05-14T22:09:35.000Z",
+  "checkedAt": "2022-05-14T22:09:35.000Z",
+  "id": 28283,
+  "type": "anime",
+  "title": "Sengoku Musou",
+  "altTitle": [
+    "Samurai Warriors",
+    "戦国無双"
+  ],
+  "url": "https://myanimelist.net/anime/28283/Sengoku_Musou",
+  "image": "https://cdn.myanimelist.net/images/anime/3/71770.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/sengokumusou/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10913"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16428"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samurai_Warriors_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-264425"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/samurai-warriors"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10913,
+  "Pages": {
+    "9anime": {
+      "k6q4": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5324,
+        "identifier": "k6q4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Musou (Dub)",
+        "url": "https://9anime.to/watch/sengoku-musou-dub.k6q4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-85luWA6FdOA/WRpVQdB_FrI/AAAAAAAAnvs/0TADMSB01ZkGdheXuBqsZKizl3dfXWCrQCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28283,
+        "aniId": 20944,
+        "deletedAt": null
+      },
+      "nk3n": {
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7082,
+        "identifier": "nk3n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Musou",
+        "url": "https://9anime.to/watch/sengoku-musou.nk3n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wRdi_8B65ps/V7UsQR-g5BI/AAAAAAAA35k/8gLYzr-ktp4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28283,
+        "aniId": 20944,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sengoku-musou": {
+        "createdAt": "2020-10-12T16:01:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20509,
+        "identifier": "sengoku-musou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Musou",
+        "url": "https://gogoanime.vc/category/sengoku-musou",
+        "image": "https://cdnimg.xyz/images/upload/165716.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 28283,
+        "aniId": 20944,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "28283": {
+        "identifier": "28283",
+        "malId": 28283,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sengoku Musou",
+        "url": "https://animixplay.to/anime/28283"
+      }
+    },
+    "YugenAnime": {
+      "2664": {
+        "identifier": "2664",
+        "malId": 28283,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sengoku Musou",
+        "url": "https://yugen.to/anime/2664/sengoku-musou/"
+      }
+    }
+  }
+}

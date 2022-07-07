@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-11-07T18:58:53.000Z",
+  "updatedAt": "2022-05-15T01:41:59.000Z",
+  "checkedAt": "2022-05-15T01:41:59.000Z",
+  "id": 8372,
+  "type": "anime",
+  "title": "Makoto-chan",
+  "altTitle": [
+    "まことちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/8372/Makoto-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/1641/109775.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/search/index.php?pdt_no=87"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7361"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4483"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Makoto-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7361,
+  "Pages": {
+    "9anime": {
+      "r59p": {
+        "createdAt": "2020-12-09T14:24:11.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29928,
+        "identifier": "r59p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Makoto-chan",
+        "url": "https://9anime.to/watch/makoto-chan.r59p",
+        "image": "//static.9anime.to/i/cache/images/6/69/6980deba216a42cc778746a865c23acd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8372,
+        "aniId": 8372,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T15:51:38.000Z",
+  "checkedAt": "2022-05-14T15:51:38.000Z",
+  "id": 35183,
+  "type": "anime",
+  "title": "Gurazeni",
+  "altTitle": [
+    "Gurazeni: Money Pitch",
+    "グラゼニ"
+  ],
+  "url": "https://myanimelist.net/anime/35183/Gurazeni",
+  "image": "https://cdn.myanimelist.net/images/anime/1365/95058.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bs-sptv.com/gurazeni/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12995"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20202"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gurazeni"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276045"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12995,
+  "Pages": {
+    "9anime": {
+      "z40m": {
+        "createdAt": "2020-10-12T15:57:05.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11001,
+        "identifier": "z40m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gurazeni",
+        "url": "https://9anime.to/watch/gurazeni.z40m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/04/3ae7be4d2f071d99074a415a76a10648.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35183,
+        "aniId": 98479,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gurazeni": {
+        "createdAt": "2020-10-12T16:00:36.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18057,
+        "identifier": "gurazeni",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gurazeni",
+        "url": "https://gogoanime.vc/category/gurazeni",
+        "image": "https://cdnimg.xyz/cover/gurazeni.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35183,
+        "aniId": 98479,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2511": {
+        "identifier": "2511",
+        "malId": 35183,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gurazeni",
+        "url": "https://animepahe.com/a/2511"
+      }
+    },
+    "AniMixPlay": {
+      "35183": {
+        "identifier": "35183",
+        "malId": 35183,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gurazeni",
+        "url": "https://animixplay.to/anime/35183"
+      }
+    },
+    "YugenAnime": {
+      "590": {
+        "identifier": "590",
+        "malId": 35183,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gurazeni",
+        "url": "https://yugen.to/anime/590/gurazeni/"
+      }
+    }
+  }
+}

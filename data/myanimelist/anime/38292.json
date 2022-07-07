@@ -1,0 +1,123 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T18:45:17.000Z",
+  "checkedAt": "2022-05-14T18:45:17.000Z",
+  "id": 38292,
+  "type": "anime",
+  "title": "Mutafukaz",
+  "altTitle": [
+    "M★F★K★Z",
+    "MFKZ",
+    "ムタフカズ -MUTAFUKAZ-"
+  ],
+  "url": "https://myanimelist.net/anime/38292/Mutafukaz",
+  "image": "https://cdn.myanimelist.net/images/anime/1718/95259.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mutafukaz.jp/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mutafukaz"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "v1w2": {
+        "createdAt": "2020-10-12T15:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9162,
+        "identifier": "v1w2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "MFKZ (Dub)",
+        "url": "https://9anime.to/watch/mfkz-dub.v1w2",
+        "image": "https://static.akacdn.ru/static/images/2019/02/5235e6b49a7ef6852426103d09e593ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38292,
+        "aniId": 100356,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mutafukaz": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19594,
+        "identifier": "mutafukaz",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mutafukaz",
+        "url": "https://gogoanime.vc/category/mutafukaz",
+        "image": "https://cdnimg.xyz/cover/mutafukaz.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38292,
+        "aniId": 100356,
+        "deletedAt": null
+      },
+      "mutafukaz-dub": {
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19595,
+        "identifier": "mutafukaz-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mutafukaz (Dub)",
+        "url": "https://gogoanime.vc/category/mutafukaz-dub",
+        "image": "https://cdnimg.xyz/cover/mutafukaz-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38292,
+        "aniId": 100356,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3869": {
+        "identifier": "3869",
+        "malId": 38292,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mutafukaz",
+        "url": "https://animepahe.com/a/3869"
+      }
+    },
+    "AniMixPlay": {
+      "38292": {
+        "identifier": "38292",
+        "malId": 38292,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mutafukaz",
+        "url": "https://animixplay.to/anime/38292"
+      }
+    },
+    "YugenAnime": {
+      "138": {
+        "identifier": "138",
+        "malId": 38292,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mutafukaz",
+        "url": "https://yugen.to/anime/138/mutafukaz/"
+      }
+    }
+  }
+}

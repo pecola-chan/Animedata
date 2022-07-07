@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-14T10:10:50.000Z",
+  "checkedAt": "2022-05-14T10:10:50.000Z",
+  "id": 10800,
+  "type": "anime",
+  "title": "Chihayafuru",
+  "altTitle": [
+    "Chihayafull",
+    "Chihayafuru",
+    "ちはやふる"
+  ],
+  "url": "https://myanimelist.net/anime/10800/Chihayafuru",
+  "image": "https://cdn.myanimelist.net/images/anime/3/35749.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/chihayafuru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8538"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12991"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-237918"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/chihayafuru"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8538,
+  "Pages": {
+    "9anime": {
+      "9n2m": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4359,
+        "identifier": "9n2m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chihayafuru (Dub)",
+        "url": "https://9anime.to/watch/chihayafuru-dub.9n2m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SJd1mdXwITU/Wbp7WJtJMeI/AAAAAAAAAYA/2ZXBL-Bg0HUoAKGt2hKLb5Pqwtl-d0IlwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10800,
+        "aniId": 10800,
+        "deletedAt": null
+      },
+      "lk6": {
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6021,
+        "identifier": "lk6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chihayafuru",
+        "url": "https://9anime.to/watch/chihayafuru.lk6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3wCN3tA-Dss/V3wm3pS0zpI/AAAAAAAAtkQ/pgTTFCBWk54/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10800,
+        "aniId": 10800,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chihayafuru": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17055,
+        "identifier": "chihayafuru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chihayafuru",
+        "url": "https://gogoanime.vc/category/chihayafuru",
+        "image": "https://cdnimg.xyz/images/anime/C/chihayafuru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10800,
+        "aniId": 10800,
+        "deletedAt": null
+      },
+      "chihayafuru-dub": {
+        "createdAt": "2020-10-12T16:00:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17060,
+        "identifier": "chihayafuru-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chihayafuru (Dub)",
+        "url": "https://gogoanime.vc/category/chihayafuru-dub",
+        "image": "https://gogocdn.net/cover/chihayafuru-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10800,
+        "aniId": 10800,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "117": {
+        "identifier": "117",
+        "malId": 10800,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Chihayafuru",
+        "url": "https://animepahe.com/a/117"
+      }
+    },
+    "AniMixPlay": {
+      "10800": {
+        "identifier": "10800",
+        "malId": 10800,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chihayafuru",
+        "url": "https://animixplay.to/anime/10800"
+      }
+    },
+    "YugenAnime": {
+      "139": {
+        "identifier": "139",
+        "malId": 10800,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chihayafuru",
+        "url": "https://yugen.to/anime/139/chihayafuru/"
+      }
+    }
+  }
+}

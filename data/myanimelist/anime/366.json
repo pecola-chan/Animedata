@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T17:47:53.000Z",
+  "checkedAt": "2022-05-14T17:47:53.000Z",
+  "id": 366,
+  "type": "anime",
+  "title": "AIKa",
+  "altTitle": [
+    "Agent AIKa",
+    "ＡＩＫａ"
+  ],
+  "url": "https://myanimelist.net/anime/366/AIKa",
+  "image": "https://cdn.myanimelist.net/images/anime/11/61673.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.studiofantasia.co.jp/2000%E5%B9%B4%E4%BB%A5%E5%89%8D/2000%E5%B9%B4%E4%BB%A5%E5%89%8D-2/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=280"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=102"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/AIKa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 280,
+  "Pages": {
+    "9anime": {
+      "jl6n": {
+        "createdAt": "2020-10-12T15:52:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4897,
+        "identifier": "jl6n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AIKa",
+        "url": "https://9anime.to/watch/aika.jl6n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yXG3Ht04B0I/V-FSIhykZWI/AAAAAAAA_F4/cx-4mtkM4k8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 366,
+        "aniId": 366,
+        "deletedAt": null
+      },
+      "km4w": {
+        "createdAt": "2020-10-12T15:52:39.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5506,
+        "identifier": "km4w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AIKa (Dub)",
+        "url": "https://9anime.to/watch/aika-dub.km4w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AdQOW2lqQ-c/V-FSUGi_q1I/AAAAAAAA_F8/cmmL-riROEc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 366,
+        "aniId": 366,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "agent-aika": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16386,
+        "identifier": "agent-aika",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Agent Aika",
+        "url": "https://gogoanime.vc/category/agent-aika",
+        "image": "https://cdnimg.xyz/images/anime/agent-aika.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 366,
+        "aniId": 366,
+        "deletedAt": null
+      },
+      "aika-dub": {
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16414,
+        "identifier": "aika-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "AIKa (Dub)",
+        "url": "https://gogoanime.vc/category/aika-dub",
+        "image": "https://gogocdn.net/cover/aika-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 366,
+        "aniId": 366,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "366": {
+        "identifier": "366",
+        "malId": 366,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "AIKa",
+        "url": "https://animixplay.to/anime/366"
+      }
+    },
+    "YugenAnime": {
+      "1185": {
+        "identifier": "1185",
+        "malId": 366,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "AIKa",
+        "url": "https://yugen.to/anime/1185/aika/"
+      }
+    }
+  }
+}

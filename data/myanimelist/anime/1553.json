@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-14T22:20:17.000Z",
+  "checkedAt": "2022-05-14T22:20:17.000Z",
+  "id": 1553,
+  "type": "anime",
+  "title": "Queen Emeraldas",
+  "altTitle": [
+    "クィーン・エメラルダス"
+  ],
+  "url": "https://myanimelist.net/anime/1553/Queen_Emeraldas",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21120.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=683"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=199"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Queen_Emeraldas"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 683,
+  "Pages": {
+    "9anime": {
+      "2qoq": {
+        "createdAt": "2020-10-12T15:49:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1504,
+        "identifier": "2qoq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Queen Emeraldas",
+        "url": "https://9anime.to/watch/queen-emeraldas.2qoq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-c9qqtuQrVWc/V_-sVSAknbI/AAAAAAABHTg/rtXzeM2UJ_g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1553,
+        "aniId": 1553,
+        "deletedAt": null
+      },
+      "31ry": {
+        "createdAt": "2020-10-12T15:49:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1650,
+        "identifier": "31ry",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Queen Emeraldas (Dub)",
+        "url": "https://9anime.to/watch/queen-emeraldas-dub.31ry",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sKMgsigysRc/V_-sWP6g-lI/AAAAAAABHTk/_BTI1YewZFs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1553,
+        "aniId": 1553,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "queen-emeraldas": {
+        "createdAt": "2022-03-07T12:30:02.000Z",
+        "updatedAt": "2022-03-07T12:59:39.000Z",
+        "checkedAt": null,
+        "id": 40409,
+        "identifier": "queen-emeraldas",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Queen Emeraldas",
+        "url": "https://gogoanime.fi/category/queen-emeraldas",
+        "image": "https://gogocdn.net/cover/queen-emeraldas.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1553,
+        "aniId": 1553,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1553": {
+        "identifier": "1553",
+        "malId": 1553,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Queen Emeraldas",
+        "url": "https://animixplay.to/anime/1553"
+      }
+    },
+    "YugenAnime": {
+      "11774": {
+        "identifier": "11774",
+        "malId": 1553,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Queen Emeraldas",
+        "url": "https://yugen.to/anime/11774/queen-emeraldas/"
+      }
+    }
+  }
+}

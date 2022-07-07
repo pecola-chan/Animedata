@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:39:19.000Z",
+  "updatedAt": "2022-05-14T05:00:20.000Z",
+  "checkedAt": "2022-05-14T05:00:20.000Z",
+  "id": 18095,
+  "type": "anime",
+  "title": "Nourin",
+  "altTitle": [
+    "Agriculture and Forestry",
+    "No-Rin",
+    "のうりん"
+  ],
+  "url": "https://myanimelist.net/anime/18095/Nourin",
+  "image": "https://cdn.myanimelist.net/images/anime/6/57563.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.no-rin.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9801"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15508"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/No-Rin"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-258955"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/no-rin"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9801,
+  "Pages": {
+    "9anime": {
+      "2p3l": {
+        "createdAt": "2020-10-12T15:49:29.000Z",
+        "updatedAt": "2022-06-13T23:31:04.000Z",
+        "checkedAt": "2022-06-13T23:31:04.000Z",
+        "id": 1472,
+        "identifier": "2p3l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nourin",
+        "url": "https://9anime.to/watch/no-rin.2p3l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a0425e7a6123d013d0e52c67abf0145c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18095,
+        "aniId": 18095,
+        "deletedAt": null
+      },
+      "oqoj": {
+        "createdAt": "2020-10-12T15:54:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7636,
+        "identifier": "oqoj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nourin (Dub)",
+        "url": "https://9anime.to/watch/nourin-dub.oqoj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-u6BoZUwyjVs/V9llXNtxr0I/AAAAAAAA-EY/EDzKzVUVF-k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18095,
+        "aniId": 18095,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "no-rin-dub": {
+        "createdAt": "2020-10-12T16:01:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19764,
+        "identifier": "no-rin-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "No-Rin (Dub)",
+        "url": "https://gogoanime.vc/category/no-rin-dub",
+        "image": "https://images.gogoanime.tv/cover/no-rin-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18095,
+        "aniId": 18095,
+        "deletedAt": null
+      },
+      "nourin": {
+        "createdAt": "2020-10-12T16:01:27.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19798,
+        "identifier": "nourin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nourin",
+        "url": "https://gogoanime.vc/category/nourin",
+        "image": "https://cdnimg.xyz/images/Nourin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18095,
+        "aniId": 18095,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "259": {
+        "identifier": "259",
+        "malId": 18095,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nourin",
+        "url": "https://animepahe.com/a/259"
+      }
+    },
+    "AniMixPlay": {
+      "18095": {
+        "identifier": "18095",
+        "malId": 18095,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nourin",
+        "url": "https://animixplay.to/anime/18095"
+      }
+    },
+    "YugenAnime": {
+      "2153": {
+        "identifier": "2153",
+        "malId": 18095,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nourin",
+        "url": "https://yugen.to/anime/2153/nourin/"
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T20:17:05.000Z",
+  "checkedAt": "2022-05-14T20:17:05.000Z",
+  "id": 1935,
+  "type": "anime",
+  "title": "Megazone 23",
+  "altTitle": [
+    "Megazone 23 Part II",
+    "Megazone 23 Part III",
+    "Robotech: The Untold Story (U.S.)",
+    "Megazone 23",
+    "メガゾーン23"
+  ],
+  "url": "https://myanimelist.net/anime/1935/Megazone_23",
+  "image": "https://cdn.myanimelist.net/images/anime/1153/94528.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jvcmusic.co.jp/m-serve/megazone/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1729"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2296"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Megazone_23"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1729,
+  "Pages": {
+    "9anime": {
+      "l87n": {
+        "createdAt": "2020-10-12T15:53:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5942,
+        "identifier": "l87n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Megazone 23",
+        "url": "https://9anime.to/watch/megazone-23.l87n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LTFnGDi2PoI/V_lG4aPw13I/AAAAAAABFZE/B-QQ8MtPSPA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1935,
+        "aniId": 1935,
+        "deletedAt": null
+      },
+      "o8xz": {
+        "createdAt": "2020-10-12T15:54:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7469,
+        "identifier": "o8xz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Megazone 23 (Dub)",
+        "url": "https://9anime.to/watch/megazone-23-dub.o8xz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-FH2tkIGy2to/WBtZsnGUxaI/AAAAAAABNDc/R2MPj-DPvIM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1935,
+        "aniId": 1935,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "megazone-23": {
+        "createdAt": "2021-03-08T10:10:40.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35525,
+        "identifier": "megazone-23",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Megazone 23",
+        "url": "https://gogoanime.vc/category/megazone-23",
+        "image": "https://gogocdn.net/cover/megazone-23.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1935,
+        "aniId": 1935,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1935": {
+        "identifier": "1935",
+        "malId": 1935,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Megazone 23",
+        "url": "https://animixplay.to/anime/1935"
+      }
+    },
+    "YugenAnime": {
+      "7312": {
+        "identifier": "7312",
+        "malId": 1935,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Megazone 23",
+        "url": "https://yugen.to/anime/7312/megazone-23/"
+      }
+    }
+  }
+}

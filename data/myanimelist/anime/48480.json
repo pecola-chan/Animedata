@@ -1,0 +1,52 @@
+{
+  "createdAt": "2021-03-22T18:34:42.000Z",
+  "updatedAt": "2022-05-14T20:26:17.000Z",
+  "checkedAt": "2022-05-14T20:26:17.000Z",
+  "id": 48480,
+  "type": "anime",
+  "title": "Wan Jie Shen Zhu 3rd Season",
+  "altTitle": [
+    "Lord of the Universe 3rd Season",
+    "万界神主 第三季"
+  ],
+  "url": "https://myanimelist.net/anime/48480/Wan_Jie_Shen_Zhu_3rd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1436/113495.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/y/y0jueuihog64xhb.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E4%B8%87%E7%95%8C%E7%A5%9E%E4%B8%BB/23230149"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "lv7q": {
+        "createdAt": "2021-03-23T15:36:22.000Z",
+        "updatedAt": "2022-04-02T05:01:22.000Z",
+        "checkedAt": null,
+        "id": 35885,
+        "identifier": "lv7q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wan Jie Shenzhu 3",
+        "url": "https://9anime.to/watch/wan-jie-shenzhu-3.lv7q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f8/f87cf7913fb1c117de46536df9d5be6e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48480,
+        "aniId": 122690,
+        "deletedAt": null
+      }
+    }
+  }
+}

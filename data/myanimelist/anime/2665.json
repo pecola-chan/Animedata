@@ -1,0 +1,90 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-15T22:45:40.000Z",
+  "checkedAt": "2022-05-15T22:45:40.000Z",
+  "id": 2665,
+  "type": "anime",
+  "title": "Doraemon Movie 07: Nobita to Tetsujin Heidan",
+  "altTitle": [
+    "Doraemon: Nobita and the Platoon of Iron Men",
+    "Doraemon the Movie: Nobita and the Steel Troops",
+    "映画 ドラえもん のび太と鉄人兵団"
+  ],
+  "url": "https://myanimelist.net/anime/2665/Doraemon_Movie_07__Nobita_to_Tetsujin_Heidan",
+  "image": "https://cdn.myanimelist.net/images/anime/10/72412.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dora-movie.com/film_history/history_7.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4674"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1891"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Steel_Troops"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4674,
+  "Pages": {
+    "9anime": {
+      "4jjo": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2227,
+        "identifier": "4jjo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doraemon Movie 07: Nobita to Tetsujin Heidan",
+        "url": "https://9anime.to/watch/doraemon-movie-07-nobita-to-tetsujin-heidan.4jjo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Z_zP3hSU0lo/V578AO0I5QI/AAAAAAAAzf8/MFdapRO9-7c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2665,
+        "aniId": 2665,
+        "deletedAt": null
+      },
+      "5np0": {
+        "createdAt": "2020-10-12T15:50:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2702,
+        "identifier": "5np0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doraemon Movie 07: Nobita to Tetsujin Heidan (Dub)",
+        "url": "https://9anime.to/watch/doraemon-movie-07-nobita-to-tetsujin-heidan-dub.5np0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-K05f_7y-uxA/Wa_FtTkZx8I/AAAAAAAADzA/nYxiT1MAI3kQ22G-gDV6Snt9VTsXHwZaACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2665,
+        "aniId": 2665,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "5030": {
+        "identifier": "5030",
+        "malId": 2665,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Doraemon Movie 07: Nobita to Tetsujin Heidan",
+        "url": "https://yugen.to/anime/5030/doraemon-movie-nobita-and-the-legend-of-the-sun-king-2000/"
+      }
+    }
+  }
+}

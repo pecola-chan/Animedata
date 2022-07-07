@@ -1,0 +1,77 @@
+{
+  "createdAt": "2021-09-13T16:05:59.000Z",
+  "updatedAt": "2021-09-13T16:34:36.000Z",
+  "checkedAt": null,
+  "id": 38626,
+  "identifier": "flanders-no-inu-boku-no-patrasche",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Flanders no Inu, Boku no Patrasche",
+  "url": "https://gogoanime.pe/category/flanders-no-inu-boku-no-patrasche",
+  "image": "https://gogocdn.net/cover/flanders-no-inu-boku-no-patrasche.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2624,
+  "aniId": 2624,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:31.000Z",
+    "updatedAt": "2022-05-15T08:46:27.000Z",
+    "checkedAt": "2022-05-15T08:46:27.000Z",
+    "id": 2624,
+    "type": "anime",
+    "title": "Flanders no Inu, Boku no Patrasche",
+    "altTitle": [
+      "A Dog of Flanders: My Friend Patrasche",
+      "A Dog of Flanders: My Patrasche",
+      "フランダースの犬　～ぼくのパトラッシュ～"
+    ],
+    "url": "https://myanimelist.net/anime/2624/Flanders_no_Inu_Boku_no_Patrasche",
+    "image": "https://cdn.myanimelist.net/images/anime/7/22953.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/old/tv/data/t_patra.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1651"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1306"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Flanders_no_Inu"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1651
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:24.000Z",
+    "updatedAt": "2022-05-17T07:17:35.000Z",
+    "checkedAt": "2022-05-17T07:17:35.000Z",
+    "id": 2624,
+    "type": "anime",
+    "title": "Flanders no Inu, Boku no Patrasche",
+    "altTitle": [
+      "A Dog of Flanders: My Patrasche",
+      "フランダースの犬　～ぼくのパトラッシュ～",
+      "A Dog of Flanders: My Friend Patrasche"
+    ],
+    "url": "https://anilist.co/anime/2624",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2624.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2624,
+    "deletedAt": null
+  }
+}

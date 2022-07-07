@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:49.000Z",
+  "updatedAt": "2022-05-13T23:53:20.000Z",
+  "checkedAt": "2022-05-13T23:53:20.000Z",
+  "id": 34213,
+  "type": "anime",
+  "title": "Getsuyoubi no Tawawa",
+  "altTitle": [
+    "Tawawa on Monday",
+    "Tawawa on Monday",
+    "月曜日のたわわ"
+  ],
+  "url": "https://myanimelist.net/anime/34213/Getsuyoubi_no_Tawawa",
+  "image": "https://cdn.myanimelist.net/images/anime/13/83576.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ch.nicovideo.jp/PBM"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12462"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18786"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E6%9B%9C%E6%97%A5%E3%81%AE%E3%81%9F%E3%82%8F%E3%82%8F"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281865"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12462,
+  "Pages": {
+    "9anime": {
+      "mzp8": {
+        "createdAt": "2020-10-12T15:53:40.000Z",
+        "updatedAt": "2022-06-14T01:31:56.000Z",
+        "checkedAt": "2022-06-14T01:31:56.000Z",
+        "id": 6850,
+        "identifier": "mzp8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Getsuyoubi no Tawawa",
+        "url": "https://9anime.to/watch/tawawa-on-monday.mzp8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/94d88328064dd9389208dd5e086880c5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34213,
+        "aniId": 97716,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "getsuyoubi-no-tawawa": {
+        "createdAt": "2020-10-12T16:00:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17843,
+        "identifier": "getsuyoubi-no-tawawa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Getsuyoubi no Tawawa",
+        "url": "https://gogoanime.vc/category/getsuyoubi-no-tawawa",
+        "image": "https://images.gogoanime.tv/cover/getsuyoubi-no-tawawa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34213,
+        "aniId": 97716,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1520": {
+        "identifier": "1520",
+        "malId": 34213,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Getsuyoubi no Tawawa",
+        "url": "https://animepahe.com/a/1520"
+      }
+    },
+    "AniMixPlay": {
+      "34213": {
+        "identifier": "34213",
+        "malId": 34213,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Getsuyoubi no Tawawa",
+        "url": "https://animixplay.to/anime/34213"
+      }
+    },
+    "YugenAnime": {
+      "532": {
+        "identifier": "532",
+        "malId": 34213,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Getsuyoubi no Tawawa",
+        "url": "https://yugen.to/anime/532/getsuyoubi-no-tawawa/"
+      }
+    }
+  }
+}

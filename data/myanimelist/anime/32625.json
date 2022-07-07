@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T21:44:47.000Z",
+  "checkedAt": "2022-05-14T21:44:47.000Z",
+  "id": 32625,
+  "type": "anime",
+  "title": "Okusama ga Seitokaichou! OVA: Okusama Gekijou",
+  "altTitle": [
+    "Okusama ga Seitokaichou! OVA Specials",
+    "My Wife is the Student Council President OVA: Wife Theater",
+    "おくさまが生徒会長！OAD「おくさま劇場」"
+  ],
+  "url": "https://myanimelist.net/anime/32625/Okusama_ga_Seitokaichou_OVA__Okusama_Gekijou",
+  "image": "https://cdn.myanimelist.net/images/anime/12/78487.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11743"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11743,
+  "Pages": {
+    "9anime": {
+      "1nrrx": {
+        "createdAt": "2022-02-05T18:36:34.000Z",
+        "updatedAt": "2022-02-05T19:06:03.000Z",
+        "checkedAt": null,
+        "id": 40089,
+        "identifier": "1nrrx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Okusama ga Seitokaichou! OVA: Okusama Gekijou",
+        "url": "https://9anime.to/watch/my-wife-is-the-student-council-president-ova-wife-theater.1nrrx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/08/08d3e796f4daf9a7321f4db2b7087cd6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32625,
+        "aniId": 102503,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "32625": {
+        "identifier": "32625",
+        "malId": 32625,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Okusama ga Seitokaichou! OVA: Okusama Gekijou",
+        "url": "https://animixplay.to/anime/32625"
+      }
+    }
+  }
+}

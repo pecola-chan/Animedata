@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T15:46:34.000Z",
+  "checkedAt": "2022-05-14T15:46:34.000Z",
+  "id": 420,
+  "type": "anime",
+  "title": "Spriggan",
+  "altTitle": [
+    "Spriggan",
+    "スプリガン"
+  ],
+  "url": "https://myanimelist.net/anime/420/Spriggan",
+  "image": "https://cdn.myanimelist.net/images/anime/1398/95001.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sprigganthemovie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=218"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=224"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Spriggan_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 218,
+  "Pages": {
+    "9anime": {
+      "y350": {
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10528,
+        "identifier": "y350",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spriggan",
+        "url": "https://9anime.to/watch/spriggan.y350",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2F4_cQKMB2w/WPmvXr_IocI/AAAAAAAAjKE/EWL1Kn-qZ-w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 420,
+        "aniId": 420,
+        "deletedAt": null
+      },
+      "yxkz": {
+        "createdAt": "2020-10-12T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10899,
+        "identifier": "yxkz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spriggan (Dub)",
+        "url": "https://9anime.to/watch/spriggan-dub.yxkz",
+        "image": "https://static.akacdn.ru/files/images/2018/04/b13c25673b38b3d3c5c86e590d4b90c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 420,
+        "aniId": 420,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "spriggan-dub": {
+        "createdAt": "2021-06-05T21:20:18.000Z",
+        "updatedAt": "2021-06-05T21:48:57.000Z",
+        "checkedAt": null,
+        "id": 37208,
+        "identifier": "spriggan-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Spriggan (Dub)",
+        "url": "https://gogoanime.vc/category/spriggan-dub",
+        "image": "https://gogocdn.net/cover/spriggan-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 420,
+        "aniId": 420,
+        "deletedAt": null
+      },
+      "spriggan": {
+        "createdAt": "2021-07-10T04:13:17.000Z",
+        "updatedAt": "2021-07-10T04:43:17.000Z",
+        "checkedAt": null,
+        "id": 37780,
+        "identifier": "spriggan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Spriggan",
+        "url": "https://gogoanime.pe/category/spriggan",
+        "image": "https://gogocdn.net/images/anime/S/Spriggan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 420,
+        "aniId": 420,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4801": {
+        "identifier": "4801",
+        "malId": 420,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Spriggan",
+        "url": "https://animepahe.com/a/4801"
+      }
+    },
+    "AniMixPlay": {
+      "420": {
+        "identifier": "420",
+        "malId": 420,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Spriggan",
+        "url": "https://animixplay.to/anime/420"
+      }
+    },
+    "YugenAnime": {
+      "1708": {
+        "identifier": "1708",
+        "malId": 420,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Spriggan",
+        "url": "https://yugen.to/anime/1708/spriggan/"
+      }
+    }
+  }
+}

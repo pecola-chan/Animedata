@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:17.000Z",
+  "updatedAt": "2022-05-14T23:57:29.000Z",
+  "checkedAt": "2022-05-14T23:57:29.000Z",
+  "id": 1480,
+  "type": "anime",
+  "title": "Sky Girls OVA",
+  "altTitle": [
+    "スカイガールズ"
+  ],
+  "url": "https://myanimelist.net/anime/1480/Sky_Girls_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/2/78405.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.skygirls.konami.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4383"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6692"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sky_Girls"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4383,
+  "Pages": {
+    "9anime": {
+      "l453": {
+        "createdAt": "2020-10-12T15:52:57.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5825,
+        "identifier": "l453",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sky Girls OVA",
+        "url": "https://9anime.to/watch/sky-girls-ova.l453",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jnvcU4O5Czk/WDZNSVy8o4I/AAAAAAABQKQ/YDxGt73oJVs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1480,
+        "aniId": 1480,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sky-girls": {
+        "createdAt": "2020-12-31T11:20:39.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 31427,
+        "identifier": "sky-girls",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sky Girls OVA",
+        "url": "https://gogoanime.vc/category/sky-girls",
+        "image": "https://gogocdn.net/images/anime/S/Sky-Girls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1480,
+        "aniId": 1480,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1480": {
+        "identifier": "1480",
+        "malId": 1480,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sky Girls OVA",
+        "url": "https://animixplay.to/anime/1480"
+      }
+    },
+    "YugenAnime": {
+      "2406": {
+        "identifier": "2406",
+        "malId": 1480,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sky Girls OVA",
+        "url": "https://yugen.to/anime/2406/sky-girls-tv/"
+      }
+    }
+  }
+}

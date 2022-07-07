@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T21:20:23.000Z",
+  "checkedAt": "2022-05-14T21:20:23.000Z",
+  "id": 41674,
+  "type": "anime",
+  "title": "Aria the Crepuscolo",
+  "altTitle": [
+    "ARIA The CREPUSCOLO"
+  ],
+  "url": "https://myanimelist.net/anime/41674/Aria_the_Crepuscolo",
+  "image": "https://cdn.myanimelist.net/images/anime/1934/111002.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ariacompany.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15499"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aria_(manga)#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15499,
+  "Pages": {
+    "9anime": {
+      "v662": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9253,
+        "identifier": "v662",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aria the Crepuscolo",
+        "url": "https://9anime.to/watch/aria-the-crepuscolo.v662",
+        "image": "https://static.akacdn.ru/files/images/2020/07/79e1e5261d84c0ca3efd0c4d73312886.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41674,
+        "aniId": 117556,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aria-the-crepuscolo": {
+        "createdAt": "2021-08-28T09:06:36.000Z",
+        "updatedAt": "2021-08-28T09:36:33.000Z",
+        "checkedAt": null,
+        "id": 38460,
+        "identifier": "aria-the-crepuscolo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aria the Crepuscolo",
+        "url": "https://gogoanime.pe/category/aria-the-crepuscolo",
+        "image": "https://gogocdn.net/cover/aria-the-crepuscolo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41674,
+        "aniId": 117556,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41674": {
+        "identifier": "41674",
+        "malId": 41674,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aria the Crepuscolo",
+        "url": "https://animixplay.to/anime/41674"
+      }
+    },
+    "YugenAnime": {
+      "9695": {
+        "identifier": "9695",
+        "malId": 41674,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Aria the Crepuscolo",
+        "url": "https://yugen.to/anime/9695/aria-the-crepuscolo/"
+      }
+    }
+  }
+}

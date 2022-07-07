@@ -1,0 +1,66 @@
+{
+  "createdAt": "2021-07-13T03:45:23.000Z",
+  "updatedAt": "2021-07-13T04:15:01.000Z",
+  "checkedAt": null,
+  "id": 37843,
+  "identifier": "master-of-torque-2",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Master of Torque 2",
+  "url": "https://gogoanime.pe/category/master-of-torque-2",
+  "image": "https://gogocdn.net/cover/master-of-torque-2.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 25393,
+  "aniId": 20788,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T20:14:11.000Z",
+    "checkedAt": "2022-05-14T20:14:11.000Z",
+    "id": 25393,
+    "type": "anime",
+    "title": "Master of Torque 2",
+    "altTitle": [
+      "Master of Torque 2nd Season",
+      "マスター・オブ・トルク2"
+    ],
+    "url": "https://myanimelist.net/anime/25393/Master_of_Torque_2",
+    "image": "https://cdn.myanimelist.net/images/anime/3/64787.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://global.yamaha-motor.com/showroom/mt/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10748"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10748
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:38.000Z",
+    "updatedAt": "2022-05-15T15:54:59.000Z",
+    "checkedAt": "2022-05-15T15:54:59.000Z",
+    "id": 20788,
+    "type": "anime",
+    "title": "Master of Torque 2",
+    "altTitle": [
+      "マスター・オブ・トルク2"
+    ],
+    "url": "https://anilist.co/anime/20788",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20788-9l6FKO5BNekJ.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 25393,
+    "deletedAt": null
+  }
+}

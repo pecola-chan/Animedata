@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T21:48:29.000Z",
+  "checkedAt": "2022-05-14T21:48:29.000Z",
+  "id": 595,
+  "type": "anime",
+  "title": "X OVA",
+  "altTitle": [
+    "X - Yochou",
+    "X OVA: Episode 0",
+    "X - An Omen",
+    "X: An Omen",
+    "X -エックス-第零話 予兆"
+  ],
+  "url": "https://myanimelist.net/anime/595/X_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/12/83082.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/2003-2002/works_tv_x.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=30"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=608"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/X_TV"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 30,
+  "Pages": {
+    "9anime": {
+      "5599": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 167,
+        "identifier": "5599",
+        "type": "anime",
+        "page": "9anime",
+        "title": "X: An Omen",
+        "url": "https://9anime.to/watch/x-an-omen.5599",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5c2AapWDoH8/WkYaqqDYuCI/AAAAAAAACss/oV8LT1Niz64QLNjiCxB760ljVZ3dkvW3gCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 595,
+        "aniId": 595,
+        "deletedAt": null
+      },
+      "77o8": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3384,
+        "identifier": "77o8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "X: An Omen (Dub)",
+        "url": "https://9anime.to/watch/x-an-omen-dub.77o8",
+        "image": "https://static.akacdn.ru/files/images/2018/03/d92b729162adcca7de793caf1b9dae0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 595,
+        "aniId": 595,
+        "deletedAt": null
+      }
+    }
+  }
+}

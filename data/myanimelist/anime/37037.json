@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T21:42:59.000Z",
+  "checkedAt": "2022-05-14T21:42:59.000Z",
+  "id": 37037,
+  "type": "anime",
+  "title": "Animegataris: Yuku Toshi, Kuru Toshi",
+  "altTitle": [
+    "Anime-Gataris: The Passing Year, The Coming Year",
+    "Animegataris Omake",
+    "アニメガタリズ: ユクトシ、クルトシ"
+  ],
+  "url": "https://myanimelist.net/anime/37037/Animegataris__Yuku_Toshi_Kuru_Toshi",
+  "image": "https://cdn.myanimelist.net/images/anime/1098/99544.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://animegataris.com/news/20171231_1"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%AC%E3%82%BF%E3%83%AA#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8E%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%AC%E3%82%BF%E3%83%AA%E3%82%BA%E3%80%8F"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "ky39": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5688,
+        "identifier": "ky39",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animegataris: Yuku Toshi, Kuru Toshi",
+        "url": "https://9anime.to/watch/animegataris-yuku-toshi-kuru-toshi.ky39",
+        "image": "https://static.akacdn.ru/files/images/2020/08/af391c08cab31e000024b58560468815.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37037,
+        "aniId": 123056,
+        "deletedAt": null
+      }
+    }
+  }
+}

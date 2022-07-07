@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-14T16:23:57.000Z",
+  "checkedAt": "2022-05-14T16:23:57.000Z",
+  "id": 4720,
+  "type": "anime",
+  "title": "White Album",
+  "altTitle": [
+    "W.A.",
+    "White Album",
+    "ホワイトアルバム"
+  ],
+  "url": "https://myanimelist.net/anime/4720/White_Album",
+  "image": "https://cdn.myanimelist.net/images/anime/12/43537.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.whitealbum-tv.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6026"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10134"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/White_Album_(visual_novel)#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-191567"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6026,
+  "Pages": {
+    "9anime": {
+      "7py": {
+        "createdAt": "2020-10-12T15:51:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3533,
+        "identifier": "7py",
+        "type": "anime",
+        "page": "9anime",
+        "title": "White Album",
+        "url": "https://9anime.to/watch/white-album.7py",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7_FBPDpN0RQ/V4AMSMu9W2I/AAAAAAAAuAI/w6KlVezUCbk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4720,
+        "aniId": 4720,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "white-album": {
+        "createdAt": "2020-10-12T16:02:15.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21424,
+        "identifier": "white-album",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "White Album",
+        "url": "https://gogoanime.vc/category/white-album",
+        "image": "https://cdnimg.xyz/images/anime/W/white-album.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4720,
+        "aniId": 4720,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "367": {
+        "identifier": "367",
+        "malId": 4720,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "White Album",
+        "url": "https://animepahe.com/a/367"
+      }
+    },
+    "AniMixPlay": {
+      "4720": {
+        "identifier": "4720",
+        "malId": 4720,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "White Album",
+        "url": "https://animixplay.to/anime/4720"
+      }
+    },
+    "YugenAnime": {
+      "304": {
+        "identifier": "304",
+        "malId": 4720,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "White Album",
+        "url": "https://yugen.to/anime/304/white-album/"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T17:19:33.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
+  "checkedAt": null,
+  "id": 23576,
+  "identifier": "wan-jie-xian-zong-4th-season",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Wan Jie Xian Zong 4th Season",
+  "url": "https://gogoanime.pe/category/wan-jie-xian-zong-4th-season",
+  "image": "https://gogocdn.net/cover/wan-jie-xian-zong-4th-season.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 2,
+  "malId": 42898,
+  "aniId": 122689,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T17:58:37.000Z",
+    "updatedAt": "2022-05-14T19:12:42.000Z",
+    "checkedAt": "2022-05-14T19:12:42.000Z",
+    "id": 42898,
+    "type": "anime",
+    "title": "Wan Jie Xian Zong 4th Season",
+    "altTitle": [
+      "Wan Jie Xian Zong Di Si Ji",
+      "Wanjie Xianzong 4th Season",
+      "万界仙踪 第四季"
+    ],
+    "url": "https://myanimelist.net/anime/42898/Wan_Jie_Xian_Zong_4th_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1169/109280.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/5/5cuf8ahvxvm2587.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E4%B8%87%E7%95%8C%E4%BB%99%E8%B8%AA/22451390"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:12.000Z",
+    "updatedAt": "2022-05-15T17:53:35.000Z",
+    "checkedAt": "2022-05-15T17:53:35.000Z",
+    "id": 122689,
+    "type": "anime",
+    "title": "Wan Jie Xian Zong 4",
+    "altTitle": [
+      "万界仙踪 第四季",
+      "Wonderland 4"
+    ],
+    "url": "https://anilist.co/anime/122689",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122689-8SZ5aIJFTWH3.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 42898,
+    "deletedAt": null
+  }
+}

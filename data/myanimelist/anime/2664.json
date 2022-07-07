@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-20T11:53:28.000Z",
+  "checkedAt": "2022-05-20T11:53:28.000Z",
+  "id": 2664,
+  "type": "anime",
+  "title": "Doraemon Movie 19: Nobita no Nankai Daibouken",
+  "altTitle": [
+    "Doraemon: Nobita's South Sea Adventure",
+    "Doraemon the Movie: Nobita's Great Adventure in the South Seas",
+    "映画 ドラえもん のび太の南海大冒険"
+  ],
+  "url": "https://myanimelist.net/anime/2664/Doraemon_Movie_19__Nobita_no_Nankai_Daibouken",
+  "image": "https://cdn.myanimelist.net/images/anime/2/72424.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dora-movie.com/film_history/history_19.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3315"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1914"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita%27s_Great_Adventure_in_the_South_Seas"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3315,
+  "Pages": {
+    "9anime": {
+      "1rrx": {
+        "createdAt": "2020-10-12T15:49:18.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1108,
+        "identifier": "1rrx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doraemon Movie 19: Nobita no Nankai Daibouken",
+        "url": "https://9anime.to/watch/doraemon-movie-19-nobita-no-nankai-daibouken.1rrx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-a0NJNtpds6c/V572kxQBN1I/AAAAAAAAzfM/XWlPZ6B9_cQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2664,
+        "aniId": 2664,
+        "deletedAt": null
+      },
+      "3rrv2": {
+        "createdAt": "2021-11-19T17:46:14.000Z",
+        "updatedAt": "2021-11-19T18:14:03.000Z",
+        "checkedAt": null,
+        "id": 39238,
+        "identifier": "3rrv2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doraemon: Nobita no Nankai Dai Bouken (Dub)",
+        "url": "https://9anime.to/watch/doraemon-nobitas-south-sea-adventure-dub.3rrv2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/64/64f52ffd25db0d913e37cf63dd127ef2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2664,
+        "aniId": 2664,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "doraemon-nobitas-south-sea-adventure": {
+        "createdAt": "2021-06-13T08:38:19.000Z",
+        "updatedAt": "2021-06-13T09:08:18.000Z",
+        "checkedAt": null,
+        "id": 37360,
+        "identifier": "doraemon-nobitas-south-sea-adventure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Doraemon: Nobita`s South Sea Adventure",
+        "url": "https://gogoanime.vc/category/doraemon-nobitas-south-sea-adventure",
+        "image": "https://gogocdn.net/images/anime/D/Doraemon-Nobitas-South-Sea-Adventure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2664,
+        "aniId": 2664,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2664": {
+        "identifier": "2664",
+        "malId": 2664,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Doraemon Movie 19: Nobita no Nankai Daibouken",
+        "url": "https://animixplay.to/anime/2664"
+      }
+    }
+  }
+}

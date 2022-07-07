@@ -1,0 +1,63 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-15T08:12:14.000Z",
+  "checkedAt": "2022-05-15T08:12:14.000Z",
+  "id": 5859,
+  "type": "anime",
+  "title": "Kiddy GiRL-AND Pilot",
+  "altTitle": [
+    "Kiddy Grade 2 Pilot",
+    "キディ・ガーランド"
+  ],
+  "url": "https://myanimelist.net/anime/5859/Kiddy_GiRL-AND_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/6/12294.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "wz86": {
+        "createdAt": "2020-10-12T15:56:20.000Z",
+        "updatedAt": "2022-04-19T20:33:45.000Z",
+        "checkedAt": null,
+        "id": 10008,
+        "identifier": "wz86",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiddy GiRL-AND Pilot",
+        "url": "https://9anime.to/watch/kiddy-girl-and-pilot.wz86",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/4cff8a80e6ceb0192eff5d2eea527a0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5859,
+        "aniId": 5859,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3571": {
+        "identifier": "3571",
+        "malId": 5859,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kiddy GiRL-AND Pilot",
+        "url": "https://animepahe.com/a/3571"
+      }
+    },
+    "AniMixPlay": {
+      "5859": {
+        "identifier": "5859",
+        "malId": 5859,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kiddy GiRL-AND Pilot",
+        "url": "https://animixplay.to/anime/5859"
+      }
+    }
+  }
+}

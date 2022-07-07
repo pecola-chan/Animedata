@@ -1,0 +1,153 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T16:23:08.000Z",
+  "checkedAt": "2022-05-14T16:23:08.000Z",
+  "id": 40935,
+  "type": "anime",
+  "title": "Beastars 2nd Season",
+  "altTitle": [
+    "BEASTARS 2期"
+  ],
+  "url": "https://myanimelist.net/anime/40935/Beastars_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bst-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15330"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23749"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beastars#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15330,
+  "Pages": {
+    "9anime": {
+      "q15v": {
+        "createdAt": "2020-10-12T15:54:55.000Z",
+        "updatedAt": "2022-05-07T08:33:06.000Z",
+        "checkedAt": null,
+        "id": 8238,
+        "identifier": "q15v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BEASTARS 2",
+        "url": "https://9anime.to/watch/beastars-season-2.q15v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/86/86b98be1e23f15bf762d96b62ad88f3f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40935,
+        "aniId": 114194,
+        "deletedAt": null
+      },
+      "7jm31": {
+        "createdAt": "2021-07-15T10:22:18.000Z",
+        "updatedAt": "2021-07-15T10:50:49.000Z",
+        "checkedAt": null,
+        "id": 37880,
+        "identifier": "7jm31",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beastars 2nd Season (Dub)",
+        "url": "https://9anime.to/watch/beastars-2nd-season-dub.7jm31",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2b/2b51792def522e2651a50a12fa566cbe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40935,
+        "aniId": 114194,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beastars-2nd-season": {
+        "createdAt": "2021-01-06T13:30:55.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33076,
+        "identifier": "beastars-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beastars 2nd Season",
+        "url": "https://gogoanime.vc/category/beastars-2nd-season",
+        "image": "https://gogocdn.net/cover/beastars-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40935,
+        "aniId": 114194,
+        "deletedAt": null
+      },
+      "beastars-2nd-season-dub": {
+        "createdAt": "2021-07-15T19:02:26.000Z",
+        "updatedAt": "2021-07-15T19:32:20.000Z",
+        "checkedAt": null,
+        "id": 37886,
+        "identifier": "beastars-2nd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beastars 2nd Season (Dub)",
+        "url": "https://gogoanime.pe/category/beastars-2nd-season-dub",
+        "image": "https://gogocdn.net/cover/beastars-2nd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40935,
+        "aniId": 114194,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4163": {
+        "identifier": "4163",
+        "malId": 40935,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Beastars 2nd Season",
+        "url": "https://animepahe.com/a/4163"
+      }
+    },
+    "AniMixPlay": {
+      "40935": {
+        "identifier": "40935",
+        "malId": 40935,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Beastars 2nd Season",
+        "url": "https://animixplay.to/anime/40935"
+      }
+    },
+    "YugenAnime": {
+      "5347": {
+        "identifier": "5347",
+        "malId": 40935,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Beastars 2nd Season",
+        "url": "https://yugen.to/anime/5347/beastars-2nd-season/"
+      }
+    }
+  }
+}

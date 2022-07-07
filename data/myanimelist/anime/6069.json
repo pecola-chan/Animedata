@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T22:24:53.000Z",
+  "checkedAt": "2022-05-14T22:24:53.000Z",
+  "id": 6069,
+  "type": "anime",
+  "title": "Gregory Horror Show",
+  "altTitle": [
+    "Gregory Horror Show",
+    "グレゴリーホラーショー"
+  ],
+  "url": "https://myanimelist.net/anime/6069/Gregory_Horror_Show",
+  "image": "https://cdn.myanimelist.net/images/anime/1811/103252.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.gregory-horror-show.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2235"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2241"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gregory_Horror_Show"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2235,
+  "Pages": {
+    "9anime": {
+      "k7k6": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5346,
+        "identifier": "k7k6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gregory Horror Show (Dub)",
+        "url": "https://9anime.to/watch/gregory-horror-show-dub.k7k6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2kYKLf__U9U/Wb6C3zonOAI/AAAAAAAAAgU/CHOEXZXTAkAuQn5rKMfPNf3Q-Uo6116xwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6069,
+        "aniId": 6069,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "7642": {
+        "identifier": "7642",
+        "malId": 6069,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gregory Horror Show",
+        "url": "https://yugen.to/anime/7642/gregory-horror-show/"
+      }
+    }
+  }
+}

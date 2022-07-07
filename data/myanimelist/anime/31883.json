@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-14T20:11:47.000Z",
+  "checkedAt": "2022-05-14T20:11:47.000Z",
+  "id": 31883,
+  "type": "anime",
+  "title": "Bakuon!! OVA",
+  "altTitle": [
+    "ばくおん！！OAD"
+  ],
+  "url": "https://myanimelist.net/anime/31883/Bakuon_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/8/79867.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bakuon-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11720"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%B0%E3%81%8F%E3%81%8A%E3%82%93!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11720,
+  "Pages": {
+    "9anime": {
+      "63j7": {
+        "createdAt": "2020-10-12T15:50:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2921,
+        "identifier": "63j7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakuon!! OVA",
+        "url": "https://9anime.to/watch/bakuon-ova.63j7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XmfLyZaM5wk/WGERFTyOCHI/AAAAAAABUyU/UdvA79b_REw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31883,
+        "aniId": 21441,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bakuon-ova": {
+        "createdAt": "2020-10-12T17:58:17.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23765,
+        "identifier": "bakuon-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bakuon!! OVA",
+        "url": "https://gogoanime.vc/category/bakuon-ova",
+        "image": "https://gogocdn.net/cover/bakuon-ova.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31883,
+        "aniId": 21441,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3551": {
+        "identifier": "3551",
+        "malId": 31883,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bakuon!! OVA",
+        "url": "https://animepahe.com/a/3551"
+      }
+    },
+    "AniMixPlay": {
+      "31883": {
+        "identifier": "31883",
+        "malId": 31883,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bakuon!! OVA",
+        "url": "https://animixplay.to/anime/31883"
+      }
+    },
+    "YugenAnime": {
+      "3006": {
+        "identifier": "3006",
+        "malId": 31883,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bakuon!! OVA",
+        "url": "https://yugen.to/anime/3006/bakuon-ova/"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T01:44:31.000Z",
+  "checkedAt": "2022-05-15T01:44:31.000Z",
+  "id": 9491,
+  "type": "anime",
+  "title": "Katsugeki Shoujo Tanteidan",
+  "altTitle": [
+    "Girl Detective Club",
+    "活劇少女探偵団"
+  ],
+  "url": "https://myanimelist.net/anime/9491/Katsugeki_Shoujo_Tanteidan",
+  "image": "https://cdn.myanimelist.net/images/anime/10/41457.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/ova/data/m_katugeki_grils.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3134"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7076"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3134,
+  "Pages": {
+    "9anime": {
+      "78x8": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3405,
+        "identifier": "78x8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Katsugeki Shoujo Tanteidan",
+        "url": "https://9anime.to/watch/katsugeki-shoujo-tanteidan.78x8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-miCxrV15WqA/WNzsk4A806I/AAAAAAAAeas/s8e8Owt3yKY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9491,
+        "aniId": 9491,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9491": {
+        "identifier": "9491",
+        "malId": 9491,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Katsugeki Shoujo Tanteidan",
+        "url": "https://animixplay.to/anime/9491"
+      }
+    }
+  }
+}

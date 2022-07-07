@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-14T19:27:29.000Z",
+  "checkedAt": "2022-05-14T19:27:29.000Z",
+  "id": 31500,
+  "type": "anime",
+  "title": "High School Fleet",
+  "altTitle": [
+    "Haifuri",
+    "High School Fleet",
+    "ハイスクール・フリート"
+  ],
+  "url": "https://myanimelist.net/anime/31500/High_School_Fleet",
+  "image": "https://cdn.myanimelist.net/images/anime/9/79670.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hai-furi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11533"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17584"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/High_School_Fleet"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/high-school-fleet"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11533,
+  "Pages": {
+    "9anime": {
+      "vv6v": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9461,
+        "identifier": "vv6v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "High School Fleet",
+        "url": "https://9anime.to/watch/high-school-fleet.vv6v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rvnvc6GDUbg/V5mnZDgyV1I/AAAAAAAAyfE/VJNjmfFre8c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31500,
+        "aniId": 21316,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "haifuri": {
+        "createdAt": "2020-10-12T16:00:38.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18094,
+        "identifier": "haifuri",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Haifuri",
+        "url": "https://gogoanime.vc/category/haifuri",
+        "image": "https://cdnimg.xyz/cover/haifuri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31500,
+        "aniId": 21316,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "905": {
+        "identifier": "905",
+        "malId": 31500,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "High School Fleet",
+        "url": "https://animepahe.com/a/905"
+      }
+    },
+    "AniMixPlay": {
+      "31500": {
+        "identifier": "31500",
+        "malId": 31500,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "High School Fleet",
+        "url": "https://animixplay.to/anime/31500"
+      }
+    },
+    "YugenAnime": {
+      "216": {
+        "identifier": "216",
+        "malId": 31500,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "High School Fleet",
+        "url": "https://yugen.to/anime/216/high-school-fleet/"
+      }
+    }
+  }
+}

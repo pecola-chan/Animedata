@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:46.000Z",
+  "updatedAt": "2022-05-15T00:49:29.000Z",
+  "checkedAt": "2022-05-15T00:49:29.000Z",
+  "id": 5291,
+  "type": "anime",
+  "title": "Hokuto no Ken Zero: Kenshirou Den",
+  "altTitle": [
+    "Shin Kyuuseishu Densetsu Hokuto no Ken Zero Kenshirou-den",
+    "Fist of the North Star: Legend of Kenshiro",
+    "真救世主伝説 北斗の拳 ZERO ケンシロウ伝"
+  ],
+  "url": "https://myanimelist.net/anime/5291/Hokuto_no_Ken_Zero__Kenshirou_Den",
+  "image": "https://cdn.myanimelist.net/images/anime/5/76902.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hokuto-no-ken.jp/contents/special/kenshiro.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6105"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5029"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fist_of_the_North_Star#Shin_Ky.C5.ABseishu_Densetsu_movie_series"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6105,
+  "Pages": {
+    "9anime": {
+      "63np": {
+        "createdAt": "2020-10-12T15:50:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2925,
+        "identifier": "63np",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hokuto no Ken Zero: Kenshirou Den",
+        "url": "https://9anime.to/watch/hokuto-no-ken-zero-kenshirou-den.63np",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_tDDKYWZb2Q/WGUsmof3_II/AAAAAAABVhM/94eO0Y9nK8c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5291,
+        "aniId": 5291,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5291": {
+        "identifier": "5291",
+        "malId": 5291,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hokuto no Ken Zero: Kenshirou Den",
+        "url": "https://animixplay.to/anime/5291"
+      }
+    }
+  }
+}

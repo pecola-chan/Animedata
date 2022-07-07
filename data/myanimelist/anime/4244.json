@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T20:17:59.000Z",
+  "checkedAt": "2022-05-14T20:17:59.000Z",
+  "id": 4244,
+  "type": "anime",
+  "title": "Ginga Shippuu Sasuraiger",
+  "altTitle": [
+    "Ginga Shippu Sasuraiger",
+    "Wonder Six",
+    "Galactic Gale Sasuraiger",
+    "銀河疾風サスライガー"
+  ],
+  "url": "https://myanimelist.net/anime/4244/Ginga_Shippuu_Sasuraiger",
+  "image": "https://cdn.myanimelist.net/images/anime/7/47491.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3115"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2227"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sasuraiger"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3115,
+  "Pages": {
+    "Gogoanime": {
+      "ginga-shippuu-sasuraiger": {
+        "createdAt": "2022-02-25T02:49:41.000Z",
+        "updatedAt": "2022-02-25T03:17:39.000Z",
+        "checkedAt": null,
+        "id": 40291,
+        "identifier": "ginga-shippuu-sasuraiger",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ginga Shippuu Sasuraiger",
+        "url": "https://gogoanime.fi/category/ginga-shippuu-sasuraiger",
+        "image": "https://gogocdn.net/cover/ginga-shippuu-sasuraiger.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4244,
+        "aniId": 4244,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "52kx0": {
+        "createdAt": "2022-02-27T14:18:51.000Z",
+        "updatedAt": "2022-02-27T14:47:39.000Z",
+        "checkedAt": null,
+        "id": 40333,
+        "identifier": "52kx0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ginga Shippuu Sasuraiger",
+        "url": "https://9anime.to/watch/galactic-gale-sasuraiger.52kx0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/82/82b262cec561d6aab73fe30f21ae2d8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4244,
+        "aniId": 4244,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11723": {
+        "identifier": "11723",
+        "malId": 4244,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ginga Shippuu Sasuraiger",
+        "url": "https://yugen.to/anime/11723/ginga-shippuu-sasuraiger/"
+      }
+    }
+  }
+}

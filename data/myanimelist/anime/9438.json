@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-15T01:53:43.000Z",
+  "checkedAt": "2022-05-15T01:53:43.000Z",
+  "id": 9438,
+  "type": "anime",
+  "title": "Rainbow Sentai Robin",
+  "altTitle": [
+    "Rainbow Battle Team Robin",
+    "Rainbow Squadron Robin",
+    "Robin in the Rainbow Troops",
+    "レインボー戦隊ロビン"
+  ],
+  "url": "https://myanimelist.net/anime/9438/Rainbow_Sentai_Robin",
+  "image": "https://cdn.myanimelist.net/images/anime/8/46831.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/robin/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1885"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1471"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E6%88%A6%E9%9A%8A%E3%83%AD%E3%83%93%E3%83%B3"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1885,
+  "Pages": {
+    "9anime": {
+      "r8ym": {
+        "createdAt": "2020-10-12T15:55:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8828,
+        "identifier": "r8ym",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rainbow Sentai Robin",
+        "url": "https://9anime.to/watch/rainbow-sentai-robin.r8ym",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-o18cccXxd5c/WOJAD0W25sI/AAAAAAAAfRI/vkmq_GyEIpg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9438,
+        "aniId": 9438,
+        "deletedAt": null
+      }
+    }
+  }
+}

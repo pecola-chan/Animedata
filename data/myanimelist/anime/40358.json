@@ -1,0 +1,157 @@
+{
+  "createdAt": "2020-10-12T15:40:12.000Z",
+  "updatedAt": "2022-05-14T18:47:29.000Z",
+  "checkedAt": "2022-05-14T18:47:29.000Z",
+  "id": 40358,
+  "type": "anime",
+  "title": "Gal to Kyouryuu",
+  "altTitle": [
+    "Gal and Dinosaur",
+    "My Roomie Is a Dino",
+    "Gyaru to Kyouryuu",
+    "Gal & Dino",
+    "ギャルと恐竜"
+  ],
+  "url": "https://myanimelist.net/anime/40358/Gal_to_Kyouryuu",
+  "image": "https://cdn.myanimelist.net/images/anime/1603/111352.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://galkyo.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15072"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22492"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gal_to_Ky%C5%8Dry%C5%AB#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/gal-dino"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15072,
+  "Pages": {
+    "9anime": {
+      "qo35": {
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8474,
+        "identifier": "qo35",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gal to Kyouryuu",
+        "url": "https://9anime.to/watch/gal-to-kyouryuu.qo35",
+        "image": "https://static.akacdn.ru/files/images/2019/09/5224c819daf5b19a0c5d7cdcb6252770.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40358,
+        "aniId": 111323,
+        "deletedAt": null
+      },
+      "02rok": {
+        "createdAt": "2022-03-05T20:29:47.000Z",
+        "updatedAt": "2022-03-05T20:59:36.000Z",
+        "checkedAt": null,
+        "id": 40394,
+        "identifier": "02rok",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gal to Kyouryuu (Dub)",
+        "url": "https://9anime.to/watch/gal-dino-dub.02rok",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f5/f59d2cf3c02883319e714700f265afd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40358,
+        "aniId": 111323,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gal-to-kyouryuu": {
+        "createdAt": "2020-10-12T16:00:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17779,
+        "identifier": "gal-to-kyouryuu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gal to Kyouryuu",
+        "url": "https://gogoanime.vc/category/gal-to-kyouryuu",
+        "image": "https://gogocdn.net/cover/gal-to-kyouryuu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40358,
+        "aniId": 111323,
+        "deletedAt": null
+      },
+      "gal-to-kyouryuu-dub": {
+        "createdAt": "2022-03-06T19:59:48.000Z",
+        "updatedAt": "2022-03-06T20:29:37.000Z",
+        "checkedAt": null,
+        "id": 40402,
+        "identifier": "gal-to-kyouryuu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gal to Kyouryuu (Dub)",
+        "url": "https://gogoanime.fi/category/gal-to-kyouryuu-dub",
+        "image": "https://gogocdn.net/cover/gal-to-kyouryuu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40358,
+        "aniId": 111323,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3901": {
+        "identifier": "3901",
+        "malId": 40358,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gal to Kyouryuu",
+        "url": "https://animepahe.com/a/3901"
+      }
+    },
+    "AniMixPlay": {
+      "40358": {
+        "identifier": "40358",
+        "malId": 40358,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gal to Kyouryuu",
+        "url": "https://animixplay.to/anime/40358"
+      }
+    },
+    "YugenAnime": {
+      "4476": {
+        "identifier": "4476",
+        "malId": 40358,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gal to Kyouryuu",
+        "url": "https://yugen.to/anime/4476/gal-to-kyouryuu/"
+      }
+    }
+  }
+}

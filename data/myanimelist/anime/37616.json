@@ -1,0 +1,49 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T21:14:42.000Z",
+  "checkedAt": "2022-05-14T21:14:42.000Z",
+  "id": 37616,
+  "type": "anime",
+  "title": "Ten Count",
+  "altTitle": [
+    "10 Count",
+    "テンカウント"
+  ],
+  "url": "https://myanimelist.net/anime/37616/Ten_Count",
+  "image": "https://cdn.myanimelist.net/images/anime/1464/99977.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://10count-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13988"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22004"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13988,
+  "Pages": {
+    "AniMixPlay": {
+      "37616": {
+        "identifier": "37616",
+        "malId": 37616,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ten Count",
+        "url": "https://animixplay.to/anime/37616"
+      }
+    }
+  }
+}

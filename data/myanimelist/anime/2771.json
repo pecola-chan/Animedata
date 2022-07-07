@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-14T17:44:35.000Z",
+  "checkedAt": "2022-05-14T17:44:35.000Z",
+  "id": 2771,
+  "type": "anime",
+  "title": "Chou Kuse ni Narisou",
+  "altTitle": [
+    "Chou Kuseninarisou",
+    "I'll Make a Habit of It",
+    "超くせになりそう"
+  ],
+  "url": "https://myanimelist.net/anime/2771/Chou_Kuse_ni_Narisou",
+  "image": "https://cdn.myanimelist.net/images/anime/3/49689.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2140"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1279"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ch%C5%8D_Kuse_ni_Naris%C5%8D"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2140,
+  "Pages": {
+    "9anime": {
+      "846y": {
+        "createdAt": "2020-10-12T15:51:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3765,
+        "identifier": "846y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chou Kuse ni Narisou",
+        "url": "https://9anime.to/watch/chou-kuse-ni-narisou.846y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--FgGkbr3aX4/WNOaa_3PosI/AAAAAAABgSU/FUFxiUl0pAI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2771,
+        "aniId": 2771,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2771": {
+        "identifier": "2771",
+        "malId": 2771,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chou Kuse ni Narisou",
+        "url": "https://animixplay.to/anime/2771"
+      }
+    },
+    "YugenAnime": {
+      "7360": {
+        "identifier": "7360",
+        "malId": 2771,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chou Kuse ni Narisou",
+        "url": "https://yugen.to/anime/7360/chou-kuse-ni-narisou/"
+      }
+    }
+  }
+}

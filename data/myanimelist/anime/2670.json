@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-14T23:09:11.000Z",
+  "checkedAt": "2022-05-14T23:09:11.000Z",
+  "id": 2670,
+  "type": "anime",
+  "title": "Doraemon Movie 12: Nobita no Dorabian Nights",
+  "altTitle": [
+    "Doraemon: Nobita in Dorabian Nights",
+    "Doraemon the Movie: Nobita's Dorabian Nights",
+    "映画 ドラえもん のび太のドラビアンナイト"
+  ],
+  "url": "https://myanimelist.net/anime/2670/Doraemon_Movie_12__Nobita_no_Dorabian_Nights",
+  "image": "https://cdn.myanimelist.net/images/anime/9/72417.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dora-movie.com/film_history/history_12.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5047"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1906"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita%27s_Dorabian_Nights"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5047,
+  "Pages": {
+    "9anime": {
+      "p75j": {
+        "createdAt": "2020-10-12T15:54:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7900,
+        "identifier": "p75j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doraemon the Movie: Nobita's Dorabian Nights",
+        "url": "https://9anime.to/watch/doraemon-the-movie-nobitas-dorabian-nights.p75j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ee6Mt59KulY/WfsaOEZrMWI/AAAAAAAAD0s/dNUiaurT6186FFYH7LOp2jpIIGEzT9ATwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2670,
+        "aniId": 2670,
+        "deletedAt": null
+      }
+    }
+  }
+}

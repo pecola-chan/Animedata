@@ -1,0 +1,49 @@
+{
+  "createdAt": "2021-01-01T23:21:22.000Z",
+  "updatedAt": "2022-06-30T07:50:21.000Z",
+  "checkedAt": "2022-06-30T07:50:21.000Z",
+  "id": 16560,
+  "type": "anime",
+  "title": "Hwanggeum Nalgae 1.2.3.",
+  "altTitle": [
+    "Golden Wings 123",
+    "Goldwing",
+    "황금날개 1.2.3."
+  ],
+  "url": "https://myanimelist.net/anime/16560/Hwanggeum_Nalgae_123",
+  "image": "https://cdn.myanimelist.net/images/anime/1797/112794.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8038"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8038,
+  "Pages": {
+    "9anime": {
+      "oyy4": {
+        "createdAt": "2021-01-01T23:21:23.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32542,
+        "identifier": "oyy4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hwanggeum Nalgae 1.2.3.",
+        "url": "https://9anime.to/watch/goldwing.oyy4",
+        "image": "//static.9anime.to/i/cache/images/2018/04/6c4ef99c2c532a6a0ebcc6cec888c9e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16560,
+        "aniId": 16560,
+        "deletedAt": null
+      }
+    }
+  }
+}

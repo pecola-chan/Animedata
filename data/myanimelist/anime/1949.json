@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-15T01:44:30.000Z",
+  "checkedAt": "2022-05-15T01:44:30.000Z",
+  "id": 1949,
+  "type": "anime",
+  "title": "Mahou no Chocolate",
+  "altTitle": [
+    "Magical Chocolate",
+    "魔法のチョコレート"
+  ],
+  "url": "https://myanimelist.net/anime/1949/Mahou_no_Chocolate",
+  "image": "https://cdn.myanimelist.net/images/anime/1055/112163.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=600"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3921"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 600,
+  "Pages": {
+    "9anime": {
+      "ym5x": {
+        "createdAt": "2020-10-12T15:56:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10745,
+        "identifier": "ym5x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou no Chocolate",
+        "url": "https://9anime.to/watch/mahou-no-chocolate.ym5x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yL-4HlznN8c/WGz6Vq46kJI/AAAAAAABWzY/4BXTet1_UZU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1949,
+        "aniId": 1949,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1949": {
+        "identifier": "1949",
+        "malId": 1949,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou no Chocolate",
+        "url": "https://animixplay.to/anime/1949"
+      }
+    }
+  }
+}

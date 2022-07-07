@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-22T00:33:11.000Z",
+  "checkedAt": "2022-05-22T00:33:11.000Z",
+  "id": 3525,
+  "type": "anime",
+  "title": "Extra",
+  "altTitle": [
+    "Ken Ishii: Extra",
+    "Extra",
+    "EXTRA (エクストラ)"
+  ],
+  "url": "https://myanimelist.net/anime/3525/Extra",
+  "image": "https://cdn.myanimelist.net/images/anime/9/71738.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://studio4c.co.jp/works/en/pages/02.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2754"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5851"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2754,
+  "Pages": {
+    "9anime": {
+      "10rm": {
+        "createdAt": "2020-10-12T15:49:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 777,
+        "identifier": "10rm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Extra",
+        "url": "https://9anime.to/watch/extra.10rm",
+        "image": "https://static.akacdn.ru/files/images/2020/02/b0055eff9272dcf4b7a00e9fbce1c086.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3525,
+        "aniId": 3525,
+        "deletedAt": null
+      }
+    }
+  }
+}

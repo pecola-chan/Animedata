@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:01:23.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19649,
+  "identifier": "naruto-akaki-yotsuba-no-clover-wo-sagase",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+  "url": "https://gogoanime.vc/category/naruto-akaki-yotsuba-no-clover-wo-sagase",
+  "image": "https://cdnimg.xyz/cover/naruto-akaki-yotsuba-no-clover-wo-sagase.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 761,
+  "aniId": 761,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-13T21:13:33.000Z",
+    "checkedAt": "2022-05-13T21:13:33.000Z",
+    "id": 761,
+    "type": "anime",
+    "title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+    "altTitle": [
+      "Naruto: Find the Crimson Four Leaf Clover!",
+      "Naruto: Jump Festa 2003",
+      "Naruto: Find the Crimson Four-leaf Clover!",
+      "ナルト 紅き四つ葉のクローバーを探せ"
+    ],
+    "url": "https://myanimelist.net/anime/761/Naruto__Akaki_Yotsuba_no_Clover_wo_Sagase",
+    "image": "https://cdn.myanimelist.net/images/anime/12/11240.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=239"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3499"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 239
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T14:33:11.000Z",
+    "checkedAt": "2022-05-15T14:33:11.000Z",
+    "id": 761,
+    "type": "anime",
+    "title": "NARUTO: Akaki Yotsuba no Clover wo Sagase",
+    "altTitle": [
+      "NARUTO -ナルト- 紅き四つ葉のクローバーを探せ",
+      "Naruto: Jump Festa 2003",
+      "Naruto: Find the Crimson Four-leaf Clover!"
+    ],
+    "url": "https://anilist.co/anime/761",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/761.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 761,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-15T01:05:35.000Z",
+  "checkedAt": "2022-05-15T01:05:35.000Z",
+  "id": 9673,
+  "type": "anime",
+  "title": "Tegamibachi: Omakebachi",
+  "altTitle": [
+    "Omakebachi",
+    "Tegami Bachi Reverse Specials",
+    "Ura Tegamibachi",
+    "Letter Bee Reverse Specials",
+    "裏テガミバチ"
+  ],
+  "url": "https://myanimelist.net/anime/9673/Tegamibachi__Omakebachi",
+  "image": "https://cdn.myanimelist.net/images/anime/2/26809.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ani.tv/tegamibachi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7458"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tegami_Bachi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7458,
+  "Pages": {
+    "9anime": {
+      "4o77": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2317,
+        "identifier": "4o77",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Letter Bee Reverse Specials",
+        "url": "https://9anime.to/watch/letter-bee-reverse-specials.4o77",
+        "image": "http://static.akacdn.ru/static/images/2018/06/4b6493f1a0898e539a30b2b2b8153b7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9673,
+        "aniId": 9673,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tegami-bachi-omakebachi": {
+        "createdAt": "2021-06-12T09:08:52.000Z",
+        "updatedAt": "2021-06-12T09:38:18.000Z",
+        "checkedAt": null,
+        "id": 37348,
+        "identifier": "tegami-bachi-omakebachi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tegami Bachi: Omakebachi",
+        "url": "https://gogoanime.vc/category/tegami-bachi-omakebachi",
+        "image": "https://gogocdn.net/cover/tegami-bachi-omakebachi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9673,
+        "aniId": 9673,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9673": {
+        "identifier": "9673",
+        "malId": 9673,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tegamibachi: Omakebachi",
+        "url": "https://animixplay.to/anime/9673"
+      }
+    },
+    "YugenAnime": {
+      "7769": {
+        "identifier": "7769",
+        "malId": 9673,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tegami Bachi: Omakebachi",
+        "url": "https://yugen.to/anime/7769/tegami-bachi-omakebachi/"
+      }
+    }
+  }
+}

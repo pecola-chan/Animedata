@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T20:31:59.000Z",
+  "checkedAt": "2022-05-14T20:31:59.000Z",
+  "id": 475,
+  "type": "anime",
+  "title": "Hotori: Tada Saiwai wo Koinegau",
+  "altTitle": [
+    "ほとり～たださいわいを希う"
+  ],
+  "url": "https://myanimelist.net/anime/475/Hotori__Tada_Saiwai_wo_Koinegau",
+  "image": "https://cdn.myanimelist.net/images/anime/1010/116695.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.sunrise-inc.co.jp/work/detail.php?cid=268"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2842"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6073"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%BB%E3%81%A8%E3%82%8A%E3%80%9C%E3%81%9F%E3%81%A0%E3%81%95%E3%81%84%E3%82%8F%E3%81%84%E3%82%92%E5%B8%8C%E3%81%86%E3%80%82%E3%80%9C"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2842,
+  "Pages": {
+    "9anime": {
+      "j73y": {
+        "createdAt": "2021-05-05T11:02:01.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36883,
+        "identifier": "j73y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hotori: Tada Saiwai wo Koinegau",
+        "url": "https://9anime.to/watch/hotori-tada-saiwai-wo-koinegau.j73y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/7bf8dfc414f50343134d0ff579c65c04.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 475,
+        "aniId": 475,
+        "deletedAt": null
+      }
+    }
+  }
+}

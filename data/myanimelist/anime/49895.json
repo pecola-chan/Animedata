@@ -1,0 +1,47 @@
+{
+  "createdAt": "2021-09-25T22:45:58.000Z",
+  "updatedAt": "2022-05-14T21:05:53.000Z",
+  "checkedAt": "2022-05-14T21:05:53.000Z",
+  "id": 49895,
+  "type": "anime",
+  "title": "Go! Saitama",
+  "altTitle": [
+    "Go! Saitama"
+  ],
+  "url": "https://myanimelist.net/anime/49895/Go_Saitama",
+  "image": "https://cdn.myanimelist.net/images/anime/1893/117904.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://twitter.com/NEBU_KURO/status/1440944255011225601"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "qxk6j": {
+        "createdAt": "2022-03-18T04:19:53.000Z",
+        "updatedAt": "2022-03-18T04:49:10.000Z",
+        "checkedAt": null,
+        "id": 40485,
+        "identifier": "qxk6j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Go! Saitama",
+        "url": "https://9anime.to/watch/go-saitama.qxk6j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5e/5e52367c581ac0e07844bb5a6c061e1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 49895,
+        "aniId": 139586,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T07:02:38.000Z",
+  "checkedAt": "2022-05-14T07:02:38.000Z",
+  "id": 38425,
+  "type": "anime",
+  "title": "Ikkitousen: Western Wolves",
+  "altTitle": [
+    "Ikki Tousen: Western Wolves",
+    "一騎当千 Western Wolves"
+  ],
+  "url": "https://myanimelist.net/anime/38425/Ikkitousen__Western_Wolves",
+  "image": "https://cdn.myanimelist.net/images/anime/1355/98146.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ikkitousen.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14420"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ikkitousen"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14420,
+  "Pages": {
+    "9anime": {
+      "or0z": {
+        "createdAt": "2020-10-12T15:54:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7644,
+        "identifier": "or0z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ikkitousen: Western Wolves",
+        "url": "https://9anime.to/watch/ikkitousen-western-wolves.or0z",
+        "image": "https://static.akacdn.ru/static/images/2019/02/0632c142e72e1c16b9a20ebde3c77ec8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38425,
+        "aniId": 105391,
+        "deletedAt": null
+      },
+      "llr8n": {
+        "createdAt": "2022-06-29T02:30:15.588Z",
+        "updatedAt": "2022-06-29T03:20:00.000Z",
+        "checkedAt": "2022-06-29T02:30:15.000Z",
+        "id": 41260,
+        "identifier": "llr8n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ikkitousen: Western Wolves (Dub)",
+        "url": "https://9anime.to/watch/ikkitousen-western-wolves-dub.llr8n",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c9/c90317e4ee16f81224fe34f27488d660.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38425,
+        "aniId": 105391,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ikkitousen-western-wolves": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18447,
+        "identifier": "ikkitousen-western-wolves",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ikkitousen: Western Wolves",
+        "url": "https://gogoanime.vc/category/ikkitousen-western-wolves",
+        "image": "https://cdnimg.xyz/cover/ikkitousen-western-wolves.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38425,
+        "aniId": 105391,
+        "deletedAt": null
+      },
+      "ikkitousen-western-wolves-dub": {
+        "createdAt": "2022-06-30T13:00:13.003Z",
+        "updatedAt": "2022-06-30T13:20:00.000Z",
+        "checkedAt": "2022-06-30T13:00:13.000Z",
+        "id": 41279,
+        "identifier": "ikkitousen-western-wolves-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ikkitousen: Western Wolves (Dub)",
+        "url": "https://gogoanime.lu/category/ikkitousen-western-wolves-dub",
+        "image": "https://gogocdn.net/cover/ikkitousen-western-wolves-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38425,
+        "aniId": 105391,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3364": {
+        "identifier": "3364",
+        "malId": 38425,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ikkitousen: Western Wolves",
+        "url": "https://animepahe.com/a/3364"
+      }
+    },
+    "AniMixPlay": {
+      "38425": {
+        "identifier": "38425",
+        "malId": 38425,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ikkitousen: Western Wolves",
+        "url": "https://animixplay.to/anime/38425"
+      }
+    },
+    "YugenAnime": {
+      "2563": {
+        "identifier": "2563",
+        "malId": 38425,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ikkitousen: Western Wolves",
+        "url": "https://yugen.to/anime/2563/ikkitousen-western-wolves/"
+      }
+    }
+  }
+}

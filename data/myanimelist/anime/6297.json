@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-06-02T22:01:07.000Z",
+  "checkedAt": "2022-06-02T22:01:07.000Z",
+  "id": 6297,
+  "type": "anime",
+  "title": "Kamen Rider Den-O: Imagin Anime 2",
+  "altTitle": [
+    "Masked Rider Den-O: Imagin Anime 2",
+    "仮面ライダー電王: イマジンあにめ 2"
+  ],
+  "url": "https://myanimelist.net/anime/6297/Kamen_Rider_Den-O__Imagin_Anime_2",
+  "image": "https://cdn.myanimelist.net/images/anime/4/22253.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "nm6n": {
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7129,
+        "identifier": "nm6n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kamen Rider Den-O: Imagin Anime 2",
+        "url": "https://9anime.to/watch/kamen-rider-den-o-imagin-anime-2.nm6n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-a5vi9J12L0A/WLF-vpRCzoI/AAAAAAABd8c/7nux0ooYLIE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6297,
+        "aniId": 6297,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6297": {
+        "identifier": "6297",
+        "malId": 6297,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kamen Rider Den-O: Imagin Anime 2",
+        "url": "https://animixplay.to/anime/6297"
+      }
+    }
+  }
+}

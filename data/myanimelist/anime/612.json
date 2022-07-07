@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T21:00:29.000Z",
+  "checkedAt": "2022-05-14T21:00:29.000Z",
+  "id": 612,
+  "type": "anime",
+  "title": "PetoPeto-san",
+  "altTitle": [
+    "ぺとぺとさん"
+  ],
+  "url": "https://myanimelist.net/anime/612/PetoPeto-san",
+  "image": "https://cdn.myanimelist.net/images/anime/13/19516.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.petopeto.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3170"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5382"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Petopeto-san"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3170,
+  "Pages": {
+    "9anime": {
+      "17wm": {
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 894,
+        "identifier": "17wm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "PetoPeto-san",
+        "url": "https://9anime.to/watch/petopeto-san.17wm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-C91DMs8WQL8/V7srfAFYnfI/AAAAAAAA4yE/5v4r5gt9hvg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 612,
+        "aniId": 612,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "612": {
+        "identifier": "612",
+        "malId": 612,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "PetoPeto-san",
+        "url": "https://animixplay.to/anime/612"
+      }
+    },
+    "YugenAnime": {
+      "1449": {
+        "identifier": "1449",
+        "malId": 612,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "PetoPeto-san",
+        "url": "https://yugen.to/anime/1449/petopeto-san/"
+      }
+    }
+  }
+}

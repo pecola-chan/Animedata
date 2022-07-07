@@ -1,0 +1,43 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-20T00:22:07.000Z",
+  "checkedAt": "2022-05-20T00:22:07.000Z",
+  "id": 33734,
+  "type": "anime",
+  "title": "Samurai Noodles: The Originator",
+  "altTitle": [
+    "Nissin Samurai Noodles",
+    "SAMURAI NOODLES \"THE ORIGINATOR\""
+  ],
+  "url": "https://myanimelist.net/anime/33734/Samurai_Noodles__The_Originator",
+  "image": "https://cdn.myanimelist.net/images/anime/3/81123.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "4k1k": {
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2240,
+        "identifier": "4k1k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Samurai Noodles: The Originator",
+        "url": "https://9anime.to/watch/samurai-noodles-the-originator.4k1k",
+        "image": "//static.9anime.to/i/cache/images/2020/09/dc6398284af1faf79f91d793b2012397.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33734,
+        "aniId": 102646,
+        "deletedAt": null
+      }
+    }
+  }
+}

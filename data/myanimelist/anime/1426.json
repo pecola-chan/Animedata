@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:17.000Z",
+  "updatedAt": "2022-05-14T20:32:17.000Z",
+  "checkedAt": "2022-05-14T20:32:17.000Z",
+  "id": 1426,
+  "type": "anime",
+  "title": "Lupin III: Part III",
+  "altTitle": [
+    "Rupan Sansei: Part III",
+    "Lupin Sansei: Part III",
+    "ルパン三世 - Part III"
+  ],
+  "url": "https://myanimelist.net/anime/1426/Lupin_III__Part_III",
+  "image": "https://cdn.myanimelist.net/images/anime/1441/100440.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/tv/data/t_rupin_part3.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1485"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=887"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_Lupin_III_Part_III_episodes"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267533"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1485,
+  "Pages": {
+    "9anime": {
+      "79wy": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3419,
+        "identifier": "79wy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III: Part III",
+        "url": "https://9anime.to/watch/lupin-iii-part-iii.79wy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vux5OrUbLVc/WKQzE3ljTPI/AAAAAAABc8w/uI-dG3WZB8A/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1426,
+        "aniId": 1426,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "lupin-iii-series-3": {
+        "createdAt": "2020-10-12T16:01:09.000Z",
+        "updatedAt": "2021-10-10T15:02:22.000Z",
+        "checkedAt": null,
+        "id": 19186,
+        "identifier": "lupin-iii-series-3",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lupin III Series 3",
+        "url": "https://gogoanime.pe/category/lupin-iii-series-3",
+        "image": "https://gogocdn.net/images/anime/L/lupin-iii.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 1426,
+        "aniId": 1426,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1780": {
+        "identifier": "1780",
+        "malId": 1426,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Lupin III: Part III",
+        "url": "https://animepahe.com/a/1780"
+      }
+    },
+    "AniMixPlay": {
+      "1426": {
+        "identifier": "1426",
+        "malId": 1426,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Lupin III: Part III",
+        "url": "https://animixplay.to/anime/1426"
+      }
+    },
+    "YugenAnime": {
+      "2100": {
+        "identifier": "2100",
+        "malId": 1426,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Lupin III: Part III",
+        "url": "https://yugen.to/anime/2100/lupin-iii-part-iii/"
+      }
+    }
+  }
+}

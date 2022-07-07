@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-13T21:33:19.000Z",
+  "checkedAt": "2022-05-13T21:33:19.000Z",
+  "id": 36784,
+  "type": "anime",
+  "title": "Hataraku Onii-san!",
+  "altTitle": [
+    "Working Buddies!",
+    "働くお兄さん!"
+  ],
+  "url": "https://myanimelist.net/anime/36784/Hataraku_Onii-san",
+  "image": "https://cdn.myanimelist.net/images/anime/10/88930.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hataoni.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13573"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20505"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%8D%E3%81%8F%E3%81%8A%E5%85%84%E3%81%95%E3%82%93!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275195"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13573,
+  "Pages": {
+    "9anime": {
+      "kzx6": {
+        "createdAt": "2020-10-12T15:52:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5713,
+        "identifier": "kzx6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hataraku Onii-san!",
+        "url": "https://9anime.to/watch/hataraku-onii-san.kzx6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iiejwBCxX4E/Wk-4jUMaZGI/AAAAAAAAC3Y/yH5oEOUSt4wDXBRLfPRaafCq91S6JOXNwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36784,
+        "aniId": 100873,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hataraku-onii-san": {
+        "createdAt": "2020-10-12T16:00:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18192,
+        "identifier": "hataraku-onii-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Onii-san!",
+        "url": "https://gogoanime.vc/category/hataraku-onii-san",
+        "image": "https://images.gogoanime.tv/cover/hataraku-onii-san.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36784,
+        "aniId": 100873,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2425": {
+        "identifier": "2425",
+        "malId": 36784,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hataraku Onii-san!",
+        "url": "https://animepahe.com/a/2425"
+      }
+    },
+    "AniMixPlay": {
+      "36784": {
+        "identifier": "36784",
+        "malId": 36784,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hataraku Onii-san!",
+        "url": "https://animixplay.to/anime/36784"
+      }
+    },
+    "YugenAnime": {
+      "2101": {
+        "identifier": "2101",
+        "malId": 36784,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hataraku Onii-san!",
+        "url": "https://yugen.to/anime/2101/hataraku-onii-san/"
+      }
+    }
+  }
+}

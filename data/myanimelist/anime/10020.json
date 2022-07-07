@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-13T20:08:24.000Z",
+  "checkedAt": "2022-05-13T20:08:24.000Z",
+  "id": 10020,
+  "type": "anime",
+  "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+  "altTitle": [
+    "My Little Sister Can't Be This Cute Specials",
+    "OreImo Specials",
+    "俺の妹がこんなに可愛いわけがない"
+  ],
+  "url": "https://myanimelist.net/anime/10020/Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/8/29734.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oreimo-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7525"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11512"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ore_no_Im%C5%8Dto_ga_Konna_ni_Kawaii_Wake_ga_Nai"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7525,
+  "Pages": {
+    "9anime": {
+      "qm5": {
+        "createdAt": "2020-10-12T15:55:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8436,
+        "identifier": "qm5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "OreImo Specials",
+        "url": "https://9anime.to/watch/oreimo-specials.qm5",
+        "image": "https://static.akacdn.ru/files/images/2018/04/78926a394c6d77c1429ad556c35874f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10020,
+        "aniId": 10020,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials": {
+        "createdAt": "2021-03-20T04:05:10.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35794,
+        "identifier": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+        "url": "https://gogoanime.vc/category/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials",
+        "image": "https://gogocdn.net/cover/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10020,
+        "aniId": 10020,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2492": {
+        "identifier": "2492",
+        "malId": 10020,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+        "url": "https://animepahe.com/a/2492"
+      }
+    },
+    "AniMixPlay": {
+      "10020": {
+        "identifier": "10020",
+        "malId": 10020,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+        "url": "https://animixplay.to/anime/10020"
+      }
+    },
+    "YugenAnime": {
+      "7313": {
+        "identifier": "7313",
+        "malId": 10020,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials",
+        "url": "https://yugen.to/anime/7313/ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-specials/"
+      }
+    }
+  }
+}

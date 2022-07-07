@@ -1,0 +1,58 @@
+{
+  "createdAt": "2021-01-30T08:00:27.000Z",
+  "updatedAt": "2022-05-15T13:12:50.000Z",
+  "checkedAt": "2022-05-15T13:12:50.000Z",
+  "id": 10334,
+  "type": "anime",
+  "title": "Rurouni Kenshin Recap",
+  "altTitle": [
+    "Rurouni Kenshin: Episode 56b - Summer Special",
+    "Rurouni Kenshin Special",
+    "Samurai X Recap",
+    "るろうに剣心"
+  ],
+  "url": "https://myanimelist.net/anime/10334/Rurouni_Kenshin_Recap",
+  "image": "https://cdn.myanimelist.net/images/anime/13/28413.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Movie/TV/Kenshin/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=90"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rurouni_Kenshin"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 90,
+  "Pages": {
+    "9anime": {
+      "r20p": {
+        "createdAt": "2020-10-12T15:55:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8720,
+        "identifier": "r20p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rurouni Kenshin Recap",
+        "url": "https://9anime.to/watch/samurai-x-recap.r20p",
+        "image": "//static.bunnycdn.ru/i/cache/images/2020/04/8f1f6c1a09e6c498e82702c90041ca96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 10334,
+        "aniId": 10334,
+        "deletedAt": null
+      }
+    }
+  }
+}

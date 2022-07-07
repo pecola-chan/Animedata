@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:34.000Z",
+  "updatedAt": "2022-04-03T04:31:21.000Z",
+  "checkedAt": null,
+  "id": 29906,
+  "type": "anime",
+  "title": "Kakari",
+  "altTitle": [
+    "A Clerk in Charge",
+    "係"
+  ],
+  "url": "https://myanimelist.net/anime/29906/Kakari",
+  "image": "https://cdn.myanimelist.net/images/anime/7/71810.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kankaku.jp/independent-en/clerk.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13366"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13366,
+  "Pages": {
+    "9anime": {
+      "85qv": {
+        "createdAt": "2020-10-12T15:51:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3796,
+        "identifier": "85qv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A Clerk in Charge",
+        "url": "https://9anime.to/watch/a-clerk-in-charge.85qv",
+        "image": "https://static.akacdn.ru/static/images/2018/02/8ab39797438433ec091271c7d3fa8580.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 29906,
+        "aniId": 103432,
+        "deletedAt": null
+      }
+    }
+  }
+}

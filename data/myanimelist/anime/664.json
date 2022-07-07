@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T23:03:41.000Z",
+  "checkedAt": "2022-05-14T23:03:41.000Z",
+  "id": 664,
+  "type": "anime",
+  "title": "Fullmetal Alchemist: Reflections",
+  "altTitle": [
+    "FMA: Reflections",
+    "鋼の錬金術師"
+  ],
+  "url": "https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections",
+  "image": "https://cdn.myanimelist.net/images/anime/2/18690.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=979"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 979,
+  "Pages": {
+    "9anime": {
+      "on3j": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7556,
+        "identifier": "on3j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fullmetal Alchemist: Reflections",
+        "url": "https://9anime.to/watch/fullmetal-alchemist-reflections.on3j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qqWlKH6ALeE/WK3BNFwci4I/AAAAAAABdrk/imldPbs5eww/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 664,
+        "aniId": 664,
+        "deletedAt": null
+      }
+    }
+  }
+}

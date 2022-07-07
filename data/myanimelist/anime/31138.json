@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-13T21:32:21.000Z",
+  "checkedAt": "2022-05-13T21:32:21.000Z",
+  "id": 31138,
+  "type": "anime",
+  "title": "Overlord: Ple Ple Pleiades",
+  "altTitle": [
+    "Overlord Specials",
+    "オーバーロード　ぷれぷれぷれあです"
+  ],
+  "url": "https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades",
+  "image": "https://cdn.myanimelist.net/images/anime/1849/100694.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://overlord-anime.com/products/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10816"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Overlord_(novel_series)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10816,
+  "Pages": {
+    "9anime": {
+      "r4nn": {
+        "createdAt": "2020-10-12T15:55:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8773,
+        "identifier": "r4nn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Overlord: Ple Ple Pleiades",
+        "url": "https://9anime.to/watch/overlord-ple-ple-pleiades.r4nn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JeRGuf3mlns/V_o07Xg738I/AAAAAAABFpw/4N6_8kWisbk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31138,
+        "aniId": 21305,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2271": {
+        "identifier": "2271",
+        "malId": 31138,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Overlord: Ple Ple Pleiades",
+        "url": "https://animepahe.com/a/2271"
+      }
+    },
+    "AniMixPlay": {
+      "31138": {
+        "identifier": "31138",
+        "malId": 31138,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Overlord: Ple Ple Pleiades",
+        "url": "https://animixplay.to/anime/31138"
+      }
+    }
+  }
+}

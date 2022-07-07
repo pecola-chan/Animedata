@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T16:00:06.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17051,
+  "identifier": "cherry-no-manma",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Cherry no Manma",
+  "url": "https://gogoanime.vc/category/cherry-no-manma",
+  "image": "https://cdnimg.xyz/images/anime/C/30565.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6346,
+  "aniId": 6346,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:51.000Z",
+    "updatedAt": "2022-05-14T22:56:46.000Z",
+    "checkedAt": "2022-05-14T22:56:46.000Z",
+    "id": 6346,
+    "type": "anime",
+    "title": "Cherry no Manma",
+    "altTitle": [
+      "CnM",
+      "Cherry no Mama",
+      "Cherry no Manma",
+      "Cherryのまんま"
+    ],
+    "url": "https://myanimelist.net/anime/6346/Cherry_no_Manma",
+    "image": "https://cdn.myanimelist.net/images/anime/9/16025.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6670"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7176"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6670
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:56.000Z",
+    "updatedAt": "2022-05-15T22:04:47.000Z",
+    "checkedAt": "2022-05-15T22:04:47.000Z",
+    "id": 6346,
+    "type": "anime",
+    "title": "Cherry no Manma",
+    "altTitle": [
+      "Cherry no Manma",
+      "Cherryのまんま",
+      "CnM",
+      "Cherry no Mama"
+    ],
+    "url": "https://anilist.co/anime/6346",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6346.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6346,
+    "deletedAt": null
+  }
+}

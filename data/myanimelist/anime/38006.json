@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:40:04.000Z",
+  "updatedAt": "2022-05-14T21:30:07.000Z",
+  "checkedAt": "2022-05-14T21:30:07.000Z",
+  "id": 38006,
+  "type": "anime",
+  "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+  "altTitle": [
+    "Allied Air Force Magical Idols Luminous Witches",
+    "Idol Witches",
+    "Ongakutai Witches",
+    "Luminous Witches",
+    "連盟空軍航空魔法音楽隊 ルミナスウィッチーズ"
+  ],
+  "url": "https://myanimelist.net/anime/38006/Renmei_Kuugun_Koukuu_Mahou_Ongakutai_Luminous_Witches",
+  "image": "https://cdn.myanimelist.net/images/anime/1401/108690.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://w-witch.jp/luminous/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14204"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24669"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Strike_Witches"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14204,
+  "Pages": {
+    "9anime": {
+      "pxzj": {
+        "createdAt": "2020-10-12T15:54:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8180,
+        "identifier": "pxzj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ongakutai Witches",
+        "url": "https://9anime.to/watch/ongakutai-witches.pxzj",
+        "image": "http://static.akacdn.ru/static/images/2018/08/06dc7c7e27caa2f90250116955754409.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38006,
+        "aniId": 103118,
+        "deletedAt": null
+      },
+      "m99v": {
+        "createdAt": "2021-01-19T04:35:34.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33907,
+        "identifier": "m99v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+        "url": "https://9anime.to/watch/luminous-witches.m99v",
+        "image": "//static.bunnycdn.ru/i/cache/images/0/02/0281ef4b0f16afa992c8737abb79f8db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38006,
+        "aniId": 103118,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4831": {
+        "identifier": "4831",
+        "malId": 38006,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+        "url": "https://animepahe.com/a/4831"
+      }
+    },
+    "AniMixPlay": {
+      "38006": {
+        "identifier": "38006",
+        "malId": 38006,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+        "url": "https://animixplay.to/anime/38006"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:55.000Z",
+  "updatedAt": "2022-05-27T18:23:37.000Z",
+  "checkedAt": "2022-05-27T18:23:37.000Z",
+  "id": 7243,
+  "type": "anime",
+  "title": "Suisei",
+  "altTitle": [
+    "Aquatic",
+    "水棲"
+  ],
+  "url": "https://myanimelist.net/anime/7243/Suisei",
+  "image": "https://cdn.myanimelist.net/images/anime/7/17156.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yamamura-animation.jp/archive_suisei.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5154"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7859"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5154,
+  "Pages": {
+    "9anime": {
+      "88rn": {
+        "createdAt": "2020-10-12T15:51:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3840,
+        "identifier": "88rn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Suisei",
+        "url": "https://9anime.to/watch/suisei.88rn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tgZxLep4PmA/WQhGnwzK3UI/AAAAAAAAlOk/DOWIhtAULcACUMNcQjq-vqkgKiS9k9CcACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7243,
+        "aniId": 7243,
+        "deletedAt": null
+      }
+    }
+  }
+}

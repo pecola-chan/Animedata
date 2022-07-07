@@ -1,0 +1,123 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T18:02:35.000Z",
+  "checkedAt": "2022-05-14T18:02:35.000Z",
+  "id": 36951,
+  "type": "anime",
+  "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+  "altTitle": [
+    "Yuu Yuu Hakusho, YuYu Hakusho",
+    "Yuu☆Yuu☆Hakusho Specials",
+    "幽☆遊☆白書 完全新作アニメーション"
+  ],
+  "url": "https://myanimelist.net/anime/36951/Yuu☆Yuu☆Hakusho__Two_Shots_Noru_ka_Soru_ka",
+  "image": "https://cdn.myanimelist.net/images/anime/1191/97154.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/yuhaku25/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/YuYu_Hakusho"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "751y": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3353,
+        "identifier": "751y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuu☆Yuu☆Hakusho Special",
+        "url": "https://9anime.to/watch/yuuyuuhakusho-special.751y",
+        "image": "http://static.akacdn.ru/static/images/2018/04/cbb1e523e73b85f1c8e57e5db1b6328b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36951,
+        "aniId": 102631,
+        "deletedAt": null
+      },
+      "q14v": {
+        "createdAt": "2020-10-12T15:54:55.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8237,
+        "identifier": "q14v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+        "url": "https://9anime.to/watch/yuuyuuhakusho-two-shotsnoru-ka-soru-ka.q14v",
+        "image": "https://static.akacdn.ru/files/images/2020/07/d59ef647bc8c57d07a5239ae41273bb5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36951,
+        "aniId": 102631,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yuuyuuhakusho-specials": {
+        "createdAt": "2020-10-12T16:02:21.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21645,
+        "identifier": "yuuyuuhakusho-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuu☆Yuu☆Hakusho Specials",
+        "url": "https://gogoanime.vc/category/yuuyuuhakusho-specials",
+        "image": "https://gogocdn.net/cover/yuuyuuhakusho-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 36951,
+        "aniId": 102631,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3253": {
+        "identifier": "3253",
+        "malId": 36951,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+        "url": "https://animepahe.com/a/3253"
+      }
+    },
+    "AniMixPlay": {
+      "36951": {
+        "identifier": "36951",
+        "malId": 36951,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+        "url": "https://animixplay.to/anime/36951"
+      }
+    },
+    "YugenAnime": {
+      "4274": {
+        "identifier": "4274",
+        "malId": 36951,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+        "url": "https://yugen.to/anime/4274/yu-yu-hakusho-the-golden-seal/"
+      }
+    }
+  }
+}

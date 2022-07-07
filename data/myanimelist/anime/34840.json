@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-26T15:49:52.000Z",
+  "checkedAt": "2022-05-26T15:49:52.000Z",
+  "id": 34840,
+  "type": "anime",
+  "title": "Kitsune Tsuki",
+  "altTitle": [
+    "Fox Fears",
+    "きつね憑き"
+  ],
+  "url": "https://myanimelist.net/anime/34840/Kitsune_Tsuki",
+  "image": "https://cdn.myanimelist.net/images/anime/1647/98972.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://satomiyo.com/works.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13604"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13604,
+  "Pages": {
+    "9anime": {
+      "jm94": {
+        "createdAt": "2020-10-12T15:52:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4929,
+        "identifier": "jm94",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fox Fears",
+        "url": "https://9anime.to/watch/fox-fears.jm94",
+        "image": "https://static.akacdn.ru/static/images/2019/02/c07fc5808216abd37eb3faba1e735b0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34840,
+        "aniId": 104128,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T23:02:17.000Z",
+  "checkedAt": "2022-05-14T23:02:17.000Z",
+  "id": 1214,
+  "type": "anime",
+  "title": "Binbou Shimai Monogatari",
+  "altTitle": [
+    "Poor Sisters Story",
+    "貧乏姉妹物語"
+  ],
+  "url": "https://myanimelist.net/anime/1214/Binbou_Shimai_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/1959/108682.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/binboushimai/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4492"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6603"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Binb%C5%8D_Shimai_Monogatari"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4492,
+  "Pages": {
+    "9anime": {
+      "wqk4": {
+        "createdAt": "2020-10-12T15:56:14.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9900,
+        "identifier": "wqk4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Binbou Shimai Monogatari",
+        "url": "https://9anime.to/watch/binbou-shimai-monogatari.wqk4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ulOkg6dwqSk/V7muRO7k17I/AAAAAAAA4tg/q7bABINmVQU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1214,
+        "aniId": 1214,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "binbou-shimai-monogatari": {
+        "createdAt": "2021-07-04T03:12:57.000Z",
+        "updatedAt": "2021-07-04T03:29:50.000Z",
+        "checkedAt": null,
+        "id": 37632,
+        "identifier": "binbou-shimai-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Binbou Shimai Monogatari",
+        "url": "https://gogoanime.pe/category/binbou-shimai-monogatari",
+        "image": "https://gogocdn.net/images/anime/B/binbou-shimai-monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1214,
+        "aniId": 1214,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1214": {
+        "identifier": "1214",
+        "malId": 1214,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Binbou Shimai Monogatari",
+        "url": "https://animixplay.to/anime/1214"
+      }
+    },
+    "YugenAnime": {
+      "4248": {
+        "identifier": "4248",
+        "malId": 1214,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Binbou Shimai Monogatari",
+        "url": "https://yugen.to/anime/4248/binbou-shimai-monogatari/"
+      }
+    }
+  }
+}

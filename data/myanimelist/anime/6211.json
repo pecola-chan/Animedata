@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2022-05-14T09:50:44.000Z",
+  "checkedAt": "2022-05-14T09:50:44.000Z",
+  "id": 6211,
+  "type": "anime",
+  "title": "Tokyo Magnitude 8.0",
+  "altTitle": [
+    "Tokyo Magnitude 8.0",
+    "東京マグニチュード8.0"
+  ],
+  "url": "https://myanimelist.net/anime/6211/Tokyo_Magnitude_80",
+  "image": "https://cdn.myanimelist.net/images/anime/10/13776.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tokyo-m8.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6441"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10704"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokyo_Magnitude_8.0"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281896"
+    },
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/tokyo-magnitude-8-0"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6441,
+  "Pages": {
+    "9anime": {
+      "7kpj": {
+        "createdAt": "2020-10-12T15:51:09.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3459,
+        "identifier": "7kpj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Magnitude 8.0 (Dub)",
+        "url": "https://9anime.to/watch/tokyo-magnitude-80-dub.7kpj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-k1HN7l8CUUw/V_fKX226-2I/AAAAAAABE_8/ancRUdFsH0k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6211,
+        "aniId": 6211,
+        "deletedAt": null
+      },
+      "z1qp": {
+        "createdAt": "2020-10-12T15:57:02.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10951,
+        "identifier": "z1qp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo Magnitude 8.0",
+        "url": "https://9anime.to/watch/tokyo-magnitude-80.z1qp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-m_7n2kB1i24/V6H7Y0seaCI/AAAAAAAA0GY/a7UNiunAP_w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6211,
+        "aniId": 6211,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokyo-magnitude-8-0-dub": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21159,
+        "identifier": "tokyo-magnitude-8-0-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Magnitude 8.0 (Dub)",
+        "url": "https://gogoanime.vc/category/tokyo-magnitude-8-0-dub",
+        "image": "https://gogocdn.net/cover/tokyo-magnitude-8-0-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6211,
+        "aniId": 6211,
+        "deletedAt": null
+      },
+      "tokyo-magnitude-80": {
+        "createdAt": "2020-10-12T16:02:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21160,
+        "identifier": "tokyo-magnitude-80",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo Magnitude 8.0",
+        "url": "https://gogoanime.vc/category/tokyo-magnitude-80",
+        "image": "https://cdnimg.xyz/images/anime/T/tokyo-magnitude-8.0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6211,
+        "aniId": 6211,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "164": {
+        "identifier": "164",
+        "malId": 6211,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tokyo Magnitude 8.0",
+        "url": "https://animepahe.com/a/164"
+      }
+    },
+    "AniMixPlay": {
+      "6211": {
+        "identifier": "6211",
+        "malId": 6211,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo Magnitude 8.0",
+        "url": "https://animixplay.to/anime/6211"
+      }
+    },
+    "YugenAnime": {
+      "1810": {
+        "identifier": "1810",
+        "malId": 6211,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokyo Magnitude 8.0",
+        "url": "https://yugen.to/anime/1810/tokyo-magnitude-80/"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-15T04:53:11.000Z",
+  "checkedAt": "2022-05-15T04:53:11.000Z",
+  "id": 32287,
+  "type": "anime",
+  "title": "Kanamewo",
+  "altTitle": [
+    "A linchpin",
+    "カナメヲ"
+  ],
+  "url": "https://myanimelist.net/anime/32287/Kanamewo",
+  "image": "https://cdn.myanimelist.net/images/anime/7/83455.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rapparu.org/kanamewo"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11820"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11820,
+  "Pages": {
+    "9anime": {
+      "xox8": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10342,
+        "identifier": "xox8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanamewo",
+        "url": "https://9anime.to/watch/kanamewo.xox8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--bIlqsw2eNM/WAIIzdLkZUI/AAAAAAABICQ/ZbgL4cctWv0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32287,
+        "aniId": 21657,
+        "deletedAt": null
+      }
+    }
+  }
+}

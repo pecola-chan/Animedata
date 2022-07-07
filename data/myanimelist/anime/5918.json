@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-15T01:04:53.000Z",
+  "checkedAt": "2022-05-15T01:04:53.000Z",
+  "id": 5918,
+  "type": "anime",
+  "title": "Deimos no Hanayome: Ran no Kumikyoku",
+  "altTitle": [
+    "Akuma no Hanayome: Ran no Kumikyoku",
+    "Bride of Deimos",
+    "悪魔の花嫁 蘭の組曲"
+  ],
+  "url": "https://myanimelist.net/anime/5918/Deimos_no_Hanayome__Ran_no_Kumikyoku",
+  "image": "https://cdn.myanimelist.net/images/anime/9/35349.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1988-1987/works_ova_demon.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3496"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3327"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bride_of_Deimos"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3496,
+  "Pages": {
+    "9anime": {
+      "x9nz": {
+        "createdAt": "2020-10-12T15:56:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10225,
+        "identifier": "x9nz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bride of Deimos",
+        "url": "https://9anime.to/watch/bride-of-deimos.x9nz",
+        "image": "http://static.akacdn.ru/static/images/2018/02/222e2ae592af6d9ba1681e5f136b80a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5918,
+        "aniId": 5918,
+        "deletedAt": null
+      }
+    }
+  }
+}

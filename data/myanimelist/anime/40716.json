@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:40:13.000Z",
+  "updatedAt": "2022-05-14T07:01:36.000Z",
+  "checkedAt": "2022-05-14T07:01:35.000Z",
+  "id": 40716,
+  "type": "anime",
+  "title": "Kakushigoto (TV)",
+  "altTitle": [
+    "Hidden Things",
+    "Kakushigoto: My Dad's Secret Ambition",
+    "Kakushigoto",
+    "かくしごと"
+  ],
+  "url": "https://myanimelist.net/anime/40716/Kakushigoto_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1046/114345.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kakushigoto-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15267"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22900"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kakushigoto:_My_Dad%27s_Secret_Ambition#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/kakushigoto"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15267,
+  "Pages": {
+    "9anime": {
+      "16nm": {
+        "createdAt": "2020-10-12T15:49:08.000Z",
+        "updatedAt": "2022-06-14T01:32:06.000Z",
+        "checkedAt": "2022-06-14T01:32:06.000Z",
+        "id": 871,
+        "identifier": "16nm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kakushigoto (Dub)",
+        "url": "https://9anime.to/watch/kakushigoto-dub.16nm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/08/da3bbe4d2a53c37ee031ac8a2a2bb0b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40716,
+        "aniId": 113311,
+        "deletedAt": null
+      },
+      "j4m4": {
+        "createdAt": "2020-10-12T15:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4690,
+        "identifier": "j4m4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kakushigoto",
+        "url": "https://9anime.to/watch/kakushigoto.j4m4",
+        "image": "https://static.akacdn.ru/files/images/2020/04/f23966d6846cc1f30c00d703368e1fe2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40716,
+        "aniId": 113311,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kakushigoto-tv": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18678,
+        "identifier": "kakushigoto-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakushigoto (TV)",
+        "url": "https://gogoanime.vc/category/kakushigoto-tv",
+        "image": "https://gogocdn.net/cover/kakushigoto-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40716,
+        "aniId": 113311,
+        "deletedAt": null
+      },
+      "kakushigoto-tv-dub": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18679,
+        "identifier": "kakushigoto-tv-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakushigoto (TV) (Dub)",
+        "url": "https://gogoanime.vc/category/kakushigoto-tv-dub",
+        "image": "https://gogocdn.net/cover/kakushigoto-tv-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 40716,
+        "aniId": 113311,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3885": {
+        "identifier": "3885",
+        "malId": 40716,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kakushigoto (TV)",
+        "url": "https://animepahe.com/a/3885"
+      }
+    },
+    "AniMixPlay": {
+      "40716": {
+        "identifier": "40716",
+        "malId": 40716,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kakushigoto (TV)",
+        "url": "https://animixplay.to/anime/40716"
+      }
+    },
+    "YugenAnime": {
+      "4043": {
+        "identifier": "4043",
+        "malId": 40716,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kakushigoto (TV)",
+        "url": "https://yugen.to/anime/4043/kakushigoto-tv/"
+      }
+    }
+  }
+}

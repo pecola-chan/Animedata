@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T17:01:38.000Z",
+  "checkedAt": "2022-05-14T17:01:38.000Z",
+  "id": 9736,
+  "type": "anime",
+  "title": "Astarotte no Omocha!",
+  "altTitle": [
+    "Lotte no Omocha!",
+    "Astarotte's Toy",
+    "アスタロッテのおもちゃ！"
+  ],
+  "url": "https://myanimelist.net/anime/9736/Astarotte_no_Omocha",
+  "image": "https://cdn.myanimelist.net/images/anime/3/75562.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.rotte-omocha.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8062"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12104"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lotte_no_Omocha!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8062,
+  "Pages": {
+    "9anime": {
+      "zlvl": {
+        "createdAt": "2020-10-12T15:57:11.000Z",
+        "updatedAt": "2022-06-13T21:32:54.000Z",
+        "checkedAt": "2022-06-13T21:32:54.000Z",
+        "id": 11189,
+        "identifier": "zlvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Astarotte no Omocha!",
+        "url": "https://9anime.to/watch/astarottes-toy.zlvl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/5800f99a780d0988051a0370a3821103.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9736,
+        "aniId": 9736,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "astarottes-toy": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16629,
+        "identifier": "astarottes-toy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Astarottes Toy",
+        "url": "https://gogoanime.vc/category/astarottes-toy",
+        "image": "https://cdnimg.xyz/images/anime/A/astarotte-toy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9736,
+        "aniId": 9736,
+        "deletedAt": null
+      },
+      "astarottes-toy-ep-ex": {
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16630,
+        "identifier": "astarottes-toy-ep-ex",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Astarotte’s Toy Ep EX",
+        "url": "https://gogoanime.vc/category/astarottes-toy-ep-ex",
+        "image": "https://cdnimg.xyz/images/anime/A/astarotte-toy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9736,
+        "aniId": 9736,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "110": {
+        "identifier": "110",
+        "malId": 9736,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Astarotte no Omocha!",
+        "url": "https://animepahe.com/a/110"
+      }
+    },
+    "AniMixPlay": {
+      "9736": {
+        "identifier": "9736",
+        "malId": 9736,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Astarotte no Omocha!",
+        "url": "https://animixplay.to/anime/9736"
+      }
+    },
+    "YugenAnime": {
+      "3026": {
+        "identifier": "3026",
+        "malId": 9736,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Astarotte no Omocha!",
+        "url": "https://yugen.to/anime/3026/astarottes-toy/"
+      }
+    }
+  }
+}

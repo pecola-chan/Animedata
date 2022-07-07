@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T19:35:35.000Z",
+  "checkedAt": "2022-05-14T19:35:35.000Z",
+  "id": 16434,
+  "type": "anime",
+  "title": "Penguin's Memory: Shiawase Monogatari",
+  "altTitle": [
+    "A Penguin's Memories",
+    "ペンギンズ・メモリー幸福物語"
+  ],
+  "url": "https://myanimelist.net/anime/16434/Penguins_Memory__Shiawase_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/10/44572.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7331"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1421"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ペンギンズ・メモリー_幸福物語"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7331,
+  "Pages": {
+    "9anime": {
+      "46vx": {
+        "createdAt": "2020-10-12T15:50:02.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2153,
+        "identifier": "46vx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Penguin's Memory: Shiawase Monogatari",
+        "url": "https://9anime.to/watch/penguins-memory-shiawase-monogatari.46vx",
+        "image": "https://static.akacdn.ru/static/images/2018/03/a6b8afe3d2d6b5b5cf9531dd94f2bc56.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16434,
+        "aniId": 16434,
+        "deletedAt": null
+      }
+    }
+  }
+}

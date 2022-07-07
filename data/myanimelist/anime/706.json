@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T22:28:11.000Z",
+  "checkedAt": "2022-05-14T22:28:10.000Z",
+  "id": 706,
+  "type": "anime",
+  "title": "Comic Party Revolution",
+  "altTitle": [
+    "Comic Party: Revolution",
+    "Comic Party Revolution TV",
+    "Comic Party Revolution (2005)",
+    "こみっくパーティー Revolution"
+  ],
+  "url": "https://myanimelist.net/anime/706/Comic_Party_Revolution",
+  "image": "https://cdn.myanimelist.net/images/anime/4/42713.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3068"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5043"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Comic_Party#Series"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3068,
+  "Pages": {
+    "9anime": {
+      "5klm": {
+        "createdAt": "2020-10-12T15:50:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2647,
+        "identifier": "5klm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Comic Party Revolution (Dub)",
+        "url": "https://9anime.to/watch/comic-party-revolution-dub.5klm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--jOEyTnD85w/V6k3MIR8hMI/AAAAAAAA1eA/AhnLkzzIDmQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 706,
+        "aniId": 706,
+        "deletedAt": null
+      },
+      "wvwl": {
+        "createdAt": "2020-10-12T15:56:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9928,
+        "identifier": "wvwl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Comic Party Revolution",
+        "url": "https://9anime.to/watch/comic-party-revolution.wvwl",
+        "image": "https://static.akacdn.ru/files/images/2018/04/4cb230bec2c2f1b661f71f2c3d85b9a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 706,
+        "aniId": 706,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "comic-party-revolution": {
+        "createdAt": "2021-07-18T07:33:44.000Z",
+        "updatedAt": "2021-07-18T08:02:20.000Z",
+        "checkedAt": null,
+        "id": 37915,
+        "identifier": "comic-party-revolution",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Comic Party Revolution",
+        "url": "https://gogoanime.pe/category/comic-party-revolution",
+        "image": "https://gogocdn.net/cover/comic-party-revolution.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 706,
+        "aniId": 706,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "706": {
+        "identifier": "706",
+        "malId": 706,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Comic Party Revolution",
+        "url": "https://animixplay.to/anime/706"
+      }
+    },
+    "YugenAnime": {
+      "6378": {
+        "identifier": "6378",
+        "malId": 706,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Comic Party Revolution",
+        "url": "https://yugen.to/anime/6378/comic-party-revolution/"
+      }
+    }
+  }
+}

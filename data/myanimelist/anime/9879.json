@@ -1,0 +1,51 @@
+{
+  "createdAt": "2021-01-20T10:34:54.000Z",
+  "updatedAt": "2022-06-19T21:35:19.000Z",
+  "checkedAt": "2022-06-19T21:35:19.000Z",
+  "id": 9879,
+  "type": "anime",
+  "title": "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!",
+  "altTitle": [
+    "小学生の誘拐防止　ユミちゃんあぶないよ"
+  ],
+  "url": "https://myanimelist.net/anime/9879/Shougakusei_no_Yuukai_Boushi__Yumi-chan_Abunai_yo",
+  "image": "https://cdn.myanimelist.net/images/anime/5/27317.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sun-edu.co.jp/anti_kidnap/anti_kidnap_yumichan.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8092"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8092,
+  "Pages": {
+    "9anime": {
+      "kqww": {
+        "createdAt": "2021-01-20T10:38:36.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33950,
+        "identifier": "kqww",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!",
+        "url": "https://9anime.to/watch/shougakusei-no-yuukai-boushi-yumi-chan-abunai-yo.kqww",
+        "image": "//static.bunnycdn.ru/i/cache/images/e/ef/ef2c35ce6d35c33559e67c7b17b37254.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9879,
+        "aniId": 9879,
+        "deletedAt": null
+      }
+    }
+  }
+}

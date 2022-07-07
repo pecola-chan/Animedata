@@ -1,0 +1,82 @@
+{
+  "createdAt": "2020-10-12T15:38:23.000Z",
+  "updatedAt": "2022-05-14T22:06:42.000Z",
+  "checkedAt": "2022-05-14T22:06:42.000Z",
+  "id": 1911,
+  "type": "anime",
+  "title": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+  "altTitle": [
+    "Gunbuster vs. Diebuster",
+    "Top wo Nerae! Gekijouban",
+    "Diebuster Movie (2006)",
+    "DieBuster Movie",
+    "Gunbuster Movie",
+    "Top wo Nerae!",
+    "Gunbuster 2 Movie",
+    "Top wo Nerae! 2 Movie",
+    "トップをねらえ！＆トップをねらえ２！合体劇場版!!"
+  ],
+  "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1/1911.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.top2.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4526"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7455"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Diebuster"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/gunbuster-the-movie"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4526,
+  "Pages": {
+    "9anime": {
+      "wn27": {
+        "createdAt": "2020-10-12T15:56:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9824,
+        "identifier": "wn27",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+        "url": "https://9anime.to/watch/top-wo-nerae-top-wo-nerae-2-gattai-movie.wn27",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eIRL-lPUOq0/WAxN8skB80I/AAAAAAABKcs/bm3_gtva7II/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1911,
+        "aniId": 1911,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1911": {
+        "identifier": "1911",
+        "malId": 1911,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Top wo Nerae! &amp; Top wo Nerae 2! Gattai Movie!!",
+        "url": "https://animixplay.to/anime/1911"
+      }
+    }
+  }
+}

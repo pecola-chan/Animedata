@@ -1,0 +1,97 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T19:13:18.000Z",
+  "checkedAt": "2022-05-14T19:13:18.000Z",
+  "id": 34006,
+  "type": "anime",
+  "title": "Kakuchou Shoujo-kei Trinary",
+  "altTitle": [
+    "Augmented Reality Girls Trinary",
+    "拡張少女系トライナリー"
+  ],
+  "url": "https://myanimelist.net/anime/34006/Kakuchou_Shoujo-kei_Trinary",
+  "image": "https://cdn.myanimelist.net/images/anime/7/85753.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.kakutora.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12382"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%8B%A1%E5%BC%B5%E5%B0%91%E5%A5%B3%E7%B3%BB%E3%83%88%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%AA%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12382,
+  "Pages": {
+    "9anime": {
+      "36m6": {
+        "createdAt": "2020-10-12T15:49:43.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1725,
+        "identifier": "36m6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Augmented Reality Girls Trinary",
+        "url": "https://9anime.to/watch/augmented-reality-girls-trinary.36m6",
+        "image": "http://static.akacdn.ru/static/images/2018/04/10e5004e1fabe573b4f5b021e0641653.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34006,
+        "aniId": 98595,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kakuchou-shoujo-kei-trinary": {
+        "createdAt": "2021-03-31T06:01:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36083,
+        "identifier": "kakuchou-shoujo-kei-trinary",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakuchou Shoujo-kei Trinary",
+        "url": "https://gogoanime.vc/category/kakuchou-shoujo-kei-trinary",
+        "image": "https://gogocdn.net/cover/kakuchou-shoujo-kei-trinary.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34006,
+        "aniId": 98595,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34006": {
+        "identifier": "34006",
+        "malId": 34006,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kakuchou Shoujo-kei Trinary",
+        "url": "https://animixplay.to/anime/34006"
+      }
+    },
+    "YugenAnime": {
+      "7406": {
+        "identifier": "7406",
+        "malId": 34006,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kakuchou Shoujo-kei Trinary",
+        "url": "https://yugen.to/anime/7406/kakuchou-shoujo-kei-trinary/"
+      }
+    }
+  }
+}

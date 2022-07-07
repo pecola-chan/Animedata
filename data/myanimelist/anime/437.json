@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2022-05-14T06:30:57.000Z",
+  "checkedAt": "2022-05-14T06:30:57.000Z",
+  "id": 437,
+  "type": "anime",
+  "title": "Perfect Blue",
+  "altTitle": [
+    "Perfect Blue",
+    "パーフェクトブルー"
+  ],
+  "url": "https://myanimelist.net/anime/437/Perfect_Blue",
+  "image": "https://cdn.myanimelist.net/images/anime/11/79127.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1999-1997/works_movie_perfectblue.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=154"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=192"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Perfect_Blue"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 154,
+  "Pages": {
+    "9anime": {
+      "90y8": {
+        "createdAt": "2020-10-12T15:51:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4142,
+        "identifier": "90y8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Perfect Blue",
+        "url": "https://9anime.to/watch/perfect-blue.90y8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-D2bwdCtYgUg/V6xeaELrojI/AAAAAAAA2Vc/NCLo-h1EkNs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 437,
+        "aniId": 437,
+        "deletedAt": null
+      },
+      "qqrj": {
+        "createdAt": "2020-10-12T15:55:14.000Z",
+        "updatedAt": "2022-06-14T01:31:54.000Z",
+        "checkedAt": "2022-06-14T01:31:54.000Z",
+        "id": 8534,
+        "identifier": "qqrj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Perfect Blue (Dub)",
+        "url": "https://9anime.to/watch/perfect-blue-dub.qqrj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/680b4b6c80f45dfba28f7cec2f599b19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 437,
+        "aniId": 437,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "perfect-blue": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20014,
+        "identifier": "perfect-blue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Perfect Blue",
+        "url": "https://gogoanime.vc/category/perfect-blue",
+        "image": "https://cdnimg.xyz/images/anime/P/Perfect-Blue.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 437,
+        "aniId": 437,
+        "deletedAt": null
+      },
+      "perfect-blue-dub": {
+        "createdAt": "2020-10-12T16:01:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20015,
+        "identifier": "perfect-blue-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Perfect Blue (Dub)",
+        "url": "https://gogoanime.vc/category/perfect-blue-dub",
+        "image": "https://gogocdn.net/cover/perfect-blue-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 437,
+        "aniId": 437,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2144": {
+        "identifier": "2144",
+        "malId": 437,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Perfect Blue",
+        "url": "https://animepahe.com/a/2144"
+      }
+    },
+    "AniMixPlay": {
+      "437": {
+        "identifier": "437",
+        "malId": 437,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Perfect Blue",
+        "url": "https://animixplay.to/anime/437"
+      }
+    },
+    "YugenAnime": {
+      "933": {
+        "identifier": "933",
+        "malId": 437,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Perfect Blue",
+        "url": "https://yugen.to/anime/933/perfect-blue/"
+      }
+    }
+  }
+}

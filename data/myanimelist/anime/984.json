@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-15T04:47:59.000Z",
+  "checkedAt": "2022-05-15T04:47:59.000Z",
+  "id": 984,
+  "type": "anime",
+  "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+  "altTitle": [
+    "Dragon Ball Z Gaiden: Saiya-jin Zetsumetsu Keikaku",
+    "Dragon Ball Z: Plan to Destroy the Saiyajin",
+    "Dragon Ball Z: Plan to Eradicate the Saiyans",
+    "ドラゴンボールＺ: 外伝・サイヤ人絶滅計画"
+  ],
+  "url": "https://myanimelist.net/anime/984/Dragon_Ball_Z__Saiya-jin_Zetsumetsu_Keikaku",
+  "image": "https://cdn.myanimelist.net/images/anime/1021/116787.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/dragon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2643"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2871"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2643,
+  "Pages": {
+    "9anime": {
+      "p264": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7810,
+        "identifier": "p264",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+        "url": "https://9anime.to/watch/dragon-ball-z-saiya-jin-zetsumetsu-keikaku.p264",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DBLtM3E3GDM/WCxirilpBiI/AAAAAAABPH4/t7_ZsLGGsEk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 984,
+        "aniId": 984,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4018": {
+        "identifier": "4018",
+        "malId": 984,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+        "url": "https://animepahe.com/a/4018"
+      }
+    }
+  }
+}

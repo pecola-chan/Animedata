@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2022-06-22T18:15:54.000Z",
+  "checkedAt": "2022-06-22T18:15:54.000Z",
+  "id": 42445,
+  "type": "anime",
+  "title": "Bai Gui Youeryuan 3rd Season",
+  "altTitle": [
+    "Bai Gui Youeryuan Di San Ji",
+    "百鬼幼儿园 第三季"
+  ],
+  "url": "https://myanimelist.net/anime/42445/Bai_Gui_Youeryuan_3rd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1984/108463.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28228700"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E7%99%BE%E9%AC%BC%E5%B9%BC%E5%84%BF%E5%9B%AD/22734633"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "100x": {
+        "createdAt": "2020-10-12T15:48:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 766,
+        "identifier": "100x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bai Gui Youeryuan 3rd Season",
+        "url": "https://9anime.to/watch/bai-gui-youeryuan-3rd-season.100x",
+        "image": "https://static.akacdn.ru/files/images/2020/07/caaf06ab608abe94a511e784ae237ade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42445,
+        "aniId": 120324,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42445": {
+        "identifier": "42445",
+        "malId": 42445,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bai Gui Youeryuan 3rd Season",
+        "url": "https://animixplay.to/anime/42445"
+      }
+    },
+    "YugenAnime": {
+      "9554": {
+        "identifier": "9554",
+        "malId": 42445,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bai Gui Youeryuan 3rd Season",
+        "url": "https://yugen.to/anime/9554/bai-gui-youeryuan-3rd-season/"
+      }
+    }
+  }
+}

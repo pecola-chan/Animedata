@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T20:00:11.000Z",
+  "checkedAt": "2022-05-14T20:00:11.000Z",
+  "id": 8023,
+  "type": "anime",
+  "title": "Toaru Kagaku no Railgun: Motto Marutto Railgun",
+  "altTitle": [
+    "Toaru Kagaku no Railgun MMR",
+    "Motto Marutto Railgun Specials",
+    "A Certain Scientific Railgun Specials",
+    "もっとまるっと超電磁砲"
+  ],
+  "url": "https://myanimelist.net/anime/8023/Toaru_Kagaku_no_Railgun__Motto_Marutto_Railgun",
+  "image": "https://cdn.myanimelist.net/images/anime/11/21780.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.project-railgun.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6460"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_To_Aru_Kagaku_no_Railgun_episodes"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6460,
+  "Pages": {
+    "9anime": {
+      "v7rl": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9283,
+        "identifier": "v7rl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toaru Kagaku no Railgun: Motto Marutto Railgun",
+        "url": "https://9anime.to/watch/toaru-kagaku-no-railgun-motto-marutto-railgun.v7rl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0XwrqFc1zwM/V9InW6kHaXI/AAAAAAAA8rA/phBt9QDPm2E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8023,
+        "aniId": 8023,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2709": {
+        "identifier": "2709",
+        "malId": 8023,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toaru Kagaku no Railgun: Motto Marutto Railgun",
+        "url": "https://animepahe.com/a/2709"
+      }
+    },
+    "AniMixPlay": {
+      "8023": {
+        "identifier": "8023",
+        "malId": 8023,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toaru Kagaku no Railgun: Motto Marutto Railgun",
+        "url": "https://animixplay.to/anime/8023"
+      }
+    }
+  }
+}

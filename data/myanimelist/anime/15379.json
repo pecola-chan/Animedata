@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T16:06:19.000Z",
+  "checkedAt": "2022-05-14T16:06:19.000Z",
+  "id": 15379,
+  "type": "anime",
+  "title": "Kotoura-san",
+  "altTitle": [
+    "Kotoura-san",
+    "The Troubled Life of Miss Kotoura",
+    "琴浦さん"
+  ],
+  "url": "https://myanimelist.net/anime/15379/Kotoura-san",
+  "image": "https://cdn.myanimelist.net/images/anime/10/75585.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kotourasan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9394"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14722"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/琴浦さん"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-251591"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9394,
+  "Pages": {
+    "9anime": {
+      "58v": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2595,
+        "identifier": "58v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kotoura-san",
+        "url": "https://9anime.to/watch/kotoura-san.58v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-VraHIesU9G4/V34VUMXP_DI/AAAAAAAAt2I/eCP9XBHwyc4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15379,
+        "aniId": 15379,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kotoura-san": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18965,
+        "identifier": "kotoura-san",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kotoura-san",
+        "url": "https://gogoanime.vc/category/kotoura-san",
+        "image": "https://cdnimg.xyz/images/anime/K/Kotoura-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15379,
+        "aniId": 15379,
+        "deletedAt": null
+      },
+      "kotoura-san-special": {
+        "createdAt": "2020-10-12T17:23:11.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23614,
+        "identifier": "kotoura-san-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kotoura-san Special",
+        "url": "https://gogoanime.vc/category/kotoura-san-special",
+        "image": "https://gogocdn.net/images/anime/K/Kotoura-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15379,
+        "aniId": 15379,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1129": {
+        "identifier": "1129",
+        "malId": 15379,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kotoura-san",
+        "url": "https://animepahe.com/a/1129"
+      }
+    },
+    "AniMixPlay": {
+      "15379": {
+        "identifier": "15379",
+        "malId": 15379,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kotoura-san",
+        "url": "https://animixplay.to/anime/15379"
+      }
+    },
+    "YugenAnime": {
+      "2997": {
+        "identifier": "2997",
+        "malId": 15379,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kotoura-san",
+        "url": "https://yugen.to/anime/2997/kotoura-san/"
+      }
+    }
+  }
+}

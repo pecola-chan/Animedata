@@ -1,0 +1,86 @@
+{
+  "createdAt": "2020-10-12T15:38:44.000Z",
+  "updatedAt": "2022-05-14T20:34:17.000Z",
+  "checkedAt": "2022-05-14T20:34:17.000Z",
+  "id": 4876,
+  "type": "anime",
+  "title": "Hashire Melos (Movie)",
+  "altTitle": [
+    "Run Melos! (1992)",
+    "Run Melos!",
+    "走れメロス"
+  ],
+  "url": "https://myanimelist.net/anime/4876/Hashire_Melos_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/1040/122786.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2384"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1700"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hashire_Melos!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2384,
+  "Pages": {
+    "9anime": {
+      "4wnx": {
+        "createdAt": "2020-10-12T15:50:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2408,
+        "identifier": "4wnx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hashire Melos!",
+        "url": "https://9anime.to/watch/hashire-melos.4wnx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8HBAvIDTmuI/V9Q16TzZlXI/AAAAAAAA9Hc/RQ8B8PvAVV4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4876,
+        "aniId": 4876,
+        "deletedAt": null
+      },
+      "krjr": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5595,
+        "identifier": "krjr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Run Melos (Dub)",
+        "url": "https://9anime.to/watch/run-melos-dub.krjr",
+        "image": "https://static.akacdn.ru/files/images/2018/03/0363df663e2b8583c1a367ab892ab1cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4876,
+        "aniId": 4876,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4876": {
+        "identifier": "4876",
+        "malId": 4876,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hashire Melos (Movie)",
+        "url": "https://animixplay.to/anime/4876"
+      }
+    }
+  }
+}

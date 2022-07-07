@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T16:01:41.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20258,
+  "identifier": "reideen-",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Reideen ",
+  "url": "https://gogoanime.vc/category/reideen-",
+  "image": "https://cdnimg.xyz/images/anime/R/reideen.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1693,
+  "aniId": 1693,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:20.000Z",
+    "updatedAt": "2022-05-14T21:27:42.000Z",
+    "checkedAt": "2022-05-14T21:27:42.000Z",
+    "id": 1693,
+    "type": "anime",
+    "title": "Reideen",
+    "altTitle": [
+      "Reideen (2007)",
+      "Raideen",
+      "Reideen",
+      "ライディーン"
+    ],
+    "url": "https://myanimelist.net/anime/1693/Reideen",
+    "image": "https://cdn.myanimelist.net/images/anime/2/7363.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.reideen.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4808"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7292"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/tv/reideen"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 4808
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:16.000Z",
+    "updatedAt": "2022-05-15T14:58:35.000Z",
+    "checkedAt": "2022-05-15T14:58:35.000Z",
+    "id": 1693,
+    "type": "anime",
+    "title": "REIDEEN",
+    "altTitle": [
+      "REIDEEN",
+      "ライディーン",
+      "Reideen (2007)",
+      "Raideen"
+    ],
+    "url": "https://anilist.co/anime/1693",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1693-ezouSDDTFY2C.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1693,
+    "deletedAt": null
+  }
+}

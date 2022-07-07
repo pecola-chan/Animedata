@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T21:33:17.000Z",
+  "checkedAt": "2022-05-14T21:33:17.000Z",
+  "id": 20449,
+  "type": "anime",
+  "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+  "altTitle": [
+    "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Episode 13",
+    "Watamote OVA",
+    "Watamote Episode 13",
+    "私がモテないのはどう考えてもお前らが悪い! 未放送第13話"
+  ],
+  "url": "https://myanimelist.net/anime/20449/Watashi_ga_Motenai_no_wa_Dou_Kangaetemo_Omaera_ga_Warui__Motenaishi_Nazomeite_Miru",
+  "image": "https://cdn.myanimelist.net/images/anime/7/60743.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.watamote.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10064"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/WataMote"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10064,
+  "Pages": {
+    "9anime": {
+      "04y3": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2022-01-30T15:52:30.000Z",
+        "checkedAt": null,
+        "id": 449,
+        "identifier": "04y3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "url": "https://9anime.to/watch/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru.04y3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/2600cb4454af7fab79c1de9084bc9329.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20449,
+        "aniId": 20453,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "watamote-ova": {
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21407,
+        "identifier": "watamote-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Watamote OVA",
+        "url": "https://gogoanime.vc/category/watamote-ova",
+        "image": "https://gogocdn.net/images/watamote.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20449,
+        "aniId": 20453,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1410": {
+        "identifier": "1410",
+        "malId": 20449,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "url": "https://animepahe.com/a/1410"
+      }
+    },
+    "AniMixPlay": {
+      "20449": {
+        "identifier": "20449",
+        "malId": 20449,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "url": "https://animixplay.to/anime/20449"
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-14T21:54:59.000Z",
+  "checkedAt": "2022-05-14T21:54:59.000Z",
+  "id": 5973,
+  "type": "anime",
+  "title": "Fight Ippatsu! Juuden-chan!!",
+  "altTitle": [
+    "Juden Chan Recharged",
+    "ファイト一発！充電ちゃん！！"
+  ],
+  "url": "https://myanimelist.net/anime/5973/Fight_Ippatsu_Juuden-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/2/12946.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mv.avex.jp/juden-chan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6481"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10463"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fight_Ippatsu!_Jūden-chan!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6481,
+  "Pages": {
+    "9anime": {
+      "o715": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7428,
+        "identifier": "o715",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Juden Chan Recharged (Dub)",
+        "url": "https://9anime.to/watch/juden-chan-recharged-dub.o715",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-o3cWpB6qh3c/Wi5qpQ2qgbI/AAAAAAAAB9E/G2afmobKTTA92OnfM-lVbg75p8IbZHFDACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5973,
+        "aniId": 5973,
+        "deletedAt": null
+      },
+      "olky": {
+        "createdAt": "2020-10-12T15:54:13.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7522,
+        "identifier": "olky",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fight Ippatsu! Juuden-chan!!",
+        "url": "https://9anime.to/watch/fight-ippatsu-juuden-chan.olky",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1ys6gC49EQ8/V78KMf4-7OI/AAAAAAAA5c0/nXaJ2wSlgdg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5973,
+        "aniId": 5973,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fight-ippatsu-juuden-chan-dub": {
+        "createdAt": "2021-06-25T00:15:24.000Z",
+        "updatedAt": "2021-06-25T00:44:53.000Z",
+        "checkedAt": null,
+        "id": 37539,
+        "identifier": "fight-ippatsu-juuden-chan-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fight Ippatsu! Juuden-chan!! (Dub)",
+        "url": "https://gogoanime.vc/category/fight-ippatsu-juuden-chan-dub",
+        "image": "https://gogocdn.net/cover/fight-ippatsu-juuden-chan-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5973,
+        "aniId": 5973,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5973": {
+        "identifier": "5973",
+        "malId": 5973,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fight Ippatsu! Juuden-chan!!",
+        "url": "https://animixplay.to/anime/5973"
+      }
+    },
+    "YugenAnime": {
+      "6124": {
+        "identifier": "6124",
+        "malId": 5973,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Fight Ippatsu! Juuden-chan!!",
+        "url": "https://yugen.to/anime/6124/fight-ippatsu-juuden-chan/"
+      }
+    }
+  }
+}

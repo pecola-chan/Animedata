@@ -1,0 +1,93 @@
+{
+  "createdAt": "2022-02-05T07:37:21.000Z",
+  "updatedAt": "2022-05-14T18:11:29.000Z",
+  "checkedAt": "2022-05-14T18:11:29.000Z",
+  "id": 50588,
+  "type": "anime",
+  "title": "Wan Yu Feng Shen",
+  "altTitle": [
+    "Lord of Planet",
+    "万域封神"
+  ],
+  "url": "https://myanimelist.net/anime/50588/Wan_Yu_Feng_Shen",
+  "image": "https://cdn.myanimelist.net/images/anime/1318/120062.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://v.qq.com/detail/x/mzc00200a4i8dj3.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E4%B8%87%E5%9F%9F%E5%B0%81%E7%A5%9E/57547583"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "Gogoanime": {
+      "wan-yu-feng-shen": {
+        "createdAt": "2021-12-30T05:53:31.000Z",
+        "updatedAt": "2022-06-13T22:31:26.000Z",
+        "checkedAt": "2022-06-13T22:31:26.000Z",
+        "id": 39617,
+        "identifier": "wan-yu-feng-shen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wan Yu Feng Shen",
+        "url": "https://gogoanime.sk/category/wan-yu-feng-shen",
+        "image": "https://gogocdn.net/cover/wan-yu-feng-shen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 50588,
+        "aniId": 142716,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9oo6n": {
+        "createdAt": "2021-12-30T12:53:57.000Z",
+        "updatedAt": "2022-05-19T15:20:00.000Z",
+        "checkedAt": null,
+        "id": 39623,
+        "identifier": "9oo6n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wan Yu Feng Shen",
+        "url": "https://9anime.to/watch/lord-of-planet.9oo6n",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bb/bbf1fd7b7ea9bea220e3c694b5f6f908.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 50588,
+        "aniId": 142716,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "50588": {
+        "identifier": "50588",
+        "malId": 50588,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wan Yu Feng Shen",
+        "url": "https://animixplay.to/anime/50588"
+      }
+    },
+    "YugenAnime": {
+      "11482": {
+        "identifier": "11482",
+        "malId": 50588,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wan Yu Feng Shen",
+        "url": "https://yugen.to/anime/11482/wan-yu-feng-shen/"
+      }
+    }
+  }
+}

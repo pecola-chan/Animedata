@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-15T01:35:43.000Z",
+  "checkedAt": "2022-05-15T01:35:43.000Z",
+  "id": 13139,
+  "type": "anime",
+  "title": "Gakkatsu!",
+  "altTitle": [
+    "ガッ活!"
+  ],
+  "url": "https://myanimelist.net/anime/13139/Gakkatsu",
+  "image": "https://cdn.myanimelist.net/images/anime/8/62295.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www9.nhk.or.jp/anime/gakkatsu/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8967"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14036"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ガッ活!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8967,
+  "Pages": {
+    "9anime": {
+      "wkkk": {
+        "createdAt": "2020-10-12T15:56:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9786,
+        "identifier": "wkkk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gakkatsu!",
+        "url": "https://9anime.to/watch/gakkatsu.wkkk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ORVaYqK2r34/WGKttnmhQ_I/AAAAAAABVKs/tqfqxDcxego/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13139,
+        "aniId": 13139,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2323": {
+        "identifier": "2323",
+        "malId": 13139,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gakkatsu!",
+        "url": "https://animepahe.com/a/2323"
+      }
+    },
+    "AniMixPlay": {
+      "13139": {
+        "identifier": "13139",
+        "malId": 13139,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gakkatsu!",
+        "url": "https://animixplay.to/anime/13139"
+      }
+    },
+    "YugenAnime": {
+      "278": {
+        "identifier": "278",
+        "malId": 13139,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Gakkatsu!",
+        "url": "https://yugen.to/anime/278/gakkatsu/"
+      }
+    }
+  }
+}

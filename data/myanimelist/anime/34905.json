@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T23:19:05.000Z",
+  "checkedAt": "2022-05-14T23:19:05.000Z",
+  "id": 34905,
+  "type": "anime",
+  "title": "Duel Masters (2017)",
+  "altTitle": [
+    "デュエル・マスターズ (2017)"
+  ],
+  "url": "https://myanimelist.net/anime/34905/Duel_Masters_2017",
+  "image": "https://cdn.myanimelist.net/images/anime/12/86604.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/dm/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12818"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19095"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12818,
+  "Pages": {
+    "9anime": {
+      "n5nj": {
+        "createdAt": "2020-10-12T15:53:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6966,
+        "identifier": "n5nj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Duel Masters (2017)",
+        "url": "https://9anime.to/watch/duel-masters-2017.n5nj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-h6r0nQI9Msk/WNXs3TTKs4I/AAAAAAABggA/yoDdoq6LmFI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34905,
+        "aniId": 98378,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34905": {
+        "identifier": "34905",
+        "malId": 34905,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Duel Masters (2017)",
+        "url": "https://animixplay.to/anime/34905"
+      }
+    }
+  }
+}

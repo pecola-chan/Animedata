@@ -1,0 +1,97 @@
+{
+  "createdAt": "2021-01-08T16:50:39.000Z",
+  "updatedAt": "2022-05-15T04:05:30.000Z",
+  "checkedAt": "2022-05-15T04:05:30.000Z",
+  "id": 45574,
+  "type": "anime",
+  "title": "Holy Knight Light",
+  "altTitle": [
+    "Arknights: Holy Knight Light",
+    "Holy Knight Light"
+  ],
+  "url": "https://myanimelist.net/anime/45574/Holy_Knight_Light",
+  "image": "https://cdn.myanimelist.net/images/anime/1829/110959.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://youtu.be/u82r6NIkTbU"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15950"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23967"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15950,
+  "Pages": {
+    "9anime": {
+      "9pp8": {
+        "createdAt": "2021-01-08T16:51:40.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33238,
+        "identifier": "9pp8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Holy Knight Light",
+        "url": "https://9anime.to/watch/holy-knight-light.9pp8",
+        "image": "//static.bunnycdn.ru/i/cache/images/f/f0/f0fe1468f0d87bde1b7a0a5143d65c17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45574,
+        "aniId": 127957,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "holy-knight-light": {
+        "createdAt": "2021-01-21T10:02:53.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34016,
+        "identifier": "holy-knight-light",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Holy Knight Light",
+        "url": "https://gogoanime.vc/category/holy-knight-light",
+        "image": "https://gogocdn.net/cover/holy-knight-light.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45574,
+        "aniId": 127957,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "45574": {
+        "identifier": "45574",
+        "malId": 45574,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Holy Knight Light",
+        "url": "https://animixplay.to/anime/45574"
+      }
+    },
+    "YugenAnime": {
+      "7185": {
+        "identifier": "7185",
+        "malId": 45574,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Holy Knight Light",
+        "url": "https://yugen.to/anime/7185/holy-knight-light/"
+      }
+    }
+  }
+}

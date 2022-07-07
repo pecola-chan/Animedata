@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:41.000Z",
+  "updatedAt": "2022-05-14T16:57:38.000Z",
+  "checkedAt": "2022-05-14T16:57:38.000Z",
+  "id": 32032,
+  "type": "anime",
+  "title": "Seikaisuru Kado",
+  "altTitle": [
+    "KADO: The Right Answer",
+    "正解するカド"
+  ],
+  "url": "https://myanimelist.net/anime/32032/Seikaisuru_Kado",
+  "image": "https://cdn.myanimelist.net/images/anime/3/85255.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.seikaisuru-kado.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11762"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19011"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272935"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11762,
+  "Pages": {
+    "9anime": {
+      "5y0v": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2845,
+        "identifier": "5y0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikaisuru Kado",
+        "url": "https://9anime.to/watch/seikaisuru-kado.5y0v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-WxZ7rVKQFCw/WOZPBfsYkFI/AAAAAAAAf6c/g7NGss3lxbo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32032,
+        "aniId": 21452,
+        "deletedAt": null
+      },
+      "v414": {
+        "createdAt": "2020-10-12T15:55:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9207,
+        "identifier": "v414",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikaisuru Kado (Dub)",
+        "url": "https://9anime.to/watch/seikaisuru-kado-dub.v414",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JQPh6VLswXs/WQaPHrSFUXI/AAAAAAAAlFY/0l6YAB0L1vci75vbLui-2iL4WhIoiEMbACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32032,
+        "aniId": 21452,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seikaisuru-kado": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2022-06-14T00:00:08.000Z",
+        "checkedAt": "2022-06-14T00:00:08.000Z",
+        "id": 20461,
+        "identifier": "seikaisuru-kado",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seikaisuru Kado",
+        "url": "https://gogoanime.sk/category/seikaisuru-kado",
+        "image": "https://gogocdn.net/cover/seikaisuru-kado.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32032,
+        "aniId": 21452,
+        "deletedAt": null
+      },
+      "seikaisuru-kado-dub": {
+        "createdAt": "2020-10-12T16:01:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20462,
+        "identifier": "seikaisuru-kado-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seikaisuru Kado (Dub)",
+        "url": "https://gogoanime.vc/category/seikaisuru-kado-dub",
+        "image": "https://gogocdn.net/cover/seikaisuru-kado-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32032,
+        "aniId": 21452,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2019": {
+        "identifier": "2019",
+        "malId": 32032,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikaisuru Kado",
+        "url": "https://animepahe.com/a/2019"
+      }
+    },
+    "AniMixPlay": {
+      "32032": {
+        "identifier": "32032",
+        "malId": 32032,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikaisuru Kado",
+        "url": "https://animixplay.to/anime/32032"
+      }
+    },
+    "YugenAnime": {
+      "5817": {
+        "identifier": "5817",
+        "malId": 32032,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seikaisuru Kado",
+        "url": "https://yugen.to/anime/5817/seikaisuru-kado/"
+      }
+    }
+  }
+}

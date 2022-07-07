@@ -1,0 +1,74 @@
+{
+  "createdAt": "2022-02-21T14:02:34.000Z",
+  "updatedAt": "2022-02-21T14:17:39.000Z",
+  "checkedAt": null,
+  "id": 40252,
+  "identifier": "xenosaga-the-animation-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Xenosaga The Animation (Dub)",
+  "url": "https://gogoanime.fi/category/xenosaga-the-animation-dub",
+  "image": "https://gogocdn.net/cover/xenosaga-the-animation-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 184,
+  "aniId": 184,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T19:19:05.000Z",
+    "checkedAt": "2022-05-14T19:19:05.000Z",
+    "id": 184,
+    "type": "anime",
+    "title": "Xenosaga The Animation",
+    "altTitle": [
+      "ゼノサーガ THE ANIMATION"
+    ],
+    "url": "https://myanimelist.net/anime/184/Xenosaga_The_Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/3/75162.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/xenosaga/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2724"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4569"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Xenosaga:_The_Animation"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2724
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T15:30:23.000Z",
+    "checkedAt": "2022-05-15T15:30:23.000Z",
+    "id": 184,
+    "type": "anime",
+    "title": "Xenosaga: THE ANIMATION",
+    "altTitle": [
+      "Xenosaga: The Animation",
+      "ゼノサーガ THE ANIMATION"
+    ],
+    "url": "https://anilist.co/anime/184",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/184.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 184,
+    "deletedAt": null
+  }
+}

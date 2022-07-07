@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:08.000Z",
+  "updatedAt": "2022-05-23T09:00:52.000Z",
+  "checkedAt": "2022-05-23T09:00:52.000Z",
+  "id": 10954,
+  "type": "anime",
+  "title": "Toei Robot Girls",
+  "altTitle": [
+    "東映ロボットガールズ"
+  ],
+  "url": "https://myanimelist.net/anime/10954/Toei_Robot_Girls",
+  "image": "https://cdn.myanimelist.net/images/anime/5/56489.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/sp/robotgirls/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8532"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13252"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/東映ロボットガールズ"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8532,
+  "Pages": {
+    "9anime": {
+      "3l56": {
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1812,
+        "identifier": "3l56",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toei Robot Girls",
+        "url": "https://9anime.to/watch/toei-robot-girls.3l56",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TnNsLkHVixU/WZlwJPdjIZI/AAAAAAAACbw/JeTnoX9zyTQ7FtroKE-bnUf0WXKvzx2_ACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10954,
+        "aniId": 10954,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10954": {
+        "identifier": "10954",
+        "malId": 10954,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toei Robot Girls",
+        "url": "https://animixplay.to/anime/10954"
+      }
+    },
+    "YugenAnime": {
+      "2932": {
+        "identifier": "2932",
+        "malId": 10954,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Toei Robot Girls",
+        "url": "https://yugen.to/anime/2932/toei-robot-girls-z/"
+      }
+    }
+  }
+}

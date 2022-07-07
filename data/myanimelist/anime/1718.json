@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-15T01:33:18.000Z",
+  "checkedAt": "2022-05-15T01:33:18.000Z",
+  "id": 1718,
+  "type": "anime",
+  "title": "Winter Garden",
+  "altTitle": [
+    "DiGi Charat: Winter Garden",
+    "Di Gi Charat: Winter Garden",
+    "ウィンターガーデン"
+  ],
+  "url": "https://myanimelist.net/anime/1718/Winter_Garden",
+  "image": "https://cdn.myanimelist.net/images/anime/1/1718.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/wintergarden/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4797"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7030"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Di_Gi_Charat#Winter_Garden_from_Di_Gi_Charat"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4797,
+  "Pages": {
+    "9anime": {
+      "kj4v": {
+        "createdAt": "2020-10-12T15:52:36.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5426,
+        "identifier": "kj4v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Winter Garden",
+        "url": "https://9anime.to/watch/winter-garden.kj4v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-01vlDBfFoIM/WLF9WnYY4II/AAAAAAABd8E/SZlP_TmYAM4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1718,
+        "aniId": 1718,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1718": {
+        "identifier": "1718",
+        "malId": 1718,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Winter Garden",
+        "url": "https://animixplay.to/anime/1718"
+      }
+    }
+  }
+}

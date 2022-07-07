@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:42.000Z",
+  "updatedAt": "2022-05-14T18:40:17.000Z",
+  "checkedAt": "2022-05-14T18:40:17.000Z",
+  "id": 4195,
+  "type": "anime",
+  "title": "Kodomo no Jikan Ni Gakki",
+  "altTitle": [
+    "Kodomo no Jikan: Second Term",
+    "Kodomo no Jikan OVA 3",
+    "こどものじかん 2学期"
+  ],
+  "url": "https://myanimelist.net/anime/4195/Kodomo_no_Jikan_Ni_Gakki",
+  "image": "https://cdn.myanimelist.net/images/anime/3/39447.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kojika-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6091"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10306"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kodomo_no_Jikan#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6091,
+  "Pages": {
+    "9anime": {
+      "8yqn": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4101,
+        "identifier": "8yqn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kodomo no Jikan: Ni Gakki",
+        "url": "https://9anime.to/watch/kodomo-no-jikan-ni-gakki.8yqn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XsvJ6L7EITc/V-XL7ZeV3MI/AAAAAAABAOY/GTym7iIU9VU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4195,
+        "aniId": 4195,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kodomo-no-jikan-ni-gakki": {
+        "createdAt": "2020-10-12T16:01:01.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18906,
+        "identifier": "kodomo-no-jikan-ni-gakki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kodomo no Jikan: Ni Gakki",
+        "url": "https://gogoanime.vc/category/kodomo-no-jikan-ni-gakki",
+        "image": "https://cdnimg.xyz/images/anime/K/Kodomo-No-Jikan-2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4195,
+        "aniId": 4195,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "4195": {
+        "identifier": "4195",
+        "malId": 4195,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kodomo no Jikan Ni Gakki",
+        "url": "https://animixplay.to/anime/4195"
+      }
+    },
+    "YugenAnime": {
+      "6941": {
+        "identifier": "6941",
+        "malId": 4195,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kodomo no Jikan: Ni Gakki",
+        "url": "https://yugen.to/anime/6941/kodomo-no-jikan-ni-gakki/"
+      }
+    }
+  }
+}

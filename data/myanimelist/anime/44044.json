@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-12-22T18:56:15.000Z",
+  "updatedAt": "2022-05-14T18:03:17.000Z",
+  "checkedAt": "2022-05-14T18:03:17.000Z",
+  "id": 44044,
+  "type": "anime",
+  "title": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!",
+  "altTitle": [
+    "Jimihen!!: Pure Heterosexual Exchange That Changes a Reserved Girl",
+    "じみへんっ!!～地味子を変えちゃう純異性交遊～"
+  ],
+  "url": "https://myanimelist.net/anime/44044/Jimihen__Jimiko_wo_Kaechau_Jun_Isei_Kouyuu",
+  "image": "https://cdn.myanimelist.net/images/anime/1139/110273.jpg",
+  "category": "ONA",
+  "hentai": true,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://jimihen.cf-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15855"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15855,
+  "Pages": {
+    "9anime": {
+      "3j6y": {
+        "createdAt": "2021-01-21T03:36:44.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 34002,
+        "identifier": "3j6y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!",
+        "url": "https://9anime.to/watch/jimihen-jimiko-wo-kaechau-jun-isei-kouyuu.3j6y",
+        "image": "//static.bunnycdn.ru/i/cache/images/e/e0/e00ff227f2e1ef61d44e605b0a4dfbcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 44044,
+        "aniId": 126242,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "44044": {
+        "identifier": "44044",
+        "malId": 44044,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!",
+        "url": "https://animixplay.to/anime/44044"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2022-05-14T23:53:59.000Z",
+  "checkedAt": "2022-05-14T23:53:59.000Z",
+  "id": 970,
+  "type": "anime",
+  "title": "Yokoyama Mitsuteru Sangokushi",
+  "altTitle": [
+    "Romance of the Three Kingdoms",
+    "横山光輝 三国志"
+  ],
+  "url": "https://myanimelist.net/anime/970/Yokoyama_Mitsuteru_Sangokushi",
+  "image": "https://cdn.myanimelist.net/images/anime/9/76348.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=943"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2663"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yokoyama_Mitsuteru_Sangokushi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 943,
+  "Pages": {
+    "9anime": {
+      "xzo8": {
+        "createdAt": "2020-10-12T15:56:39.000Z",
+        "updatedAt": "2022-06-14T03:01:31.000Z",
+        "checkedAt": "2022-06-14T03:01:31.000Z",
+        "id": 10470,
+        "identifier": "xzo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yokoyama Mitsuteru Sangokushi",
+        "url": "https://9anime.to/watch/yokoyama-mitsuteru-sangokushi.xzo8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a839213fcc15bfd65c3400330e02b794.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 970,
+        "aniId": 970,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "970": {
+        "identifier": "970",
+        "malId": 970,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yokoyama Mitsuteru Sangokushi",
+        "url": "https://animixplay.to/anime/970"
+      }
+    },
+    "YugenAnime": {
+      "7331": {
+        "identifier": "7331",
+        "malId": 970,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yokoyama Mitsuteru Sangokushi",
+        "url": "https://yugen.to/anime/7331/yokoyama-mitsuteru-sangokushi/"
+      }
+    }
+  }
+}

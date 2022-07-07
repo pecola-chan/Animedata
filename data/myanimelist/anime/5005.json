@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T20:36:53.000Z",
+  "checkedAt": "2022-05-14T20:36:53.000Z",
+  "id": 5005,
+  "type": "anime",
+  "title": "Tentai Senshi Sunred",
+  "altTitle": [
+    "Astro Fighter Sunred",
+    "天体戦士サンレッド"
+  ],
+  "url": "https://myanimelist.net/anime/5005/Tentai_Senshi_Sunred",
+  "image": "https://cdn.myanimelist.net/images/anime/11/11740.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunred.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6049"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10193"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tentai_Senshi_Sunred"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6049,
+  "Pages": {
+    "9anime": {
+      "8xqy": {
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4078,
+        "identifier": "8xqy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tentai Senshi Sunred",
+        "url": "https://9anime.to/watch/tentai-senshi-sunred.8xqy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XJJP5QzMFeI/V69z9hyCd5I/AAAAAAAA27E/KsLBtLgqEzc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5005,
+        "aniId": 5005,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5005": {
+        "identifier": "5005",
+        "malId": 5005,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tentai Senshi Sunred",
+        "url": "https://animixplay.to/anime/5005"
+      }
+    },
+    "YugenAnime": {
+      "2821": {
+        "identifier": "2821",
+        "malId": 5005,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tentai Senshi Sunred",
+        "url": "https://yugen.to/anime/2821/tentai-senshi-sunred/"
+      }
+    }
+  }
+}

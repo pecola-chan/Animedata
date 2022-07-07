@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-26T10:56:37.000Z",
+  "checkedAt": "2022-05-26T10:56:37.000Z",
+  "id": 34625,
+  "type": "anime",
+  "title": "Master of Torque: Epilogue",
+  "altTitle": [
+    "Master of Torque: Epilogue",
+    "「マスターオブトルク」エピローグ"
+  ],
+  "url": "https://myanimelist.net/anime/34625/Master_of_Torque__Epilogue",
+  "image": "https://cdn.myanimelist.net/images/anime/13/83538.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://global.yamaha-motor.com/showroom/mt/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A2%E3%82%B0%E3%83%9F"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "5pr0": {
+        "createdAt": "2020-10-12T15:50:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2746,
+        "identifier": "5pr0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Master of Torque: Epilogue",
+        "url": "https://9anime.to/watch/master-of-torque-epilogue.5pr0",
+        "image": "https://static.akacdn.ru/files/images/2018/05/74711746273f2affeb2224892fd77a12.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34625,
+        "aniId": 102102,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "master-of-torque-epilogue": {
+        "createdAt": "2021-07-13T04:15:34.000Z",
+        "updatedAt": "2021-07-13T04:45:01.000Z",
+        "checkedAt": null,
+        "id": 37845,
+        "identifier": "master-of-torque-epilogue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Master of Torque: Epilogue",
+        "url": "https://gogoanime.pe/category/master-of-torque-epilogue",
+        "image": "https://gogocdn.net/cover/master-of-torque-epilogue.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34625,
+        "aniId": 102102,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34625": {
+        "identifier": "34625",
+        "malId": 34625,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Master of Torque: Epilogue",
+        "url": "https://animixplay.to/anime/34625"
+      }
+    },
+    "YugenAnime": {
+      "7900": {
+        "identifier": "7900",
+        "malId": 34625,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Master of Torque: Epilogue",
+        "url": "https://yugen.to/anime/7900/master-of-torque-epilogue/"
+      }
+    }
+  }
+}

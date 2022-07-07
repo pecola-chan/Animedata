@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T20:29:47.000Z",
+  "checkedAt": "2022-05-14T20:29:47.000Z",
+  "id": 1039,
+  "type": "anime",
+  "title": "Mizuiro (2003)",
+  "altTitle": [
+    "Mizuiro OVA 2",
+    "みずいろ (2003)"
+  ],
+  "url": "https://myanimelist.net/anime/1039/Mizuiro_2003",
+  "image": "https://cdn.myanimelist.net/images/anime/13/49473.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.animate.tv/pv/detail.php?id=p000000039"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=752"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2162"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 752,
+  "Pages": {
+    "9anime": {
+      "p1kx": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7791,
+        "identifier": "p1kx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mizuiro (2003)",
+        "url": "https://9anime.to/watch/mizuiro-2003.p1kx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Pw1aNbMlwr8/WHW_Sp_UlZI/AAAAAAABYnk/vgrrDuQxanw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1039,
+        "aniId": 1039,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1039": {
+        "identifier": "1039",
+        "malId": 1039,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mizuiro (2003)",
+        "url": "https://animixplay.to/anime/1039"
+      }
+    },
+    "YugenAnime": {
+      "7061": {
+        "identifier": "7061",
+        "malId": 1039,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mizuiro (2003)",
+        "url": "https://yugen.to/anime/7061/astro-boy-2003/"
+      }
+    }
+  }
+}

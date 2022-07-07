@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T16:02:19.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21567,
+  "identifier": "youre-under-arrest-full-throttle",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "You're Under Arrest: Full Throttle",
+  "url": "https://gogoanime.vc/category/youre-under-arrest-full-throttle",
+  "image": "https://gogocdn.net/images/Youre Under Arrest.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3000,
+  "aniId": 3000,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:34.000Z",
+    "updatedAt": "2022-05-14T18:52:47.000Z",
+    "checkedAt": "2022-05-14T18:52:47.000Z",
+    "id": 3000,
+    "type": "anime",
+    "title": "Taiho Shichau zo: Full Throttle",
+    "altTitle": [
+      "Taiho Shichauzo: Full Throttle",
+      "Taiho Shichau zo (2007)",
+      "You're Under Arrest: Full Throttle",
+      "逮捕しちゃうぞ フルスロットル"
+    ],
+    "url": "https://myanimelist.net/anime/3000/Taiho_Shichau_zo__Full_Throttle",
+    "image": "https://cdn.myanimelist.net/images/anime/4/21616.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/taiho/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5234"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8152"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "hidive",
+        "url": "https://www.hidive.com/tv/youre-under-arrest-full-throttle"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 5234
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:33.000Z",
+    "updatedAt": "2022-05-15T14:55:59.000Z",
+    "checkedAt": "2022-05-15T14:55:59.000Z",
+    "id": 3000,
+    "type": "anime",
+    "title": "Taiho Shichauzo: Full Throttle",
+    "altTitle": [
+      "You're Under Arrest: Full Throttle",
+      "逮捕しちゃうぞ フルスロットル",
+      "Taiho Shichau zo: Full Throttle",
+      "Taiho Shichauzo (2007)"
+    ],
+    "url": "https://anilist.co/anime/3000",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3000.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/youre-under-arrest-full-throttle/"
+      }
+    ],
+    "malId": 3000,
+    "deletedAt": null
+  }
+}

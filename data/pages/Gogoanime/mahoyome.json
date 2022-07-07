@@ -1,0 +1,85 @@
+{
+  "createdAt": "2021-04-30T06:50:57.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36752,
+  "identifier": "mahoyome",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "MahoYome",
+  "url": "https://gogoanime.vc/category/mahoyome",
+  "image": "https://gogocdn.net/cover/mahoyome.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 36502,
+  "aniId": 100256,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:57.000Z",
+    "updatedAt": "2022-05-14T20:38:05.000Z",
+    "checkedAt": "2022-05-14T20:38:05.000Z",
+    "id": 36502,
+    "type": "anime",
+    "title": "MahoYome",
+    "altTitle": [
+      "The Ancient Magus' Bride",
+      "The Magician's Bride",
+      "Magic Bride",
+      "Maho Yome",
+      "まほよめ"
+    ],
+    "url": "https://myanimelist.net/anime/36502/MahoYome",
+    "image": "https://cdn.myanimelist.net/images/anime/1625/117605.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12942"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19762"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Ancient_Magus'_Bride"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-271271"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 12942
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:28.000Z",
+    "updatedAt": "2022-05-15T12:07:47.000Z",
+    "checkedAt": "2022-05-15T12:07:47.000Z",
+    "id": 100256,
+    "type": "anime",
+    "title": "Mahoyome",
+    "altTitle": [
+      "まほよめ",
+      "The Ancient Magus' Bride",
+      "The Magician's Bride",
+      "Magic Bride",
+      "Maho Yome",
+      "#0あいさつ",
+      "#0 Aisatsu",
+      "#0 Greeting"
+    ],
+    "url": "https://anilist.co/anime/100256",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100256-IyEGpsFPqzQj.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 36502,
+    "deletedAt": null
+  }
+}

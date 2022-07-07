@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-14T23:25:17.000Z",
+  "checkedAt": "2022-05-14T23:25:17.000Z",
+  "id": 2611,
+  "type": "anime",
+  "title": "Panda Kopanda",
+  "altTitle": [
+    "Panda! Go Panda!",
+    "パンダ・コパンダ"
+  ],
+  "url": "https://myanimelist.net/anime/2611/Panda_Kopanda",
+  "image": "https://cdn.myanimelist.net/images/anime/1209/90479.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ghibli-museum.jp/panda/top.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=530"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=352"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panda!_Go,_Panda!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 530,
+  "Pages": {
+    "9anime": {
+      "k7q4": {
+        "createdAt": "2020-10-12T15:52:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5354,
+        "identifier": "k7q4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Panda! Go Panda! (Dub)",
+        "url": "https://9anime.to/watch/panda-go-panda-dub.k7q4",
+        "image": "http://static.akacdn.ru/static/images/2018/04/af8a9dafdcbc8d242b09e45d928125f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2611,
+        "aniId": 2611,
+        "deletedAt": null
+      },
+      "j7o3": {
+        "createdAt": "2021-02-22T07:07:37.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35142,
+        "identifier": "j7o3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Panda Kopanda",
+        "url": "https://9anime.to/watch/panda-go-panda.j7o3",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/e22115d844babb2fc2d6d76687437282.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2611,
+        "aniId": 2611,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "panda-go-panda": {
+        "createdAt": "2022-03-09T18:30:07.000Z",
+        "updatedAt": "2022-03-09T18:59:44.000Z",
+        "checkedAt": null,
+        "id": 40426,
+        "identifier": "panda-go-panda",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Panda! Go Panda!",
+        "url": "https://gogoanime.fi/category/panda-go-panda",
+        "image": "https://gogocdn.net/images/anime/P/Panda-Go-Panda.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2611,
+        "aniId": 2611,
+        "deletedAt": null
+      },
+      "panda-kopanda-dub": {
+        "createdAt": "2022-03-09T18:30:26.000Z",
+        "updatedAt": "2022-03-09T18:59:44.000Z",
+        "checkedAt": null,
+        "id": 40427,
+        "identifier": "panda-kopanda-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Panda Kopanda (Dub)",
+        "url": "https://gogoanime.fi/category/panda-kopanda-dub",
+        "image": "https://gogocdn.net/cover/panda-kopanda-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2611,
+        "aniId": 2611,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2611": {
+        "identifier": "2611",
+        "malId": 2611,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Panda Kopanda",
+        "url": "https://animixplay.to/anime/2611"
+      }
+    },
+    "YugenAnime": {
+      "5755": {
+        "identifier": "5755",
+        "malId": 2611,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Panda Kopanda",
+        "url": "https://yugen.to/anime/5755/panda-kopanda/"
+      }
+    }
+  }
+}

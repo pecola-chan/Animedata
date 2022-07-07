@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:39:39.000Z",
+  "updatedAt": "2022-05-15T01:32:31.000Z",
+  "checkedAt": "2022-05-15T01:32:31.000Z",
+  "id": 31668,
+  "type": "anime",
+  "title": "Teekyuu 5 Specials",
+  "altTitle": [
+    "Tekyuu 5 Specials",
+    "Teekyu 5 Specials",
+    "てーきゅう　５期　ＴＶ未放送オリジナルエピソードアニメ"
+  ],
+  "url": "https://myanimelist.net/anime/31668/Teekyuu_5_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/10/76333.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.te-kyu.com/bluraydvd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10820"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teekyu"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10820,
+  "Pages": {
+    "9anime": {
+      "7vky": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3587,
+        "identifier": "7vky",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Teekyuu 5 Specials",
+        "url": "https://9anime.to/watch/teekyuu-5-specials.7vky",
+        "image": "https://static.akacdn.ru/static/images/2018/11/8ca28a75687337b4f2618b1dbfffc3c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31668,
+        "aniId": 21437,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3538": {
+        "identifier": "3538",
+        "malId": 31668,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Teekyuu 5 Specials",
+        "url": "https://animepahe.com/a/3538"
+      }
+    }
+  }
+}

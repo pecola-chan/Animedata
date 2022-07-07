@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T16:00:07.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17075,
+  "identifier": "chokotto-anime-kemono-friends-3",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Chokotto Anime Kemono Friends 3",
+  "url": "https://gogoanime.vc/category/chokotto-anime-kemono-friends-3",
+  "image": "https://cdnimg.xyz/cover/chokotto-anime-kemono-friends-3.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39653,
+  "aniId": 115238,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T18:38:53.000Z",
+    "checkedAt": "2022-05-14T18:38:53.000Z",
+    "id": 39653,
+    "type": "anime",
+    "title": "Chokotto Anime Kemono Friends 3",
+    "altTitle": [
+      "ちょこっとアニメ けものフレンズ３"
+    ],
+    "url": "https://myanimelist.net/anime/39653/Chokotto_Anime_Kemono_Friends_3",
+    "image": "https://cdn.myanimelist.net/images/anime/1020/100375.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kemono-friends.sega.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14857"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kemono_Friends"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14857
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:57.000Z",
+    "updatedAt": "2022-05-15T11:49:47.000Z",
+    "checkedAt": "2022-05-15T11:49:47.000Z",
+    "id": 115238,
+    "type": "anime",
+    "title": "Chokotto Anime Kemono Friends 3",
+    "altTitle": [
+      "ちょこっとアニメ けものフレンズ３"
+    ],
+    "url": "https://anilist.co/anime/115238",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115238-1nK7TTco0HC4.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39653,
+    "deletedAt": null
+  }
+}

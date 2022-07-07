@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T17:45:23.000Z",
+  "checkedAt": "2022-05-14T17:45:23.000Z",
+  "id": 39355,
+  "type": "anime",
+  "title": "Radiant 2nd Season",
+  "altTitle": [
+    "RADIANT Season 2",
+    "ラディアン 第2シリーズ"
+  ],
+  "url": "https://myanimelist.net/anime/39355/Radiant_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1974/108398.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/anime/radiant/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14701"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21877"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radiant_(TV_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277072"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14701,
+  "Pages": {
+    "9anime": {
+      "1mkx": {
+        "createdAt": "2020-10-12T15:49:14.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1016,
+        "identifier": "1mkx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Radiant 2nd Season",
+        "url": "https://9anime.to/watch/radiant-2nd-season.1mkx",
+        "image": "https://static.akacdn.ru/static/images/2019/02/e089bde1ff8d1590e26ea7a6a6b29b91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39355,
+        "aniId": 108040,
+        "deletedAt": null
+      },
+      "8rmq": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4008,
+        "identifier": "8rmq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RADIANT Season 2 (Dub)",
+        "url": "https://9anime.to/watch/radiant-season-2-dub.8rmq",
+        "image": "https://static.akacdn.ru/files/images/2019/10/5eeae8b8bf9c6fe34130eafa1fe32c25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39355,
+        "aniId": 108040,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "radiant-2nd-season": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2022-02-03T13:20:08.000Z",
+        "checkedAt": null,
+        "id": 20218,
+        "identifier": "radiant-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Radiant 2nd Season",
+        "url": "https://gogoanime.pe/category/radiant-2nd-season",
+        "image": "https://gogocdn.net/cover/radiant-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39355,
+        "aniId": 108040,
+        "deletedAt": null
+      },
+      "radiant-2nd-season-dub": {
+        "createdAt": "2020-10-12T16:01:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20219,
+        "identifier": "radiant-2nd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Radiant 2nd Season (Dub)",
+        "url": "https://gogoanime.vc/category/radiant-2nd-season-dub",
+        "image": "https://cdnimg.xyz/cover/radiant-2nd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39355,
+        "aniId": 108040,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3448": {
+        "identifier": "3448",
+        "malId": 39355,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Radiant 2nd Season",
+        "url": "https://animepahe.com/a/3448"
+      }
+    },
+    "AniMixPlay": {
+      "39355": {
+        "identifier": "39355",
+        "malId": 39355,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Radiant 2nd Season",
+        "url": "https://animixplay.to/anime/39355"
+      }
+    },
+    "YugenAnime": {
+      "5794": {
+        "identifier": "5794",
+        "malId": 39355,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Radiant 2nd Season",
+        "url": "https://yugen.to/anime/5794/radiant-2nd-season/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-04-14T16:45:20.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36429,
+  "identifier": "fantastic-children-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fantastic Children (Dub)",
+  "url": "https://gogoanime.vc/category/fantastic-children-dub",
+  "image": "https://gogocdn.net/cover/fantastic-children-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 455,
+  "aniId": 455,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:04.000Z",
+    "updatedAt": "2022-05-14T19:25:47.000Z",
+    "checkedAt": "2022-05-14T19:25:47.000Z",
+    "id": 455,
+    "type": "anime",
+    "title": "Fantastic Children",
+    "altTitle": [
+      "Fantastic Children",
+      "ファンタジックチルドレン"
+    ],
+    "url": "https://myanimelist.net/anime/455/Fantastic_Children",
+    "image": "https://cdn.myanimelist.net/images/anime/9/77062.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/f-children/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2387"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4241"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fantastic_Children"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2387
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:44.000Z",
+    "updatedAt": "2022-05-15T15:43:11.000Z",
+    "checkedAt": "2022-05-15T15:43:11.000Z",
+    "id": 455,
+    "type": "anime",
+    "title": "Fantastic Children",
+    "altTitle": [
+      "Fantastic Children",
+      "ファンタジックチルドレン"
+    ],
+    "url": "https://anilist.co/anime/455",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/455.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 455,
+    "deletedAt": null
+  }
+}

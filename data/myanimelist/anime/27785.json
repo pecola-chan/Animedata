@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-06-08T17:30:16.000Z",
+  "checkedAt": "2022-06-08T17:30:16.000Z",
+  "id": 27785,
+  "type": "anime",
+  "title": "Doamaiger D",
+  "altTitle": [
+    "Doamayger-D",
+    "ドアマイガーD"
+  ],
+  "url": "https://myanimelist.net/anime/27785/Doamaiger_D",
+  "image": "https://cdn.myanimelist.net/images/anime/4/70995.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tvk-yokohama.com/doamai/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10857"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16308"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A2%E3%83%9E%E3%82%A4%E3%82%AC%E3%83%BCD"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273529"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/doamygar-d"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10857,
+  "Pages": {
+    "AniMixPlay": {
+      "27785": {
+        "identifier": "27785",
+        "malId": 27785,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Doamaiger D",
+        "url": "https://animixplay.to/anime/27785"
+      }
+    },
+    "YugenAnime": {
+      "1131": {
+        "identifier": "1131",
+        "malId": 27785,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Doamaiger D",
+        "url": "https://yugen.to/anime/1131/doamaiger-d/"
+      }
+    }
+  }
+}

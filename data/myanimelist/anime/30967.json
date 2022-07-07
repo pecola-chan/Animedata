@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-16T15:11:04.000Z",
+  "checkedAt": "2022-05-16T15:11:04.000Z",
+  "id": 30967,
+  "type": "anime",
+  "title": "Chuumon no Ooi Ryouriten (1993)",
+  "altTitle": [
+    "The Restaurant of Many Orders",
+    "A Well-Ordered Restaurant",
+    "注文の多い料理店"
+  ],
+  "url": "https://myanimelist.net/anime/30967/Chuumon_no_Ooi_Ryouriten_1993",
+  "image": "https://cdn.myanimelist.net/images/anime/6/74516.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://chunou-kouiki.com/library17sakuhin.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11948"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11948,
+  "Pages": {
+    "9anime": {
+      "o7k4": {
+        "createdAt": "2020-10-12T15:54:09.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7436,
+        "identifier": "o7k4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chuumon no Ooi Ryouriten (1993)",
+        "url": "https://9anime.to/watch/chuumon-no-ooi-ryouriten-1993.o7k4",
+        "image": "https://static.akacdn.ru/files/images/2018/04/3eedc8868be851eacf0d306ed2adb62f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30967,
+        "aniId": 102315,
+        "deletedAt": null
+      }
+    }
+  }
+}

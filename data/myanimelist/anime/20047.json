@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-14T09:54:27.000Z",
+  "checkedAt": "2022-05-14T09:54:27.000Z",
+  "id": 20047,
+  "type": "anime",
+  "title": "Sakura Trick",
+  "altTitle": [
+    "Sakura Trick",
+    "桜Trick"
+  ],
+  "url": "https://myanimelist.net/anime/20047/Sakura_Trick",
+  "image": "https://cdn.myanimelist.net/images/anime/2/56189.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/sakura/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9922"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15564"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%A1%9CTrick"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/sakura-trick"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9922,
+  "Pages": {
+    "9anime": {
+      "59y0": {
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2619,
+        "identifier": "59y0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakura Trick",
+        "url": "https://9anime.to/watch/sakura-trick.59y0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-YTtlgYFqV8Y/V63Uqnac8XI/AAAAAAAA2nM/h3Ilk4NtwfU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20047,
+        "aniId": 20047,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sakura-trick": {
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20409,
+        "identifier": "sakura-trick",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sakura Trick ",
+        "url": "https://gogoanime.vc/category/sakura-trick",
+        "image": "https://images.gogoanime.tv/images/Sakura-Trick.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20047,
+        "aniId": 20047,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1032": {
+        "identifier": "1032",
+        "malId": 20047,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sakura Trick",
+        "url": "https://animepahe.com/a/1032"
+      }
+    },
+    "AniMixPlay": {
+      "20047": {
+        "identifier": "20047",
+        "malId": 20047,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sakura Trick",
+        "url": "https://animixplay.to/anime/20047"
+      }
+    },
+    "YugenAnime": {
+      "861": {
+        "identifier": "861",
+        "malId": 20047,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sakura Trick",
+        "url": "https://yugen.to/anime/861/sakura-trick/"
+      }
+    }
+  }
+}

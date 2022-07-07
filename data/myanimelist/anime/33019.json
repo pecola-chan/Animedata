@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T16:27:42.000Z",
+  "checkedAt": "2022-05-14T16:27:42.000Z",
+  "id": 33019,
+  "type": "anime",
+  "title": "Reikenzan: Eichi e no Shikaku",
+  "altTitle": [
+    "Reikenzan: Hoshikuzu-tachi no Utage 2nd Season",
+    "霊剣山 叡智への資格"
+  ],
+  "url": "https://myanimelist.net/anime/33019/Reikenzan__Eichi_e_no_Shikaku",
+  "image": "https://cdn.myanimelist.net/images/anime/11/83499.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.reikenzan.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12030"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18800"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reikenzan:_Hoshikuzu-tachi_no_Utage"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12030,
+  "Pages": {
+    "9anime": {
+      "l24z": {
+        "createdAt": "2020-10-12T15:52:56.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5771,
+        "identifier": "l24z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Reikenzan: Eichi e no Shikaku",
+        "url": "https://9anime.to/watch/reikenzan-eichi-e-no-shikaku.l24z",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-xJQoYRtubuQ/WIoWRD2R5uI/AAAAAAABbXk/LpSkR38dHW8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33019,
+        "aniId": 21744,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "reikenzan-eichi-e-no-shikaku": {
+        "createdAt": "2020-10-12T16:01:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20259,
+        "identifier": "reikenzan-eichi-e-no-shikaku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Reikenzan: Eichi e no Shikaku",
+        "url": "https://gogoanime.vc/category/reikenzan-eichi-e-no-shikaku",
+        "image": "https://images.gogoanime.tv/cover/reikenzan-eichi-e-no-shikaku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33019,
+        "aniId": 21744,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1613": {
+        "identifier": "1613",
+        "malId": 33019,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Reikenzan: Eichi e no Shikaku",
+        "url": "https://animepahe.com/a/1613"
+      }
+    },
+    "AniMixPlay": {
+      "33019": {
+        "identifier": "33019",
+        "malId": 33019,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Reikenzan: Eichi e no Shikaku",
+        "url": "https://animixplay.to/anime/33019"
+      }
+    },
+    "YugenAnime": {
+      "2892": {
+        "identifier": "2892",
+        "malId": 33019,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Reikenzan: Eichi e no Shikaku",
+        "url": "https://yugen.to/anime/2892/reikenzan-eichi-e-no-shikaku/"
+      }
+    }
+  }
+}

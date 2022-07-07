@@ -1,0 +1,127 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T21:28:47.000Z",
+  "checkedAt": "2022-05-14T21:28:47.000Z",
+  "id": 415,
+  "type": "anime",
+  "title": "Tonari no Yamada-kun",
+  "altTitle": [
+    "Houhokekyo Tonari no Yamada-kun",
+    "Hoohokekyo Tonari no Yamada-kun",
+    "My Neighbors the Yamadas",
+    "ホーホケキョ となりの山田くん"
+  ],
+  "url": "https://myanimelist.net/anime/415/Tonari_no_Yamada-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/6/64545.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghibli.jp/works/yamada/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=370"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=177"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Neighbors_the_Yamadas"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 370,
+  "Pages": {
+    "9anime": {
+      "9oqm": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4392,
+        "identifier": "9oqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tonari no Yamada-kun",
+        "url": "https://9anime.to/watch/tonari-no-yamada-kun.9oqm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hwjZMPvLgk0/V5IpFLWcpUI/AAAAAAAAxSQ/bCt7Ttr_OQQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 415,
+        "aniId": 415,
+        "deletedAt": null
+      },
+      "q745": {
+        "createdAt": "2020-10-12T15:55:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8331,
+        "identifier": "q745",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tonari no Yamada-kun (Dub)",
+        "url": "https://9anime.to/watch/tonari-no-yamada-kun-dub.q745",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Qfmav2fd1fQ/V9YlWyWOUYI/AAAAAAAA9ck/3zLIQzKxFOs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 415,
+        "aniId": 415,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "my-neighbors-the-yamadas": {
+        "createdAt": "2021-11-22T03:43:10.000Z",
+        "updatedAt": "2021-11-22T04:12:37.000Z",
+        "checkedAt": null,
+        "id": 39272,
+        "identifier": "my-neighbors-the-yamadas",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "My Neighbors the Yamadas",
+        "url": "https://gogoanime.cm/category/my-neighbors-the-yamadas",
+        "image": "https://gogocdn.net/images/anime/M/My-Neighbors-the-Yamadas.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 415,
+        "aniId": 415,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "415": {
+        "identifier": "415",
+        "malId": 415,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tonari no Yamada-kun",
+        "url": "https://animixplay.to/anime/415"
+      }
+    },
+    "YugenAnime": {
+      "1913": {
+        "identifier": "1913",
+        "malId": 415,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tonari no Yamada-kun",
+        "url": "https://yugen.to/anime/1913/tonari-no-yamada-kun/"
+      }
+    }
+  }
+}

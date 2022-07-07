@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T14:43:53.000Z",
+  "checkedAt": "2022-05-14T14:43:53.000Z",
+  "id": 41379,
+  "type": "anime",
+  "title": "Kimi wa Kanata",
+  "altTitle": [
+    "You are Beyond",
+    "KimiKana",
+    "Over the Sky",
+    "君は彼方"
+  ],
+  "url": "https://myanimelist.net/anime/41379/Kimi_wa_Kanata",
+  "image": "https://cdn.myanimelist.net/images/anime/1724/109743.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kimikana.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15414"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23570"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kimi_wa_Kanata"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281972"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15414,
+  "Pages": {
+    "9anime": {
+      "ozmj": {
+        "createdAt": "2020-10-12T15:54:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7756,
+        "identifier": "ozmj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimi wa Kanata",
+        "url": "https://9anime.to/watch/kimi-wa-kanata.ozmj",
+        "image": "//static.9anime.to/i/cache/images/1/1c/1c40e117b108729acd43a0c693bac888.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41379,
+        "aniId": 116226,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kimi-wa-kanata": {
+        "createdAt": "2021-10-22T17:28:39.000Z",
+        "updatedAt": "2021-10-22T17:58:24.000Z",
+        "checkedAt": null,
+        "id": 39086,
+        "identifier": "kimi-wa-kanata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimi wa Kanata",
+        "url": "https://gogoanime.pe/category/kimi-wa-kanata",
+        "image": "https://gogocdn.net/cover/kimi-wa-kanata.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41379,
+        "aniId": 116226,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4607": {
+        "identifier": "4607",
+        "malId": 41379,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kimi wa Kanata",
+        "url": "https://animepahe.com/a/4607"
+      }
+    },
+    "AniMixPlay": {
+      "41379": {
+        "identifier": "41379",
+        "malId": 41379,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimi wa Kanata",
+        "url": "https://animixplay.to/anime/41379"
+      }
+    },
+    "YugenAnime": {
+      "11275": {
+        "identifier": "11275",
+        "malId": 41379,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kimi wa Kanata",
+        "url": "https://yugen.to/anime/11275/kimi-wa-kanata/"
+      }
+    }
+  }
+}

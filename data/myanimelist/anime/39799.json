@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T18:16:41.000Z",
+  "checkedAt": "2022-05-14T18:16:41.000Z",
+  "id": 39799,
+  "type": "anime",
+  "title": "Val x Love",
+  "altTitle": [
+    "Vallove",
+    "Ikusa x Koi",
+    "戦×恋（ヴァルラヴ）"
+  ],
+  "url": "https://myanimelist.net/anime/39799/Val_x_Love",
+  "image": "https://cdn.myanimelist.net/images/anime/1577/111404.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://val-love.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14908"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22214"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Val_%C3%97_Love#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/val-x-love"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14908,
+  "Pages": {
+    "9anime": {
+      "7q2j": {
+        "createdAt": "2020-10-12T15:51:12.000Z",
+        "updatedAt": "2022-03-19T09:50:37.000Z",
+        "checkedAt": null,
+        "id": 3538,
+        "identifier": "7q2j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Val x Love",
+        "url": "https://9anime.to/watch/val-x-love.7q2j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/10/159fafd50f78378fdebf24cd0fc535d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39799,
+        "aniId": 109321,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "val-x-love": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21346,
+        "identifier": "val-x-love",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Val x Love",
+        "url": "https://gogoanime.vc/category/val-x-love",
+        "image": "https://cdnimg.xyz/cover/val-x-love.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39799,
+        "aniId": 109321,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3458": {
+        "identifier": "3458",
+        "malId": 39799,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Val x Love",
+        "url": "https://animepahe.com/a/3458"
+      }
+    },
+    "AniMixPlay": {
+      "39799": {
+        "identifier": "39799",
+        "malId": 39799,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Val x Love",
+        "url": "https://animixplay.to/anime/39799"
+      }
+    },
+    "YugenAnime": {
+      "299": {
+        "identifier": "299",
+        "malId": 39799,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Val x Love",
+        "url": "https://yugen.to/anime/299/val-x-love/"
+      }
+    }
+  }
+}

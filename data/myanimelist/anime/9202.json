@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:39:01.000Z",
+  "updatedAt": "2022-05-14T19:33:53.000Z",
+  "checkedAt": "2022-05-14T19:33:53.000Z",
+  "id": 9202,
+  "type": "anime",
+  "title": "Seikon no Qwaser: Jotei no Shouzou",
+  "altTitle": [
+    "Seikon no Qwaser OVA",
+    "The Qwaser Of Stigmata",
+    "Seikon no Quasar",
+    "The Qwaser of Stigmata: Portrait of the Empress",
+    "聖痕のクェイサー 女帝の肖像"
+  ],
+  "url": "https://myanimelist.net/anime/9202/Seikon_no_Qwaser__Jotei_no_Shouzou",
+  "image": "https://cdn.myanimelist.net/images/anime/9/27178.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.qwaser.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7971"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11897"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Qwaser_of_Stigmata"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/the-qwaser-of-stigmata-portrait-of-the-empress"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7971,
+  "Pages": {
+    "9anime": {
+      "5yxj": {
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2864,
+        "identifier": "5yxj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikon no Qwaser: Jotei no Shouzou",
+        "url": "https://9anime.to/watch/seikon-no-qwaser-jotei-no-shouzou.5yxj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gq2rCgG-_kI/WCCwF5g-tnI/AAAAAAABN1U/ksJeu4G6Pr4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9202,
+        "aniId": 9202,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2123": {
+        "identifier": "2123",
+        "malId": 9202,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seikon no Qwaser: Jotei no Shouzou",
+        "url": "https://animepahe.com/a/2123"
+      }
+    },
+    "AniMixPlay": {
+      "9202": {
+        "identifier": "9202",
+        "malId": 9202,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikon no Qwaser: Jotei no Shouzou",
+        "url": "https://animixplay.to/anime/9202"
+      }
+    }
+  }
+}

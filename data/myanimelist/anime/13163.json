@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2022-05-14T22:08:17.000Z",
+  "checkedAt": "2022-05-14T22:08:17.000Z",
+  "id": 13163,
+  "type": "anime",
+  "title": "Furusato Saisei: Nippon no Mukashibanashi",
+  "altTitle": [
+    "Hometown Rebuilding: Folktales from Japan",
+    "Folktales from Japan",
+    "ふるさと再生 日本の昔ばなし"
+  ],
+  "url": "https://myanimelist.net/anime/13163/Furusato_Saisei__Nippon_no_Mukashibanashi",
+  "image": "https://cdn.myanimelist.net/images/anime/11/82364.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9016"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14116"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-243998"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9016,
+  "Pages": {
+    "9anime": {
+      "92lx": {
+        "createdAt": "2020-10-12T15:51:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4169,
+        "identifier": "92lx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Furusato Saisei: Nihon no Mukashibanashi",
+        "url": "https://9anime.to/watch/furusato-saisei-nihon-no-mukashibanashi.92lx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iIARvvNra4A/V52wJSQAqYI/AAAAAAAAzOI/cB3T8EsUxE4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13163,
+        "aniId": 13163,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "folktales-from-japan": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17683,
+        "identifier": "folktales-from-japan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Folktales from Japan",
+        "url": "https://gogoanime.vc/category/folktales-from-japan",
+        "image": "https://gogocdn.net/images/anime/folktales-from-japan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 13163,
+        "aniId": 13163,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1787": {
+        "identifier": "1787",
+        "malId": 13163,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Furusato Saisei: Nippon no Mukashibanashi",
+        "url": "https://animepahe.com/a/1787"
+      }
+    },
+    "AniMixPlay": {
+      "13163": {
+        "identifier": "13163",
+        "malId": 13163,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Furusato Saisei: Nippon no Mukashibanashi",
+        "url": "https://animixplay.to/anime/13163"
+      }
+    }
+  }
+}

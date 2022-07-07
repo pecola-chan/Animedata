@@ -1,0 +1,110 @@
+{
+  "createdAt": "2022-03-06T19:00:29.000Z",
+  "updatedAt": "2022-05-14T19:08:11.000Z",
+  "checkedAt": "2022-05-14T19:08:11.000Z",
+  "id": 41595,
+  "type": "anime",
+  "title": "Tiger & Bunny 2",
+  "altTitle": [
+    "Tiger and Bunny 2",
+    "Taibani 2",
+    "TIGER & BUNNY 2"
+  ],
+  "url": "https://myanimelist.net/anime/41595/Tiger___Bunny_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1678/121388.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tigerandbunny.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13713"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24222"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tiger_&_Bunny#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13713,
+  "Pages": {
+    "9anime": {
+      "52210": {
+        "createdAt": "2022-04-11T08:38:55.000Z",
+        "updatedAt": "2022-04-11T09:07:23.000Z",
+        "checkedAt": null,
+        "id": 40704,
+        "identifier": "52210",
+        "type": "anime",
+        "page": "9anime",
+        "title": "TIGER & BUNNY 2",
+        "url": "https://9anime.to/watch/tiger-bunny-2.52210",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/05/05e6762d50090a6023baaa5f90a767c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41595,
+        "aniId": 117197,
+        "deletedAt": null
+      },
+      "4qj0x": {
+        "createdAt": "2022-04-11T08:39:35.000Z",
+        "updatedAt": "2022-04-11T09:07:23.000Z",
+        "checkedAt": null,
+        "id": 40710,
+        "identifier": "4qj0x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "TIGER & BUNNY 2 (Dub)",
+        "url": "https://9anime.to/watch/tiger-bunny-2-dub.4qj0x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5c/5c14bb8d05b4eba9c8178a36808193bb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41595,
+        "aniId": 117197,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4767": {
+        "identifier": "4767",
+        "malId": 41595,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tiger & Bunny 2",
+        "url": "https://animepahe.com/a/4767"
+      }
+    },
+    "AniMixPlay": {
+      "41595": {
+        "identifier": "41595",
+        "malId": 41595,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tiger &amp; Bunny 2",
+        "url": "https://animixplay.to/anime/41595"
+      }
+    },
+    "YugenAnime": {
+      "11891": {
+        "identifier": "11891",
+        "malId": 41595,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tiger & Bunny 2",
+        "url": "https://yugen.to/anime/11891/tiger-bunny-2/"
+      }
+    }
+  }
+}

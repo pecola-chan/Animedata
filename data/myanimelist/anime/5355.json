@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:38:47.000Z",
+  "updatedAt": "2022-05-14T17:21:16.000Z",
+  "checkedAt": "2022-05-14T17:21:16.000Z",
+  "id": 5355,
+  "type": "anime",
+  "title": "Sengoku Basara",
+  "altTitle": [
+    "Sengoku Basara: Samurai Kings",
+    "戦国BASARA"
+  ],
+  "url": "https://myanimelist.net/anime/5355/Sengoku_Basara",
+  "image": "https://cdn.myanimelist.net/images/anime/4/21849.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sengokubasara.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6284"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10271"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sengoku_Basara_(anime)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274969"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/sengoku-basara-samurai-kings"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6284,
+  "Pages": {
+    "9anime": {
+      "6l97": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2022-06-14T01:03:16.000Z",
+        "checkedAt": "2022-06-14T01:03:16.000Z",
+        "id": 3056,
+        "identifier": "6l97",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Basara",
+        "url": "https://9anime.to/watch/sengoku-basara-samurai-kings.6l97",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/5fd39c6a0c12f4f0d2de2f4757e35692.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5355,
+        "aniId": 5355,
+        "deletedAt": null
+      },
+      "91z8": {
+        "createdAt": "2020-10-12T15:51:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4161,
+        "identifier": "91z8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Basara (Dub)",
+        "url": "https://9anime.to/watch/sengoku-basara-dub.91z8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2SD_JKxsSlU/V87rUrzxUnI/AAAAAAAA764/ePnHmezyKgI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5355,
+        "aniId": 5355,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sengoku-basara-": {
+        "createdAt": "2020-10-12T16:01:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20503,
+        "identifier": "sengoku-basara-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Basara ",
+        "url": "https://gogoanime.vc/category/sengoku-basara-",
+        "image": "https://cdnimg.xyz/images/anime/S/sengoku-basara.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5355,
+        "aniId": 5355,
+        "deletedAt": null
+      },
+      "sengoku-basara-two-dub": {
+        "createdAt": "2020-10-12T16:01:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20508,
+        "identifier": "sengoku-basara-two-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Basara Two (Dub)",
+        "url": "https://gogoanime.vc/category/sengoku-basara-two-dub",
+        "image": "https://cdnimg.xyz/cover/sengoku-basara-two-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5355,
+        "aniId": 5355,
+        "deletedAt": null
+      },
+      "sengoku-basara-dub": {
+        "createdAt": "2021-11-21T23:13:20.000Z",
+        "updatedAt": "2021-11-21T23:42:37.000Z",
+        "checkedAt": null,
+        "id": 39267,
+        "identifier": "sengoku-basara-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Basara (Dub)",
+        "url": "https://gogoanime.cm/category/sengoku-basara-dub",
+        "image": "https://gogocdn.net/cover/sengoku-basara-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5355,
+        "aniId": 5355,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1451": {
+        "identifier": "1451",
+        "malId": 5355,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sengoku Basara",
+        "url": "https://animepahe.com/a/1451"
+      }
+    },
+    "AniMixPlay": {
+      "5355": {
+        "identifier": "5355",
+        "malId": 5355,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sengoku Basara",
+        "url": "https://animixplay.to/anime/5355"
+      }
+    },
+    "YugenAnime": {
+      "6245": {
+        "identifier": "6245",
+        "malId": 5355,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sengoku Basara",
+        "url": "https://yugen.to/anime/6245/sengoku-basara/"
+      }
+    }
+  }
+}

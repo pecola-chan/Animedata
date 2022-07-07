@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-15T01:40:19.000Z",
+  "checkedAt": "2022-05-15T01:40:19.000Z",
+  "id": 6262,
+  "type": "anime",
+  "title": "Manga Sekai Mukashibanashi",
+  "altTitle": [
+    "Tales of Magic",
+    "Manga Fairy Tales of the World",
+    "まんが世界昔ばなし"
+  ],
+  "url": "https://myanimelist.net/anime/6262/Manga_Sekai_Mukashibanashi",
+  "image": "https://cdn.myanimelist.net/images/anime/11/22964.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1983-1973/works_tv_sekaimukashi.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3593"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2314"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%93%E3%81%8C%E4%B8%96%E7%95%8C%E6%98%94%E3%81%B0%E3%81%AA%E3%81%97"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3593,
+  "Pages": {
+    "9anime": {
+      "rp2y": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8953,
+        "identifier": "rp2y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Manga Fairy Tales of the World",
+        "url": "https://9anime.to/watch/manga-fairy-tales-of-the-world.rp2y",
+        "image": "https://static.akacdn.ru/files/images/2019/12/45c60514d9a5d453d8b95a4c3efff419.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6262,
+        "aniId": 6262,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "manga-sekai-mukashibanashi": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19336,
+        "identifier": "manga-sekai-mukashibanashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Manga Sekai Mukashibanashi",
+        "url": "https://gogoanime.vc/category/manga-sekai-mukashibanashi",
+        "image": "https://cdnimg.xyz/cover/manga-sekai-mukashibanashi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6262,
+        "aniId": 6262,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6262": {
+        "identifier": "6262",
+        "malId": 6262,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Manga Sekai Mukashibanashi",
+        "url": "https://animixplay.to/anime/6262"
+      }
+    },
+    "YugenAnime": {
+      "5896": {
+        "identifier": "5896",
+        "malId": 6262,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Manga Sekai Mukashibanashi",
+        "url": "https://yugen.to/anime/5896/manga-sekai-mukashibanashi/"
+      }
+    }
+  }
+}

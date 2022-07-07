@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T20:20:17.000Z",
+  "checkedAt": "2022-05-14T20:20:17.000Z",
+  "id": 8985,
+  "type": "anime",
+  "title": "Yojouhan Shinwa Taikei Specials",
+  "altTitle": [
+    "Yojo-Han Shinwa Taikei",
+    "Yojou-Han Shinwa Taikei",
+    "Yojohan Shinwa Taikei",
+    "The Tatami Galaxy Specials",
+    "四畳半神話大系"
+  ],
+  "url": "https://myanimelist.net/anime/8985/Yojouhan_Shinwa_Taikei_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/1065/91991.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://noitamina.tv/yojouhan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7243"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Tatami_Galaxy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7243,
+  "Pages": {
+    "9anime": {
+      "xq7z": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10352,
+        "identifier": "xq7z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Tatami Galaxy Specials",
+        "url": "https://9anime.to/watch/the-tatami-galaxy-specials.xq7z",
+        "image": "http://static.akacdn.ru/static/images/2018/04/227b824d07ea2329025caa9e74b1247c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8985,
+        "aniId": 8985,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "105": {
+        "identifier": "105",
+        "malId": 8985,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yojouhan Shinwa Taikei Specials",
+        "url": "https://animepahe.com/a/105"
+      }
+    },
+    "AniMixPlay": {
+      "8985": {
+        "identifier": "8985",
+        "malId": 8985,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yojouhan Shinwa Taikei Specials",
+        "url": "https://animixplay.to/anime/8985"
+      }
+    }
+  }
+}

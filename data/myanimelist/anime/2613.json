@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:38:31.000Z",
+  "updatedAt": "2022-05-15T00:53:41.000Z",
+  "checkedAt": "2022-05-15T00:53:41.000Z",
+  "id": 2613,
+  "type": "anime",
+  "title": "Mirai Shounen Conan 2: Taiga Daibouken",
+  "altTitle": [
+    "Future Boy Conan 2: River Adventure",
+    "未来少年コナンII　タイガアドベンチャー"
+  ],
+  "url": "https://myanimelist.net/anime/2613/Mirai_Shounen_Conan_2__Taiga_Daibouken",
+  "image": "https://cdn.myanimelist.net/images/anime/12/40015.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nippon-animation.co.jp/na/conan/index.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4675"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2622"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4675,
+  "Pages": {
+    "9anime": {
+      "9348": {
+        "createdAt": "2020-10-12T15:48:35.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 300,
+        "identifier": "9348",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mirai Shounen Conan 2: Taiga Daibouken",
+        "url": "https://9anime.to/watch/mirai-shounen-conan-2-taiga-daibouken.9348",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qmak24lQDSA/WGpt61PgxSI/AAAAAAABWI0/0rjmIWjKB0c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2613,
+        "aniId": 2613,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2613": {
+        "identifier": "2613",
+        "malId": 2613,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mirai Shounen Conan 2: Taiga Daibouken",
+        "url": "https://animixplay.to/anime/2613"
+      }
+    }
+  }
+}

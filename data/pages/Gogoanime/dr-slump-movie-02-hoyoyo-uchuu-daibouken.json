@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-02-25T16:26:25.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35240,
+  "identifier": "dr-slump-movie-02-hoyoyo-uchuu-daibouken",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Dr. Slump Movie 02: \"Hoyoyo!\" Uchuu Daibouken",
+  "url": "https://gogoanime.vc/category/dr-slump-movie-02-hoyoyo-uchuu-daibouken",
+  "image": "https://gogocdn.net/cover/dr-slump-movie-02-hoyoyo-uchuu-daibouken.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 8546,
+  "aniId": 8546,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:59.000Z",
+    "updatedAt": "2022-05-14T22:44:29.000Z",
+    "checkedAt": "2022-05-14T22:44:29.000Z",
+    "id": 8546,
+    "type": "anime",
+    "title": "Dr. Slump Movie 02: \"Hoyoyo!\" Uchuu Daibouken",
+    "altTitle": [
+      "Dr. Slump: \"Hoyoyo!\" Space Adventure",
+      "Dr.SLUMP “ほよよ!”宇宙大冒険"
+    ],
+    "url": "https://myanimelist.net/anime/8546/Dr_Slump_Movie_02__Hoyoyo_Uchuu_Daibouken",
+    "image": "https://cdn.myanimelist.net/images/anime/12/23174.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/dvd/movie-arale/story/story02.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2273"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3636"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dr._Slump"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2273
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:56.000Z",
+    "updatedAt": "2022-05-15T22:01:23.000Z",
+    "checkedAt": "2022-05-15T22:01:23.000Z",
+    "id": 8546,
+    "type": "anime",
+    "title": "Dr. Slump Movie 02: \"Hoyoyo!\" Uchuu Daibouken",
+    "altTitle": [
+      "Dr. Slump: Hoyoyo! Space Adventure",
+      "Dr.スランプ “ほよよ!”宇宙大冒険"
+    ],
+    "url": "https://anilist.co/anime/8546",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8546.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 8546,
+    "deletedAt": null
+  }
+}

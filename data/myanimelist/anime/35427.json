@@ -1,0 +1,177 @@
+{
+  "createdAt": "2020-10-12T15:39:53.000Z",
+  "updatedAt": "2022-05-14T18:24:53.000Z",
+  "checkedAt": "2022-05-14T18:24:53.000Z",
+  "id": 35427,
+  "type": "anime",
+  "title": "Animegataris",
+  "altTitle": [
+    "Anime-Gataris",
+    "アニメガタリズ"
+  ],
+  "url": "https://myanimelist.net/anime/35427/Animegataris",
+  "image": "https://cdn.myanimelist.net/images/anime/12/89686.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://animegataris.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13114"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19480"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anime-Gatari"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274451"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/anime-gataris"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13114,
+  "Pages": {
+    "9anime": {
+      "07w7": {
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 478,
+        "identifier": "07w7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animegataris",
+        "url": "https://9anime.to/watch/animegataris.07w7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nMUGyFnM7NE/WZG26q_d7yI/AAAAAAAAB38/60CrCOkwWnonnH_Ny5IPWzns-scb__D6QCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35427,
+        "aniId": 98607,
+        "deletedAt": null
+      },
+      "3o4y": {
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1872,
+        "identifier": "3o4y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animegatari",
+        "url": "https://9anime.to/watch/animegatari.3o4y",
+        "image": "https://static.akacdn.ru/static/images/2018/12/049a8073d0363f856678a99ffad6c46c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35427,
+        "aniId": 98607,
+        "deletedAt": null
+      },
+      "p7oj": {
+        "createdAt": "2020-10-12T15:54:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7908,
+        "identifier": "p7oj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animegataris (Dub)",
+        "url": "https://9anime.to/watch/animegataris-dub.p7oj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-W_shbvK3nZs/WfUPlVvDClI/AAAAAAAADdQ/BAKi-ZVEuhogBuPt_xRcMH2FBWDMTukegCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35427,
+        "aniId": 98607,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "animegataris": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16533,
+        "identifier": "animegataris",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Animegataris",
+        "url": "https://gogoanime.vc/category/animegataris",
+        "image": "https://images.gogoanime.tv/cover/animegataris.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35427,
+        "aniId": 98607,
+        "deletedAt": null
+      },
+      "animegataris-dub": {
+        "createdAt": "2020-10-12T15:59:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16534,
+        "identifier": "animegataris-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Animegataris (Dub)",
+        "url": "https://gogoanime.vc/category/animegataris-dub",
+        "image": "https://gogocdn.net/cover/animegataris-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 35427,
+        "aniId": 98607,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2308": {
+        "identifier": "2308",
+        "malId": 35427,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Animegataris",
+        "url": "https://animepahe.com/a/2308"
+      }
+    },
+    "AniMixPlay": {
+      "35427": {
+        "identifier": "35427",
+        "malId": 35427,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Animegataris",
+        "url": "https://animixplay.to/anime/35427"
+      }
+    },
+    "YugenAnime": {
+      "1312": {
+        "identifier": "1312",
+        "malId": 35427,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Animegataris",
+        "url": "https://yugen.to/anime/1312/animegataris/"
+      }
+    }
+  }
+}

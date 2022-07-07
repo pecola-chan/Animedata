@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T21:09:53.000Z",
+  "checkedAt": "2022-05-14T21:09:53.000Z",
+  "id": 16646,
+  "type": "anime",
+  "title": "Hanamaru Youchien: Panda Neko Taisou",
+  "altTitle": [
+    "Pandaneko Gymnastic",
+    "Hanamaru Kindergarten: Panda Cat Gymnastics",
+    "はなまる幼稚園 ぱんだねこ体操"
+  ],
+  "url": "https://myanimelist.net/anime/16646/Hanamaru_Youchien__Panda_Neko_Taisou",
+  "image": "https://cdn.myanimelist.net/images/anime/11/44862.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/hanamaru/release_dvd.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6646"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%AA%E3%81%BE%E3%82%8B%E5%B9%BC%E7%A8%9A%E5%9C%92"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6646,
+  "Pages": {
+    "9anime": {
+      "95qn": {
+        "createdAt": "2020-10-12T15:51:45.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4230,
+        "identifier": "95qn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hanamaru Youchien: Panda Neko Taisou",
+        "url": "https://9anime.to/watch/hanamaru-youchien-panda-neko-taisou.95qn",
+        "image": "https://static.akacdn.ru/files/images/2018/02/957899ea9aabad658a9745f7ef7312aa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16646,
+        "aniId": 16646,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16646": {
+        "identifier": "16646",
+        "malId": 16646,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hanamaru Youchien: Panda Neko Taisou",
+        "url": "https://animixplay.to/anime/16646"
+      }
+    }
+  }
+}

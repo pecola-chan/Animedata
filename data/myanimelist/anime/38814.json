@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T16:06:58.000Z",
+  "checkedAt": "2022-05-14T16:06:58.000Z",
+  "id": 38814,
+  "type": "anime",
+  "title": "Nobunaga-sensei no Osanazuma",
+  "altTitle": [
+    "Mr. Nobunaga's Young Bride",
+    "Nobunaga Teacher's Young Bride",
+    "ノブナガ先生の幼な妻"
+  ],
+  "url": "https://myanimelist.net/anime/38814/Nobunaga-sensei_no_Osanazuma",
+  "image": "https://cdn.myanimelist.net/images/anime/1524/97286.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nobutsuma-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14530"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21679"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14530,
+  "Pages": {
+    "9anime": {
+      "jm18": {
+        "createdAt": "2020-10-12T15:52:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4920,
+        "identifier": "jm18",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nobunaga-sensei no Osanazuma",
+        "url": "https://9anime.to/watch/nobunaga-sensei-no-osanazuma.jm18",
+        "image": "https://static.akacdn.ru/static/images/2018/12/71e33e711af13ada8e229b8ea873c369.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38814,
+        "aniId": 106239,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nobunaga-sensei-no-osanazuma": {
+        "createdAt": "2020-10-12T16:01:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19770,
+        "identifier": "nobunaga-sensei-no-osanazuma",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nobunaga-sensei no Osanazuma",
+        "url": "https://gogoanime.vc/category/nobunaga-sensei-no-osanazuma",
+        "image": "https://cdnimg.xyz/cover/nobunaga-sensei-no-osanazuma.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38814,
+        "aniId": 106239,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3221": {
+        "identifier": "3221",
+        "malId": 38814,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nobunaga-sensei no Osanazuma",
+        "url": "https://animepahe.com/a/3221"
+      }
+    },
+    "AniMixPlay": {
+      "38814": {
+        "identifier": "38814",
+        "malId": 38814,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nobunaga-sensei no Osanazuma",
+        "url": "https://animixplay.to/anime/38814"
+      }
+    },
+    "YugenAnime": {
+      "4337": {
+        "identifier": "4337",
+        "malId": 38814,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nobunaga-sensei no Osanazuma",
+        "url": "https://yugen.to/anime/4337/nobunaga-sensei-no-osanazuma/"
+      }
+    }
+  }
+}

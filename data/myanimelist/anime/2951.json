@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T19:00:11.000Z",
+  "checkedAt": "2022-05-14T19:00:11.000Z",
+  "id": 2951,
+  "type": "anime",
+  "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+  "altTitle": [
+    "Gintama: Jump Festa 2005 Special",
+    "銀魂〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜"
+  ],
+  "url": "https://myanimelist.net/anime/2951/Gintama__Nanigoto_mo_Saiyo_ga_Kanjin_nano_de_Tasho_Senobisuru_Kurai_ga_Choudoyoi",
+  "image": "https://cdn.myanimelist.net/images/anime/4/8522.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.j-gintama.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3468"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6072"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gintama"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3468,
+  "Pages": {
+    "9anime": {
+      "67qp": {
+        "createdAt": "2020-10-12T15:50:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2982,
+        "identifier": "67qp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "url": "https://9anime.to/watch/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi.67qp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/8e51f39d7ccd0059975f1d6df5f54733.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2951,
+        "aniId": 2951,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1319": {
+        "identifier": "1319",
+        "malId": 2951,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "url": "https://animepahe.com/a/1319"
+      }
+    },
+    "AniMixPlay": {
+      "2951": {
+        "identifier": "2951",
+        "malId": 2951,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "url": "https://animixplay.to/anime/2951"
+      }
+    }
+  }
+}

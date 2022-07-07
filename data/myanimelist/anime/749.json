@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-15T06:31:06.000Z",
+  "checkedAt": "2022-05-15T06:31:06.000Z",
+  "id": 749,
+  "type": "anime",
+  "title": "Nanami-chan",
+  "altTitle": [
+    "ななみちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/749/Nanami-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/5/64205.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/nanami/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1950"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4132"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nanami-chan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1950,
+  "Pages": {
+    "9anime": {
+      "r0nq": {
+        "createdAt": "2020-10-12T15:55:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8691,
+        "identifier": "r0nq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nanami-chan",
+        "url": "https://9anime.to/watch/nanami-chan.r0nq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-buIFmx3y3rs/WIb2QFUNxKI/AAAAAAABbBA/C4IzyFFR87s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 749,
+        "aniId": 749,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nanami-chan": {
+        "createdAt": "2021-07-31T08:52:31.000Z",
+        "updatedAt": "2021-07-31T09:21:48.000Z",
+        "checkedAt": null,
+        "id": 38073,
+        "identifier": "nanami-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nanami-chan",
+        "url": "https://gogoanime.pe/category/nanami-chan",
+        "image": "https://gogocdn.net/cover/nanami-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 749,
+        "aniId": 749,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "749": {
+        "identifier": "749",
+        "malId": 749,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Nanami-chan",
+        "url": "https://animixplay.to/anime/749"
+      }
+    },
+    "YugenAnime": {
+      "9495": {
+        "identifier": "9495",
+        "malId": 749,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Nanami-chan",
+        "url": "https://yugen.to/anime/9495/nanami-chan/"
+      }
+    }
+  }
+}

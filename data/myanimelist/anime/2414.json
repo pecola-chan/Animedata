@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-15T04:30:05.000Z",
+  "checkedAt": "2022-05-15T04:30:05.000Z",
+  "id": 2414,
+  "type": "anime",
+  "title": "Assemble Insert",
+  "altTitle": [
+    "Assemble Insert",
+    "アッセンブル・インサート"
+  ],
+  "url": "https://myanimelist.net/anime/2414/Assemble_Insert",
+  "image": "https://cdn.myanimelist.net/images/anime/1502/123445.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1158"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=538"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1158,
+  "Pages": {
+    "9anime": {
+      "n0mk": {
+        "createdAt": "2020-10-12T15:53:41.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6872,
+        "identifier": "n0mk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Assemble Insert",
+        "url": "https://9anime.to/watch/assemble-insert.n0mk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RnVRwXlMgg0/WIGlU8Yg1II/AAAAAAABaW8/HVVBjE6YLCA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2414,
+        "aniId": 2414,
+        "deletedAt": null
+      },
+      "rqjp": {
+        "createdAt": "2020-10-12T15:55:35.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8982,
+        "identifier": "rqjp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Assemble Insert (Dub)",
+        "url": "https://9anime.to/watch/assemble-insert-dub.rqjp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lMrp6hxBr1s/WKRh2dze-BI/AAAAAAABc_g/AlkcXVjfHRY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2414,
+        "aniId": 2414,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "assemble-insert-dub": {
+        "createdAt": "2020-10-12T17:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23718,
+        "identifier": "assemble-insert-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Assemble Insert (Dub)",
+        "url": "https://gogoanime.vc/category/assemble-insert-dub",
+        "image": "https://gogocdn.net/cover/assemble-insert-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2414,
+        "aniId": 2414,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2414": {
+        "identifier": "2414",
+        "malId": 2414,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Assemble Insert",
+        "url": "https://animixplay.to/anime/2414"
+      }
+    },
+    "YugenAnime": {
+      "2587": {
+        "identifier": "2587",
+        "malId": 2414,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Assemble Insert",
+        "url": "https://yugen.to/anime/2587/assemble-insert/"
+      }
+    }
+  }
+}

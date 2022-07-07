@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T23:38:41.000Z",
+  "checkedAt": "2022-05-14T23:38:41.000Z",
+  "id": 727,
+  "type": "anime",
+  "title": "Kingyo Chuuihou!",
+  "altTitle": [
+    "Goldfish Warning!",
+    "きんぎょ注意報！"
+  ],
+  "url": "https://myanimelist.net/anime/727/Kingyo_Chuuihou",
+  "image": "https://cdn.myanimelist.net/images/anime/13/26657.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/kingyo/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2088"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1401"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Goldfish_Warning"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2088,
+  "Pages": {
+    "9anime": {
+      "267l": {
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-11-03T09:04:19.000Z",
+        "checkedAt": null,
+        "id": 1299,
+        "identifier": "267l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kingyo Chuuihou!",
+        "url": "https://9anime.to/watch/goldfish-warning.267l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/05/57492a62463d0e07d42f97cd9b930d1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 727,
+        "aniId": 727,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kingyo-chuuihou": {
+        "createdAt": "2020-10-12T17:56:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23738,
+        "identifier": "kingyo-chuuihou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kingyo Chuuihou!",
+        "url": "https://gogoanime.vc/category/kingyo-chuuihou",
+        "image": "https://gogocdn.net/cover/kingyo-chuuihou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 727,
+        "aniId": 727,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "727": {
+        "identifier": "727",
+        "malId": 727,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kingyo Chuuihou!",
+        "url": "https://animixplay.to/anime/727"
+      }
+    },
+    "YugenAnime": {
+      "1888": {
+        "identifier": "1888",
+        "malId": 727,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kingyo Chuuihou!",
+        "url": "https://yugen.to/anime/1888/kingyo-chuuihou/"
+      }
+    }
+  }
+}

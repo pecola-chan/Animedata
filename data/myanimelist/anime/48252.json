@@ -1,0 +1,115 @@
+{
+  "createdAt": "2021-07-03T03:34:09.000Z",
+  "updatedAt": "2022-05-13T21:14:52.000Z",
+  "checkedAt": "2022-05-13T21:14:52.000Z",
+  "id": 48252,
+  "type": "anime",
+  "title": "Ore, Tsushima",
+  "altTitle": [
+    "I am Tsushima",
+    "I, Tsushima",
+    "俺、つしま"
+  ],
+  "url": "https://myanimelist.net/anime/48252/Ore_Tsushima",
+  "image": "https://cdn.myanimelist.net/images/anime/1916/112514.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tsushima-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16071"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24079"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ore,_Tsushima#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "museasia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 16071,
+  "Pages": {
+    "9anime": {
+      "o1zj": {
+        "createdAt": "2021-07-05T12:00:33.000Z",
+        "updatedAt": "2021-07-05T12:29:50.000Z",
+        "checkedAt": null,
+        "id": 37685,
+        "identifier": "o1zj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ore, Tsushima",
+        "url": "https://9anime.to/watch/ore-tsushima.o1zj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c8/c8420c124b0fe3ddcee9bebe1d9de39b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48252,
+        "aniId": 130392,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ore-tsushima": {
+        "createdAt": "2021-07-06T08:59:55.000Z",
+        "updatedAt": "2021-07-06T09:29:50.000Z",
+        "checkedAt": null,
+        "id": 37699,
+        "identifier": "ore-tsushima",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ore, Tsushima",
+        "url": "https://gogoanime.pe/category/ore-tsushima",
+        "image": "https://gogocdn.net/cover/ore-tsushima.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48252,
+        "aniId": 130392,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "48252": {
+        "identifier": "48252",
+        "malId": 48252,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ore, Tsushima",
+        "url": "https://animixplay.to/anime/48252"
+      }
+    },
+    "YugenAnime": {
+      "7860": {
+        "identifier": "7860",
+        "malId": 48252,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ore, Tsushima",
+        "url": "https://yugen.to/anime/7860/ore-tsushima/"
+      }
+    }
+  }
+}

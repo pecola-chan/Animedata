@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-14T16:35:02.000Z",
+  "checkedAt": "2022-05-14T16:35:02.000Z",
+  "id": 12291,
+  "type": "anime",
+  "title": "Acchi Kocchi",
+  "altTitle": [
+    "Place to Place",
+    "あっちこっち"
+  ],
+  "url": "https://myanimelist.net/anime/12291/Acchi_Kocchi",
+  "image": "https://cdn.myanimelist.net/images/anime/5/46489.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/ackc/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8890"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13844"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Place_to_Place"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/place-to-place"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8890,
+  "Pages": {
+    "9anime": {
+      "p2r9": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7820,
+        "identifier": "p2r9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Acchi Kocchi Youchien",
+        "url": "https://9anime.to/watch/acchi-kocchi-youchien.p2r9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-e-LqZ7TSjGI/WBVwGljAGGI/AAAAAAABL8Q/LM0_luPn2tU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12291,
+        "aniId": 12291,
+        "deletedAt": null
+      },
+      "yoj": {
+        "createdAt": "2020-10-12T15:56:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10771,
+        "identifier": "yoj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Acchi Kocchi (TV)",
+        "url": "https://9anime.to/watch/acchi-kocchi-tv.yoj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-b-Jj3tBsVUw/V4Iz_JNAJWI/AAAAAAAAuaw/bDMbCwkPgHw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12291,
+        "aniId": 12291,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "acchi-kocchi": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16368,
+        "identifier": "acchi-kocchi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Acchi Kocchi",
+        "url": "https://gogoanime.vc/category/acchi-kocchi",
+        "image": "https://images.gogoanime.tv/images/anime/acchi-kocchi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12291,
+        "aniId": 12291,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "357": {
+        "identifier": "357",
+        "malId": 12291,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Acchi Kocchi",
+        "url": "https://animepahe.com/a/357"
+      }
+    },
+    "AniMixPlay": {
+      "12291": {
+        "identifier": "12291",
+        "malId": 12291,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Acchi Kocchi",
+        "url": "https://animixplay.to/anime/12291"
+      }
+    },
+    "YugenAnime": {
+      "79": {
+        "identifier": "79",
+        "malId": 12291,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Acchi Kocchi",
+        "url": "https://yugen.to/anime/79/acchi-kocchi/"
+      }
+    }
+  }
+}

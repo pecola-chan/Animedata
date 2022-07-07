@@ -1,0 +1,99 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-15T01:38:43.000Z",
+  "checkedAt": "2022-05-15T01:38:43.000Z",
+  "id": 10005,
+  "type": "anime",
+  "title": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
+  "altTitle": [
+    "Tetsujin 28-go: Hakuchuu no Zangetsu",
+    "Tetsujin 28: The Lingering Moon of Midday",
+    "Tetsujin #28: The Daytime Moon",
+    "Tetsujin28: Morning Moon of Mid-day",
+    "鉄人２８号 白昼の残月"
+  ],
+  "url": "https://myanimelist.net/anime/10005/Tetsujin_28-gou__Hakuchuu_no_Zangetsu",
+  "image": "https://cdn.myanimelist.net/images/anime/7/27668.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tetsujin28-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4936"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7485"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%89%84%E4%BA%BA28%E5%8F%B7_%E7%99%BD%E6%98%BC%E3%81%AE%E6%AE%8B%E6%9C%88"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280716"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4936,
+  "Pages": {
+    "9anime": {
+      "vjz4": {
+        "createdAt": "2020-10-12T15:55:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9355,
+        "identifier": "vjz4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
+        "url": "https://9anime.to/watch/tetsujin-28-gou-hakuchuu-no-zangetsu.vjz4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LM571lc5XMU/WGx8GrBjpgI/AAAAAAABWn4/JbXMS7ePhYE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10005,
+        "aniId": 10005,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tetsujin-28-gou-hakuchuu-no-zangetsu": {
+        "createdAt": "2022-02-21T13:48:52.000Z",
+        "updatedAt": "2022-02-21T14:17:39.000Z",
+        "checkedAt": null,
+        "id": 40140,
+        "identifier": "tetsujin-28-gou-hakuchuu-no-zangetsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
+        "url": "https://gogoanime.fi/category/tetsujin-28-gou-hakuchuu-no-zangetsu",
+        "image": "https://gogocdn.net/cover/tetsujin-28-gou-hakuchuu-no-zangetsu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10005,
+        "aniId": 10005,
+        "deletedAt": null
+      }
+    },
+    "YugenAnime": {
+      "11705": {
+        "identifier": "11705",
+        "malId": 10005,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tetsujin 28-gou: Hakuchuu no Zangetsu",
+        "url": "https://yugen.to/anime/11705/tetsujin-28-gou-hakuchuu-no-zangetsu/"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T21:17:47.000Z",
+  "checkedAt": "2022-05-14T21:17:47.000Z",
+  "id": 39094,
+  "type": "anime",
+  "title": "Toaru Majutsu no Index-tan III",
+  "altTitle": [
+    "Toaru Majutsu no Index-tan III Specials, A Certain Magical Index-tan III",
+    "A Certain Magical Index III: Specials",
+    "とある魔術の禁書目録たん"
+  ],
+  "url": "https://myanimelist.net/anime/39094/Toaru_Majutsu_no_Index-tan_III",
+  "image": "https://cdn.myanimelist.net/images/anime/1937/98538.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://toaru-project.com/index_3/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13481"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21108"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Certain_Magical_Index"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13481,
+  "Pages": {
+    "9anime": {
+      "vp46": {
+        "createdAt": "2021-03-10T10:19:26.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35589,
+        "identifier": "vp46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toaru Majutsu no Index-tan III",
+        "url": "https://9anime.to/watch/a-certain-magical-index-iii-specials.vp46",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b7/b7d2c2b25a2e795c27bae2203cbb4ff5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39094,
+        "aniId": 107692,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "39094": {
+        "identifier": "39094",
+        "malId": 39094,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toaru Majutsu no Index-tan III",
+        "url": "https://animixplay.to/anime/39094"
+      }
+    }
+  }
+}

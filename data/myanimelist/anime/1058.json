@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2022-05-15T01:33:59.000Z",
+  "checkedAt": "2022-05-15T01:33:59.000Z",
+  "id": 1058,
+  "type": "anime",
+  "title": "Kidou Shinsengumi Moeyo Ken",
+  "altTitle": [
+    "Moeyo Ken",
+    "機動新撰組　萌えよ剣"
+  ],
+  "url": "https://myanimelist.net/anime/1058/Kidou_Shinsengumi_Moeyo_Ken",
+  "image": "https://cdn.myanimelist.net/images/anime/2/29756.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mmv.co.jp/special/moeyo_ken/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1222"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3164"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/moeyo-ken"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1222,
+  "Pages": {
+    "9anime": {
+      "6194": {
+        "createdAt": "2020-10-12T15:48:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 193,
+        "identifier": "6194",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kidou Shinsengumi Moeyo Ken",
+        "url": "https://9anime.to/watch/kidou-shinsengumi-moeyo-ken.6194",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oXGhut1jl50/V8Vk6rVIkII/AAAAAAAA6gI/dvW1kbg39oY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1058,
+        "aniId": 1058,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kidou-shinsengumi-moeyo-ken": {
+        "createdAt": "2021-03-12T22:39:09.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35677,
+        "identifier": "kidou-shinsengumi-moeyo-ken",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kidou Shinsengumi Moeyo Ken",
+        "url": "https://gogoanime.vc/category/kidou-shinsengumi-moeyo-ken",
+        "image": "https://gogocdn.net/cover/kidou-shinsengumi-moeyo-ken.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1058,
+        "aniId": 1058,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1058": {
+        "identifier": "1058",
+        "malId": 1058,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kidou Shinsengumi Moeyo Ken",
+        "url": "https://animixplay.to/anime/1058"
+      }
+    },
+    "YugenAnime": {
+      "1537": {
+        "identifier": "1537",
+        "malId": 1058,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kidou Shinsengumi Moeyo Ken",
+        "url": "https://yugen.to/anime/1537/moeyo-ken/"
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T16:01:44.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 20352,
+  "identifier": "ryuusei-no-rockman-tribe",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ryuusei no Rockman Tribe",
+  "url": "https://gogoanime.vc/category/ryuusei-no-rockman-tribe",
+  "image": "https://gogocdn.net/cover/ryuusei-no-rockman-tribe.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3493,
+  "aniId": 3493,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:38.000Z",
+    "updatedAt": "2022-05-14T22:57:35.000Z",
+    "checkedAt": "2022-05-14T22:57:35.000Z",
+    "id": 3493,
+    "type": "anime",
+    "title": "Ryuusei no Rockman Tribe",
+    "altTitle": [
+      "Ryusei no Rockman Tribe",
+      "Shooting Star Rockman Tribe",
+      "Mega Man Shooting Star Tribe",
+      "Megaman Star Force Tribe",
+      "流星のロックマン トライブ"
+    ],
+    "url": "https://myanimelist.net/anime/3493/Ryuusei_no_Rockman_Tribe",
+    "image": "https://cdn.myanimelist.net/images/anime/1256/94652.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.xebec-inc.co.jp/anime/ryusei2/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5524"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8865"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mega_Man_Star_Force_(anime)#Tribe"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5524
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:25.000Z",
+    "updatedAt": "2022-05-15T13:12:47.000Z",
+    "checkedAt": "2022-05-15T13:12:47.000Z",
+    "id": 3493,
+    "type": "anime",
+    "title": "Ryuusei no Rockman Tribe",
+    "altTitle": [
+      "Mega Man Star Force Tribe",
+      "流星のロックマン トライブ",
+      "Ryusei no Rockman Tribe",
+      "Shooting Star Rockman Tribe",
+      "Mega Man Shooting Star Tribe"
+    ],
+    "url": "https://anilist.co/anime/3493",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3493.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3493,
+    "deletedAt": null
+  }
+}

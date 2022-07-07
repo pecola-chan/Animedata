@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-15T07:25:33.000Z",
+  "checkedAt": "2022-05-15T07:25:33.000Z",
+  "id": 37915,
+  "type": "anime",
+  "title": "Uchuu no Hou: Reimei-hen",
+  "altTitle": [
+    "Happy Science Movie 8",
+    "The Laws of the Universe: Part 1",
+    "宇宙の法-黎明編-"
+  ],
+  "url": "https://myanimelist.net/anime/37915/Uchuu_no_Hou__Reimei-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1446/93438.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://laws-of-universe.hspicturesstudio.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14092"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21132"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14092,
+  "Pages": {
+    "9anime": {
+      "8vro": {
+        "createdAt": "2020-10-12T15:51:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4034,
+        "identifier": "8vro",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Laws of the Universe: Part 1",
+        "url": "https://9anime.to/watch/the-laws-of-the-universe-part-1.8vro",
+        "image": "https://static.akacdn.ru/static/images/2018/08/e61279278e73275196caedec0f844257.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37915,
+        "aniId": 103707,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uchuu-no-hou-reimei-hen": {
+        "createdAt": "2020-10-12T16:02:11.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21279,
+        "identifier": "uchuu-no-hou-reimei-hen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uchuu no Hou: Reimei-hen",
+        "url": "https://gogoanime.vc/category/uchuu-no-hou-reimei-hen",
+        "image": "https://cdnimg.xyz/cover/uchuu-no-hou-reimei-hen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37915,
+        "aniId": 103707,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37915": {
+        "identifier": "37915",
+        "malId": 37915,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uchuu no Hou: Reimei-hen",
+        "url": "https://animixplay.to/anime/37915"
+      }
+    },
+    "YugenAnime": {
+      "6333": {
+        "identifier": "6333",
+        "malId": 37915,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uchuu no Hou: Reimei-hen",
+        "url": "https://yugen.to/anime/6333/uchuu-no-hou-reimei-hen/"
+      }
+    }
+  }
+}

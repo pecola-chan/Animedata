@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:14.000Z",
+  "updatedAt": "2022-05-14T23:49:17.000Z",
+  "checkedAt": "2022-05-14T23:49:17.000Z",
+  "id": 1226,
+  "type": "anime",
+  "title": "Seihou Tenshi Angel Links",
+  "altTitle": [
+    "Seihou Tenshi Angel Rinks",
+    "Stellar Angel Angel Links",
+    "Angel Links",
+    "星方天使エンジェルリンクス"
+  ],
+  "url": "https://myanimelist.net/anime/1226/Seihou_Tenshi_Angel_Links",
+  "image": "https://cdn.myanimelist.net/images/anime/4/46233.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/seihou/ANGEL-LINKS/story.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=223"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Angel_Links"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/angel-links"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 223,
+  "Pages": {
+    "9anime": {
+      "j1l4": {
+        "createdAt": "2020-10-12T15:52:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4603,
+        "identifier": "j1l4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seihou Tenshi Angel Links",
+        "url": "https://9anime.to/watch/seihou-tenshi-angel-links.j1l4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-B1BFzgr_ETE/WF8eAEBFnEI/AAAAAAABUfg/LG4eEHBtO2E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1226,
+        "aniId": 1226,
+        "deletedAt": null
+      },
+      "oxoj": {
+        "createdAt": "2020-10-12T15:54:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7722,
+        "identifier": "oxoj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seihou Tenshi Angel Links (Dub)",
+        "url": "https://9anime.to/watch/seihou-tenshi-angel-links-dub.oxoj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yDMG6pAvDto/V6oI3IS5HrI/AAAAAAAA1xE/5VlebJJ6Hd4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1226,
+        "aniId": 1226,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1226": {
+        "identifier": "1226",
+        "malId": 1226,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seihou Tenshi Angel Links",
+        "url": "https://animixplay.to/anime/1226"
+      }
+    },
+    "YugenAnime": {
+      "1363": {
+        "identifier": "1363",
+        "malId": 1226,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seihou Tenshi Angel Links",
+        "url": "https://yugen.to/anime/1363/angel-links/"
+      }
+    }
+  }
+}

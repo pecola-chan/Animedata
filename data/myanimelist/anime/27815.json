@@ -1,0 +1,135 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-14T09:33:15.000Z",
+  "checkedAt": "2022-05-14T09:33:15.000Z",
+  "id": 27815,
+  "type": "anime",
+  "title": "Cardfight!! Vanguard G",
+  "altTitle": [
+    "Cardfight!! Vanguard G",
+    "カードファイト!! ヴァンガードG"
+  ],
+  "url": "https://myanimelist.net/anime/27815/Cardfight_Vanguard_G",
+  "image": "https://cdn.myanimelist.net/images/anime/4/69867.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-g/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10869"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16314"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cardfight!!_Vanguard"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-263897"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10869,
+  "Pages": {
+    "9anime": {
+      "9m0": {
+        "createdAt": "2020-10-12T15:51:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4333,
+        "identifier": "9m0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cardfight!! Vanguard G",
+        "url": "https://9anime.to/watch/cardfight-vanguard-g.9m0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5NJ6w4x5yPk/V3Obs2Qzf5I/AAAAAAAAsFA/EaENmND_uEQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27815,
+        "aniId": 20921,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cardfight-vanguard-g": {
+        "createdAt": "2021-01-20T03:08:30.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33942,
+        "identifier": "cardfight-vanguard-g",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cardfight!! Vanguard G",
+        "url": "https://gogoanime.vc/category/cardfight-vanguard-g",
+        "image": "https://gogocdn.net/images/fall/Cardfight Vanguard G.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27815,
+        "aniId": 20921,
+        "deletedAt": null
+      },
+      "cardfight-vanguard-g-dub": {
+        "createdAt": "2021-09-27T16:42:24.000Z",
+        "updatedAt": "2021-09-27T17:03:02.000Z",
+        "checkedAt": null,
+        "id": 38757,
+        "identifier": "cardfight-vanguard-g-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cardfight!! Vanguard G (Dub)",
+        "url": "https://gogoanime.pe/category/cardfight-vanguard-g-dub",
+        "image": "https://gogocdn.net/cover/cardfight-vanguard-g-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27815,
+        "aniId": 20921,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3726": {
+        "identifier": "3726",
+        "malId": 27815,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cardfight!! Vanguard G",
+        "url": "https://animepahe.com/a/3726"
+      }
+    },
+    "AniMixPlay": {
+      "27815": {
+        "identifier": "27815",
+        "malId": 27815,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cardfight!! Vanguard G",
+        "url": "https://animixplay.to/anime/27815"
+      }
+    },
+    "YugenAnime": {
+      "1049": {
+        "identifier": "1049",
+        "malId": 27815,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cardfight!! Vanguard G",
+        "url": "https://yugen.to/anime/1049/cardfight-vanguard-g/"
+      }
+    }
+  }
+}

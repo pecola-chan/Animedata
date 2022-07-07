@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T22:36:05.000Z",
+  "checkedAt": "2022-05-14T22:36:05.000Z",
+  "id": 704,
+  "type": "anime",
+  "title": "Kanon Kazahana",
+  "altTitle": [
+    "Kanon Wind Flower",
+    "カノン 風花"
+  ],
+  "url": "https://myanimelist.net/anime/704/Kanon_Kazahana",
+  "image": "https://cdn.myanimelist.net/images/anime/12/43619.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/kanon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3788"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kanon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15,
+  "Pages": {
+    "9anime": {
+      "3kq9": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1799,
+        "identifier": "3kq9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanon Kazahana",
+        "url": "https://9anime.to/watch/kanon-kazahana.3kq9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Nla34tE5H8c/WHTWhCVJ1wI/AAAAAAABYbw/nF5pawCQjhw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 704,
+        "aniId": 704,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kanon-special-kazahana-": {
+        "createdAt": "2020-10-12T16:00:56.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18717,
+        "identifier": "kanon-special-kazahana-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanon Special - Kazahana ",
+        "url": "https://gogoanime.vc/category/kanon-special-kazahana-",
+        "image": "https://gogocdn.net/images/anime/K/Kanon.gif",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 704,
+        "aniId": 704,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3155": {
+        "identifier": "3155",
+        "malId": 704,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanon Kazahana",
+        "url": "https://animepahe.com/a/3155"
+      }
+    },
+    "AniMixPlay": {
+      "704": {
+        "identifier": "704",
+        "malId": 704,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanon Kazahana",
+        "url": "https://animixplay.to/anime/704"
+      }
+    },
+    "YugenAnime": {
+      "4121": {
+        "identifier": "4121",
+        "malId": 704,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kanon Kazahana",
+        "url": "https://yugen.to/anime/4121/kanon-special-kazahana/"
+      }
+    }
+  }
+}

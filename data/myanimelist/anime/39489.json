@@ -1,0 +1,148 @@
+{
+  "createdAt": "2021-08-04T11:21:02.000Z",
+  "updatedAt": "2022-05-14T15:53:26.000Z",
+  "checkedAt": "2022-05-14T15:53:26.000Z",
+  "id": 39489,
+  "type": "anime",
+  "title": "Spriggan (ONA)",
+  "altTitle": [
+    "スプリガン"
+  ],
+  "url": "https://myanimelist.net/anime/39489/Spriggan_ONA",
+  "image": "https://cdn.myanimelist.net/images/anime/1114/116908.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://spriggan-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14734"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24363"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spriggan_(manga)#Anime_series"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14734,
+  "Pages": {
+    "9anime": {
+      "n12j": {
+        "createdAt": "2022-06-18T10:00:07.779Z",
+        "updatedAt": "2022-06-18T10:20:00.000Z",
+        "checkedAt": "2022-06-18T10:00:07.000Z",
+        "id": 41198,
+        "identifier": "n12j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spriggan (ONA)",
+        "url": "https://9anime.to/watch/spriggan-ona.n12j",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f0/f0e33db8ad0813cc5f0e0710ee0087c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39489,
+        "aniId": 108353,
+        "deletedAt": null
+      },
+      "qxn7v": {
+        "createdAt": "2022-06-18T11:30:07.223Z",
+        "updatedAt": "2022-06-18T13:20:00.000Z",
+        "checkedAt": "2022-06-18T11:30:07.000Z",
+        "id": 41199,
+        "identifier": "qxn7v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spriggan (ONA) (Dub)",
+        "url": "https://9anime.to/watch/spriggan-ona-dub.qxn7v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/47/47c96dbc09cb2349ea882baf4ca85747.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 39489,
+        "aniId": 108353,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "spriggan-ona": {
+        "createdAt": "2022-06-18T14:00:25.504Z",
+        "updatedAt": "2022-06-18T14:20:00.000Z",
+        "checkedAt": "2022-06-18T14:00:25.000Z",
+        "id": 41201,
+        "identifier": "spriggan-ona",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Spriggan (ONA)",
+        "url": "https://gogoanime.lu/category/spriggan-ona",
+        "image": "https://gogocdn.net/cover/spriggan-ona.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39489,
+        "aniId": 108353,
+        "deletedAt": null
+      },
+      "spriggan-ona-dub": {
+        "createdAt": "2022-06-20T01:00:00.169Z",
+        "updatedAt": "2022-06-20T08:20:00.000Z",
+        "checkedAt": "2022-06-20T01:00:00.000Z",
+        "id": 41212,
+        "identifier": "spriggan-ona-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Spriggan (ONA) (Dub)",
+        "url": "https://gogoanime.lu/category/spriggan-ona-dub",
+        "image": "https://gogocdn.net/cover/spriggan-ona-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 39489,
+        "aniId": 108353,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4802": {
+        "identifier": "4802",
+        "malId": 39489,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Spriggan (ONA)",
+        "url": "https://animepahe.com/a/4802"
+      }
+    },
+    "AniMixPlay": {
+      "39489": {
+        "identifier": "39489",
+        "malId": 39489,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Spriggan (ONA)",
+        "url": "https://animixplay.to/anime/39489"
+      }
+    },
+    "YugenAnime": {
+      "15441": {
+        "identifier": "15441",
+        "malId": 39489,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Spriggan (ONA)",
+        "url": "https://yugen.to/anime/15441/spriggan-ona/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-15T00:10:47.000Z",
+  "checkedAt": "2022-05-15T00:10:47.000Z",
+  "id": 8800,
+  "type": "anime",
+  "title": "Senkou no Night Raid Specials",
+  "altTitle": [
+    "Night Raid 1931 Specials",
+    "閃光のナイトレイド"
+  ],
+  "url": "https://myanimelist.net/anime/8800/Senkou_no_Night_Raid_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/3/26157.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.1931.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7278"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Senkou_no_Night_Raid"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7278,
+  "Pages": {
+    "9anime": {
+      "7ky6": {
+        "createdAt": "2020-10-12T15:51:10.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3464,
+        "identifier": "7ky6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senkou no Night Raid Specials",
+        "url": "https://9anime.to/watch/senkou-no-night-raid-specials.7ky6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UfVzRR03UXc/V_Uk_sWyJPI/AAAAAAABEPI/ghHZWrY2LNQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8800,
+        "aniId": 8800,
+        "deletedAt": null
+      },
+      "jqy": {
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5000,
+        "identifier": "jqy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senkou no Night Raid Specials (Dub)",
+        "url": "https://9anime.to/watch/senkou-no-night-raid-specials-dub.jqy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-AgkjYakN5sc/V4MYXEoikvI/AAAAAAAAul4/eou93KT0TIg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8800,
+        "aniId": 8800,
+        "deletedAt": null
+      }
+    }
+  }
+}

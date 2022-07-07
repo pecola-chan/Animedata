@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T23:11:17.000Z",
+  "checkedAt": "2022-05-14T23:11:17.000Z",
+  "id": 580,
+  "type": "anime",
+  "title": "Kogepan",
+  "altTitle": [
+    "Scorched Bread",
+    "こげぱん"
+  ],
+  "url": "https://myanimelist.net/anime/580/Kogepan",
+  "image": "https://cdn.myanimelist.net/images/anime/13/63859.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/kogepan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=203"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1653"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kogepan"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 203,
+  "Pages": {
+    "9anime": {
+      "ww9o": {
+        "createdAt": "2020-10-12T15:56:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9941,
+        "identifier": "ww9o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kogepan",
+        "url": "https://9anime.to/watch/kogepan.ww9o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Jw-5IqN1O3s/V8VgpUQBz7I/AAAAAAAA6fQ/UU1cIEKNNrM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 580,
+        "aniId": 580,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kogepan": {
+        "createdAt": "2022-04-06T15:02:28.000Z",
+        "updatedAt": "2022-04-06T15:30:22.000Z",
+        "checkedAt": null,
+        "id": 40648,
+        "identifier": "kogepan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kogepan",
+        "url": "https://gogoanime.fi/category/kogepan",
+        "image": "https://gogocdn.net/cover/kogepan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 580,
+        "aniId": 580,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "580": {
+        "identifier": "580",
+        "malId": 580,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kogepan",
+        "url": "https://animixplay.to/anime/580"
+      }
+    },
+    "YugenAnime": {
+      "11864": {
+        "identifier": "11864",
+        "malId": 580,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kogepan",
+        "url": "https://yugen.to/anime/11864/kogepan/"
+      }
+    }
+  }
+}

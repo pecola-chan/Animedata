@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-06-29T13:34:47.000Z",
+  "checkedAt": "2022-06-29T13:34:47.000Z",
+  "id": 6950,
+  "type": "anime",
+  "title": "Aos",
+  "altTitle": [
+    "Aosu",
+    "アオス"
+  ],
+  "url": "https://myanimelist.net/anime/6950/Aos",
+  "image": "https://cdn.myanimelist.net/images/anime/13/69011.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7938"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7938,
+  "Pages": {
+    "9anime": {
+      "04v3": {
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 446,
+        "identifier": "04v3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aos",
+        "url": "https://9anime.to/watch/aos.04v3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kDr4xllAH-A/WLQIHRtKTNI/AAAAAAABePQ/z3eTcEVEKG4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6950,
+        "aniId": 6950,
+        "deletedAt": null
+      }
+    }
+  }
+}

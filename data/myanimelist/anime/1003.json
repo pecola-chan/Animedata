@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-14T22:44:05.000Z",
+  "checkedAt": "2022-05-14T22:44:05.000Z",
+  "id": 1003,
+  "type": "anime",
+  "title": "Aa! Megami-sama! (TV) Specials",
+  "altTitle": [
+    "Ah! My Goddess! Specials",
+    "Aa! Megami-sama! Episodes 12.5, 25 and 26",
+    "Oh! My Goddess Specials",
+    "ああっ女神さまっ"
+  ],
+  "url": "https://myanimelist.net/anime/1003/Aa_Megami-sama_TV_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/2/17893.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2533"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Oh_My_Goddess!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2533,
+  "Pages": {
+    "9anime": {
+      "19mp": {
+        "createdAt": "2020-10-12T15:49:11.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 930,
+        "identifier": "19mp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa! Megami-sama! (TV) Specials",
+        "url": "https://9anime.to/watch/aa-megami-sama-tv-specials.19mp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pj3U_Gcveug/WAybmrMLn1I/AAAAAAABKfk/CdBAiShBLIQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1003,
+        "aniId": 1003,
+        "deletedAt": null
+      },
+      "9j6q": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4297,
+        "identifier": "9j6q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa! Megami-sama! (TV) Specials (Dub)",
+        "url": "https://9anime.to/watch/aa-megami-sama-tv-specials-dub.9j6q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gFUNJvQzRZ4/V7_FP39MC_I/AAAAAAAA5ho/LoGFLRfTyH8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1003,
+        "aniId": 1003,
+        "deletedAt": null
+      }
+    }
+  }
+}

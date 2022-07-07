@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T18:11:41.000Z",
+  "checkedAt": "2022-05-14T18:11:41.000Z",
+  "id": 836,
+  "type": "anime",
+  "title": "Sister Princess",
+  "altTitle": [
+    "SP",
+    "sispri",
+    "シスター・プリンセス"
+  ],
+  "url": "https://myanimelist.net/anime/836/Sister_Princess",
+  "image": "https://cdn.myanimelist.net/images/anime/5/23692.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.starchild.co.jp/special/sispri/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=269"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1114"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sister_Princess_%28anime%29"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280703"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 269,
+  "Pages": {
+    "9anime": {
+      "7wj7": {
+        "createdAt": "2020-10-12T15:51:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3606,
+        "identifier": "7wj7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sister Princess",
+        "url": "https://9anime.to/watch/sister-princess.7wj7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tlZz93Yshjg/V54MSNsQb-I/AAAAAAAAzVY/xX1IHERNCkk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 836,
+        "aniId": 836,
+        "deletedAt": null
+      },
+      "r4ro": {
+        "createdAt": "2020-10-12T15:55:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8778,
+        "identifier": "r4ro",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sister Princess (Dub)",
+        "url": "https://9anime.to/watch/sister-princess-dub.r4ro",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-TwvJDDbSZYo/V_Dyxz06SSI/AAAAAAABDZc/yKnkJPWB8EQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 836,
+        "aniId": 836,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sister-princess": {
+        "createdAt": "2020-10-12T16:01:55.000Z",
+        "updatedAt": "2021-09-09T11:04:29.000Z",
+        "checkedAt": null,
+        "id": 20728,
+        "identifier": "sister-princess",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sister Princess",
+        "url": "https://gogoanime.pe/category/sister-princess",
+        "image": "https://gogocdn.net/images/anime/S/sister-princess.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 836,
+        "aniId": 836,
+        "deletedAt": null
+      },
+      "sister-princess-dub": {
+        "createdAt": "2021-03-21T03:04:34.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35805,
+        "identifier": "sister-princess-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sister Princess (Dub)",
+        "url": "https://gogoanime.vc/category/sister-princess-dub",
+        "image": "https://gogocdn.net/cover/sister-princess-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 836,
+        "aniId": 836,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "836": {
+        "identifier": "836",
+        "malId": 836,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sister Princess",
+        "url": "https://animixplay.to/anime/836"
+      }
+    },
+    "YugenAnime": {
+      "2704": {
+        "identifier": "2704",
+        "malId": 836,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sister Princess",
+        "url": "https://yugen.to/anime/2704/sister-princess/"
+      }
+    }
+  }
+}

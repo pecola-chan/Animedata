@@ -1,0 +1,56 @@
+{
+  "createdAt": "2021-07-22T05:34:02.000Z",
+  "updatedAt": "2022-05-16T21:29:15.000Z",
+  "checkedAt": "2022-05-16T21:29:15.000Z",
+  "id": 2567,
+  "type": "anime",
+  "title": "Pinocchio yori Piccolino no Bouken",
+  "altTitle": [
+    "The Adventures of Piccolino",
+    "ピノキオより ピコリーノの冒険"
+  ],
+  "url": "https://myanimelist.net/anime/2567/Pinocchio_yori_Piccolino_no_Bouken",
+  "image": "https://cdn.myanimelist.net/images/anime/3/60891.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nipponanimation.com/catalogue/006"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2709"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2129"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2709,
+  "Pages": {
+    "9anime": {
+      "52rm9": {
+        "createdAt": "2022-06-01T04:30:01.792Z",
+        "updatedAt": "2022-06-01T05:20:00.000Z",
+        "checkedAt": "2022-06-01T04:30:01.000Z",
+        "id": 41113,
+        "identifier": "52rm9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pinocchio yori Piccolino no Bouken (Dub)",
+        "url": "https://9anime.to/watch/the-adventures-of-piccolino-dub.52rm9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/24/24251614fc84348fc2ae418dccf6dcc4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2567,
+        "aniId": 2567,
+        "deletedAt": null
+      }
+    }
+  }
+}

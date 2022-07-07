@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-11-13T14:23:10.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 29167,
+  "identifier": "jing-shuang-cheng-feng-qi-pian",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Jing: Shuang Cheng - Feng Qi Pian",
+  "url": "https://gogoanime.vc/category/jing-shuang-cheng-feng-qi-pian",
+  "image": "https://gogocdn.net/cover/jing-shuang-cheng-feng-qi-pian.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 42794,
+  "aniId": 115834,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-28T00:12:39.000Z",
+    "updatedAt": "2022-05-14T21:23:54.000Z",
+    "checkedAt": "2022-05-14T21:23:54.000Z",
+    "id": 42794,
+    "type": "anime",
+    "title": "Jing: Shuang Cheng - Feng Qi Pian",
+    "altTitle": [
+      "The Mirror: Twin Cities",
+      "镜·双城 风起篇"
+    ],
+    "url": "https://myanimelist.net/anime/42794/Jing__Shuang_Cheng_-_Feng_Qi_Pian",
+    "image": "https://cdn.myanimelist.net/images/anime/1614/109261.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/4/47ltw19kal4z9kb.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E9%95%9C%C2%B7%E5%8F%8C%E5%9F%8E/23579351#viewPageContent"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:12.000Z",
+    "updatedAt": "2022-05-15T16:45:59.000Z",
+    "checkedAt": "2022-05-15T16:45:59.000Z",
+    "id": 115834,
+    "type": "anime",
+    "title": "Jing: Shuang Cheng - Feng Qi Pian",
+    "altTitle": [
+      "The Mirror: Twin Cities - Overture",
+      "镜·双城 风起篇",
+      "The Mirror: Twin Cities",
+      "镜·双城",
+      "Jing: Shuang Cheng"
+    ],
+    "url": "https://anilist.co/anime/115834",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115834-lRQ12OrfLqI6.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 42794,
+    "deletedAt": null
+  }
+}

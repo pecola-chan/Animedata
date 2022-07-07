@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T23:05:29.000Z",
+  "checkedAt": "2022-05-14T23:05:29.000Z",
+  "id": 191,
+  "type": "anime",
+  "title": "Love Hina Christmas Special: Silent Eve",
+  "altTitle": [
+    "Love Hina Christmas Movie",
+    "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  ],
+  "url": "https://myanimelist.net/anime/191/Love_Hina_Christmas_Special__Silent_Eve",
+  "image": "https://cdn.myanimelist.net/images/anime/11/82467.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/lovehina/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=51"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=860"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 51,
+  "Pages": {
+    "9anime": {
+      "qvjj": {
+        "createdAt": "2020-10-12T15:55:15.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8573,
+        "identifier": "qvjj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Hina Christmas Special: Silent Eve",
+        "url": "https://9anime.to/watch/love-hina-christmas-special-silent-eve.qvjj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sXlVgfnj8t8/V_nDcHNLikI/AAAAAAABFeg/GOeJlReLHaA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 191,
+        "aniId": 191,
+        "deletedAt": null
+      },
+      "r4kn": {
+        "createdAt": "2020-10-12T15:55:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8770,
+        "identifier": "r4kn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Hina Christmas Special: Silent Eve (Dub)",
+        "url": "https://9anime.to/watch/love-hina-christmas-special-silent-eve-dub.r4kn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--fBUNwdZk4c/V_nDljNwJfI/AAAAAAABFeo/anA8YxnIAwI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 191,
+        "aniId": 191,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "191": {
+        "identifier": "191",
+        "malId": 191,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love Hina Christmas Special: Silent Eve",
+        "url": "https://animixplay.to/anime/191"
+      }
+    },
+    "YugenAnime": {
+      "1970": {
+        "identifier": "1970",
+        "malId": 191,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love Hina Christmas Special: Silent Eve",
+        "url": "https://yugen.to/anime/1970/love-hina-christmas-special/"
+      }
+    }
+  }
+}

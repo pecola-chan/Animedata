@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T21:42:11.000Z",
+  "checkedAt": "2022-05-14T21:42:11.000Z",
+  "id": 9510,
+  "type": "anime",
+  "title": "Mitsudomoe Zouryouchuu!",
+  "altTitle": [
+    "Mitsudomoe Dai Ni Ki",
+    "Mitsudomoe 2-ki",
+    "みつどもえ増量中！"
+  ],
+  "url": "https://myanimelist.net/anime/9510/Mitsudomoe_Zouryouchuu",
+  "image": "https://cdn.myanimelist.net/images/anime/11/71554.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mitsudomoe-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7948"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11879"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mitsudomoe_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7948,
+  "Pages": {
+    "9anime": {
+      "3rr6": {
+        "createdAt": "2020-10-12T15:49:50.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1931,
+        "identifier": "3rr6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mitsudomoe Zouryouchuu!",
+        "url": "https://9anime.to/watch/mitsudomoe-zouryouchuu.3rr6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-bOLrZGpLSxU/V4uiYZ3JP2I/AAAAAAAAwB0/7_CGsgKoiOY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9510,
+        "aniId": 9510,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "-mitsudomoe-season-2": {
+        "createdAt": "2021-04-14T16:46:00.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36448,
+        "identifier": "-mitsudomoe-season-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mitsudomoe Season 2",
+        "url": "https://gogoanime.vc/category/-mitsudomoe-season-2",
+        "image": "https://gogocdn.net/images/anime/M/mitsudomoe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 9510,
+        "aniId": 9510,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "456": {
+        "identifier": "456",
+        "malId": 9510,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mitsudomoe Zouryouchuu!",
+        "url": "https://animepahe.com/a/456"
+      }
+    },
+    "AniMixPlay": {
+      "9510": {
+        "identifier": "9510",
+        "malId": 9510,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mitsudomoe Zouryouchuu!",
+        "url": "https://animixplay.to/anime/9510"
+      }
+    }
+  }
+}

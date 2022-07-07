@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T16:02:08.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21192,
+  "identifier": "totsukuni-no-shoujo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Totsukuni no Shoujo",
+  "url": "https://gogoanime.vc/category/totsukuni-no-shoujo",
+  "image": "https://cdnimg.xyz/cover/totsukuni-no-shoujo.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 39495,
+  "aniId": 108354,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:09.000Z",
+    "updatedAt": "2022-05-14T18:25:05.000Z",
+    "checkedAt": "2022-05-14T18:25:05.000Z",
+    "id": 39495,
+    "type": "anime",
+    "title": "Totsukuni no Shoujo",
+    "altTitle": [
+      "Foreign Girl",
+      "The Girl From the Other Side: Siúil, a Rún",
+      "とつくにの少女"
+    ],
+    "url": "https://myanimelist.net/anime/39495/Totsukuni_no_Shoujo",
+    "image": "https://cdn.myanimelist.net/images/anime/1675/104684.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.productionig.com/contents/works_sp/100_/s00_/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14736"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23604"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A4%E3%81%8F%E3%81%AB%E3%81%AE%E5%B0%91%E5%A5%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 14736
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:44:56.000Z",
+    "updatedAt": "2022-05-15T11:46:47.000Z",
+    "checkedAt": "2022-05-15T11:46:47.000Z",
+    "id": 108354,
+    "type": "anime",
+    "title": "Totsukuni no Shoujo",
+    "altTitle": [
+      "The Girl From the Other Side: Siúil, a Rún",
+      "とつくにの少女",
+      "Foreign Girl"
+    ],
+    "url": "https://anilist.co/anime/108354",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108354-MGpTCKLHQBX3.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 39495,
+    "deletedAt": null
+  }
+}

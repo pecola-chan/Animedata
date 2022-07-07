@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T17:55:35.000Z",
+  "checkedAt": "2022-05-14T17:55:35.000Z",
+  "id": 40059,
+  "type": "anime",
+  "title": "Golden Kamuy 3rd Season",
+  "altTitle": [
+    "Golden Kamuy Season 3",
+    "ゴールデンカムイ"
+  ],
+  "url": "https://myanimelist.net/anime/40059/Golden_Kamuy_3rd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1763/108108.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.kamuy-anime.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14995"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22995"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Kamuy#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "https://www.crunchyroll.com/golden-kamuy"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14995,
+  "Pages": {
+    "9anime": {
+      "pnzj": {
+        "createdAt": "2020-10-12T15:54:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8030,
+        "identifier": "pnzj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Golden Kamuy 3rd Season",
+        "url": "https://9anime.to/watch/golden-kamuy-3rd-season.pnzj",
+        "image": "https://static.akacdn.ru/files/images/2019/10/ddd569f32b7dcfa2bc4909b7660b3178.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40059,
+        "aniId": 110355,
+        "deletedAt": null
+      },
+      "wl0l": {
+        "createdAt": "2020-11-03T00:22:41.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28772,
+        "identifier": "wl0l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Golden Kamuy 3rd Season (Dub)",
+        "url": "https://9anime.to/watch/golden-kamuy-season-3-dub.wl0l",
+        "image": "//static.9anime.to/i/cache/images/1/13/13f50c200c957ae2cf018e4444e84a70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40059,
+        "aniId": 110355,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "golden-kamuy-3rd-season": {
+        "createdAt": "2020-10-12T17:56:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23741,
+        "identifier": "golden-kamuy-3rd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Golden Kamuy 3rd Season",
+        "url": "https://gogoanime.vc/category/golden-kamuy-3rd-season",
+        "image": "https://gogocdn.net/cover/golden-kamuy-3rd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40059,
+        "aniId": 110355,
+        "deletedAt": null
+      },
+      "golden-kamuy-3rd-season-dub": {
+        "createdAt": "2020-11-03T04:55:04.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 28792,
+        "identifier": "golden-kamuy-3rd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Golden Kamuy 3rd Season (Dub)",
+        "url": "https://gogoanime.vc/category/golden-kamuy-3rd-season-dub",
+        "image": "https://gogocdn.net/cover/golden-kamuy-3rd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40059,
+        "aniId": 110355,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4078": {
+        "identifier": "4078",
+        "malId": 40059,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Golden Kamuy 3rd Season",
+        "url": "https://animepahe.com/a/4078"
+      }
+    },
+    "AniMixPlay": {
+      "40059": {
+        "identifier": "40059",
+        "malId": 40059,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Golden Kamuy 3rd Season",
+        "url": "https://animixplay.to/anime/40059"
+      }
+    },
+    "YugenAnime": {
+      "6498": {
+        "identifier": "6498",
+        "malId": 40059,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Golden Kamuy 3rd Season",
+        "url": "https://yugen.to/anime/6498/golden-kamuy-3rd-season/"
+      }
+    }
+  }
+}

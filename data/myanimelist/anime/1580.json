@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T15:38:19.000Z",
+  "updatedAt": "2022-05-14T20:21:29.000Z",
+  "checkedAt": "2022-05-14T20:21:29.000Z",
+  "id": 1580,
+  "type": "anime",
+  "title": "Mouryou Senki Madara",
+  "altTitle": [
+    "Madara",
+    "魍魎戦記 MADARA[摩陀羅]"
+  ],
+  "url": "https://myanimelist.net/anime/1580/Mouryou_Senki_Madara",
+  "image": "https://cdn.myanimelist.net/images/anime/1092/112279.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1415"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1004"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%AD%8D%E9%AD%8E%E6%88%A6%E8%A8%98MADARA%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1415,
+  "Pages": {
+    "9anime": {
+      "w09l": {
+        "createdAt": "2020-10-12T15:56:03.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9574,
+        "identifier": "w09l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mouryou Senki Madara",
+        "url": "https://9anime.to/watch/mouryou-senki-madara.w09l",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nEDk6lH8WXw/WKBfwvbDI2I/AAAAAAABctg/vMnMOPz9H1k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1580,
+        "aniId": 1580,
+        "deletedAt": null
+      },
+      "x0pw": {
+        "createdAt": "2020-10-12T15:56:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10037,
+        "identifier": "x0pw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mouryou Senki Madara (Dub)",
+        "url": "https://9anime.to/watch/mouryou-senki-madara-dub.x0pw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ULyCGXOedzw/WKBfw6uAj-I/AAAAAAABctk/OHEtxmqYpEg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1580,
+        "aniId": 1580,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1580": {
+        "identifier": "1580",
+        "malId": 1580,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mouryou Senki Madara",
+        "url": "https://animixplay.to/anime/1580"
+      }
+    }
+  }
+}

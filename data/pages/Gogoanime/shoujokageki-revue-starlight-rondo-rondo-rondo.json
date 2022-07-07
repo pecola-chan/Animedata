@@ -1,0 +1,74 @@
+{
+  "createdAt": "2021-03-25T15:19:04.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35936,
+  "identifier": "shoujokageki-revue-starlight-rondo-rondo-rondo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+  "url": "https://gogoanime.vc/category/shoujokageki-revue-starlight-rondo-rondo-rondo",
+  "image": "https://gogocdn.net/cover/shoujokageki-revue-starlight-rondo-rondo-rondo.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 40665,
+  "aniId": 113023,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:13.000Z",
+    "updatedAt": "2022-05-14T17:47:29.000Z",
+    "checkedAt": "2022-05-14T17:47:29.000Z",
+    "id": 40665,
+    "type": "anime",
+    "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+    "altTitle": [
+      "Saiseisan Soushuuhen Shoujo☆Kageki Revue Starlight",
+      "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
+    ],
+    "url": "https://myanimelist.net/anime/40665/Shoujo☆Kageki_Revue_Starlight__Rondo_Rondo_Rondo",
+    "image": "https://cdn.myanimelist.net/images/anime/1542/108494.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://cinema.revuestarlight.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15254"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22992"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Revue_Starlight"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 15254
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:45:59.000Z",
+    "updatedAt": "2022-05-15T10:26:11.000Z",
+    "checkedAt": "2022-05-15T10:26:11.000Z",
+    "id": 113023,
+    "type": "anime",
+    "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+    "altTitle": [
+      "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
+    ],
+    "url": "https://anilist.co/anime/113023",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113023-ppUSdBgb9pzc.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 40665,
+    "deletedAt": null
+  }
+}

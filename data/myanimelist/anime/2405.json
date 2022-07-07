@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-15T07:16:04.000Z",
+  "checkedAt": "2022-05-15T07:16:04.000Z",
+  "id": 2405,
+  "type": "anime",
+  "title": "Hello! Lady Lynn",
+  "altTitle": [
+    "Hello! Lady Lin",
+    "Gwendoline season 2",
+    "ハロー! レディリン"
+  ],
+  "url": "https://myanimelist.net/anime/2405/Hello_Lady_Lynn",
+  "image": "https://cdn.myanimelist.net/images/anime/4/16819.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/hellolady/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2067"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1528"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hello!_Lady_Lynn"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2067,
+  "Pages": {
+    "9anime": {
+      "j192": {
+        "createdAt": "2020-10-12T15:51:58.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4598,
+        "identifier": "j192",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hello! Lady Lynn",
+        "url": "https://9anime.to/watch/hello-lady-lynn.j192",
+        "image": "https://static.akacdn.ru/files/images/2018/04/432820e6a2115771a3570a6de0686792.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2405,
+        "aniId": 2405,
+        "deletedAt": null
+      }
+    }
+  }
+}

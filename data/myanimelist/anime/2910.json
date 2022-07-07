@@ -1,0 +1,79 @@
+{
+  "createdAt": "2020-10-12T15:38:33.000Z",
+  "updatedAt": "2022-05-15T08:11:14.000Z",
+  "checkedAt": "2022-05-15T08:11:14.000Z",
+  "id": 2910,
+  "type": "anime",
+  "title": "Koi Koi 7 Specials",
+  "altTitle": [
+    "KK7",
+    "Koikoi7",
+    "Koi Koi 7",
+    "Koikoi Seven",
+    "Koi Koi Seven",
+    "DVD Omake",
+    "DVD Extra 2",
+    "Love Love 7 DVD Specials",
+    "こいこい7"
+  ],
+  "url": "https://myanimelist.net/anime/2910/Koi_Koi_7_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/3/59829.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2831"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Koi_Koi_Seven#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2831,
+  "Pages": {
+    "9anime": {
+      "455o": {
+        "createdAt": "2020-10-12T15:50:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2128,
+        "identifier": "455o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Love 7 DVD Specials",
+        "url": "https://9anime.to/watch/love-love-7-dvd-specials.455o",
+        "image": "https://static.akacdn.ru/files/images/2018/02/9693a04104c5db51a6003efbf4f4592f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2910,
+        "aniId": 2910,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2910": {
+        "identifier": "2910",
+        "malId": 2910,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Koi Koi 7 Specials",
+        "url": "https://animixplay.to/anime/2910"
+      }
+    },
+    "YugenAnime": {
+      "1513": {
+        "identifier": "1513",
+        "malId": 2910,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Koi Koi 7 Specials",
+        "url": "https://yugen.to/anime/1513/koikoi-7-extra/"
+      }
+    }
+  }
+}

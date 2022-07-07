@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:39:25.000Z",
+  "updatedAt": "2022-05-14T21:39:59.000Z",
+  "checkedAt": "2022-05-14T21:39:59.000Z",
+  "id": 22057,
+  "type": "anime",
+  "title": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+  "altTitle": [
+    "Inari, Konkon, Koi Iroha. Episode 11",
+    "いなり、こんこん、恋いろは。いなり、コンコン、蝉しぐれ。"
+  ],
+  "url": "https://myanimelist.net/anime/22057/Inari_Konkon_Koi_Iroha__Inari_Konkon_Semishigure",
+  "image": "https://cdn.myanimelist.net/images/anime/5/64903.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.inarikonkon.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10391"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Inari,_Konkon,_Koi_Iroha"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10391,
+  "Pages": {
+    "9anime": {
+      "ppkj": {
+        "createdAt": "2020-10-12T15:54:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8063,
+        "identifier": "ppkj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+        "url": "https://9anime.to/watch/inari-konkon-koi-iroha-inari-konkon-semishigure.ppkj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-1kB5JmP2hgQ/V6mddg5s7nI/AAAAAAAA1qA/7Vcu72q8fpc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 22057,
+        "aniId": 20598,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1250": {
+        "identifier": "1250",
+        "malId": 22057,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+        "url": "https://animepahe.com/a/1250"
+      }
+    },
+    "AniMixPlay": {
+      "22057": {
+        "identifier": "22057",
+        "malId": 22057,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",
+        "url": "https://animixplay.to/anime/22057"
+      }
+    }
+  }
+}

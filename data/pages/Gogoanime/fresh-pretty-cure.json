@@ -1,0 +1,75 @@
+{
+  "createdAt": "2021-09-30T19:33:14.000Z",
+  "updatedAt": "2021-09-30T20:00:52.000Z",
+  "checkedAt": null,
+  "id": 38786,
+  "identifier": "fresh-pretty-cure",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Fresh Pretty Cure",
+  "url": "https://gogoanime.pe/category/fresh-pretty-cure",
+  "image": "https://gogocdn.net/images/anime/F/fresh-pretty-cure.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5684,
+  "aniId": 5684,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-14T16:43:26.000Z",
+    "checkedAt": "2022-05-14T16:43:26.000Z",
+    "id": 5684,
+    "type": "anime",
+    "title": "Fresh Precure!",
+    "altTitle": [
+      "Fresh Pretty Cure",
+      "フレッシュプリキュア！"
+    ],
+    "url": "https://myanimelist.net/anime/5684/Fresh_Precure",
+    "image": "https://cdn.myanimelist.net/images/anime/9/21267.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/fresh_precure/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6280"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10499"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fresh_Pretty_Cure!"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6280
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T13:50:47.000Z",
+    "checkedAt": "2022-05-15T13:50:47.000Z",
+    "id": 5684,
+    "type": "anime",
+    "title": "Fresh Precure!",
+    "altTitle": [
+      "フレッシュプリキュア！",
+      "Fresh Pretty Cure"
+    ],
+    "url": "https://anilist.co/anime/5684",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5684-Xi5YtqeV7Hm8.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 5684,
+    "deletedAt": null
+  }
+}

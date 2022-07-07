@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T19:27:18.000Z",
+  "checkedAt": "2022-05-14T19:27:18.000Z",
+  "id": 9776,
+  "type": "anime",
+  "title": "A-Channel",
+  "altTitle": [
+    "A-Channel: The Animation",
+    "A-Channel",
+    "Aチャンネル"
+  ],
+  "url": "https://myanimelist.net/anime/9776/A-Channel",
+  "image": "https://cdn.myanimelist.net/images/anime/1333/110595.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.a-ch.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8107"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12112"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/A_Channel_%28manga%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8107,
+  "Pages": {
+    "9anime": {
+      "52wq": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2493,
+        "identifier": "52wq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A-Channel",
+        "url": "https://9anime.to/watch/a-channel.52wq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DhPXNVip9Eg/V47uT2ColQI/AAAAAAAAwjw/ghapWqn5KwI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9776,
+        "aniId": 9776,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "a-channel": {
+        "createdAt": "2020-10-12T15:59:45.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16342,
+        "identifier": "a-channel",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "A Channel",
+        "url": "https://gogoanime.vc/category/a-channel",
+        "image": "https://images.gogoanime.tv/images/anime/a-channel8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9776,
+        "aniId": 9776,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "150": {
+        "identifier": "150",
+        "malId": 9776,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "A-Channel",
+        "url": "https://animepahe.com/a/150"
+      }
+    },
+    "AniMixPlay": {
+      "9776": {
+        "identifier": "9776",
+        "malId": 9776,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "A-Channel",
+        "url": "https://animixplay.to/anime/9776"
+      }
+    },
+    "YugenAnime": {
+      "822": {
+        "identifier": "822",
+        "malId": 9776,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "A-Channel",
+        "url": "https://yugen.to/anime/822/a-channel/"
+      }
+    }
+  }
+}

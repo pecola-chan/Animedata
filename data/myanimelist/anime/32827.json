@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2022-05-14T16:41:27.000Z",
+  "checkedAt": "2022-05-14T16:41:27.000Z",
+  "id": 32827,
+  "type": "anime",
+  "title": "B: The Beginning",
+  "altTitle": [
+    "B: The Beginning",
+    "B: The Beginning"
+  ],
+  "url": "https://myanimelist.net/anime/32827/B__The_Beginning",
+  "image": "https://cdn.myanimelist.net/images/anime/1564/90469.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.b-animation.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11950"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19987"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/B_the_Beginning"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11950,
+  "Pages": {
+    "9anime": {
+      "mnx8": {
+        "createdAt": "2020-10-12T15:53:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6648,
+        "identifier": "mnx8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B: The Beginning",
+        "url": "https://9anime.to/watch/b-the-beginning.mnx8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/6b3969559c26453d498df6e93ea3deae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32827,
+        "aniId": 21665,
+        "deletedAt": null
+      },
+      "wvj4": {
+        "createdAt": "2020-10-12T15:56:15.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9919,
+        "identifier": "wvj4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B: The Beginning (Dub)",
+        "url": "https://9anime.to/watch/b-the-beginning-dub.wvj4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/03/0f26b962906f42f1ace428e84e6fee21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32827,
+        "aniId": 21665,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "b-the-beginning": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16658,
+        "identifier": "b-the-beginning",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "B: The Beginning",
+        "url": "https://gogoanime.vc/category/b-the-beginning",
+        "image": "https://cdnimg.xyz/cover/b-the-beginning.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32827,
+        "aniId": 21665,
+        "deletedAt": null
+      },
+      "b-the-beginning-dub": {
+        "createdAt": "2021-02-18T16:14:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34916,
+        "identifier": "b-the-beginning-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "B: The Beginning (Dub)",
+        "url": "https://gogoanime.vc/category/b-the-beginning-dub",
+        "image": "https://gogocdn.net/cover/b-the-beginning-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32827,
+        "aniId": 21665,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2466": {
+        "identifier": "2466",
+        "malId": 32827,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "B: The Beginning",
+        "url": "https://animepahe.com/a/2466"
+      }
+    },
+    "AniMixPlay": {
+      "32827": {
+        "identifier": "32827",
+        "malId": 32827,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "B: The Beginning",
+        "url": "https://animixplay.to/anime/32827"
+      }
+    },
+    "YugenAnime": {
+      "1315": {
+        "identifier": "1315",
+        "malId": 32827,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "B: The Beginning",
+        "url": "https://yugen.to/anime/1315/b-the-beginning/"
+      }
+    }
+  }
+}

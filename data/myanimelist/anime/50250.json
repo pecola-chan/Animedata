@@ -1,0 +1,100 @@
+{
+  "createdAt": "2022-03-20T18:23:16.000Z",
+  "updatedAt": "2022-05-14T19:23:41.000Z",
+  "checkedAt": "2022-05-14T19:23:41.000Z",
+  "id": 50250,
+  "type": "anime",
+  "title": "Chiikawa",
+  "altTitle": [
+    "ちいかわ"
+  ],
+  "url": "https://myanimelist.net/anime/50250/Chiikawa",
+  "image": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.anime-chiikawa.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16943"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24912"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chiikawa"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16943,
+  "Pages": {
+    "9anime": {
+      "prjqx": {
+        "createdAt": "2022-04-04T13:31:22.000Z",
+        "updatedAt": "2022-04-06T12:30:22.000Z",
+        "checkedAt": null,
+        "id": 40626,
+        "identifier": "prjqx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chiikawa",
+        "url": "https://9anime.to/watch/chiikawa.prjqx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0b/0b1fc1a61b694abaacd315dbde6d80d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50250,
+        "aniId": 140842,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chiikawa": {
+        "createdAt": "2022-04-08T11:00:33.000Z",
+        "updatedAt": "2022-04-08T11:30:22.000Z",
+        "checkedAt": null,
+        "id": 40666,
+        "identifier": "chiikawa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chiikawa",
+        "url": "https://gogoanime.fi/category/chiikawa",
+        "image": "https://gogocdn.net/cover/chiikawa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50250,
+        "aniId": 140842,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "50250": {
+        "identifier": "50250",
+        "malId": 50250,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chiikawa",
+        "url": "https://animixplay.to/anime/50250"
+      }
+    },
+    "YugenAnime": {
+      "11886": {
+        "identifier": "11886",
+        "malId": 50250,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chiikawa",
+        "url": "https://yugen.to/anime/11886/chiikawa/"
+      }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-14T20:41:46.000Z",
+  "checkedAt": "2022-05-14T20:41:46.000Z",
+  "id": 591,
+  "type": "anime",
+  "title": "Amaenaide yo!!",
+  "altTitle": [
+    "Amaenaideyo!!",
+    "Ah My Buddha",
+    "あまえないでよっ!!"
+  ],
+  "url": "https://myanimelist.net/anime/591/Amaenaide_yo",
+  "image": "https://cdn.myanimelist.net/images/anime/2/32071.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vap.co.jp/amae/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3168"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5381"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ah_My_Buddha"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270215"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 3168,
+  "Pages": {
+    "9anime": {
+      "9o5q": {
+        "createdAt": "2020-10-12T15:51:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4380,
+        "identifier": "9o5q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amaenaide yo!!",
+        "url": "https://9anime.to/watch/amaenaide-yo.9o5q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-CLEJvzqXVLs/V5Ygx6I5DbI/AAAAAAAAx9I/QO5mIHYPK2U/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 591,
+        "aniId": 591,
+        "deletedAt": null
+      },
+      "k274": {
+        "createdAt": "2020-10-12T15:52:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5203,
+        "identifier": "k274",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Amaenaide yo!! (Dub)",
+        "url": "https://9anime.to/watch/amaenaide-yo-dub.k274",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iBHnsUJd4VM/V_mjSeX1rbI/AAAAAAABFag/rJ1-V5OwK7Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 591,
+        "aniId": 591,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "amaenaide-yo-dub": {
+        "createdAt": "2020-10-12T15:59:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16497,
+        "identifier": "amaenaide-yo-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amaenaide yo!! (Dub)",
+        "url": "https://gogoanime.vc/category/amaenaide-yo-dub",
+        "image": "https://cdnimg.xyz/cover/amaenaide-yo-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 591,
+        "aniId": 591,
+        "deletedAt": null
+      },
+      "amaenaideyo": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16498,
+        "identifier": "amaenaideyo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amaenaideyo",
+        "url": "https://gogoanime.vc/category/amaenaideyo",
+        "image": "https://cdnimg.xyz/images/anime/amaenaideyo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 591,
+        "aniId": 591,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "591": {
+        "identifier": "591",
+        "malId": 591,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Amaenaide yo!!",
+        "url": "https://animixplay.to/anime/591"
+      }
+    },
+    "YugenAnime": {
+      "133": {
+        "identifier": "133",
+        "malId": 591,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Amaenaide yo!!",
+        "url": "https://yugen.to/anime/133/amaenaide-yo/"
+      }
+    }
+  }
+}

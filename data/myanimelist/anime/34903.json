@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:52.000Z",
+  "updatedAt": "2022-05-14T16:16:45.000Z",
+  "checkedAt": "2022-05-14T16:16:45.000Z",
+  "id": 34903,
+  "type": "anime",
+  "title": "RoboMasters the Animated Series",
+  "altTitle": [
+    "ROBOMASTERS THE ANIMATED SERIES"
+  ],
+  "url": "https://myanimelist.net/anime/34903/RoboMasters_the_Animated_Series",
+  "image": "https://cdn.myanimelist.net/images/anime/11/86297.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.robomasters.com/jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12815"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12815,
+  "Pages": {
+    "9anime": {
+      "78m1": {
+        "createdAt": "2020-10-12T15:51:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3397,
+        "identifier": "78m1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ROBOMASTERS THE ANIMATED SERIES",
+        "url": "https://9anime.to/watch/robomasters-the-animated-series.78m1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ctj2NmtiO7c/WNXcVqWKKII/AAAAAAABgeI/p55n8aDnro8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34903,
+        "aniId": 98526,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "robomasters-the-animated-series": {
+        "createdAt": "2020-10-12T16:01:43.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20309,
+        "identifier": "robomasters-the-animated-series",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "RoboMasters the Animated Series",
+        "url": "https://gogoanime.vc/category/robomasters-the-animated-series",
+        "image": "https://images.gogoanime.tv/cover/robomasters-the-animated-series.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34903,
+        "aniId": 98526,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34903": {
+        "identifier": "34903",
+        "malId": 34903,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "RoboMasters the Animated Series",
+        "url": "https://animixplay.to/anime/34903"
+      }
+    },
+    "YugenAnime": {
+      "6212": {
+        "identifier": "6212",
+        "malId": 34903,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "RoboMasters the Animated Series",
+        "url": "https://yugen.to/anime/6212/robomasters-the-animated-series/"
+      }
+    }
+  }
+}

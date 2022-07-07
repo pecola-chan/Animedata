@@ -1,0 +1,129 @@
+{
+  "createdAt": "2020-10-12T15:38:17.000Z",
+  "updatedAt": "2022-05-14T18:47:23.000Z",
+  "checkedAt": "2022-05-14T18:47:23.000Z",
+  "id": 1469,
+  "type": "anime",
+  "title": "Monster Farm: Enbanseki no Himitsu",
+  "altTitle": [
+    "Monster Rancher",
+    "モンスターファーム"
+  ],
+  "url": "https://myanimelist.net/anime/1469/Monster_Farm__Enbanseki_no_Himitsu",
+  "image": "https://cdn.myanimelist.net/images/anime/1044/113641.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/tv/data/t_mf1.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2908"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=500"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Monster_Rancher_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2908,
+  "Pages": {
+    "9anime": {
+      "17qw": {
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2022-06-14T03:05:00.000Z",
+        "checkedAt": "2022-06-14T03:05:00.000Z",
+        "id": 891,
+        "identifier": "17qw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Monster Farm: Enbanseki no Himitsu",
+        "url": "https://9anime.to/watch/monster-rancher.17qw",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ba2e3e236cdce92ca99db83f303a0a18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1469,
+        "aniId": 1469,
+        "deletedAt": null
+      },
+      "x2q3": {
+        "createdAt": "2020-10-12T15:56:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10081,
+        "identifier": "x2q3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Monster Farm: Enbanseki no Himitsu (Dub)",
+        "url": "https://9anime.to/watch/monster-farm-enbanseki-no-himitsu-dub.x2q3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XVDdq_cCmkQ/V9GZljXbmkI/AAAAAAAA8nw/Ntg6TizPDX8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1469,
+        "aniId": 1469,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "monster-rancher": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19545,
+        "identifier": "monster-rancher",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Monster Rancher",
+        "url": "https://gogoanime.vc/category/monster-rancher",
+        "image": "https://cdnimg.xyz/images/anime/M/monster-rancher.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1469,
+        "aniId": 1469,
+        "deletedAt": null
+      },
+      "monster-rancher-dub": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19546,
+        "identifier": "monster-rancher-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Monster Rancher (Dub)",
+        "url": "https://gogoanime.vc/category/monster-rancher-dub",
+        "image": "https://cdnimg.xyz/cover/monster-rancher-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1469,
+        "aniId": 1469,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1469": {
+        "identifier": "1469",
+        "malId": 1469,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Monster Farm: Enbanseki no Himitsu",
+        "url": "https://animixplay.to/anime/1469"
+      }
+    }
+  }
+}

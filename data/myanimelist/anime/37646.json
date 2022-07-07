@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-15T01:34:11.000Z",
+  "checkedAt": "2022-05-15T01:34:11.000Z",
+  "id": 37646,
+  "type": "anime",
+  "title": "Hataraku Onii-san! no 2!",
+  "altTitle": [
+    "Working Buddies! No 2!",
+    "働くお兄さん！の2！"
+  ],
+  "url": "https://myanimelist.net/anime/37646/Hataraku_Onii-san_no_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1250/95044.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hataoni.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13995"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21104"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%83%8D%E3%81%8F%E3%81%8A%E5%85%84%E3%81%95%E3%82%93!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275195"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13995,
+  "Pages": {
+    "9anime": {
+      "yoyx": {
+        "createdAt": "2020-10-12T15:56:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10783,
+        "identifier": "yoyx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Working Buddies! No 2!",
+        "url": "https://9anime.to/watch/working-buddies-no-2.yoyx",
+        "image": "http://static.akacdn.ru/static/images/2018/05/2ec54354ffa90a15fca7d3c286b2d7cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37646,
+        "aniId": 101435,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hataraku-onii-san-no-2": {
+        "createdAt": "2020-10-12T16:00:40.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18193,
+        "identifier": "hataraku-onii-san-no-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Onii-san! No 2!",
+        "url": "https://gogoanime.vc/category/hataraku-onii-san-no-2",
+        "image": "https://cdnimg.xyz/cover/hataraku-onii-san-no-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37646,
+        "aniId": 101435,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2663": {
+        "identifier": "2663",
+        "malId": 37646,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hataraku Onii-san! no 2!",
+        "url": "https://animepahe.com/a/2663"
+      }
+    },
+    "AniMixPlay": {
+      "37646": {
+        "identifier": "37646",
+        "malId": 37646,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hataraku Onii-san! no 2!",
+        "url": "https://animixplay.to/anime/37646"
+      }
+    },
+    "YugenAnime": {
+      "6366": {
+        "identifier": "6366",
+        "malId": 37646,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hataraku Onii-san! no 2!",
+        "url": "https://yugen.to/anime/6366/hataraku-onii-san-no-2/"
+      }
+    }
+  }
+}

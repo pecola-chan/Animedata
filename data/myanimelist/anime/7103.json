@@ -1,0 +1,72 @@
+{
+  "createdAt": "2020-10-12T15:38:54.000Z",
+  "updatedAt": "2022-05-13T23:21:59.000Z",
+  "checkedAt": "2022-05-13T23:21:59.000Z",
+  "id": 7103,
+  "type": "anime",
+  "title": "Miracle☆Train: Oedo-sen e Youkoso",
+  "altTitle": [
+    "Miracle☆Train: Ooedo-sen e Youkoso",
+    "Miracle Train: Welcome to the Oedo Line",
+    "ミラクル☆トレイン〜大江戸線へようこそ〜"
+  ],
+  "url": "https://myanimelist.net/anime/7103/Miracle☆Train__Oedo-sen_e_Youkoso",
+  "image": "https://cdn.myanimelist.net/images/anime/9/75568.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://miracletrain.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6794"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10763"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-192183"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6794,
+  "Pages": {
+    "9anime": {
+      "x08v": {
+        "createdAt": "2020-10-12T15:56:21.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10029,
+        "identifier": "x08v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Miracle☆Train: Oedo-sen e Youkoso",
+        "url": "https://9anime.to/watch/miracletrain-oedo-sen-e-youkoso.x08v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6vvoGD_DvNs/WKvYzAqifdI/AAAAAAABdkY/thq69nWeeYs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7103,
+        "aniId": 7103,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7103": {
+        "identifier": "7103",
+        "malId": 7103,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Miracle☆Train: Oedo-sen e Youkoso",
+        "url": "https://animixplay.to/anime/7103"
+      }
+    }
+  }
+}

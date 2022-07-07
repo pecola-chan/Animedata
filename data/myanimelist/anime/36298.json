@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-15T00:07:41.000Z",
+  "checkedAt": "2022-05-15T00:07:41.000Z",
+  "id": 36298,
+  "type": "anime",
+  "title": "Robot Girls Z: Fukkatsu no Chika Teikoku!? Robot Girls Z vs. Nazo no Sandai Shuyaku Robo!",
+  "altTitle": [
+    "ロボットガールズＺ「復活の地下帝国！？ロボットガールズＺ ｖｓ なぞの三大主役ロボ！」"
+  ],
+  "url": "https://myanimelist.net/anime/36298/Robot_Girls_Z__Fukkatsu_no_Chika_Teikoku_Robot_Girls_Z_vs_Nazo_no_Sandai_Shuyaku_Robo",
+  "image": "https://cdn.myanimelist.net/images/anime/1372/95234.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.toei-video.co.jp/special/rgz/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Robot_Girls_Z"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "ny5l": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2022-06-14T03:07:20.000Z",
+        "checkedAt": "2022-06-14T03:07:20.000Z",
+        "id": 7295,
+        "identifier": "ny5l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Robot Girls Z Petit Chara Anime",
+        "url": "https://9anime.to/watch/robot-girls-z-petit-chara-anime.ny5l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/05/e9faac7876b81f6df7ee59a7f383f17a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36298,
+        "aniId": 125642,
+        "deletedAt": null
+      }
+    }
+  }
+}

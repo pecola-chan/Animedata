@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T22:27:35.000Z",
+  "checkedAt": "2022-05-14T22:27:35.000Z",
+  "id": 6604,
+  "type": "anime",
+  "title": "Kuruneko",
+  "altTitle": [
+    "Kuru Neko",
+    "くるねこ"
+  ],
+  "url": "https://myanimelist.net/anime/6604/Kuruneko",
+  "image": "https://cdn.myanimelist.net/images/anime/6/20591.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kuruneko-komichi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6619"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10914"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kuruneko"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6619,
+  "Pages": {
+    "9anime": {
+      "j968": {
+        "createdAt": "2020-10-12T15:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4814,
+        "identifier": "j968",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuruneko",
+        "url": "https://9anime.to/watch/kuruneko.j968",
+        "image": "http://static.akacdn.ru/static/images/2018/06/d50c21b8a8d3149f9e526c6b75af58d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6604,
+        "aniId": 6604,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kuruneko": {
+        "createdAt": "2021-01-29T14:27:26.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34328,
+        "identifier": "kuruneko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kuruneko",
+        "url": "https://gogoanime.vc/category/kuruneko",
+        "image": "https://gogocdn.net/cover/kuruneko.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6604,
+        "aniId": 6604,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6604": {
+        "identifier": "6604",
+        "malId": 6604,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kuruneko",
+        "url": "https://animixplay.to/anime/6604"
+      }
+    },
+    "YugenAnime": {
+      "7206": {
+        "identifier": "7206",
+        "malId": 6604,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kuruneko",
+        "url": "https://yugen.to/anime/7206/kuruneko/"
+      }
+    }
+  }
+}

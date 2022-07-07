@@ -1,0 +1,142 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T20:40:41.000Z",
+  "checkedAt": "2022-05-14T20:40:41.000Z",
+  "id": 40154,
+  "type": "anime",
+  "title": "Hero Mask 2nd Season",
+  "altTitle": [
+    "Hero Mask Part 2",
+    "Hero Mask",
+    "ヒーローマスク"
+  ],
+  "url": "https://myanimelist.net/anime/40154/Hero_Mask_2nd_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/1960/102191.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://heromask.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15021"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15021,
+  "Pages": {
+    "9anime": {
+      "3mk9": {
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1838,
+        "identifier": "3mk9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hero Mask (2019) (Dub)",
+        "url": "https://9anime.to/watch/hero-mask-2019-dub.3mk9",
+        "image": "https://static.akacdn.ru/files/images/2019/08/84a6b7557cf0ec8debe7129a6ae3bf0b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "deletedAt": null
+      },
+      "xylw": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2022-06-14T03:14:37.000Z",
+        "checkedAt": "2022-06-14T03:14:37.000Z",
+        "id": 10443,
+        "identifier": "xylw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "HERO MASK part II",
+        "url": "https://9anime.to/watch/hero-mask-part-ii.xylw",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/08/91d254c3df4b6e55ea474177ea588743.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hero-mask-2019": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18239,
+        "identifier": "hero-mask-2019",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hero Mask (2019)",
+        "url": "https://gogoanime.vc/category/hero-mask-2019",
+        "image": "https://cdnimg.xyz/cover/hero-mask-2019.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "deletedAt": null
+      },
+      "hero-mask-2019-dub": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18240,
+        "identifier": "hero-mask-2019-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hero Mask (2019) (Dub)",
+        "url": "https://gogoanime.vc/category/hero-mask-2019-dub",
+        "image": "https://cdnimg.xyz/cover/hero-mask-2019-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3410": {
+        "identifier": "3410",
+        "malId": 40154,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hero Mask 2nd Season",
+        "url": "https://animepahe.com/a/3410"
+      }
+    },
+    "AniMixPlay": {
+      "40154": {
+        "identifier": "40154",
+        "malId": 40154,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hero Mask 2nd Season",
+        "url": "https://animixplay.to/anime/40154"
+      }
+    },
+    "YugenAnime": {
+      "3331": {
+        "identifier": "3331",
+        "malId": 40154,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hero Mask (2019)",
+        "url": "https://yugen.to/anime/3331/hero-mask-2019/"
+      }
+    }
+  }
+}

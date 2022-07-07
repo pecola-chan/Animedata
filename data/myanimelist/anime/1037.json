@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-15T09:06:15.000Z",
+  "checkedAt": "2022-05-15T09:06:15.000Z",
+  "id": 1037,
+  "type": "anime",
+  "title": "Saint Beast: Seijuu Kourin-hen",
+  "altTitle": [
+    "セイント・ビースト～聖獣降臨編～"
+  ],
+  "url": "https://myanimelist.net/anime/1037/Saint_Beast__Seijuu_Kourin-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/11/23705.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wonderfarm.co.jp/s-beast/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=579"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=81"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Beast"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 579,
+  "Pages": {
+    "9anime": {
+      "8npy": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3943,
+        "identifier": "8npy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint Beast: Seijuu Kourin-hen",
+        "url": "https://9anime.to/watch/saint-beast-seijuu-kourin-hen.8npy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-u4pX7w3T3qo/V6S0_JlM_hI/AAAAAAAA0hQ/xcFYK43DAuU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1037,
+        "aniId": 1037,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1037": {
+        "identifier": "1037",
+        "malId": 1037,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint Beast: Seijuu Kourin-hen",
+        "url": "https://animixplay.to/anime/1037"
+      }
+    }
+  }
+}

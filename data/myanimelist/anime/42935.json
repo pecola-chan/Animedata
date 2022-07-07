@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-12-21T08:26:34.000Z",
+  "updatedAt": "2022-05-20T09:39:03.000Z",
+  "checkedAt": "2022-05-20T09:39:03.000Z",
+  "id": 42935,
+  "type": "anime",
+  "title": "Sakugasaku",
+  "altTitle": [
+    "サクガサク"
+  ],
+  "url": "https://myanimelist.net/anime/42935/Sakugasaku",
+  "image": "https://cdn.myanimelist.net/images/anime/1227/109345.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.witstudio.co.jp/news/2020/09/511.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15725"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15725,
+  "Pages": {
+    "9anime": {
+      "xm38": {
+        "createdAt": "2021-01-01T13:03:00.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 32459,
+        "identifier": "xm38",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakugasaku",
+        "url": "https://9anime.to/watch/sakugasaku.xm38",
+        "image": "//static.9anime.to/i/cache/images/a/a7/a72b2988190428c0b5bf58881ca5259f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42935,
+        "aniId": 123948,
+        "deletedAt": null
+      }
+    }
+  }
+}

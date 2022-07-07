@@ -1,0 +1,154 @@
+{
+  "createdAt": "2021-06-29T10:11:18.000Z",
+  "updatedAt": "2022-05-14T16:01:21.000Z",
+  "checkedAt": "2022-05-14T16:01:21.000Z",
+  "id": 42544,
+  "type": "anime",
+  "title": "Kaizoku Oujo",
+  "altTitle": [
+    "Fena: Pirate Princess",
+    "海賊王女"
+  ],
+  "url": "https://myanimelist.net/anime/42544/Kaizoku_Oujo",
+  "image": "https://cdn.myanimelist.net/images/anime/1607/117951.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://fena-pirate-princess.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15656"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24461"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fena:_Pirate_Princess"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281750"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15656,
+  "Pages": {
+    "9anime": {
+      "w1987": {
+        "createdAt": "2021-08-15T05:07:00.000Z",
+        "updatedAt": "2022-03-19T05:20:12.000Z",
+        "checkedAt": null,
+        "id": 38301,
+        "identifier": "w1987",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaizoku Oujo",
+        "url": "https://9anime.to/watch/fena-pirate-princess.w1987",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/08/084f9639593ccf42ac0c5cb48ea79c99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42544,
+        "aniId": 122052,
+        "deletedAt": null
+      },
+      "52rnv": {
+        "createdAt": "2021-08-15T11:07:32.000Z",
+        "updatedAt": "2021-08-15T11:36:59.000Z",
+        "checkedAt": null,
+        "id": 38304,
+        "identifier": "52rnv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaizoku Oujo (Dub)",
+        "url": "https://9anime.to/watch/fena-pirate-princess-dub.52rnv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5f/5f75decfb01b60df2027fa3dbcb853df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42544,
+        "aniId": 122052,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaizoku-oujo": {
+        "createdAt": "2021-08-15T05:08:34.000Z",
+        "updatedAt": "2021-08-15T05:36:59.000Z",
+        "checkedAt": null,
+        "id": 38303,
+        "identifier": "kaizoku-oujo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaizoku Oujo",
+        "url": "https://gogoanime.pe/category/kaizoku-oujo",
+        "image": "https://gogocdn.net/cover/kaizoku-oujo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42544,
+        "aniId": 122052,
+        "deletedAt": null
+      },
+      "kaizoku-oujo-dub": {
+        "createdAt": "2021-08-15T12:39:10.000Z",
+        "updatedAt": "2021-08-15T13:06:59.000Z",
+        "checkedAt": null,
+        "id": 38310,
+        "identifier": "kaizoku-oujo-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaizoku Oujo (Dub)",
+        "url": "https://gogoanime.pe/category/kaizoku-oujo-dub",
+        "image": "https://gogocdn.net/cover/kaizoku-oujo-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42544,
+        "aniId": 122052,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4496": {
+        "identifier": "4496",
+        "malId": 42544,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kaizoku Oujo",
+        "url": "https://animepahe.com/a/4496"
+      }
+    },
+    "AniMixPlay": {
+      "42544": {
+        "identifier": "42544",
+        "malId": 42544,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaizoku Oujo",
+        "url": "https://animixplay.to/anime/42544"
+      }
+    },
+    "YugenAnime": {
+      "9631": {
+        "identifier": "9631",
+        "malId": 42544,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kaizoku Oujo",
+        "url": "https://yugen.to/anime/9631/kaizoku-oujo/"
+      }
+    }
+  }
+}

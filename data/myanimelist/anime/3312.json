@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T22:45:29.000Z",
+  "checkedAt": "2022-05-14T22:45:29.000Z",
+  "id": 3312,
+  "type": "anime",
+  "title": "Dr. Slump",
+  "altTitle": [
+    "Dr. Slump 2",
+    "Doctor Slump",
+    "ドクタースランプ"
+  ],
+  "url": "https://myanimelist.net/anime/3312/Dr_Slump",
+  "image": "https://cdn.myanimelist.net/images/anime/1475/116861.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/arale_2nd/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=532"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=972"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dr._Slump"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 532,
+  "Pages": {
+    "9anime": {
+      "n74l": {
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7000,
+        "identifier": "n74l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dr. Slump",
+        "url": "https://9anime.to/watch/dr-slump.n74l",
+        "image": "https://static.akacdn.ru/static/images/2018/04/bf7639169a806e975848b95d5b0a0019.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3312,
+        "aniId": 3312,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T21:30:47.000Z",
+  "checkedAt": "2022-05-14T21:30:47.000Z",
+  "id": 2175,
+  "type": "anime",
+  "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+  "altTitle": [
+    "Kino's Journey: The Beautiful World - The Land of Sickness: For You",
+    "Land of Illness",
+    "Land of Disease",
+    "キノの旅 -the Beautiful World- 病気の国 -For You-"
+  ],
+  "url": "https://myanimelist.net/anime/2175/Kino_no_Tabi__The_Beautiful_World_-_Byouki_no_Kuni_-_For_You",
+  "image": "https://cdn.myanimelist.net/images/anime/8/73906.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dengekibunko-movie.com/movie_kino.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4939"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7037"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4939,
+  "Pages": {
+    "9anime": {
+      "5wz0": {
+        "createdAt": "2020-10-12T15:50:37.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2821,
+        "identifier": "5wz0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+        "url": "https://9anime.to/watch/kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you.5wz0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-r50x46FYujA/V7mCDoEaIkI/AAAAAAAA4n8/6EWtU_W4iTQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2175,
+        "aniId": 2175,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1275": {
+        "identifier": "1275",
+        "malId": 2175,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+        "url": "https://animepahe.com/a/1275"
+      }
+    },
+    "AniMixPlay": {
+      "2175": {
+        "identifier": "2175",
+        "malId": 2175,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+        "url": "https://animixplay.to/anime/2175"
+      }
+    }
+  }
+}

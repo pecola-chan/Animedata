@@ -1,0 +1,61 @@
+{
+  "createdAt": "2020-10-12T19:11:08.000Z",
+  "updatedAt": "2022-05-26T16:52:17.000Z",
+  "checkedAt": "2022-05-26T16:52:17.000Z",
+  "id": 9284,
+  "type": "anime",
+  "title": "Bakuhatsu Gorou",
+  "altTitle": [
+    "Bakuhatsu Goro",
+    "Goro the Terrible",
+    "ばくはつ五郎"
+  ],
+  "url": "https://myanimelist.net/anime/9284/Bakuhatsu_Gorou",
+  "image": "https://cdn.myanimelist.net/images/anime/1855/90302.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.eiken-anime.jp/works/works017.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5483"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1201"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%B0%E3%81%8F%E3%81%AF%E3%81%A4%E4%BA%94%E9%83%8E"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5483,
+  "Pages": {
+    "9anime": {
+      "vr12": {
+        "createdAt": "2020-10-12T19:11:17.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23887,
+        "identifier": "vr12",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bakuhatsu Gorou",
+        "url": "https://9anime.to/watch/bakuhatsu-gorou.vr12",
+        "image": "//static.9anime.to/i/cache/images/2018/03/f3f6f22fc1972575ab988761b0b87955.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9284,
+        "aniId": 9284,
+        "deletedAt": null
+      }
+    }
+  }
+}

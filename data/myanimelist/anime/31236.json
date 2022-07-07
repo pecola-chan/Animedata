@@ -1,0 +1,93 @@
+{
+  "createdAt": "2022-01-29T08:51:22.000Z",
+  "updatedAt": "2022-05-15T07:21:52.000Z",
+  "checkedAt": "2022-05-15T07:21:52.000Z",
+  "id": 31236,
+  "type": "anime",
+  "title": "Chieri to Cherry",
+  "altTitle": [
+    "Chieri and Cherry",
+    "ちえりとチェリー"
+  ],
+  "url": "https://myanimelist.net/anime/31236/Chieri_to_Cherry",
+  "image": "https://cdn.myanimelist.net/images/anime/5/78815.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.chieriandcherry.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11371"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11371,
+  "Pages": {
+    "9anime": {
+      "jvjn4": {
+        "createdAt": "2022-01-29T08:51:21.000Z",
+        "updatedAt": "2022-02-24T02:17:39.000Z",
+        "checkedAt": null,
+        "id": 39985,
+        "identifier": "jvjn4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chieri to Cherry",
+        "url": "https://9anime.to/watch/chieri-and-cherry.jvjn4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/59/5988790659bb10d96f92088d66d69723.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31236,
+        "aniId": 145680,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chieri-to-cherry": {
+        "createdAt": "2022-02-03T12:36:30.000Z",
+        "updatedAt": "2022-02-24T02:17:39.000Z",
+        "checkedAt": null,
+        "id": 40059,
+        "identifier": "chieri-to-cherry",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chieri to Cherry",
+        "url": "https://gogoanime.pe/category/chieri-to-cherry",
+        "image": "https://gogocdn.net/cover/chieri-to-cherry.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31236,
+        "aniId": 145680,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "31236": {
+        "identifier": "31236",
+        "malId": 31236,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chieri to Cherry",
+        "url": "https://animixplay.to/anime/31236"
+      }
+    },
+    "YugenAnime": {
+      "11643": {
+        "identifier": "11643",
+        "malId": 31236,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chieri to Cherry",
+        "url": "https://yugen.to/anime/11643/chieri-to-cherry/"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-15T01:43:24.000Z",
+  "checkedAt": "2022-05-15T01:43:24.000Z",
+  "id": 5710,
+  "type": "anime",
+  "title": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+  "altTitle": [
+    "Chou Gekijouban Keroro Gunso 4",
+    "Chou Gekijouban Keroro Gunso: Gekishin Dragon Warriors de Arimasu!",
+    "超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！"
+  ],
+  "url": "https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu",
+  "image": "https://cdn.myanimelist.net/images/anime/1136/98561.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.keroro-movie.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6095"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10143"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sgt._Frog"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6095,
+  "Pages": {
+    "9anime": {
+      "0qok": {
+        "createdAt": "2020-10-12T15:48:51.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 629,
+        "identifier": "0qok",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+        "url": "https://9anime.to/watch/keroro-gunsou-movie-4-gekishin-dragon-warriors-de-arimasu.0qok",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qxCCTRBpo-0/V62vw49qvkI/AAAAAAAA2jI/RLMTGvoivG8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5710,
+        "aniId": 5710,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5710": {
+        "identifier": "5710",
+        "malId": 5710,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+        "url": "https://animixplay.to/anime/5710"
+      }
+    }
+  }
+}

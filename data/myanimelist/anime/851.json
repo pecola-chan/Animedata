@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:09.000Z",
+  "updatedAt": "2022-05-14T19:51:41.000Z",
+  "checkedAt": "2022-05-14T19:51:41.000Z",
+  "id": 851,
+  "type": "anime",
+  "title": "Kyou kara Ore wa!!",
+  "altTitle": [
+    "Kyou Kara Ore Ha!!",
+    "From Today I'll",
+    "From Today on I am",
+    "From Today, It's My Turn!!",
+    "今日から俺は！！"
+  ],
+  "url": "https://myanimelist.net/anime/851/Kyou_kara_Ore_wa",
+  "image": "https://cdn.myanimelist.net/images/anime/1042/110294.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1560"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2995"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kyō_Kara_Ore_Wa!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1560,
+  "Pages": {
+    "9anime": {
+      "xlzz": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10295,
+        "identifier": "xlzz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyou kara Ore wa!!",
+        "url": "https://9anime.to/watch/kyou-kara-ore-wa.xlzz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-XWBUOdqhyhc/WGUNb9iS1dI/AAAAAAABVfU/FXzhfletbj8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 851,
+        "aniId": 851,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kyou-kara-ore-wa": {
+        "createdAt": "2020-12-22T18:56:07.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30855,
+        "identifier": "kyou-kara-ore-wa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyou kara Ore wa!!",
+        "url": "https://gogoanime.vc/category/kyou-kara-ore-wa",
+        "image": "https://gogocdn.net/cover/kyou-kara-ore-wa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 851,
+        "aniId": 851,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "851": {
+        "identifier": "851",
+        "malId": 851,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kyou kara Ore wa!!",
+        "url": "https://animixplay.to/anime/851"
+      }
+    },
+    "YugenAnime": {
+      "4478": {
+        "identifier": "4478",
+        "malId": 851,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kyou kara Ore wa!!",
+        "url": "https://yugen.to/anime/4478/kyou-kara-ore-wa/"
+      }
+    }
+  }
+}

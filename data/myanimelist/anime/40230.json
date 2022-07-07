@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-05-14T19:50:42.000Z",
+  "checkedAt": "2022-05-14T19:50:42.000Z",
+  "id": 40230,
+  "type": "anime",
+  "title": "Housekishou Richard-shi no Nazo Kantei",
+  "altTitle": [
+    "The Case Files of Jeweler Richard",
+    "宝石商リチャード氏の謎鑑定"
+  ],
+  "url": "https://myanimelist.net/anime/40230/Housekishou_Richard-shi_no_Nazo_Kantei",
+  "image": "https://cdn.myanimelist.net/images/anime/1134/109558.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://jeweler-richard.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15038"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22488"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Case_Files_of_Jeweler_Richard#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278949"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15038,
+  "Pages": {
+    "9anime": {
+      "3mj6": {
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1837,
+        "identifier": "3mj6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Housekishou Richard-shi no Nazo Kantei",
+        "url": "https://9anime.to/watch/housekishou-richard-shi-no-nazo-kantei.3mj6",
+        "image": "https://static.akacdn.ru/files/images/2020/01/d2f95109b131daa36caa6b78cc5a126f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40230,
+        "aniId": 111951,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "housekishou-richard-shi-no-nazo-kantei": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18381,
+        "identifier": "housekishou-richard-shi-no-nazo-kantei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Housekishou Richard-shi no Nazo Kantei",
+        "url": "https://gogoanime.vc/category/housekishou-richard-shi-no-nazo-kantei",
+        "image": "https://cdnimg.xyz/cover/housekishou-richard-shi-no-nazo-kantei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40230,
+        "aniId": 111951,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3664": {
+        "identifier": "3664",
+        "malId": 40230,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Housekishou Richard-shi no Nazo Kantei",
+        "url": "https://animepahe.com/a/3664"
+      }
+    },
+    "AniMixPlay": {
+      "40230": {
+        "identifier": "40230",
+        "malId": 40230,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Housekishou Richard-shi no Nazo Kantei",
+        "url": "https://animixplay.to/anime/40230"
+      }
+    },
+    "YugenAnime": {
+      "5609": {
+        "identifier": "5609",
+        "malId": 40230,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Housekishou Richard-shi no Nazo Kantei",
+        "url": "https://yugen.to/anime/5609/housekishou-richard-shi-no-nazo-kantei/"
+      }
+    }
+  }
+}

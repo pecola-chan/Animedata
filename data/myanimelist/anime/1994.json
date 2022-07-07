@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:24.000Z",
+  "updatedAt": "2022-05-14T22:17:35.000Z",
+  "checkedAt": "2022-05-14T22:17:35.000Z",
+  "id": 1994,
+  "type": "anime",
+  "title": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
+  "altTitle": [
+    ".hack//DUSK Special",
+    ".hack//Tasogare no Udewa Densetsu Special",
+    ".hack//Legend of the Twilight Offline Meeting Special",
+    ".hack//黄昏の腕輪伝説 オフラインで会いましょう"
+  ],
+  "url": "https://myanimelist.net/anime/1994/hack__Tasogare_no_Udewa_Densetsu__Offline_de_Aimashou",
+  "image": "https://cdn.myanimelist.net/images/anime/2/44554.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=447"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 447,
+  "Pages": {
+    "9anime": {
+      "3r7z9": {
+        "createdAt": "2022-04-11T08:41:48.000Z",
+        "updatedAt": "2022-04-11T09:07:23.000Z",
+        "checkedAt": null,
+        "id": 40724,
+        "identifier": "3r7z9",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//Tasogare no Udewa Densetsu - Offline de Aimashou",
+        "url": "https://9anime.to/watch/hacklegend-of-the-twilight-offline-meeting-special.3r7z9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/96/9616f7e40760f35e1a55f228ffea813f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1994,
+        "aniId": 1994,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4634": {
+        "identifier": "4634",
+        "malId": 1994,
+        "type": "anime",
+        "page": "animepahe",
+        "title": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
+        "url": "https://animepahe.com/a/4634"
+      }
+    },
+    "AniMixPlay": {
+      "1994": {
+        "identifier": "1994",
+        "malId": 1994,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
+        "url": "https://animixplay.to/anime/1994"
+      }
+    }
+  }
+}

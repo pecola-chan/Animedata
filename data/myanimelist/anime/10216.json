@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T18:20:47.000Z",
+  "checkedAt": "2022-05-14T18:20:47.000Z",
+  "id": 10216,
+  "type": "anime",
+  "title": "Yondemasu yo, Azazel-san. (TV)",
+  "altTitle": [
+    "Yondemasu yo, Azazel-san. (2011)",
+    "You're Being Summoned, Azazel",
+    "よんでますよ、アザゼルさん。"
+  ],
+  "url": "https://myanimelist.net/anime/10216/Yondemasu_yo_Azazel-san_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/4/75284.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/azazel/1st/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8288"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12345"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yondemasu_yo,_Azazel-san."
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270213"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/youre-being-summoned-azazel"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8288,
+  "Pages": {
+    "9anime": {
+      "4p7": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2338,
+        "identifier": "4p7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yondemasu yo, Azazel-san. (TV)",
+        "url": "https://9anime.to/watch/yondemasu-yo-azazel-san-tv.4p7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UsYTLzbwHx8/V4PFDtFdk3I/AAAAAAAAu0w/Enfc9p4T0ig/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10216,
+        "aniId": 10216,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "396": {
+        "identifier": "396",
+        "malId": 10216,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yondemasu yo, Azazel-san. (TV)",
+        "url": "https://animepahe.com/a/396"
+      }
+    },
+    "AniMixPlay": {
+      "10216": {
+        "identifier": "10216",
+        "malId": 10216,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yondemasu yo, Azazel-san. (TV)",
+        "url": "https://animixplay.to/anime/10216"
+      }
+    },
+    "YugenAnime": {
+      "4902": {
+        "identifier": "4902",
+        "malId": 10216,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yondemasu yo, Azazel-san. (TV)",
+        "url": "https://yugen.to/anime/4902/yondemasu-yo-azazel-san-ova/"
+      }
+    }
+  }
+}

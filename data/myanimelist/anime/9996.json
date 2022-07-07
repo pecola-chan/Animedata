@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T18:00:17.000Z",
+  "checkedAt": "2022-05-14T18:00:17.000Z",
+  "id": 9996,
+  "type": "anime",
+  "title": "Hyouge Mono",
+  "altTitle": [
+    "Hyougemono",
+    "へうげもの"
+  ],
+  "url": "https://myanimelist.net/anime/9996/Hyouge_Mono",
+  "image": "https://cdn.myanimelist.net/images/anime/3/77282.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www9.nhk.or.jp/anime/heuge/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8133"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12245"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hyouge_Mono"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8133,
+  "Pages": {
+    "9anime": {
+      "2060": {
+        "createdAt": "2020-10-12T15:48:26.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 35,
+        "identifier": "2060",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hyouge Mono",
+        "url": "https://9anime.to/watch/hyouge-mono.2060",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jWWIVXcPrrU/V78RX_7al_I/AAAAAAAA5ec/UpgZxDuza4o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9996,
+        "aniId": 9996,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hyouge-mono": {
+        "createdAt": "2020-10-12T16:00:48.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18420,
+        "identifier": "hyouge-mono",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hyouge Mono",
+        "url": "https://gogoanime.vc/category/hyouge-mono",
+        "image": "https://gogocdn.net/images/anime/H/hyouge-mono.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9996,
+        "aniId": 9996,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1186": {
+        "identifier": "1186",
+        "malId": 9996,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hyouge Mono",
+        "url": "https://animepahe.com/a/1186"
+      }
+    },
+    "AniMixPlay": {
+      "9996": {
+        "identifier": "9996",
+        "malId": 9996,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hyouge Mono",
+        "url": "https://animixplay.to/anime/9996"
+      }
+    },
+    "YugenAnime": {
+      "2017": {
+        "identifier": "2017",
+        "malId": 9996,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hyouge Mono",
+        "url": "https://yugen.to/anime/2017/hyouge-mono/"
+      }
+    }
+  }
+}

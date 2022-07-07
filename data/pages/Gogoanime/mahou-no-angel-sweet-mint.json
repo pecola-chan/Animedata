@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-04-04T22:38:06.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 36200,
+  "identifier": "mahou-no-angel-sweet-mint",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mahou no Angel Sweet Mint",
+  "url": "https://gogoanime.vc/category/mahou-no-angel-sweet-mint",
+  "image": "https://gogocdn.net/cover/mahou-no-angel-sweet-mint.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2040,
+  "aniId": 2040,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-14T17:31:16.000Z",
+    "checkedAt": "2022-05-14T17:31:16.000Z",
+    "id": 2040,
+    "type": "anime",
+    "title": "Mahou no Angel Sweet Mint",
+    "altTitle": [
+      "Magical Angel Sweet Mint",
+      "魔法のエンジェル スイートミント"
+    ],
+    "url": "https://myanimelist.net/anime/2040/Mahou_no_Angel_Sweet_Mint",
+    "image": "https://cdn.myanimelist.net/images/anime/4/26109.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2332"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1393"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Magical_Angel_Sweet_Mint"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2332
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:07.000Z",
+    "updatedAt": "2022-05-15T12:56:23.000Z",
+    "checkedAt": "2022-05-15T12:56:23.000Z",
+    "id": 2040,
+    "type": "anime",
+    "title": "Mahou no Angel Sweet Mint",
+    "altTitle": [
+      "魔法のエンジェル スイートミント",
+      "Magical Angel Sweet Mint"
+    ],
+    "url": "https://anilist.co/anime/2040",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2040-cJFzAuOKjMp8.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2040,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "createdAt": "2020-10-12T15:38:38.000Z",
+  "updatedAt": "2022-05-14T20:24:29.000Z",
+  "checkedAt": "2022-05-14T20:24:29.000Z",
+  "id": 3600,
+  "type": "anime",
+  "title": "Sengoku Kitan Youtouden",
+  "altTitle": [
+    "Sengoku Kidan Youtouden",
+    "Yotoden OVA",
+    "Yotoden: Chronicle of the Warlord Period",
+    "戦国奇譚妖刀伝"
+  ],
+  "url": "https://myanimelist.net/anime/3600/Sengoku_Kitan_Youtouden",
+  "image": "https://cdn.myanimelist.net/images/anime/10/57127.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3164"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2873"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3164,
+  "Pages": {
+    "Gogoanime": {
+      "sengoku-kitan-youtouden": {
+        "createdAt": "2021-07-22T13:34:07.000Z",
+        "updatedAt": "2021-08-06T19:47:35.000Z",
+        "checkedAt": null,
+        "id": 37968,
+        "identifier": "sengoku-kitan-youtouden",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sengoku Kitan Youtouden",
+        "url": "https://gogoanime.pe/category/sengoku-kitan-youtouden",
+        "image": "https://gogocdn.net/cover/sengoku-kitan-youtouden.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3600,
+        "aniId": 3600,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "7jmo1": {
+        "createdAt": "2021-08-14T14:37:13.000Z",
+        "updatedAt": "2021-08-14T15:06:58.000Z",
+        "checkedAt": null,
+        "id": 38295,
+        "identifier": "7jmo1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sengoku Kitan Youtouden",
+        "url": "https://9anime.to/watch/yotoden-chronicle-of-the-warlord-period.7jmo1",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/50/5027e7391c8b0a7c9ffde55a2df37cbc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3600,
+        "aniId": 3600,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3600": {
+        "identifier": "3600",
+        "malId": 3600,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sengoku Kitan Youtouden",
+        "url": "https://animixplay.to/anime/3600"
+      }
+    },
+    "YugenAnime": {
+      "7945": {
+        "identifier": "7945",
+        "malId": 3600,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sengoku Kitan Youtouden",
+        "url": "https://yugen.to/anime/7945/sengoku-kitan-youtouden/"
+      }
+    }
+  }
+}

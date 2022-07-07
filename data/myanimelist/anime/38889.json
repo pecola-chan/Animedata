@@ -1,0 +1,156 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T16:47:25.000Z",
+  "checkedAt": "2022-05-14T16:47:25.000Z",
+  "id": 38889,
+  "type": "anime",
+  "title": "Kono Oto Tomare! Part 2",
+  "altTitle": [
+    "Kono Oto Tomare! 2nd Season",
+    "Stop This Sound! 2nd Season",
+    "Kono Oto Tomare!: Sounds of Life Season 2",
+    "この音とまれ！"
+  ],
+  "url": "https://myanimelist.net/anime/38889/Kono_Oto_Tomare_Part_2",
+  "image": "https://cdn.myanimelist.net/images/anime/1422/111621.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.konooto-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14553"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22389"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kono_Oto_Tomare!_Sounds_of_Life"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279093"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14553,
+  "Pages": {
+    "9anime": {
+      "6r77": {
+        "createdAt": "2020-10-12T15:50:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3167,
+        "identifier": "6r77",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kono Oto Tomare! 2nd Season",
+        "url": "https://9anime.to/watch/kono-oto-tomare-2nd-season.6r77",
+        "image": "https://static.akacdn.ru/static/images/2019/01/77403fc258790f9dd853caf5439d6380.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38889,
+        "aniId": 108891,
+        "deletedAt": null
+      },
+      "qomn": {
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8482,
+        "identifier": "qomn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kono Oto Tomare!: Sounds of Life Season 2 (Dub)",
+        "url": "https://9anime.to/watch/kono-oto-tomare-sounds-of-life-season-2-dub.qomn",
+        "image": "https://static.akacdn.ru/files/images/2019/10/319ea72fa1ec31517c69d5cfbd820738.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38889,
+        "aniId": 108891,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kono-oto-tomare-2nd-season": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18940,
+        "identifier": "kono-oto-tomare-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kono Oto Tomare! 2nd Season",
+        "url": "https://gogoanime.vc/category/kono-oto-tomare-2nd-season",
+        "image": "https://cdnimg.xyz/cover/kono-oto-tomare-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38889,
+        "aniId": 108891,
+        "deletedAt": null
+      },
+      "kono-oto-tomare-2nd-season-dub": {
+        "createdAt": "2020-10-12T16:01:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18941,
+        "identifier": "kono-oto-tomare-2nd-season-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kono Oto Tomare! 2nd Season (Dub)",
+        "url": "https://gogoanime.vc/category/kono-oto-tomare-2nd-season-dub",
+        "image": "https://gogocdn.net/cover/kono-oto-tomare-2nd-season-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38889,
+        "aniId": 108891,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3446": {
+        "identifier": "3446",
+        "malId": 38889,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kono Oto Tomare! Part 2",
+        "url": "https://animepahe.com/a/3446"
+      }
+    },
+    "AniMixPlay": {
+      "38889": {
+        "identifier": "38889",
+        "malId": 38889,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kono Oto Tomare! Part 2",
+        "url": "https://animixplay.to/anime/38889"
+      }
+    },
+    "YugenAnime": {
+      "4362": {
+        "identifier": "4362",
+        "malId": 38889,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kono Oto Tomare! 2nd Season",
+        "url": "https://yugen.to/anime/4362/kono-oto-tomare-2nd-season/"
+      }
+    }
+  }
+}

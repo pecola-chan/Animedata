@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T21:51:17.000Z",
+  "checkedAt": "2022-05-14T21:51:17.000Z",
+  "id": 20745,
+  "type": "anime",
+  "title": "Love Live! School Idol Project OVA",
+  "altTitle": [
+    "ラブライブ! School idol project OVA"
+  ],
+  "url": "https://myanimelist.net/anime/20745/Love_Live_School_Idol_Project_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1565/104629.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.lovelive-anime.jp/release.html#cd28"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10177"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10177,
+  "Pages": {
+    "9anime": {
+      "873o": {
+        "createdAt": "2020-10-12T15:51:26.000Z",
+        "updatedAt": "2022-06-13T23:02:37.000Z",
+        "checkedAt": "2022-06-13T23:02:37.000Z",
+        "id": 3806,
+        "identifier": "873o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Love Live! School idol project OVA",
+        "url": "https://9anime.to/watch/love-live-school-idol-project-ova.873o",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/c833d0b0f29683951c8be4174e966879.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20745,
+        "aniId": 20554,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "love-live-school-idol-project-ova": {
+        "createdAt": "2020-10-12T16:01:08.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19146,
+        "identifier": "love-live-school-idol-project-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Live!: School Idol Project OVA",
+        "url": "https://gogoanime.vc/category/love-live-school-idol-project-ova",
+        "image": "https://images.gogoanime.tv/images/Love Live - School Idol Project.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20745,
+        "aniId": 20554,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1208": {
+        "identifier": "1208",
+        "malId": 20745,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Love Live! School Idol Project OVA",
+        "url": "https://animepahe.com/a/1208"
+      }
+    },
+    "AniMixPlay": {
+      "20745": {
+        "identifier": "20745",
+        "malId": 20745,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Love Live! School Idol Project OVA",
+        "url": "https://animixplay.to/anime/20745"
+      }
+    },
+    "YugenAnime": {
+      "3831": {
+        "identifier": "3831",
+        "malId": 20745,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Love Live! School Idol Project OVA",
+        "url": "https://yugen.to/anime/3831/love-live-school-idol-project-ova/"
+      }
+    }
+  }
+}

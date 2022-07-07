@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:49.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18458,
+  "identifier": "inazuma-eleven-chou-jigen-dream-match",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Inazuma Eleven: Chou Jigen Dream Match",
+  "url": "https://gogoanime.vc/category/inazuma-eleven-chou-jigen-dream-match",
+  "image": "https://cdnimg.xyz/images/fall/Inazuma Eleven Chou Jigen Dream Match.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 24347,
+  "aniId": 98225,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:28.000Z",
+    "updatedAt": "2022-05-15T06:42:23.000Z",
+    "checkedAt": "2022-05-15T06:42:23.000Z",
+    "id": 24347,
+    "type": "anime",
+    "title": "Inazuma Eleven: Chou Jigen Dream Match",
+    "altTitle": [
+      "イナズマイレブン 超次元ドリームマッチ"
+    ],
+    "url": "https://myanimelist.net/anime/24347/Inazuma_Eleven__Chou_Jigen_Dream_Match",
+    "image": "https://cdn.myanimelist.net/images/anime/3/62875.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/inazumago/best_eleven/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11027"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/イナズマイレブン_超次元ドリームマッチ"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 11027
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:35.000Z",
+    "updatedAt": "2022-05-19T12:06:52.000Z",
+    "checkedAt": "2022-05-19T12:06:52.000Z",
+    "id": 98225,
+    "type": "anime",
+    "title": "Inazuma Eleven: Choujigen Dream Match",
+    "altTitle": [
+      "Inazuma Eleven: Choujigen Dream Match",
+      "イナズマイレブン 超次元ドリームマッチ"
+    ],
+    "url": "https://anilist.co/anime/98225",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98225-xIWufwAIKVBL.png",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 24347,
+    "deletedAt": null
+  }
+}

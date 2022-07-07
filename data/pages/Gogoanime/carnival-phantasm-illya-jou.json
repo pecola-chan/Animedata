@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-25T10:47:47.000Z",
+  "updatedAt": "2021-05-20T15:21:56.000Z",
+  "checkedAt": null,
+  "id": 27928,
+  "identifier": "carnival-phantasm-illya-jou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Carnival Phantasm: Illya-jou",
+  "url": "https://gogoanime.vc/category/carnival-phantasm-illya-jou",
+  "image": "https://gogocdn.net/cover/carnival-phantasm-illya-jou.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 12255,
+  "aniId": 12255,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:10.000Z",
+    "updatedAt": "2022-05-15T01:04:29.000Z",
+    "checkedAt": "2022-05-15T01:04:29.000Z",
+    "id": 12255,
+    "type": "anime",
+    "title": "Carnival Phantasm: Illya-jou",
+    "altTitle": [
+      "Carnival Phantasm Special",
+      "Carnival Phantasm: Illya's Castle",
+      "カーニバル・ファンタズム: イリヤ城"
+    ],
+    "url": "https://myanimelist.net/anime/12255/Carnival_Phantasm__Illya-jou",
+    "image": "https://cdn.myanimelist.net/images/anime/10/34509.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.typemoon.com/products/cp/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8102"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Carnival_Phantasm"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8102
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:10.000Z",
+    "updatedAt": "2022-05-15T13:48:11.000Z",
+    "checkedAt": "2022-05-15T13:48:11.000Z",
+    "id": 12255,
+    "type": "anime",
+    "title": "Carnival Phantasm: Illya-jou",
+    "altTitle": [
+      "Carnival Phantasm: Illya's Castle",
+      "カーニバル・ファンタズム: イリヤ城",
+      "Carnival Phantasm Special"
+    ],
+    "url": "https://anilist.co/anime/12255",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12255.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 12255,
+    "deletedAt": null
+  }
+}

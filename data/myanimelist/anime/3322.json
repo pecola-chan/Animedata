@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T17:49:05.000Z",
+  "checkedAt": "2022-05-14T17:49:05.000Z",
+  "id": 3322,
+  "type": "anime",
+  "title": "Wagaya no Oinari-sama.",
+  "altTitle": [
+    "Wagaya no Oinarisama",
+    "Our Home's Fox Deity",
+    "我が家のお稲荷さま。"
+  ],
+  "url": "https://myanimelist.net/anime/3322/Wagaya_no_Oinari-sama",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21249.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://asciimw.jp/mediamix/oinarisama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5557"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8774"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wagaya_no_Oinari-sama#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5557,
+  "Pages": {
+    "9anime": {
+      "jj13": {
+        "createdAt": "2020-10-12T15:52:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4835,
+        "identifier": "jj13",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wagaya no Oinari-sama.",
+        "url": "https://9anime.to/watch/wagaya-no-oinari-sama.jj13",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oeysi_5dqqM/V6NxDnHgx9I/AAAAAAAA0V4/J99ghizEDY0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3322,
+        "aniId": 3322,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wagaya-no-oinari-sama": {
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21380,
+        "identifier": "wagaya-no-oinari-sama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wagaya no Oinari Sama",
+        "url": "https://gogoanime.vc/category/wagaya-no-oinari-sama",
+        "image": "https://gogocdn.net/images/anime/W/wagaya-no-oinari-sama.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3322,
+        "aniId": 3322,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3322": {
+        "identifier": "3322",
+        "malId": 3322,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wagaya no Oinari-sama.",
+        "url": "https://animixplay.to/anime/3322"
+      }
+    },
+    "YugenAnime": {
+      "4775": {
+        "identifier": "4775",
+        "malId": 3322,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wagaya no Oinari-sama.",
+        "url": "https://yugen.to/anime/4775/wagaya-no-oinari-sama/"
+      }
+    }
+  }
+}

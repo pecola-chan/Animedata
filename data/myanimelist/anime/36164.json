@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-15T01:37:42.000Z",
+  "checkedAt": "2022-05-15T01:37:42.000Z",
+  "id": 36164,
+  "type": "anime",
+  "title": "Qiang Niang",
+  "altTitle": [
+    "Gun Girls",
+    "銃娘 [ガンガール]"
+  ],
+  "url": "https://myanimelist.net/anime/36164/Qiang_Niang",
+  "image": "https://cdn.myanimelist.net/images/anime/4/87374.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://qnfire.qq.com/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "rnln": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8918,
+        "identifier": "rnln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gun Girls",
+        "url": "https://9anime.to/watch/gun-girls.rnln",
+        "image": "http://static.akacdn.ru/static/images/2018/04/23f3e85179c5c6bc63266956abe9d5f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36164,
+        "aniId": 100812,
+        "deletedAt": null
+      },
+      "2o232": {
+        "createdAt": "2021-07-13T04:15:32.000Z",
+        "updatedAt": "2021-07-13T04:45:01.000Z",
+        "checkedAt": null,
+        "id": 37844,
+        "identifier": "2o232",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Qiang Niang",
+        "url": "https://9anime.to/watch/gun-girls.2o232",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b2/b2bc76f0e4e32ba32b07513874f7e087.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36164,
+        "aniId": 100812,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "qiang-niang": {
+        "createdAt": "2021-04-04T04:38:27.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36182,
+        "identifier": "qiang-niang",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Qiang Niang",
+        "url": "https://gogoanime.vc/category/qiang-niang",
+        "image": "https://gogocdn.net/cover/qiang-niang.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36164,
+        "aniId": 100812,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "36164": {
+        "identifier": "36164",
+        "malId": 36164,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Qiang Niang",
+        "url": "https://animixplay.to/anime/36164"
+      }
+    },
+    "YugenAnime": {
+      "2035": {
+        "identifier": "2035",
+        "malId": 36164,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Qiang Niang",
+        "url": "https://yugen.to/anime/2035/qiang-niang/"
+      }
+    }
+  }
+}

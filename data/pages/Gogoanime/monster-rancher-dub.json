@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T16:01:20.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19546,
+  "identifier": "monster-rancher-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Monster Rancher (Dub)",
+  "url": "https://gogoanime.vc/category/monster-rancher-dub",
+  "image": "https://cdnimg.xyz/cover/monster-rancher-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1469,
+  "aniId": 1469,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:17.000Z",
+    "updatedAt": "2022-05-14T18:47:23.000Z",
+    "checkedAt": "2022-05-14T18:47:23.000Z",
+    "id": 1469,
+    "type": "anime",
+    "title": "Monster Farm: Enbanseki no Himitsu",
+    "altTitle": [
+      "Monster Rancher",
+      "モンスターファーム"
+    ],
+    "url": "https://myanimelist.net/anime/1469/Monster_Farm__Enbanseki_no_Himitsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1044/113641.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/old/tv/data/t_mf1.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2908"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=500"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Monster_Rancher_%28anime%29"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2908
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:35:07.000Z",
+    "updatedAt": "2022-05-15T15:34:59.000Z",
+    "checkedAt": "2022-05-15T15:34:59.000Z",
+    "id": 1469,
+    "type": "anime",
+    "title": "Monster Farm: Enbanseki no Himitsu",
+    "altTitle": [
+      "Monster Rancher",
+      "モンスターファーム 〜円盤石の秘密〜"
+    ],
+    "url": "https://anilist.co/anime/1469",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1469-7kKoYlntt8qV.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/monster-rancher"
+      }
+    ],
+    "malId": 1469,
+    "deletedAt": null
+  }
+}

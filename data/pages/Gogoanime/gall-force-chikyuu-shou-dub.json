@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:00:28.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17792,
+  "identifier": "gall-force-chikyuu-shou-dub",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gall Force: Chikyuu Shou (Dub)",
+  "url": "https://gogoanime.vc/category/gall-force-chikyuu-shou-dub",
+  "image": "https://gogocdn.net/cover/gall-force-chikyuu-shou-dub.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2064,
+  "aniId": 2064,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:25.000Z",
+    "updatedAt": "2022-05-15T01:31:11.000Z",
+    "checkedAt": "2022-05-15T01:31:11.000Z",
+    "id": 2064,
+    "type": "anime",
+    "title": "Gall Force: Chikyuu Shou",
+    "altTitle": [
+      "Gall Force: Earth Chapter",
+      "ガルフォース地球章"
+    ],
+    "url": "https://myanimelist.net/anime/2064/Gall_Force__Chikyuu_Shou",
+    "image": "https://cdn.myanimelist.net/images/anime/10/26526.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aicanime.com/products/gallforce/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2115"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=949"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gall_Force#Earth_Chapter_Arc"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2115
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:08.000Z",
+    "updatedAt": "2022-05-16T02:29:22.000Z",
+    "checkedAt": "2022-05-16T02:29:22.000Z",
+    "id": 2064,
+    "type": "anime",
+    "title": "Gall Force: Chikyuu Shou",
+    "altTitle": [
+      "Gall Force: Earth Chapter",
+      "ガルフォース地球章"
+    ],
+    "url": "https://anilist.co/anime/2064",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2064.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2064,
+    "deletedAt": null
+  }
+}

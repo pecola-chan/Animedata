@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:38:29.000Z",
+  "updatedAt": "2022-05-14T17:17:58.000Z",
+  "checkedAt": "2022-05-14T17:17:58.000Z",
+  "id": 2406,
+  "type": "anime",
+  "title": "Sazae-san",
+  "altTitle": [
+    "Mrs. Sazae",
+    "サザエさん"
+  ],
+  "url": "https://myanimelist.net/anime/2406/Sazae-san",
+  "image": "https://cdn.myanimelist.net/images/anime/1008/98996.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.eiken-anime.jp/works/works014.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1830"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=870"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sazae-san"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1830,
+  "Pages": {
+    "9anime": {
+      "zvlm": {
+        "createdAt": "2020-10-12T15:57:16.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11293,
+        "identifier": "zvlm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mrs. Sazae",
+        "url": "https://9anime.to/watch/mrs-sazae.zvlm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kf2aK-2UdFY/WbpyYgtuvOI/AAAAAAAAAR0/1i65zSxMjOEUHjHuIwXVtK5sQ1oKZ_FpACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2406,
+        "aniId": 2406,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2406": {
+        "identifier": "2406",
+        "malId": 2406,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sazae-san",
+        "url": "https://animixplay.to/anime/2406"
+      }
+    }
+  }
+}

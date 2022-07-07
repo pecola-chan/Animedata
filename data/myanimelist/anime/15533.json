@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-15T10:44:48.000Z",
+  "checkedAt": "2022-05-15T10:44:48.000Z",
+  "id": 15533,
+  "type": "anime",
+  "title": "Yakimochi Caprice",
+  "altTitle": [
+    "やきもち狂想曲"
+  ],
+  "url": "https://myanimelist.net/anime/15533/Yakimochi_Caprice",
+  "image": "https://cdn.myanimelist.net/images/anime/11/42233.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-seijin.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9154"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14241"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8D%E3%82%82%E3%81%A1%E7%8B%82%E6%83%B3%E6%9B%B2"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9154,
+  "Pages": {
+    "9anime": {
+      "k6r9": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5325,
+        "identifier": "k6r9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yakimochi Caprice",
+        "url": "https://9anime.to/watch/yakimochi-caprice.k6r9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RhGCWzXqNL8/WP85rypTioI/AAAAAAAAkP8/pC3eqqoDwr0_0JiPM5a88Pqxbvi2vXlgACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15533,
+        "aniId": 15533,
+        "deletedAt": null
+      }
+    }
+  }
+}

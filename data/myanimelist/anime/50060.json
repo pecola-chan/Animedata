@@ -1,0 +1,117 @@
+{
+  "createdAt": "2022-03-30T17:02:38.000Z",
+  "updatedAt": "2022-05-14T16:01:56.000Z",
+  "checkedAt": "2022-05-14T16:01:56.000Z",
+  "id": 50060,
+  "type": "anime",
+  "title": "Shadowverse Flame",
+  "altTitle": [
+    "Shadowverse F",
+    "Shadowverse Flame",
+    "シャドウバースF（フレイム）"
+  ],
+  "url": "https://myanimelist.net/anime/50060/Shadowverse_Flame",
+  "image": "https://cdn.myanimelist.net/images/anime/1877/122972.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.shadowverse.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16855"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24829"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shadowverse_(TV_series)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279220"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 16855,
+  "Pages": {
+    "Gogoanime": {
+      "shadowverse-flame": {
+        "createdAt": "2022-04-02T03:31:11.000Z",
+        "updatedAt": "2022-04-02T04:00:20.000Z",
+        "checkedAt": null,
+        "id": 40592,
+        "identifier": "shadowverse-flame",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shadowverse Flame",
+        "url": "https://gogoanime.fi/category/shadowverse-flame",
+        "image": "https://gogocdn.net/cover/shadowverse-flame.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50060,
+        "aniId": 140085,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "rljqn": {
+        "createdAt": "2022-04-02T03:32:33.000Z",
+        "updatedAt": "2022-04-02T04:00:20.000Z",
+        "checkedAt": null,
+        "id": 40594,
+        "identifier": "rljqn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shadowverse Flame",
+        "url": "https://9anime.to/watch/shadowverse-flame.rljqn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/ae/ae2b50b4ae19ce98022675cfa95c5482.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50060,
+        "aniId": 140085,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4757": {
+        "identifier": "4757",
+        "malId": 50060,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shadowverse Flame",
+        "url": "https://animepahe.com/a/4757"
+      }
+    },
+    "AniMixPlay": {
+      "50060": {
+        "identifier": "50060",
+        "malId": 50060,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shadowverse Flame",
+        "url": "https://animixplay.to/anime/50060"
+      }
+    },
+    "YugenAnime": {
+      "11844": {
+        "identifier": "11844",
+        "malId": 50060,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shadowverse Flame",
+        "url": "https://yugen.to/anime/11844/shadowverse-flame/"
+      }
+    }
+  }
+}

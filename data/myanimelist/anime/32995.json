@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T17:31:17.000Z",
+  "checkedAt": "2022-05-14T17:31:17.000Z",
+  "id": 32995,
+  "type": "anime",
+  "title": "Yuri!!! on Ice",
+  "altTitle": [
+    "Yuri!!! On ICE",
+    "ユーリ!!! on ICE"
+  ],
+  "url": "https://myanimelist.net/anime/32995/Yuri_on_Ice",
+  "image": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yurionice.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12012"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18191"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yuri_on_Ice"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271467"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/yuri-on-ice"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12012,
+  "Pages": {
+    "9anime": {
+      "7zny": {
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2022-02-24T18:19:10.000Z",
+        "checkedAt": null,
+        "id": 3676,
+        "identifier": "7zny",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuri!!! on ICE (Dub)",
+        "url": "https://9anime.to/watch/yuri-on-ice-dub.7zny",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/e3d5545abcc91ed94ea1c3de076dc13b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32995,
+        "aniId": 21709,
+        "deletedAt": null
+      },
+      "mop7": {
+        "createdAt": "2020-10-12T15:53:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6670,
+        "identifier": "mop7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuri!!! on Ice",
+        "url": "https://9anime.to/watch/yuri-on-ice.mop7",
+        "image": "//static.9anime.to/i/cache/images/2018/04/8cba226e3277aa028d958690ed522aa0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32995,
+        "aniId": 21709,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yuri-on-ice": {
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21621,
+        "identifier": "yuri-on-ice",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuri!!! on Ice",
+        "url": "https://gogoanime.vc/category/yuri-on-ice",
+        "image": "https://images.gogoanime.tv/cover/yuri-on-ice.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32995,
+        "aniId": 21709,
+        "deletedAt": null
+      },
+      "yuri-on-ice-dub": {
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21622,
+        "identifier": "yuri-on-ice-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuri!!! on Ice (Dub)",
+        "url": "https://gogoanime.vc/category/yuri-on-ice-dub",
+        "image": "https://gogocdn.net/cover/yuri-on-ice-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32995,
+        "aniId": 21709,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1355": {
+        "identifier": "1355",
+        "malId": 32995,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Yuri!!! on Ice",
+        "url": "https://animepahe.com/a/1355"
+      }
+    },
+    "AniMixPlay": {
+      "32995": {
+        "identifier": "32995",
+        "malId": 32995,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuri!!! on Ice",
+        "url": "https://animixplay.to/anime/32995"
+      }
+    },
+    "YugenAnime": {
+      "813": {
+        "identifier": "813",
+        "malId": 32995,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yuri!!! on Ice",
+        "url": "https://yugen.to/anime/813/yuri-on-ice/"
+      }
+    }
+  }
+}

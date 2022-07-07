@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-15T18:37:16.000Z",
+  "checkedAt": "2022-05-15T18:37:16.000Z",
+  "id": 41217,
+  "type": "anime",
+  "title": "Pianoman",
+  "altTitle": [
+    "PianoMan",
+    "PIANOMAN"
+  ],
+  "url": "https://myanimelist.net/anime/41217/Pianoman",
+  "image": "https://cdn.myanimelist.net/images/anime/1219/106730.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://echoes-echoes.com/work.html"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "8jzy": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3881,
+        "identifier": "8jzy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pianoman",
+        "url": "https://9anime.to/watch/pianoman.8jzy",
+        "image": "https://static.akacdn.ru/files/images/2020/03/9e8d870d98b0816636093b3ef4f8a0df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41217,
+        "aniId": 116978,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3925": {
+        "identifier": "3925",
+        "malId": 41217,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Pianoman",
+        "url": "https://animepahe.com/a/3925"
+      }
+    },
+    "YugenAnime": {
+      "7905": {
+        "identifier": "7905",
+        "malId": 41217,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Pianoman",
+        "url": "https://yugen.to/anime/7905/teknoman/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-06-11T04:09:04.000Z",
+  "checkedAt": "2022-06-11T04:09:04.000Z",
+  "id": 19587,
+  "type": "anime",
+  "title": "Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago",
+  "altTitle": [
+    "映画 かいけつゾロリ まもるぜ! きょうりゅうのたまご"
+  ],
+  "url": "https://myanimelist.net/anime/19587/Kaiketsu_Zorori__Mamoru_ze_Kyouryuu_no_Tamago",
+  "image": "https://cdn.myanimelist.net/images/anime/10/52451.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zorori-movie.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9970"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15499"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9970,
+  "Pages": {
+    "9anime": {
+      "7r88": {
+        "createdAt": "2020-10-12T15:51:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3565,
+        "identifier": "7r88",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago",
+        "url": "https://9anime.to/watch/kaiketsu-zorori-mamoru-ze-kyouryuu-no-tamago.7r88",
+        "image": "https://static.akacdn.ru/files/images/2018/07/8de04c098877fce13de32d68d1b5ab35.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19587,
+        "aniId": 19587,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "19587": {
+        "identifier": "19587",
+        "malId": 19587,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago",
+        "url": "https://animixplay.to/anime/19587"
+      }
+    },
+    "YugenAnime": {
+      "5002": {
+        "identifier": "5002",
+        "malId": 19587,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago",
+        "url": "https://yugen.to/anime/5002/kaiketsu-zorori-mamoru-ze-kyouryuu-no-tamago/"
+      }
+    }
+  }
+}

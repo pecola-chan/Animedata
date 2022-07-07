@@ -1,0 +1,68 @@
+{
+  "createdAt": "2021-07-13T04:45:54.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
+  "checkedAt": null,
+  "id": 37847,
+  "identifier": "deification-of-spring-and-autumn-period",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Deification of Spring and Autumn Period",
+  "url": "https://gogoanime.pe/category/deification-of-spring-and-autumn-period",
+  "image": "https://gogocdn.net/cover/deification-of-spring-and-autumn-period.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 41802,
+  "aniId": 119926,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:15.000Z",
+    "updatedAt": "2022-05-14T19:47:47.000Z",
+    "checkedAt": "2022-05-14T19:47:47.000Z",
+    "id": 41802,
+    "type": "anime",
+    "title": "Wan Jie Chun Qiu",
+    "altTitle": [
+      "Wanjie Chunqiu",
+      "Wan Jie Chunqiu",
+      "Spring and Autumn",
+      "万界春秋"
+    ],
+    "url": "https://myanimelist.net/anime/41802/Wan_Jie_Chun_Qiu",
+    "image": "https://cdn.myanimelist.net/images/anime/1886/107254.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/m/mzc00200sgy2t2x.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E4%B8%87%E7%95%8C%E6%98%A5%E7%A7%8B"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:06.000Z",
+    "updatedAt": "2022-05-15T10:53:59.000Z",
+    "checkedAt": "2022-05-15T10:53:59.000Z",
+    "id": 119926,
+    "type": "anime",
+    "title": "Wan Jie Chun Qiu",
+    "altTitle": [
+      "万界春秋"
+    ],
+    "url": "https://anilist.co/anime/119926",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119926-jnUUFCoAUglZ.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 41802,
+    "deletedAt": null
+  }
+}

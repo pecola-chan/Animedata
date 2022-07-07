@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T16:00:51.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18532,
+  "identifier": "ishida-to-asakura",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ishida to Asakura",
+  "url": "https://gogoanime.vc/category/ishida-to-asakura",
+  "image": "https://cdnimg.xyz/images/anime/I/ishida_to_asakura.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 16317,
+  "aniId": 16317,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:17.000Z",
+    "updatedAt": "2022-05-15T00:32:11.000Z",
+    "checkedAt": "2022-05-15T00:32:10.000Z",
+    "id": 16317,
+    "type": "anime",
+    "title": "Ishida to Asakura",
+    "altTitle": [
+      "Ishida & Asakura",
+      "石田とあさくら"
+    ],
+    "url": "https://myanimelist.net/anime/16317/Ishida_to_Asakura",
+    "image": "https://cdn.myanimelist.net/images/anime/5/44996.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yte.co.jp/program/ishiasa/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9507"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14928"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ishida_to_Asakura"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 9507
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:23.000Z",
+    "updatedAt": "2022-05-15T15:07:35.000Z",
+    "checkedAt": "2022-05-15T15:07:35.000Z",
+    "id": 16317,
+    "type": "anime",
+    "title": "Ishida to Asakura",
+    "altTitle": [
+      "Ishida and Asakura",
+      "石田とあさくら",
+      "Ishida & Asakura"
+    ],
+    "url": "https://anilist.co/anime/16317",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16317.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 16317,
+    "deletedAt": null
+  }
+}

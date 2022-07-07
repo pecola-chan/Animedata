@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-15T20:14:22.000Z",
+  "checkedAt": "2022-05-15T20:14:22.000Z",
+  "id": 10766,
+  "type": "anime",
+  "title": "Detective Conan vs. Wooo",
+  "altTitle": [
+    "Meitantei Conan vs. Wooo",
+    "名探偵コナン vs Wooo"
+  ],
+  "url": "https://myanimelist.net/anime/10766/Detective_Conan_vs_Wooo",
+  "image": "https://cdn.myanimelist.net/images/anime/7/29671.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://wooo-ut.hitachi.jp/conan_v1/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Case_Closed"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "rn1y": {
+        "createdAt": "2020-10-12T15:55:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8910,
+        "identifier": "rn1y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Detective Conan vs. Wooo",
+        "url": "https://9anime.to/watch/detective-conan-vs-wooo.rn1y",
+        "image": "https://static.akacdn.ru/static/images/2018/02/ef3c89bfe302c87c303743c7a0527e08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10766,
+        "aniId": 10766,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "createdAt": "2022-02-26T12:19:12.000Z",
+  "updatedAt": "2022-06-20T15:39:18.000Z",
+  "checkedAt": "2022-06-20T15:39:18.000Z",
+  "id": 37749,
+  "type": "anime",
+  "title": "Turning Mecard R",
+  "altTitle": [
+    "Turning Mecard R",
+    "터닝메카드 R"
+  ],
+  "url": "https://myanimelist.net/anime/37749/Turning_Mecard_R",
+  "image": "https://cdn.myanimelist.net/images/anime/1592/98721.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mecard.co.kr/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13828"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turning_Mecard"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13828,
+  "Pages": {
+    "9anime": {
+      "m2qqv": {
+        "createdAt": "2022-02-26T12:19:11.000Z",
+        "updatedAt": "2022-02-26T12:19:12.000Z",
+        "checkedAt": null,
+        "id": 40308,
+        "identifier": "m2qqv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Turning Mecard R",
+        "url": "https://9anime.to/watch/turning-mecard-r.m2qqv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8f/8f9648442d578ac8d46afc1c82814c4a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37749,
+        "aniId": null,
+        "deletedAt": null
+      }
+    }
+  }
+}

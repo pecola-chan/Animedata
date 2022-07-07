@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-09-09T04:35:37.000Z",
+  "updatedAt": "2021-09-09T05:04:29.000Z",
+  "checkedAt": null,
+  "id": 38582,
+  "identifier": "rakushou-hyper-doll",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Rakushou! Hyper Doll",
+  "url": "https://gogoanime.pe/category/rakushou-hyper-doll",
+  "image": "https://gogocdn.net/cover/rakushou-hyper-doll.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2522,
+  "aniId": 2522,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:30.000Z",
+    "updatedAt": "2022-05-15T18:07:15.000Z",
+    "checkedAt": "2022-05-15T18:07:15.000Z",
+    "id": 2522,
+    "type": "anime",
+    "title": "Rakushou! Hyper Doll",
+    "altTitle": [
+      "Hyperdoll: Mew & Mica the Easy Fighter",
+      "Rakusho! Hyper Doll",
+      "Hyper Dolls",
+      "楽勝! ハイパードール"
+    ],
+    "url": "https://myanimelist.net/anime/2522/Rakushou_Hyper_Doll",
+    "image": "https://cdn.myanimelist.net/images/anime/3/29206.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=918"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=681"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 918
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:21.000Z",
+    "updatedAt": "2022-05-15T20:28:59.000Z",
+    "checkedAt": "2022-05-15T20:28:59.000Z",
+    "id": 2522,
+    "type": "anime",
+    "title": "Rakushou! Hyper Doll",
+    "altTitle": [
+      "Hyper Doll",
+      "楽勝! ハイパードール",
+      "Hyperdoll: Mew & Mica the Easy Fighter",
+      "Rakusho! Hyper Doll"
+    ],
+    "url": "https://anilist.co/anime/2522",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2522.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2522,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T22:54:41.000Z",
+  "checkedAt": "2022-05-14T22:54:41.000Z",
+  "id": 8728,
+  "type": "anime",
+  "title": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday",
+  "altTitle": [
+    "コードギアス 反逆のルルーシュ キセキの誕生日[バースデー]"
+  ],
+  "url": "https://myanimelist.net/anime/8728/Code_Geass__Hangyaku_no_Lelouch_-_Kiseki_no_Birthday",
+  "image": "https://cdn.myanimelist.net/images/anime/6/24108.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.geass.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5373"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Code_Geass#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5373,
+  "Pages": {
+    "9anime": {
+      "kmp4": {
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5520,
+        "identifier": "kmp4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday",
+        "url": "https://9anime.to/watch/code-geass-hangyaku-no-lelouch-kiseki-no-birthday.kmp4",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/0c46c3d6985147d24fc9bd9e44b5f146.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8728,
+        "aniId": 8728,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "8728": {
+        "identifier": "8728",
+        "malId": 8728,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday",
+        "url": "https://animixplay.to/anime/8728"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-05-14T23:18:29.000Z",
+  "checkedAt": "2022-05-14T23:18:29.000Z",
+  "id": 2555,
+  "type": "anime",
+  "title": "Shoukoushi Cedie",
+  "altTitle": [
+    "Sekai Meisaku Gekijou",
+    "Little Prince Cedie",
+    "Little Lord Fauntleroy",
+    "小公子セディ"
+  ],
+  "url": "https://myanimelist.net/anime/2555/Shoukoushi_Cedie",
+  "image": "https://cdn.myanimelist.net/images/anime/5/3273.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dbeat.bandaivisual.co.jp/meisaku/sedy.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2296"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2077"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Little_Lord_Fauntleroy_%28anime%29"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2296,
+  "Pages": {
+    "9anime": {
+      "jl73": {
+        "createdAt": "2020-10-12T15:52:12.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4898,
+        "identifier": "jl73",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shoukoushi Cedie",
+        "url": "https://9anime.to/watch/shoukoushi-cedie.jl73",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZRRUPgtWD3g/V-baZTxeDGI/AAAAAAABAps/r_V49zs4Odo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2555,
+        "aniId": 2555,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shoukoushi-cedie": {
+        "createdAt": "2021-09-29T06:03:56.000Z",
+        "updatedAt": "2021-09-29T06:33:02.000Z",
+        "checkedAt": null,
+        "id": 38775,
+        "identifier": "shoukoushi-cedie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shoukoushi Cedie",
+        "url": "https://gogoanime.pe/category/shoukoushi-cedie",
+        "image": "https://gogocdn.net/cover/shoukoushi-cedie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2555,
+        "aniId": 2555,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2555": {
+        "identifier": "2555",
+        "malId": 2555,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shoukoushi Cedie",
+        "url": "https://animixplay.to/anime/2555"
+      }
+    },
+    "YugenAnime": {
+      "4154": {
+        "identifier": "4154",
+        "malId": 2555,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shoukoushi Cedie",
+        "url": "https://yugen.to/anime/4154/shoukoushi-cedie/"
+      }
+    }
+  }
+}

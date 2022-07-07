@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T16:00:45.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18341,
+  "identifier": "hitorigurashi-no-shougakusei",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Hitorigurashi no Shougakusei",
+  "url": "https://gogoanime.vc/category/hitorigurashi-no-shougakusei",
+  "image": "https://images.gogoanime.tv/cover/hitorigurashi-no-shougakusei.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 35235,
+  "aniId": 98615,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:53.000Z",
+    "updatedAt": "2022-05-14T22:48:53.000Z",
+    "checkedAt": "2022-05-14T22:48:53.000Z",
+    "id": 35235,
+    "type": "anime",
+    "title": "Hitorigurashi no Shougakusei",
+    "altTitle": [
+      "Hitori Kurashi no Shougakusei",
+      "Grade Schooler Living Alone",
+      "ひとり暮らしの小学生"
+    ],
+    "url": "https://myanimelist.net/anime/35235/Hitorigurashi_no_Shougakusei",
+    "image": "https://cdn.myanimelist.net/images/anime/11/87427.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.signal-md.co.jp/works/hitorigurashinoshogakusei/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13025"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23223"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E6%9A%AE%E3%82%89%E3%81%97%E3%81%AE%E5%B0%8F%E5%AD%A6%E7%94%9F"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13025
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:25.000Z",
+    "updatedAt": "2022-05-15T11:11:23.000Z",
+    "checkedAt": "2022-05-15T11:11:23.000Z",
+    "id": 98615,
+    "type": "anime",
+    "title": "Hitorigurashi no Shougakusei",
+    "altTitle": [
+      "Hitorigurashi no Shougakusei",
+      "ひとり暮らしの小学生",
+      "Hitori Kurashi no Shougakusei",
+      "Grade Schooler Living Alone"
+    ],
+    "url": "https://anilist.co/anime/98615",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98615-r1mEkOOMg7GR.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 35235,
+    "deletedAt": null
+  }
+}

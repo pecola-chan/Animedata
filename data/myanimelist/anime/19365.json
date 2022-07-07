@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-14T16:56:49.000Z",
+  "checkedAt": "2022-05-14T16:56:49.000Z",
+  "id": 19365,
+  "type": "anime",
+  "title": "Samurai Flamenco",
+  "altTitle": [
+    "Samumenco",
+    "Samurai Flamenco",
+    "サムライフラメンコ"
+  ],
+  "url": "https://myanimelist.net/anime/19365/Samurai_Flamenco",
+  "image": "https://cdn.myanimelist.net/images/anime/11/54319.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.samumenco.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9967"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15498"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Samurai_Flamenco"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/samurai-flamenco"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9967,
+  "Pages": {
+    "9anime": {
+      "x1wv": {
+        "createdAt": "2020-10-12T15:56:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10063,
+        "identifier": "x1wv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Samurai Flamenco",
+        "url": "https://9anime.to/watch/samurai-flamenco.x1wv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6qEPhhAdoOc/V8UAFny7mPI/AAAAAAAA6UY/_F7SLafxDEw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19365,
+        "aniId": 19365,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "samurai-flamenco": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20419,
+        "identifier": "samurai-flamenco",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Samurai Flamenco",
+        "url": "https://gogoanime.vc/category/samurai-flamenco",
+        "image": "https://images.gogoanime.tv/images/anime/S/Samurai Flamenco.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19365,
+        "aniId": 19365,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1200": {
+        "identifier": "1200",
+        "malId": 19365,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Samurai Flamenco",
+        "url": "https://animepahe.com/a/1200"
+      }
+    },
+    "AniMixPlay": {
+      "19365": {
+        "identifier": "19365",
+        "malId": 19365,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Samurai Flamenco",
+        "url": "https://animixplay.to/anime/19365"
+      }
+    },
+    "YugenAnime": {
+      "1631": {
+        "identifier": "1631",
+        "malId": 19365,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Samurai Flamenco",
+        "url": "https://yugen.to/anime/1631/samurai-flamenco/"
+      }
+    }
+  }
+}

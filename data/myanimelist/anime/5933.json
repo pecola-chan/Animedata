@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-15T01:34:54.000Z",
+  "checkedAt": "2022-05-15T01:34:54.000Z",
+  "id": 5933,
+  "type": "anime",
+  "title": "Shiroi Kiba White Fang Monogatari",
+  "altTitle": [
+    "White Fang Story",
+    "白い牙ホワイトファング物語"
+  ],
+  "url": "https://myanimelist.net/anime/5933/Shiroi_Kiba_White_Fang_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/11/81828.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sp.sunrise-inc.co.jp/s/chronicle_info.php?crid=13"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2360"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3354"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%99%BD%E3%81%84%E7%89%99_%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B0%E7%89%A9%E8%AA%9E"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2360,
+  "Pages": {
+    "9anime": {
+      "5jpq": {
+        "createdAt": "2021-01-30T01:59:36.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34339,
+        "identifier": "5jpq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shiroi Kiba White Fang Monogatari",
+        "url": "https://9anime.to/watch/shiroi-kiba-white-fang-monogatari.5jpq",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/5961b4e9a800b916378ccf77c7f7790a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5933,
+        "aniId": 5933,
+        "deletedAt": null
+      }
+    }
+  }
+}

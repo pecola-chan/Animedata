@@ -1,0 +1,52 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-29T00:53:56.000Z",
+  "checkedAt": "2022-05-29T00:53:56.000Z",
+  "id": 32943,
+  "type": "anime",
+  "title": "Hikari: Kariya wo Tsunagu Monogatari",
+  "altTitle": [
+    "Hikari: A Story Connected with Kariya",
+    "ひかり ~刈谷をつなぐ物語~"
+  ],
+  "url": "https://myanimelist.net/anime/32943/Hikari__Kariya_wo_Tsunagu_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/anime/10/79276.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kariya-guide.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11994"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11994,
+  "Pages": {
+    "9anime": {
+      "p0yx": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7780,
+        "identifier": "p0yx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hikari: Kariya wo Tsunagu Monogatari",
+        "url": "https://9anime.to/watch/hikari-kariya-wo-tsunagu-monogatari.p0yx",
+        "image": "https://static.akacdn.ru/files/images/2020/03/49b26288887491035ce7f574283a9cf1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32943,
+        "aniId": 108597,
+        "deletedAt": null
+      }
+    }
+  }
+}

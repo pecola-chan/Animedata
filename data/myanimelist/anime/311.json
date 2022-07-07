@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:38:02.000Z",
+  "updatedAt": "2022-05-15T00:04:05.000Z",
+  "checkedAt": "2022-05-15T00:04:05.000Z",
+  "id": 311,
+  "type": "anime",
+  "title": "Ace wo Nerae!",
+  "altTitle": [
+    "Ace o Nerae",
+    "Aim for the Ace!",
+    "エースをねらえ!"
+  ],
+  "url": "https://myanimelist.net/anime/311/Ace_wo_Nerae",
+  "image": "https://cdn.myanimelist.net/images/anime/1414/91264.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/old/tv/data/t_ace_nerae.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1072"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=405"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aim_for_the_Ace!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1072,
+  "Pages": {
+    "9anime": {
+      "4wy7": {
+        "createdAt": "2020-10-12T15:50:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2416,
+        "identifier": "4wy7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ace wo Nerae!",
+        "url": "https://9anime.to/watch/ace-wo-nerae.4wy7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-NkUsn8PZ8Fs/V9ZgIvOBE8I/AAAAAAAA9kY/DuEH2GfaM34/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 311,
+        "aniId": 311,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ace-wo-nerae": {
+        "createdAt": "2020-10-12T15:59:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16370,
+        "identifier": "ace-wo-nerae",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ace wo Nerae!",
+        "url": "https://gogoanime.vc/category/ace-wo-nerae",
+        "image": "https://cdnimg.xyz/cover/ace-wo-nerae.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 311,
+        "aniId": 311,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "311": {
+        "identifier": "311",
+        "malId": 311,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ace wo Nerae!",
+        "url": "https://animixplay.to/anime/311"
+      }
+    },
+    "YugenAnime": {
+      "111": {
+        "identifier": "111",
+        "malId": 311,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ace wo Nerae!",
+        "url": "https://yugen.to/anime/111/ace-wo-nerae/"
+      }
+    }
+  }
+}

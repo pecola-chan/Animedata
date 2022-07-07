@@ -1,0 +1,162 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T16:18:20.000Z",
+  "checkedAt": "2022-05-14T16:18:20.000Z",
+  "id": 37349,
+  "type": "anime",
+  "title": "Goblin Slayer",
+  "altTitle": [
+    "Goblin Slayer",
+    "ゴブリンスレイヤー"
+  ],
+  "url": "https://myanimelist.net/anime/37349/Goblin_Slayer",
+  "image": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.goblinslayer.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13831"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20672"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Goblin_Slayer"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277074"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/goblin-slayer"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13831,
+  "Pages": {
+    "9anime": {
+      "08w3": {
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2022-06-14T01:32:11.000Z",
+        "checkedAt": "2022-06-14T01:32:11.000Z",
+        "id": 487,
+        "identifier": "08w3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Goblin Slayer",
+        "url": "https://9anime.to/watch/goblin-slayer.08w3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/86/867d94c9dbf91633d13188d1f591d94a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37349,
+        "aniId": 101165,
+        "deletedAt": null
+      },
+      "zjkm": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2022-06-05T05:00:24.000Z",
+        "checkedAt": "2022-06-05T05:00:24.000Z",
+        "id": 11136,
+        "identifier": "zjkm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Goblin Slayer (Dub)",
+        "url": "https://9anime.to/watch/goblin-slayer-dub.zjkm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/11/f4f4be040dca2b22fa73fdd6f0f4dc46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37349,
+        "aniId": 101165,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "goblin-slayer": {
+        "createdAt": "2020-10-12T16:00:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17935,
+        "identifier": "goblin-slayer",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Goblin Slayer",
+        "url": "https://gogoanime.vc/category/goblin-slayer",
+        "image": "https://cdnimg.xyz/cover/goblin-slayer.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37349,
+        "aniId": 101165,
+        "deletedAt": null
+      },
+      "goblin-slayer-dub": {
+        "createdAt": "2020-10-12T16:00:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17936,
+        "identifier": "goblin-slayer-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Goblin Slayer (Dub)",
+        "url": "https://gogoanime.vc/category/goblin-slayer-dub",
+        "image": "https://cdnimg.xyz/cover/goblin-slayer-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37349,
+        "aniId": 101165,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2804": {
+        "identifier": "2804",
+        "malId": 37349,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Goblin Slayer",
+        "url": "https://animepahe.com/a/2804"
+      }
+    },
+    "AniMixPlay": {
+      "37349": {
+        "identifier": "37349",
+        "malId": 37349,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Goblin Slayer",
+        "url": "https://animixplay.to/anime/37349"
+      }
+    },
+    "YugenAnime": {
+      "583": {
+        "identifier": "583",
+        "malId": 37349,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Goblin Slayer",
+        "url": "https://yugen.to/anime/583/goblin-slayer/"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2022-05-14T22:10:54.000Z",
+  "checkedAt": "2022-05-14T22:10:54.000Z",
+  "id": 2920,
+  "type": "anime",
+  "title": "Ashita no Joe (Movie)",
+  "altTitle": [
+    "あしたのジョー (1980)"
+  ],
+  "url": "https://myanimelist.net/anime/2920/Ashita_no_Joe_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/7/51837.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1631"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3475"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ashita_No_Joe"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1631,
+  "Pages": {
+    "9anime": {
+      "8jxn": {
+        "createdAt": "2020-10-12T15:51:28.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3879,
+        "identifier": "8jxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ashita no Joe (Movie)",
+        "url": "https://9anime.to/watch/ashita-no-joe-movie.8jxn",
+        "image": "https://static.akacdn.ru/files/images/2020/02/27ba0d15931c6ef6dac813050fd9f45a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2920,
+        "aniId": 2920,
+        "deletedAt": null
+      },
+      "9k00": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4313,
+        "identifier": "9k00",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ashita no Joe (Movie) (Dub)",
+        "url": "https://9anime.to/watch/ashita-no-joe-movie-dub.9k00",
+        "image": "https://static.akacdn.ru/files/images/2020/02/2ec52df83c2dc8c80de3ca8284f93351.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2920,
+        "aniId": 2920,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3374": {
+        "identifier": "3374",
+        "malId": 2920,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ashita no Joe (Movie)",
+        "url": "https://animepahe.com/a/3374"
+      }
+    },
+    "AniMixPlay": {
+      "2920": {
+        "identifier": "2920",
+        "malId": 2920,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ashita no Joe (Movie)",
+        "url": "https://animixplay.to/anime/2920"
+      }
+    }
+  }
+}

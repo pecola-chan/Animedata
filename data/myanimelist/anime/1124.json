@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T20:34:46.000Z",
+  "checkedAt": "2022-05-14T20:34:46.000Z",
+  "id": 1124,
+  "type": "anime",
+  "title": "Seikai no Danshou: Tanjou",
+  "altTitle": [
+    "Seikai no Danshou: Birth",
+    "Passage of the Stars: Birth",
+    "Seikai no Danshou: Tanjyou",
+    "Lost Chapter of the Stars: Birth",
+    "Crest of the Stars: Birth",
+    "星界の断章 “誕生”"
+  ],
+  "url": "https://myanimelist.net/anime/1124/Seikai_no_Danshou__Tanjou",
+  "image": "https://cdn.myanimelist.net/images/anime/12/61103.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/seikai/03/window.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=787"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Seikai_no_Dansh%C5%8D"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6,
+  "Pages": {
+    "9anime": {
+      "j62y": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4730,
+        "identifier": "j62y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikai no Danshou: Tanjou (Dub)",
+        "url": "https://9anime.to/watch/seikai-no-danshou-tanjou-dub.j62y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-KJCnB374ILk/WBxJt2BVSaI/AAAAAAABNP4/0DZ-Civ43-o/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1124,
+        "aniId": 1124,
+        "deletedAt": null
+      },
+      "k4xr": {
+        "createdAt": "2020-10-12T15:52:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5273,
+        "identifier": "k4xr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seikai no Danshou: Tanjou",
+        "url": "https://9anime.to/watch/seikai-no-danshou-tanjou.k4xr",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-e3h28PGO-tQ/WBxJu7AT-bI/AAAAAAABNP8/8OlzpMnHDVU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1124,
+        "aniId": 1124,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1124": {
+        "identifier": "1124",
+        "malId": 1124,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Seikai no Danshou: Tanjou",
+        "url": "https://animixplay.to/anime/1124"
+      }
+    },
+    "YugenAnime": {
+      "6876": {
+        "identifier": "6876",
+        "malId": 1124,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Seikai no Danshou: Tanjou",
+        "url": "https://yugen.to/anime/6876/seikai-no-danshou-tanjou/"
+      }
+    }
+  }
+}

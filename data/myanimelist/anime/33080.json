@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T17:12:02.000Z",
+  "checkedAt": "2022-05-14T17:12:02.000Z",
+  "id": 33080,
+  "type": "anime",
+  "title": "Brotherhood: Final Fantasy XV",
+  "altTitle": [
+    "BROTHERHOOD FINAL FANTASY XV"
+  ],
+  "url": "https://myanimelist.net/anime/33080/Brotherhood__Final_Fantasy_XV",
+  "image": "https://cdn.myanimelist.net/images/anime/13/79397.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jp.square-enix.com/ff15/brotherhood/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12053"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18200"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12053,
+  "Pages": {
+    "9anime": {
+      "vv3v": {
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-11-24T23:06:02.000Z",
+        "checkedAt": null,
+        "id": 9458,
+        "identifier": "vv3v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Brotherhood Final Fantasy XV",
+        "url": "https://9anime.to/watch/brotherhood-final-fantasy-xv.vv3v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/ce3deb25d8ad768e3f0b16294994032d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33080,
+        "aniId": 21728,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "brotherhood-final-fantasy-xv": {
+        "createdAt": "2020-10-12T16:00:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16949,
+        "identifier": "brotherhood-final-fantasy-xv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Brotherhood: Final Fantasy XV",
+        "url": "https://gogoanime.vc/category/brotherhood-final-fantasy-xv",
+        "image": "https://gogocdn.net/cover/brotherhood-final-fantasy-xv.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33080,
+        "aniId": 21728,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "917": {
+        "identifier": "917",
+        "malId": 33080,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Brotherhood: Final Fantasy XV",
+        "url": "https://animepahe.com/a/917"
+      }
+    },
+    "AniMixPlay": {
+      "33080": {
+        "identifier": "33080",
+        "malId": 33080,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Brotherhood: Final Fantasy XV",
+        "url": "https://animixplay.to/anime/33080"
+      }
+    },
+    "YugenAnime": {
+      "3205": {
+        "identifier": "3205",
+        "malId": 33080,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Brotherhood: Final Fantasy XV",
+        "url": "https://yugen.to/anime/3205/brotherhood-final-fantasy-xv/"
+      }
+    }
+  }
+}

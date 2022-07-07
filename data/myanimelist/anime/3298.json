@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:38:36.000Z",
+  "updatedAt": "2022-05-14T21:00:17.000Z",
+  "checkedAt": "2022-05-14T21:00:17.000Z",
+  "id": 3298,
+  "type": "anime",
+  "title": "Hatenkou Yuugi",
+  "altTitle": [
+    "Hatenkou Yugi",
+    "Dazzle",
+    "Hatenkou Yugi",
+    "破天荒遊戯"
+  ],
+  "url": "https://myanimelist.net/anime/3298/Hatenkou_Yuugi",
+  "image": "https://cdn.myanimelist.net/images/anime/1783/98630.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hatenkouyugi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5533"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7820"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dazzle_(manga)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/hatenkou-yugi"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5533,
+  "Pages": {
+    "9anime": {
+      "x5ov": {
+        "createdAt": "2020-10-12T15:56:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10144,
+        "identifier": "x5ov",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hatenkou Yuugi",
+        "url": "https://9anime.to/watch/hatenkou-yuugi.x5ov",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gi_NAHMeeTo/WOJUbyXfOoI/AAAAAAAAfRw/vBk07GKXcOY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3298,
+        "aniId": 3298,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hatenkou-yuugi": {
+        "createdAt": "2021-08-30T08:36:49.000Z",
+        "updatedAt": "2021-08-30T09:06:34.000Z",
+        "checkedAt": null,
+        "id": 38479,
+        "identifier": "hatenkou-yuugi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hatenkou Yuugi",
+        "url": "https://gogoanime.pe/category/hatenkou-yuugi",
+        "image": "https://gogocdn.net/images/anime/H/hatenkou-yuugi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3298,
+        "aniId": 3298,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3298": {
+        "identifier": "3298",
+        "malId": 3298,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hatenkou Yuugi",
+        "url": "https://animixplay.to/anime/3298"
+      }
+    },
+    "YugenAnime": {
+      "2735": {
+        "identifier": "2735",
+        "malId": 3298,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hatenkou Yuugi",
+        "url": "https://yugen.to/anime/2735/hatenkou-yuugi/"
+      }
+    }
+  }
+}

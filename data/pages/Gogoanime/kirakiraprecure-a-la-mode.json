@@ -1,0 +1,90 @@
+{
+  "createdAt": "2021-01-21T13:33:52.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 34026,
+  "identifier": "kirakiraprecure-a-la-mode",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kirakira☆Precure A La Mode",
+  "url": "https://gogoanime.vc/category/kirakiraprecure-a-la-mode",
+  "image": "https://gogocdn.net/cover/kirakiraprecure-a-la-mode.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 34290,
+  "aniId": 98059,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:49.000Z",
+    "updatedAt": "2022-05-14T16:43:14.000Z",
+    "checkedAt": "2022-05-14T16:43:14.000Z",
+    "id": 34290,
+    "type": "anime",
+    "title": "Kirakira☆Precure A La Mode",
+    "altTitle": [
+      "Kirakira☆Precure À La Mode",
+      "キラキラ☆プリキュアアラモード"
+    ],
+    "url": "https://myanimelist.net/anime/34290/Kirakira☆Precure_A_La_Mode",
+    "image": "https://cdn.myanimelist.net/images/anime/12/88612.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/precure_alamode/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12503"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18962"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kirakira_PreCure_a_la_Mode"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-279661"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 12503
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:15.000Z",
+    "updatedAt": "2022-05-15T13:14:11.000Z",
+    "checkedAt": "2022-05-15T13:14:11.000Z",
+    "id": 98059,
+    "type": "anime",
+    "title": "Kirakira☆Precure a la Mode",
+    "altTitle": [
+      "KIRA KIRA☆PRETTY CURE A LA MODE",
+      "キラキラ☆プリキュアアラモード",
+      "Kirakira Pretty Cure a la Mode"
+    ],
+    "url": "https://anilist.co/anime/98059",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98059-rT4gGYYPpJxH.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/kira-kirapretty-cure-a-la-mode"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G6W47P0ER/KIRA-KIRAPRETTY-CURE-A-LA-MODE"
+      }
+    ],
+    "malId": 34290,
+    "deletedAt": null
+  }
+}

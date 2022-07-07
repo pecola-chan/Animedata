@@ -1,0 +1,66 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T17:19:28.000Z",
+  "checkedAt": "2022-05-14T17:19:28.000Z",
+  "id": 41660,
+  "type": "anime",
+  "title": "Yesterday wo Utatte: Haishin-ban Episode",
+  "altTitle": [
+    "Sing \"Yesterday\" for Me",
+    "イエスタデイをうたって 配信版エピソード"
+  ],
+  "url": "https://myanimelist.net/anime/41660/Yesterday_wo_Utatte__Haishin-ban_Episode",
+  "image": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://singyesterday.com/onair/#media02"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14822"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sing_%22Yesterday%22_for_Me#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14822,
+  "Pages": {
+    "9anime": {
+      "2140": {
+        "createdAt": "2020-10-12T15:48:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 39,
+        "identifier": "2140",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yesterday wo Utatte Extra",
+        "url": "https://9anime.to/watch/yesterday-wo-utatte-extra.2140",
+        "image": "https://static.akacdn.ru/files/images/2020/04/0e912b9d935d79be473134cef9656fc5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41660,
+        "aniId": 117496,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "41660": {
+        "identifier": "41660",
+        "malId": 41660,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yesterday wo Utatte: Haishin-ban Episode",
+        "url": "https://animixplay.to/anime/41660"
+      }
+    }
+  }
+}

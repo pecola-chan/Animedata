@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T20:18:23.000Z",
+  "checkedAt": "2022-05-14T20:18:23.000Z",
+  "id": 6636,
+  "type": "anime",
+  "title": "Chou Kousoku Galvion",
+  "altTitle": [
+    "Cho Kosoku Galvion",
+    "Super High Speed Galvion",
+    "超攻速ガルビオン"
+  ],
+  "url": "https://myanimelist.net/anime/6636/Chou_Kousoku_Galvion",
+  "image": "https://cdn.myanimelist.net/images/anime/2/56453.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4928"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1274"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Galvion"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4928,
+  "Pages": {
+    "9anime": {
+      "m19z": {
+        "createdAt": "2020-10-12T15:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6312,
+        "identifier": "m19z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super High Speed Galvion",
+        "url": "https://9anime.to/watch/super-high-speed-galvion.m19z",
+        "image": "https://static.akacdn.ru/files/images/2018/03/2efa205400cda42519d7727a69300610.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6636,
+        "aniId": 6636,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chou-kousoku-galvion": {
+        "createdAt": "2020-10-12T16:00:07.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17080,
+        "identifier": "chou-kousoku-galvion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chou Kousoku Galvion",
+        "url": "https://gogoanime.vc/category/chou-kousoku-galvion",
+        "image": "https://cdnimg.xyz/cover/chou-kousoku-galvion.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6636,
+        "aniId": 6636,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6636": {
+        "identifier": "6636",
+        "malId": 6636,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Chou Kousoku Galvion",
+        "url": "https://animixplay.to/anime/6636"
+      }
+    },
+    "YugenAnime": {
+      "2560": {
+        "identifier": "2560",
+        "malId": 6636,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Chou Kousoku Galvion",
+        "url": "https://yugen.to/anime/2560/chou-kousoku-galvion/"
+      }
+    }
+  }
+}

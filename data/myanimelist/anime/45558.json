@@ -1,0 +1,64 @@
+{
+  "createdAt": "2021-02-09T04:11:04.000Z",
+  "updatedAt": "2022-05-15T00:11:53.000Z",
+  "checkedAt": "2022-05-15T00:11:53.000Z",
+  "id": 45558,
+  "type": "anime",
+  "title": "Fanren Xiu Xian Chuan: Yan Jia Bao Dazhan",
+  "altTitle": [
+    "Fanren Xiu Xian Chuan Special",
+    "A Record of a Mortal's Journey to Immortality Special",
+    "Fanren Xiu Xian Chuan Tebie Pian: Yan Jia Bao Zhi Zhan",
+    "凡人修仙传 特别篇 燕家堡大战"
+  ],
+  "url": "https://myanimelist.net/anime/45558/Fanren_Xiu_Xian_Chuan__Yan_Jia_Bao_Dazhan",
+  "image": "https://cdn.myanimelist.net/images/anime/1323/114855.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28223043"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://baike.baidu.com/item/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0/23486425"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "mxo8": {
+        "createdAt": "2021-02-09T04:13:55.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34649,
+        "identifier": "mxo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fanren Xiu Xian Chuan Special",
+        "url": "https://9anime.to/watch/fanren-xiu-xian-chuan-special.mxo8",
+        "image": "//static.bunnycdn.ru/i/cache/images/1/1e/1e78c1d55bf3875012fc858eee5ed18d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 45558,
+        "aniId": 129202,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "45558": {
+        "identifier": "45558",
+        "malId": 45558,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Fanren Xiu Xian Chuan: Yan Jia Bao Dazhan",
+        "url": "https://animixplay.to/anime/45558"
+      }
+    }
+  }
+}

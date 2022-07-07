@@ -1,0 +1,47 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-06-27T23:13:27.000Z",
+  "checkedAt": "2022-06-27T23:13:27.000Z",
+  "id": 31170,
+  "type": "anime",
+  "title": "Youkai Ninpouchou Jiraiya!",
+  "altTitle": [
+    "妖怪忍法帖ジライヤ！PV"
+  ],
+  "url": "https://myanimelist.net/anime/31170/Youkai_Ninpouchou_Jiraiya",
+  "image": "https://cdn.myanimelist.net/images/anime/6/76328.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.youtube.com/watch?v=euQfvc-HwKY"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "knpv": {
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5549,
+        "identifier": "knpv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Youkai Ninpouchou Jiraiya!",
+        "url": "https://9anime.to/watch/youkai-ninpouchou-jiraiya.knpv",
+        "image": "https://static.akacdn.ru/static/images/2019/02/56065ead591d25f8f3d8a4fb72629df7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31170,
+        "aniId": 110443,
+        "deletedAt": null
+      }
+    }
+  }
+}

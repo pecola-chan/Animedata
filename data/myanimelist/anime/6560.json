@@ -1,0 +1,56 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-14T20:13:41.000Z",
+  "checkedAt": "2022-05-14T20:13:41.000Z",
+  "id": 6560,
+  "type": "anime",
+  "title": "Popee the Performer",
+  "altTitle": [
+    "Popee the Clown",
+    "POPEE the ぱフォーマー"
+  ],
+  "url": "https://myanimelist.net/anime/6560/Popee_the_Performer",
+  "image": "https://cdn.myanimelist.net/images/anime/1682/110199.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kids-station.com/minisite/popee/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8471"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%94%E3%83%BC%E3%82%B6%E3%81%B1%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8471,
+  "Pages": {
+    "9anime": {
+      "yjvp": {
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10695,
+        "identifier": "yjvp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Popee the Performer",
+        "url": "https://9anime.to/watch/popee-the-performer.yjvp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-M1sLk2WnwY4/V7YclF4RRYI/AAAAAAAA4DA/2cHguE9rznw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6560,
+        "aniId": 6560,
+        "deletedAt": null
+      }
+    }
+  }
+}

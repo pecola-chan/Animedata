@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:40:05.000Z",
+  "updatedAt": "2022-05-14T17:17:16.000Z",
+  "checkedAt": "2022-05-14T17:17:16.000Z",
+  "id": 38276,
+  "type": "anime",
+  "title": "Houkago Saikoro Club",
+  "altTitle": [
+    "Houkago Saikoro Kurabu",
+    "After School Dice Club",
+    "放課後さいころ倶楽部"
+  ],
+  "url": "https://myanimelist.net/anime/38276/Houkago_Saikoro_Club",
+  "image": "https://cdn.myanimelist.net/images/anime/1035/111624.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://saikoro-club.com/sp/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14386"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22246"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hōkago_Saikoro_Club#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/after-school-dice-club"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14386,
+  "Pages": {
+    "9anime": {
+      "3opr": {
+        "createdAt": "2020-10-12T15:49:48.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1882,
+        "identifier": "3opr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Houkago Saikoro Club",
+        "url": "https://9anime.to/watch/houkago-saikoro-club.3opr",
+        "image": "https://static.akacdn.ru/files/images/2018/10/5f88a25590f77cf066948cccf4383a75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38276,
+        "aniId": 104115,
+        "deletedAt": null
+      },
+      "5ojm": {
+        "createdAt": "2020-10-12T15:50:31.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2717,
+        "identifier": "5ojm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Houkago Saikoro Club (Dub)",
+        "url": "https://9anime.to/watch/houkago-saikoro-club-dub.5ojm",
+        "image": "https://static.akacdn.ru/files/images/2019/10/b045e33047ebb18876fb45558b579ffa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38276,
+        "aniId": 104115,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "houkago-saikoro-club": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18374,
+        "identifier": "houkago-saikoro-club",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Houkago Saikoro Club",
+        "url": "https://gogoanime.vc/category/houkago-saikoro-club",
+        "image": "https://cdnimg.xyz/cover/houkago-saikoro-club.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38276,
+        "aniId": 104115,
+        "deletedAt": null
+      },
+      "houkago-saikoro-club-dub": {
+        "createdAt": "2020-10-12T16:00:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18375,
+        "identifier": "houkago-saikoro-club-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Houkago Saikoro Club (Dub)",
+        "url": "https://gogoanime.vc/category/houkago-saikoro-club-dub",
+        "image": "https://cdnimg.xyz/cover/houkago-saikoro-club-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38276,
+        "aniId": 104115,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3459": {
+        "identifier": "3459",
+        "malId": 38276,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Houkago Saikoro Club",
+        "url": "https://animepahe.com/a/3459"
+      }
+    },
+    "AniMixPlay": {
+      "38276": {
+        "identifier": "38276",
+        "malId": 38276,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Houkago Saikoro Club",
+        "url": "https://animixplay.to/anime/38276"
+      }
+    },
+    "YugenAnime": {
+      "881": {
+        "identifier": "881",
+        "malId": 38276,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Houkago Saikoro Club",
+        "url": "https://yugen.to/anime/881/houkago-saikoro-club/"
+      }
+    }
+  }
+}

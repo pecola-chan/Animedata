@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T21:28:35.000Z",
+  "checkedAt": "2022-05-14T21:28:35.000Z",
+  "id": 9990,
+  "type": "anime",
+  "title": "Midori-ko",
+  "altTitle": [
+    "Midori-ko",
+    "緑子"
+  ],
+  "url": "https://myanimelist.net/anime/9990/Midori-ko",
+  "image": "https://cdn.myanimelist.net/images/anime/1657/112804.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.midori-ko.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8086"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13263"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%B7%91%E5%AD%90"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8086,
+  "Pages": {
+    "9anime": {
+      "6n20": {
+        "createdAt": "2020-10-12T15:50:49.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3077,
+        "identifier": "6n20",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Midori-ko",
+        "url": "https://9anime.to/watch/midori-ko.6n20",
+        "image": "//static.9anime.to/i/cache/images/2018/04/303219af61cd780f6d532dad8b054379.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9990,
+        "aniId": 9990,
+        "deletedAt": null
+      }
+    }
+  }
+}

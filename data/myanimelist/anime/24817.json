@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:29.000Z",
+  "updatedAt": "2022-05-18T01:34:46.000Z",
+  "checkedAt": "2022-05-18T01:34:46.000Z",
+  "id": 24817,
+  "type": "anime",
+  "title": "Fantasista Stella",
+  "altTitle": [
+    "ファンタジスタ ステラ"
+  ],
+  "url": "https://myanimelist.net/anime/24817/Fantasista_Stella",
+  "image": "https://cdn.myanimelist.net/images/anime/1886/96085.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shogakukan.co.jp/pr/anisun/fs/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10674"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16489"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ファンタジスタ_(漫画)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10674,
+  "Pages": {
+    "9anime": {
+      "z3qw": {
+        "createdAt": "2020-10-12T15:57:04.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10995,
+        "identifier": "z3qw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fantasista Stella",
+        "url": "https://9anime.to/watch/fantasista-stella.z3qw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-LfEESHxsn38/WOMMziNduuI/AAAAAAAAfTs/y93ndNvsHhc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 24817,
+        "aniId": 98963,
+        "deletedAt": null
+      }
+    }
+  }
+}

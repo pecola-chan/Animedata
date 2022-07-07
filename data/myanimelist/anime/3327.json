@@ -1,0 +1,108 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T20:17:30.000Z",
+  "checkedAt": "2022-05-14T20:17:30.000Z",
+  "id": 3327,
+  "type": "anime",
+  "title": "Giant Gorg",
+  "altTitle": [
+    "Kyoshin Gorg",
+    "Kyojin Gorg",
+    "Giant Gorg",
+    "巨神ゴーグ〈ジャイアントゴーグ〉"
+  ],
+  "url": "https://myanimelist.net/anime/3327/Giant_Gorg",
+  "image": "https://cdn.myanimelist.net/images/anime/1784/97034.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.giant-gorg.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2469"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=998"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%A8%E7%A5%9E%E3%82%B4%E3%83%BC%E3%82%B0"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272027"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 2469,
+  "Pages": {
+    "9anime": {
+      "39qy": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1774,
+        "identifier": "39qy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Giant Gorg",
+        "url": "https://9anime.to/watch/giant-gorg.39qy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jm50QleznV8/V8VjjQE40TI/AAAAAAAA6f4/LJZ0Eq2FoLA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3327,
+        "aniId": 3327,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "giant-gorg": {
+        "createdAt": "2020-10-12T16:00:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17873,
+        "identifier": "giant-gorg",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Giant Gorg",
+        "url": "https://gogoanime.vc/category/giant-gorg",
+        "image": "https://gogocdn.net/cover/giant-gorg.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3327,
+        "aniId": 3327,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3327": {
+        "identifier": "3327",
+        "malId": 3327,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Giant Gorg",
+        "url": "https://animixplay.to/anime/3327"
+      }
+    },
+    "YugenAnime": {
+      "1773": {
+        "identifier": "1773",
+        "malId": 3327,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Giant Gorg",
+        "url": "https://yugen.to/anime/1773/giant-gorg/"
+      }
+    }
+  }
+}

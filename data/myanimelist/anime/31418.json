@@ -1,0 +1,132 @@
+{
+  "createdAt": "2020-10-12T15:39:38.000Z",
+  "updatedAt": "2022-05-14T21:30:11.000Z",
+  "checkedAt": "2022-05-14T21:30:11.000Z",
+  "id": 31418,
+  "type": "anime",
+  "title": "KanColle Movie",
+  "altTitle": [
+    "Kankore Movie",
+    "Gekijouban Kantai Collection",
+    "Fleet Girls Collection KanColle Movie Sequence",
+    "劇場版 艦これ"
+  ],
+  "url": "https://myanimelist.net/anime/31418/KanColle_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/7/87590.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kancolle-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11489"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18245"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kantai_Collection"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11489,
+  "Pages": {
+    "9anime": {
+      "1vqw": {
+        "createdAt": "2020-10-12T15:49:19.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1129,
+        "identifier": "1vqw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "KanColle Movie",
+        "url": "https://9anime.to/watch/kancolle-movie.1vqw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-34oHBUUiP-w/V-5xUMsR1hI/AAAAAAABCl0/NYl8rKUUsu4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31418,
+        "aniId": 21295,
+        "deletedAt": null
+      },
+      "o0m5": {
+        "createdAt": "2020-10-12T15:54:05.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7326,
+        "identifier": "o0m5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fleet Girls Collection KanColle Movie Sequence (Dub)",
+        "url": "https://9anime.to/watch/fleet-girls-collection-kancolle-movie-sequence-dub.o0m5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MP9NbNCvRI0/WJg899d79rI/AAAAAAABcAY/LNu8dOs2EWs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31418,
+        "aniId": 21295,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kancolle-movie": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18702,
+        "identifier": "kancolle-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "KanColle Movie",
+        "url": "https://gogoanime.vc/category/kancolle-movie",
+        "image": "https://gogocdn.net/cover/kancolle-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31418,
+        "aniId": 21295,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2275": {
+        "identifier": "2275",
+        "malId": 31418,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "KanColle Movie",
+        "url": "https://animepahe.com/a/2275"
+      }
+    },
+    "AniMixPlay": {
+      "31418": {
+        "identifier": "31418",
+        "malId": 31418,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "KanColle Movie",
+        "url": "https://animixplay.to/anime/31418"
+      }
+    },
+    "YugenAnime": {
+      "2700": {
+        "identifier": "2700",
+        "malId": 31418,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "KanColle Movie",
+        "url": "https://yugen.to/anime/2700/kancolle-movie/"
+      }
+    }
+  }
+}

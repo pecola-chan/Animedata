@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2022-05-14T22:59:41.000Z",
+  "checkedAt": "2022-05-14T22:59:41.000Z",
+  "id": 2082,
+  "type": "anime",
+  "title": "Marriage: Kekkon",
+  "altTitle": [
+    "Marriage",
+    "Marriage ～結婚～"
+  ],
+  "url": "https://myanimelist.net/anime/2082/Marriage__Kekkon",
+  "image": "https://cdn.myanimelist.net/images/anime/2/25672.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2689"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=173"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2689,
+  "Pages": {
+    "9anime": {
+      "j014": {
+        "createdAt": "2020-10-12T15:51:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4562,
+        "identifier": "j014",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Marriage: Kekkon (Dub)",
+        "url": "https://9anime.to/watch/marriage-kekkon-dub.j014",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_FCjrSv9QI4/WIBpMqXSkvI/AAAAAAABaHM/RckCWVch4po/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2082,
+        "aniId": 2082,
+        "deletedAt": null
+      },
+      "zzn2": {
+        "createdAt": "2020-10-12T15:57:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11376,
+        "identifier": "zzn2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Marriage: Kekkon",
+        "url": "https://9anime.to/watch/marriage.zzn2",
+        "image": "//static.9anime.to/i/cache/images/2018/04/dd5623f4b17825cbccd41fa821405ddb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2082,
+        "aniId": 2082,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2082": {
+        "identifier": "2082",
+        "malId": 2082,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Marriage: Kekkon",
+        "url": "https://animixplay.to/anime/2082"
+      }
+    },
+    "YugenAnime": {
+      "11696": {
+        "identifier": "11696",
+        "malId": 2082,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Marriage: Kekkon",
+        "url": "https://yugen.to/anime/11696/marriage-addiction/"
+      }
+    }
+  }
+}

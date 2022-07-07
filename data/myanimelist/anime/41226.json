@@ -1,0 +1,159 @@
+{
+  "createdAt": "2020-10-12T15:40:14.000Z",
+  "updatedAt": "2022-05-14T10:33:08.000Z",
+  "checkedAt": "2022-05-14T10:33:08.000Z",
+  "id": 41226,
+  "type": "anime",
+  "title": "Uzaki-chan wa Asobitai!",
+  "altTitle": [
+    "Uzaki-chan Wants to Play!",
+    "Uzaki-chan Wants to Hang Out!",
+    "宇崎ちゃんは遊びたい！"
+  ],
+  "url": "https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai",
+  "image": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://uzakichan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15382"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23371"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%B4%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E9%81%8A%E3%81%B3%E3%81%9F%E3%81%84!#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282203"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/uzaki-chan-wants-to-hang-out"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15382,
+  "Pages": {
+    "9anime": {
+      "9k20": {
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2022-06-14T00:03:05.000Z",
+        "checkedAt": "2022-06-14T00:03:05.000Z",
+        "id": 4315,
+        "identifier": "9k20",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uzaki-chan wa Asobitai!",
+        "url": "https://9anime.to/watch/uzaki-chan-wants-to-hang-out.9k20",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/02/2e4a6089c88e17b838f329f0a8be4242.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41226,
+        "aniId": 115113,
+        "deletedAt": null
+      },
+      "0505": {
+        "createdAt": "2020-10-12T18:43:05.000Z",
+        "updatedAt": "2022-06-14T00:02:55.000Z",
+        "checkedAt": "2022-06-14T00:02:55.000Z",
+        "id": 23816,
+        "identifier": "0505",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Uzaki-chan wa Asobitai! (Dub)",
+        "url": "https://9anime.to/watch/uzaki-chan-wants-to-hang-out-dub.0505",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5d/5d1a4f6728c4954144e6eca9945861ad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41226,
+        "aniId": 115113,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "uzaki-chan-wa-asobitai": {
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21345,
+        "identifier": "uzaki-chan-wa-asobitai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uzaki-chan wa Asobitai!",
+        "url": "https://gogoanime.vc/category/uzaki-chan-wa-asobitai",
+        "image": "https://gogocdn.net/cover/uzaki-chan-wa-asobitai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41226,
+        "aniId": 115113,
+        "deletedAt": null
+      },
+      "uzaki-chan-wa-asobitai-dub": {
+        "createdAt": "2020-10-12T17:20:10.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23584,
+        "identifier": "uzaki-chan-wa-asobitai-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Uzaki-chan wa Asobitai! (Dub)",
+        "url": "https://gogoanime.vc/category/uzaki-chan-wa-asobitai-dub",
+        "image": "https://gogocdn.net/cover/uzaki-chan-wa-asobitai-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41226,
+        "aniId": 115113,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4029": {
+        "identifier": "4029",
+        "malId": 41226,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Uzaki-chan wa Asobitai!",
+        "url": "https://animepahe.com/a/4029"
+      }
+    },
+    "AniMixPlay": {
+      "41226": {
+        "identifier": "41226",
+        "malId": 41226,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uzaki-chan wa Asobitai!",
+        "url": "https://animixplay.to/anime/41226"
+      }
+    },
+    "YugenAnime": {
+      "3590": {
+        "identifier": "3590",
+        "malId": 41226,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uzaki-chan wa Asobitai!",
+        "url": "https://yugen.to/anime/3590/uzaki-chan-wa-asobitai/"
+      }
+    }
+  }
+}

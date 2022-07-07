@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:28.000Z",
+  "updatedAt": "2022-05-24T18:02:19.000Z",
+  "checkedAt": "2022-05-24T18:02:19.000Z",
+  "id": 2304,
+  "type": "anime",
+  "title": "Mobile Suit SD Gundam Mk IV",
+  "altTitle": [
+    "Kidou Senshi SD Gundam Mk-IV",
+    "機動戦士SDガンダム Mk-IV"
+  ],
+  "url": "https://myanimelist.net/anime/2304/Mobile_Suit_SD_Gundam_Mk_IV",
+  "image": "https://cdn.myanimelist.net/images/anime/9/51237.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/sd-gundam/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1101"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3179"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1101,
+  "Pages": {
+    "9anime": {
+      "z42w": {
+        "createdAt": "2020-10-12T15:57:05.000Z",
+        "updatedAt": "2022-06-14T03:12:01.000Z",
+        "checkedAt": "2022-06-14T03:12:01.000Z",
+        "id": 11003,
+        "identifier": "z42w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kidou Senshi SD Gundam Mk-IV",
+        "url": "https://9anime.to/watch/kidou-senshi-sd-gundam-mk-iv.z42w",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/896905c102e5d909f2061dc2fa5de374.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2304,
+        "aniId": 2304,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2304": {
+        "identifier": "2304",
+        "malId": 2304,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mobile Suit SD Gundam Mk IV",
+        "url": "https://animixplay.to/anime/2304"
+      }
+    },
+    "YugenAnime": {
+      "7527": {
+        "identifier": "7527",
+        "malId": 2304,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mobile Suit SD Gundam Mk IV",
+        "url": "https://yugen.to/anime/7527/mobile-suit-sd-gundam-mk-iv/"
+      }
+    }
+  }
+}

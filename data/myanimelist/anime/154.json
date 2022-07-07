@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T16:39:23.000Z",
+  "checkedAt": "2022-05-14T16:39:23.000Z",
+  "id": 154,
+  "type": "anime",
+  "title": "Shaman King",
+  "altTitle": [
+    "Shaman King",
+    "シャーマンキング"
+  ],
+  "url": "https://myanimelist.net/anime/154/Shaman_King",
+  "image": "https://cdn.myanimelist.net/images/anime/1722/99235.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/shaman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=92"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1174"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shaman_King"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 92,
+  "Pages": {
+    "9anime": {
+      "9748": {
+        "createdAt": "2020-10-12T15:48:35.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 311,
+        "identifier": "9748",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shaman King (Dub)",
+        "url": "https://9anime.to/watch/shaman-king-dub.9748",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MQDEEbOXYJs/WDV7WFLEVEI/AAAAAAABQIk/bRlUlBIyCto/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 154,
+        "aniId": 154,
+        "deletedAt": null
+      },
+      "jvry": {
+        "createdAt": "2020-10-12T15:52:19.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5048,
+        "identifier": "jvry",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shaman King",
+        "url": "https://9anime.to/watch/shaman-king.jvry",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Bw1wdSqVF-A/V5oPrHoZOfI/AAAAAAAAyls/AaAvDzPr73k/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 154,
+        "aniId": 154,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shaman-king": {
+        "createdAt": "2020-10-12T16:01:50.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20561,
+        "identifier": "shaman-king",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shaman King",
+        "url": "https://gogoanime.vc/category/shaman-king",
+        "image": "https://cdnimg.xyz/images/anime/S/shaman-king.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 154,
+        "aniId": 154,
+        "deletedAt": null
+      },
+      "shaman-king-dub": {
+        "createdAt": "2020-10-12T16:01:50.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20562,
+        "identifier": "shaman-king-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shaman King (Dub)",
+        "url": "https://gogoanime.vc/category/shaman-king-dub",
+        "image": "https://cdnimg.xyz/cover/shaman-king-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 154,
+        "aniId": 154,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1660": {
+        "identifier": "1660",
+        "malId": 154,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shaman King",
+        "url": "https://animepahe.com/a/1660"
+      }
+    },
+    "AniMixPlay": {
+      "154": {
+        "identifier": "154",
+        "malId": 154,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shaman King",
+        "url": "https://animixplay.to/anime/154"
+      }
+    },
+    "YugenAnime": {
+      "2724": {
+        "identifier": "2724",
+        "malId": 154,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shaman King",
+        "url": "https://yugen.to/anime/2724/shaman-king/"
+      }
+    }
+  }
+}

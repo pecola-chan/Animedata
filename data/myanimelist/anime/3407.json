@@ -1,0 +1,149 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T16:07:44.000Z",
+  "checkedAt": "2022-05-14T16:07:44.000Z",
+  "id": 3407,
+  "type": "anime",
+  "title": "Blassreiter",
+  "altTitle": [
+    "BLASSREITER -genetic-",
+    "Blassreiter",
+    "ブラスレイター"
+  ],
+  "url": "https://myanimelist.net/anime/3407/Blassreiter",
+  "image": "https://cdn.myanimelist.net/images/anime/11/13199.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nitroplus.co.jp/pc/lineup/an_01/index.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5531"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9069"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Blassreiter"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-62210"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/blassreiter"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 5531,
+  "Pages": {
+    "9anime": {
+      "1r9m": {
+        "createdAt": "2020-10-12T15:49:18.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1101,
+        "identifier": "1r9m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blassreiter",
+        "url": "https://9anime.to/watch/blassreiter.1r9m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Pwp1F7ODqJs/V6H-QOOrcgI/AAAAAAAA0G0/-99tsylR8JY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3407,
+        "aniId": 3407,
+        "deletedAt": null
+      },
+      "xxyw": {
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10431,
+        "identifier": "xxyw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blassreiter (Dub)",
+        "url": "https://9anime.to/watch/blassreiter-dub.xxyw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8J7Y4G1i9tA/V-pZZuY1DcI/AAAAAAABBhI/foNcfQ8kuE0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3407,
+        "aniId": 3407,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blassreiter": {
+        "createdAt": "2020-10-12T16:00:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16849,
+        "identifier": "blassreiter",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blassreiter",
+        "url": "https://gogoanime.vc/category/blassreiter",
+        "image": "https://cdnimg.xyz/images/anime/B/blassreiter.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3407,
+        "aniId": 3407,
+        "deletedAt": null
+      },
+      "blassreiter-dub": {
+        "createdAt": "2020-10-12T16:00:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16850,
+        "identifier": "blassreiter-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blassreiter (Dub)",
+        "url": "https://gogoanime.vc/category/blassreiter-dub",
+        "image": "https://cdnimg.xyz/cover/blassreiter-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3407,
+        "aniId": 3407,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3407": {
+        "identifier": "3407",
+        "malId": 3407,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Blassreiter",
+        "url": "https://animixplay.to/anime/3407"
+      }
+    },
+    "YugenAnime": {
+      "476": {
+        "identifier": "476",
+        "malId": 3407,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Blassreiter",
+        "url": "https://yugen.to/anime/476/blassreiter/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:00:13.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17302,
+  "identifier": "demonbane",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Demonbane",
+  "url": "https://gogoanime.vc/category/demonbane",
+  "image": "https://gogocdn.net/images/anime/D/demonbane.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 766,
+  "aniId": 766,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:08.000Z",
+    "updatedAt": "2022-05-15T04:55:52.000Z",
+    "checkedAt": "2022-05-15T04:55:52.000Z",
+    "id": 766,
+    "type": "anime",
+    "title": "Kishin Houkou Demonbane",
+    "altTitle": [
+      "Demonbane OVA",
+      "機神咆吼デモンベイン"
+    ],
+    "url": "https://myanimelist.net/anime/766/Kishin_Houkou_Demonbane",
+    "image": "https://cdn.myanimelist.net/images/anime/1/766.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.demonbane.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2257"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4933"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Demonbane"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2257
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:44.000Z",
+    "updatedAt": "2022-05-15T12:12:35.000Z",
+    "checkedAt": "2022-05-15T12:12:35.000Z",
+    "id": 766,
+    "type": "anime",
+    "title": "Kishin Houkou Demonbane",
+    "altTitle": [
+      "Demonbane OVA",
+      "機神咆吼デモンベイン"
+    ],
+    "url": "https://anilist.co/anime/766",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/766.jpg",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 766,
+    "deletedAt": null
+  }
+}

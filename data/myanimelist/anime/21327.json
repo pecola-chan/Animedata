@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:23.000Z",
+  "updatedAt": "2022-05-14T17:45:17.000Z",
+  "checkedAt": "2022-05-14T17:45:17.000Z",
+  "id": 21327,
+  "type": "anime",
+  "title": "Isshuukan Friends.",
+  "altTitle": [
+    "One Week Friends",
+    "一週間フレンズ。"
+  ],
+  "url": "https://myanimelist.net/anime/21327/Isshuukan_Friends",
+  "image": "https://cdn.myanimelist.net/images/anime/6/61891.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://oneweekfriends.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10273"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15721"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_Week_Friends"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10273,
+  "Pages": {
+    "9anime": {
+      "72m7": {
+        "createdAt": "2020-10-12T15:50:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3327,
+        "identifier": "72m7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Isshuukan Friends.",
+        "url": "https://9anime.to/watch/isshuukan-friends.72m7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yLpPSfpHYds/V6m1EqX_-jI/AAAAAAAA1sk/9UeSYGnzXME/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21327,
+        "aniId": 20527,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "isshuukan-friends": {
+        "createdAt": "2020-10-12T16:00:51.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18538,
+        "identifier": "isshuukan-friends",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Isshuukan Friends",
+        "url": "https://gogoanime.vc/category/isshuukan-friends",
+        "image": "https://cdnimg.xyz/images/spring/Isshuukan Friends.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21327,
+        "aniId": 20527,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1031": {
+        "identifier": "1031",
+        "malId": 21327,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Isshuukan Friends.",
+        "url": "https://animepahe.com/a/1031"
+      }
+    },
+    "AniMixPlay": {
+      "21327": {
+        "identifier": "21327",
+        "malId": 21327,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Isshuukan Friends.",
+        "url": "https://animixplay.to/anime/21327"
+      }
+    },
+    "YugenAnime": {
+      "1168": {
+        "identifier": "1168",
+        "malId": 21327,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Isshuukan Friends.",
+        "url": "https://yugen.to/anime/1168/isshuukan-friends/"
+      }
+    }
+  }
+}

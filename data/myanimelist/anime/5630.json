@@ -1,0 +1,155 @@
+{
+  "createdAt": "2020-10-12T15:38:48.000Z",
+  "updatedAt": "2022-05-14T09:30:08.000Z",
+  "checkedAt": "2022-05-14T09:30:08.000Z",
+  "id": 5630,
+  "type": "anime",
+  "title": "Higashi no Eden",
+  "altTitle": [
+    "Higashi no Eden",
+    "Eden of The East",
+    "東のエデン"
+  ],
+  "url": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
+  "image": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.juiz.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6238"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10474"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Higashi_no_Eden"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/eden-of-the-east"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6238,
+  "Pages": {
+    "9anime": {
+      "028r": {
+        "createdAt": "2020-10-12T15:48:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 407,
+        "identifier": "028r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Higashi no Eden",
+        "url": "https://9anime.to/watch/eden-of-the-east.028r",
+        "image": "//static.9anime.to/i/cache/images/2018/04/a1f24e2af4f660a21371819229e2c6d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5630,
+        "aniId": 5630,
+        "deletedAt": null
+      },
+      "zwjl": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11313,
+        "identifier": "zwjl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Higashi no Eden (Dub)",
+        "url": "https://9anime.to/watch/higashi-no-eden-dub.zwjl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-d57J6WkJtgg/V9LqVxRp2uI/AAAAAAAA86Y/FwRMsclz2Fg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5630,
+        "aniId": 5630,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "eden-of-the-east": {
+        "createdAt": "2020-10-12T16:00:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17534,
+        "identifier": "eden-of-the-east",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eden of the East",
+        "url": "https://gogoanime.vc/category/eden-of-the-east",
+        "image": "https://cdnimg.xyz/images/anime/E/eden-of-the-east.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5630,
+        "aniId": 5630,
+        "deletedAt": null
+      },
+      "higashi-no-eden-dub": {
+        "createdAt": "2020-10-12T16:00:43.000Z",
+        "updatedAt": "2021-07-23T15:21:33.000Z",
+        "checkedAt": null,
+        "id": 18274,
+        "identifier": "higashi-no-eden-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Higashi no Eden (Dub)",
+        "url": "https://gogoanime.pe/category/higashi-no-eden-dub",
+        "image": "https://gogocdn.net/cover/higashi-no-eden-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 5630,
+        "aniId": 5630,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "674": {
+        "identifier": "674",
+        "malId": 5630,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Higashi no Eden",
+        "url": "https://animepahe.com/a/674"
+      }
+    },
+    "AniMixPlay": {
+      "5630": {
+        "identifier": "5630",
+        "malId": 5630,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Higashi no Eden",
+        "url": "https://animixplay.to/anime/5630"
+      }
+    },
+    "YugenAnime": {
+      "5739": {
+        "identifier": "5739",
+        "malId": 5630,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Higashi no Eden",
+        "url": "https://yugen.to/anime/5739/higashi-no-eden/"
+      }
+    }
+  }
+}

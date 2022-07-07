@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T16:01:06.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19065,
+  "identifier": "la-corda-doro-primo-passo-special",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "La Corda D`Oro ~Primo Passo Special",
+  "url": "https://gogoanime.vc/category/la-corda-doro-primo-passo-special",
+  "image": "https://images.gogoanime.tv/images/anime/L/la-corda-doro.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 5717,
+  "aniId": 5717,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:48.000Z",
+    "updatedAt": "2022-05-15T01:21:05.000Z",
+    "checkedAt": "2022-05-15T01:21:05.000Z",
+    "id": 5717,
+    "type": "anime",
+    "title": "Kiniro no Corda: Secondo Passo",
+    "altTitle": [
+      "Kin'iro no Corda: Secondo Passo",
+      "Kin'iro no Chord: Secondo Passo",
+      "The Golden String: Second Step",
+      "金色のコルダ セコンド・パッソ"
+    ],
+    "url": "https://myanimelist.net/anime/5717/Kiniro_no_Corda__Secondo_Passo",
+    "image": "https://cdn.myanimelist.net/images/anime/8/13179.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.corda-primopasso.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6311"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10592"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/La_Corda_d%27Oro"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6311
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:47.000Z",
+    "updatedAt": "2022-05-15T13:34:23.000Z",
+    "checkedAt": "2022-05-15T13:34:23.000Z",
+    "id": 5717,
+    "type": "anime",
+    "title": "Kiniro no Corda: Secondo Passo",
+    "altTitle": [
+      "La Corda D'Oro: Secondo Passo",
+      "金色のコルダ ～secondo passo～",
+      "Kin'iro no Corda: Secondo Passo",
+      "Kin'iro no Chord: Secondo Passo",
+      "The Golden String: Second Step"
+    ],
+    "url": "https://anilist.co/anime/5717",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5717-PiMUzsejnffg.png",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/la-corda-doro-primo-passo-and-secondo-passo"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GY195880R/La-Corda-dOro-primo-passo-and-secondo-passo"
+      }
+    ],
+    "malId": 5717,
+    "deletedAt": null
+  }
+}

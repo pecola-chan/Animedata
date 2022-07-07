@@ -1,0 +1,144 @@
+{
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2022-05-14T22:47:47.000Z",
+  "checkedAt": "2022-05-14T22:47:47.000Z",
+  "id": 39991,
+  "type": "anime",
+  "title": "Promare: Galo-hen",
+  "altTitle": [
+    "PROMARE（プロメア）ガロ編"
+  ],
+  "url": "https://myanimelist.net/anime/39991/Promare__Galo-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1369/108826.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://promare-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3261"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Promare"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3261,
+  "Pages": {
+    "9anime": {
+      "76l8": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3371,
+        "identifier": "76l8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Promare: Galo-hen (Dub)",
+        "url": "https://9anime.to/watch/promare-galo-hen-dub.76l8",
+        "image": "https://static.akacdn.ru/files/images/c/cc/ccba89ec35c1c48b3f3652a7115cf0a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39991,
+        "aniId": 110261,
+        "deletedAt": null
+      },
+      "z96w": {
+        "createdAt": "2020-10-12T15:57:08.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11114,
+        "identifier": "z96w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Promare: Galo-hen",
+        "url": "https://9anime.to/watch/promare-galo-hen.z96w",
+        "image": "https://static.akacdn.ru/files/images/2019/09/8e5864eb04cbe6ef29a0400d0b09c588.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39991,
+        "aniId": 110261,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "promare-galo-hen": {
+        "createdAt": "2020-10-12T16:01:38.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20169,
+        "identifier": "promare-galo-hen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Promare: Galo-hen",
+        "url": "https://gogoanime.vc/category/promare-galo-hen",
+        "image": "https://cdnimg.xyz/cover/promare-galo-hen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39991,
+        "aniId": 110261,
+        "deletedAt": null
+      },
+      "promare-galo-hen-dub": {
+        "createdAt": "2020-10-12T16:01:38.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20170,
+        "identifier": "promare-galo-hen-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Promare Galo-hen (Dub)",
+        "url": "https://gogoanime.vc/category/promare-galo-hen-dub",
+        "image": "https://gogocdn.net/cover/promare-galo-hen-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39991,
+        "aniId": 110261,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3759": {
+        "identifier": "3759",
+        "malId": 39991,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Promare: Galo-hen",
+        "url": "https://animepahe.com/a/3759"
+      }
+    },
+    "AniMixPlay": {
+      "39991": {
+        "identifier": "39991",
+        "malId": 39991,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Promare: Galo-hen",
+        "url": "https://animixplay.to/anime/39991"
+      }
+    },
+    "YugenAnime": {
+      "5619": {
+        "identifier": "5619",
+        "malId": 39991,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Promare: Galo-hen",
+        "url": "https://yugen.to/anime/5619/promare-galo-hen/"
+      }
+    }
+  }
+}

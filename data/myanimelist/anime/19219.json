@@ -1,0 +1,47 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-26T08:41:17.000Z",
+  "checkedAt": "2022-05-26T08:41:17.000Z",
+  "id": 19219,
+  "type": "anime",
+  "title": "Modern No.2",
+  "altTitle": [
+    "MODERN No.2"
+  ],
+  "url": "https://myanimelist.net/anime/19219/Modern_No2",
+  "image": "https://cdn.myanimelist.net/images/anime/11/51519.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11383"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11383,
+  "Pages": {
+    "9anime": {
+      "z78l": {
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11074,
+        "identifier": "z78l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Modern No.2",
+        "url": "https://9anime.to/watch/modern-no2.z78l",
+        "image": "https://static.akacdn.ru/files/images/2018/05/8218186b45f7bb00090f118dccd0247b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19219,
+        "aniId": 19219,
+        "deletedAt": null
+      }
+    }
+  }
+}

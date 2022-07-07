@@ -1,0 +1,114 @@
+{
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2022-05-15T10:38:58.000Z",
+  "checkedAt": "2022-05-15T10:38:58.000Z",
+  "id": 1001,
+  "type": "anime",
+  "title": "Tide-Line Blue: Kyoudai",
+  "altTitle": [
+    "Tide-Line Blue Special",
+    "Tide-Line Blue Episode 13",
+    "Tide-Line Blue: Brother",
+    "タイドライン・ブルー 兄弟"
+  ],
+  "url": "https://myanimelist.net/anime/1001/Tide-Line_Blue__Kyoudai",
+  "image": "https://cdn.myanimelist.net/images/anime/3/21407.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3340"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5460"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3340,
+  "Pages": {
+    "9anime": {
+      "njrm": {
+        "createdAt": "2020-10-12T15:53:52.000Z",
+        "updatedAt": "2021-07-27T15:21:35.000Z",
+        "checkedAt": null,
+        "id": 7075,
+        "identifier": "njrm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tide-Line Blue: Kyoudai (Dub)",
+        "url": "https://9anime.to/watch/tide-line-blue-kyoudai-dub.njrm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/1da2f58c207026bdbe94d7025fbccd5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 1001,
+        "aniId": 1001,
+        "deletedAt": null
+      },
+      "oko5": {
+        "createdAt": "2020-10-12T15:54:12.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7505,
+        "identifier": "oko5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tide-Line Blue Special",
+        "url": "https://9anime.to/watch/tide-line-blue-special.oko5",
+        "image": "https://static.akacdn.ru/files/images/2018/04/dbbf4fe6e8990948d147360c8b937353.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1001,
+        "aniId": 1001,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tide-line-blue-kyoudai": {
+        "createdAt": "2022-06-14T19:30:00.347Z",
+        "updatedAt": "2022-06-14T20:20:00.000Z",
+        "checkedAt": "2022-06-14T19:30:00.000Z",
+        "id": 41175,
+        "identifier": "tide-line-blue-kyoudai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tide-Line Blue: Kyoudai",
+        "url": "https://gogoanime.sk/category/tide-line-blue-kyoudai",
+        "image": "https://gogocdn.net/cover/tide-line-blue-kyoudai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1001,
+        "aniId": 1001,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1001": {
+        "identifier": "1001",
+        "malId": 1001,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tide-Line Blue: Kyoudai",
+        "url": "https://animixplay.to/anime/1001"
+      }
+    },
+    "YugenAnime": {
+      "15434": {
+        "identifier": "15434",
+        "malId": 1001,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tide-Line Blue: Kyoudai",
+        "url": "https://yugen.to/anime/15434/tide-line-blue-kyoudai/"
+      }
+    }
+  }
+}

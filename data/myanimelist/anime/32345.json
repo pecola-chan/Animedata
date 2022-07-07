@@ -1,0 +1,49 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-04-03T09:33:56.000Z",
+  "checkedAt": null,
+  "id": 32345,
+  "type": "anime",
+  "title": "Celebration and Chorale",
+  "altTitle": [
+    "Shukuten no Chorale",
+    "celebration and chorale",
+    "celebration and chorale"
+  ],
+  "url": "https://myanimelist.net/anime/32345/Celebration_and_Chorale",
+  "image": "https://cdn.myanimelist.net/images/anime/9/77601.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nakauchiyukie.hacca.jp/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "l0vn": {
+        "createdAt": "2020-10-12T15:52:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5735,
+        "identifier": "l0vn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "celebration and chorale",
+        "url": "https://9anime.to/watch/celebration-and-chorale.l0vn",
+        "image": "https://static.akacdn.ru/files/images/2018/03/414c767bc4288d11521d1d88eae18801.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32345,
+        "aniId": 103496,
+        "deletedAt": null
+      }
+    }
+  }
+}

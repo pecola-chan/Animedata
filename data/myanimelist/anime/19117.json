@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-13T20:04:33.000Z",
+  "checkedAt": "2022-05-13T20:04:33.000Z",
+  "id": 19117,
+  "type": "anime",
+  "title": "Toaru Hikuushi e no Koiuta",
+  "altTitle": [
+    "Love Song of a Certain Pilot",
+    "The Pilot's Love Song",
+    "とある飛空士への恋歌"
+  ],
+  "url": "https://myanimelist.net/anime/19117/Toaru_Hikuushi_e_no_Koiuta",
+  "image": "https://cdn.myanimelist.net/images/anime/2/56939.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://koiuta.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9888"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15397"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Toaru_Hik%C5%ABshi_e_no_Koiuta"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-258763"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/the-pilots-love-song"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9888,
+  "Pages": {
+    "9anime": {
+      "yv9x": {
+        "createdAt": "2020-10-12T15:56:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10854,
+        "identifier": "yv9x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toaru Hikuushi e no Koiuta",
+        "url": "https://9anime.to/watch/toaru-hikuushi-e-no-koiuta.yv9x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mbCsCyHJNjw/V63OiZILIEI/AAAAAAAA2mM/nFVD7RXXfxA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19117,
+        "aniId": 19117,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pilots-love-song": {
+        "createdAt": "2020-10-12T16:01:35.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20053,
+        "identifier": "pilots-love-song",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Pilot’s Love Song",
+        "url": "https://gogoanime.vc/category/pilots-love-song",
+        "image": "https://cdnimg.xyz/images/Toaru-Hikuushi-e-no-Koiuta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19117,
+        "aniId": 19117,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1290": {
+        "identifier": "1290",
+        "malId": 19117,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Toaru Hikuushi e no Koiuta",
+        "url": "https://animepahe.com/a/1290"
+      }
+    },
+    "AniMixPlay": {
+      "19117": {
+        "identifier": "19117",
+        "malId": 19117,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Toaru Hikuushi e no Koiuta",
+        "url": "https://animixplay.to/anime/19117"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "createdAt": "2021-01-01T02:17:51.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "checkedAt": null,
+  "id": 32224,
+  "identifier": "xing-hai-qi-shi",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Xing Hai Qi Shi",
+  "url": "https://gogoanime.vc/category/xing-hai-qi-shi",
+  "image": "https://gogocdn.net/cover/xing-hai-qi-shi.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 44410,
+  "aniId": 120194,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2021-01-01T02:17:51.000Z",
+    "updatedAt": "2022-05-14T21:20:53.000Z",
+    "checkedAt": "2022-05-14T21:20:53.000Z",
+    "id": 44410,
+    "type": "anime",
+    "title": "Xing Hai Qishi",
+    "altTitle": [
+      "Xing Hai Qi Shi",
+      "Knights on Debris",
+      "星骸骑士"
+    ],
+    "url": "https://myanimelist.net/anime/44410/Xing_Hai_Qishi",
+    "image": "https://cdn.myanimelist.net/images/anime/1505/116189.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/u/umpnsyqfu7f60se.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16003"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%98%9F%E9%AA%B8%E9%AA%91%E5%A3%AB/23607072"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 16003
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:15.000Z",
+    "updatedAt": "2022-05-15T11:55:35.000Z",
+    "checkedAt": "2022-05-15T11:55:35.000Z",
+    "id": 120194,
+    "type": "anime",
+    "title": "Xing Hai Qishi",
+    "altTitle": [
+      "Knights on Debris",
+      "星骸骑士",
+      "星骸骑士·降临",
+      "Xing Hai Qishi - Jianglin",
+      "星骸骑士 上半季",
+      "Xing Hai Qishi Part 1"
+    ],
+    "url": "https://anilist.co/anime/120194",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120194-3MYKN6HGzyP9.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 44410,
+    "deletedAt": null
+  }
+}

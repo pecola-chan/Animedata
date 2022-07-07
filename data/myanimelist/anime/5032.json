@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T20:39:59.000Z",
+  "checkedAt": "2022-05-14T20:39:59.000Z",
+  "id": 5032,
+  "type": "anime",
+  "title": "Cobra The Animation",
+  "altTitle": [
+    "Cobra The Animation: Rokunin no Yuushi",
+    "COBRA THE ANIMATION"
+  ],
+  "url": "https://myanimelist.net/anime/5032/Cobra_The_Animation",
+  "image": "https://cdn.myanimelist.net/images/anime/13/18900.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cobra30th-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6494"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9203"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cobra_the_Animation"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/cobra-the-animation"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 6494,
+  "Pages": {
+    "9anime": {
+      "wqvl": {
+        "createdAt": "2020-10-12T15:56:14.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9908,
+        "identifier": "wqvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "COBRA THE ANIMATION",
+        "url": "https://9anime.to/watch/cobra-the-animation.wqvl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Ux9kKe9X8P4/V78M-ttQ7nI/AAAAAAAA5do/EFS4_aMAsz4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5032,
+        "aniId": 5032,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cobra-the-animation": {
+        "createdAt": "2021-06-10T21:39:25.000Z",
+        "updatedAt": "2021-06-10T22:08:18.000Z",
+        "checkedAt": null,
+        "id": 37313,
+        "identifier": "cobra-the-animation",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cobra The Animation",
+        "url": "https://gogoanime.vc/category/cobra-the-animation",
+        "image": "https://gogocdn.net/images/anime/C/cobra-the-animation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5032,
+        "aniId": 5032,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "5032": {
+        "identifier": "5032",
+        "malId": 5032,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cobra The Animation",
+        "url": "https://animixplay.to/anime/5032"
+      }
+    },
+    "YugenAnime": {
+      "709": {
+        "identifier": "709",
+        "malId": 5032,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cobra The Animation",
+        "url": "https://yugen.to/anime/709/cobra-the-animation/"
+      }
+    }
+  }
+}

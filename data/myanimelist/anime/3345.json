@@ -1,0 +1,98 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T00:54:17.000Z",
+  "checkedAt": "2022-05-15T00:54:17.000Z",
+  "id": 3345,
+  "type": "anime",
+  "title": "Mikan Enikki",
+  "altTitle": [
+    "Mikan's Picture Diary",
+    "Mikan's Illustrated Diary",
+    "みかん絵日記"
+  ],
+  "url": "https://myanimelist.net/anime/3345/Mikan_Enikki",
+  "image": "https://cdn.myanimelist.net/images/anime/9/29836.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4599"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1946"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%8B%E3%82%93%E7%B5%B5%E6%97%A5%E8%A8%98"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4599,
+  "Pages": {
+    "9anime": {
+      "x2pv": {
+        "createdAt": "2020-10-12T15:56:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10079,
+        "identifier": "x2pv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mikan Enikki",
+        "url": "https://9anime.to/watch/mikan-enikki.x2pv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-O7co8iHf8w8/V8VhVr6n6dI/AAAAAAAA6fU/wyQ9n0LZaSk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3345,
+        "aniId": 3345,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mikan-enikki": {
+        "createdAt": "2021-12-17T17:18:24.000Z",
+        "updatedAt": "2021-12-17T17:48:24.000Z",
+        "checkedAt": null,
+        "id": 39484,
+        "identifier": "mikan-enikki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mikan Enikki",
+        "url": "https://gogoanime.cm/category/mikan-enikki",
+        "image": "https://gogocdn.net/cover/mikan-enikki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3345,
+        "aniId": 3345,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3345": {
+        "identifier": "3345",
+        "malId": 3345,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mikan Enikki",
+        "url": "https://animixplay.to/anime/3345"
+      }
+    },
+    "YugenAnime": {
+      "11434": {
+        "identifier": "11434",
+        "malId": 3345,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mikan Enikki",
+        "url": "https://yugen.to/anime/11434/mikan-enikki/"
+      }
+    }
+  }
+}

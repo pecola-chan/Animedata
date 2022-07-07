@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2022-05-15T01:54:54.000Z",
+  "checkedAt": "2022-05-15T01:54:54.000Z",
+  "id": 7575,
+  "type": "anime",
+  "title": "Oh! Family",
+  "altTitle": [
+    "Ｏｈ！ファミリー"
+  ],
+  "url": "https://myanimelist.net/anime/7575/Oh_Family",
+  "image": "https://cdn.myanimelist.net/images/anime/10/61193.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5198"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1522"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Oh!ファミリー"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5198,
+  "Pages": {
+    "9anime": {
+      "mk1x": {
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6568,
+        "identifier": "mk1x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oh! Family",
+        "url": "https://9anime.to/watch/oh-family.mk1x",
+        "image": "https://static.akacdn.ru/files/images/2019/10/b2eaa226bdcbe24b5b8d02a58864e40d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7575,
+        "aniId": 7575,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oh-family": {
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19825,
+        "identifier": "oh-family",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oh! Family",
+        "url": "https://gogoanime.vc/category/oh-family",
+        "image": "https://cdnimg.xyz/cover/oh-family.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7575,
+        "aniId": 7575,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "7575": {
+        "identifier": "7575",
+        "malId": 7575,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oh! Family",
+        "url": "https://animixplay.to/anime/7575"
+      }
+    },
+    "YugenAnime": {
+      "1560": {
+        "identifier": "1560",
+        "malId": 7575,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Oh! Family",
+        "url": "https://yugen.to/anime/1560/oh-family/"
+      }
+    }
+  }
+}

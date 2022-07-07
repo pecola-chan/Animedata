@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T19:21:08.000Z",
+  "updatedAt": "2022-06-08T21:41:51.000Z",
+  "checkedAt": "2022-06-08T21:41:51.000Z",
+  "id": 31644,
+  "type": "anime",
+  "title": "Deniroo's Circus",
+  "altTitle": [
+    "Deniroo's Circus",
+    "Deniroo's Circus"
+  ],
+  "url": "https://myanimelist.net/anime/31644/Deniroos_Circus",
+  "image": "https://cdn.myanimelist.net/images/anime/12/76256.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.koo-ki.co.jp/original/originalcontents"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "p9yq": {
+        "createdAt": "2020-10-12T19:21:18.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23908,
+        "identifier": "p9yq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Deniroo's Circus",
+        "url": "https://9anime.to/watch/deniroos-circus.p9yq",
+        "image": "//static.9anime.to/i/cache/images/a/a7/a73d323cf5369a7b62b2e2cc55e74ee5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31644,
+        "aniId": 103942,
+        "deletedAt": null
+      }
+    }
+  }
+}

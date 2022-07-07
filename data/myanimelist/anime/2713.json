@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2022-05-15T07:21:26.000Z",
+  "checkedAt": "2022-05-15T07:21:26.000Z",
+  "id": 2713,
+  "type": "anime",
+  "title": "Rockman.EXE Beast+",
+  "altTitle": [
+    "Rockman EXE Beast Plus",
+    "ロックマンエグゼビースト+（プラス）"
+  ],
+  "url": "https://myanimelist.net/anime/2713/RockmanEXE_Beast_",
+  "image": "https://cdn.myanimelist.net/images/anime/12/73584.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.xebec-inc.co.jp/anime/rockmanexe5/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4458"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7951"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior#Beast.2B"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4458,
+  "Pages": {
+    "9anime": {
+      "m7v7": {
+        "createdAt": "2020-10-12T15:53:28.000Z",
+        "updatedAt": "2021-07-19T08:32:23.000Z",
+        "checkedAt": null,
+        "id": 6482,
+        "identifier": "m7v7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rockman.EXE Beast+",
+        "url": "https://9anime.to/watch/rockmanexe-beast.m7v7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/5438bf012217f0bb0b5fd67344fec4e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 2713,
+        "aniId": 2713,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rockman-exe-beast": {
+        "createdAt": "2020-10-12T16:01:43.000Z",
+        "updatedAt": "2021-08-02T18:17:28.000Z",
+        "checkedAt": null,
+        "id": 20314,
+        "identifier": "rockman-exe-beast",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rockman.EXE Beast+",
+        "url": "https://gogoanime.pe/category/rockman-exe-beast",
+        "image": "https://gogocdn.net/cover/rockman-exe-beast.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 2713,
+        "aniId": 2713,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2713": {
+        "identifier": "2713",
+        "malId": 2713,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rockman.EXE Beast+",
+        "url": "https://animixplay.to/anime/2713"
+      }
+    },
+    "YugenAnime": {
+      "1518": {
+        "identifier": "1518",
+        "malId": 2713,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Rockman.EXE Beast+",
+        "url": "https://yugen.to/anime/1518/rockmanexe-beast/"
+      }
+    }
+  }
+}

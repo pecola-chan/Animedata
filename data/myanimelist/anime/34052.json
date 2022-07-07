@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-15T01:53:19.000Z",
+  "checkedAt": "2022-05-15T01:53:19.000Z",
+  "id": 34052,
+  "type": "anime",
+  "title": "100% Pascal-sensei (TV)",
+  "altTitle": [
+    "100% Teacher Pascal",
+    "100%パスカル先生 (TV)"
+  ],
+  "url": "https://myanimelist.net/anime/34052/100_Pascal-sensei_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/10/86858.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pasu-chi.com/pasukaru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12410"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19094"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/100%25%E3%83%91%E3%82%B9%E3%82%AB%E3%83%AB%E5%85%88%E7%94%9F"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272977"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12410,
+  "Pages": {
+    "9anime": {
+      "k6o4": {
+        "createdAt": "2020-10-12T15:52:33.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5321,
+        "identifier": "k6o4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "100% Pascal-sensei (TV)",
+        "url": "https://9anime.to/watch/100-pascal-sensei-tv.k6o4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-A2dya3HpP2E/WNXnn9DYOTI/AAAAAAABgfA/NstmbJOYQH8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34052,
+        "aniId": 97638,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "100-pascal-sensei": {
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16313,
+        "identifier": "100-pascal-sensei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "100% Pascal-sensei",
+        "url": "https://gogoanime.vc/category/100-pascal-sensei",
+        "image": "https://images.gogoanime.tv/cover/100-pascal-sensei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34052,
+        "aniId": 97638,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2097": {
+        "identifier": "2097",
+        "malId": 34052,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "100% Pascal-sensei (TV)",
+        "url": "https://animepahe.com/a/2097"
+      }
+    },
+    "AniMixPlay": {
+      "34052": {
+        "identifier": "34052",
+        "malId": 34052,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "100% Pascal-sensei (TV)",
+        "url": "https://animixplay.to/anime/34052"
+      }
+    },
+    "YugenAnime": {
+      "3293": {
+        "identifier": "3293",
+        "malId": 34052,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "100% Pascal-sensei (TV)",
+        "url": "https://yugen.to/anime/3293/100-pascal-sensei-tv/"
+      }
+    }
+  }
+}

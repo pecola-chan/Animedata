@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:00.000Z",
+  "updatedAt": "2022-05-14T18:51:23.000Z",
+  "checkedAt": "2022-05-14T18:51:23.000Z",
+  "id": 37268,
+  "type": "anime",
+  "title": "Z/X: Code Reunion",
+  "altTitle": [
+    "Z/X Code Reunion"
+  ],
+  "url": "https://myanimelist.net/anime/37268/Z_X__Code_Reunion",
+  "image": "https://cdn.myanimelist.net/images/anime/1077/111410.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.zxtcg.com/animation/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13441"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22388"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Z/X#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/z-x-code-RE"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13441,
+  "Pages": {
+    "9anime": {
+      "krq9": {
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5602,
+        "identifier": "krq9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Z/X: Code Reunion",
+        "url": "https://9anime.to/watch/zx-code-reunion.krq9",
+        "image": "https://static.akacdn.ru/files/images/2018/05/c78a063499f5bfdf85b267277b1ff831.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37268,
+        "aniId": 100246,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zx-code-reunion": {
+        "createdAt": "2020-10-12T16:02:23.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21703,
+        "identifier": "zx-code-reunion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Z/X: Code Reunion",
+        "url": "https://gogoanime.vc/category/zx-code-reunion",
+        "image": "https://cdnimg.xyz/cover/zx-code-reunion.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37268,
+        "aniId": 100246,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3466": {
+        "identifier": "3466",
+        "malId": 37268,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Z/X: Code Reunion",
+        "url": "https://animepahe.com/a/3466"
+      }
+    },
+    "AniMixPlay": {
+      "37268": {
+        "identifier": "37268",
+        "malId": 37268,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Z/X: Code Reunion",
+        "url": "https://animixplay.to/anime/37268"
+      }
+    },
+    "YugenAnime": {
+      "1455": {
+        "identifier": "1455",
+        "malId": 37268,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Z/X: Code Reunion",
+        "url": "https://yugen.to/anime/1455/zx-code-reunion/"
+      }
+    }
+  }
+}

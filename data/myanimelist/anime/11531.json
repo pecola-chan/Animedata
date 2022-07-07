@@ -1,0 +1,132 @@
+{
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2022-05-14T21:59:53.000Z",
+  "checkedAt": "2022-05-14T21:59:53.000Z",
+  "id": 11531,
+  "type": "anime",
+  "title": "Un-Go: Inga-ron",
+  "altTitle": [
+    "UN-GO episode:0 Inga-ron",
+    "UN-GO: Chapter of Inga",
+    "UN-GO episode:0 因果論"
+  ],
+  "url": "https://myanimelist.net/anime/11531/Un-Go__Inga-ron",
+  "image": "https://cdn.myanimelist.net/images/anime/5/35071.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.un-go.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8650"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15294"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-238468"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8650,
+  "Pages": {
+    "9anime": {
+      "6jpz": {
+        "createdAt": "2020-10-12T15:50:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3022,
+        "identifier": "6jpz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "UN-GO: Inga-ron",
+        "url": "https://9anime.to/watch/un-go-inga-ron.6jpz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-I6y-ymDqQIU/V_tY9_-2krI/AAAAAAABGBU/pq2q4-AhTxY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11531,
+        "aniId": 11531,
+        "deletedAt": null
+      },
+      "llvz": {
+        "createdAt": "2020-10-12T15:53:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6067,
+        "identifier": "llvz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "UN-GO: Inga-ron (Dub)",
+        "url": "https://9anime.to/watch/un-go-inga-ron-dub.llvz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GuMGgN8nnDk/V5whEmhOE-I/AAAAAAAAy9s/rcMX_dLkRXs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11531,
+        "aniId": 11531,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "un-go-inga-ron": {
+        "createdAt": "2020-10-12T16:02:12.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21313,
+        "identifier": "un-go-inga-ron",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "UN-GO Inga-ron",
+        "url": "https://gogoanime.vc/category/un-go-inga-ron",
+        "image": "https://images.gogoanime.tv/images/anime/U/UN-GO-Inga-ron.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11531,
+        "aniId": 11531,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3302": {
+        "identifier": "3302",
+        "malId": 11531,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Un-Go: Inga-ron",
+        "url": "https://animepahe.com/a/3302"
+      }
+    },
+    "AniMixPlay": {
+      "11531": {
+        "identifier": "11531",
+        "malId": 11531,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Un-Go: Inga-ron",
+        "url": "https://animixplay.to/anime/11531"
+      }
+    },
+    "YugenAnime": {
+      "7064": {
+        "identifier": "7064",
+        "malId": 11531,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Un-Go: Inga-ron",
+        "url": "https://yugen.to/anime/7064/un-go-inga-ron/"
+      }
+    }
+  }
+}

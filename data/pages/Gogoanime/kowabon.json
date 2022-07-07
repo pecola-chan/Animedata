@@ -1,0 +1,83 @@
+{
+  "createdAt": "2020-10-12T16:01:03.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18979,
+  "identifier": "kowabon",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kowabon",
+  "url": "https://gogoanime.vc/category/kowabon",
+  "image": "https://cdnimg.xyz/images/upload/74465.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 30948,
+  "aniId": 21224,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:37.000Z",
+    "updatedAt": "2022-05-14T18:18:23.000Z",
+    "checkedAt": "2022-05-14T18:18:23.000Z",
+    "id": 30948,
+    "type": "anime",
+    "title": "Kowabon",
+    "altTitle": [
+      "こわぼん"
+    ],
+    "url": "https://myanimelist.net/anime/30948/Kowabon",
+    "image": "https://cdn.myanimelist.net/images/anime/10/74465.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kbc.co.jp/kowabon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11284"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17206"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-273317"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 11284
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:56.000Z",
+    "updatedAt": "2022-05-15T19:17:11.000Z",
+    "checkedAt": "2022-05-15T19:17:11.000Z",
+    "id": 21224,
+    "type": "anime",
+    "title": "Kowabon",
+    "altTitle": [
+      "こわぼん"
+    ],
+    "url": "https://anilist.co/anime/21224",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21224-eQoxsSrPZEA2.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/kowabon"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GRGGJ4DWR/KOWABON"
+      }
+    ],
+    "malId": 30948,
+    "deletedAt": null
+  }
+}

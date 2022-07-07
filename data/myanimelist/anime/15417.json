@@ -1,0 +1,88 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T10:15:39.000Z",
+  "checkedAt": "2022-05-14T10:15:39.000Z",
+  "id": 15417,
+  "type": "anime",
+  "title": "Gintama': Enchousen",
+  "altTitle": [
+    "Gintama' (2012)",
+    "Gintama' Overdrive",
+    "Kintama",
+    "Gintama: Enchousen",
+    "銀魂' 延長戦"
+  ],
+  "url": "https://myanimelist.net/anime/15417/Gintama__Enchousen",
+  "image": "https://cdn.myanimelist.net/images/anime/6/75172.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/gintama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9427"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15223"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-47620"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9427,
+  "Pages": {
+    "9anime": {
+      "8nln": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2022-06-14T00:01:18.000Z",
+        "checkedAt": "2022-06-14T00:01:18.000Z",
+        "id": 3939,
+        "identifier": "8nln",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gintama': Enchousen",
+        "url": "https://9anime.to/watch/gintama-season-3.8nln",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/e2ab87aa7f5d4ab5be1a5529ee462543.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15417,
+        "aniId": 15417,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1740": {
+        "identifier": "1740",
+        "malId": 15417,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama': Enchousen",
+        "url": "https://animepahe.com/a/1740"
+      }
+    },
+    "AniMixPlay": {
+      "15417": {
+        "identifier": "15417",
+        "malId": 15417,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Gintama': Enchousen",
+        "url": "https://animixplay.to/anime/15417"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "createdAt": "2021-01-13T02:28:52.000Z",
+  "updatedAt": "2022-06-30T08:05:03.000Z",
+  "checkedAt": "2022-06-30T08:05:03.000Z",
+  "id": 10701,
+  "type": "anime",
+  "title": "Ulysses 31 Pilot",
+  "altTitle": [
+    "ULYSSES 31"
+  ],
+  "url": "https://myanimelist.net/anime/10701/Ulysses_31_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/9/29487.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8443"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ulysses_31#Pilot"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8443,
+  "Pages": {
+    "9anime": {
+      "1m7p": {
+        "createdAt": "2021-01-13T02:31:03.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33580,
+        "identifier": "1m7p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ulysses 31 Pilot (Dub)",
+        "url": "https://9anime.to/watch/ulysses-31-pilot.1m7p",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/10/be4a08509e868805a961bba6b446ff6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10701,
+        "aniId": 10701,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10701": {
+        "identifier": "10701",
+        "malId": 10701,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ulysses 31 Pilot",
+        "url": "https://animixplay.to/anime/10701"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "createdAt": "2020-10-12T15:59:56.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16733,
+  "identifier": "barakamon-mijikamon",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Barakamon: Mijikamon",
+  "url": "https://gogoanime.vc/category/barakamon-mijikamon",
+  "image": "https://cdnimg.xyz/images/summer/64115.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 25045,
+  "aniId": 20782,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:29.000Z",
+    "updatedAt": "2022-05-14T22:02:35.000Z",
+    "checkedAt": "2022-05-14T22:02:35.000Z",
+    "id": 25045,
+    "type": "anime",
+    "title": "Mijikamon",
+    "altTitle": [
+      "Barakamon Specials",
+      "みじかもん"
+    ],
+    "url": "https://myanimelist.net/anime/25045/Mijikamon",
+    "image": "https://cdn.myanimelist.net/images/anime/11/75964.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.barakamon.jp/mijikamon/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10111"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 10111
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:41:37.000Z",
+    "updatedAt": "2022-05-15T14:07:47.000Z",
+    "checkedAt": "2022-05-15T14:07:47.000Z",
+    "id": 20782,
+    "type": "anime",
+    "title": "Barakamon: Mijikamon",
+    "altTitle": [
+      "みじかもん",
+      "Barakamon Specials",
+      "Barakamon Episode 0"
+    ],
+    "url": "https://anilist.co/anime/20782",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20782-rDaQwqxE7UCJ.jpg",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 25045,
+    "deletedAt": null
+  }
+}

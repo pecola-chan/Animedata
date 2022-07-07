@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:39:40.000Z",
+  "updatedAt": "2022-05-14T16:33:38.000Z",
+  "checkedAt": "2022-05-14T16:33:38.000Z",
+  "id": 31845,
+  "type": "anime",
+  "title": "Masou Gakuen HxH",
+  "altTitle": [
+    "Masou Gakuen Hybrid x Heart",
+    "Hybrid x Heart Magias Academy Ataraxia",
+    "魔装学園H×H"
+  ],
+  "url": "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH",
+  "image": "https://cdn.myanimelist.net/images/anime/7/80262.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.masou-hh.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11638"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18036"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E8%A3%85%E5%AD%A6%E5%9C%92H%C3%97H"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11638,
+  "Pages": {
+    "9anime": {
+      "52qm": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2490,
+        "identifier": "52qm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Masou Gakuen HxH",
+        "url": "https://9anime.to/watch/masou-gakuen-hxh.52qm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-0T9hF7Yf6tM/V84dVBtIyLI/AAAAAAAA7u8/7WLmRw4jbMo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31845,
+        "aniId": 21378,
+        "deletedAt": null
+      },
+      "mo2p": {
+        "createdAt": "2020-10-12T15:53:33.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6654,
+        "identifier": "mo2p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Masou Gakuen HxH",
+        "url": "https://9anime.to/watch/hybrid-x-heart-magias-academy-ataraxia.mo2p",
+        "image": "//static.9anime.to/i/cache/images/2018/04/21c010c634a64406b9de62e9a8ea6b05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31845,
+        "aniId": 21378,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "masou-gakuen-hxh": {
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19370,
+        "identifier": "masou-gakuen-hxh",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Masou Gakuen HxH",
+        "url": "https://gogoanime.vc/category/masou-gakuen-hxh",
+        "image": "https://images.gogoanime.tv/cover/masou-gakuen-hxh.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31845,
+        "aniId": 21378,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1099": {
+        "identifier": "1099",
+        "malId": 31845,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Masou Gakuen HxH",
+        "url": "https://animepahe.com/a/1099"
+      }
+    },
+    "AniMixPlay": {
+      "31845": {
+        "identifier": "31845",
+        "malId": 31845,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Masou Gakuen HxH",
+        "url": "https://animixplay.to/anime/31845"
+      }
+    },
+    "YugenAnime": {
+      "2011": {
+        "identifier": "2011",
+        "malId": 31845,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Masou Gakuen HxH",
+        "url": "https://yugen.to/anime/2011/masou-gakuen-hxh/"
+      }
+    }
+  }
+}

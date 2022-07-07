@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-15T01:29:11.000Z",
+  "checkedAt": "2022-05-15T01:29:11.000Z",
+  "id": 3390,
+  "type": "anime",
+  "title": "Hoshi no Umi no Amuri",
+  "altTitle": [
+    "Amuri in Star Ocean",
+    "星の海のアムリ"
+  ],
+  "url": "https://myanimelist.net/anime/3390/Hoshi_no_Umi_no_Amuri",
+  "image": "https://cdn.myanimelist.net/images/anime/7/8124.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.amuri.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5458"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8720"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amuri_in_Star_Ocean"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5458,
+  "Pages": {
+    "Gogoanime": {
+      "amuri-in-star-ocean": {
+        "createdAt": "2020-10-12T15:59:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16516,
+        "identifier": "amuri-in-star-ocean",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Amuri in Star Ocean",
+        "url": "https://gogoanime.vc/category/amuri-in-star-ocean",
+        "image": "https://gogocdn.net/images/anime/amuri-in-star-ocean.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3390,
+        "aniId": 3390,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "8oyy": {
+        "createdAt": "2020-10-12T18:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23835,
+        "identifier": "8oyy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hoshi no Umi no Amuri",
+        "url": "https://9anime.to/watch/hoshi-no-umi-no-amuri.8oyy",
+        "image": "//static.9anime.to/i/cache/images/1/1f/1fc6ff91e58f4e200f404326cae99985.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3390,
+        "aniId": 3390,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3390": {
+        "identifier": "3390",
+        "malId": 3390,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hoshi no Umi no Amuri",
+        "url": "https://animixplay.to/anime/3390"
+      }
+    },
+    "YugenAnime": {
+      "9442": {
+        "identifier": "9442",
+        "malId": 3390,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hoshi no Umi no Amuri",
+        "url": "https://yugen.to/anime/9442/hoshi-no-umi-no-amuri/"
+      }
+    }
+  }
+}

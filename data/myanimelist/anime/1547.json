@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:38:18.000Z",
+  "updatedAt": "2022-05-15T07:14:38.000Z",
+  "checkedAt": "2022-05-15T07:14:38.000Z",
+  "id": 1547,
+  "type": "anime",
+  "title": "Obake no Q-tarou",
+  "altTitle": [
+    "Obake no Q-Taro (1965)",
+    "Q-Taro the Ghost",
+    "オバケのＱ太郎"
+  ],
+  "url": "https://myanimelist.net/anime/1547/Obake_no_Q-tarou",
+  "image": "https://cdn.myanimelist.net/images/anime/1835/95971.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2584"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=486"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Obake_no_Q-tarō"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2584,
+  "Pages": {
+    "9anime": {
+      "zjwm": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11145,
+        "identifier": "zjwm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Obake no Q-tarou",
+        "url": "https://9anime.to/watch/obake-no-q-tarou.zjwm",
+        "image": "https://static.akacdn.ru/static/images/2018/10/70608d6dd49c5e0e84409f0f08915b0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1547,
+        "aniId": 1547,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:56.000Z",
+  "updatedAt": "2022-05-14T15:55:02.000Z",
+  "checkedAt": "2022-05-14T15:55:02.000Z",
+  "id": 36108,
+  "type": "anime",
+  "title": "Takunomi.",
+  "altTitle": [
+    "Takunomi",
+    "たくのみ。"
+  ],
+  "url": "https://myanimelist.net/anime/36108/Takunomi",
+  "image": "https://cdn.myanimelist.net/images/anime/1869/95731.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tbs.co.jp/anime/takunomi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13376"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20394"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Takunomi."
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/takunomi"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13376,
+  "Pages": {
+    "9anime": {
+      "8mky": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3916,
+        "identifier": "8mky",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Takunomi",
+        "url": "https://9anime.to/watch/takunomi.8mky",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pQ3msRRC7rc/WbplT8wyLkI/AAAAAAAAAVU/9CDATgn41t80Akf7ZMIET4MdFS_N-rXngCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36108,
+        "aniId": 99753,
+        "deletedAt": null
+      },
+      "y43j": {
+        "createdAt": "2020-10-12T15:56:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10548,
+        "identifier": "y43j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Takunomi (Dub)",
+        "url": "https://9anime.to/watch/takunomi-dub.y43j",
+        "image": "https://static.akacdn.ru/static/images/2018/12/808b762ef7b1d05eddf787b1d475ef03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36108,
+        "aniId": 99753,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "takunomi": {
+        "createdAt": "2020-10-12T16:02:00.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 20927,
+        "identifier": "takunomi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Takunomi.",
+        "url": "https://gogoanime.vc/category/takunomi",
+        "image": "https://images.gogoanime.tv/cover/takunomi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36108,
+        "aniId": 99753,
+        "deletedAt": null
+      },
+      "takunomi-dub": {
+        "createdAt": "2021-02-18T16:13:41.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34905,
+        "identifier": "takunomi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Takunomi. (Dub)",
+        "url": "https://gogoanime.vc/category/takunomi-dub",
+        "image": "https://gogocdn.net/cover/takunomi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36108,
+        "aniId": 99753,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2452": {
+        "identifier": "2452",
+        "malId": 36108,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Takunomi.",
+        "url": "https://animepahe.com/a/2452"
+      }
+    },
+    "AniMixPlay": {
+      "36108": {
+        "identifier": "36108",
+        "malId": 36108,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Takunomi.",
+        "url": "https://animixplay.to/anime/36108"
+      }
+    },
+    "YugenAnime": {
+      "285": {
+        "identifier": "285",
+        "malId": 36108,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Takunomi.",
+        "url": "https://yugen.to/anime/285/takunomi/"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "createdAt": "2021-03-30T08:00:50.000Z",
+  "updatedAt": "2022-05-14T17:41:47.000Z",
+  "checkedAt": "2022-05-14T17:41:47.000Z",
+  "id": 34167,
+  "type": "anime",
+  "title": "Cocolors",
+  "altTitle": [
+    "COCOLORS（コカラス）"
+  ],
+  "url": "https://myanimelist.net/anime/34167/Cocolors",
+  "image": "https://cdn.myanimelist.net/images/anime/3/86473.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gasolinemask.com/nishiki/cocolors"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12457"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12457,
+  "Pages": {
+    "Gogoanime": {
+      "cocolors": {
+        "createdAt": "2021-03-30T08:00:51.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36063,
+        "identifier": "cocolors",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cocolors",
+        "url": "https://gogoanime.vc/category/cocolors",
+        "image": "https://gogocdn.net/cover/cocolors.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34167,
+        "aniId": 104867,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "n3nvl": {
+        "createdAt": "2021-09-07T00:36:34.000Z",
+        "updatedAt": "2021-09-07T01:04:29.000Z",
+        "checkedAt": null,
+        "id": 38558,
+        "identifier": "n3nvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cocolors",
+        "url": "https://9anime.to/watch/cocolors.n3nvl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/dd/dd74dd3106351551effc3bc67f12ae1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34167,
+        "aniId": 104867,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "34167": {
+        "identifier": "34167",
+        "malId": 34167,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cocolors",
+        "url": "https://animixplay.to/anime/34167"
+      }
+    },
+    "YugenAnime": {
+      "7396": {
+        "identifier": "7396",
+        "malId": 34167,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cocolors",
+        "url": "https://yugen.to/anime/7396/cocolors/"
+      }
+    }
+  }
+}

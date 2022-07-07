@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-06-15T03:04:40.000Z",
+  "checkedAt": "2022-06-15T03:04:40.000Z",
+  "id": 10780,
+  "type": "anime",
+  "title": "Dead Heat",
+  "altTitle": [
+    "デッドヒート"
+  ],
+  "url": "https://myanimelist.net/anime/10780/Dead_Heat",
+  "image": "https://cdn.myanimelist.net/images/anime/6/51885.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=117"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2351"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7100"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/デッドヒート_(OVA)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2351,
+  "Pages": {
+    "9anime": {
+      "l91m": {
+        "createdAt": "2020-10-12T15:53:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5962,
+        "identifier": "l91m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dead Heat",
+        "url": "https://9anime.to/watch/dead-heat.l91m",
+        "image": "https://static.akacdn.ru/files/images/2018/03/07febcf90afd1939203d57b4f0e8113a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10780,
+        "aniId": 10780,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10780": {
+        "identifier": "10780",
+        "malId": 10780,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dead Heat",
+        "url": "https://animixplay.to/anime/10780"
+      }
+    }
+  }
+}

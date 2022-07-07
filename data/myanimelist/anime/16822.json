@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-06-01T18:08:03.000Z",
+  "checkedAt": "2022-06-01T18:08:03.000Z",
+  "id": 16822,
+  "type": "anime",
+  "title": "Uju Heukgisa",
+  "altTitle": [
+    "Space Black Knight",
+    "Johnny Destiny Space Ninja",
+    "Captain of Cosmos",
+    "우주 흑기사"
+  ],
+  "url": "https://myanimelist.net/anime/16822/Uju_Heukgisa",
+  "image": "https://cdn.myanimelist.net/images/anime/1035/112797.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11274"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11274,
+  "Pages": {
+    "9anime": {
+      "mr1x": {
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6732,
+        "identifier": "mr1x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Captain of Cosmos (Dub)",
+        "url": "https://9anime.to/watch/captain-of-cosmos-dub.mr1x",
+        "image": "https://static.akacdn.ru/static/images/2018/08/118e3f26dc43e8bab245f204cdbaf518.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16822,
+        "aniId": 16822,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16822": {
+        "identifier": "16822",
+        "malId": 16822,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Uju Heukgisa",
+        "url": "https://animixplay.to/anime/16822"
+      }
+    },
+    "YugenAnime": {
+      "1472": {
+        "identifier": "1472",
+        "malId": 16822,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Uju Heukgisa",
+        "url": "https://yugen.to/anime/1472/uju-heukgisa/"
+      }
+    }
+  }
+}

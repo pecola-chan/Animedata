@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:38:03.000Z",
+  "updatedAt": "2022-05-14T19:38:42.000Z",
+  "checkedAt": "2022-05-14T19:38:42.000Z",
+  "id": 406,
+  "type": "anime",
+  "title": "Buzzer Beater",
+  "altTitle": [
+    "BUZZER BEATER"
+  ],
+  "url": "https://myanimelist.net/anime/406/Buzzer_Beater",
+  "image": "https://cdn.myanimelist.net/images/anime/6/57421.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wowow.co.jp/anime/buzzer/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2808"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4923"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buzzer_Beater_%28manga%29#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2808,
+  "Pages": {
+    "9anime": {
+      "vxn6": {
+        "createdAt": "2020-10-12T15:56:01.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9514,
+        "identifier": "vxn6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BUZZER BEATER",
+        "url": "https://9anime.to/watch/buzzer-beater.vxn6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mNzJkW-gcA8/WKBfGj7MWAI/AAAAAAABctY/LMQLkct-PzM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 406,
+        "aniId": 406,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "buzzer-beater-2005": {
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16987,
+        "identifier": "buzzer-beater-2005",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Buzzer Beater (2005)",
+        "url": "https://gogoanime.vc/category/buzzer-beater-2005",
+        "image": "https://cdnimg.xyz/images/anime/B/buzzer-beater-2005.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 406,
+        "aniId": 406,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "406": {
+        "identifier": "406",
+        "malId": 406,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Buzzer Beater",
+        "url": "https://animixplay.to/anime/406"
+      }
+    },
+    "YugenAnime": {
+      "14502": {
+        "identifier": "14502",
+        "malId": 406,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Buzzer Beater",
+        "url": "https://yugen.to/anime/14502/buzzer-beater/"
+      }
+    }
+  }
+}

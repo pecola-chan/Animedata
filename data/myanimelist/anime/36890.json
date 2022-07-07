@@ -1,0 +1,49 @@
+{
+  "createdAt": "2020-10-12T15:39:58.000Z",
+  "updatedAt": "2022-05-14T22:22:59.000Z",
+  "checkedAt": "2022-05-14T22:22:59.000Z",
+  "id": 36890,
+  "type": "anime",
+  "title": "dMatsu-san",
+  "altTitle": [
+    "Mr. dMatsu",
+    "Osomatsu-san 2nd Season Side Stories",
+    "d松さん"
+  ],
+  "url": "https://myanimelist.net/anime/36890/dMatsu-san",
+  "image": "https://cdn.myanimelist.net/images/anime/11/89951.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osomatsu-san"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "4577": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2022-03-31T09:30:21.000Z",
+        "checkedAt": null,
+        "id": 143,
+        "identifier": "4577",
+        "type": "anime",
+        "page": "9anime",
+        "title": "dMatsu-san",
+        "url": "https://9anime.to/watch/dmatsu-san.4577",
+        "image": "https://static.akacdn.ru/files/images/2018/01/0203dee217af7efb74a4985ee7779a9e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36890,
+        "aniId": 145557,
+        "deletedAt": null
+      }
+    }
+  }
+}

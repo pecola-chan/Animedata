@@ -1,0 +1,57 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-15T19:31:39.000Z",
+  "checkedAt": "2022-05-15T19:31:39.000Z",
+  "id": 8678,
+  "type": "anime",
+  "title": "Sangokushi II: Amakakeru Otoko-tachi",
+  "altTitle": [
+    "Romance of the Three Kingdoms 2",
+    "Sangokushi II: Tenkakeru Hideotachi",
+    "三国志II 天翔ける英雄たち"
+  ],
+  "url": "https://myanimelist.net/anime/8678/Sangokushi_II__Amakakeru_Otoko-tachi",
+  "image": "https://cdn.myanimelist.net/images/anime/8/72949.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7715"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7012"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/三国志_(日本テレビ)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7715,
+  "Pages": {
+    "9anime": {
+      "nq4j": {
+        "createdAt": "2021-01-08T09:52:31.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33217,
+        "identifier": "nq4j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sangokushi II: Amakakeru Otoko-tachi",
+        "url": "https://9anime.to/watch/sangokushi-ii-amakakeru-otoko-tachi.nq4j",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/11/59512c31f856c24ad462586b83817818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8678,
+        "aniId": 8678,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-15T16:24:29.000Z",
+  "checkedAt": "2022-05-15T16:24:29.000Z",
+  "id": 3812,
+  "type": "anime",
+  "title": "Yume no Hoshi no Button Nose",
+  "altTitle": [
+    "Bouton d'Or",
+    "Prinzessin Erdbeer",
+    "Button Nose",
+    "Dream Star Button Nose",
+    "夢の星のボタンノーズ"
+  ],
+  "url": "https://myanimelist.net/anime/3812/Yume_no_Hoshi_no_Button_Nose",
+  "image": "https://cdn.myanimelist.net/images/anime/13/74470.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2329"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1388"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E6%98%9F%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%83%8E%E3%83%BC%E3%82%BA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2329,
+  "Pages": {
+    "9anime": {
+      "x93z": {
+        "createdAt": "2020-10-12T15:56:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10216,
+        "identifier": "x93z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dream Star Button Nose",
+        "url": "https://9anime.to/watch/dream-star-button-nose.x93z",
+        "image": "https://static.akacdn.ru/static/images/2018/03/a9d8fc80a42d22182fe9e4df2bbd6130.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3812,
+        "aniId": 3812,
+        "deletedAt": null
+      }
+    }
+  }
+}

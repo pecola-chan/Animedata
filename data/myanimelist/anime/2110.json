@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:26.000Z",
+  "updatedAt": "2022-05-14T23:00:29.000Z",
+  "checkedAt": "2022-05-14T23:00:29.000Z",
+  "id": 2110,
+  "type": "anime",
+  "title": "Rockman.EXE Beast",
+  "altTitle": [
+    "Rockman EXE Beast",
+    "ロックマン エグゼ ＢＥＡＳＴ"
+  ],
+  "url": "https://myanimelist.net/anime/2110/RockmanEXE_Beast",
+  "image": "https://cdn.myanimelist.net/images/anime/1358/98824.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/rockman_beast/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3621"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6313"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3621,
+  "Pages": {
+    "9anime": {
+      "llzz": {
+        "createdAt": "2020-10-12T15:53:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6072,
+        "identifier": "llzz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rockman.EXE Beast",
+        "url": "https://9anime.to/watch/rockmanexe-beast.llzz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-IJbeZjbK5Qs/V5tpKjp9UkI/AAAAAAAAy0I/AE2MgtSyOrc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2110,
+        "aniId": 2110,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2342": {
+        "identifier": "2342",
+        "malId": 2110,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rockman.EXE Beast",
+        "url": "https://animepahe.com/a/2342"
+      }
+    },
+    "AniMixPlay": {
+      "2110": {
+        "identifier": "2110",
+        "malId": 2110,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Rockman.EXE Beast",
+        "url": "https://animixplay.to/anime/2110"
+      }
+    }
+  }
+}

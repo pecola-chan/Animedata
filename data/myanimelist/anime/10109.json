@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:04.000Z",
+  "updatedAt": "2022-05-14T21:12:17.000Z",
+  "checkedAt": "2022-05-14T21:12:17.000Z",
+  "id": 10109,
+  "type": "anime",
+  "title": "Softenni",
+  "altTitle": [
+    "Sofuteni",
+    "Soft Tennis",
+    "Softenni! the Animation",
+    "そふてにっ"
+  ],
+  "url": "https://myanimelist.net/anime/10109/Softenni",
+  "image": "https://cdn.myanimelist.net/images/anime/4/29091.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.softenni.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8266"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12115"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%B5%E3%81%A6%E3%81%AB%E3%81%A3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/softenni"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8266,
+  "Pages": {
+    "9anime": {
+      "z9w": {
+        "createdAt": "2020-10-12T15:57:08.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11124,
+        "identifier": "z9w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Softenni",
+        "url": "https://9anime.to/watch/softenni.z9w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zkUWgrwEkeg/V4Tk1Sw94FI/AAAAAAAAvC0/l-FYKi0vKTs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10109,
+        "aniId": 10109,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sofuteni": {
+        "createdAt": "2020-10-12T17:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23657,
+        "identifier": "sofuteni",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sofuteni",
+        "url": "https://gogoanime.vc/category/sofuteni",
+        "image": "https://gogocdn.net/images/anime/S/sofuteni.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10109,
+        "aniId": 10109,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "666": {
+        "identifier": "666",
+        "malId": 10109,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Softenni",
+        "url": "https://animepahe.com/a/666"
+      }
+    },
+    "AniMixPlay": {
+      "10109": {
+        "identifier": "10109",
+        "malId": 10109,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Softenni",
+        "url": "https://animixplay.to/anime/10109"
+      }
+    },
+    "YugenAnime": {
+      "1391": {
+        "identifier": "1391",
+        "malId": 10109,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Softenni",
+        "url": "https://yugen.to/anime/1391/sofuteni/"
+      }
+    }
+  }
+}

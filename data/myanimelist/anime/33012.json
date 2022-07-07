@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-14T07:00:57.000Z",
+  "checkedAt": "2022-05-14T07:00:57.000Z",
+  "id": 33012,
+  "type": "anime",
+  "title": "Island",
+  "altTitle": [
+    "Island",
+    "ISLAND"
+  ],
+  "url": "https://myanimelist.net/anime/33012/Island",
+  "image": "https://cdn.myanimelist.net/images/anime/1951/95080.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://never-island.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12020"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18175"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ISLAND_(%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%99%E3%83%AB)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276711"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12020,
+  "Pages": {
+    "9anime": {
+      "p23x": {
+        "createdAt": "2020-10-12T15:54:27.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7807,
+        "identifier": "p23x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Island",
+        "url": "https://9anime.to/watch/island.p23x",
+        "image": "http://static.akacdn.ru/static/images/2018/04/309e17c1869acc58492c3ef4f7999d45.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33012,
+        "aniId": 21712,
+        "deletedAt": null
+      },
+      "rzvo": {
+        "createdAt": "2020-10-12T15:55:45.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9118,
+        "identifier": "rzvo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Island (Dub)",
+        "url": "https://9anime.to/watch/island-dub.rzvo",
+        "image": "http://static.akacdn.ru/static/images/2018/07/11082f002849032f12f12d5879e71c4e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33012,
+        "aniId": 21712,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "island": {
+        "createdAt": "2020-10-12T16:00:51.000Z",
+        "updatedAt": "2022-03-15T22:30:24.000Z",
+        "checkedAt": null,
+        "id": 18536,
+        "identifier": "island",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Island",
+        "url": "https://gogoanime.fi/category/island",
+        "image": "https://gogocdn.net/cover/island.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33012,
+        "aniId": 21712,
+        "deletedAt": null
+      },
+      "island-dub": {
+        "createdAt": "2020-10-12T16:00:51.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18537,
+        "identifier": "island-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Island (Dub)",
+        "url": "https://gogoanime.vc/category/island-dub",
+        "image": "https://cdnimg.xyz/cover/island-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33012,
+        "aniId": 21712,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2599": {
+        "identifier": "2599",
+        "malId": 33012,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Island",
+        "url": "https://animepahe.com/a/2599"
+      }
+    },
+    "AniMixPlay": {
+      "33012": {
+        "identifier": "33012",
+        "malId": 33012,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Island",
+        "url": "https://animixplay.to/anime/33012"
+      }
+    },
+    "YugenAnime": {
+      "347": {
+        "identifier": "347",
+        "malId": 33012,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Island",
+        "url": "https://yugen.to/anime/347/island/"
+      }
+    }
+  }
+}

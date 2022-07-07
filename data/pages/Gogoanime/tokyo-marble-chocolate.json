@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:02:07.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21165,
+  "identifier": "tokyo-marble-chocolate",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tokyo Marble Chocolate",
+  "url": "https://gogoanime.vc/category/tokyo-marble-chocolate",
+  "image": "https://gogocdn.net/cover/tokyo-marble-chocolate.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3088,
+  "aniId": 3088,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-14T19:41:05.000Z",
+    "checkedAt": "2022-05-14T19:41:05.000Z",
+    "id": 3088,
+    "type": "anime",
+    "title": "Tokyo Marble Chocolate",
+    "altTitle": [
+      "Zenryoku Shounen",
+      "Matta Aimashou",
+      "Tokyo Marble Chocolate",
+      "東京マーブルチョコレート"
+    ],
+    "url": "https://myanimelist.net/anime/3088/Tokyo_Marble_Chocolate",
+    "image": "https://cdn.myanimelist.net/images/anime/8/50455.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.production-ig.co.jp/works/tokyo-marble-chocolate/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5429"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8372"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5429
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:34.000Z",
+    "updatedAt": "2022-05-15T14:39:12.000Z",
+    "checkedAt": "2022-05-15T14:39:12.000Z",
+    "id": 3088,
+    "type": "anime",
+    "title": "Tokyo Marble Chocolate",
+    "altTitle": [
+      "Tokyo Marble Chocolate",
+      "東京マーブルチョコレート",
+      "Zenryoku Shounen",
+      "Matta Aimashou"
+    ],
+    "url": "https://anilist.co/anime/3088",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3088-NoU6aKTJxoeo.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3088,
+    "deletedAt": null
+  }
+}

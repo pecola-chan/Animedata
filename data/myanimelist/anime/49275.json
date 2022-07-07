@@ -1,0 +1,56 @@
+{
+  "createdAt": "2021-09-25T09:46:24.000Z",
+  "updatedAt": "2022-05-14T09:41:06.000Z",
+  "checkedAt": "2022-05-14T09:41:06.000Z",
+  "id": 49275,
+  "type": "anime",
+  "title": "Renou Xueyuan",
+  "altTitle": [
+    "Elf Academy",
+    "人偶学园"
+  ],
+  "url": "https://myanimelist.net/anime/49275/Renou_Xueyuan",
+  "image": "https://cdn.myanimelist.net/images/anime/1506/116008.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bgm.tv/subject/340275"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16436"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://movie.douban.com/subject/35521886/"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16436,
+  "Pages": {
+    "9anime": {
+      "zl1zm": {
+        "createdAt": "2022-03-26T19:58:27.000Z",
+        "updatedAt": "2022-06-19T17:19:41.000Z",
+        "checkedAt": "2022-06-19T16:31:06.000Z",
+        "id": 40528,
+        "identifier": "zl1zm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Renou Xueyuan",
+        "url": "https://9anime.to/watch/elf-academy.zl1zm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2b/2b3ebb97077065746aa826679e6afbad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 49275,
+        "aniId": 135923,
+        "deletedAt": null
+      }
+    }
+  }
+}

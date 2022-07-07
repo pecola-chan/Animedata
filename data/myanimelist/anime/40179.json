@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:40:11.000Z",
+  "updatedAt": "2022-06-05T17:34:00.000Z",
+  "checkedAt": "2022-06-05T17:34:00.000Z",
+  "id": 40179,
+  "type": "anime",
+  "title": "Mini Toji: Yume",
+  "altTitle": [
+    "Mihousou Episode: Yume",
+    "Mini Toji episode 11",
+    "みにとじ ゆめ"
+  ],
+  "url": "https://myanimelist.net/anime/40179/Mini_Toji__Yume",
+  "image": "https://cdn.myanimelist.net/images/anime/1014/102312.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://minitoji.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14489"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21680"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katana_Maidens_~_Toji_No_Miko"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14489,
+  "Pages": {
+    "9anime": {
+      "2164": {
+        "createdAt": "2020-10-12T15:48:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 40,
+        "identifier": "2164",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mini Toji: Yume",
+        "url": "https://9anime.to/watch/mini-toji-yume.2164",
+        "image": "https://static.akacdn.ru/files/images/f/fa/fa0bb58f0b5c4c7fa086d59129b994cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40179,
+        "aniId": 111129,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40179": {
+        "identifier": "40179",
+        "malId": 40179,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mini Toji: Yume",
+        "url": "https://animixplay.to/anime/40179"
+      }
+    }
+  }
+}

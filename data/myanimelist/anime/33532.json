@@ -1,0 +1,107 @@
+{
+  "createdAt": "2020-10-12T15:39:47.000Z",
+  "updatedAt": "2022-05-14T20:00:42.000Z",
+  "checkedAt": "2022-05-14T20:00:42.000Z",
+  "id": 33532,
+  "type": "anime",
+  "title": "Twin Angel Break",
+  "altTitle": [
+    "Kaitou Tenshi Twin Angel",
+    "Twin Angels Break",
+    "ツインエンジェルBREAK"
+  ],
+  "url": "https://myanimelist.net/anime/33532/Twin_Angel_Break",
+  "image": "https://cdn.myanimelist.net/images/anime/11/86505.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://twinangel-break.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12253"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18662"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272913"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12253,
+  "Pages": {
+    "9anime": {
+      "xon3": {
+        "createdAt": "2020-10-12T15:56:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10336,
+        "identifier": "xon3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaitou Tenshi Twin Angel (TV)",
+        "url": "https://9anime.to/watch/kaitou-tenshi-twin-angel-tv.xon3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-R58lmVYh7qg/WOe28l0rmfI/AAAAAAAAgMY/P-xiOWq4OtY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33532,
+        "aniId": 21865,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaitou-tenshi-twin-angel": {
+        "createdAt": "2020-10-12T16:00:55.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18667,
+        "identifier": "kaitou-tenshi-twin-angel",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaitou Tenshi Twin Angel",
+        "url": "https://gogoanime.vc/category/kaitou-tenshi-twin-angel",
+        "image": "https://cdnimg.xyz/images/anime/K/Kaitou-Tenshi-Twin-Angel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33532,
+        "aniId": 21865,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2035": {
+        "identifier": "2035",
+        "malId": 33532,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Twin Angel Break",
+        "url": "https://animepahe.com/a/2035"
+      }
+    },
+    "AniMixPlay": {
+      "33532": {
+        "identifier": "33532",
+        "malId": 33532,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Twin Angel Break",
+        "url": "https://animixplay.to/anime/33532"
+      }
+    }
+  }
+}

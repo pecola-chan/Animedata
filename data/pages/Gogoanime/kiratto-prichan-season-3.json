@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:01:00.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18872,
+  "identifier": "kiratto-prichan-season-3",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kiratto Pri☆chan Season 3",
+  "url": "https://gogoanime.vc/category/kiratto-prichan-season-3",
+  "image": "https://gogocdn.net/cover/kiratto-prichan-season-3.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 40880,
+  "aniId": 113990,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:40:13.000Z",
+    "updatedAt": "2022-05-15T02:32:17.000Z",
+    "checkedAt": "2022-05-15T02:32:17.000Z",
+    "id": 40880,
+    "type": "anime",
+    "title": "Kiratto Pri☆chan Season 3",
+    "altTitle": [
+      "Kiratto Pri☆chan 3rd Season",
+      "キラッとプリ☆チャン シーズン3"
+    ],
+    "url": "https://myanimelist.net/anime/40880/Kiratto_Pri☆chan_Season_3",
+    "image": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/prichan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13752"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kiratto_Pri_Chan#Anime"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 13752
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:46:02.000Z",
+    "updatedAt": "2022-05-15T17:06:47.000Z",
+    "checkedAt": "2022-05-15T17:06:47.000Z",
+    "id": 113990,
+    "type": "anime",
+    "title": "Kiratto Pri☆Chan Season 3",
+    "altTitle": [
+      "キラッとプリ☆チャン シーズン3"
+    ],
+    "url": "https://anilist.co/anime/113990",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113990-YgKXiAQbojVB.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 40880,
+    "deletedAt": null
+  }
+}

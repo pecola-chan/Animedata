@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:38:00.000Z",
+  "updatedAt": "2022-05-14T16:50:15.000Z",
+  "checkedAt": "2022-05-14T16:50:15.000Z",
+  "id": 165,
+  "type": "anime",
+  "title": "RahXephon",
+  "altTitle": [
+    "RahXephon",
+    "ラーゼフォン"
+  ],
+  "url": "https://myanimelist.net/anime/165/RahXephon",
+  "image": "https://cdn.myanimelist.net/images/anime/13/75168.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mediafactory.co.jp/anime/rahxephon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=849"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/RahXephon"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/rahxephon"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14,
+  "Pages": {
+    "9anime": {
+      "904m": {
+        "createdAt": "2020-10-12T15:51:35.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4129,
+        "identifier": "904m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RahXephon",
+        "url": "https://9anime.to/watch/rahxephon.904m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8Lr1jgCDoPU/V68d5N780qI/AAAAAAAA2yw/Ndl5uFQKE3s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 165,
+        "aniId": 165,
+        "deletedAt": null
+      },
+      "vyrl": {
+        "createdAt": "2020-10-12T15:56:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9541,
+        "identifier": "vyrl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "RahXephon (Dub)",
+        "url": "https://9anime.to/watch/rahxephon-dub.vyrl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-n-8IipXvwp4/V-hzFnm5BpI/AAAAAAABA98/V2xGpuUJuEM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 165,
+        "aniId": 165,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rahxephon": {
+        "createdAt": "2020-12-22T05:56:33.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 30822,
+        "identifier": "rahxephon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "RahXephon",
+        "url": "https://gogoanime.vc/category/rahxephon",
+        "image": "https://gogocdn.net/images/anime/R/rahxephon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 165,
+        "aniId": 165,
+        "deletedAt": null
+      },
+      "rahxephon-the-motion-picture": {
+        "createdAt": "2021-05-16T20:25:15.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 37009,
+        "identifier": "rahxephon-the-motion-picture",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "RahXephon The Motion Picture",
+        "url": "https://gogoanime.vc/category/rahxephon-the-motion-picture",
+        "image": "https://gogocdn.net/images/0002.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 165,
+        "aniId": 165,
+        "deletedAt": null
+      },
+      "rahxephon-dub": {
+        "createdAt": "2021-07-12T15:45:01.000Z",
+        "updatedAt": "2021-07-12T16:15:01.000Z",
+        "checkedAt": null,
+        "id": 37825,
+        "identifier": "rahxephon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "RahXephon (Dub)",
+        "url": "https://gogoanime.pe/category/rahxephon-dub",
+        "image": "https://gogocdn.net/cover/rahxephon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 165,
+        "aniId": 165,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "165": {
+        "identifier": "165",
+        "malId": 165,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "RahXephon",
+        "url": "https://animixplay.to/anime/165"
+      }
+    },
+    "YugenAnime": {
+      "188": {
+        "identifier": "188",
+        "malId": 165,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "RahXephon",
+        "url": "https://yugen.to/anime/188/rahxephon/"
+      }
+    }
+  }
+}

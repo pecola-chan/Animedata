@@ -1,0 +1,115 @@
+{
+  "createdAt": "2022-02-06T04:36:05.000Z",
+  "updatedAt": "2022-05-14T15:01:04.000Z",
+  "checkedAt": "2022-05-14T15:01:04.000Z",
+  "id": 50281,
+  "type": "anime",
+  "title": "Delicious Party♡Precure",
+  "altTitle": [
+    "デリシャスパーティ♡プリキュア"
+  ],
+  "url": "https://myanimelist.net/anime/50281/Delicious_Party♡Precure",
+  "image": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.toei-anim.co.jp/tv/delicious-party_precure/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16953"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24994"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Delicious_Party_Pretty_Cure"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282361"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 16953,
+  "Pages": {
+    "Gogoanime": {
+      "delicious-partyprecure": {
+        "createdAt": "2022-02-06T04:36:04.000Z",
+        "updatedAt": "2022-02-06T05:06:03.000Z",
+        "checkedAt": null,
+        "id": 40091,
+        "identifier": "delicious-partyprecure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Delicious Party♡Precure",
+        "url": "https://gogoanime.pe/category/delicious-partyprecure",
+        "image": "https://gogocdn.net/cover/delicious-partyprecure.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50281,
+        "aniId": 142080,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "6lvvp": {
+        "createdAt": "2022-02-06T05:38:07.000Z",
+        "updatedAt": "2022-02-06T06:06:03.000Z",
+        "checkedAt": null,
+        "id": 40093,
+        "identifier": "6lvvp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Delicious Party♡Precure",
+        "url": "https://9anime.to/watch/delicious-partyprecure.6lvvp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/2a/2a5497731d0033a7c5bafe861a462b3a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 50281,
+        "aniId": 142080,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4702": {
+        "identifier": "4702",
+        "malId": 50281,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Delicious Party♡Precure",
+        "url": "https://animepahe.com/a/4702"
+      }
+    },
+    "AniMixPlay": {
+      "50281": {
+        "identifier": "50281",
+        "malId": 50281,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Delicious Party♡Precure",
+        "url": "https://animixplay.to/anime/50281"
+      }
+    },
+    "YugenAnime": {
+      "11662": {
+        "identifier": "11662",
+        "malId": 50281,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Delicious Party♡Precure",
+        "url": "https://yugen.to/anime/11662/delicious-partyprecure/"
+      }
+    }
+  }
+}

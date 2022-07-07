@@ -1,0 +1,92 @@
+{
+  "createdAt": "2020-10-12T15:39:05.000Z",
+  "updatedAt": "2022-05-14T20:47:18.000Z",
+  "checkedAt": "2022-05-14T20:47:18.000Z",
+  "id": 10187,
+  "type": "anime",
+  "title": "HenSemi (TV)",
+  "altTitle": [
+    "Hentai Seiri Seminar",
+    "Hen Zemi",
+    "Abnormal Physiology Seminar",
+    "変ゼミ"
+  ],
+  "url": "https://myanimelist.net/anime/10187/HenSemi_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/12/75839.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/hensemi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8287"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12333"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hen_Semi"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8287,
+  "Pages": {
+    "9anime": {
+      "627": {
+        "createdAt": "2020-10-12T15:48:25.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 17,
+        "identifier": "627",
+        "type": "anime",
+        "page": "9anime",
+        "title": "HenSemi (TV)",
+        "url": "https://9anime.to/watch/hensemi-tv.627",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/--FgnNyCp_eU/V4jHI401N8I/AAAAAAAAvo4/4TmrPsNRrGE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10187,
+        "aniId": 10187,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2735": {
+        "identifier": "2735",
+        "malId": 10187,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "HenSemi (TV)",
+        "url": "https://animepahe.com/a/2735"
+      }
+    },
+    "AniMixPlay": {
+      "10187": {
+        "identifier": "10187",
+        "malId": 10187,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "HenSemi (TV)",
+        "url": "https://animixplay.to/anime/10187"
+      }
+    },
+    "YugenAnime": {
+      "1368": {
+        "identifier": "1368",
+        "malId": 10187,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "HenSemi (TV)",
+        "url": "https://yugen.to/anime/1368/hensemi-tv/"
+      }
+    }
+  }
+}

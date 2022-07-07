@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-05-14T22:09:47.000Z",
+  "checkedAt": "2022-05-14T22:09:47.000Z",
+  "id": 16381,
+  "type": "anime",
+  "title": "Santa Company",
+  "altTitle": [
+    "サンタ・カンパニー"
+  ],
+  "url": "https://myanimelist.net/anime/16381/Santa_Company",
+  "image": "https://cdn.myanimelist.net/images/anime/1211/112792.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.santa-company.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9516"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14919"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Santa_Company"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9516,
+  "Pages": {
+    "9anime": {
+      "y7rp": {
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10628,
+        "identifier": "y7rp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Santa Company",
+        "url": "https://9anime.to/watch/santa-company.y7rp",
+        "image": "https://static.akacdn.ru/files/images/2018/07/bacf664c310c83682fd24e940031998b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16381,
+        "aniId": 16381,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "santa-company": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20429,
+        "identifier": "santa-company",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Santa Company",
+        "url": "https://gogoanime.vc/category/santa-company",
+        "image": "https://gogocdn.net/images/upload/44195.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16381,
+        "aniId": 16381,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "16381": {
+        "identifier": "16381",
+        "malId": 16381,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Santa Company",
+        "url": "https://animixplay.to/anime/16381"
+      }
+    },
+    "YugenAnime": {
+      "904": {
+        "identifier": "904",
+        "malId": 16381,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Santa Company",
+        "url": "https://yugen.to/anime/904/santa-company/"
+      }
+    }
+  }
+}

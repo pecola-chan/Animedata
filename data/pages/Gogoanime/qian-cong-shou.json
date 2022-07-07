@@ -1,0 +1,49 @@
+{
+  "createdAt": "2022-01-22T19:31:24.000Z",
+  "updatedAt": "2022-03-27T15:09:07.000Z",
+  "checkedAt": null,
+  "id": 39935,
+  "identifier": "qian-cong-shou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Qian Cong Shou",
+  "url": "https://gogoanime.fi/category/qian-cong-shou",
+  "image": "https://gogocdn.net/cover/qian-cong-shou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": 1,
+  "malId": 50441,
+  "aniId": null,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2022-02-07T15:39:47.000Z",
+    "updatedAt": "2022-05-14T21:19:47.000Z",
+    "checkedAt": "2022-05-14T21:19:47.000Z",
+    "id": 50441,
+    "type": "anime",
+    "title": "Qian Cong Shou",
+    "altTitle": [
+      "The Indomitable",
+      "千从狩"
+    ],
+    "url": "https://myanimelist.net/anime/50441/Qian_Cong_Shou",
+    "image": "https://cdn.myanimelist.net/images/anime/1015/119632.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28230740"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/千从狩"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": null
+  },
+  "Ani": null
+}

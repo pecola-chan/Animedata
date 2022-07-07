@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2022-05-14T18:59:53.000Z",
+  "checkedAt": "2022-05-14T18:59:53.000Z",
+  "id": 1047,
+  "type": "anime",
+  "title": "On Your Mark",
+  "altTitle": [
+    "On Your Mark",
+    "On Your Mark CHAGE & ASKA"
+  ],
+  "url": "https://myanimelist.net/anime/1047/On_Your_Mark",
+  "image": "https://cdn.myanimelist.net/images/anime/10/81234.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghibli.jp/works/onyourmark/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=754"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=879"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/On_Your_Mark"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 754,
+  "Pages": {
+    "9anime": {
+      "9zpq": {
+        "createdAt": "2020-10-12T15:51:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4542,
+        "identifier": "9zpq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "On Your Mark",
+        "url": "https://9anime.to/watch/on-your-mark.9zpq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cgzxv-PMHvw/WA9FH66MZQI/AAAAAAABLGA/yOqXRxjQaBg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1047,
+        "aniId": 1047,
+        "deletedAt": null
+      },
+      "j6w4": {
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4753,
+        "identifier": "j6w4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "On Your Mark (Dub)",
+        "url": "https://9anime.to/watch/on-your-mark-dub.j6w4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-rV6XgVmWACE/WB3DOqpQD1I/AAAAAAABNaU/fl4mZjNttGc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1047,
+        "aniId": 1047,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "on-your-mark": {
+        "createdAt": "2021-07-24T12:21:34.000Z",
+        "updatedAt": "2021-07-24T12:51:33.000Z",
+        "checkedAt": null,
+        "id": 38007,
+        "identifier": "on-your-mark",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "On Your Mark",
+        "url": "https://gogoanime.pe/category/on-your-mark",
+        "image": "https://gogocdn.net/cover/on-your-mark.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1047,
+        "aniId": 1047,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1047": {
+        "identifier": "1047",
+        "malId": 1047,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "On Your Mark",
+        "url": "https://animixplay.to/anime/1047"
+      }
+    },
+    "YugenAnime": {
+      "7958": {
+        "identifier": "7958",
+        "malId": 1047,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "On Your Mark",
+        "url": "https://yugen.to/anime/7958/on-your-mark/"
+      }
+    }
+  }
+}

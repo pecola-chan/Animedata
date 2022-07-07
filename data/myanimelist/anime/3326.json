@@ -1,0 +1,122 @@
+{
+  "createdAt": "2020-10-12T15:38:37.000Z",
+  "updatedAt": "2022-05-14T20:36:11.000Z",
+  "checkedAt": "2022-05-14T20:36:11.000Z",
+  "id": 3326,
+  "type": "anime",
+  "title": "Inaka Isha",
+  "altTitle": [
+    "Kafka Inaka Isha",
+    "Ein Landarzt",
+    "Franz Kafka's A Country Doctor",
+    "カフカ 田舎医者"
+  ],
+  "url": "https://myanimelist.net/anime/3326/Inaka_Isha",
+  "image": "https://cdn.myanimelist.net/images/anime/5/5344.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shochiku.co.jp/inakaisha/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5001"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6858"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/A_Country_Doctor_(film)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5001,
+  "Pages": {
+    "9anime": {
+      "2yzq": {
+        "createdAt": "2020-10-12T15:49:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1602,
+        "identifier": "2yzq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Qin Shiming Yue Zhi: Entrance of the Doctor",
+        "url": "https://9anime.to/watch/qin-shiming-yue-zhi-entrance-of-the-doctor.2yzq",
+        "image": "https://static.akacdn.ru/files/images/2018/04/de3fa3e04bef1a43e0a9448ce1d695ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3326,
+        "aniId": 3326,
+        "deletedAt": null
+      },
+      "j82y": {
+        "createdAt": "2020-10-12T15:52:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4784,
+        "identifier": "j82y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Inaka Isha",
+        "url": "https://9anime.to/watch/inaka-isha.j82y",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pe2BefcYKRs/WKfaS3fZwRI/AAAAAAABdM8/V24cgfAuKZc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3326,
+        "aniId": 3326,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "inaka-isha": {
+        "createdAt": "2022-05-20T15:00:01.606Z",
+        "updatedAt": "2022-05-20T15:20:00.000Z",
+        "checkedAt": "2022-05-20T15:00:01.000Z",
+        "id": 41035,
+        "identifier": "inaka-isha",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Inaka Isha",
+        "url": "https://gogoanime.sk/category/inaka-isha",
+        "image": "https://gogocdn.net/cover/inaka-isha.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3326,
+        "aniId": 3326,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3326": {
+        "identifier": "3326",
+        "malId": 3326,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Inaka Isha",
+        "url": "https://animixplay.to/anime/3326"
+      }
+    },
+    "YugenAnime": {
+      "15347": {
+        "identifier": "15347",
+        "malId": 3326,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Inaka Isha",
+        "url": "https://yugen.to/anime/15347/inaka-isha/"
+      }
+    }
+  }
+}

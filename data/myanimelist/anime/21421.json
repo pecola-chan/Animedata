@@ -1,0 +1,106 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-14T23:27:05.000Z",
+  "checkedAt": "2022-05-14T23:27:05.000Z",
+  "id": 21421,
+  "type": "anime",
+  "title": "Mahou Shoujo Taisen",
+  "altTitle": [
+    "Magica Wars",
+    "魔法少女大戦"
+  ],
+  "url": "https://myanimelist.net/anime/21421/Mahou_Shoujo_Taisen",
+  "image": "https://cdn.myanimelist.net/images/anime/10/62221.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mahoushoujyotaisen.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10286"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15800"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magica_Wars"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260537"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10286,
+  "Pages": {
+    "9anime": {
+      "l5v6": {
+        "createdAt": "2020-10-12T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5870,
+        "identifier": "l5v6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahou Shoujo Taisen",
+        "url": "https://9anime.to/watch/mahou-shoujo-taisen.l5v6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tLOvPCLH1l0/WRq2sbN9goI/AAAAAAAAnzc/NRKCWnIs36E-Pmvm6l2Xn0C1j0LGrhtCACHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21421,
+        "aniId": 20530,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahou-shoujo-taisen": {
+        "createdAt": "2020-10-12T16:01:12.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19278,
+        "identifier": "mahou-shoujo-taisen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahou Shoujo Taisen",
+        "url": "https://gogoanime.vc/category/mahou-shoujo-taisen",
+        "image": "https://gogocdn.net/images/spring/Mahou Shoujo Taisen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21421,
+        "aniId": 20530,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "21421": {
+        "identifier": "21421",
+        "malId": 21421,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mahou Shoujo Taisen",
+        "url": "https://animixplay.to/anime/21421"
+      }
+    },
+    "YugenAnime": {
+      "207": {
+        "identifier": "207",
+        "malId": 21421,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mahou Shoujo Taisen",
+        "url": "https://yugen.to/anime/207/mahou-shoujo-taisen/"
+      }
+    }
+  }
+}

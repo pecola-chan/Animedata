@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-15T02:03:48.000Z",
+  "checkedAt": "2022-05-15T02:03:48.000Z",
+  "id": 11959,
+  "type": "anime",
+  "title": "Moeru! Oniisan (OVA)",
+  "altTitle": [
+    "Moeru! Onii-san (OVA)",
+    "Moeru! Onii-san (1989)",
+    "The Burning Wild Man (OVA)",
+    "燃える！お兄さん (1989)"
+  ],
+  "url": "https://myanimelist.net/anime/11959/Moeru_Oniisan_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/9/33629.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/title/onisan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4010"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7415"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Burning_Wild_Man"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4010,
+  "Pages": {
+    "9anime": {
+      "xk5v": {
+        "createdAt": "2020-10-12T15:56:28.000Z",
+        "updatedAt": "2022-06-14T03:00:13.000Z",
+        "checkedAt": "2022-06-14T03:00:13.000Z",
+        "id": 10257,
+        "identifier": "xk5v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Moeru! Onii-san (OVA)",
+        "url": "https://9anime.to/watch/moeru-onii-san-ova.xk5v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/05/be743766bf0716923950460c94f8f929.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11959,
+        "aniId": 11959,
+        "deletedAt": null
+      },
+      "z94w": {
+        "createdAt": "2020-10-12T15:57:08.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11113,
+        "identifier": "z94w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Burning Wild Man",
+        "url": "https://9anime.to/watch/the-burning-wild-man.z94w",
+        "image": "https://static.akacdn.ru/files/images/2019/10/554e0c231f5b3b9f214ccb6f0c8af9f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 11959,
+        "aniId": 11959,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "11959": {
+        "identifier": "11959",
+        "malId": 11959,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Moeru! Oniisan (OVA)",
+        "url": "https://animixplay.to/anime/11959"
+      }
+    },
+    "YugenAnime": {
+      "2934": {
+        "identifier": "2934",
+        "malId": 11959,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Moeru! Oniisan (OVA)",
+        "url": "https://yugen.to/anime/2934/moeru-oniisan-ova/"
+      }
+    }
+  }
+}

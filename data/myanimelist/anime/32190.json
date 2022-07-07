@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T20:13:58.000Z",
+  "checkedAt": "2022-05-14T20:13:58.000Z",
+  "id": 32190,
+  "type": "anime",
+  "title": "Omoi no Kakera",
+  "altTitle": [
+    "想いのかけら"
+  ],
+  "url": "https://myanimelist.net/anime/32190/Omoi_no_Kakera",
+  "image": "https://cdn.myanimelist.net/images/anime/5/80101.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/daisuki-tohoku/kakera/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11799"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18199"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%83%B3%E3%81%84%E3%81%AE%E3%81%8B%E3%81%91%E3%82%89"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11799,
+  "Pages": {
+    "9anime": {
+      "3916": {
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 129,
+        "identifier": "3916",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Omoi no Kakera",
+        "url": "https://9anime.to/watch/omoi-no-kakera.3916",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UgsXzObpRWU/V86qRZkb5OI/AAAAAAAA75I/GRbXBAn54UA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32190,
+        "aniId": 21736,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "omoi-no-kakera": {
+        "createdAt": "2020-10-12T16:01:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19843,
+        "identifier": "omoi-no-kakera",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Omoi no Kakera",
+        "url": "https://gogoanime.vc/category/omoi-no-kakera",
+        "image": "https://gogocdn.net/cover/omoi-no-kakera.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32190,
+        "aniId": 21736,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "32190": {
+        "identifier": "32190",
+        "malId": 32190,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Omoi no Kakera",
+        "url": "https://animixplay.to/anime/32190"
+      }
+    },
+    "YugenAnime": {
+      "2967": {
+        "identifier": "2967",
+        "malId": 32190,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Omoi no Kakera",
+        "url": "https://yugen.to/anime/2967/omoi-no-kakera/"
+      }
+    }
+  }
+}

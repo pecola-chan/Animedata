@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:38:40.000Z",
+  "updatedAt": "2022-05-15T09:06:21.000Z",
+  "checkedAt": "2022-05-15T09:06:21.000Z",
+  "id": 3819,
+  "type": "anime",
+  "title": "Sasurai no Taiyou",
+  "altTitle": [
+    "Wandering Sun",
+    "Nathalie Sasurai no Taiyo",
+    "Nozomi In The Sun",
+    "さすらいの太陽"
+  ],
+  "url": "https://myanimelist.net/anime/3819/Sasurai_no_Taiyou",
+  "image": "https://cdn.myanimelist.net/images/anime/1068/101174.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mushi-pro.co.jp/2010/09/%E3%81%95%E3%81%99%E3%82%89%E3%81%84%E3%81%AE%E5%A4%AA%E9%99%BD/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3155"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1444"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wandering_Sun"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3155,
+  "Pages": {
+    "9anime": {
+      "qw0n": {
+        "createdAt": "2020-10-12T15:55:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8585,
+        "identifier": "qw0n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nozomi In The Sun",
+        "url": "https://9anime.to/watch/nozomi-in-the-sun.qw0n",
+        "image": "https://static.akacdn.ru/static/images/2019/01/cbdcc362ae63d34137d78f2ed3f0a018.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3819,
+        "aniId": 3819,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sasurai-no-taiyou": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20436,
+        "identifier": "sasurai-no-taiyou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sasurai no Taiyou",
+        "url": "https://gogoanime.vc/category/sasurai-no-taiyou",
+        "image": "https://cdnimg.xyz/cover/sasurai-no-taiyou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3819,
+        "aniId": 3819,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "3819": {
+        "identifier": "3819",
+        "malId": 3819,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sasurai no Taiyou",
+        "url": "https://animixplay.to/anime/3819"
+      }
+    },
+    "YugenAnime": {
+      "2258": {
+        "identifier": "2258",
+        "malId": 3819,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sasurai no Taiyou",
+        "url": "https://yugen.to/anime/2258/sasurai-no-taiyou/"
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T09:48:08.000Z",
+  "checkedAt": "2022-05-14T09:48:08.000Z",
+  "id": 6,
+  "type": "anime",
+  "title": "Trigun",
+  "altTitle": [
+    "Trigun",
+    "トライガン"
+  ],
+  "url": "https://myanimelist.net/anime/6/Trigun",
+  "image": "https://cdn.myanimelist.net/images/anime/7/20310.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=396"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=53"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=88"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Trigun"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/trigun"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 53,
+  "Pages": {
+    "9anime": {
+      "1o3m": {
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1050,
+        "identifier": "1o3m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Trigun",
+        "url": "https://9anime.to/watch/trigun.1o3m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-QpfsDqfDjIc/V-IpJLbbHFI/AAAAAAAA_Pw/Y0sBSEZC24w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6,
+        "aniId": 6,
+        "deletedAt": null
+      },
+      "wq56": {
+        "createdAt": "2020-10-12T15:56:13.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9894,
+        "identifier": "wq56",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Trigun (Dub)",
+        "url": "https://9anime.to/watch/trigun-dub.wq56",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pUB_UCE7B1k/V7YG_eAFrdI/AAAAAAAA4Cg/6fn8qfGR_uc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6,
+        "aniId": 6,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "trigun": {
+        "createdAt": "2020-10-12T16:02:08.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21217,
+        "identifier": "trigun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Trigun",
+        "url": "https://gogoanime.vc/category/trigun",
+        "image": "https://cdnimg.xyz/images/anime/T/trigun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6,
+        "aniId": 6,
+        "deletedAt": null
+      },
+      "trigun-dub": {
+        "createdAt": "2020-10-12T16:02:09.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21220,
+        "identifier": "trigun-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Trigun (Dub)",
+        "url": "https://gogoanime.vc/category/trigun-dub",
+        "image": "https://images.gogoanime.tv/cover/trigun-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6,
+        "aniId": 6,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1536": {
+        "identifier": "1536",
+        "malId": 6,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Trigun",
+        "url": "https://animepahe.com/a/1536"
+      }
+    },
+    "AniMixPlay": {
+      "6": {
+        "identifier": "6",
+        "malId": 6,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Trigun",
+        "url": "https://animixplay.to/anime/6"
+      }
+    },
+    "YugenAnime": {
+      "1871": {
+        "identifier": "1871",
+        "malId": 6,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Trigun",
+        "url": "https://yugen.to/anime/1871/trigun/"
+      }
+    }
+  }
+}

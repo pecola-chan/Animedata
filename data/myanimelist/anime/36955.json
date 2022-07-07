@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T22:26:29.000Z",
+  "checkedAt": "2022-05-14T22:26:29.000Z",
+  "id": 36955,
+  "type": "anime",
+  "title": "Tales of the Rays Gekijou",
+  "altTitle": [
+    "ているず おぶ ざ れいず劇場"
+  ],
+  "url": "https://myanimelist.net/anime/36955/Tales_of_the_Rays_Gekijou",
+  "image": "https://cdn.myanimelist.net/images/anime/1851/95295.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://torays.tales-ch.jp/special/shortAnime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13661"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13661,
+  "Pages": {
+    "9anime": {
+      "yx5p": {
+        "createdAt": "2020-10-12T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10894,
+        "identifier": "yx5p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tales of the Rays (2018)",
+        "url": "https://9anime.to/watch/tales-of-the-rays-2018.yx5p",
+        "image": "http://static.akacdn.ru/static/images/2018/02/a462dbf4f3162a32bc6959912d4acfa3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36955,
+        "aniId": 110330,
+        "deletedAt": null
+      }
+    }
+  }
+}

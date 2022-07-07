@@ -1,0 +1,69 @@
+{
+  "createdAt": "2021-08-17T03:07:26.000Z",
+  "updatedAt": "2021-08-17T03:36:59.000Z",
+  "checkedAt": null,
+  "id": 38325,
+  "identifier": "platonic-chain",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Platonic Chain",
+  "url": "https://gogoanime.pe/category/platonic-chain",
+  "image": "https://gogocdn.net/cover/platonic-chain.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 611,
+  "aniId": 611,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T20:42:59.000Z",
+    "checkedAt": "2022-05-14T20:42:59.000Z",
+    "id": 611,
+    "type": "anime",
+    "title": "Platonic Chain",
+    "altTitle": [
+      "プラトニック・チェーン"
+    ],
+    "url": "https://myanimelist.net/anime/611/Platonic_Chain",
+    "image": "https://cdn.myanimelist.net/images/anime/6/83128.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=294"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1826"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%88%E3%83%8B%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 294
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-15T18:27:11.000Z",
+    "checkedAt": "2022-05-15T18:27:11.000Z",
+    "id": 611,
+    "type": "anime",
+    "title": "Platonic Chain",
+    "altTitle": [
+      "プラトニック・チェーン"
+    ],
+    "url": "https://anilist.co/anime/611",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b611-mS5HCy57fQBq.jpg",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 611,
+    "deletedAt": null
+  }
+}

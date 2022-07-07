@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T16:00:41.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18204,
+  "identifier": "haunted-junction",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Haunted Junction",
+  "url": "https://gogoanime.vc/category/haunted-junction",
+  "image": "https://gogocdn.net/cover/haunted-junction.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 646,
+  "aniId": 646,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:07.000Z",
+    "updatedAt": "2022-05-14T22:30:34.000Z",
+    "checkedAt": "2022-05-14T22:30:34.000Z",
+    "id": 646,
+    "type": "anime",
+    "title": "Haunted Junction",
+    "altTitle": [
+      "HAUNTED じゃんくしょん"
+    ],
+    "url": "https://myanimelist.net/anime/646/Haunted_Junction",
+    "image": "https://cdn.myanimelist.net/images/anime/1163/94507.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=143"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=157"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Haunted_Junction"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 143
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-15T18:29:47.000Z",
+    "checkedAt": "2022-05-15T18:29:47.000Z",
+    "id": 646,
+    "type": "anime",
+    "title": "Haunted Junction",
+    "altTitle": [
+      "HAUNTED じゃんくしょん"
+    ],
+    "url": "https://anilist.co/anime/646",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx646-szQ0blrVms6A.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 646,
+    "deletedAt": null
+  }
+}

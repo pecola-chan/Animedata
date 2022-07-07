@@ -1,0 +1,103 @@
+{
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2022-05-14T18:42:23.000Z",
+  "checkedAt": "2022-05-14T18:42:23.000Z",
+  "id": 42161,
+  "type": "anime",
+  "title": "Poketoon",
+  "altTitle": [
+    "Pokétoon",
+    "Zuruggu to Mimikkyu - Chase the Beans",
+    "Hero ni Naritai Yanchamu",
+    "Yume no Tsubomi",
+    "Mattete ne! Koiking",
+    "Gengar ni Nacchatta!?",
+    "Pokapoka Magumaggu House",
+    "ズルッグとミミッキュ"
+  ],
+  "url": "https://myanimelist.net/anime/42161/Poketoon",
+  "image": "https://cdn.myanimelist.net/images/anime/1941/117693.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.pokemon.co.jp/ex/poketoon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15626"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15626,
+  "Pages": {
+    "9anime": {
+      "zm03": {
+        "createdAt": "2020-10-12T15:57:11.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11193,
+        "identifier": "zm03",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chase the Beans",
+        "url": "https://9anime.to/watch/chase-the-beans.zm03",
+        "image": "https://static.akacdn.ru/files/images/2020/08/2a28b1db6cc0d0ca8abcd460a5f57ead.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42161,
+        "aniId": 119964,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "poketoon": {
+        "createdAt": "2021-08-15T11:37:03.000Z",
+        "updatedAt": "2021-08-15T12:06:59.000Z",
+        "checkedAt": null,
+        "id": 38305,
+        "identifier": "poketoon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Poketoon",
+        "url": "https://gogoanime.pe/category/poketoon",
+        "image": "https://gogocdn.net/cover/poketoon.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 42161,
+        "aniId": 119964,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "42161": {
+        "identifier": "42161",
+        "malId": 42161,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Poketoon",
+        "url": "https://animixplay.to/anime/42161"
+      }
+    },
+    "YugenAnime": {
+      "9632": {
+        "identifier": "9632",
+        "malId": 42161,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Poketoon",
+        "url": "https://yugen.to/anime/9632/poketoon/"
+      }
+    }
+  }
+}

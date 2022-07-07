@@ -1,0 +1,174 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T09:30:34.000Z",
+  "checkedAt": "2022-05-14T09:30:34.000Z",
+  "id": 5,
+  "type": "anime",
+  "title": "Cowboy Bebop: Tengoku no Tobira",
+  "altTitle": [
+    "Cowboy Bebop: Knockin' on Heaven's Door",
+    "Cowboy Bebop: The Movie",
+    "カウボーイビバップ 天国の扉"
+  ],
+  "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+  "image": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/works/list/detail.php?cid=42"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=219"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=353"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cowboy_Bebop:_The_Movie"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 219,
+  "Pages": {
+    "9anime": {
+      "5w30": {
+        "createdAt": "2020-10-12T15:50:36.000Z",
+        "updatedAt": "2022-05-16T16:00:48.000Z",
+        "checkedAt": "2022-05-16T16:00:48.000Z",
+        "id": 2803,
+        "identifier": "5w30",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cowboy Bebop: Tengoku no Tobira",
+        "url": "https://9anime.to/watch/cowboy-bebop-the-movie-knockin-on-heavens-door.5w30",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/345868bc931063242c65218a7f6ddecf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5,
+        "aniId": 5,
+        "deletedAt": null
+      },
+      "81v3": {
+        "createdAt": "2020-10-12T15:51:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3715,
+        "identifier": "81v3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cowboy Bebop: Tengoku no Tobira (Dub)",
+        "url": "https://9anime.to/watch/cowboy-bebop-tengoku-no-tobira-dub.81v3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-t3HxgyGqHwY/V9KsqXnfT5I/AAAAAAAA81M/ToMvSxM-RhY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5,
+        "aniId": 5,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cowboy-bebop-knockin-on-heavens-door": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2022-06-13T23:01:20.000Z",
+        "checkedAt": "2022-06-13T23:01:20.000Z",
+        "id": 17181,
+        "identifier": "cowboy-bebop-knockin-on-heavens-door",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cowboy Bebop Knockin` on Heaven`s Door",
+        "url": "https://gogoanime.sk/category/cowboy-bebop-knockin-on-heavens-door",
+        "image": "https://gogocdn.net/images/anime/C/58688.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5,
+        "aniId": 5,
+        "deletedAt": null
+      },
+      "cowboy-bebop-tengoku-no-tobira": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2022-06-13T23:01:14.000Z",
+        "checkedAt": "2022-06-13T23:01:14.000Z",
+        "id": 17182,
+        "identifier": "cowboy-bebop-tengoku-no-tobira",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cowboy Bebop: Tengoku no Tobira",
+        "url": "https://gogoanime.sk/category/cowboy-bebop-tengoku-no-tobira",
+        "image": "https://gogocdn.net/cover/cowboy-bebop-tengoku-no-tobira.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5,
+        "aniId": 5,
+        "deletedAt": null
+      },
+      "cowboy-bebop-tengoku-no-tobira-dub": {
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17183,
+        "identifier": "cowboy-bebop-tengoku-no-tobira-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cowboy Bebop: Tengoku no Tobira (Dub)",
+        "url": "https://gogoanime.vc/category/cowboy-bebop-tengoku-no-tobira-dub",
+        "image": "https://gogocdn.net/cover/cowboy-bebop-tengoku-no-tobira-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5,
+        "aniId": 5,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "524": {
+        "identifier": "524",
+        "malId": 5,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cowboy Bebop: Tengoku no Tobira",
+        "url": "https://animepahe.com/a/524"
+      }
+    },
+    "AniMixPlay": {
+      "5": {
+        "identifier": "5",
+        "malId": 5,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Cowboy Bebop: Tengoku no Tobira",
+        "url": "https://animixplay.to/anime/5"
+      }
+    },
+    "YugenAnime": {
+      "3635": {
+        "identifier": "3635",
+        "malId": 5,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Cowboy Bebop: Tengoku no Tobira",
+        "url": "https://yugen.to/anime/3635/cowboy-bebop-tengoku-no-tobira/"
+      }
+    }
+  }
+}

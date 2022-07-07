@@ -1,0 +1,89 @@
+{
+  "createdAt": "2020-10-12T15:38:51.000Z",
+  "updatedAt": "2022-05-15T02:37:19.000Z",
+  "checkedAt": "2022-05-15T02:37:19.000Z",
+  "id": 6375,
+  "type": "anime",
+  "title": "Kagaku Ninja-tai Gatchaman F",
+  "altTitle": [
+    "Gatchaman Fighter",
+    "Science Ninja Team Gatchaman Fighter",
+    "Science Ninja Team Gatchaman F",
+    "Kagaku Ninjatai Gatchaman Fighter",
+    "Eagle Riders (2)",
+    "科学忍者隊ガッチャマンF"
+  ],
+  "url": "https://myanimelist.net/anime/6375/Kagaku_Ninja-tai_Gatchaman_F",
+  "image": "https://cdn.myanimelist.net/images/anime/2/45630.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works/archive/gatcha_f.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1450"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1220"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gatchaman_F"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/gatchaman-fighter"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 1450,
+  "Pages": {
+    "9anime": {
+      "4omm": {
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2322,
+        "identifier": "4omm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eagle Riders (2)",
+        "url": "https://9anime.to/watch/eagle-riders-2.4omm",
+        "image": "http://static.akacdn.ru/static/images/2018/07/495b3fa7bc6595891912fd48db89a7a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6375,
+        "aniId": 6375,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "6375": {
+        "identifier": "6375",
+        "malId": 6375,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kagaku Ninja-tai Gatchaman F",
+        "url": "https://animixplay.to/anime/6375"
+      }
+    },
+    "YugenAnime": {
+      "6598": {
+        "identifier": "6598",
+        "malId": 6375,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kagaku Ninja-tai Gatchaman F",
+        "url": "https://yugen.to/anime/6598/kagaku-ninja-tai-gatchaman-f/"
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "createdAt": "2021-07-09T02:15:07.000Z",
+  "updatedAt": "2021-07-09T02:43:16.000Z",
+  "checkedAt": null,
+  "id": 37756,
+  "identifier": "tales-of-gekijou",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Tales of Gekijou",
+  "url": "https://gogoanime.pe/category/tales-of-gekijou",
+  "image": "https://gogocdn.net/cover/tales-of-gekijou.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 12699,
+  "aniId": 12699,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:11.000Z",
+    "updatedAt": "2022-05-14T22:27:47.000Z",
+    "checkedAt": "2022-05-14T22:27:47.000Z",
+    "id": 12699,
+    "type": "anime",
+    "title": "Tales of Gekijou",
+    "altTitle": [
+      "Tales of the Heroes: Twin Brave Specials",
+      "ているず おぶ 劇場"
+    ],
+    "url": "https://myanimelist.net/anime/12699/Tales_of_Gekijou",
+    "image": "https://cdn.myanimelist.net/images/anime/5/48841.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8942"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%B6_%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA_%E3%83%84%E3%82%A4%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B4"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8942
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:40:11.000Z",
+    "updatedAt": "2022-05-15T13:04:47.000Z",
+    "checkedAt": "2022-05-15T13:04:47.000Z",
+    "id": 12699,
+    "type": "anime",
+    "title": "Tales of Gekijou",
+    "altTitle": [
+      "ているず おぶ 劇場",
+      "Tales of the Heroes: Twin Brave Specials"
+    ],
+    "url": "https://anilist.co/anime/12699",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12699.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 12699,
+    "deletedAt": null
+  }
+}

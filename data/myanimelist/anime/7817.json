@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-14T17:05:40.000Z",
+  "checkedAt": "2022-05-14T17:05:40.000Z",
+  "id": 7817,
+  "type": "anime",
+  "title": "B-gata H-kei",
+  "altTitle": [
+    "Yamada's First Time: B Gata H Kei",
+    "B型H系"
+  ],
+  "url": "https://myanimelist.net/anime/7817/B-gata_H-kei",
+  "image": "https://cdn.myanimelist.net/images/anime/1687/123304.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://web.archive.org/web/20120104145043/www.bgata-hkei.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7286"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11199"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/B_Gata_H_Kei"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/yamadas-first-time-b-gata-h-kei"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7286,
+  "Pages": {
+    "9anime": {
+      "8053": {
+        "createdAt": "2020-10-12T15:48:34.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 276,
+        "identifier": "8053",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B Gata H Kei",
+        "url": "https://9anime.to/watch/b-gata-h-kei.8053",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qzf3rZLdNFM/V5YftqjNmGI/AAAAAAAAx84/pgGFAL1r7jA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7817,
+        "aniId": 7817,
+        "deletedAt": null
+      },
+      "zwnp": {
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11316,
+        "identifier": "zwnp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "B Gata H Kei (Dub)",
+        "url": "https://9anime.to/watch/b-gata-h-kei-dub.zwnp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aDsvMw461X4/V8_XVkfLWTI/AAAAAAAA8Hc/Om1i4P5EtxY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7817,
+        "aniId": 7817,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "b-gata-h-kei": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16653,
+        "identifier": "b-gata-h-kei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "B Gata H Kei",
+        "url": "https://gogoanime.vc/category/b-gata-h-kei",
+        "image": "https://cdnimg.xyz/images/anime/B/B-Gata-H-Kei1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7817,
+        "aniId": 7817,
+        "deletedAt": null
+      },
+      "b-gata-h-kei-dub": {
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16654,
+        "identifier": "b-gata-h-kei-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "B Gata H Kei (Dub)",
+        "url": "https://gogoanime.vc/category/b-gata-h-kei-dub",
+        "image": "https://cdnimg.xyz/cover/b-gata-h-kei-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 7817,
+        "aniId": 7817,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1318": {
+        "identifier": "1318",
+        "malId": 7817,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "B-gata H-kei",
+        "url": "https://animepahe.com/a/1318"
+      }
+    },
+    "AniMixPlay": {
+      "7817": {
+        "identifier": "7817",
+        "malId": 7817,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "B-gata H-kei",
+        "url": "https://animixplay.to/anime/7817"
+      }
+    },
+    "YugenAnime": {
+      "1348": {
+        "identifier": "1348",
+        "malId": 7817,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "B-gata H-kei",
+        "url": "https://yugen.to/anime/1348/b-gata-h-kei/"
+      }
+    }
+  }
+}

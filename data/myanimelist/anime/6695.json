@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:52.000Z",
+  "updatedAt": "2022-05-15T04:36:35.000Z",
+  "checkedAt": "2022-05-15T04:36:35.000Z",
+  "id": 6695,
+  "type": "anime",
+  "title": "Mangchi",
+  "altTitle": [
+    "Hammerboy",
+    "망치"
+  ],
+  "url": "https://myanimelist.net/anime/6695/Mangchi",
+  "image": "https://cdn.myanimelist.net/images/anime/5/15380.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3411"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hammerboy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3411,
+  "Pages": {
+    "9anime": {
+      "xnnz": {
+        "createdAt": "2020-10-12T15:56:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10313,
+        "identifier": "xnnz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hammerboy",
+        "url": "https://9anime.to/watch/hammerboy.xnnz",
+        "image": "https://static.akacdn.ru/files/images/2018/04/ea7296078fa85e59c422cfaea58383fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6695,
+        "aniId": 6695,
+        "deletedAt": null
+      },
+      "yoo0": {
+        "createdAt": "2020-10-12T15:56:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 10776,
+        "identifier": "yoo0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hammerboy (Dub)",
+        "url": "https://9anime.to/watch/hammerboy-dub.yoo0",
+        "image": "https://static.akacdn.ru/files/images/2018/04/303b547ce5b4b2650f5099cca2266fb3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6695,
+        "aniId": 6695,
+        "deletedAt": null
+      }
+    }
+  }
+}

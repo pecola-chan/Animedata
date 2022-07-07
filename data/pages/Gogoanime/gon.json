@@ -1,0 +1,73 @@
+{
+  "createdAt": "2020-10-12T16:00:34.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17969,
+  "identifier": "gon",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Gon",
+  "url": "https://gogoanime.vc/category/gon",
+  "image": "https://gogocdn.net/cover/gon.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 7867,
+  "aniId": 7867,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:57.000Z",
+    "updatedAt": "2022-05-15T12:44:31.000Z",
+    "checkedAt": "2022-05-15T12:44:31.000Z",
+    "id": 7867,
+    "type": "anime",
+    "title": "Gon",
+    "altTitle": [
+      "ゴン"
+    ],
+    "url": "https://myanimelist.net/anime/7867/Gon",
+    "image": "https://cdn.myanimelist.net/images/anime/6/36931.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/gon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8997"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14078"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gon_(manga)"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 8997
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:52.000Z",
+    "updatedAt": "2022-05-15T17:21:23.000Z",
+    "checkedAt": "2022-05-15T17:21:23.000Z",
+    "id": 7867,
+    "type": "anime",
+    "title": "Gon",
+    "altTitle": [
+      "ゴン"
+    ],
+    "url": "https://anilist.co/anime/7867",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7867.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 7867,
+    "deletedAt": null
+  }
+}

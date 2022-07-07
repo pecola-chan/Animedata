@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:57.000Z",
+  "updatedAt": "2022-05-14T22:52:17.000Z",
+  "checkedAt": "2022-05-14T22:52:17.000Z",
+  "id": 36468,
+  "type": "anime",
+  "title": "Shoujo Shuumatsu Jugyou",
+  "altTitle": [
+    "Girls' Weekend Class",
+    "Girls' Last Class",
+    "少女週末授業"
+  ],
+  "url": "https://myanimelist.net/anime/36468/Shoujo_Shuumatsu_Jugyou",
+  "image": "https://cdn.myanimelist.net/images/anime/10/88044.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://girls-last-tour.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13256"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19827"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Girls%27_Last_Tour"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 13256,
+  "Pages": {
+    "9anime": {
+      "rkxq": {
+        "createdAt": "2020-10-12T15:55:32.000Z",
+        "updatedAt": "2022-06-14T03:01:45.000Z",
+        "checkedAt": "2022-06-14T03:01:45.000Z",
+        "id": 8886,
+        "identifier": "rkxq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shoujo Shuumatsu Jugyou",
+        "url": "https://9anime.to/watch/girls-weekend-class.rkxq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/b7cea48c225b6c5e2bc226cc8d386fb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36468,
+        "aniId": 100180,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shoujo-shuumatsu-jugyou": {
+        "createdAt": "2021-05-17T11:25:12.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 37017,
+        "identifier": "shoujo-shuumatsu-jugyou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shoujo Shuumatsu Jugyou",
+        "url": "https://gogoanime.vc/category/shoujo-shuumatsu-jugyou",
+        "image": "https://gogocdn.net/cover/shoujo-shuumatsu-jugyou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36468,
+        "aniId": 100180,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3238": {
+        "identifier": "3238",
+        "malId": 36468,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shoujo Shuumatsu Jugyou",
+        "url": "https://animepahe.com/a/3238"
+      }
+    },
+    "AniMixPlay": {
+      "36468": {
+        "identifier": "36468",
+        "malId": 36468,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Shoujo Shuumatsu Jugyou",
+        "url": "https://animixplay.to/anime/36468"
+      }
+    },
+    "YugenAnime": {
+      "7682": {
+        "identifier": "7682",
+        "malId": 36468,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Shoujo Shuumatsu Jugyou",
+        "url": "https://yugen.to/anime/7682/shoujo-shuumatsu-jugyou/"
+      }
+    }
+  }
+}

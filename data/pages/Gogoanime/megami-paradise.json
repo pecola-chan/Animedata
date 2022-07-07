@@ -1,0 +1,71 @@
+{
+  "createdAt": "2021-02-25T12:55:52.000Z",
+  "updatedAt": "2021-05-20T15:25:21.000Z",
+  "checkedAt": null,
+  "id": 35233,
+  "identifier": "megami-paradise",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Megami Paradise",
+  "url": "https://gogoanime.vc/category/megami-paradise",
+  "image": "https://gogocdn.net/cover/megami-paradise.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2528,
+  "aniId": 2528,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:30.000Z",
+    "updatedAt": "2022-05-15T01:28:43.000Z",
+    "checkedAt": "2022-05-15T01:28:43.000Z",
+    "id": 2528,
+    "type": "anime",
+    "title": "Megami Paradise",
+    "altTitle": [
+      "Megami Tengoku",
+      "女神天国"
+    ],
+    "url": "https://myanimelist.net/anime/2528/Megami_Paradise",
+    "image": "https://cdn.myanimelist.net/images/anime/2/41791.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1476"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=696"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Megami_Paradise"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1476
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:21.000Z",
+    "updatedAt": "2022-05-15T19:44:11.000Z",
+    "checkedAt": "2022-05-15T19:44:11.000Z",
+    "id": 2528,
+    "type": "anime",
+    "title": "Megami Tengoku",
+    "altTitle": [
+      "女神天国",
+      "Megami Paradise"
+    ],
+    "url": "https://anilist.co/anime/2528",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2528-v4NwzZHIL6wk.png",
+    "category": "ova",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2528,
+    "deletedAt": null
+  }
+}

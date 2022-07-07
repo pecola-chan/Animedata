@@ -1,0 +1,163 @@
+{
+  "createdAt": "2020-10-12T15:39:20.000Z",
+  "updatedAt": "2022-05-14T16:13:56.000Z",
+  "checkedAt": "2022-05-14T16:13:56.000Z",
+  "id": 18507,
+  "type": "anime",
+  "title": "Free!",
+  "altTitle": [
+    "フリー！",
+    "Free! - Iwatobi Swim Club",
+    "Free!"
+  ],
+  "url": "https://myanimelist.net/anime/18507/Free",
+  "image": "https://cdn.myanimelist.net/images/anime/6/51107.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://1st.iwatobi-sc.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9858"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15291"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Free!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255425"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/free"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9858,
+  "Pages": {
+    "9anime": {
+      "k9j9": {
+        "createdAt": "2020-10-12T15:52:35.000Z",
+        "updatedAt": "2021-12-25T14:28:25.000Z",
+        "checkedAt": null,
+        "id": 5403,
+        "identifier": "k9j9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free! (Dub)",
+        "url": "https://9anime.to/watch/free-iwatobi-swim-club-dub.k9j9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/0de790a456bed9e6fb83d54935ce7626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18507,
+        "aniId": 18507,
+        "deletedAt": null
+      },
+      "x1q": {
+        "createdAt": "2020-10-12T15:56:22.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10060,
+        "identifier": "x1q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Free!",
+        "url": "https://9anime.to/watch/free.x1q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-HgJBvXx_7ZM/V3FYFDClxXI/AAAAAAAArh4/ZYtldVCmdX0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18507,
+        "aniId": 18507,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "free-": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17693,
+        "identifier": "free-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Free!!",
+        "url": "https://gogoanime.vc/category/free-",
+        "image": "https://images.gogoanime.tv/images/anime/Free1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18507,
+        "aniId": 18507,
+        "deletedAt": null
+      },
+      "free-dub": {
+        "createdAt": "2020-10-12T16:00:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17697,
+        "identifier": "free-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Free! (Dub)",
+        "url": "https://gogoanime.vc/category/free-dub",
+        "image": "https://gogocdn.net/cover/free-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 18507,
+        "aniId": 18507,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "511": {
+        "identifier": "511",
+        "malId": 18507,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Free!",
+        "url": "https://animepahe.com/a/511"
+      }
+    },
+    "AniMixPlay": {
+      "18507": {
+        "identifier": "18507",
+        "malId": 18507,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Free!",
+        "url": "https://animixplay.to/anime/18507"
+      }
+    },
+    "YugenAnime": {
+      "1289": {
+        "identifier": "1289",
+        "malId": 18507,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Free!",
+        "url": "https://yugen.to/anime/1289/free-kcqq/"
+      }
+    }
+  }
+}

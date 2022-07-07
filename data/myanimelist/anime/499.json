@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:05.000Z",
+  "updatedAt": "2022-05-14T20:24:17.000Z",
+  "checkedAt": "2022-05-14T20:24:17.000Z",
+  "id": 499,
+  "type": "anime",
+  "title": "Makai Toshi Shinjuku",
+  "altTitle": [
+    "Monster City Shinjuku",
+    "Demon City Shinjuku",
+    "魔界都市〈新宿〉"
+  ],
+  "url": "https://myanimelist.net/anime/499/Makai_Toshi_Shinjuku",
+  "image": "https://cdn.myanimelist.net/images/anime/1366/97857.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.madhouse.co.jp/works/1988-1987/works_ova_makaitoshi.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1023"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=576"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1023,
+  "Pages": {
+    "9anime": {
+      "44x7": {
+        "createdAt": "2020-10-12T15:50:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2121,
+        "identifier": "44x7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Makai Toshi Shinjuku",
+        "url": "https://9anime.to/watch/makai-toshi-shinjuku.44x7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hjTUsnKaGtc/WKq2EqLb25I/AAAAAAABdhI/VL5g2Kx0tT4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 499,
+        "aniId": 499,
+        "deletedAt": null
+      },
+      "jwy3": {
+        "createdAt": "2020-10-12T15:52:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5079,
+        "identifier": "jwy3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Makai Toshi Shinjuku (Dub)",
+        "url": "https://9anime.to/watch/makai-toshi-shinjuku-dub.jwy3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7iieOopBfQs/V9Gg8HkHZsI/AAAAAAAA8ow/R_X8NGiPxy0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 499,
+        "aniId": 499,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "demon-city-shinjuku": {
+        "createdAt": "2021-03-25T18:19:27.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35942,
+        "identifier": "demon-city-shinjuku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Demon City Shinjuku",
+        "url": "https://gogoanime.vc/category/demon-city-shinjuku",
+        "image": "https://gogocdn.net/images/Demon-City-Shinjuku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 499,
+        "aniId": 499,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "499": {
+        "identifier": "499",
+        "malId": 499,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Makai Toshi Shinjuku",
+        "url": "https://animixplay.to/anime/499"
+      }
+    },
+    "YugenAnime": {
+      "6340": {
+        "identifier": "6340",
+        "malId": 499,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Makai Toshi Shinjuku",
+        "url": "https://yugen.to/anime/6340/makai-toshi-shinjuku/"
+      }
+    }
+  }
+}

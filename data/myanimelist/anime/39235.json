@@ -1,0 +1,134 @@
+{
+  "createdAt": "2020-10-12T15:40:08.000Z",
+  "updatedAt": "2022-05-14T14:42:59.000Z",
+  "checkedAt": "2022-05-14T14:42:59.000Z",
+  "id": 39235,
+  "type": "anime",
+  "title": "Ni no Kuni",
+  "altTitle": [
+    "二ノ国"
+  ],
+  "url": "https://myanimelist.net/anime/39235/Ni_no_Kuni",
+  "image": "https://cdn.myanimelist.net/images/anime/1203/101637.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ninokuni.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14679"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21794"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ni_no_Kuni"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14679,
+  "Pages": {
+    "9anime": {
+      "m9mz": {
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6528,
+        "identifier": "m9mz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ni no Kuni (Dub)",
+        "url": "https://9anime.to/watch/ni-no-kuni-dub.m9mz",
+        "image": "https://static.akacdn.ru/files/images/2020/01/c69d0c7dea824b5ef375e566c8eb85ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39235,
+        "aniId": 107727,
+        "deletedAt": null
+      },
+      "qovw": {
+        "createdAt": "2020-10-12T15:55:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8488,
+        "identifier": "qovw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ni no Kuni",
+        "url": "https://9anime.to/watch/ni-no-kuni.qovw",
+        "image": "https://static.akacdn.ru/files/images/2019/07/99002265884c03f6e81273f130c45b09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39235,
+        "aniId": 107727,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ni-no-kuni": {
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19726,
+        "identifier": "ni-no-kuni",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ni no Kuni",
+        "url": "https://gogoanime.vc/category/ni-no-kuni",
+        "image": "https://cdnimg.xyz/cover/ni-no-kuni.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39235,
+        "aniId": 107727,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3727": {
+        "identifier": "3727",
+        "malId": 39235,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ni no Kuni",
+        "url": "https://animepahe.com/a/3727"
+      }
+    },
+    "AniMixPlay": {
+      "39235": {
+        "identifier": "39235",
+        "malId": 39235,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ni no Kuni",
+        "url": "https://animixplay.to/anime/39235"
+      }
+    },
+    "YugenAnime": {
+      "2396": {
+        "identifier": "2396",
+        "malId": 39235,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ni no Kuni",
+        "url": "https://yugen.to/anime/2396/ni-no-kuni/"
+      }
+    }
+  }
+}

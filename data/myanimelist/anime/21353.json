@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:39:24.000Z",
+  "updatedAt": "2022-05-14T15:52:58.000Z",
+  "checkedAt": "2022-05-14T15:52:58.000Z",
+  "id": 21353,
+  "type": "anime",
+  "title": "Tokyo ESP",
+  "altTitle": [
+    "Tokyo ESP",
+    "東京ESP"
+  ],
+  "url": "https://myanimelist.net/anime/21353/Tokyo_ESP",
+  "image": "https://cdn.myanimelist.net/images/anime/10/64587.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tokyo-esp.org/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9880"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16078"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokyo_ESP"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-261691"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/tokyo-esp"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9880,
+  "Pages": {
+    "9anime": {
+      "8n2o": {
+        "createdAt": "2020-10-12T15:51:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3929,
+        "identifier": "8n2o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo ESP",
+        "url": "https://9anime.to/watch/tokyo-esp.8n2o",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Xn_agQVTb8Q/V6Bls7FsDaI/AAAAAAAAzx4/Mfw_z2NxSX4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21353,
+        "aniId": 19199,
+        "deletedAt": null
+      },
+      "p4jj": {
+        "createdAt": "2020-10-12T15:54:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7838,
+        "identifier": "p4jj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo ESP (Dub)",
+        "url": "https://9anime.to/watch/tokyo-esp-dub.p4jj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kPonGRFm4nk/V9lm3AIe15I/AAAAAAAA-Ec/YHTHVeq_5bo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21353,
+        "aniId": 19199,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tokyo-esp": {
+        "createdAt": "2020-10-12T16:02:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21145,
+        "identifier": "tokyo-esp",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo ESP",
+        "url": "https://gogoanime.vc/category/tokyo-esp",
+        "image": "https://cdnimg.xyz/images/summer/tokyo_ESP.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21353,
+        "aniId": 19199,
+        "deletedAt": null
+      },
+      "tokyo-esp-dub": {
+        "createdAt": "2020-10-12T16:02:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21146,
+        "identifier": "tokyo-esp-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo ESP (Dub)",
+        "url": "https://gogoanime.vc/category/tokyo-esp-dub",
+        "image": "https://cdnimg.xyz/cover/tokyo-esp-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 21353,
+        "aniId": 19199,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1006": {
+        "identifier": "1006",
+        "malId": 21353,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tokyo ESP",
+        "url": "https://animepahe.com/a/1006"
+      }
+    },
+    "AniMixPlay": {
+      "21353": {
+        "identifier": "21353",
+        "malId": 21353,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tokyo ESP",
+        "url": "https://animixplay.to/anime/21353"
+      }
+    },
+    "YugenAnime": {
+      "1435": {
+        "identifier": "1435",
+        "malId": 21353,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tokyo ESP",
+        "url": "https://yugen.to/anime/1435/tokyo-esp/"
+      }
+    }
+  }
+}

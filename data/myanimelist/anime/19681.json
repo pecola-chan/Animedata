@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:39:21.000Z",
+  "updatedAt": "2022-05-27T14:06:14.000Z",
+  "checkedAt": "2022-05-27T14:06:14.000Z",
+  "id": 19681,
+  "type": "anime",
+  "title": "Hustle Punch",
+  "altTitle": [
+    "Hustle Punch",
+    "ハッスルパンチ"
+  ],
+  "url": "https://myanimelist.net/anime/19681/Hustle_Punch",
+  "image": "https://cdn.myanimelist.net/images/anime/8/59619.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/hustlepunch/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1883"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1507"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hustle_Punch"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1883,
+  "Pages": {
+    "9anime": {
+      "nq38": {
+        "createdAt": "2020-10-12T15:53:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7197,
+        "identifier": "nq38",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hustle Punch",
+        "url": "https://9anime.to/watch/hustle-punch.nq38",
+        "image": "https://static.akacdn.ru/files/images/2018/10/100829d7d790c12672f8522b037c1d70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 19681,
+        "aniId": 19681,
+        "deletedAt": null
+      }
+    }
+  }
+}

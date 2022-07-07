@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:39:44.000Z",
+  "updatedAt": "2022-05-18T18:57:39.000Z",
+  "checkedAt": "2022-05-18T18:57:39.000Z",
+  "id": 33013,
+  "type": "anime",
+  "title": "Super Lovers OVA",
+  "altTitle": [
+    "SUPER LOVERS（スーパーラヴァーズ）"
+  ],
+  "url": "https://myanimelist.net/anime/33013/Super_Lovers_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/9/87516.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://superlovers-anime.com/news/?news=premium-comic10"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12022"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12022,
+  "Pages": {
+    "9anime": {
+      "195p": {
+        "createdAt": "2020-10-12T15:49:11.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 923,
+        "identifier": "195p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Super Lovers OVA",
+        "url": "https://9anime.to/watch/super-lovers-ova.195p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-x7bC49ePlDM/WAoWc2SzLRI/AAAAAAABJ5U/sLhEUPdBueQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33013,
+        "aniId": 98642,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3500": {
+        "identifier": "3500",
+        "malId": 33013,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Super Lovers OVA",
+        "url": "https://animepahe.com/a/3500"
+      }
+    },
+    "YugenAnime": {
+      "15325": {
+        "identifier": "15325",
+        "malId": 33013,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Super Lovers OVA",
+        "url": "https://yugen.to/anime/15325/super-psycho-love-b38s/"
+      }
+    }
+  }
+}

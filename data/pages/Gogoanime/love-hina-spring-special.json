@@ -1,0 +1,72 @@
+{
+  "createdAt": "2021-10-31T12:35:00.000Z",
+  "updatedAt": "2021-10-31T13:04:19.000Z",
+  "checkedAt": null,
+  "id": 39145,
+  "identifier": "love-hina-spring-special",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Love Hina Spring",
+  "url": "https://gogoanime.pe/category/love-hina-spring-special",
+  "image": "https://gogocdn.net/images/love.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 192,
+  "aniId": 192,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:00.000Z",
+    "updatedAt": "2022-05-14T23:04:41.000Z",
+    "checkedAt": "2022-05-14T23:04:41.000Z",
+    "id": 192,
+    "type": "anime",
+    "title": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "altTitle": [
+      "Love Hina Spring Special",
+      "Love Hina Spring Movie",
+      "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜"
+    ],
+    "url": "https://myanimelist.net/anime/192/Love_Hina_Haru_Special__Kimi_Sakura_Chiru_Nakare",
+    "image": "https://cdn.myanimelist.net/images/anime/12/82632.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/lovehina/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=52"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=866"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 52
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:33:34.000Z",
+    "updatedAt": "2022-05-15T14:13:47.000Z",
+    "checkedAt": "2022-05-15T14:13:47.000Z",
+    "id": 192,
+    "type": "anime",
+    "title": "Love Hina: Haru Special - Kimi Sakura Chiru Nakare!!",
+    "altTitle": [
+      "Love Hina Spring Movie",
+      "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜"
+    ],
+    "url": "https://anilist.co/anime/192",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192-mEQSZUwiu2Na.jpg",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 192,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "createdAt": "2020-10-12T15:39:07.000Z",
+  "updatedAt": "2022-05-14T21:56:53.000Z",
+  "checkedAt": "2022-05-14T21:56:53.000Z",
+  "id": 10687,
+  "type": "anime",
+  "title": "Saint Seiya: Legend of Sanctuary",
+  "altTitle": [
+    "Saint Seiya (2014)",
+    "Saint Seiya (Movie)",
+    "聖闘士星矢 LEGEND of SANCTUARY"
+  ],
+  "url": "https://myanimelist.net/anime/10687/Saint_Seiya__Legend_of_Sanctuary",
+  "image": "https://cdn.myanimelist.net/images/anime/1286/93994.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.saintseiya2014.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8279"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14017"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Seiya:_Legend_of_Sanctuary"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8279,
+  "Pages": {
+    "9anime": {
+      "6369": {
+        "createdAt": "2020-10-12T15:48:32.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 197,
+        "identifier": "6369",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint Seiya: Legend of Sanctuary",
+        "url": "https://9anime.to/watch/saint-seiya-legend-of-sanctuary.6369",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6Gvg8KclVnw/WG3tfTJcc-I/AAAAAAABXAs/LYClSOCIXNE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10687,
+        "aniId": 10687,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saint-seiya-legend-of-sanctuary": {
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20381,
+        "identifier": "saint-seiya-legend-of-sanctuary",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saint Seiya: Legend of Sanctuary - Movie",
+        "url": "https://gogoanime.vc/category/saint-seiya-legend-of-sanctuary",
+        "image": "https://cdnimg.xyz/images/upload/62553.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10687,
+        "aniId": 10687,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "10687": {
+        "identifier": "10687",
+        "malId": 10687,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint Seiya: Legend of Sanctuary",
+        "url": "https://animixplay.to/anime/10687"
+      }
+    },
+    "YugenAnime": {
+      "6716": {
+        "identifier": "6716",
+        "malId": 10687,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Saint Seiya: Legend of Sanctuary",
+        "url": "https://yugen.to/anime/6716/saint-seiya-legend-of-sanctuary/"
+      }
+    }
+  }
+}

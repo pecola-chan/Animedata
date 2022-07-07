@@ -1,0 +1,48 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-15T03:06:04.000Z",
+  "checkedAt": "2022-05-15T03:06:04.000Z",
+  "id": 38957,
+  "type": "anime",
+  "title": "Shake-chan",
+  "altTitle": [
+    "Salmon-chan",
+    "シャケちゃん"
+  ],
+  "url": "https://myanimelist.net/anime/38957/Shake-chan",
+  "image": "https://cdn.myanimelist.net/images/anime/1311/103101.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9354"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 9354,
+  "Pages": {
+    "9anime": {
+      "2lx2": {
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1402,
+        "identifier": "2lx2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shake-chan",
+        "url": "https://9anime.to/watch/shake-chan.2lx2",
+        "image": "https://static.akacdn.ru/files/images/2019/06/cd0857301b18d219cd95690e700f1317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38957,
+        "aniId": 21654,
+        "deletedAt": null
+      }
+    }
+  }
+}

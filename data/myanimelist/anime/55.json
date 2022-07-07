@@ -1,0 +1,139 @@
+{
+  "createdAt": "2020-10-12T15:37:58.000Z",
+  "updatedAt": "2022-05-14T16:40:38.000Z",
+  "checkedAt": "2022-05-14T16:40:38.000Z",
+  "id": 55,
+  "type": "anime",
+  "title": "Arc the Lad",
+  "altTitle": [
+    "Arc",
+    "アークザラッド"
+  ],
+  "url": "https://myanimelist.net/anime/55/Arc_the_Lad",
+  "image": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonymusic.co.jp/Animation/Arc/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=433"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=246"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Arc_the_Lad"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 433,
+  "Pages": {
+    "9anime": {
+      "20p4": {
+        "createdAt": "2020-10-12T15:49:22.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1229,
+        "identifier": "20p4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arc the Lad",
+        "url": "https://9anime.to/watch/arc-the-lad.20p4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-D31kFugPW6s/V7YjNpAbX1I/AAAAAAAA4Dk/BTJvqAEfSSQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 55,
+        "aniId": 55,
+        "deletedAt": null
+      },
+      "3k46": {
+        "createdAt": "2020-10-12T15:49:45.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1789,
+        "identifier": "3k46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Arc the Lad (Dub)",
+        "url": "https://9anime.to/watch/arc-the-lad-dub.3k46",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oXKBCHVsI0w/WILelpLgHHI/AAAAAAABafU/U9Wwp84ckgU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 55,
+        "aniId": 55,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "arc-the-lad-dub": {
+        "createdAt": "2021-01-12T19:22:11.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "checkedAt": null,
+        "id": 33563,
+        "identifier": "arc-the-lad-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Arc the Lad (Dub)",
+        "url": "https://gogoanime.vc/category/arc-the-lad-dub",
+        "image": "https://gogocdn.net/cover/arc-the-lad-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 55,
+        "aniId": 55,
+        "deletedAt": null
+      },
+      "arc-the-lad": {
+        "createdAt": "2021-07-23T10:33:49.000Z",
+        "updatedAt": "2021-07-23T10:51:33.000Z",
+        "checkedAt": null,
+        "id": 37984,
+        "identifier": "arc-the-lad",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Arc the Lad",
+        "url": "https://gogoanime.pe/category/arc-the-lad",
+        "image": "https://gogocdn.net/cover/arc-the-lad.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 55,
+        "aniId": 55,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "55": {
+        "identifier": "55",
+        "malId": 55,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Arc the Lad",
+        "url": "https://animixplay.to/anime/55"
+      }
+    },
+    "YugenAnime": {
+      "3178": {
+        "identifier": "3178",
+        "malId": 55,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Arc the Lad",
+        "url": "https://yugen.to/anime/3178/arc-the-lad/"
+      }
+    }
+  }
+}

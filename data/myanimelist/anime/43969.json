@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-11-21T01:50:54.000Z",
+  "updatedAt": "2022-05-14T16:18:57.000Z",
+  "checkedAt": "2022-05-14T16:18:57.000Z",
+  "id": 43969,
+  "type": "anime",
+  "title": "Kanojo mo Kanojo",
+  "altTitle": [
+    "Girlfriend, Girlfriend",
+    "カノジョも彼女"
+  ],
+  "url": "https://myanimelist.net/anime/43969/Kanojo_mo_Kanojo",
+  "image": "https://cdn.myanimelist.net/images/anime/1713/117119.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kanokano-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15851"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23918"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kanojo_mo_Kanojo#Anime"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281577"
+    },
+    {
+      "site": "bahamutanimecrazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "museasia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "iqiyi",
+      "url": "https://www.iq.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15851,
+  "Pages": {
+    "9anime": {
+      "629p": {
+        "createdAt": "2021-07-02T19:04:27.000Z",
+        "updatedAt": "2022-05-16T15:14:27.000Z",
+        "checkedAt": "2022-05-16T15:14:19.000Z",
+        "id": 37605,
+        "identifier": "629p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://9anime.to/watch/girlfriend-girlfriend.629p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a2/a20a64f8704ad1cbef817e56793f1b2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43969,
+        "aniId": 126192,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kanojo-mo-kanojo": {
+        "createdAt": "2021-07-04T03:12:29.000Z",
+        "updatedAt": "2022-05-16T15:14:27.000Z",
+        "checkedAt": "2022-05-16T15:14:19.000Z",
+        "id": 37623,
+        "identifier": "kanojo-mo-kanojo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://gogoanime.sk/category/kanojo-mo-kanojo",
+        "image": "https://gogocdn.net/cover/kanojo-mo-kanojo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 43969,
+        "aniId": 126192,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4430": {
+        "identifier": "4430",
+        "malId": 43969,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://animepahe.com/a/4430"
+      }
+    },
+    "AniMixPlay": {
+      "43969": {
+        "identifier": "43969",
+        "malId": 43969,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://animixplay.to/anime/43969"
+      }
+    },
+    "YugenAnime": {
+      "7844": {
+        "identifier": "7844",
+        "malId": 43969,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://yugen.to/anime/7844/kanojo-mo-kanojo/"
+      }
+    }
+  }
+}

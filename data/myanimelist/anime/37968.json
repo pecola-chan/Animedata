@@ -1,0 +1,100 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-26T20:24:40.000Z",
+  "checkedAt": "2022-05-26T20:24:40.000Z",
+  "id": 37968,
+  "type": "anime",
+  "title": "Kirakira Happy★Hirake! Cocotama",
+  "altTitle": [
+    "キラキラハッピー★ひらけ! ここたま"
+  ],
+  "url": "https://myanimelist.net/anime/37968/Kirakira_Happy★Hirake_Cocotama",
+  "image": "https://cdn.myanimelist.net/images/anime/1742/93170.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.coco-tama.com/hirake/anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14126"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21368"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE%E3%81%BF%E3%81%AA%E3%82%89%E3%81%84_%E3%83%92%E3%83%9F%E3%83%84%E3%81%AE%E3%81%93%E3%81%93%E3%81%9F%E3%81%BE"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14126,
+  "Pages": {
+    "9anime": {
+      "rxlq": {
+        "createdAt": "2020-10-12T15:55:43.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9069,
+        "identifier": "rxlq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kirakira Happy★Hirake! Cocotama",
+        "url": "https://9anime.to/watch/kirakira-happyhirake-cocotama.rxlq",
+        "image": "https://static.akacdn.ru/static/images/2018/10/24b5e98a371b345b3a1c9d53415c0d21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37968,
+        "aniId": 102604,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kirakira-happyhirake-cocotama": {
+        "createdAt": "2020-10-12T16:01:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18868,
+        "identifier": "kirakira-happyhirake-cocotama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kirakira Happy★Hirake! Cocotama",
+        "url": "https://gogoanime.vc/category/kirakira-happyhirake-cocotama",
+        "image": "https://cdnimg.xyz/cover/kirakira-happyhirake-cocotama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37968,
+        "aniId": 102604,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "37968": {
+        "identifier": "37968",
+        "malId": 37968,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kirakira Happy★Hirake! Cocotama",
+        "url": "https://animixplay.to/anime/37968"
+      }
+    },
+    "YugenAnime": {
+      "3119": {
+        "identifier": "3119",
+        "malId": 37968,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kirakira Happy★Hirake! Cocotama",
+        "url": "https://yugen.to/anime/3119/kirakira-happyhirake-cocotama/"
+      }
+    }
+  }
+}

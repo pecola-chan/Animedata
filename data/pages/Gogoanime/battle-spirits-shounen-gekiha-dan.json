@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T15:59:57.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "checkedAt": null,
+  "id": 16753,
+  "identifier": "battle-spirits-shounen-gekiha-dan",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Battle Spirits: Shounen Gekiha Dan",
+  "url": "https://gogoanime.vc/category/battle-spirits-shounen-gekiha-dan",
+  "image": "https://cdnimg.xyz/cover/battle-spirits-shounen-gekiha-dan.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 6901,
+  "aniId": 6901,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:53.000Z",
+    "updatedAt": "2022-05-15T00:43:35.000Z",
+    "checkedAt": "2022-05-15T00:43:35.000Z",
+    "id": 6901,
+    "type": "anime",
+    "title": "Battle Spirits: Shounen Gekiha Dan",
+    "altTitle": [
+      "Battle Spirits Season 2",
+      "バトルスピリッツ 少年激覇ダン"
+    ],
+    "url": "https://myanimelist.net/anime/6901/Battle_Spirits__Shounen_Gekiha_Dan",
+    "image": "https://cdn.myanimelist.net/images/anime/6/21263.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/battlespirits2/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6978"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10969"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 6978
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:46.000Z",
+    "updatedAt": "2022-05-16T21:04:36.000Z",
+    "checkedAt": "2022-05-16T21:04:36.000Z",
+    "id": 6901,
+    "type": "anime",
+    "title": "Battle Spirits: Shounen Gekiha Dan",
+    "altTitle": [
+      "バトルスピリッツ 少年激覇ダン"
+    ],
+    "url": "https://anilist.co/anime/6901",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6901-DCQE7Lzhrvhy.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 6901,
+    "deletedAt": null
+  }
+}

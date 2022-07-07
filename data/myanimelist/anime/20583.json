@@ -1,0 +1,160 @@
+{
+  "createdAt": "2020-10-12T15:39:22.000Z",
+  "updatedAt": "2022-05-13T21:36:14.000Z",
+  "checkedAt": "2022-05-13T21:36:14.000Z",
+  "id": 20583,
+  "type": "anime",
+  "title": "Haikyuu!!",
+  "altTitle": [
+    "High Kyuu!!",
+    "HQ!!",
+    "Haikyu!!",
+    "ハイキュー!!"
+  ],
+  "url": "https://myanimelist.net/anime/20583/Haikyuu",
+  "image": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.j-haikyu.com/anime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10145"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15683"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haiky%C5%AB!!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260265"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10145,
+  "Pages": {
+    "9anime": {
+      "8mvo": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2022-02-03T13:19:33.000Z",
+        "checkedAt": null,
+        "id": 3924,
+        "identifier": "8mvo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haikyuu!! (Dub)",
+        "url": "https://9anime.to/watch/haikyu-dub.8mvo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/42f5843a27268e16787181a295f0aa9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20583,
+        "aniId": 20464,
+        "deletedAt": null
+      },
+      "rjqn": {
+        "createdAt": "2020-10-12T15:55:31.000Z",
+        "updatedAt": "2021-07-16T22:34:16.000Z",
+        "checkedAt": null,
+        "id": 8866,
+        "identifier": "rjqn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haikyuu!!",
+        "url": "https://9anime.to/watch/haikyu.rjqn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/25a21e41b94ebacc8fafa5a9238bcb3c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20583,
+        "aniId": 20464,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "haikyuu": {
+        "createdAt": "2020-10-12T16:00:38.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18098,
+        "identifier": "haikyuu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Haikyuu!!",
+        "url": "https://gogoanime.vc/category/haikyuu",
+        "image": "https://images.gogoanime.tv/images/spring/Haikyuu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20583,
+        "aniId": 20464,
+        "deletedAt": null
+      },
+      "haikyuu-dub": {
+        "createdAt": "2020-10-12T16:00:38.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18099,
+        "identifier": "haikyuu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Haikyuu!! (Dub)",
+        "url": "https://gogoanime.vc/category/haikyuu-dub",
+        "image": "https://cdnimg.xyz/cover/haikyuu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 20583,
+        "aniId": 20464,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "123": {
+        "identifier": "123",
+        "malId": 20583,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Haikyuu!!",
+        "url": "https://animepahe.com/a/123"
+      }
+    },
+    "AniMixPlay": {
+      "20583": {
+        "identifier": "20583",
+        "malId": 20583,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Haikyuu!!",
+        "url": "https://animixplay.to/anime/20583"
+      }
+    },
+    "YugenAnime": {
+      "230": {
+        "identifier": "230",
+        "malId": 20583,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Haikyuu!!",
+        "url": "https://yugen.to/anime/230/haikyuu/"
+      }
+    }
+  }
+}

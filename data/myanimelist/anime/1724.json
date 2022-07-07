@@ -1,0 +1,96 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-15T00:01:59.000Z",
+  "checkedAt": "2022-05-15T00:01:59.000Z",
+  "id": 1724,
+  "type": "anime",
+  "title": "Saint October",
+  "altTitle": [
+    "セイントオクトーバー"
+  ],
+  "url": "https://myanimelist.net/anime/1724/Saint_October",
+  "image": "https://cdn.myanimelist.net/images/anime/6/16246.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.konami.jp/visual/saintoctober/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4385"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7240"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 4385,
+  "Pages": {
+    "9anime": {
+      "l1pq": {
+        "createdAt": "2020-10-12T15:52:55.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5756,
+        "identifier": "l1pq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saint October",
+        "url": "https://9anime.to/watch/saint-october.l1pq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vKyRwe9IC-I/V8Vnn4jq15I/AAAAAAAA6g0/DW9AYgPpzuc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1724,
+        "aniId": 1724,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saint-october-": {
+        "createdAt": "2021-05-20T06:31:36.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 37072,
+        "identifier": "saint-october-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saint October ",
+        "url": "https://gogoanime.vc/category/saint-october-",
+        "image": "https://gogocdn.net/images/anime/S/saint-october.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1724,
+        "aniId": 1724,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1724": {
+        "identifier": "1724",
+        "malId": 1724,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Saint October",
+        "url": "https://animixplay.to/anime/1724"
+      }
+    },
+    "YugenAnime": {
+      "936": {
+        "identifier": "936",
+        "malId": 1724,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Saint October",
+        "url": "https://yugen.to/anime/936/saint-october/"
+      }
+    }
+  }
+}

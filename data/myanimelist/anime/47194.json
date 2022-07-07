@@ -1,0 +1,111 @@
+{
+  "createdAt": "2021-11-25T21:06:57.000Z",
+  "updatedAt": "2022-05-13T23:47:53.000Z",
+  "checkedAt": "2022-05-13T23:47:53.000Z",
+  "id": 47194,
+  "type": "anime",
+  "title": "Summertime Render",
+  "altTitle": [
+    "Summer Time Rendering",
+    "サマータイムレンダ"
+  ],
+  "url": "https://myanimelist.net/anime/47194/Summertime_Render",
+  "image": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://summertime-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16033"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24550"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Summer_Time_Rendering#Anime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 16033,
+  "Pages": {
+    "9anime": {
+      "yyjx": {
+        "createdAt": "2022-04-15T01:30:54.000Z",
+        "updatedAt": "2022-05-16T15:15:22.000Z",
+        "checkedAt": "2022-05-16T15:15:05.000Z",
+        "id": 40752,
+        "identifier": "yyjx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Summer Time Render",
+        "url": "https://9anime.to/watch/summer-time-rendering.yyjx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/16/168e50068b6740e4df530ec9a48307f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 47194,
+        "aniId": 129201,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "summertime-render": {
+        "createdAt": "2022-04-15T01:30:54.000Z",
+        "updatedAt": "2022-05-16T15:15:38.000Z",
+        "checkedAt": "2022-05-16T15:15:19.000Z",
+        "id": 40753,
+        "identifier": "summertime-render",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Summertime Render",
+        "url": "https://gogoanime.sk/category/summertime-render",
+        "image": "https://gogocdn.net/cover/summertime-render.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 47194,
+        "aniId": 129201,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4727": {
+        "identifier": "4727",
+        "malId": 47194,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Summertime Render",
+        "url": "https://animepahe.com/a/4727"
+      }
+    },
+    "AniMixPlay": {
+      "47194": {
+        "identifier": "47194",
+        "malId": 47194,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Summertime Render",
+        "url": "https://animixplay.to/anime/47194"
+      }
+    },
+    "YugenAnime": {
+      "11932": {
+        "identifier": "11932",
+        "malId": 47194,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Summertime Render",
+        "url": "https://yugen.to/anime/11932/summertime-render/"
+      }
+    }
+  }
+}

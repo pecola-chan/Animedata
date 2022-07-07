@@ -1,0 +1,76 @@
+{
+  "createdAt": "2020-10-12T15:38:53.000Z",
+  "updatedAt": "2022-05-14T22:38:23.000Z",
+  "checkedAt": "2022-05-14T22:38:23.000Z",
+  "id": 6882,
+  "type": "anime",
+  "title": "Hatsukoi Limited.: Gentei Shoujo",
+  "altTitle": [
+    "Hatsukoi Limited. Specials",
+    "Hatsukoi Limited.: Girl Limited",
+    "Hatsukoi Limited.: Shoujo Limited",
+    "First Love Limited: Limited Girl",
+    "Hatsukoi Limited Shorts",
+    "初恋限定。限定少女"
+  ],
+  "url": "https://myanimelist.net/anime/6882/Hatsukoi_Limited__Gentei_Shoujo",
+  "image": "https://cdn.myanimelist.net/images/anime/2/15991.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6323"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hatsukoi_Limited"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6323,
+  "Pages": {
+    "9anime": {
+      "1znw": {
+        "createdAt": "2020-10-12T15:49:21.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1210,
+        "identifier": "1znw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hatsukoi Limited: Gentei Shoujo",
+        "url": "https://9anime.to/watch/hatsukoi-limited-gentei-shoujo.1znw",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BmBmuJJDExo/V8ZILbx2FkI/AAAAAAAA6k8/bKEyweXxX9M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 6882,
+        "aniId": 6882,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "98": {
+        "identifier": "98",
+        "malId": 6882,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hatsukoi Limited.: Gentei Shoujo",
+        "url": "https://animepahe.com/a/98"
+      }
+    },
+    "AniMixPlay": {
+      "6882": {
+        "identifier": "6882",
+        "malId": 6882,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hatsukoi Limited.: Gentei Shoujo",
+        "url": "https://animixplay.to/anime/6882"
+      }
+    }
+  }
+}

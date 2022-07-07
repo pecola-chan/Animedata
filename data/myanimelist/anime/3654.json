@@ -1,0 +1,113 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T21:28:41.000Z",
+  "checkedAt": "2022-05-14T21:28:41.000Z",
+  "id": 3654,
+  "type": "anime",
+  "title": "Macademi Wasshoi!",
+  "altTitle": [
+    "The Magician's Academy",
+    "MA Project",
+    "Magician's Academy",
+    "まかでみWAっしょい！"
+  ],
+  "url": "https://myanimelist.net/anime/3654/Macademi_Wasshoi",
+  "image": "https://cdn.myanimelist.net/images/anime/10/74031.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.macademi.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5656"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9697"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magician's_Academy"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5656,
+  "Pages": {
+    "9anime": {
+      "909m": {
+        "createdAt": "2020-10-12T15:51:36.000Z",
+        "updatedAt": "2022-06-13T22:01:05.000Z",
+        "checkedAt": "2022-06-13T22:01:05.000Z",
+        "id": 4132,
+        "identifier": "909m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macademi Wasshoi!",
+        "url": "https://9anime.to/watch/macademi-wasshoi.909m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a6c14c8512caf5ae2d896107788ef27e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3654,
+        "aniId": 3654,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "macademi-wasshoi": {
+        "createdAt": "2020-10-12T16:01:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19197,
+        "identifier": "macademi-wasshoi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Macademi Wasshoi",
+        "url": "https://gogoanime.vc/category/macademi-wasshoi",
+        "image": "https://gogocdn.net/images/anime/M/macademi-wasshoi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3654,
+        "aniId": 3654,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1055": {
+        "identifier": "1055",
+        "malId": 3654,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Macademi Wasshoi!",
+        "url": "https://animepahe.com/a/1055"
+      }
+    },
+    "AniMixPlay": {
+      "3654": {
+        "identifier": "3654",
+        "malId": 3654,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Macademi Wasshoi!",
+        "url": "https://animixplay.to/anime/3654"
+      }
+    },
+    "YugenAnime": {
+      "4155": {
+        "identifier": "4155",
+        "malId": 3654,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Macademi Wasshoi!",
+        "url": "https://yugen.to/anime/4155/macademi-wasshoi/"
+      }
+    }
+  }
+}

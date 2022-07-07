@@ -1,0 +1,53 @@
+{
+  "createdAt": "2020-10-12T15:38:39.000Z",
+  "updatedAt": "2022-05-14T22:39:41.000Z",
+  "checkedAt": "2022-05-14T22:39:41.000Z",
+  "id": 3669,
+  "type": "anime",
+  "title": "Duel Masters Movie 1: Yami no Shiro no Maryuuou",
+  "altTitle": [
+    "Gekijouban Duel Masters: Yami no Shiro no Maryuuou [Curse of the Deathphoenix]",
+    "Duel Masters Movie 1 - Rule the Duel",
+    "劇場版デュエル・マスターズ 闇の城の魔龍凰[カース・オブ・ザ・デスフェニックス]"
+  ],
+  "url": "https://myanimelist.net/anime/3669/Duel_Masters_Movie_1__Yami_no_Shiro_no_Maryuuou",
+  "image": "https://cdn.myanimelist.net/images/anime/9/22612.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1911"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4926"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1911,
+  "Pages": {
+    "9anime": {
+      "8mon": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3920,
+        "identifier": "8mon",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Duel Masters Movie 1: Yami no Shiro no Maryuuou",
+        "url": "https://9anime.to/watch/duel-masters-movie-1-yami-no-shiro-no-maryuuou.8mon",
+        "image": "https://static.akacdn.ru/files/images/2018/04/441f7879f319fddd2cef73cfa8f750f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 3669,
+        "aniId": 3669,
+        "deletedAt": null
+      }
+    }
+  }
+}

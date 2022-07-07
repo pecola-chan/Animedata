@@ -1,0 +1,74 @@
+{
+  "createdAt": "2020-10-23T04:59:00.000Z",
+  "updatedAt": "2021-05-20T15:21:56.000Z",
+  "checkedAt": null,
+  "id": 27791,
+  "identifier": "juusenshi-gulkeeva",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Juusenshi Gulkeeva",
+  "url": "https://gogoanime.vc/category/juusenshi-gulkeeva",
+  "image": "https://gogocdn.net/cover/juusenshi-gulkeeva.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3099,
+  "aniId": 3099,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2022-05-15T07:18:14.000Z",
+    "checkedAt": "2022-05-15T07:18:14.000Z",
+    "id": 3099,
+    "type": "anime",
+    "title": "Juusenshi Gulkeeva",
+    "altTitle": [
+      "Beast Warriors Gulkeeva",
+      "Wild Knights Gulkeeva",
+      "Jusenshi Gulkeeva",
+      "獣戦士ガルキーバ"
+    ],
+    "url": "https://myanimelist.net/anime/3099/Juusenshi_Gulkeeva",
+    "image": "https://cdn.myanimelist.net/images/anime/9/52271.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3456"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=145"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%8D%A3%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%90"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 3456
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:34.000Z",
+    "updatedAt": "2022-05-15T17:17:47.000Z",
+    "checkedAt": "2022-05-15T17:17:47.000Z",
+    "id": 3099,
+    "type": "anime",
+    "title": "Juusenshi Gulkeeva",
+    "altTitle": [
+      "獣戦士ガルキーバ",
+      "Beast Warriors Gulkeeva",
+      "Wild Knights Gulkeeva"
+    ],
+    "url": "https://anilist.co/anime/3099",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3099-SLMjE3v5BQj4.png",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3099,
+    "deletedAt": null
+  }
+}

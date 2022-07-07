@@ -1,0 +1,131 @@
+{
+  "createdAt": "2020-10-12T15:40:09.000Z",
+  "updatedAt": "2022-05-13T20:05:36.000Z",
+  "checkedAt": "2022-05-13T20:05:36.000Z",
+  "id": 39555,
+  "type": "anime",
+  "title": "Baki: Dai Raitaisai-hen",
+  "altTitle": [
+    "Baki (2020)",
+    "Baki: The Great Raitai Tournament Saga",
+    "バキ"
+  ],
+  "url": "https://myanimelist.net/anime/39555/Baki__Dai_Raitaisai-hen",
+  "image": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://baki-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14772"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21976"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Baki_the_Grappler"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 14772,
+  "Pages": {
+    "9anime": {
+      "omx5": {
+        "createdAt": "2020-10-12T15:54:19.000Z",
+        "updatedAt": "2022-06-13T22:31:27.000Z",
+        "checkedAt": "2022-06-13T22:31:27.000Z",
+        "id": 7550,
+        "identifier": "omx5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baki: Dai Raitaisai-hen",
+        "url": "https://9anime.to/watch/baki-the-great-raitai-tournament-saga.omx5",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/45/451ee4fef66bf573829ab8e491ff9a9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39555,
+        "aniId": 108522,
+        "deletedAt": null
+      },
+      "ozyj": {
+        "createdAt": "2020-10-12T15:54:26.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 7760,
+        "identifier": "ozyj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baki: The Great Raitai Tournament (Dub)",
+        "url": "https://9anime.to/watch/baki-the-great-raitai-tournament-dub.ozyj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/eb/eb9c1553676145dd4462b23361090615.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39555,
+        "aniId": 108522,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "baki-2nd-season": {
+        "createdAt": "2020-10-12T15:59:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 16684,
+        "identifier": "baki-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Baki 2nd Season",
+        "url": "https://gogoanime.vc/category/baki-2nd-season",
+        "image": "https://gogocdn.net/cover/baki-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 39555,
+        "aniId": 108522,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3975": {
+        "identifier": "3975",
+        "malId": 39555,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Baki: Dai Raitaisai-hen",
+        "url": "https://animepahe.com/a/3975"
+      }
+    },
+    "AniMixPlay": {
+      "39555": {
+        "identifier": "39555",
+        "malId": 39555,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Baki: Dai Raitaisai-hen",
+        "url": "https://animixplay.to/anime/39555"
+      }
+    },
+    "YugenAnime": {
+      "4905": {
+        "identifier": "4905",
+        "malId": 39555,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Baki: Dai Raitaisai-hen",
+        "url": "https://yugen.to/anime/4905/baki-2nd-season/"
+      }
+    }
+  }
+}

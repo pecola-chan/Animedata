@@ -1,0 +1,93 @@
+{
+  "createdAt": "2020-10-12T15:39:45.000Z",
+  "updatedAt": "2022-05-14T20:53:29.000Z",
+  "checkedAt": "2022-05-14T20:53:29.000Z",
+  "id": 33247,
+  "type": "anime",
+  "title": "Tsubasa to Hotaru (2016)",
+  "altTitle": [
+    "Ribon x Oha Suta Specials",
+    "つばさとホタル"
+  ],
+  "url": "https://myanimelist.net/anime/33247/Tsubasa_to_Hotaru_2016",
+  "image": "https://cdn.myanimelist.net/images/anime/4/79960.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12109"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsubasa_to_Hotaru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12109,
+  "Pages": {
+    "9anime": {
+      "7jw68": {
+        "createdAt": "2022-05-18T19:00:13.756Z",
+        "updatedAt": "2022-05-18T19:20:00.000Z",
+        "checkedAt": "2022-05-18T19:00:13.000Z",
+        "id": 41022,
+        "identifier": "7jw68",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsubasa to Hotaru (2016)",
+        "url": "https://9anime.to/watch/tsubasa-to-hotaru-2016.7jw68",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a1/a13fb83a25cee5fdeaa66c14111568cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33247,
+        "aniId": 21808,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tsubasa-to-hotaru-2016": {
+        "createdAt": "2022-06-01T11:00:02.115Z",
+        "updatedAt": "2022-06-01T11:20:00.000Z",
+        "checkedAt": "2022-06-01T11:00:02.000Z",
+        "id": 41116,
+        "identifier": "tsubasa-to-hotaru-2016",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsubasa to Hotaru (2016)",
+        "url": "https://gogoanime.sk/category/tsubasa-to-hotaru-2016",
+        "image": "https://gogocdn.net/cover/tsubasa-to-hotaru-2016.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33247,
+        "aniId": 21808,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "33247": {
+        "identifier": "33247",
+        "malId": 33247,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsubasa to Hotaru (2016)",
+        "url": "https://animixplay.to/anime/33247"
+      }
+    },
+    "YugenAnime": {
+      "15401": {
+        "identifier": "15401",
+        "malId": 33247,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsubasa to Hotaru (2016)",
+        "url": "https://yugen.to/anime/15401/tsubasa-to-hotaru-2016/"
+      }
+    }
+  }
+}

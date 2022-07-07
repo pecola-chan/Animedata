@@ -1,0 +1,60 @@
+{
+  "createdAt": "2020-10-12T15:38:49.000Z",
+  "updatedAt": "2022-05-16T00:12:00.000Z",
+  "checkedAt": "2022-05-16T00:12:00.000Z",
+  "id": 5908,
+  "type": "anime",
+  "title": "Chinpui",
+  "altTitle": [
+    "Timpui",
+    "チンプイ"
+  ],
+  "url": "https://myanimelist.net/anime/5908/Chinpui",
+  "image": "https://cdn.myanimelist.net/images/anime/11/74871.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shin-ei-animation.jp/chinpui/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5227"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1259"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B3%E3%83%97%E3%82%A4"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5227,
+  "Pages": {
+    "9anime": {
+      "rpon": {
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8965,
+        "identifier": "rpon",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chinpui",
+        "url": "https://9anime.to/watch/chinpui.rpon",
+        "image": "https://static.akacdn.ru/files/images/2019/05/11adb807881e2dd6e18c3d87e125ad8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 5908,
+        "aniId": 5908,
+        "deletedAt": null
+      }
+    }
+  }
+}

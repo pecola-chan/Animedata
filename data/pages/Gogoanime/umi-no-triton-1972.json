@@ -1,0 +1,70 @@
+{
+  "createdAt": "2021-09-03T08:16:40.000Z",
+  "updatedAt": "2021-09-03T08:45:45.000Z",
+  "checkedAt": null,
+  "id": 38532,
+  "identifier": "umi-no-triton-1972",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Umi no Triton (1972)",
+  "url": "https://gogoanime.pe/category/umi-no-triton-1972",
+  "image": "https://gogocdn.net/cover/umi-no-triton-1972.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 7626,
+  "aniId": 7626,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:56.000Z",
+    "updatedAt": "2022-05-17T08:47:32.000Z",
+    "checkedAt": "2022-05-17T08:47:32.000Z",
+    "id": 7626,
+    "type": "anime",
+    "title": "Umi no Triton (1979)",
+    "altTitle": [
+      "Umi no Triton (Movie)",
+      "Triton of the Sea (1979)",
+      "海のトリトン (1979)"
+    ],
+    "url": "https://myanimelist.net/anime/7626/Umi_no_Triton_1979",
+    "image": "https://cdn.myanimelist.net/images/anime/13/59675.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2631"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7409"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 2631
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:38:50.000Z",
+    "updatedAt": "2022-05-17T08:47:30.000Z",
+    "checkedAt": "2022-05-17T08:47:30.000Z",
+    "id": 7626,
+    "type": "anime",
+    "title": "Umi no Triton (Movie)",
+    "altTitle": [
+      "海のトリトン (Movie)",
+      "Umi no Triton (1979)",
+      "Triton of the Sea (Movie)",
+      "Triton of the Sea (1979)"
+    ],
+    "url": "https://anilist.co/anime/7626",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7626.jpg",
+    "category": "movie",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 7626,
+    "deletedAt": null
+  }
+}

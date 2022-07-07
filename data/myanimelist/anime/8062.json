@@ -1,0 +1,77 @@
+{
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2022-05-15T01:08:17.000Z",
+  "checkedAt": "2022-05-15T01:08:17.000Z",
+  "id": 8062,
+  "type": "anime",
+  "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+  "altTitle": [
+    "Mai-HiME Bluray Special",
+    "Mai-HiME: The Black Dance/The Last Supper",
+    "舞-HiME: 黒の舞／最後の晩餐"
+  ],
+  "url": "https://myanimelist.net/anime/8062/Mai-HiME__Kuro_no_Mai_Saigo_no_Bansan",
+  "image": "https://cdn.myanimelist.net/images/anime/11/19697.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sunrise-inc.co.jp/my-hime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1554"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mai_hime"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1554,
+  "Pages": {
+    "9anime": {
+      "7ylj": {
+        "createdAt": "2020-10-12T15:51:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3651,
+        "identifier": "7ylj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+        "url": "https://9anime.to/watch/mai-hime-kuro-no-maisaigo-no-bansan.7ylj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-R5QbJrCHwM8/WEKXULqKl6I/AAAAAAABRVg/clQzJMpaviw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 8062,
+        "aniId": 8062,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3402": {
+        "identifier": "3402",
+        "malId": 8062,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+        "url": "https://animepahe.com/a/3402"
+      }
+    },
+    "AniMixPlay": {
+      "8062": {
+        "identifier": "8062",
+        "malId": 8062,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+        "url": "https://animixplay.to/anime/8062"
+      }
+    }
+  }
+}

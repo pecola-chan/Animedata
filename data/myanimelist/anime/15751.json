@@ -1,0 +1,154 @@
+{
+  "createdAt": "2020-10-12T15:39:16.000Z",
+  "updatedAt": "2022-05-14T19:51:29.000Z",
+  "checkedAt": "2022-05-14T19:51:29.000Z",
+  "id": 15751,
+  "type": "anime",
+  "title": "Senyuu.",
+  "altTitle": [
+    "Senyu.",
+    "戦勇。"
+  ],
+  "url": "https://myanimelist.net/anime/15751/Senyuu",
+  "image": "https://cdn.myanimelist.net/images/anime/6/44858.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://senyu.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9393"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14841"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/戦勇。"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-251455"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9393,
+  "Pages": {
+    "9anime": {
+      "9y0": {
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4505,
+        "identifier": "9y0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Senyuu.",
+        "url": "https://9anime.to/watch/senyuu.9y0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uSlKpvJURWc/V3JkUQaayRI/AAAAAAAAryM/cRGEAXQu6W0/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15751,
+        "aniId": 15751,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "senyuu-": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20531,
+        "identifier": "senyuu-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senyuu ",
+        "url": "https://gogoanime.vc/category/senyuu-",
+        "image": "https://images.gogoanime.tv/images/anime/S/senyuu.1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15751,
+        "aniId": 15751,
+        "deletedAt": null
+      },
+      "senyuu-2-": {
+        "createdAt": "2020-10-12T16:01:49.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20532,
+        "identifier": "senyuu-2-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senyuu 2 ",
+        "url": "https://gogoanime.vc/category/senyuu-2-",
+        "image": "https://gogocdn.net/images/anime/S/senyuu.1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15751,
+        "aniId": 15751,
+        "deletedAt": null
+      },
+      "senyuu-ova": {
+        "createdAt": "2020-11-24T15:56:03.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29562,
+        "identifier": "senyuu-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senyuu OVA",
+        "url": "https://gogoanime.vc/category/senyuu-ova",
+        "image": "https://gogocdn.net/images/anime/S/senyuu.1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 15751,
+        "aniId": 15751,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "430": {
+        "identifier": "430",
+        "malId": 15751,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Senyuu.",
+        "url": "https://animepahe.com/a/430"
+      }
+    },
+    "AniMixPlay": {
+      "15751": {
+        "identifier": "15751",
+        "malId": 15751,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Senyuu.",
+        "url": "https://animixplay.to/anime/15751"
+      }
+    },
+    "YugenAnime": {
+      "1390": {
+        "identifier": "1390",
+        "malId": 15751,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Senyuu.",
+        "url": "https://yugen.to/anime/1390/senyuu/"
+      }
+    }
+  }
+}

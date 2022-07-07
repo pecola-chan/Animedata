@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T21:45:05.000Z",
+  "checkedAt": "2022-05-14T21:45:05.000Z",
+  "id": 9774,
+  "type": "anime",
+  "title": "Morita-san wa Mukuchi",
+  "altTitle": [
+    "Miss Morita is Taciturn",
+    "森田さんは無口"
+  ],
+  "url": "https://myanimelist.net/anime/9774/Morita-san_wa_Mukuchi",
+  "image": "https://cdn.myanimelist.net/images/anime/12/29056.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.takeshobo.co.jp/sp/moritasan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8060"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12135"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/森田さんは無口"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8060,
+  "Pages": {
+    "9anime": {
+      "8mjn": {
+        "createdAt": "2020-10-12T15:51:29.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3915,
+        "identifier": "8mjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Morita-san wa Mukuchi",
+        "url": "https://9anime.to/watch/morita-san-wa-mukuchi.8mjn",
+        "image": "https://static.akacdn.ru/static/images/2018/04/ff65994cf992b930e6a07bf30e3e63cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9774,
+        "aniId": 9774,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "morita-san-wa-mukuchi": {
+        "createdAt": "2020-10-12T16:01:20.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19551,
+        "identifier": "morita-san-wa-mukuchi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Morita-san wa Mukuchi",
+        "url": "https://gogoanime.vc/category/morita-san-wa-mukuchi",
+        "image": "https://cdnimg.xyz/images/anime/M/morita-san-wa-mukuchi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9774,
+        "aniId": 9774,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9774": {
+        "identifier": "9774",
+        "malId": 9774,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Morita-san wa Mukuchi",
+        "url": "https://animixplay.to/anime/9774"
+      }
+    },
+    "YugenAnime": {
+      "3459": {
+        "identifier": "3459",
+        "malId": 9774,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Morita-san wa Mukuchi",
+        "url": "https://yugen.to/anime/3459/morita-san-wa-mukuchi/"
+      }
+    }
+  }
+}

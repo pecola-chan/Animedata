@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:15.000Z",
+  "updatedAt": "2022-05-14T16:28:45.000Z",
+  "checkedAt": "2022-05-14T16:28:45.000Z",
+  "id": 14833,
+  "type": "anime",
+  "title": "Maoyuu Maou Yuusha",
+  "altTitle": [
+    "Maoyu Maou Yusha",
+    "Maoyu ~ Archenemy & Hero",
+    "まおゆう魔王勇者"
+  ],
+  "url": "https://myanimelist.net/anime/14833/Maoyuu_Maou_Yuusha",
+  "image": "https://cdn.myanimelist.net/images/anime/4/46041.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://maoyu.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9287"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14425"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%8A%E3%82%86%E3%81%86%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-251493"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9287,
+  "Pages": {
+    "9anime": {
+      "94m": {
+        "createdAt": "2020-10-12T15:51:44.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4207,
+        "identifier": "94m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maoyuu Maou Yuusha",
+        "url": "https://9anime.to/watch/maoyuu-maou-yuusha.94m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-fMLFNXEkvSg/V3wkxEl5H_I/AAAAAAAAtj4/oJAFfVPSqDU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14833,
+        "aniId": 14833,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "maoyuu-maou-yuusha": {
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19344,
+        "identifier": "maoyuu-maou-yuusha",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maoyuu Maou Yuusha",
+        "url": "https://gogoanime.vc/category/maoyuu-maou-yuusha",
+        "image": "https://images.gogoanime.tv/images/anime/M/240xNxmaoyuu_maou_yuusha.jpg.pagespeed.ic.W3rIWmyhyv.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14833,
+        "aniId": 14833,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "205": {
+        "identifier": "205",
+        "malId": 14833,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Maoyuu Maou Yuusha",
+        "url": "https://animepahe.com/a/205"
+      }
+    },
+    "AniMixPlay": {
+      "14833": {
+        "identifier": "14833",
+        "malId": 14833,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Maoyuu Maou Yuusha",
+        "url": "https://animixplay.to/anime/14833"
+      }
+    },
+    "YugenAnime": {
+      "3027": {
+        "identifier": "3027",
+        "malId": 14833,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Maoyuu Maou Yuusha",
+        "url": "https://yugen.to/anime/3027/maoyuu-maou-yuusha/"
+      }
+    }
+  }
+}

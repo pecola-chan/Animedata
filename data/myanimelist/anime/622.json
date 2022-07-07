@@ -1,0 +1,62 @@
+{
+  "createdAt": "2020-10-12T15:38:06.000Z",
+  "updatedAt": "2022-05-13T23:22:20.000Z",
+  "checkedAt": "2022-05-13T23:22:20.000Z",
+  "id": 622,
+  "type": "anime",
+  "title": "Natsu-iro no Sunadokei",
+  "altTitle": [
+    "Hourglass of Summer Colours",
+    "Natsuiro no Sunadokei",
+    "Sandglass of Summer Colors",
+    "夏色の砂時計"
+  ],
+  "url": "https://myanimelist.net/anime/622/Natsu-iro_no_Sunadokei",
+  "image": "https://cdn.myanimelist.net/images/anime/12/75239.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oaks-soft.co.jp/princess-soft/natsu_ova1.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1953"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3976"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hourglass_of_Summer"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1953,
+  "Pages": {
+    "9anime": {
+      "4xwm": {
+        "createdAt": "2020-10-12T15:50:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2436,
+        "identifier": "4xwm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Natsu-iro no Sunadokei",
+        "url": "https://9anime.to/watch/natsu-iro-no-sunadokei.4xwm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-lz13VvzP8cw/V9zsSshI8NI/AAAAAAAA-lI/SzD6cw-jeQw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 622,
+        "aniId": 622,
+        "deletedAt": null
+      }
+    }
+  }
+}

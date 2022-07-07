@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T16:46:39.000Z",
+  "checkedAt": "2022-05-14T16:46:39.000Z",
+  "id": 9611,
+  "type": "anime",
+  "title": "Aa! Megami-sama! (2011)",
+  "altTitle": [
+    "Ah! My Goddess (2011)",
+    "Oh! My Goddess (2011)",
+    "Aa! Megami-sama!: Itsumo Futari de",
+    "Aa! Megami-sama! OAD",
+    "ああっ女神さまっ"
+  ],
+  "url": "https://myanimelist.net/anime/9611/Aa_Megami-sama_2011",
+  "image": "https://cdn.myanimelist.net/images/anime/5/28569.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/megamisama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7973"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11951"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7973,
+  "Pages": {
+    "9anime": {
+      "j2q8": {
+        "createdAt": "2020-10-12T15:52:02.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4638,
+        "identifier": "j2q8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aa! Megami-sama! (2011)",
+        "url": "https://9anime.to/watch/aa-megami-sama-2011.j2q8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3iFOv394PXQ/V7_F0boYPbI/AAAAAAAA5hs/9im6t2O8KEw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9611,
+        "aniId": 9611,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9611": {
+        "identifier": "9611",
+        "malId": 9611,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aa! Megami-sama! (2011)",
+        "url": "https://animixplay.to/anime/9611"
+      }
+    }
+  }
+}

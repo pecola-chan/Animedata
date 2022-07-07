@@ -1,0 +1,87 @@
+{
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2022-05-14T21:43:23.000Z",
+  "checkedAt": "2022-05-14T21:43:23.000Z",
+  "id": 37735,
+  "type": "anime",
+  "title": "Aru Zombie Shoujo no Sainan (ONA)",
+  "altTitle": [
+    "The Misfortune of a Certain Zombie Girl",
+    "Calamity of a Zombie Girl",
+    "Calamity of the Zombie Girl",
+    "あるゾンビ少女の災難"
+  ],
+  "url": "https://myanimelist.net/anime/37735/Aru_Zombie_Shoujo_no_Sainan_ONA",
+  "image": "https://cdn.myanimelist.net/images/anime/1159/93477.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zombie-girl.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9285"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20835"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Calamity_of_a_Zombie_Girl"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276733"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9285,
+  "Pages": {
+    "9anime": {
+      "5p3m": {
+        "createdAt": "2020-10-12T15:50:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2733,
+        "identifier": "5p3m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Calamity of the Zombie Girl",
+        "url": "https://9anime.to/watch/calamity-of-the-zombie-girl.5p3m",
+        "image": "http://static.akacdn.ru/static/images/2018/06/0dc30ffd53bc3c69b3065171094071ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37735,
+        "aniId": 101525,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2640": {
+        "identifier": "2640",
+        "malId": 37735,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aru Zombie Shoujo no Sainan (ONA)",
+        "url": "https://animepahe.com/a/2640"
+      }
+    },
+    "AniMixPlay": {
+      "37735": {
+        "identifier": "37735",
+        "malId": 37735,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Aru Zombie Shoujo no Sainan (ONA)",
+        "url": "https://animixplay.to/anime/37735"
+      }
+    }
+  }
+}

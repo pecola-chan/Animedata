@@ -1,0 +1,115 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T16:59:35.000Z",
+  "checkedAt": "2022-05-14T16:59:35.000Z",
+  "id": 38816,
+  "type": "anime",
+  "title": "Hello World",
+  "altTitle": [
+    "ハロー・ワールド"
+  ],
+  "url": "https://myanimelist.net/anime/38816/Hello_World",
+  "image": "https://cdn.myanimelist.net/images/anime/1147/112650.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://hello-world-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14532"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22139"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hello_World_(film)"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 14532,
+  "Pages": {
+    "9anime": {
+      "x3zv": {
+        "createdAt": "2020-10-12T15:56:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10109,
+        "identifier": "x3zv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hello World",
+        "url": "https://9anime.to/watch/hello-world.x3zv",
+        "image": "//static.9anime.to/i/cache/images/2020/04/c51ed5d3b4523475385ee5d39877e211.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38816,
+        "aniId": 106240,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hello-world": {
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18220,
+        "identifier": "hello-world",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hello World",
+        "url": "https://gogoanime.vc/category/hello-world",
+        "image": "https://gogocdn.net/cover/hello-world.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38816,
+        "aniId": 106240,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3931": {
+        "identifier": "3931",
+        "malId": 38816,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hello World",
+        "url": "https://animepahe.com/a/3931"
+      }
+    },
+    "AniMixPlay": {
+      "38816": {
+        "identifier": "38816",
+        "malId": 38816,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hello World",
+        "url": "https://animixplay.to/anime/38816"
+      }
+    },
+    "YugenAnime": {
+      "1364": {
+        "identifier": "1364",
+        "malId": 38816,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hello World",
+        "url": "https://yugen.to/anime/1364/hello-world/"
+      }
+    }
+  }
+}

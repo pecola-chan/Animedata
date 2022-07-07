@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:39:40.000Z",
+  "updatedAt": "2022-05-14T20:00:59.000Z",
+  "checkedAt": "2022-05-14T20:00:59.000Z",
+  "id": 31715,
+  "type": "anime",
+  "title": "Working!!!: Lord of the Takanashi",
+  "altTitle": [
+    "Working!!! Episode 14",
+    "WORKING!!! 第14話「ロード・オブ・ザ・小鳥遊」"
+  ],
+  "url": "https://myanimelist.net/anime/31715/Working__Lord_of_the_Takanashi",
+  "image": "https://cdn.myanimelist.net/images/anime/10/79375.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wagnaria.com/story/#story14"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10995"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16648"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Working!!"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10995,
+  "Pages": {
+    "9anime": {
+      "r61q": {
+        "createdAt": "2020-10-12T15:55:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8787,
+        "identifier": "r61q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Working!!!: Lord of the Takanashi",
+        "url": "https://9anime.to/watch/working-lord-of-the-takanashi.r61q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MNRs47Ywjmo/WG4aPn-fYwI/AAAAAAABXE0/-aFDXCnCVgA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31715,
+        "aniId": 21384,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "649": {
+        "identifier": "649",
+        "malId": 31715,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Working!!!: Lord of the Takanashi",
+        "url": "https://animepahe.com/a/649"
+      }
+    },
+    "AniMixPlay": {
+      "31715": {
+        "identifier": "31715",
+        "malId": 31715,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Working!!!: Lord of the Takanashi",
+        "url": "https://animixplay.to/anime/31715"
+      }
+    }
+  }
+}

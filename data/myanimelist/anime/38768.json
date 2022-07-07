@@ -1,0 +1,146 @@
+{
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2022-05-14T10:34:15.000Z",
+  "checkedAt": "2022-05-14T10:34:15.000Z",
+  "id": 38768,
+  "type": "anime",
+  "title": "Black Clover: Jump Festa 2018 Special",
+  "altTitle": [
+    "Black Clover: JSAF2018 Special Anime - All Mahou Kishi Kanshasai",
+    "Black Clover: The All Magic Knights Thanksgiving Festa",
+    "JSAF2018スペシャルアニメ「オール魔法騎士感謝祭」"
+  ],
+  "url": "https://myanimelist.net/anime/38768/Black_Clover__Jump_Festa_2018_Special",
+  "image": "https://cdn.myanimelist.net/images/anime/1585/96894.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bclover.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12665"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Clover"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12665,
+  "Pages": {
+    "9anime": {
+      "0l19": {
+        "createdAt": "2020-10-12T15:48:49.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 546,
+        "identifier": "0l19",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Black Clover: The All Magic Knights Thanksgiving Festa (Dub)",
+        "url": "https://9anime.to/watch/black-clover-the-all-magic-knights-thanksgiving-festa-dub.0l19",
+        "image": "https://static.akacdn.ru/static/images/2018/12/d36b287098bb2023fb2a46070c35beef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38768,
+        "aniId": 106223,
+        "deletedAt": null
+      },
+      "3o39": {
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1871,
+        "identifier": "3o39",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Black Clover: The All Magic Knights Thanksgiving Festa",
+        "url": "https://9anime.to/watch/black-clover-the-all-magic-knights-thanksgiving-festa.3o39",
+        "image": "https://static.akacdn.ru/files/images/2018/12/326133dd1203a5e2c2e24eee6ed04f85.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38768,
+        "aniId": 106223,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "black-clover-jump-festa-2018-special-dub": {
+        "createdAt": "2020-10-12T15:59:59.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16828,
+        "identifier": "black-clover-jump-festa-2018-special-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Clover: Jump Festa 2018 Special (Dub)",
+        "url": "https://gogoanime.vc/category/black-clover-jump-festa-2018-special-dub",
+        "image": "https://cdnimg.xyz/cover/black-clover-jump-festa-2018-special-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38768,
+        "aniId": 106223,
+        "deletedAt": null
+      },
+      "black-clover-jump-festa-2018-special": {
+        "createdAt": "2021-01-06T06:57:24.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 33059,
+        "identifier": "black-clover-jump-festa-2018-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Clover: Jump Festa 2018 Special",
+        "url": "https://gogoanime.vc/category/black-clover-jump-festa-2018-special",
+        "image": "https://gogocdn.net/cover/black-clover-jump-festa-2018-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 38768,
+        "aniId": 106223,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3495": {
+        "identifier": "3495",
+        "malId": 38768,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Black Clover: Jump Festa 2018 Special",
+        "url": "https://animepahe.com/a/3495"
+      }
+    },
+    "AniMixPlay": {
+      "38768": {
+        "identifier": "38768",
+        "malId": 38768,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Black Clover: Jump Festa 2018 Special",
+        "url": "https://animixplay.to/anime/38768"
+      }
+    },
+    "YugenAnime": {
+      "4809": {
+        "identifier": "4809",
+        "malId": 38768,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Black Clover: Jump Festa 2018 Special",
+        "url": "https://yugen.to/anime/4809/black-clover-jump-festa-2018-special/"
+      }
+    }
+  }
+}

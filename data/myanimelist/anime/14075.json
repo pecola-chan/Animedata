@@ -1,0 +1,136 @@
+{
+  "createdAt": "2020-10-12T15:39:14.000Z",
+  "updatedAt": "2022-05-14T16:44:25.000Z",
+  "checkedAt": "2022-05-14T16:44:25.000Z",
+  "id": 14075,
+  "type": "anime",
+  "title": "Zetsuen no Tempest",
+  "altTitle": [
+    "Zetsuen no Tempest: The Civilization Blaster",
+    "Blast of Tempest",
+    "絶園のテンペスト"
+  ],
+  "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+  "image": "https://cdn.myanimelist.net/images/anime/7/42453.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zetsuen.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9214"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14331"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Blast_of_Tempest"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-249316"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9214,
+  "Pages": {
+    "9anime": {
+      "5490": {
+        "createdAt": "2020-10-12T15:48:31.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 163,
+        "identifier": "5490",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blast of Tempest (Dub)",
+        "url": "https://9anime.to/watch/blast-of-tempest-dub.5490",
+        "image": "https://static.akacdn.ru/files/images/2020/02/21e5902beb0dbcf533a71839d1adbc4c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14075,
+        "aniId": 14075,
+        "deletedAt": null
+      },
+      "x5w": {
+        "createdAt": "2020-10-12T15:56:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10148,
+        "identifier": "x5w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zetsuen no Tempest",
+        "url": "https://9anime.to/watch/zetsuen-no-tempest.x5w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-H9y2aWdCoYc/V3-PQwQh1pI/AAAAAAAAt-U/v9O6e5nLPrw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14075,
+        "aniId": 14075,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zetsuen-no-tempest": {
+        "createdAt": "2020-10-12T16:02:22.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21671,
+        "identifier": "zetsuen-no-tempest",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Zetsuen no Tempest",
+        "url": "https://gogoanime.vc/category/zetsuen-no-tempest",
+        "image": "https://images.gogoanime.tv/images/anime/zetsuen-no-tempest.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 14075,
+        "aniId": 14075,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "229": {
+        "identifier": "229",
+        "malId": 14075,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Zetsuen no Tempest",
+        "url": "https://animepahe.com/a/229"
+      }
+    },
+    "AniMixPlay": {
+      "14075": {
+        "identifier": "14075",
+        "malId": 14075,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Zetsuen no Tempest",
+        "url": "https://animixplay.to/anime/14075"
+      }
+    },
+    "YugenAnime": {
+      "2640": {
+        "identifier": "2640",
+        "malId": 14075,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Zetsuen no Tempest",
+        "url": "https://yugen.to/anime/2640/zetsuen-no-tempest/"
+      }
+    }
+  }
+}

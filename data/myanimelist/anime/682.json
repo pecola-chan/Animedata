@@ -1,0 +1,142 @@
+{
+  "createdAt": "2020-10-12T15:38:07.000Z",
+  "updatedAt": "2022-05-14T20:44:59.000Z",
+  "checkedAt": "2022-05-14T20:44:59.000Z",
+  "id": 682,
+  "type": "anime",
+  "title": "Otogi Story Tenshi no Shippo",
+  "altTitle": [
+    "Angel's Tail",
+    "Fairy Tale Angel Tail",
+    "Angel Tails",
+    "Angel Tales",
+    "おとぎストーリー　天使のしっぽ"
+  ],
+  "url": "https://myanimelist.net/anime/682/Otogi_Story_Tenshi_no_Shippo",
+  "image": "https://cdn.myanimelist.net/images/anime/10/21092.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.wonderfarm.co.jp/shippo/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=175"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1196"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Angel_Tales"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 175,
+  "Pages": {
+    "9anime": {
+      "0q6r": {
+        "createdAt": "2020-10-12T15:48:51.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 620,
+        "identifier": "0q6r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otogi Story Tenshi no Shippo (Dub)",
+        "url": "https://9anime.to/watch/otogi-story-tenshi-no-shippo-dub.0q6r",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ZQ_0P6e8UEw/V7CwshX7SWI/AAAAAAAA3Fk/7oK-4bvZsms/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 682,
+        "aniId": 682,
+        "deletedAt": null
+      },
+      "r3pp": {
+        "createdAt": "2020-10-12T15:55:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8752,
+        "identifier": "r3pp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Otogi Story Tenshi no Shippo",
+        "url": "https://9anime.to/watch/otogi-story-tenshi-no-shippo.r3pp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-BQ3T2IuQ380/V9Q-pxncXwI/AAAAAAAA9JA/_8LhLFksAFo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 682,
+        "aniId": 682,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "angel-tales": {
+        "createdAt": "2020-11-16T10:44:52.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29276,
+        "identifier": "angel-tales",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Angel Tales",
+        "url": "https://gogoanime.vc/category/angel-tales",
+        "image": "https://gogocdn.net/images/anime/angel-tales.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 682,
+        "aniId": 682,
+        "deletedAt": null
+      },
+      "angel-tales-dub": {
+        "createdAt": "2021-09-29T04:03:03.000Z",
+        "updatedAt": "2021-09-29T04:33:02.000Z",
+        "checkedAt": null,
+        "id": 38772,
+        "identifier": "angel-tales-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Angel Tales (Dub)",
+        "url": "https://gogoanime.pe/category/angel-tales-dub",
+        "image": "https://gogocdn.net/cover/angel-tales-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 682,
+        "aniId": 682,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "682": {
+        "identifier": "682",
+        "malId": 682,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Otogi Story Tenshi no Shippo",
+        "url": "https://animixplay.to/anime/682"
+      }
+    },
+    "YugenAnime": {
+      "305": {
+        "identifier": "305",
+        "malId": 682,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Otogi Story Tenshi no Shippo",
+        "url": "https://yugen.to/anime/305/otogi-story-tenshi-no-shippo/"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "createdAt": "2020-10-12T15:39:06.000Z",
+  "updatedAt": "2022-05-15T02:22:40.000Z",
+  "checkedAt": "2022-05-15T02:22:40.000Z",
+  "id": 10497,
+  "type": "anime",
+  "title": "Hetalia World Series Specials",
+  "altTitle": [
+    "Hetalia World Series Extra Episodes",
+    "Hetalia=Fantasia",
+    "Hetalia World Series Extra Episodes",
+    "ヘタリア World Series エクストラエピソード"
+  ],
+  "url": "https://myanimelist.net/anime/10497/Hetalia_World_Series_Specials",
+  "image": "https://cdn.myanimelist.net/images/anime/13/28864.jpg",
+  "category": "Special",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hetalia.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7448"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Axis_Powers_Hetalia"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7448,
+  "Pages": {
+    "9anime": {
+      "jyzy": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5109,
+        "identifier": "jyzy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hetalia World Series Extra Episodes",
+        "url": "https://9anime.to/watch/hetalia-world-series-extra-episodes.jyzy",
+        "image": "https://static.akacdn.ru/files/images/2018/04/553676bdbf833ff7198e30c94270892d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 10497,
+        "aniId": 10497,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4053": {
+        "identifier": "4053",
+        "malId": 10497,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hetalia World Series Specials",
+        "url": "https://animepahe.com/a/4053"
+      }
+    },
+    "AniMixPlay": {
+      "10497": {
+        "identifier": "10497",
+        "malId": 10497,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hetalia World Series Specials",
+        "url": "https://animixplay.to/anime/10497"
+      }
+    }
+  }
+}

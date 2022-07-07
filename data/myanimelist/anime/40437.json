@@ -1,0 +1,96 @@
+{
+  "createdAt": "2021-02-07T05:50:02.000Z",
+  "updatedAt": "2022-06-08T10:51:14.000Z",
+  "checkedAt": "2022-06-08T10:51:14.000Z",
+  "id": 40437,
+  "type": "anime",
+  "title": "Mono no Kamisama Cocotama",
+  "altTitle": [
+    "モノのかみさま ここたま"
+  ],
+  "url": "https://myanimelist.net/anime/40437/Mono_no_Kamisama_Cocotama",
+  "image": "https://cdn.myanimelist.net/images/anime/1581/103230.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://coco-tama.com/mono/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15109"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22538"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15109,
+  "Pages": {
+    "Gogoanime": {
+      "mono-no-kamisama-cocotama": {
+        "createdAt": "2021-02-18T16:16:33.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 34943,
+        "identifier": "mono-no-kamisama-cocotama",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mono no Kamisama Cocotama",
+        "url": "https://gogoanime.vc/category/mono-no-kamisama-cocotama",
+        "image": "https://gogocdn.net/cover/mono-no-kamisama-cocotama.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40437,
+        "aniId": 112036,
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "86yn": {
+        "createdAt": "2021-03-10T10:14:17.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35569,
+        "identifier": "86yn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mono no Kamisama Cocotama",
+        "url": "https://9anime.to/watch/mono-no-kamisama-cocotama.86yn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/48/48fc644bdd4cfc46801a027451017050.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 40437,
+        "aniId": 112036,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "40437": {
+        "identifier": "40437",
+        "malId": 40437,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Mono no Kamisama Cocotama",
+        "url": "https://animixplay.to/anime/40437"
+      }
+    },
+    "YugenAnime": {
+      "7236": {
+        "identifier": "7236",
+        "malId": 40437,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Mono no Kamisama Cocotama",
+        "url": "https://yugen.to/anime/7236/mono-no-kamisama-cocotama/"
+      }
+    }
+  }
+}

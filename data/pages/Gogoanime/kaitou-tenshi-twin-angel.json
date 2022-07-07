@@ -1,0 +1,85 @@
+{
+  "createdAt": "2020-10-12T16:00:55.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18667,
+  "identifier": "kaitou-tenshi-twin-angel",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Kaitou Tenshi Twin Angel",
+  "url": "https://gogoanime.vc/category/kaitou-tenshi-twin-angel",
+  "image": "https://cdnimg.xyz/images/anime/K/Kaitou-Tenshi-Twin-Angel.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 33532,
+  "aniId": 21865,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:47.000Z",
+    "updatedAt": "2022-05-14T20:00:42.000Z",
+    "checkedAt": "2022-05-14T20:00:42.000Z",
+    "id": 33532,
+    "type": "anime",
+    "title": "Twin Angel Break",
+    "altTitle": [
+      "Kaitou Tenshi Twin Angel",
+      "Twin Angels Break",
+      "ツインエンジェルBREAK"
+    ],
+    "url": "https://myanimelist.net/anime/33532/Twin_Angel_Break",
+    "image": "https://cdn.myanimelist.net/images/anime/11/86505.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://twinangel-break.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12253"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18662"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
+    "legalLinks": [
+      {
+        "site": "crunchyroll",
+        "url": "http://www.crunchyroll.com/series-272913"
+      }
+    ],
+    "deletedAt": null,
+    "anidbId": 12253
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:09.000Z",
+    "updatedAt": "2022-05-15T15:25:35.000Z",
+    "checkedAt": "2022-05-15T15:25:35.000Z",
+    "id": 21865,
+    "type": "anime",
+    "title": "Twin Angel Break",
+    "altTitle": [
+      "ツインエンジェルBreak"
+    ],
+    "url": "https://anilist.co/anime/21865",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21865-F4OmEzHSkVJK.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/twin-angels-break"
+      }
+    ],
+    "malId": 33532,
+    "deletedAt": null
+  }
+}

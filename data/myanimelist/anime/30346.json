@@ -1,0 +1,111 @@
+{
+  "createdAt": "2020-10-12T15:39:35.000Z",
+  "updatedAt": "2022-05-14T20:10:23.000Z",
+  "checkedAt": "2022-05-14T20:10:22.000Z",
+  "id": 30346,
+  "type": "anime",
+  "title": "Doukyuusei (Movie)",
+  "altTitle": [
+    "Doukyusei -Classmates-",
+    "同級生"
+  ],
+  "url": "https://myanimelist.net/anime/30346/Doukyuusei_Movie",
+  "image": "https://cdn.myanimelist.net/images/anime/3/78606.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dou-kyu-sei.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11134"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16977"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%90%8C%E7%B4%9A%E7%94%9F_(%E4%B8%AD%E6%9D%91%E6%98%8E%E6%97%A5%E7%BE%8E%E5%AD%90%E3%81%AE%E6%BC%AB%E7%94%BB)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11134,
+  "Pages": {
+    "9anime": {
+      "0309": {
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 338,
+        "identifier": "0309",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doukyuusei (Movie)",
+        "url": "https://9anime.to/watch/doukyuusei-movie.0309",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-IZlHuyc7Aus/WFvfJoqGlNI/AAAAAAABUNE/ozSxtpA2XSA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30346,
+        "aniId": 21096,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "doukyuusei": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17436,
+        "identifier": "doukyuusei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Doukyuusei",
+        "url": "https://gogoanime.vc/category/doukyuusei",
+        "image": "https://cdnimg.xyz/cover/doukyuusei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30346,
+        "aniId": 21096,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4501": {
+        "identifier": "4501",
+        "malId": 30346,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Doukyuusei (Movie)",
+        "url": "https://animepahe.com/a/4501"
+      }
+    },
+    "AniMixPlay": {
+      "30346": {
+        "identifier": "30346",
+        "malId": 30346,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Doukyuusei (Movie)",
+        "url": "https://animixplay.to/anime/30346"
+      }
+    },
+    "YugenAnime": {
+      "1128": {
+        "identifier": "1128",
+        "malId": 30346,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Doukyuusei (Movie)",
+        "url": "https://yugen.to/anime/1128/doukyuusei-movie/"
+      }
+    }
+  }
+}

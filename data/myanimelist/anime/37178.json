@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-14T19:45:11.000Z",
+  "checkedAt": "2022-05-14T19:45:11.000Z",
+  "id": 37178,
+  "type": "anime",
+  "title": "Kiratto Pri☆chan",
+  "altTitle": [
+    "Kiratto Pri-chan",
+    "キラッとプリ☆チャン"
+  ],
+  "url": "https://myanimelist.net/anime/37178/Kiratto_Pri☆chan",
+  "image": "https://cdn.myanimelist.net/images/anime/1628/95071.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/prichan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13752"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20580"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kiratto_Pri_Chan"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280429"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13752,
+  "Pages": {
+    "9anime": {
+      "kz0v": {
+        "createdAt": "2020-10-12T15:52:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5691,
+        "identifier": "kz0v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kiratto Pri☆chan",
+        "url": "https://9anime.to/watch/kiratto-prichan.kz0v",
+        "image": "http://static.akacdn.ru/static/images/2018/02/bb5ddbd4c49448b537f30468ffec650c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37178,
+        "aniId": 101097,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kiratto-prichan": {
+        "createdAt": "2020-10-12T16:01:00.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18870,
+        "identifier": "kiratto-prichan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kiratto Pri☆chan",
+        "url": "https://gogoanime.vc/category/kiratto-prichan",
+        "image": "https://images.gogoanime.tv/cover/kiratto-prichan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37178,
+        "aniId": 101097,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2555": {
+        "identifier": "2555",
+        "malId": 37178,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kiratto Pri☆chan",
+        "url": "https://animepahe.com/a/2555"
+      }
+    },
+    "AniMixPlay": {
+      "37178": {
+        "identifier": "37178",
+        "malId": 37178,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kiratto Pri☆chan",
+        "url": "https://animixplay.to/anime/37178"
+      }
+    },
+    "YugenAnime": {
+      "5372": {
+        "identifier": "5372",
+        "malId": 37178,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kiratto Pri☆chan",
+        "url": "https://yugen.to/anime/5372/kiratto-prichan/"
+      }
+    }
+  }
+}

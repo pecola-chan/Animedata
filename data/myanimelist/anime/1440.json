@@ -1,0 +1,120 @@
+{
+  "createdAt": "2020-10-12T15:38:17.000Z",
+  "updatedAt": "2022-05-14T20:36:30.000Z",
+  "checkedAt": "2022-05-14T20:36:30.000Z",
+  "id": 1440,
+  "type": "anime",
+  "title": "Ninja Mono",
+  "altTitle": [
+    "Ninja Cadets",
+    "Ｎｉｎｊａ者"
+  ],
+  "url": "https://myanimelist.net/anime/1440/Ninja_Mono",
+  "image": "https://cdn.myanimelist.net/images/anime/8/62465.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-int.com/works/index.html?years=1996&?type=ova&?initial=n"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=994"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=185"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ninja_Cadets"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 994,
+  "Pages": {
+    "9anime": {
+      "4l27": {
+        "createdAt": "2020-10-12T15:50:05.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 2247,
+        "identifier": "4l27",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninja Mono",
+        "url": "https://9anime.to/watch/ninja-mono.4l27",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JRhjImecMk0/WHiGcT_30uI/AAAAAAABZBc/5rAKqd9mhZs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1440,
+        "aniId": 1440,
+        "deletedAt": null
+      },
+      "m8vp": {
+        "createdAt": "2020-10-12T15:53:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6509,
+        "identifier": "m8vp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninja Mono (Dub)",
+        "url": "https://9anime.to/watch/ninja-mono-dub.m8vp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tNwo0WUixD0/WHjfnj-c4wI/AAAAAAABZHE/mB94WeiyGMc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1440,
+        "aniId": 1440,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ninja-mono": {
+        "createdAt": "2021-03-12T08:39:08.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 35650,
+        "identifier": "ninja-mono",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ninja Mono",
+        "url": "https://gogoanime.vc/category/ninja-mono",
+        "image": "https://gogocdn.net/cover/ninja-mono.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1440,
+        "aniId": 1440,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "1440": {
+        "identifier": "1440",
+        "malId": 1440,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ninja Mono",
+        "url": "https://animixplay.to/anime/1440"
+      }
+    },
+    "YugenAnime": {
+      "912": {
+        "identifier": "912",
+        "malId": 1440,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ninja Mono",
+        "url": "https://yugen.to/anime/912/ninja-scroll/"
+      }
+    }
+  }
+}

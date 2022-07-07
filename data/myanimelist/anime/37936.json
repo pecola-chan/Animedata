@@ -1,0 +1,125 @@
+{
+  "createdAt": "2020-10-12T15:40:03.000Z",
+  "updatedAt": "2022-05-14T16:51:11.000Z",
+  "checkedAt": "2022-05-14T16:51:11.000Z",
+  "id": 37936,
+  "type": "anime",
+  "title": "Wu Shan Wu Xing (2020)",
+  "altTitle": [
+    "Wushan Wuxing",
+    "Fog Hill of the Five Elements",
+    "Five Elements in the Misty Mountain",
+    "Fog Hill of Five Elements",
+    "雾山五行"
+  ],
+  "url": "https://myanimelist.net/anime/37936/Wu_Shan_Wu_Xing_2020",
+  "image": "https://cdn.myanimelist.net/images/anime/1141/112764.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.bilibili.com/bangumi/media/md28228714/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15663"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 15663,
+  "Pages": {
+    "9anime": {
+      "01z5": {
+        "createdAt": "2020-10-12T15:48:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 404,
+        "identifier": "01z5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wu Shan Wu Xing",
+        "url": "https://9anime.to/watch/fog-hill-of-five-elements.01z5",
+        "image": "//static.9anime.to/i/cache/images/2020/07/e9e0cccdb647bdc9261a35ded6a47044.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 1,
+        "malId": 37936,
+        "aniId": 107069,
+        "deletedAt": null
+      },
+      "kppw": {
+        "createdAt": "2020-10-12T15:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5575,
+        "identifier": "kppw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fog Hill of the Five Elements",
+        "url": "https://9anime.to/watch/fog-hill-of-the-five-elements.kppw",
+        "image": "https://static.akacdn.ru/files/images/2018/08/23e1b06c2e2aeeb0fa2a0fcb87444514.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37936,
+        "aniId": 107069,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wu-shan-wu-xing": {
+        "createdAt": "2020-10-12T16:02:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21457,
+        "identifier": "wu-shan-wu-xing",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wu Shan Wu Xing",
+        "url": "https://gogoanime.vc/category/wu-shan-wu-xing",
+        "image": "https://gogocdn.net/cover/wu-shan-wu-xing.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37936,
+        "aniId": 107069,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4179": {
+        "identifier": "4179",
+        "malId": 37936,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Wu Shan Wu Xing (2020)",
+        "url": "https://animepahe.com/a/4179"
+      }
+    },
+    "AniMixPlay": {
+      "37936": {
+        "identifier": "37936",
+        "malId": 37936,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Wu Shan Wu Xing (2020)",
+        "url": "https://animixplay.to/anime/37936"
+      }
+    },
+    "YugenAnime": {
+      "3685": {
+        "identifier": "3685",
+        "malId": 37936,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Wu Shan Wu Xing",
+        "url": "https://yugen.to/anime/3685/wu-shan-wu-xing/"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "createdAt": "2020-10-12T15:39:42.000Z",
+  "updatedAt": "2022-05-14T17:41:53.000Z",
+  "checkedAt": "2022-05-14T17:41:53.000Z",
+  "id": 32485,
+  "type": "anime",
+  "title": "Prison School: Mad Wax",
+  "altTitle": [
+    "Prison School OVA",
+    "Kangoku Gakuen OVA",
+    "監獄学園[プリズンスクール] マッドワックス"
+  ],
+  "url": "https://myanimelist.net/anime/32485/Prison_School__Mad_Wax",
+  "image": "https://cdn.myanimelist.net/images/anime/6/77935.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://prison-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11805"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17891"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Prison_School"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 11805,
+  "Pages": {
+    "9anime": {
+      "131x": {
+        "createdAt": "2020-10-12T15:49:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 806,
+        "identifier": "131x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Prison School OVA",
+        "url": "https://9anime.to/watch/prison-school-ova.131x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zZPAXen2lMg/WGs5eYdJ6JI/AAAAAAABWXY/hY1uyE7bWis/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 32485,
+        "aniId": 21565,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2755": {
+        "identifier": "2755",
+        "malId": 32485,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Prison School: Mad Wax",
+        "url": "https://animepahe.com/a/2755"
+      }
+    },
+    "AniMixPlay": {
+      "32485": {
+        "identifier": "32485",
+        "malId": 32485,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Prison School: Mad Wax",
+        "url": "https://animixplay.to/anime/32485"
+      }
+    },
+    "YugenAnime": {
+      "3292": {
+        "identifier": "3292",
+        "malId": 32485,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Prison School: Mad Wax",
+        "url": "https://yugen.to/anime/3292/prison-school-ova/"
+      }
+    }
+  }
+}

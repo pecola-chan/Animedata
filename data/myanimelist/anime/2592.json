@@ -1,0 +1,80 @@
+{
+  "createdAt": "2020-10-12T15:38:30.000Z",
+  "updatedAt": "2022-06-04T21:21:11.000Z",
+  "checkedAt": "2022-06-04T21:21:11.000Z",
+  "id": 2592,
+  "type": "anime",
+  "title": "Kimera",
+  "altTitle": [
+    "祈明羅"
+  ],
+  "url": "https://myanimelist.net/anime/2592/Kimera",
+  "image": "https://cdn.myanimelist.net/images/anime/2/3460.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1479"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=689"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 1479,
+  "Pages": {
+    "9anime": {
+      "vj9v": {
+        "createdAt": "2020-10-12T15:55:52.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9343,
+        "identifier": "vj9v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimera",
+        "url": "https://9anime.to/watch/kimera.vj9v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-62hHasboH1E/WFf2oj1bcUI/AAAAAAABToU/EGrD0gDKANo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2592,
+        "aniId": 2592,
+        "deletedAt": null
+      },
+      "xlvv": {
+        "createdAt": "2020-10-12T15:56:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 10291,
+        "identifier": "xlvv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimera (Dub)",
+        "url": "https://9anime.to/watch/kimera-dub.xlvv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-DetAYqiy-0A/WFgG15IunKI/AAAAAAABTpk/MqouIiXf6IE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 2592,
+        "aniId": 2592,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "2592": {
+        "identifier": "2592",
+        "malId": 2592,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kimera",
+        "url": "https://animixplay.to/anime/2592"
+      }
+    }
+  }
+}

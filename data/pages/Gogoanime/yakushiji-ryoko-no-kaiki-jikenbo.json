@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:02:17.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "checkedAt": null,
+  "id": 21498,
+  "identifier": "yakushiji-ryoko-no-kaiki-jikenbo",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Yakushiji Ryoko no Kaiki Jikenbo",
+  "url": "https://gogoanime.vc/category/yakushiji-ryoko-no-kaiki-jikenbo",
+  "image": "https://cdnimg.xyz/images/anime/Y/Yakushiji-Ryoko-no-Kaiki-Jikenbo.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3614,
+  "aniId": 3614,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:39.000Z",
+    "updatedAt": "2022-05-14T20:35:35.000Z",
+    "checkedAt": "2022-05-14T20:35:35.000Z",
+    "id": 3614,
+    "type": "anime",
+    "title": "Yakushiji Ryouko no Kaiki Jikenbo",
+    "altTitle": [
+      "Ryoko's Case File",
+      "薬師寺涼子の怪奇事件簿"
+    ],
+    "url": "https://myanimelist.net/anime/3614/Yakushiji_Ryouko_no_Kaiki_Jikenbo",
+    "image": "https://cdn.myanimelist.net/images/anime/9/75426.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.starchild.co.jp/special/yakushijiryouko/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5631"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9087"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yakushiji_Ry%C5%8Dko_no_Kaiki_Jikenbo"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 5631
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:37:26.000Z",
+    "updatedAt": "2022-05-15T16:53:23.000Z",
+    "checkedAt": "2022-05-15T16:53:23.000Z",
+    "id": 3614,
+    "type": "anime",
+    "title": "Yakushiji Ryouko no Kaiki Jikenbo",
+    "altTitle": [
+      "Ryoko's Case File",
+      "薬師寺涼子の怪奇事件簿"
+    ],
+    "url": "https://anilist.co/anime/3614",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3614-W6pFCNZcXiFX.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3614,
+    "deletedAt": null
+  }
+}

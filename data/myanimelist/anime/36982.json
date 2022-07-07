@@ -1,0 +1,118 @@
+{
+  "createdAt": "2020-10-12T15:39:59.000Z",
+  "updatedAt": "2022-05-15T00:03:59.000Z",
+  "checkedAt": "2022-05-15T00:03:59.000Z",
+  "id": 36982,
+  "type": "anime",
+  "title": "Micchiri Neko",
+  "altTitle": [
+    "MitchiriNeko",
+    "Micchiri Neko",
+    "Mitchiri Neko",
+    "みっちりねこ"
+  ],
+  "url": "https://myanimelist.net/anime/36982/Micchiri_Neko",
+  "image": "https://cdn.myanimelist.net/images/anime/7/89947.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mitchirineko-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13412"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20462"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%A3%E3%81%A1%E3%82%8A%E3%81%AD%E3%81%93"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275133"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13412,
+  "Pages": {
+    "9anime": {
+      "jyw8": {
+        "createdAt": "2020-10-12T15:52:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5105,
+        "identifier": "jyw8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Micchiri Neko",
+        "url": "https://9anime.to/watch/micchiri-neko.jyw8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nDZcEuercU4/WlOlkapZQ5I/AAAAAAAADLk/_rzzuZ9n8M0d2y3qx2Z2vUBILXIK_PcCACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36982,
+        "aniId": 100849,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "micchiri-neko": {
+        "createdAt": "2020-10-12T16:01:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19422,
+        "identifier": "micchiri-neko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Micchiri Neko",
+        "url": "https://gogoanime.vc/category/micchiri-neko",
+        "image": "https://images.gogoanime.tv/cover/micchiri-neko.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 36982,
+        "aniId": 100849,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2434": {
+        "identifier": "2434",
+        "malId": 36982,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Micchiri Neko",
+        "url": "https://animepahe.com/a/2434"
+      }
+    },
+    "AniMixPlay": {
+      "36982": {
+        "identifier": "36982",
+        "malId": 36982,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Micchiri Neko",
+        "url": "https://animixplay.to/anime/36982"
+      }
+    },
+    "YugenAnime": {
+      "779": {
+        "identifier": "779",
+        "malId": 36982,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Micchiri Neko",
+        "url": "https://yugen.to/anime/779/micchiri-neko/"
+      }
+    }
+  }
+}

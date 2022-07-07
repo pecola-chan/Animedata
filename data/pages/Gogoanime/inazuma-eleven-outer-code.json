@@ -1,0 +1,70 @@
+{
+  "createdAt": "2020-10-12T16:00:49.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 18465,
+  "identifier": "inazuma-eleven-outer-code",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Inazuma Eleven: Outer Code",
+  "url": "https://gogoanime.vc/category/inazuma-eleven-outer-code",
+  "image": "https://gogocdn.net/cover/inazuma-eleven-outer-code.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 34178,
+  "aniId": 99059,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:39:49.000Z",
+    "updatedAt": "2022-05-14T23:13:29.000Z",
+    "checkedAt": "2022-05-14T23:13:29.000Z",
+    "id": 34178,
+    "type": "anime",
+    "title": "Inazuma Eleven: Outer Code",
+    "altTitle": [
+      "イナズマイレブン アウターコード"
+    ],
+    "url": "https://myanimelist.net/anime/34178/Inazuma_Eleven__Outer_Code",
+    "image": "https://cdn.myanimelist.net/images/anime/1544/119260.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.inazuma.jp/inazuma-walker/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12452"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inazuma_Eleven"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 12452
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:43:15.000Z",
+    "updatedAt": "2022-05-15T17:24:11.000Z",
+    "checkedAt": "2022-05-15T17:24:11.000Z",
+    "id": 99059,
+    "type": "anime",
+    "title": "Inazuma Eleven: Outer Code",
+    "altTitle": [
+      "Inazuma Eleven: Outer Code",
+      "イナズマイレブン アウターコード"
+    ],
+    "url": "https://anilist.co/anime/99059",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b99059-Nn08jcAQtZKc.png",
+    "category": "ona",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 34178,
+    "deletedAt": null
+  }
+}

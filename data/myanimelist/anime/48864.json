@@ -1,0 +1,47 @@
+{
+  "createdAt": "2021-06-02T05:31:19.000Z",
+  "updatedAt": "2022-06-12T04:12:15.000Z",
+  "checkedAt": "2022-06-12T04:12:15.000Z",
+  "id": 48864,
+  "type": "anime",
+  "title": "Ndaho Kekkon Omedetou!!",
+  "altTitle": [
+    "ンダホ結婚おめでとう！！"
+  ],
+  "url": "https://myanimelist.net/anime/48864/Ndaho_Kekkon_Omedetou",
+  "image": "https://cdn.myanimelist.net/images/anime/1130/114687.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://youtu.be/wEiAbQvUvxA"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "llprn": {
+        "createdAt": "2021-06-10T20:08:34.000Z",
+        "updatedAt": "2021-07-13T17:50:49.000Z",
+        "checkedAt": null,
+        "id": 37312,
+        "identifier": "llprn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ndaho Kekkon Omedetou!!",
+        "url": "https://9anime.to/watch/ndaho-kekkon-omedetou.llprn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/44/44db8099929060529341823564bc7d94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 48864,
+        "aniId": 136646,
+        "deletedAt": null
+      }
+    }
+  }
+}

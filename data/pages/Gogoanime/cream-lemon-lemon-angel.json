@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T16:00:10.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17188,
+  "identifier": "cream-lemon-lemon-angel",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Cream Lemon: Lemon Angel",
+  "url": "https://gogoanime.vc/category/cream-lemon-lemon-angel",
+  "image": "https://cdnimg.xyz/cover/cream-lemon-lemon-angel.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 3205,
+  "aniId": 3205,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:36.000Z",
+    "updatedAt": "2022-05-14T23:40:08.000Z",
+    "checkedAt": "2022-05-14T23:40:08.000Z",
+    "id": 3205,
+    "type": "anime",
+    "title": "Cream Lemon: Lemon Angel",
+    "altTitle": [
+      "Lemon Angel",
+      "くりぃむレモン レモンエンジェル"
+    ],
+    "url": "https://myanimelist.net/anime/3205/Cream_Lemon__Lemon_Angel",
+    "image": "https://cdn.myanimelist.net/images/anime/1639/95857.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4210"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=381"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cream_Lemon"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 4210
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:36.000Z",
+    "updatedAt": "2022-05-15T14:17:59.000Z",
+    "checkedAt": "2022-05-15T14:17:59.000Z",
+    "id": 3205,
+    "type": "anime",
+    "title": "Cream Lemon: Lemon Angel",
+    "altTitle": [
+      "Lemon Angel",
+      "りぃむレモン　レモンエンジェル"
+    ],
+    "url": "https://anilist.co/anime/3205",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3205-ka64ihA9wHpb.png",
+    "category": "tv_short",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 3205,
+    "deletedAt": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "createdAt": "2020-10-12T15:38:20.000Z",
+  "updatedAt": "2022-05-13T23:28:16.000Z",
+  "checkedAt": "2022-05-13T23:28:16.000Z",
+  "id": 1690,
+  "type": "anime",
+  "title": "Bokura no",
+  "altTitle": [
+    "Bokurano: Ours",
+    "Bokurano",
+    "ぼくらの"
+  ],
+  "url": "https://myanimelist.net/anime/1690/Bokura_no",
+  "image": "https://cdn.myanimelist.net/images/anime/1690/97048.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bokurano.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4861"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7213"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bokurano"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269423"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 4861,
+  "Pages": {
+    "9anime": {
+      "q4n": {
+        "createdAt": "2020-10-12T15:55:02.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8299,
+        "identifier": "q4n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bokurano",
+        "url": "https://9anime.to/watch/bokurano.q4n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-l_ow2A3Q_qg/V4db2z7wzfI/AAAAAAAAvYc/cOkfki5vgM8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1690,
+        "aniId": 1690,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bokurano": {
+        "createdAt": "2020-10-12T16:00:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 16912,
+        "identifier": "bokurano",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bokurano",
+        "url": "https://gogoanime.vc/category/bokurano",
+        "image": "https://gogocdn.net/images/anime/B/bokurano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1690,
+        "aniId": 1690,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4156": {
+        "identifier": "4156",
+        "malId": 1690,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bokura no",
+        "url": "https://animepahe.com/a/4156"
+      }
+    },
+    "AniMixPlay": {
+      "1690": {
+        "identifier": "1690",
+        "malId": 1690,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Bokura no",
+        "url": "https://animixplay.to/anime/1690"
+      }
+    },
+    "YugenAnime": {
+      "689": {
+        "identifier": "689",
+        "malId": 1690,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Bokura no",
+        "url": "https://yugen.to/anime/689/bokurano/"
+      }
+    }
+  }
+}

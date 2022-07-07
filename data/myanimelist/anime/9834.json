@@ -1,0 +1,148 @@
+{
+  "createdAt": "2020-10-12T15:39:03.000Z",
+  "updatedAt": "2022-05-14T16:37:27.000Z",
+  "checkedAt": "2022-05-14T16:37:27.000Z",
+  "id": 9834,
+  "type": "anime",
+  "title": "Level E",
+  "altTitle": [
+    "Level E",
+    "レベルE"
+  ],
+  "url": "https://myanimelist.net/anime/9834/Level_E",
+  "image": "https://cdn.myanimelist.net/images/anime/4/29668.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tv-tokyo.co.jp/anime/level-e/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8057"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12157"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Level_E"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-224791"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/level-e"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 8057,
+  "Pages": {
+    "9anime": {
+      "925q": {
+        "createdAt": "2020-10-12T15:51:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4163,
+        "identifier": "925q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Level E",
+        "url": "https://9anime.to/watch/level-e.925q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-iHyt2jBNaDw/V6cOzJNzQvI/AAAAAAAA1BE/X_6bk6XtLbE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9834,
+        "aniId": 9834,
+        "deletedAt": null
+      },
+      "mzx7": {
+        "createdAt": "2020-10-12T15:53:40.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 6856,
+        "identifier": "mzx7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Level E (Dub)",
+        "url": "https://9anime.to/watch/level-e-dub.mzx7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-X5hfRhwljDA/V_6Nw2XEixI/AAAAAAABHCc/ANr1982-SnY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9834,
+        "aniId": 9834,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "level-e": {
+        "createdAt": "2020-10-12T16:01:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19093,
+        "identifier": "level-e",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Level E",
+        "url": "https://gogoanime.vc/category/level-e",
+        "image": "https://cdnimg.xyz/images/anime/L/level-e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9834,
+        "aniId": 9834,
+        "deletedAt": null
+      },
+      "level-e-dub": {
+        "createdAt": "2022-06-16T13:00:14.912Z",
+        "updatedAt": "2022-06-16T13:20:00.000Z",
+        "checkedAt": "2022-06-16T13:00:14.000Z",
+        "id": 41185,
+        "identifier": "level-e-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Level E (Dub)",
+        "url": "https://gogoanime.lu/category/level-e-dub",
+        "image": "https://gogocdn.net/cover/level-e-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9834,
+        "aniId": 9834,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9834": {
+        "identifier": "9834",
+        "malId": 9834,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Level E",
+        "url": "https://animixplay.to/anime/9834"
+      }
+    },
+    "YugenAnime": {
+      "1355": {
+        "identifier": "1355",
+        "malId": 9834,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Level E",
+        "url": "https://yugen.to/anime/1355/level-e/"
+      }
+    }
+  }
+}

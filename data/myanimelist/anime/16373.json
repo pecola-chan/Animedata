@@ -1,0 +1,59 @@
+{
+  "createdAt": "2020-10-12T15:39:17.000Z",
+  "updatedAt": "2022-01-06T14:19:02.000Z",
+  "checkedAt": null,
+  "id": 16373,
+  "type": "anime",
+  "title": "Peeping Life: The Perfect Evolution",
+  "altTitle": [
+    "Peeping Life（ピーピング・ライフ） -The Perfect Evolution-"
+  ],
+  "url": "https://myanimelist.net/anime/16373/Peeping_Life__The_Perfect_Evolution",
+  "image": "https://cdn.myanimelist.net/images/anime/12/44189.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.cwfilms.jp/peeping/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8656"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13502"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Peeping_Life"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 8656,
+  "Pages": {
+    "9anime": {
+      "l0j3": {
+        "createdAt": "2020-10-12T15:52:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5725,
+        "identifier": "l0j3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Peeping Life: The Perfect Evolution",
+        "url": "https://9anime.to/watch/peeping-life-the-perfect-evolution.l0j3",
+        "image": "https://static.akacdn.ru/files/images/2018/03/190fd0c46d867a9bd4e8a244cc2f1ef1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16373,
+        "aniId": 16373,
+        "deletedAt": null
+      }
+    }
+  }
+}

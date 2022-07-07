@@ -1,0 +1,179 @@
+{
+  "createdAt": "2020-10-12T15:39:18.000Z",
+  "updatedAt": "2022-05-14T16:52:23.000Z",
+  "checkedAt": "2022-05-14T16:52:23.000Z",
+  "id": 16782,
+  "type": "anime",
+  "title": "Kotonoha no Niwa",
+  "altTitle": [
+    "Koto no Ha no Niwa",
+    "The Garden of Kotonoha",
+    "The Garden of Words",
+    "言の葉の庭"
+  ],
+  "url": "https://myanimelist.net/anime/16782/Kotonoha_no_Niwa",
+  "image": "https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
+  "category": "Movie",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kotonohanoniwa.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9589"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14995"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kotonoha_no_Niwa"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/movies/the-garden-of-words"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 9589,
+  "Pages": {
+    "9anime": {
+      "l38n": {
+        "createdAt": "2020-10-12T15:52:57.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 5805,
+        "identifier": "l38n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kotonoha no Niwa",
+        "url": "https://9anime.to/watch/kotonoha-no-niwa.l38n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6k4cqrVzRgc/V6C-yAe7nHI/AAAAAAAAz6I/tH6ddW_eSjs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16782,
+        "aniId": 16782,
+        "deletedAt": null
+      },
+      "v7l6": {
+        "createdAt": "2020-10-12T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9278,
+        "identifier": "v7l6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kotonoha no Niwa (Dub)",
+        "url": "https://9anime.to/watch/kotonoha-no-niwa-dub.v7l6",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-pbnBVbkLqnI/V9Jy3PyAcNI/AAAAAAAA8yE/Cou5aJmR1Q4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16782,
+        "aniId": 16782,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kotonoha-no-niwa": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18963,
+        "identifier": "kotonoha-no-niwa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kotonoha no Niwa",
+        "url": "https://gogoanime.vc/category/kotonoha-no-niwa",
+        "image": "https://cdnimg.xyz/images/anime/Kotonoha-no-Niwa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16782,
+        "aniId": 16782,
+        "deletedAt": null
+      },
+      "kotonoha-no-niwa-dub": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18964,
+        "identifier": "kotonoha-no-niwa-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kotonoha no Niwa (Dub)",
+        "url": "https://gogoanime.vc/category/kotonoha-no-niwa-dub",
+        "image": "https://gogocdn.net/cover/kotonoha-no-niwa-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16782,
+        "aniId": 16782,
+        "deletedAt": null
+      },
+      "the-garden-of-words-dub": {
+        "createdAt": "2020-10-12T16:02:04.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 21044,
+        "identifier": "the-garden-of-words-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Garden of Words (Dub)",
+        "url": "https://gogoanime.vc/category/the-garden-of-words-dub",
+        "image": "https://cdnimg.xyz/cover/the-garden-of-words-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 16782,
+        "aniId": 16782,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "973": {
+        "identifier": "973",
+        "malId": 16782,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kotonoha no Niwa",
+        "url": "https://animepahe.com/a/973"
+      }
+    },
+    "AniMixPlay": {
+      "16782": {
+        "identifier": "16782",
+        "malId": 16782,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kotonoha no Niwa",
+        "url": "https://animixplay.to/anime/16782"
+      }
+    },
+    "YugenAnime": {
+      "2220": {
+        "identifier": "2220",
+        "malId": 16782,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kotonoha no Niwa",
+        "url": "https://yugen.to/anime/2220/kotonoha-no-niwa/"
+      }
+    }
+  }
+}

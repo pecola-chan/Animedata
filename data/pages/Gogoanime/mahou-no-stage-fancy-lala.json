@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:01:11.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19248,
+  "identifier": "mahou-no-stage-fancy-lala",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mahou no Stage Fancy Lala",
+  "url": "https://gogoanime.vc/category/mahou-no-stage-fancy-lala",
+  "image": "https://gogocdn.net/cover/mahou-no-stage-fancy-lala.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 604,
+  "aniId": 604,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:06.000Z",
+    "updatedAt": "2022-05-14T19:46:17.000Z",
+    "checkedAt": "2022-05-14T19:46:17.000Z",
+    "id": 604,
+    "type": "anime",
+    "title": "Mahou no Stage Fancy Lala",
+    "altTitle": [
+      "Magical Stage Fancy Lala",
+      "魔法のステージ・ファンシーララ"
+    ],
+    "url": "https://myanimelist.net/anime/604/Mahou_no_Stage_Fancy_Lala",
+    "image": "https://cdn.myanimelist.net/images/anime/11/6263.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/magicgirl/cate05.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=246"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=491"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mahou_no_Stage_Fancy_Lala"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 246
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:41.000Z",
+    "updatedAt": "2022-05-15T21:24:59.000Z",
+    "checkedAt": "2022-05-15T21:24:59.000Z",
+    "id": 604,
+    "type": "anime",
+    "title": "Mahou no Stage Fancy Lala",
+    "altTitle": [
+      "Fancy Lala",
+      "魔法のステージ ファンシーララ"
+    ],
+    "url": "https://anilist.co/anime/604",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx604-gZkEfz6DBhGu.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 604,
+    "deletedAt": null
+  }
+}

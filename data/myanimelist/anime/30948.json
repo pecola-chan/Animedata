@@ -1,0 +1,101 @@
+{
+  "createdAt": "2020-10-12T15:39:37.000Z",
+  "updatedAt": "2022-05-14T18:18:23.000Z",
+  "checkedAt": "2022-05-14T18:18:23.000Z",
+  "id": 30948,
+  "type": "anime",
+  "title": "Kowabon",
+  "altTitle": [
+    "こわぼん"
+  ],
+  "url": "https://myanimelist.net/anime/30948/Kowabon",
+  "image": "https://cdn.myanimelist.net/images/anime/10/74465.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbc.co.jp/kowabon/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11284"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17206"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273317"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11284,
+  "Pages": {
+    "9anime": {
+      "30m9": {
+        "createdAt": "2020-10-12T15:49:41.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1631,
+        "identifier": "30m9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kowabon",
+        "url": "https://9anime.to/watch/kowabon.30m9",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2IulunTgnF8/V8G5Y9mV7JI/AAAAAAAA57U/AgnaKpwYmiI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30948,
+        "aniId": 21224,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kowabon": {
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18979,
+        "identifier": "kowabon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kowabon",
+        "url": "https://gogoanime.vc/category/kowabon",
+        "image": "https://cdnimg.xyz/images/upload/74465.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30948,
+        "aniId": 21224,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "30948": {
+        "identifier": "30948",
+        "malId": 30948,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Kowabon",
+        "url": "https://animixplay.to/anime/30948"
+      }
+    },
+    "YugenAnime": {
+      "15019": {
+        "identifier": "15019",
+        "malId": 30948,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Kowabon",
+        "url": "https://yugen.to/anime/15019/kowabon/"
+      }
+    }
+  }
+}

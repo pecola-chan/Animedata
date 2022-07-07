@@ -1,0 +1,51 @@
+{
+  "createdAt": "2020-10-12T15:39:10.000Z",
+  "updatedAt": "2022-05-16T20:31:36.000Z",
+  "checkedAt": "2022-05-16T20:31:36.000Z",
+  "id": 12005,
+  "type": "anime",
+  "title": "What's Michael?",
+  "altTitle": [
+    "ホワッツ　マイケル？"
+  ],
+  "url": "https://myanimelist.net/anime/12005/Whats_Michael",
+  "image": "https://cdn.myanimelist.net/images/anime/8/57369.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5946"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3336"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 5946,
+  "Pages": {
+    "9anime": {
+      "7ll6": {
+        "createdAt": "2020-10-12T15:51:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3476,
+        "identifier": "7ll6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "What's Michael?",
+        "url": "https://9anime.to/watch/whats-michael.7ll6",
+        "image": "https://static.akacdn.ru/files/images/2018/04/c4786b3621524918a2561b52a29aac12.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 12005,
+        "aniId": 12005,
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "createdAt": "2020-10-12T15:39:36.000Z",
+  "updatedAt": "2022-05-14T20:41:17.000Z",
+  "checkedAt": "2022-05-14T20:41:17.000Z",
+  "id": 30652,
+  "type": "anime",
+  "title": "Long Riders!",
+  "altTitle": [
+    "Longriders!",
+    "Long Riders!",
+    "ろんぐらいだぁす！"
+  ],
+  "url": "https://myanimelist.net/anime/30652/Long_Riders",
+  "image": "https://cdn.myanimelist.net/images/anime/3/82255.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anime-longriders.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11201"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16986"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Long_Riders!"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "hidive",
+      "url": "https://www.hidive.com/tv/long-riders"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 11201,
+  "Pages": {
+    "9anime": {
+      "lnwm": {
+        "createdAt": "2020-10-12T15:53:09.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 6124,
+        "identifier": "lnwm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Long Riders!",
+        "url": "https://9anime.to/watch/long-riders.lnwm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-s1wP4kk7jrA/V-pq51FClBI/AAAAAAABBkA/e7lv0Vn6v4M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30652,
+        "aniId": 21171,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "long-riders": {
+        "createdAt": "2020-10-12T16:01:07.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19129,
+        "identifier": "long-riders",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Long Riders!",
+        "url": "https://gogoanime.vc/category/long-riders",
+        "image": "https://cdnimg.xyz/cover/long-riders.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 30652,
+        "aniId": 21171,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1379": {
+        "identifier": "1379",
+        "malId": 30652,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Long Riders!",
+        "url": "https://animepahe.com/a/1379"
+      }
+    },
+    "AniMixPlay": {
+      "30652": {
+        "identifier": "30652",
+        "malId": 30652,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Long Riders!",
+        "url": "https://animixplay.to/anime/30652"
+      }
+    },
+    "YugenAnime": {
+      "2054": {
+        "identifier": "2054",
+        "malId": 30652,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Long Riders!",
+        "url": "https://yugen.to/anime/2054/long-riders/"
+      }
+    }
+  }
+}

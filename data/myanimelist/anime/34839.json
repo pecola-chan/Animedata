@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:51.000Z",
+  "updatedAt": "2022-05-14T16:28:44.000Z",
+  "checkedAt": "2022-05-14T16:28:44.000Z",
+  "id": 34839,
+  "type": "anime",
+  "title": "Sanrio Danshi",
+  "altTitle": [
+    "Sanrio Boys",
+    "サンリオ男子"
+  ],
+  "url": "https://myanimelist.net/anime/34839/Sanrio_Danshi",
+  "image": "https://cdn.myanimelist.net/images/anime/13/89890.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://sdan-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12781"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20015"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sanrio_Boys"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275205"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 12781,
+  "Pages": {
+    "9anime": {
+      "9rp0": {
+        "createdAt": "2020-10-12T15:51:50.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 4437,
+        "identifier": "9rp0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sanrio Danshi",
+        "url": "https://9anime.to/watch/sanrio-danshi.9rp0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RjVSZpQqdnU/WlEXIGnzJLI/AAAAAAAACwk/eIqHkJhuUeEMVUZ1Rl_OlaNIuzNYtzETQCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34839,
+        "aniId": 98217,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sanrio-danshi": {
+        "createdAt": "2020-10-12T16:01:46.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20426,
+        "identifier": "sanrio-danshi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sanrio Danshi",
+        "url": "https://gogoanime.vc/category/sanrio-danshi",
+        "image": "https://images.gogoanime.tv/cover/sanrio-danshi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 34839,
+        "aniId": 98217,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2426": {
+        "identifier": "2426",
+        "malId": 34839,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Sanrio Danshi",
+        "url": "https://animepahe.com/a/2426"
+      }
+    },
+    "AniMixPlay": {
+      "34839": {
+        "identifier": "34839",
+        "malId": 34839,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Sanrio Danshi",
+        "url": "https://animixplay.to/anime/34839"
+      }
+    },
+    "YugenAnime": {
+      "2162": {
+        "identifier": "2162",
+        "malId": 34839,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Sanrio Danshi",
+        "url": "https://yugen.to/anime/2162/sanrio-danshi/"
+      }
+    }
+  }
+}

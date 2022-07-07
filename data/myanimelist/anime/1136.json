@@ -1,0 +1,129 @@
+{
+  "createdAt": "2020-10-12T15:38:13.000Z",
+  "updatedAt": "2022-05-14T23:42:41.000Z",
+  "checkedAt": "2022-05-14T23:42:41.000Z",
+  "id": 1136,
+  "type": "anime",
+  "title": "Betterman",
+  "altTitle": [
+    "ベターマン"
+  ],
+  "url": "https://myanimelist.net/anime/1136/Betterman",
+  "image": "https://cdn.myanimelist.net/images/anime/1157/91069.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.betterman.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=745"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=350"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Betterman_(TV_series)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 745,
+  "Pages": {
+    "9anime": {
+      "2pvl": {
+        "createdAt": "2020-10-12T15:49:29.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1487,
+        "identifier": "2pvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Betterman",
+        "url": "https://9anime.to/watch/betterman.2pvl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-UyVx0kGtZ4o/V6yws4Vj32I/AAAAAAAA2YE/IBoBtclV9fs/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1136,
+        "aniId": 1136,
+        "deletedAt": null
+      },
+      "3x29": {
+        "createdAt": "2020-10-12T15:49:54.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "checkedAt": null,
+        "id": 1963,
+        "identifier": "3x29",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Betterman (Dub)",
+        "url": "https://9anime.to/watch/betterman-dub.3x29",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-7kfnYhzaesI/V-pfDXqVLrI/AAAAAAABBiM/WFluqZpLNRE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1136,
+        "aniId": 1136,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "betterman": {
+        "createdAt": "2021-07-05T23:00:03.000Z",
+        "updatedAt": "2021-07-05T23:29:50.000Z",
+        "checkedAt": null,
+        "id": 37693,
+        "identifier": "betterman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Betterman",
+        "url": "https://gogoanime.pe/category/betterman",
+        "image": "https://gogocdn.net/cover/betterman.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 1136,
+        "aniId": 1136,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2324": {
+        "identifier": "2324",
+        "malId": 1136,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Betterman",
+        "url": "https://animepahe.com/a/2324"
+      }
+    },
+    "AniMixPlay": {
+      "1136": {
+        "identifier": "1136",
+        "malId": 1136,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Betterman",
+        "url": "https://animixplay.to/anime/1136"
+      }
+    },
+    "YugenAnime": {
+      "3227": {
+        "identifier": "3227",
+        "malId": 1136,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Betterman",
+        "url": "https://yugen.to/anime/3227/betterman/"
+      }
+    }
+  }
+}

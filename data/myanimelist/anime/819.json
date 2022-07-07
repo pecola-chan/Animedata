@@ -1,0 +1,71 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-14T19:51:05.000Z",
+  "checkedAt": "2022-05-14T19:51:05.000Z",
+  "id": 819,
+  "type": "anime",
+  "title": "Boku wa Imouto ni Koi wo Suru",
+  "altTitle": [
+    "I'm My Little Sister's Secret",
+    "I'm in Love With My Little Sister",
+    "僕は妹に恋をする"
+  ],
+  "url": "https://myanimelist.net/anime/819/Boku_wa_Imouto_ni_Koi_wo_Suru",
+  "image": "https://cdn.myanimelist.net/images/anime/1/819.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comics.shogakukan.co.jp/bokuha/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3318"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5197"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Boku_wa_Im%C5%8Dto_ni_Koi_o_Suru"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 3318,
+  "Pages": {
+    "9anime": {
+      "zk4m": {
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "checkedAt": null,
+        "id": 11153,
+        "identifier": "zk4m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boku wa Imouto ni Koi wo Suru",
+        "url": "https://9anime.to/watch/boku-wa-imouto-ni-koi-wo-suru.zk4m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sVUTr1ainnM/V712hFXZqhI/AAAAAAAA5HA/cJXWZvh1BZo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 819,
+        "aniId": 819,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "819": {
+        "identifier": "819",
+        "malId": 819,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Boku wa Imouto ni Koi wo Suru",
+        "url": "https://animixplay.to/anime/819"
+      }
+    }
+  }
+}

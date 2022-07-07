@@ -1,0 +1,158 @@
+{
+  "createdAt": "2020-10-12T15:40:15.000Z",
+  "updatedAt": "2022-05-14T10:12:11.000Z",
+  "checkedAt": "2022-05-14T10:12:11.000Z",
+  "id": 41345,
+  "type": "anime",
+  "title": "Noblesse",
+  "altTitle": [
+    "노블레스",
+    "NOBLESSE -ノブレス-"
+  ],
+  "url": "https://myanimelist.net/anime/41345/Noblesse",
+  "image": "https://cdn.myanimelist.net/images/anime/1903/111646.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://noblesse-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15409"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23083"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noblesse_(manhwa)#Anime_television_series"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279998"
+    },
+    {
+      "site": "netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 15409,
+  "Pages": {
+    "9anime": {
+      "540q": {
+        "createdAt": "2020-10-12T15:50:23.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 2515,
+        "identifier": "540q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Noblesse",
+        "url": "https://9anime.to/watch/noblesse.540q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/08/4a903cb5d423f0791a392f855e6c567d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41345,
+        "aniId": 116005,
+        "deletedAt": null
+      },
+      "o2pz": {
+        "createdAt": "2020-12-09T13:46:58.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29797,
+        "identifier": "o2pz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Noblesse (Dub)",
+        "url": "https://9anime.to/watch/noblesse-dub.o2pz",
+        "image": "//static.bunnycdn.ru/i/cache/images/7/73/73ec7e084bc0c5f7c7d8b80099bbb532.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41345,
+        "aniId": 116005,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "noblesse": {
+        "createdAt": "2020-10-12T17:57:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23761,
+        "identifier": "noblesse",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Noblesse",
+        "url": "https://gogoanime.vc/category/noblesse",
+        "image": "https://gogocdn.net/cover/noblesse.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41345,
+        "aniId": 116005,
+        "deletedAt": null
+      },
+      "noblesse-dub": {
+        "createdAt": "2020-11-18T21:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "checkedAt": null,
+        "id": 29379,
+        "identifier": "noblesse-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Noblesse (Dub)",
+        "url": "https://gogoanime.vc/category/noblesse-dub",
+        "image": "https://gogocdn.net/cover/noblesse-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 41345,
+        "aniId": 116005,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4075": {
+        "identifier": "4075",
+        "malId": 41345,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Noblesse",
+        "url": "https://animepahe.com/a/4075"
+      }
+    },
+    "AniMixPlay": {
+      "41345": {
+        "identifier": "41345",
+        "malId": 41345,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Noblesse",
+        "url": "https://animixplay.to/anime/41345"
+      }
+    },
+    "YugenAnime": {
+      "6460": {
+        "identifier": "6460",
+        "malId": 41345,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Noblesse",
+        "url": "https://yugen.to/anime/6460/noblesse/"
+      }
+    }
+  }
+}

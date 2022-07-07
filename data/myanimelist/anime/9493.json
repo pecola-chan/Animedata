@@ -1,0 +1,112 @@
+{
+  "createdAt": "2020-10-12T15:39:02.000Z",
+  "updatedAt": "2022-05-14T20:23:29.000Z",
+  "checkedAt": "2022-05-14T20:23:29.000Z",
+  "id": 9493,
+  "type": "anime",
+  "title": "Dororon Enma-kun Meeramera",
+  "altTitle": [
+    "Dororon Enma-kun Me-ra Mera",
+    "Dororon Enma-kun Meramera",
+    "Ghastly Prince Enma Burning Up",
+    "Dororonえん魔くん メ〜ラめら"
+  ],
+  "url": "https://myanimelist.net/anime/9493/Dororon_Enma-kun_Meeramera",
+  "image": "https://cdn.myanimelist.net/images/anime/13/75838.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://starchild.fm/special/en/enma/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7940"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12267"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Dororonえん魔くん_メ〜ラめら#Dororon.E3.81.88.E3.82.93.E9.AD.94.E3.81.8F.E3.82.93_.E3.83.A1.E3.80.9C.E3.83.A9.E3.82.81.E3.82.89"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-252757"
+    },
+    {
+      "site": "funimation",
+      "url": "https://www.funimation.com/shows/ghastly-prince-enma-burning-up"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 7940,
+  "Pages": {
+    "9anime": {
+      "72yj": {
+        "createdAt": "2020-10-12T15:51:00.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3336,
+        "identifier": "72yj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ghastly Prince Enma Burning Up",
+        "url": "https://9anime.to/watch/ghastly-prince-enma-burning-up.72yj",
+        "image": "http://static.akacdn.ru/static/images/2018/04/35398d534e3d0e072a8c883e2eb17c18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9493,
+        "aniId": 9493,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dororon-enma-kun-meeramera": {
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 17425,
+        "identifier": "dororon-enma-kun-meeramera",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dororon Enma-kun Meeramera",
+        "url": "https://gogoanime.vc/category/dororon-enma-kun-meeramera",
+        "image": "https://cdnimg.xyz/images/anime/D/dororon-Enma-kun-Meeramera.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 9493,
+        "aniId": 9493,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "9493": {
+        "identifier": "9493",
+        "malId": 9493,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Dororon Enma-kun Meeramera",
+        "url": "https://animixplay.to/anime/9493"
+      }
+    },
+    "YugenAnime": {
+      "2770": {
+        "identifier": "2770",
+        "malId": 9493,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Dororon Enma-kun Meeramera",
+        "url": "https://yugen.to/anime/2770/dororon-enma-kun-meeramera/"
+      }
+    }
+  }
+}

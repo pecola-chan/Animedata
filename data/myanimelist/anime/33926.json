@@ -1,0 +1,110 @@
+{
+  "createdAt": "2020-10-12T15:39:48.000Z",
+  "updatedAt": "2022-05-14T09:51:44.000Z",
+  "checkedAt": "2022-05-14T09:51:44.000Z",
+  "id": 33926,
+  "type": "anime",
+  "title": "Quanzhi Gaoshou",
+  "altTitle": [
+    "Quan Zhi Gao Shou",
+    "Full-Time Expert",
+    "Expert of All Classes",
+    "The King's Avatar",
+    "全职高手"
+  ],
+  "url": "https://myanimelist.net/anime/33926/Quanzhi_Gaoshou",
+  "image": "https://cdn.myanimelist.net/images/anime/7/81892.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://v.qq.com/detail/t/ttqxo9s3cblgofl.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12560"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E5%85%A8%E8%81%B7%E9%AB%98%E6%89%8B"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 12560,
+  "Pages": {
+    "9anime": {
+      "6nx4": {
+        "createdAt": "2020-10-12T15:50:50.000Z",
+        "updatedAt": "2021-10-23T18:28:25.000Z",
+        "checkedAt": null,
+        "id": 3095,
+        "identifier": "6nx4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Quanzhi Gaoshou",
+        "url": "https://9anime.to/watch/the-kings-avatar.6nx4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/9d65cd0ef062a4c5b82abd8cd1f88116.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33926,
+        "aniId": 98861,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "quan-zhi-gao-shou": {
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 20201,
+        "identifier": "quan-zhi-gao-shou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Quan Zhi Gao Shou",
+        "url": "https://gogoanime.vc/category/quan-zhi-gao-shou",
+        "image": "https://images.gogoanime.tv/cover/quan-zhi-gao-shou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 33926,
+        "aniId": 98861,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2022": {
+        "identifier": "2022",
+        "malId": 33926,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Quanzhi Gaoshou",
+        "url": "https://animepahe.com/a/2022"
+      }
+    },
+    "AniMixPlay": {
+      "33926": {
+        "identifier": "33926",
+        "malId": 33926,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Quanzhi Gaoshou",
+        "url": "https://animixplay.to/anime/33926"
+      }
+    },
+    "YugenAnime": {
+      "3149": {
+        "identifier": "3149",
+        "malId": 33926,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Quanzhi Gaoshou",
+        "url": "https://yugen.to/anime/3149/quan-zhi-gao-shou/"
+      }
+    }
+  }
+}

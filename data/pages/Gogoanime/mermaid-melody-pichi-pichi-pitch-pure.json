@@ -1,0 +1,69 @@
+{
+  "createdAt": "2020-10-12T16:01:16.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 19413,
+  "identifier": "mermaid-melody-pichi-pichi-pitch-pure",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Mermaid Melody Pichi Pichi Pitch Pure",
+  "url": "https://gogoanime.vc/category/mermaid-melody-pichi-pichi-pitch-pure",
+  "image": "https://cdnimg.xyz/cover/mermaid-melody-pichi-pichi-pitch-pure.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 1110,
+  "aniId": 1110,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:12.000Z",
+    "updatedAt": "2022-05-14T23:10:29.000Z",
+    "checkedAt": "2022-05-14T23:10:29.000Z",
+    "id": 1110,
+    "type": "anime",
+    "title": "Mermaid Melody Pichi Pichi Pitch Pure",
+    "altTitle": [
+      "マーメイドメロディーぴちぴちピッチピュア"
+    ],
+    "url": "https://myanimelist.net/anime/1110/Mermaid_Melody_Pichi_Pichi_Pitch_Pure",
+    "image": "https://cdn.myanimelist.net/images/anime/11/9778.jpg",
+    "category": "TV",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-aichi.co.jp/pichi/index,1,0,0.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1656"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2289"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 1656
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:34:56.000Z",
+    "updatedAt": "2022-05-15T19:30:35.000Z",
+    "checkedAt": "2022-05-15T19:30:35.000Z",
+    "id": 1110,
+    "type": "anime",
+    "title": "Mermaid Melody: Pichi Pichi Pitch Pure",
+    "altTitle": [
+      "マーメイドメロディーぴちぴちピッチピュア"
+    ],
+    "url": "https://anilist.co/anime/1110",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1110-gpnHMe07kbpg.jpg",
+    "category": "tv",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 1110,
+    "deletedAt": null
+  }
+}

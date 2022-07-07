@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2022-05-14T19:30:23.000Z",
+  "checkedAt": "2022-05-14T19:30:23.000Z",
+  "id": 37481,
+  "type": "anime",
+  "title": "Ongaku Shoujo (TV)",
+  "altTitle": [
+    "Music Girls",
+    "音楽少女"
+  ],
+  "url": "https://myanimelist.net/anime/37481/Ongaku_Shoujo_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ongaku-shoujo.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13913"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20918"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%9F%B3%E6%A5%BD%E5%B0%91%E5%A5%B3"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276749"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 13913,
+  "Pages": {
+    "9anime": {
+      "77xy": {
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "checkedAt": null,
+        "id": 3388,
+        "identifier": "77xy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ongaku Shoujo (TV)",
+        "url": "https://9anime.to/watch/ongaku-shoujo-tv.77xy",
+        "image": "http://static.akacdn.ru/static/images/2018/03/ab2565dddfb141b7cba737af49dfde8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37481,
+        "aniId": 101309,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ongaku-shoujo-tv": {
+        "createdAt": "2020-10-12T16:01:30.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 19886,
+        "identifier": "ongaku-shoujo-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ongaku Shoujo (TV)",
+        "url": "https://gogoanime.vc/category/ongaku-shoujo-tv",
+        "image": "https://cdnimg.xyz/cover/ongaku-shoujo-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 37481,
+        "aniId": 101309,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2633": {
+        "identifier": "2633",
+        "malId": 37481,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ongaku Shoujo (TV)",
+        "url": "https://animepahe.com/a/2633"
+      }
+    },
+    "AniMixPlay": {
+      "37481": {
+        "identifier": "37481",
+        "malId": 37481,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Ongaku Shoujo (TV)",
+        "url": "https://animixplay.to/anime/37481"
+      }
+    },
+    "YugenAnime": {
+      "5110": {
+        "identifier": "5110",
+        "malId": 37481,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Ongaku Shoujo (TV)",
+        "url": "https://yugen.to/anime/5110/ongaku-shoujo-tv/"
+      }
+    }
+  }
+}

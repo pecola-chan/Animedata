@@ -1,0 +1,116 @@
+{
+  "createdAt": "2020-10-12T15:39:31.000Z",
+  "updatedAt": "2022-05-14T14:41:51.000Z",
+  "checkedAt": "2022-05-14T14:41:51.000Z",
+  "id": 27989,
+  "type": "anime",
+  "title": "Hibike! Euphonium",
+  "altTitle": [
+    "Sound! Euphonium",
+    "響け！ユーフォニアム"
+  ],
+  "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium",
+  "image": "https://cdn.myanimelist.net/images/anime/6/72445.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tv.anime-eupho.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10889"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16657"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound!_Euphonium"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265657"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": 10889,
+  "Pages": {
+    "9anime": {
+      "qkxn": {
+        "createdAt": "2020-10-12T15:55:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8430,
+        "identifier": "qkxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hibike! Euphonium",
+        "url": "https://9anime.to/watch/hibike-euphonium.qkxn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-wP4BkdDdtzg/V53s8qGcDOI/AAAAAAAAzSQ/9XxKyW2MEzQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27989,
+        "aniId": 20912,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hibike-euphonium": {
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "checkedAt": null,
+        "id": 18258,
+        "identifier": "hibike-euphonium",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hibike! Euphonium",
+        "url": "https://gogoanime.vc/category/hibike-euphonium",
+        "image": "https://images.gogoanime.tv/images/upload/72445.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 27989,
+        "aniId": 20912,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "195": {
+        "identifier": "195",
+        "malId": 27989,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hibike! Euphonium",
+        "url": "https://animepahe.com/a/195"
+      }
+    },
+    "AniMixPlay": {
+      "27989": {
+        "identifier": "27989",
+        "malId": 27989,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Hibike! Euphonium",
+        "url": "https://animixplay.to/anime/27989"
+      }
+    },
+    "YugenAnime": {
+      "1454": {
+        "identifier": "1454",
+        "malId": 27989,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Hibike! Euphonium",
+        "url": "https://yugen.to/anime/1454/hibike-euphonium/"
+      }
+    }
+  }
+}

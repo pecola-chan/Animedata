@@ -1,0 +1,128 @@
+{
+  "createdAt": "2020-10-12T15:38:45.000Z",
+  "updatedAt": "2022-05-14T22:38:17.000Z",
+  "checkedAt": "2022-05-14T22:38:17.000Z",
+  "id": 4938,
+  "type": "anime",
+  "title": "Tsubasa: Shunraiki",
+  "altTitle": [
+    "Tsubasa Reservoir Chronicle OVA",
+    "Tsubasa Reservoir Chronicle: Spring Thunder",
+    "Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle",
+    "ツバサ 春雷記"
+  ],
+  "url": "https://myanimelist.net/anime/4938/Tsubasa__Shunraiki",
+  "image": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/tsubaholi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6191"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10584"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 6191,
+  "Pages": {
+    "9anime": {
+      "q755": {
+        "createdAt": "2020-10-12T15:55:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 8332,
+        "identifier": "q755",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsubasa: Shunraiki",
+        "url": "https://9anime.to/watch/tsubasa-shunraiki.q755",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jKdfhiiMLew/V9bJQ3SNsII/AAAAAAAA9pM/aYND_SlUyrE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4938,
+        "aniId": 4938,
+        "deletedAt": null
+      },
+      "rrmm": {
+        "createdAt": "2020-10-12T15:55:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "checkedAt": null,
+        "id": 9005,
+        "identifier": "rrmm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsubasa: Shunraiki (Dub)",
+        "url": "https://9anime.to/watch/tsubasa-shunraiki-dub.rrmm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Nhbr3Ti_bQk/V9bJmOUGZHI/AAAAAAAA9pQ/xQlTicFVkDk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 4938,
+        "aniId": 4938,
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tsubasa-chronicle-shunraiki": {
+        "createdAt": "2021-06-02T10:31:23.000Z",
+        "updatedAt": "2021-06-21T07:20:49.000Z",
+        "checkedAt": null,
+        "id": 37171,
+        "identifier": "tsubasa-chronicle-shunraiki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsubasa Chronicle: Shunraiki OVA",
+        "url": "https://gogoanime.vc/category/tsubasa-chronicle-shunraiki",
+        "image": "https://gogocdn.net/images/anime/T/tsubasa-reservoir-chronicle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": 2,
+        "malId": 4938,
+        "aniId": 4938,
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3243": {
+        "identifier": "3243",
+        "malId": 4938,
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tsubasa: Shunraiki",
+        "url": "https://animepahe.com/a/3243"
+      }
+    },
+    "AniMixPlay": {
+      "4938": {
+        "identifier": "4938",
+        "malId": 4938,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Tsubasa: Shunraiki",
+        "url": "https://animixplay.to/anime/4938"
+      }
+    },
+    "YugenAnime": {
+      "2835": {
+        "identifier": "2835",
+        "malId": 4938,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Tsubasa: Shunraiki",
+        "url": "https://yugen.to/anime/2835/tsubasa-shunraiki/"
+      }
+    }
+  }
+}

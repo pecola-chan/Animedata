@@ -1,0 +1,55 @@
+{
+  "createdAt": "2020-10-12T15:39:00.000Z",
+  "updatedAt": "2022-05-14T16:56:02.000Z",
+  "checkedAt": "2022-05-14T16:56:02.000Z",
+  "id": 8918,
+  "type": "anime",
+  "title": "Princess Lover! OVA",
+  "altTitle": [
+    "Kimi to Isshou no Asa",
+    "プリンセスラバー! OVA"
+  ],
+  "url": "https://myanimelist.net/anime/8918/Princess_Lover_OVA",
+  "image": "https://cdn.myanimelist.net/images/anime/1967/103842.jpg",
+  "category": "OVA",
+  "hentai": true,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.el-soft.jp/plv_01/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7577"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11802"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 7577,
+  "Pages": {
+    "AniMixPlay": {
+      "8918": {
+        "identifier": "8918",
+        "malId": 8918,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Princess Lover! OVA",
+        "url": "https://animixplay.to/anime/8918"
+      }
+    },
+    "YugenAnime": {
+      "14339": {
+        "identifier": "14339",
+        "malId": 8918,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Princess Lover! OVA",
+        "url": "https://yugen.to/anime/14339/princess-lover-maidens-secret/"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "createdAt": "2021-03-29T15:30:51.000Z",
+  "updatedAt": "2022-05-14T22:16:41.000Z",
+  "checkedAt": "2022-05-14T22:16:41.000Z",
+  "id": 23023,
+  "type": "anime",
+  "title": "Peaceful Times (F02) Petit Film",
+  "altTitle": [
+    "Peaceful Times(F02)petit film"
+  ],
+  "url": "https://myanimelist.net/anime/23023/Peaceful_Times_F02_Petit_Film",
+  "image": "https://cdn.myanimelist.net/images/anime/2/84543.jpg",
+  "category": "Music",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.evangelion.co.jp/mv_pt_petit.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10279"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 10279,
+  "Pages": {
+    "9anime": {
+      "7458": {
+        "createdAt": "2021-04-06T16:44:45.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "checkedAt": null,
+        "id": 36247,
+        "identifier": "7458",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Peaceful Times (F02) Petit Film",
+        "url": "https://9anime.to/watch/peaceful-times-f02-petit-film.7458",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a1/a104831efbca356939f900a1bb437754.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 23023,
+        "aniId": 102096,
+        "deletedAt": null
+      }
+    }
+  }
+}

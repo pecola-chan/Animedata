@@ -1,0 +1,67 @@
+{
+  "createdAt": "2020-10-12T15:39:40.000Z",
+  "updatedAt": "2022-04-03T08:05:37.000Z",
+  "checkedAt": null,
+  "id": 31747,
+  "type": "anime",
+  "title": "Oshiri Kajiri Mushi (TV) 4th Season",
+  "altTitle": [
+    "Bottom Biting Bug 4",
+    "おしりかじり虫　第４シリーズ"
+  ],
+  "url": "https://myanimelist.net/anime/31747/Oshiri_Kajiri_Mushi_TV_4th_Season",
+  "image": "https://cdn.myanimelist.net/images/anime/3/76521.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/oshiri/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Oshiri_Kajiri_Mushi"
+    }
+  ],
+  "legalLinks": [
+    {
+      "site": "crunchyroll",
+      "url": "http://www.crunchyroll.com/series-249486"
+    }
+  ],
+  "deletedAt": null,
+  "anidbId": null,
+  "Pages": {
+    "9anime": {
+      "5lk0": {
+        "createdAt": "2020-10-12T19:05:37.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "checkedAt": null,
+        "id": 23866,
+        "identifier": "5lk0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oshiri Kajiri Mushi (TV) 4th Season",
+        "url": "https://9anime.to/watch/bottom-biting-bug-4.5lk0",
+        "image": "//static.9anime.to/i/cache/images/2020/08/e68ec4b8297a9ca565981567f4a3bac7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 31747,
+        "aniId": 21408,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "31747": {
+        "identifier": "31747",
+        "malId": 31747,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Oshiri Kajiri Mushi (TV) 4th Season",
+        "url": "https://animixplay.to/anime/31747"
+      }
+    }
+  }
+}

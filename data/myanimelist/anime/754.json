@@ -1,0 +1,81 @@
+{
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2022-05-14T23:55:53.000Z",
+  "checkedAt": "2022-05-14T23:55:53.000Z",
+  "id": 754,
+  "type": "anime",
+  "title": "Yuki no Joou (TV)",
+  "altTitle": [
+    "Yuki no Jo-Oh",
+    "The Snow Queen",
+    "雪の女王"
+  ],
+  "url": "https://myanimelist.net/anime/754/Yuki_no_Joou_TV",
+  "image": "https://cdn.myanimelist.net/images/anime/2/26180.jpg",
+  "category": "TV",
+  "hentai": false,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www3.nhk.or.jp/anime/snowqueen/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2828"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5363"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Snow_Queen_(anime)"
+    }
+  ],
+  "legalLinks": [],
+  "deletedAt": null,
+  "anidbId": 2828,
+  "Pages": {
+    "9anime": {
+      "nx4j": {
+        "createdAt": "2020-10-27T14:41:51.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "checkedAt": null,
+        "id": 28058,
+        "identifier": "nx4j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuki no Joou (TV)",
+        "url": "https://9anime.to/watch/the-snow-queen.nx4j",
+        "image": "//static.9anime.to/i/cache/images/2018/03/a586fc769b34a1ae159c94295828e6da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actorId": null,
+        "malId": 754,
+        "aniId": 754,
+        "deletedAt": null
+      }
+    },
+    "AniMixPlay": {
+      "754": {
+        "identifier": "754",
+        "malId": 754,
+        "type": "anime",
+        "page": "AniMixPlay",
+        "title": "Yuki no Joou (TV)",
+        "url": "https://animixplay.to/anime/754"
+      }
+    },
+    "YugenAnime": {
+      "6602": {
+        "identifier": "6602",
+        "malId": 754,
+        "type": "anime",
+        "page": "YugenAnime",
+        "title": "Yuki no Joou (TV)",
+        "url": "https://yugen.to/anime/6602/yuki-no-joou-tv/"
+      }
+    }
+  }
+}

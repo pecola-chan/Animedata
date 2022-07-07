@@ -1,0 +1,75 @@
+{
+  "createdAt": "2020-10-12T16:00:30.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "checkedAt": null,
+  "id": 17846,
+  "identifier": "ghiblies",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Ghiblies",
+  "url": "https://gogoanime.vc/category/ghiblies",
+  "image": "https://gogocdn.net/cover/ghiblies.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actorId": null,
+  "malId": 2617,
+  "aniId": 2617,
+  "deletedAt": null,
+  "Mal": {
+    "createdAt": "2020-10-12T15:38:31.000Z",
+    "updatedAt": "2022-05-15T05:15:48.000Z",
+    "checkedAt": "2022-05-15T05:15:48.000Z",
+    "id": 2617,
+    "type": "anime",
+    "title": "Ghiblies",
+    "altTitle": [
+      "ギブリーズ"
+    ],
+    "url": "https://myanimelist.net/anime/2617/Ghiblies",
+    "image": "https://cdn.myanimelist.net/images/anime/6/75924.jpg",
+    "category": "Special",
+    "hentai": false,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ghibli.jp/works/ghiblies/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=845"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4814"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Short_films_by_Studio_Ghibli#Ghiblies"
+      }
+    ],
+    "legalLinks": [],
+    "deletedAt": null,
+    "anidbId": 845
+  },
+  "Ani": {
+    "createdAt": "2021-05-20T14:36:24.000Z",
+    "updatedAt": "2022-05-15T19:36:59.000Z",
+    "checkedAt": "2022-05-15T19:36:59.000Z",
+    "id": 2617,
+    "type": "anime",
+    "title": "Ghiblies",
+    "altTitle": [
+      "the GHIBLIES",
+      "ギブリーズ",
+      "the GHIBLIES episode 2"
+    ],
+    "url": "https://anilist.co/anime/2617",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2617-bvoeo1GXXG23.png",
+    "category": "special",
+    "hentai": false,
+    "externalLinks": [],
+    "malId": 2617,
+    "deletedAt": null
+  }
+}
