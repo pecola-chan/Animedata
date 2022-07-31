@@ -1,7 +1,7 @@
 <!--statstable-->
 | Page      | Total | MalID | noMalID | AniID | noAniID |
 | --------- | ----- | ----- | ------- | ----- | ------- |
-| Gogoanime | 9678  | 9324  | 354     | 9217  | 461     |
+| Gogoanime | 9722  | 9359  | 363     | 9244  | 478     |
 <!--/statstable-->
 
 ## Index
